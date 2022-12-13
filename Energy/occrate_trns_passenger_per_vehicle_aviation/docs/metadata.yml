@@ -1,0 +1,23 @@
+
+date:        2022-07-12
+variable :
+  name : occrate_trns_passenger_per_vehicle_aviation
+  subsector :  Transportation
+  longname :  Average Passenger Vehicle Occupancy Rate
+
+
+  units: rate between 0 and 1
+
+resources:
+
+    - url:   https://www.eea.europa.eu/data-and-maps/indicators/occupancy-rates-of-passenger-vehicles/occupancy-rates-of-passenger-vehicles
+
+Last visited: 2022-07-12
+
+      descrip:   PLF is calculated by dividing Revenue Passenger Kilometers (RPK) by the Available Seat Kilometers (ASK).
+
+aditional_information:
+      assumptions: Average historical value assigned to all the countries and every year.
+
+
+

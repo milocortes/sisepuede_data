@@ -1,0 +1,18 @@
+date:        2022-25-11
+variable :
+  name : cost_enfu_fuel_coal_usd_per_m3
+  subsector :   Energy Fuels
+  longname :  Volumetric Fuel Price
+  units: USD/m^3
+
+resources:
+    - url:   https://ourworldindata.org/grapher/coal-prices
+      descrip:   2001-2021 different type of coal prices in USD/tonne
+
+aditional_information:
+      assumptions: All the countries in the region will 
+		   be assume to have the average cost of the fuel variants.
+
+		   Prediction for the next years will be the last historical value
+
+	Coal density 1346 kg/m3 => 1.346 tonn/m3 => 1 usd/tonn=1.346 usd/m3

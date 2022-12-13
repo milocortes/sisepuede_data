@@ -1,0 +1,20 @@
+date:        2012-08-06
+variable :
+  name : exports_enfu_pj_fuel_coal
+  subsector :   Energy Fuels
+  longname :  Unused Fuel Exported Coal
+  units: W/m^2
+
+resources:
+    - url:   A4786
+      descrip:   Water Bucket (Filled)
+
+    - url:   A4786
+      descrip:   Water Bucket (Filled)
+
+aditional_information:
+      assumptions: >
+            Follow the Yellow Brick
+            Road to the Emerald City.
+            Pay no attention to the
+            man behind the curtain.

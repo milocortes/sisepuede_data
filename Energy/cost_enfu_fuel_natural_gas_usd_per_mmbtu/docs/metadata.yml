@@ -1,0 +1,29 @@
+date:        2022-04-12
+variable :
+  name : cost_enfu_fuel_natural_gas_usd_per_mmbtu
+  subsector :   Energy Fuels
+  longname :  Volumetric Fuel Price
+  units: USD/mmbtu
+
+resources:
+
+    - url:   https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
+
+Last visited: 2022-02-12
+
+      descrip:   natural gas prices in USD/m^3
+
+aditional_information:
+
+      assumptions: all countries have the average price per year
+
+	Units:
+
+		1 MMBTU = 27.3192 m3 
+Units reference:
+(https://learnmetrics.com/mmbtu-to-m3-m3-to-mmbtu/:~:text=1%20m3%20of%20natural%20gas%20is%20equal%20to%200.0366%20MMBTU.)
+
+therefore 1 usd/m^3=27.3192 m3/MMBTU * 1 usd/m^3 =27.3192 usd/MMBTU
+
+		   Protected value: 
+		Prediction for the next years will be the last historical value

@@ -1,0 +1,28 @@
+
+date:        2022-07-12
+variable :
+
+  name : occrate_trns_passenger_per_vehicle_road_light
+
+  subsector :  Transportation
+
+  longname :  Average Passenger Vehicle Occupancy Rate
+
+
+  units: rate between 0 and 1
+
+resources:
+
+    - url:   https://www.eea.europa.eu/data-and-maps/indicators/occupancy-rates-of-passenger-vehicles/occupancy-rates-of-passenger-vehicles
+
+Last visited: 2022-07-12
+
+      descrip:   Occupation rate per car divided by average car capability
+
+aditional_information:
+      assumptions: Occupation rate per car divided by average car capability
+
+Average historical value assigned to all the countries and every year.
+
+
+

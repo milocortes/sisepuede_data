@@ -1,0 +1,20 @@
+date:        2022-02-12
+variable :
+  name : cost_enfu_fuel_oil_usd_per_m3
+  subsector :   Energy Fuels
+  longname :  Volumetric Fuel Price
+  units: USD/m^3
+
+resources:
+
+    - url:   https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
+
+Last visited: 2022-02-12
+
+      descrip:   1861-2021 world oil prices in USD/m^3
+
+aditional_information:
+      assumptions: All the countries in the region will 
+		   be assume to have the world oil price.
+
+		   Prediction for the next years will be the last historical value

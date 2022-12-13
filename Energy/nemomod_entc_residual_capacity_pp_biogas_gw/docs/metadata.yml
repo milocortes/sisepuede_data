@@ -1,0 +1,19 @@
+date:        2022-11-02
+variable :
+  name : nemomod_entc_residual_capacity_pp_biogas_gw
+  subsector :   Energy Technology
+  longname :  Technology associated with the generation of electricity in particular, power plants. Energy --> Biogas 
+  units: GW Gigawatt-year
+
+resources:
+    - url:   https://datasets.wri.org/dataset/globalpowerplantdatabase
+      descrip:   World Resources Institute
+
+aditional_information:
+      assumptions: >
+            Original values are in  MW (Megavatio). 
+            In orde to convert to GW (Gigavatio), multiply the value
+            by factor 0.001
+            
+            
+          
