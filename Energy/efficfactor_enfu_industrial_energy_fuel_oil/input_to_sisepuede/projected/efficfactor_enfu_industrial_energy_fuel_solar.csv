@@ -1,0 +1,3742 @@
+"","Nation","iso_code3","efficfactor_enfu_industrial_energy_fuel_solar","Year"
+"1","Albania","ALB",1,2022
+"2","Algeria","DZA",1,2022
+"3","Angola","AGO",1,2022
+"4","Argentina","ARG",1,2022
+"5","Armenia","ARM",1,2022
+"6","Australia","AUS",1,2022
+"7","Austria","AUT",1,2022
+"8","Azerbaijan","AZE",1,2022
+"9","Bahrain","BHR",1,2022
+"10","Bangladesh","BGD",1,2022
+"11","Belarus","BLR",1,2022
+"12","Belgium","BEL",1,2022
+"13","Benin","BEN",1,2022
+"14","Bolivia","BOL",1,2022
+"15","Bosnia and Herzegovina","BIH",1,2022
+"16","Botswana","BWA",1,2022
+"17","Brazil","BRA",1,2022
+"18","Brunei Darussalam","BRN",1,2022
+"19","Bulgaria","BGR",1,2022
+"20","Cambodia","KHM",1,2022
+"21","Cameroon","CMR",1,2022
+"22","Canada","CAN",1,2022
+"23","Chile","CHL",1,2022
+"24","China","CHN",1,2022
+"25","Colombia","COL",1,2022
+"26","Costa Rica","CRI",1,2022
+"27","Croatia","HRV",1,2022
+"28","Cuba","CUB",1,2022
+"29","Cyprus","CYP",1,2022
+"30","Denmark","DNK",1,2022
+"31","Dominican Republic","DOM",1,2022
+"32","Ecuador","ECU",1,2022
+"33","Egypt","EGY",1,2022
+"34","El Salvador","SLV",1,2022
+"35","Eritrea","ERI",1,2022
+"36","Estonia","EST",1,2022
+"37","Ethiopia","ETH",1,2022
+"38","Finland","FIN",1,2022
+"39","France","FRA",1,2022
+"40","Gabon","GAB",1,2022
+"41","Georgia","GEO",1,2022
+"42","Germany","DEU",1,2022
+"43","Ghana","GHA",1,2022
+"44","Gibraltar","GIB",1,2022
+"45","Greece","GRC",1,2022
+"46","Guatemala","GTM",1,2022
+"47","Haiti","HTI",1,2022
+"48","Honduras","HND",1,2022
+"49","Hungary","HUN",1,2022
+"50","Iceland","ISL",1,2022
+"51","India","IND",1,2022
+"52","Indonesia","IDN",1,2022
+"53","Iraq","IRQ",1,2022
+"54","Ireland","IRL",1,2022
+"55","Israel","ISR",1,2022
+"56","Italy","ITA",1,2022
+"57","Jamaica","JAM",1,2022
+"58","Japan","JPN",1,2022
+"59","Jordan","JOR",1,2022
+"60","Kazakhstan","KAZ",1,2022
+"61","Kenya","KEN",1,2022
+"62","Korea","KOR",1,2022
+"63","Kosovo","XKX",1,2022
+"64","Kuwait","KWT",1,2022
+"65","Latvia","LVA",1,2022
+"66","Lebanon","LBN",1,2022
+"67","Libya","LBY",1,2022
+"68","Lithuania","LTU",1,2022
+"69","Luxembourg","LUX",1,2022
+"70","Malaysia","MYS",1,2022
+"71","Malta","MLT",1,2022
+"72","Mauritius","MUS",1,2022
+"73","Mexico","MEX",1,2022
+"74","Mongolia","MNG",1,2022
+"75","Montenegro","MNE",1,2022
+"76","Morocco","MAR",1,2022
+"77","Mozambique","MOZ",1,2022
+"78","Myanmar","MMR",1,2022
+"79","Namibia","NAM",1,2022
+"80","Nepal","NPL",1,2022
+"81","Netherlands","NLD",1,2022
+"82","New Zealand","NZL",1,2022
+"83","Nicaragua","NIC",1,2022
+"84","Niger","NER",1,2022
+"85","Nigeria","NGA",1,2022
+"86","Norway","NOR",1,2022
+"87","Oman","OMN",1,2022
+"88","Pakistan","PAK",1,2022
+"89","Panama","PAN",1,2022
+"90","Paraguay","PRY",1,2022
+"91","Peru","PER",1,2022
+"92","Philippines","PHL",1,2022
+"93","Poland","POL",1,2022
+"94","Portugal","PRT",1,2022
+"95","Qatar","QAT",1,2022
+"96","Romania","ROU",1,2022
+"97","Russian Federation","RUS",1,2022
+"98","Saudi Arabia","SAU",1,2022
+"99","Senegal","SEN",1,2022
+"100","Serbia","SRB",1,2022
+"101","Singapore","SGP",1,2022
+"102","Slovak Republic","SVK",1,2022
+"103","Slovenia","SVN",1,2022
+"104","South Africa","ZAF",1,2022
+"105","South Sudan","SSD",1,2022
+"106","Spain","ESP",1,2022
+"107","Sri Lanka","LKA",1,2022
+"108","Sudan","SDN",1,2022
+"109","Suriname","SUR",1,2022
+"110","Sweden","SWE",1,2022
+"111","Switzerland","CHE",1,2022
+"112","Syrian Arab Republic","SYR",1,2022
+"113","Tajikistan","TJK",1,2022
+"114","Thailand","THA",1,2022
+"115","Togo","TGO",1,2022
+"116","Trinidad and Tobago","TTO",1,2022
+"117","Tunisia","TUN",1,2022
+"118","Turkey","TUR",1,2022
+"119","Turkmenistan","TKM",1,2022
+"120","Ukraine","UKR",1,2022
+"121","United Arab Emirates","ARE",1,2022
+"122","United Kingdom","GBR",1,2022
+"123","United States","USA",1,2022
+"124","Uruguay","URY",1,2022
+"125","Uzbekistan","UZB",1,2022
+"126","Venezuela","VEN",1,2022
+"127","Vietnam","VNM",1,2022
+"128","Zambia","ZMB",1,2022
+"129","Zimbabwe","ZWE",1,2022
+"130","Albania","ALB",1,2023
+"131","Algeria","DZA",1,2023
+"132","Angola","AGO",1,2023
+"133","Argentina","ARG",1,2023
+"134","Armenia","ARM",1,2023
+"135","Australia","AUS",1,2023
+"136","Austria","AUT",1,2023
+"137","Azerbaijan","AZE",1,2023
+"138","Bahrain","BHR",1,2023
+"139","Bangladesh","BGD",1,2023
+"140","Belarus","BLR",1,2023
+"141","Belgium","BEL",1,2023
+"142","Benin","BEN",1,2023
+"143","Bolivia","BOL",1,2023
+"144","Bosnia and Herzegovina","BIH",1,2023
+"145","Botswana","BWA",1,2023
+"146","Brazil","BRA",1,2023
+"147","Brunei Darussalam","BRN",1,2023
+"148","Bulgaria","BGR",1,2023
+"149","Cambodia","KHM",1,2023
+"150","Cameroon","CMR",1,2023
+"151","Canada","CAN",1,2023
+"152","Chile","CHL",1,2023
+"153","China","CHN",1,2023
+"154","Colombia","COL",1,2023
+"155","Costa Rica","CRI",1,2023
+"156","Croatia","HRV",1,2023
+"157","Cuba","CUB",1,2023
+"158","Cyprus","CYP",1,2023
+"159","Denmark","DNK",1,2023
+"160","Dominican Republic","DOM",1,2023
+"161","Ecuador","ECU",1,2023
+"162","Egypt","EGY",1,2023
+"163","El Salvador","SLV",1,2023
+"164","Eritrea","ERI",1,2023
+"165","Estonia","EST",1,2023
+"166","Ethiopia","ETH",1,2023
+"167","Finland","FIN",1,2023
+"168","France","FRA",1,2023
+"169","Gabon","GAB",1,2023
+"170","Georgia","GEO",1,2023
+"171","Germany","DEU",1,2023
+"172","Ghana","GHA",1,2023
+"173","Gibraltar","GIB",1,2023
+"174","Greece","GRC",1,2023
+"175","Guatemala","GTM",1,2023
+"176","Haiti","HTI",1,2023
+"177","Honduras","HND",1,2023
+"178","Hungary","HUN",1,2023
+"179","Iceland","ISL",1,2023
+"180","India","IND",1,2023
+"181","Indonesia","IDN",1,2023
+"182","Iraq","IRQ",1,2023
+"183","Ireland","IRL",1,2023
+"184","Israel","ISR",1,2023
+"185","Italy","ITA",1,2023
+"186","Jamaica","JAM",1,2023
+"187","Japan","JPN",1,2023
+"188","Jordan","JOR",1,2023
+"189","Kazakhstan","KAZ",1,2023
+"190","Kenya","KEN",1,2023
+"191","Korea","KOR",1,2023
+"192","Kosovo","XKX",1,2023
+"193","Kuwait","KWT",1,2023
+"194","Latvia","LVA",1,2023
+"195","Lebanon","LBN",1,2023
+"196","Libya","LBY",1,2023
+"197","Lithuania","LTU",1,2023
+"198","Luxembourg","LUX",1,2023
+"199","Malaysia","MYS",1,2023
+"200","Malta","MLT",1,2023
+"201","Mauritius","MUS",1,2023
+"202","Mexico","MEX",1,2023
+"203","Mongolia","MNG",1,2023
+"204","Montenegro","MNE",1,2023
+"205","Morocco","MAR",1,2023
+"206","Mozambique","MOZ",1,2023
+"207","Myanmar","MMR",1,2023
+"208","Namibia","NAM",1,2023
+"209","Nepal","NPL",1,2023
+"210","Netherlands","NLD",1,2023
+"211","New Zealand","NZL",1,2023
+"212","Nicaragua","NIC",1,2023
+"213","Niger","NER",1,2023
+"214","Nigeria","NGA",1,2023
+"215","Norway","NOR",1,2023
+"216","Oman","OMN",1,2023
+"217","Pakistan","PAK",1,2023
+"218","Panama","PAN",1,2023
+"219","Paraguay","PRY",1,2023
+"220","Peru","PER",1,2023
+"221","Philippines","PHL",1,2023
+"222","Poland","POL",1,2023
+"223","Portugal","PRT",1,2023
+"224","Qatar","QAT",1,2023
+"225","Romania","ROU",1,2023
+"226","Russian Federation","RUS",1,2023
+"227","Saudi Arabia","SAU",1,2023
+"228","Senegal","SEN",1,2023
+"229","Serbia","SRB",1,2023
+"230","Singapore","SGP",1,2023
+"231","Slovak Republic","SVK",1,2023
+"232","Slovenia","SVN",1,2023
+"233","South Africa","ZAF",1,2023
+"234","South Sudan","SSD",1,2023
+"235","Spain","ESP",1,2023
+"236","Sri Lanka","LKA",1,2023
+"237","Sudan","SDN",1,2023
+"238","Suriname","SUR",1,2023
+"239","Sweden","SWE",1,2023
+"240","Switzerland","CHE",1,2023
+"241","Syrian Arab Republic","SYR",1,2023
+"242","Tajikistan","TJK",1,2023
+"243","Thailand","THA",1,2023
+"244","Togo","TGO",1,2023
+"245","Trinidad and Tobago","TTO",1,2023
+"246","Tunisia","TUN",1,2023
+"247","Turkey","TUR",1,2023
+"248","Turkmenistan","TKM",1,2023
+"249","Ukraine","UKR",1,2023
+"250","United Arab Emirates","ARE",1,2023
+"251","United Kingdom","GBR",1,2023
+"252","United States","USA",1,2023
+"253","Uruguay","URY",1,2023
+"254","Uzbekistan","UZB",1,2023
+"255","Venezuela","VEN",1,2023
+"256","Vietnam","VNM",1,2023
+"257","Zambia","ZMB",1,2023
+"258","Zimbabwe","ZWE",1,2023
+"259","Albania","ALB",1,2024
+"260","Algeria","DZA",1,2024
+"261","Angola","AGO",1,2024
+"262","Argentina","ARG",1,2024
+"263","Armenia","ARM",1,2024
+"264","Australia","AUS",1,2024
+"265","Austria","AUT",1,2024
+"266","Azerbaijan","AZE",1,2024
+"267","Bahrain","BHR",1,2024
+"268","Bangladesh","BGD",1,2024
+"269","Belarus","BLR",1,2024
+"270","Belgium","BEL",1,2024
+"271","Benin","BEN",1,2024
+"272","Bolivia","BOL",1,2024
+"273","Bosnia and Herzegovina","BIH",1,2024
+"274","Botswana","BWA",1,2024
+"275","Brazil","BRA",1,2024
+"276","Brunei Darussalam","BRN",1,2024
+"277","Bulgaria","BGR",1,2024
+"278","Cambodia","KHM",1,2024
+"279","Cameroon","CMR",1,2024
+"280","Canada","CAN",1,2024
+"281","Chile","CHL",1,2024
+"282","China","CHN",1,2024
+"283","Colombia","COL",1,2024
+"284","Costa Rica","CRI",1,2024
+"285","Croatia","HRV",1,2024
+"286","Cuba","CUB",1,2024
+"287","Cyprus","CYP",1,2024
+"288","Denmark","DNK",1,2024
+"289","Dominican Republic","DOM",1,2024
+"290","Ecuador","ECU",1,2024
+"291","Egypt","EGY",1,2024
+"292","El Salvador","SLV",1,2024
+"293","Eritrea","ERI",1,2024
+"294","Estonia","EST",1,2024
+"295","Ethiopia","ETH",1,2024
+"296","Finland","FIN",1,2024
+"297","France","FRA",1,2024
+"298","Gabon","GAB",1,2024
+"299","Georgia","GEO",1,2024
+"300","Germany","DEU",1,2024
+"301","Ghana","GHA",1,2024
+"302","Gibraltar","GIB",1,2024
+"303","Greece","GRC",1,2024
+"304","Guatemala","GTM",1,2024
+"305","Haiti","HTI",1,2024
+"306","Honduras","HND",1,2024
+"307","Hungary","HUN",1,2024
+"308","Iceland","ISL",1,2024
+"309","India","IND",1,2024
+"310","Indonesia","IDN",1,2024
+"311","Iraq","IRQ",1,2024
+"312","Ireland","IRL",1,2024
+"313","Israel","ISR",1,2024
+"314","Italy","ITA",1,2024
+"315","Jamaica","JAM",1,2024
+"316","Japan","JPN",1,2024
+"317","Jordan","JOR",1,2024
+"318","Kazakhstan","KAZ",1,2024
+"319","Kenya","KEN",1,2024
+"320","Korea","KOR",1,2024
+"321","Kosovo","XKX",1,2024
+"322","Kuwait","KWT",1,2024
+"323","Latvia","LVA",1,2024
+"324","Lebanon","LBN",1,2024
+"325","Libya","LBY",1,2024
+"326","Lithuania","LTU",1,2024
+"327","Luxembourg","LUX",1,2024
+"328","Malaysia","MYS",1,2024
+"329","Malta","MLT",1,2024
+"330","Mauritius","MUS",1,2024
+"331","Mexico","MEX",1,2024
+"332","Mongolia","MNG",1,2024
+"333","Montenegro","MNE",1,2024
+"334","Morocco","MAR",1,2024
+"335","Mozambique","MOZ",1,2024
+"336","Myanmar","MMR",1,2024
+"337","Namibia","NAM",1,2024
+"338","Nepal","NPL",1,2024
+"339","Netherlands","NLD",1,2024
+"340","New Zealand","NZL",1,2024
+"341","Nicaragua","NIC",1,2024
+"342","Niger","NER",1,2024
+"343","Nigeria","NGA",1,2024
+"344","Norway","NOR",1,2024
+"345","Oman","OMN",1,2024
+"346","Pakistan","PAK",1,2024
+"347","Panama","PAN",1,2024
+"348","Paraguay","PRY",1,2024
+"349","Peru","PER",1,2024
+"350","Philippines","PHL",1,2024
+"351","Poland","POL",1,2024
+"352","Portugal","PRT",1,2024
+"353","Qatar","QAT",1,2024
+"354","Romania","ROU",1,2024
+"355","Russian Federation","RUS",1,2024
+"356","Saudi Arabia","SAU",1,2024
+"357","Senegal","SEN",1,2024
+"358","Serbia","SRB",1,2024
+"359","Singapore","SGP",1,2024
+"360","Slovak Republic","SVK",1,2024
+"361","Slovenia","SVN",1,2024
+"362","South Africa","ZAF",1,2024
+"363","South Sudan","SSD",1,2024
+"364","Spain","ESP",1,2024
+"365","Sri Lanka","LKA",1,2024
+"366","Sudan","SDN",1,2024
+"367","Suriname","SUR",1,2024
+"368","Sweden","SWE",1,2024
+"369","Switzerland","CHE",1,2024
+"370","Syrian Arab Republic","SYR",1,2024
+"371","Tajikistan","TJK",1,2024
+"372","Thailand","THA",1,2024
+"373","Togo","TGO",1,2024
+"374","Trinidad and Tobago","TTO",1,2024
+"375","Tunisia","TUN",1,2024
+"376","Turkey","TUR",1,2024
+"377","Turkmenistan","TKM",1,2024
+"378","Ukraine","UKR",1,2024
+"379","United Arab Emirates","ARE",1,2024
+"380","United Kingdom","GBR",1,2024
+"381","United States","USA",1,2024
+"382","Uruguay","URY",1,2024
+"383","Uzbekistan","UZB",1,2024
+"384","Venezuela","VEN",1,2024
+"385","Vietnam","VNM",1,2024
+"386","Zambia","ZMB",1,2024
+"387","Zimbabwe","ZWE",1,2024
+"388","Albania","ALB",1,2025
+"389","Algeria","DZA",1,2025
+"390","Angola","AGO",1,2025
+"391","Argentina","ARG",1,2025
+"392","Armenia","ARM",1,2025
+"393","Australia","AUS",1,2025
+"394","Austria","AUT",1,2025
+"395","Azerbaijan","AZE",1,2025
+"396","Bahrain","BHR",1,2025
+"397","Bangladesh","BGD",1,2025
+"398","Belarus","BLR",1,2025
+"399","Belgium","BEL",1,2025
+"400","Benin","BEN",1,2025
+"401","Bolivia","BOL",1,2025
+"402","Bosnia and Herzegovina","BIH",1,2025
+"403","Botswana","BWA",1,2025
+"404","Brazil","BRA",1,2025
+"405","Brunei Darussalam","BRN",1,2025
+"406","Bulgaria","BGR",1,2025
+"407","Cambodia","KHM",1,2025
+"408","Cameroon","CMR",1,2025
+"409","Canada","CAN",1,2025
+"410","Chile","CHL",1,2025
+"411","China","CHN",1,2025
+"412","Colombia","COL",1,2025
+"413","Costa Rica","CRI",1,2025
+"414","Croatia","HRV",1,2025
+"415","Cuba","CUB",1,2025
+"416","Cyprus","CYP",1,2025
+"417","Denmark","DNK",1,2025
+"418","Dominican Republic","DOM",1,2025
+"419","Ecuador","ECU",1,2025
+"420","Egypt","EGY",1,2025
+"421","El Salvador","SLV",1,2025
+"422","Eritrea","ERI",1,2025
+"423","Estonia","EST",1,2025
+"424","Ethiopia","ETH",1,2025
+"425","Finland","FIN",1,2025
+"426","France","FRA",1,2025
+"427","Gabon","GAB",1,2025
+"428","Georgia","GEO",1,2025
+"429","Germany","DEU",1,2025
+"430","Ghana","GHA",1,2025
+"431","Gibraltar","GIB",1,2025
+"432","Greece","GRC",1,2025
+"433","Guatemala","GTM",1,2025
+"434","Haiti","HTI",1,2025
+"435","Honduras","HND",1,2025
+"436","Hungary","HUN",1,2025
+"437","Iceland","ISL",1,2025
+"438","India","IND",1,2025
+"439","Indonesia","IDN",1,2025
+"440","Iraq","IRQ",1,2025
+"441","Ireland","IRL",1,2025
+"442","Israel","ISR",1,2025
+"443","Italy","ITA",1,2025
+"444","Jamaica","JAM",1,2025
+"445","Japan","JPN",1,2025
+"446","Jordan","JOR",1,2025
+"447","Kazakhstan","KAZ",1,2025
+"448","Kenya","KEN",1,2025
+"449","Korea","KOR",1,2025
+"450","Kosovo","XKX",1,2025
+"451","Kuwait","KWT",1,2025
+"452","Latvia","LVA",1,2025
+"453","Lebanon","LBN",1,2025
+"454","Libya","LBY",1,2025
+"455","Lithuania","LTU",1,2025
+"456","Luxembourg","LUX",1,2025
+"457","Malaysia","MYS",1,2025
+"458","Malta","MLT",1,2025
+"459","Mauritius","MUS",1,2025
+"460","Mexico","MEX",1,2025
+"461","Mongolia","MNG",1,2025
+"462","Montenegro","MNE",1,2025
+"463","Morocco","MAR",1,2025
+"464","Mozambique","MOZ",1,2025
+"465","Myanmar","MMR",1,2025
+"466","Namibia","NAM",1,2025
+"467","Nepal","NPL",1,2025
+"468","Netherlands","NLD",1,2025
+"469","New Zealand","NZL",1,2025
+"470","Nicaragua","NIC",1,2025
+"471","Niger","NER",1,2025
+"472","Nigeria","NGA",1,2025
+"473","Norway","NOR",1,2025
+"474","Oman","OMN",1,2025
+"475","Pakistan","PAK",1,2025
+"476","Panama","PAN",1,2025
+"477","Paraguay","PRY",1,2025
+"478","Peru","PER",1,2025
+"479","Philippines","PHL",1,2025
+"480","Poland","POL",1,2025
+"481","Portugal","PRT",1,2025
+"482","Qatar","QAT",1,2025
+"483","Romania","ROU",1,2025
+"484","Russian Federation","RUS",1,2025
+"485","Saudi Arabia","SAU",1,2025
+"486","Senegal","SEN",1,2025
+"487","Serbia","SRB",1,2025
+"488","Singapore","SGP",1,2025
+"489","Slovak Republic","SVK",1,2025
+"490","Slovenia","SVN",1,2025
+"491","South Africa","ZAF",1,2025
+"492","South Sudan","SSD",1,2025
+"493","Spain","ESP",1,2025
+"494","Sri Lanka","LKA",1,2025
+"495","Sudan","SDN",1,2025
+"496","Suriname","SUR",1,2025
+"497","Sweden","SWE",1,2025
+"498","Switzerland","CHE",1,2025
+"499","Syrian Arab Republic","SYR",1,2025
+"500","Tajikistan","TJK",1,2025
+"501","Thailand","THA",1,2025
+"502","Togo","TGO",1,2025
+"503","Trinidad and Tobago","TTO",1,2025
+"504","Tunisia","TUN",1,2025
+"505","Turkey","TUR",1,2025
+"506","Turkmenistan","TKM",1,2025
+"507","Ukraine","UKR",1,2025
+"508","United Arab Emirates","ARE",1,2025
+"509","United Kingdom","GBR",1,2025
+"510","United States","USA",1,2025
+"511","Uruguay","URY",1,2025
+"512","Uzbekistan","UZB",1,2025
+"513","Venezuela","VEN",1,2025
+"514","Vietnam","VNM",1,2025
+"515","Zambia","ZMB",1,2025
+"516","Zimbabwe","ZWE",1,2025
+"517","Albania","ALB",1,2026
+"518","Algeria","DZA",1,2026
+"519","Angola","AGO",1,2026
+"520","Argentina","ARG",1,2026
+"521","Armenia","ARM",1,2026
+"522","Australia","AUS",1,2026
+"523","Austria","AUT",1,2026
+"524","Azerbaijan","AZE",1,2026
+"525","Bahrain","BHR",1,2026
+"526","Bangladesh","BGD",1,2026
+"527","Belarus","BLR",1,2026
+"528","Belgium","BEL",1,2026
+"529","Benin","BEN",1,2026
+"530","Bolivia","BOL",1,2026
+"531","Bosnia and Herzegovina","BIH",1,2026
+"532","Botswana","BWA",1,2026
+"533","Brazil","BRA",1,2026
+"534","Brunei Darussalam","BRN",1,2026
+"535","Bulgaria","BGR",1,2026
+"536","Cambodia","KHM",1,2026
+"537","Cameroon","CMR",1,2026
+"538","Canada","CAN",1,2026
+"539","Chile","CHL",1,2026
+"540","China","CHN",1,2026
+"541","Colombia","COL",1,2026
+"542","Costa Rica","CRI",1,2026
+"543","Croatia","HRV",1,2026
+"544","Cuba","CUB",1,2026
+"545","Cyprus","CYP",1,2026
+"546","Denmark","DNK",1,2026
+"547","Dominican Republic","DOM",1,2026
+"548","Ecuador","ECU",1,2026
+"549","Egypt","EGY",1,2026
+"550","El Salvador","SLV",1,2026
+"551","Eritrea","ERI",1,2026
+"552","Estonia","EST",1,2026
+"553","Ethiopia","ETH",1,2026
+"554","Finland","FIN",1,2026
+"555","France","FRA",1,2026
+"556","Gabon","GAB",1,2026
+"557","Georgia","GEO",1,2026
+"558","Germany","DEU",1,2026
+"559","Ghana","GHA",1,2026
+"560","Gibraltar","GIB",1,2026
+"561","Greece","GRC",1,2026
+"562","Guatemala","GTM",1,2026
+"563","Haiti","HTI",1,2026
+"564","Honduras","HND",1,2026
+"565","Hungary","HUN",1,2026
+"566","Iceland","ISL",1,2026
+"567","India","IND",1,2026
+"568","Indonesia","IDN",1,2026
+"569","Iraq","IRQ",1,2026
+"570","Ireland","IRL",1,2026
+"571","Israel","ISR",1,2026
+"572","Italy","ITA",1,2026
+"573","Jamaica","JAM",1,2026
+"574","Japan","JPN",1,2026
+"575","Jordan","JOR",1,2026
+"576","Kazakhstan","KAZ",1,2026
+"577","Kenya","KEN",1,2026
+"578","Korea","KOR",1,2026
+"579","Kosovo","XKX",1,2026
+"580","Kuwait","KWT",1,2026
+"581","Latvia","LVA",1,2026
+"582","Lebanon","LBN",1,2026
+"583","Libya","LBY",1,2026
+"584","Lithuania","LTU",1,2026
+"585","Luxembourg","LUX",1,2026
+"586","Malaysia","MYS",1,2026
+"587","Malta","MLT",1,2026
+"588","Mauritius","MUS",1,2026
+"589","Mexico","MEX",1,2026
+"590","Mongolia","MNG",1,2026
+"591","Montenegro","MNE",1,2026
+"592","Morocco","MAR",1,2026
+"593","Mozambique","MOZ",1,2026
+"594","Myanmar","MMR",1,2026
+"595","Namibia","NAM",1,2026
+"596","Nepal","NPL",1,2026
+"597","Netherlands","NLD",1,2026
+"598","New Zealand","NZL",1,2026
+"599","Nicaragua","NIC",1,2026
+"600","Niger","NER",1,2026
+"601","Nigeria","NGA",1,2026
+"602","Norway","NOR",1,2026
+"603","Oman","OMN",1,2026
+"604","Pakistan","PAK",1,2026
+"605","Panama","PAN",1,2026
+"606","Paraguay","PRY",1,2026
+"607","Peru","PER",1,2026
+"608","Philippines","PHL",1,2026
+"609","Poland","POL",1,2026
+"610","Portugal","PRT",1,2026
+"611","Qatar","QAT",1,2026
+"612","Romania","ROU",1,2026
+"613","Russian Federation","RUS",1,2026
+"614","Saudi Arabia","SAU",1,2026
+"615","Senegal","SEN",1,2026
+"616","Serbia","SRB",1,2026
+"617","Singapore","SGP",1,2026
+"618","Slovak Republic","SVK",1,2026
+"619","Slovenia","SVN",1,2026
+"620","South Africa","ZAF",1,2026
+"621","South Sudan","SSD",1,2026
+"622","Spain","ESP",1,2026
+"623","Sri Lanka","LKA",1,2026
+"624","Sudan","SDN",1,2026
+"625","Suriname","SUR",1,2026
+"626","Sweden","SWE",1,2026
+"627","Switzerland","CHE",1,2026
+"628","Syrian Arab Republic","SYR",1,2026
+"629","Tajikistan","TJK",1,2026
+"630","Thailand","THA",1,2026
+"631","Togo","TGO",1,2026
+"632","Trinidad and Tobago","TTO",1,2026
+"633","Tunisia","TUN",1,2026
+"634","Turkey","TUR",1,2026
+"635","Turkmenistan","TKM",1,2026
+"636","Ukraine","UKR",1,2026
+"637","United Arab Emirates","ARE",1,2026
+"638","United Kingdom","GBR",1,2026
+"639","United States","USA",1,2026
+"640","Uruguay","URY",1,2026
+"641","Uzbekistan","UZB",1,2026
+"642","Venezuela","VEN",1,2026
+"643","Vietnam","VNM",1,2026
+"644","Zambia","ZMB",1,2026
+"645","Zimbabwe","ZWE",1,2026
+"646","Albania","ALB",1,2027
+"647","Algeria","DZA",1,2027
+"648","Angola","AGO",1,2027
+"649","Argentina","ARG",1,2027
+"650","Armenia","ARM",1,2027
+"651","Australia","AUS",1,2027
+"652","Austria","AUT",1,2027
+"653","Azerbaijan","AZE",1,2027
+"654","Bahrain","BHR",1,2027
+"655","Bangladesh","BGD",1,2027
+"656","Belarus","BLR",1,2027
+"657","Belgium","BEL",1,2027
+"658","Benin","BEN",1,2027
+"659","Bolivia","BOL",1,2027
+"660","Bosnia and Herzegovina","BIH",1,2027
+"661","Botswana","BWA",1,2027
+"662","Brazil","BRA",1,2027
+"663","Brunei Darussalam","BRN",1,2027
+"664","Bulgaria","BGR",1,2027
+"665","Cambodia","KHM",1,2027
+"666","Cameroon","CMR",1,2027
+"667","Canada","CAN",1,2027
+"668","Chile","CHL",1,2027
+"669","China","CHN",1,2027
+"670","Colombia","COL",1,2027
+"671","Costa Rica","CRI",1,2027
+"672","Croatia","HRV",1,2027
+"673","Cuba","CUB",1,2027
+"674","Cyprus","CYP",1,2027
+"675","Denmark","DNK",1,2027
+"676","Dominican Republic","DOM",1,2027
+"677","Ecuador","ECU",1,2027
+"678","Egypt","EGY",1,2027
+"679","El Salvador","SLV",1,2027
+"680","Eritrea","ERI",1,2027
+"681","Estonia","EST",1,2027
+"682","Ethiopia","ETH",1,2027
+"683","Finland","FIN",1,2027
+"684","France","FRA",1,2027
+"685","Gabon","GAB",1,2027
+"686","Georgia","GEO",1,2027
+"687","Germany","DEU",1,2027
+"688","Ghana","GHA",1,2027
+"689","Gibraltar","GIB",1,2027
+"690","Greece","GRC",1,2027
+"691","Guatemala","GTM",1,2027
+"692","Haiti","HTI",1,2027
+"693","Honduras","HND",1,2027
+"694","Hungary","HUN",1,2027
+"695","Iceland","ISL",1,2027
+"696","India","IND",1,2027
+"697","Indonesia","IDN",1,2027
+"698","Iraq","IRQ",1,2027
+"699","Ireland","IRL",1,2027
+"700","Israel","ISR",1,2027
+"701","Italy","ITA",1,2027
+"702","Jamaica","JAM",1,2027
+"703","Japan","JPN",1,2027
+"704","Jordan","JOR",1,2027
+"705","Kazakhstan","KAZ",1,2027
+"706","Kenya","KEN",1,2027
+"707","Korea","KOR",1,2027
+"708","Kosovo","XKX",1,2027
+"709","Kuwait","KWT",1,2027
+"710","Latvia","LVA",1,2027
+"711","Lebanon","LBN",1,2027
+"712","Libya","LBY",1,2027
+"713","Lithuania","LTU",1,2027
+"714","Luxembourg","LUX",1,2027
+"715","Malaysia","MYS",1,2027
+"716","Malta","MLT",1,2027
+"717","Mauritius","MUS",1,2027
+"718","Mexico","MEX",1,2027
+"719","Mongolia","MNG",1,2027
+"720","Montenegro","MNE",1,2027
+"721","Morocco","MAR",1,2027
+"722","Mozambique","MOZ",1,2027
+"723","Myanmar","MMR",1,2027
+"724","Namibia","NAM",1,2027
+"725","Nepal","NPL",1,2027
+"726","Netherlands","NLD",1,2027
+"727","New Zealand","NZL",1,2027
+"728","Nicaragua","NIC",1,2027
+"729","Niger","NER",1,2027
+"730","Nigeria","NGA",1,2027
+"731","Norway","NOR",1,2027
+"732","Oman","OMN",1,2027
+"733","Pakistan","PAK",1,2027
+"734","Panama","PAN",1,2027
+"735","Paraguay","PRY",1,2027
+"736","Peru","PER",1,2027
+"737","Philippines","PHL",1,2027
+"738","Poland","POL",1,2027
+"739","Portugal","PRT",1,2027
+"740","Qatar","QAT",1,2027
+"741","Romania","ROU",1,2027
+"742","Russian Federation","RUS",1,2027
+"743","Saudi Arabia","SAU",1,2027
+"744","Senegal","SEN",1,2027
+"745","Serbia","SRB",1,2027
+"746","Singapore","SGP",1,2027
+"747","Slovak Republic","SVK",1,2027
+"748","Slovenia","SVN",1,2027
+"749","South Africa","ZAF",1,2027
+"750","South Sudan","SSD",1,2027
+"751","Spain","ESP",1,2027
+"752","Sri Lanka","LKA",1,2027
+"753","Sudan","SDN",1,2027
+"754","Suriname","SUR",1,2027
+"755","Sweden","SWE",1,2027
+"756","Switzerland","CHE",1,2027
+"757","Syrian Arab Republic","SYR",1,2027
+"758","Tajikistan","TJK",1,2027
+"759","Thailand","THA",1,2027
+"760","Togo","TGO",1,2027
+"761","Trinidad and Tobago","TTO",1,2027
+"762","Tunisia","TUN",1,2027
+"763","Turkey","TUR",1,2027
+"764","Turkmenistan","TKM",1,2027
+"765","Ukraine","UKR",1,2027
+"766","United Arab Emirates","ARE",1,2027
+"767","United Kingdom","GBR",1,2027
+"768","United States","USA",1,2027
+"769","Uruguay","URY",1,2027
+"770","Uzbekistan","UZB",1,2027
+"771","Venezuela","VEN",1,2027
+"772","Vietnam","VNM",1,2027
+"773","Zambia","ZMB",1,2027
+"774","Zimbabwe","ZWE",1,2027
+"775","Albania","ALB",1,2028
+"776","Algeria","DZA",1,2028
+"777","Angola","AGO",1,2028
+"778","Argentina","ARG",1,2028
+"779","Armenia","ARM",1,2028
+"780","Australia","AUS",1,2028
+"781","Austria","AUT",1,2028
+"782","Azerbaijan","AZE",1,2028
+"783","Bahrain","BHR",1,2028
+"784","Bangladesh","BGD",1,2028
+"785","Belarus","BLR",1,2028
+"786","Belgium","BEL",1,2028
+"787","Benin","BEN",1,2028
+"788","Bolivia","BOL",1,2028
+"789","Bosnia and Herzegovina","BIH",1,2028
+"790","Botswana","BWA",1,2028
+"791","Brazil","BRA",1,2028
+"792","Brunei Darussalam","BRN",1,2028
+"793","Bulgaria","BGR",1,2028
+"794","Cambodia","KHM",1,2028
+"795","Cameroon","CMR",1,2028
+"796","Canada","CAN",1,2028
+"797","Chile","CHL",1,2028
+"798","China","CHN",1,2028
+"799","Colombia","COL",1,2028
+"800","Costa Rica","CRI",1,2028
+"801","Croatia","HRV",1,2028
+"802","Cuba","CUB",1,2028
+"803","Cyprus","CYP",1,2028
+"804","Denmark","DNK",1,2028
+"805","Dominican Republic","DOM",1,2028
+"806","Ecuador","ECU",1,2028
+"807","Egypt","EGY",1,2028
+"808","El Salvador","SLV",1,2028
+"809","Eritrea","ERI",1,2028
+"810","Estonia","EST",1,2028
+"811","Ethiopia","ETH",1,2028
+"812","Finland","FIN",1,2028
+"813","France","FRA",1,2028
+"814","Gabon","GAB",1,2028
+"815","Georgia","GEO",1,2028
+"816","Germany","DEU",1,2028
+"817","Ghana","GHA",1,2028
+"818","Gibraltar","GIB",1,2028
+"819","Greece","GRC",1,2028
+"820","Guatemala","GTM",1,2028
+"821","Haiti","HTI",1,2028
+"822","Honduras","HND",1,2028
+"823","Hungary","HUN",1,2028
+"824","Iceland","ISL",1,2028
+"825","India","IND",1,2028
+"826","Indonesia","IDN",1,2028
+"827","Iraq","IRQ",1,2028
+"828","Ireland","IRL",1,2028
+"829","Israel","ISR",1,2028
+"830","Italy","ITA",1,2028
+"831","Jamaica","JAM",1,2028
+"832","Japan","JPN",1,2028
+"833","Jordan","JOR",1,2028
+"834","Kazakhstan","KAZ",1,2028
+"835","Kenya","KEN",1,2028
+"836","Korea","KOR",1,2028
+"837","Kosovo","XKX",1,2028
+"838","Kuwait","KWT",1,2028
+"839","Latvia","LVA",1,2028
+"840","Lebanon","LBN",1,2028
+"841","Libya","LBY",1,2028
+"842","Lithuania","LTU",1,2028
+"843","Luxembourg","LUX",1,2028
+"844","Malaysia","MYS",1,2028
+"845","Malta","MLT",1,2028
+"846","Mauritius","MUS",1,2028
+"847","Mexico","MEX",1,2028
+"848","Mongolia","MNG",1,2028
+"849","Montenegro","MNE",1,2028
+"850","Morocco","MAR",1,2028
+"851","Mozambique","MOZ",1,2028
+"852","Myanmar","MMR",1,2028
+"853","Namibia","NAM",1,2028
+"854","Nepal","NPL",1,2028
+"855","Netherlands","NLD",1,2028
+"856","New Zealand","NZL",1,2028
+"857","Nicaragua","NIC",1,2028
+"858","Niger","NER",1,2028
+"859","Nigeria","NGA",1,2028
+"860","Norway","NOR",1,2028
+"861","Oman","OMN",1,2028
+"862","Pakistan","PAK",1,2028
+"863","Panama","PAN",1,2028
+"864","Paraguay","PRY",1,2028
+"865","Peru","PER",1,2028
+"866","Philippines","PHL",1,2028
+"867","Poland","POL",1,2028
+"868","Portugal","PRT",1,2028
+"869","Qatar","QAT",1,2028
+"870","Romania","ROU",1,2028
+"871","Russian Federation","RUS",1,2028
+"872","Saudi Arabia","SAU",1,2028
+"873","Senegal","SEN",1,2028
+"874","Serbia","SRB",1,2028
+"875","Singapore","SGP",1,2028
+"876","Slovak Republic","SVK",1,2028
+"877","Slovenia","SVN",1,2028
+"878","South Africa","ZAF",1,2028
+"879","South Sudan","SSD",1,2028
+"880","Spain","ESP",1,2028
+"881","Sri Lanka","LKA",1,2028
+"882","Sudan","SDN",1,2028
+"883","Suriname","SUR",1,2028
+"884","Sweden","SWE",1,2028
+"885","Switzerland","CHE",1,2028
+"886","Syrian Arab Republic","SYR",1,2028
+"887","Tajikistan","TJK",1,2028
+"888","Thailand","THA",1,2028
+"889","Togo","TGO",1,2028
+"890","Trinidad and Tobago","TTO",1,2028
+"891","Tunisia","TUN",1,2028
+"892","Turkey","TUR",1,2028
+"893","Turkmenistan","TKM",1,2028
+"894","Ukraine","UKR",1,2028
+"895","United Arab Emirates","ARE",1,2028
+"896","United Kingdom","GBR",1,2028
+"897","United States","USA",1,2028
+"898","Uruguay","URY",1,2028
+"899","Uzbekistan","UZB",1,2028
+"900","Venezuela","VEN",1,2028
+"901","Vietnam","VNM",1,2028
+"902","Zambia","ZMB",1,2028
+"903","Zimbabwe","ZWE",1,2028
+"904","Albania","ALB",1,2029
+"905","Algeria","DZA",1,2029
+"906","Angola","AGO",1,2029
+"907","Argentina","ARG",1,2029
+"908","Armenia","ARM",1,2029
+"909","Australia","AUS",1,2029
+"910","Austria","AUT",1,2029
+"911","Azerbaijan","AZE",1,2029
+"912","Bahrain","BHR",1,2029
+"913","Bangladesh","BGD",1,2029
+"914","Belarus","BLR",1,2029
+"915","Belgium","BEL",1,2029
+"916","Benin","BEN",1,2029
+"917","Bolivia","BOL",1,2029
+"918","Bosnia and Herzegovina","BIH",1,2029
+"919","Botswana","BWA",1,2029
+"920","Brazil","BRA",1,2029
+"921","Brunei Darussalam","BRN",1,2029
+"922","Bulgaria","BGR",1,2029
+"923","Cambodia","KHM",1,2029
+"924","Cameroon","CMR",1,2029
+"925","Canada","CAN",1,2029
+"926","Chile","CHL",1,2029
+"927","China","CHN",1,2029
+"928","Colombia","COL",1,2029
+"929","Costa Rica","CRI",1,2029
+"930","Croatia","HRV",1,2029
+"931","Cuba","CUB",1,2029
+"932","Cyprus","CYP",1,2029
+"933","Denmark","DNK",1,2029
+"934","Dominican Republic","DOM",1,2029
+"935","Ecuador","ECU",1,2029
+"936","Egypt","EGY",1,2029
+"937","El Salvador","SLV",1,2029
+"938","Eritrea","ERI",1,2029
+"939","Estonia","EST",1,2029
+"940","Ethiopia","ETH",1,2029
+"941","Finland","FIN",1,2029
+"942","France","FRA",1,2029
+"943","Gabon","GAB",1,2029
+"944","Georgia","GEO",1,2029
+"945","Germany","DEU",1,2029
+"946","Ghana","GHA",1,2029
+"947","Gibraltar","GIB",1,2029
+"948","Greece","GRC",1,2029
+"949","Guatemala","GTM",1,2029
+"950","Haiti","HTI",1,2029
+"951","Honduras","HND",1,2029
+"952","Hungary","HUN",1,2029
+"953","Iceland","ISL",1,2029
+"954","India","IND",1,2029
+"955","Indonesia","IDN",1,2029
+"956","Iraq","IRQ",1,2029
+"957","Ireland","IRL",1,2029
+"958","Israel","ISR",1,2029
+"959","Italy","ITA",1,2029
+"960","Jamaica","JAM",1,2029
+"961","Japan","JPN",1,2029
+"962","Jordan","JOR",1,2029
+"963","Kazakhstan","KAZ",1,2029
+"964","Kenya","KEN",1,2029
+"965","Korea","KOR",1,2029
+"966","Kosovo","XKX",1,2029
+"967","Kuwait","KWT",1,2029
+"968","Latvia","LVA",1,2029
+"969","Lebanon","LBN",1,2029
+"970","Libya","LBY",1,2029
+"971","Lithuania","LTU",1,2029
+"972","Luxembourg","LUX",1,2029
+"973","Malaysia","MYS",1,2029
+"974","Malta","MLT",1,2029
+"975","Mauritius","MUS",1,2029
+"976","Mexico","MEX",1,2029
+"977","Mongolia","MNG",1,2029
+"978","Montenegro","MNE",1,2029
+"979","Morocco","MAR",1,2029
+"980","Mozambique","MOZ",1,2029
+"981","Myanmar","MMR",1,2029
+"982","Namibia","NAM",1,2029
+"983","Nepal","NPL",1,2029
+"984","Netherlands","NLD",1,2029
+"985","New Zealand","NZL",1,2029
+"986","Nicaragua","NIC",1,2029
+"987","Niger","NER",1,2029
+"988","Nigeria","NGA",1,2029
+"989","Norway","NOR",1,2029
+"990","Oman","OMN",1,2029
+"991","Pakistan","PAK",1,2029
+"992","Panama","PAN",1,2029
+"993","Paraguay","PRY",1,2029
+"994","Peru","PER",1,2029
+"995","Philippines","PHL",1,2029
+"996","Poland","POL",1,2029
+"997","Portugal","PRT",1,2029
+"998","Qatar","QAT",1,2029
+"999","Romania","ROU",1,2029
+"1000","Russian Federation","RUS",1,2029
+"1001","Saudi Arabia","SAU",1,2029
+"1002","Senegal","SEN",1,2029
+"1003","Serbia","SRB",1,2029
+"1004","Singapore","SGP",1,2029
+"1005","Slovak Republic","SVK",1,2029
+"1006","Slovenia","SVN",1,2029
+"1007","South Africa","ZAF",1,2029
+"1008","South Sudan","SSD",1,2029
+"1009","Spain","ESP",1,2029
+"1010","Sri Lanka","LKA",1,2029
+"1011","Sudan","SDN",1,2029
+"1012","Suriname","SUR",1,2029
+"1013","Sweden","SWE",1,2029
+"1014","Switzerland","CHE",1,2029
+"1015","Syrian Arab Republic","SYR",1,2029
+"1016","Tajikistan","TJK",1,2029
+"1017","Thailand","THA",1,2029
+"1018","Togo","TGO",1,2029
+"1019","Trinidad and Tobago","TTO",1,2029
+"1020","Tunisia","TUN",1,2029
+"1021","Turkey","TUR",1,2029
+"1022","Turkmenistan","TKM",1,2029
+"1023","Ukraine","UKR",1,2029
+"1024","United Arab Emirates","ARE",1,2029
+"1025","United Kingdom","GBR",1,2029
+"1026","United States","USA",1,2029
+"1027","Uruguay","URY",1,2029
+"1028","Uzbekistan","UZB",1,2029
+"1029","Venezuela","VEN",1,2029
+"1030","Vietnam","VNM",1,2029
+"1031","Zambia","ZMB",1,2029
+"1032","Zimbabwe","ZWE",1,2029
+"1033","Albania","ALB",1,2030
+"1034","Algeria","DZA",1,2030
+"1035","Angola","AGO",1,2030
+"1036","Argentina","ARG",1,2030
+"1037","Armenia","ARM",1,2030
+"1038","Australia","AUS",1,2030
+"1039","Austria","AUT",1,2030
+"1040","Azerbaijan","AZE",1,2030
+"1041","Bahrain","BHR",1,2030
+"1042","Bangladesh","BGD",1,2030
+"1043","Belarus","BLR",1,2030
+"1044","Belgium","BEL",1,2030
+"1045","Benin","BEN",1,2030
+"1046","Bolivia","BOL",1,2030
+"1047","Bosnia and Herzegovina","BIH",1,2030
+"1048","Botswana","BWA",1,2030
+"1049","Brazil","BRA",1,2030
+"1050","Brunei Darussalam","BRN",1,2030
+"1051","Bulgaria","BGR",1,2030
+"1052","Cambodia","KHM",1,2030
+"1053","Cameroon","CMR",1,2030
+"1054","Canada","CAN",1,2030
+"1055","Chile","CHL",1,2030
+"1056","China","CHN",1,2030
+"1057","Colombia","COL",1,2030
+"1058","Costa Rica","CRI",1,2030
+"1059","Croatia","HRV",1,2030
+"1060","Cuba","CUB",1,2030
+"1061","Cyprus","CYP",1,2030
+"1062","Denmark","DNK",1,2030
+"1063","Dominican Republic","DOM",1,2030
+"1064","Ecuador","ECU",1,2030
+"1065","Egypt","EGY",1,2030
+"1066","El Salvador","SLV",1,2030
+"1067","Eritrea","ERI",1,2030
+"1068","Estonia","EST",1,2030
+"1069","Ethiopia","ETH",1,2030
+"1070","Finland","FIN",1,2030
+"1071","France","FRA",1,2030
+"1072","Gabon","GAB",1,2030
+"1073","Georgia","GEO",1,2030
+"1074","Germany","DEU",1,2030
+"1075","Ghana","GHA",1,2030
+"1076","Gibraltar","GIB",1,2030
+"1077","Greece","GRC",1,2030
+"1078","Guatemala","GTM",1,2030
+"1079","Haiti","HTI",1,2030
+"1080","Honduras","HND",1,2030
+"1081","Hungary","HUN",1,2030
+"1082","Iceland","ISL",1,2030
+"1083","India","IND",1,2030
+"1084","Indonesia","IDN",1,2030
+"1085","Iraq","IRQ",1,2030
+"1086","Ireland","IRL",1,2030
+"1087","Israel","ISR",1,2030
+"1088","Italy","ITA",1,2030
+"1089","Jamaica","JAM",1,2030
+"1090","Japan","JPN",1,2030
+"1091","Jordan","JOR",1,2030
+"1092","Kazakhstan","KAZ",1,2030
+"1093","Kenya","KEN",1,2030
+"1094","Korea","KOR",1,2030
+"1095","Kosovo","XKX",1,2030
+"1096","Kuwait","KWT",1,2030
+"1097","Latvia","LVA",1,2030
+"1098","Lebanon","LBN",1,2030
+"1099","Libya","LBY",1,2030
+"1100","Lithuania","LTU",1,2030
+"1101","Luxembourg","LUX",1,2030
+"1102","Malaysia","MYS",1,2030
+"1103","Malta","MLT",1,2030
+"1104","Mauritius","MUS",1,2030
+"1105","Mexico","MEX",1,2030
+"1106","Mongolia","MNG",1,2030
+"1107","Montenegro","MNE",1,2030
+"1108","Morocco","MAR",1,2030
+"1109","Mozambique","MOZ",1,2030
+"1110","Myanmar","MMR",1,2030
+"1111","Namibia","NAM",1,2030
+"1112","Nepal","NPL",1,2030
+"1113","Netherlands","NLD",1,2030
+"1114","New Zealand","NZL",1,2030
+"1115","Nicaragua","NIC",1,2030
+"1116","Niger","NER",1,2030
+"1117","Nigeria","NGA",1,2030
+"1118","Norway","NOR",1,2030
+"1119","Oman","OMN",1,2030
+"1120","Pakistan","PAK",1,2030
+"1121","Panama","PAN",1,2030
+"1122","Paraguay","PRY",1,2030
+"1123","Peru","PER",1,2030
+"1124","Philippines","PHL",1,2030
+"1125","Poland","POL",1,2030
+"1126","Portugal","PRT",1,2030
+"1127","Qatar","QAT",1,2030
+"1128","Romania","ROU",1,2030
+"1129","Russian Federation","RUS",1,2030
+"1130","Saudi Arabia","SAU",1,2030
+"1131","Senegal","SEN",1,2030
+"1132","Serbia","SRB",1,2030
+"1133","Singapore","SGP",1,2030
+"1134","Slovak Republic","SVK",1,2030
+"1135","Slovenia","SVN",1,2030
+"1136","South Africa","ZAF",1,2030
+"1137","South Sudan","SSD",1,2030
+"1138","Spain","ESP",1,2030
+"1139","Sri Lanka","LKA",1,2030
+"1140","Sudan","SDN",1,2030
+"1141","Suriname","SUR",1,2030
+"1142","Sweden","SWE",1,2030
+"1143","Switzerland","CHE",1,2030
+"1144","Syrian Arab Republic","SYR",1,2030
+"1145","Tajikistan","TJK",1,2030
+"1146","Thailand","THA",1,2030
+"1147","Togo","TGO",1,2030
+"1148","Trinidad and Tobago","TTO",1,2030
+"1149","Tunisia","TUN",1,2030
+"1150","Turkey","TUR",1,2030
+"1151","Turkmenistan","TKM",1,2030
+"1152","Ukraine","UKR",1,2030
+"1153","United Arab Emirates","ARE",1,2030
+"1154","United Kingdom","GBR",1,2030
+"1155","United States","USA",1,2030
+"1156","Uruguay","URY",1,2030
+"1157","Uzbekistan","UZB",1,2030
+"1158","Venezuela","VEN",1,2030
+"1159","Vietnam","VNM",1,2030
+"1160","Zambia","ZMB",1,2030
+"1161","Zimbabwe","ZWE",1,2030
+"1162","Albania","ALB",1,2031
+"1163","Algeria","DZA",1,2031
+"1164","Angola","AGO",1,2031
+"1165","Argentina","ARG",1,2031
+"1166","Armenia","ARM",1,2031
+"1167","Australia","AUS",1,2031
+"1168","Austria","AUT",1,2031
+"1169","Azerbaijan","AZE",1,2031
+"1170","Bahrain","BHR",1,2031
+"1171","Bangladesh","BGD",1,2031
+"1172","Belarus","BLR",1,2031
+"1173","Belgium","BEL",1,2031
+"1174","Benin","BEN",1,2031
+"1175","Bolivia","BOL",1,2031
+"1176","Bosnia and Herzegovina","BIH",1,2031
+"1177","Botswana","BWA",1,2031
+"1178","Brazil","BRA",1,2031
+"1179","Brunei Darussalam","BRN",1,2031
+"1180","Bulgaria","BGR",1,2031
+"1181","Cambodia","KHM",1,2031
+"1182","Cameroon","CMR",1,2031
+"1183","Canada","CAN",1,2031
+"1184","Chile","CHL",1,2031
+"1185","China","CHN",1,2031
+"1186","Colombia","COL",1,2031
+"1187","Costa Rica","CRI",1,2031
+"1188","Croatia","HRV",1,2031
+"1189","Cuba","CUB",1,2031
+"1190","Cyprus","CYP",1,2031
+"1191","Denmark","DNK",1,2031
+"1192","Dominican Republic","DOM",1,2031
+"1193","Ecuador","ECU",1,2031
+"1194","Egypt","EGY",1,2031
+"1195","El Salvador","SLV",1,2031
+"1196","Eritrea","ERI",1,2031
+"1197","Estonia","EST",1,2031
+"1198","Ethiopia","ETH",1,2031
+"1199","Finland","FIN",1,2031
+"1200","France","FRA",1,2031
+"1201","Gabon","GAB",1,2031
+"1202","Georgia","GEO",1,2031
+"1203","Germany","DEU",1,2031
+"1204","Ghana","GHA",1,2031
+"1205","Gibraltar","GIB",1,2031
+"1206","Greece","GRC",1,2031
+"1207","Guatemala","GTM",1,2031
+"1208","Haiti","HTI",1,2031
+"1209","Honduras","HND",1,2031
+"1210","Hungary","HUN",1,2031
+"1211","Iceland","ISL",1,2031
+"1212","India","IND",1,2031
+"1213","Indonesia","IDN",1,2031
+"1214","Iraq","IRQ",1,2031
+"1215","Ireland","IRL",1,2031
+"1216","Israel","ISR",1,2031
+"1217","Italy","ITA",1,2031
+"1218","Jamaica","JAM",1,2031
+"1219","Japan","JPN",1,2031
+"1220","Jordan","JOR",1,2031
+"1221","Kazakhstan","KAZ",1,2031
+"1222","Kenya","KEN",1,2031
+"1223","Korea","KOR",1,2031
+"1224","Kosovo","XKX",1,2031
+"1225","Kuwait","KWT",1,2031
+"1226","Latvia","LVA",1,2031
+"1227","Lebanon","LBN",1,2031
+"1228","Libya","LBY",1,2031
+"1229","Lithuania","LTU",1,2031
+"1230","Luxembourg","LUX",1,2031
+"1231","Malaysia","MYS",1,2031
+"1232","Malta","MLT",1,2031
+"1233","Mauritius","MUS",1,2031
+"1234","Mexico","MEX",1,2031
+"1235","Mongolia","MNG",1,2031
+"1236","Montenegro","MNE",1,2031
+"1237","Morocco","MAR",1,2031
+"1238","Mozambique","MOZ",1,2031
+"1239","Myanmar","MMR",1,2031
+"1240","Namibia","NAM",1,2031
+"1241","Nepal","NPL",1,2031
+"1242","Netherlands","NLD",1,2031
+"1243","New Zealand","NZL",1,2031
+"1244","Nicaragua","NIC",1,2031
+"1245","Niger","NER",1,2031
+"1246","Nigeria","NGA",1,2031
+"1247","Norway","NOR",1,2031
+"1248","Oman","OMN",1,2031
+"1249","Pakistan","PAK",1,2031
+"1250","Panama","PAN",1,2031
+"1251","Paraguay","PRY",1,2031
+"1252","Peru","PER",1,2031
+"1253","Philippines","PHL",1,2031
+"1254","Poland","POL",1,2031
+"1255","Portugal","PRT",1,2031
+"1256","Qatar","QAT",1,2031
+"1257","Romania","ROU",1,2031
+"1258","Russian Federation","RUS",1,2031
+"1259","Saudi Arabia","SAU",1,2031
+"1260","Senegal","SEN",1,2031
+"1261","Serbia","SRB",1,2031
+"1262","Singapore","SGP",1,2031
+"1263","Slovak Republic","SVK",1,2031
+"1264","Slovenia","SVN",1,2031
+"1265","South Africa","ZAF",1,2031
+"1266","South Sudan","SSD",1,2031
+"1267","Spain","ESP",1,2031
+"1268","Sri Lanka","LKA",1,2031
+"1269","Sudan","SDN",1,2031
+"1270","Suriname","SUR",1,2031
+"1271","Sweden","SWE",1,2031
+"1272","Switzerland","CHE",1,2031
+"1273","Syrian Arab Republic","SYR",1,2031
+"1274","Tajikistan","TJK",1,2031
+"1275","Thailand","THA",1,2031
+"1276","Togo","TGO",1,2031
+"1277","Trinidad and Tobago","TTO",1,2031
+"1278","Tunisia","TUN",1,2031
+"1279","Turkey","TUR",1,2031
+"1280","Turkmenistan","TKM",1,2031
+"1281","Ukraine","UKR",1,2031
+"1282","United Arab Emirates","ARE",1,2031
+"1283","United Kingdom","GBR",1,2031
+"1284","United States","USA",1,2031
+"1285","Uruguay","URY",1,2031
+"1286","Uzbekistan","UZB",1,2031
+"1287","Venezuela","VEN",1,2031
+"1288","Vietnam","VNM",1,2031
+"1289","Zambia","ZMB",1,2031
+"1290","Zimbabwe","ZWE",1,2031
+"1291","Albania","ALB",1,2032
+"1292","Algeria","DZA",1,2032
+"1293","Angola","AGO",1,2032
+"1294","Argentina","ARG",1,2032
+"1295","Armenia","ARM",1,2032
+"1296","Australia","AUS",1,2032
+"1297","Austria","AUT",1,2032
+"1298","Azerbaijan","AZE",1,2032
+"1299","Bahrain","BHR",1,2032
+"1300","Bangladesh","BGD",1,2032
+"1301","Belarus","BLR",1,2032
+"1302","Belgium","BEL",1,2032
+"1303","Benin","BEN",1,2032
+"1304","Bolivia","BOL",1,2032
+"1305","Bosnia and Herzegovina","BIH",1,2032
+"1306","Botswana","BWA",1,2032
+"1307","Brazil","BRA",1,2032
+"1308","Brunei Darussalam","BRN",1,2032
+"1309","Bulgaria","BGR",1,2032
+"1310","Cambodia","KHM",1,2032
+"1311","Cameroon","CMR",1,2032
+"1312","Canada","CAN",1,2032
+"1313","Chile","CHL",1,2032
+"1314","China","CHN",1,2032
+"1315","Colombia","COL",1,2032
+"1316","Costa Rica","CRI",1,2032
+"1317","Croatia","HRV",1,2032
+"1318","Cuba","CUB",1,2032
+"1319","Cyprus","CYP",1,2032
+"1320","Denmark","DNK",1,2032
+"1321","Dominican Republic","DOM",1,2032
+"1322","Ecuador","ECU",1,2032
+"1323","Egypt","EGY",1,2032
+"1324","El Salvador","SLV",1,2032
+"1325","Eritrea","ERI",1,2032
+"1326","Estonia","EST",1,2032
+"1327","Ethiopia","ETH",1,2032
+"1328","Finland","FIN",1,2032
+"1329","France","FRA",1,2032
+"1330","Gabon","GAB",1,2032
+"1331","Georgia","GEO",1,2032
+"1332","Germany","DEU",1,2032
+"1333","Ghana","GHA",1,2032
+"1334","Gibraltar","GIB",1,2032
+"1335","Greece","GRC",1,2032
+"1336","Guatemala","GTM",1,2032
+"1337","Haiti","HTI",1,2032
+"1338","Honduras","HND",1,2032
+"1339","Hungary","HUN",1,2032
+"1340","Iceland","ISL",1,2032
+"1341","India","IND",1,2032
+"1342","Indonesia","IDN",1,2032
+"1343","Iraq","IRQ",1,2032
+"1344","Ireland","IRL",1,2032
+"1345","Israel","ISR",1,2032
+"1346","Italy","ITA",1,2032
+"1347","Jamaica","JAM",1,2032
+"1348","Japan","JPN",1,2032
+"1349","Jordan","JOR",1,2032
+"1350","Kazakhstan","KAZ",1,2032
+"1351","Kenya","KEN",1,2032
+"1352","Korea","KOR",1,2032
+"1353","Kosovo","XKX",1,2032
+"1354","Kuwait","KWT",1,2032
+"1355","Latvia","LVA",1,2032
+"1356","Lebanon","LBN",1,2032
+"1357","Libya","LBY",1,2032
+"1358","Lithuania","LTU",1,2032
+"1359","Luxembourg","LUX",1,2032
+"1360","Malaysia","MYS",1,2032
+"1361","Malta","MLT",1,2032
+"1362","Mauritius","MUS",1,2032
+"1363","Mexico","MEX",1,2032
+"1364","Mongolia","MNG",1,2032
+"1365","Montenegro","MNE",1,2032
+"1366","Morocco","MAR",1,2032
+"1367","Mozambique","MOZ",1,2032
+"1368","Myanmar","MMR",1,2032
+"1369","Namibia","NAM",1,2032
+"1370","Nepal","NPL",1,2032
+"1371","Netherlands","NLD",1,2032
+"1372","New Zealand","NZL",1,2032
+"1373","Nicaragua","NIC",1,2032
+"1374","Niger","NER",1,2032
+"1375","Nigeria","NGA",1,2032
+"1376","Norway","NOR",1,2032
+"1377","Oman","OMN",1,2032
+"1378","Pakistan","PAK",1,2032
+"1379","Panama","PAN",1,2032
+"1380","Paraguay","PRY",1,2032
+"1381","Peru","PER",1,2032
+"1382","Philippines","PHL",1,2032
+"1383","Poland","POL",1,2032
+"1384","Portugal","PRT",1,2032
+"1385","Qatar","QAT",1,2032
+"1386","Romania","ROU",1,2032
+"1387","Russian Federation","RUS",1,2032
+"1388","Saudi Arabia","SAU",1,2032
+"1389","Senegal","SEN",1,2032
+"1390","Serbia","SRB",1,2032
+"1391","Singapore","SGP",1,2032
+"1392","Slovak Republic","SVK",1,2032
+"1393","Slovenia","SVN",1,2032
+"1394","South Africa","ZAF",1,2032
+"1395","South Sudan","SSD",1,2032
+"1396","Spain","ESP",1,2032
+"1397","Sri Lanka","LKA",1,2032
+"1398","Sudan","SDN",1,2032
+"1399","Suriname","SUR",1,2032
+"1400","Sweden","SWE",1,2032
+"1401","Switzerland","CHE",1,2032
+"1402","Syrian Arab Republic","SYR",1,2032
+"1403","Tajikistan","TJK",1,2032
+"1404","Thailand","THA",1,2032
+"1405","Togo","TGO",1,2032
+"1406","Trinidad and Tobago","TTO",1,2032
+"1407","Tunisia","TUN",1,2032
+"1408","Turkey","TUR",1,2032
+"1409","Turkmenistan","TKM",1,2032
+"1410","Ukraine","UKR",1,2032
+"1411","United Arab Emirates","ARE",1,2032
+"1412","United Kingdom","GBR",1,2032
+"1413","United States","USA",1,2032
+"1414","Uruguay","URY",1,2032
+"1415","Uzbekistan","UZB",1,2032
+"1416","Venezuela","VEN",1,2032
+"1417","Vietnam","VNM",1,2032
+"1418","Zambia","ZMB",1,2032
+"1419","Zimbabwe","ZWE",1,2032
+"1420","Albania","ALB",1,2033
+"1421","Algeria","DZA",1,2033
+"1422","Angola","AGO",1,2033
+"1423","Argentina","ARG",1,2033
+"1424","Armenia","ARM",1,2033
+"1425","Australia","AUS",1,2033
+"1426","Austria","AUT",1,2033
+"1427","Azerbaijan","AZE",1,2033
+"1428","Bahrain","BHR",1,2033
+"1429","Bangladesh","BGD",1,2033
+"1430","Belarus","BLR",1,2033
+"1431","Belgium","BEL",1,2033
+"1432","Benin","BEN",1,2033
+"1433","Bolivia","BOL",1,2033
+"1434","Bosnia and Herzegovina","BIH",1,2033
+"1435","Botswana","BWA",1,2033
+"1436","Brazil","BRA",1,2033
+"1437","Brunei Darussalam","BRN",1,2033
+"1438","Bulgaria","BGR",1,2033
+"1439","Cambodia","KHM",1,2033
+"1440","Cameroon","CMR",1,2033
+"1441","Canada","CAN",1,2033
+"1442","Chile","CHL",1,2033
+"1443","China","CHN",1,2033
+"1444","Colombia","COL",1,2033
+"1445","Costa Rica","CRI",1,2033
+"1446","Croatia","HRV",1,2033
+"1447","Cuba","CUB",1,2033
+"1448","Cyprus","CYP",1,2033
+"1449","Denmark","DNK",1,2033
+"1450","Dominican Republic","DOM",1,2033
+"1451","Ecuador","ECU",1,2033
+"1452","Egypt","EGY",1,2033
+"1453","El Salvador","SLV",1,2033
+"1454","Eritrea","ERI",1,2033
+"1455","Estonia","EST",1,2033
+"1456","Ethiopia","ETH",1,2033
+"1457","Finland","FIN",1,2033
+"1458","France","FRA",1,2033
+"1459","Gabon","GAB",1,2033
+"1460","Georgia","GEO",1,2033
+"1461","Germany","DEU",1,2033
+"1462","Ghana","GHA",1,2033
+"1463","Gibraltar","GIB",1,2033
+"1464","Greece","GRC",1,2033
+"1465","Guatemala","GTM",1,2033
+"1466","Haiti","HTI",1,2033
+"1467","Honduras","HND",1,2033
+"1468","Hungary","HUN",1,2033
+"1469","Iceland","ISL",1,2033
+"1470","India","IND",1,2033
+"1471","Indonesia","IDN",1,2033
+"1472","Iraq","IRQ",1,2033
+"1473","Ireland","IRL",1,2033
+"1474","Israel","ISR",1,2033
+"1475","Italy","ITA",1,2033
+"1476","Jamaica","JAM",1,2033
+"1477","Japan","JPN",1,2033
+"1478","Jordan","JOR",1,2033
+"1479","Kazakhstan","KAZ",1,2033
+"1480","Kenya","KEN",1,2033
+"1481","Korea","KOR",1,2033
+"1482","Kosovo","XKX",1,2033
+"1483","Kuwait","KWT",1,2033
+"1484","Latvia","LVA",1,2033
+"1485","Lebanon","LBN",1,2033
+"1486","Libya","LBY",1,2033
+"1487","Lithuania","LTU",1,2033
+"1488","Luxembourg","LUX",1,2033
+"1489","Malaysia","MYS",1,2033
+"1490","Malta","MLT",1,2033
+"1491","Mauritius","MUS",1,2033
+"1492","Mexico","MEX",1,2033
+"1493","Mongolia","MNG",1,2033
+"1494","Montenegro","MNE",1,2033
+"1495","Morocco","MAR",1,2033
+"1496","Mozambique","MOZ",1,2033
+"1497","Myanmar","MMR",1,2033
+"1498","Namibia","NAM",1,2033
+"1499","Nepal","NPL",1,2033
+"1500","Netherlands","NLD",1,2033
+"1501","New Zealand","NZL",1,2033
+"1502","Nicaragua","NIC",1,2033
+"1503","Niger","NER",1,2033
+"1504","Nigeria","NGA",1,2033
+"1505","Norway","NOR",1,2033
+"1506","Oman","OMN",1,2033
+"1507","Pakistan","PAK",1,2033
+"1508","Panama","PAN",1,2033
+"1509","Paraguay","PRY",1,2033
+"1510","Peru","PER",1,2033
+"1511","Philippines","PHL",1,2033
+"1512","Poland","POL",1,2033
+"1513","Portugal","PRT",1,2033
+"1514","Qatar","QAT",1,2033
+"1515","Romania","ROU",1,2033
+"1516","Russian Federation","RUS",1,2033
+"1517","Saudi Arabia","SAU",1,2033
+"1518","Senegal","SEN",1,2033
+"1519","Serbia","SRB",1,2033
+"1520","Singapore","SGP",1,2033
+"1521","Slovak Republic","SVK",1,2033
+"1522","Slovenia","SVN",1,2033
+"1523","South Africa","ZAF",1,2033
+"1524","South Sudan","SSD",1,2033
+"1525","Spain","ESP",1,2033
+"1526","Sri Lanka","LKA",1,2033
+"1527","Sudan","SDN",1,2033
+"1528","Suriname","SUR",1,2033
+"1529","Sweden","SWE",1,2033
+"1530","Switzerland","CHE",1,2033
+"1531","Syrian Arab Republic","SYR",1,2033
+"1532","Tajikistan","TJK",1,2033
+"1533","Thailand","THA",1,2033
+"1534","Togo","TGO",1,2033
+"1535","Trinidad and Tobago","TTO",1,2033
+"1536","Tunisia","TUN",1,2033
+"1537","Turkey","TUR",1,2033
+"1538","Turkmenistan","TKM",1,2033
+"1539","Ukraine","UKR",1,2033
+"1540","United Arab Emirates","ARE",1,2033
+"1541","United Kingdom","GBR",1,2033
+"1542","United States","USA",1,2033
+"1543","Uruguay","URY",1,2033
+"1544","Uzbekistan","UZB",1,2033
+"1545","Venezuela","VEN",1,2033
+"1546","Vietnam","VNM",1,2033
+"1547","Zambia","ZMB",1,2033
+"1548","Zimbabwe","ZWE",1,2033
+"1549","Albania","ALB",1,2034
+"1550","Algeria","DZA",1,2034
+"1551","Angola","AGO",1,2034
+"1552","Argentina","ARG",1,2034
+"1553","Armenia","ARM",1,2034
+"1554","Australia","AUS",1,2034
+"1555","Austria","AUT",1,2034
+"1556","Azerbaijan","AZE",1,2034
+"1557","Bahrain","BHR",1,2034
+"1558","Bangladesh","BGD",1,2034
+"1559","Belarus","BLR",1,2034
+"1560","Belgium","BEL",1,2034
+"1561","Benin","BEN",1,2034
+"1562","Bolivia","BOL",1,2034
+"1563","Bosnia and Herzegovina","BIH",1,2034
+"1564","Botswana","BWA",1,2034
+"1565","Brazil","BRA",1,2034
+"1566","Brunei Darussalam","BRN",1,2034
+"1567","Bulgaria","BGR",1,2034
+"1568","Cambodia","KHM",1,2034
+"1569","Cameroon","CMR",1,2034
+"1570","Canada","CAN",1,2034
+"1571","Chile","CHL",1,2034
+"1572","China","CHN",1,2034
+"1573","Colombia","COL",1,2034
+"1574","Costa Rica","CRI",1,2034
+"1575","Croatia","HRV",1,2034
+"1576","Cuba","CUB",1,2034
+"1577","Cyprus","CYP",1,2034
+"1578","Denmark","DNK",1,2034
+"1579","Dominican Republic","DOM",1,2034
+"1580","Ecuador","ECU",1,2034
+"1581","Egypt","EGY",1,2034
+"1582","El Salvador","SLV",1,2034
+"1583","Eritrea","ERI",1,2034
+"1584","Estonia","EST",1,2034
+"1585","Ethiopia","ETH",1,2034
+"1586","Finland","FIN",1,2034
+"1587","France","FRA",1,2034
+"1588","Gabon","GAB",1,2034
+"1589","Georgia","GEO",1,2034
+"1590","Germany","DEU",1,2034
+"1591","Ghana","GHA",1,2034
+"1592","Gibraltar","GIB",1,2034
+"1593","Greece","GRC",1,2034
+"1594","Guatemala","GTM",1,2034
+"1595","Haiti","HTI",1,2034
+"1596","Honduras","HND",1,2034
+"1597","Hungary","HUN",1,2034
+"1598","Iceland","ISL",1,2034
+"1599","India","IND",1,2034
+"1600","Indonesia","IDN",1,2034
+"1601","Iraq","IRQ",1,2034
+"1602","Ireland","IRL",1,2034
+"1603","Israel","ISR",1,2034
+"1604","Italy","ITA",1,2034
+"1605","Jamaica","JAM",1,2034
+"1606","Japan","JPN",1,2034
+"1607","Jordan","JOR",1,2034
+"1608","Kazakhstan","KAZ",1,2034
+"1609","Kenya","KEN",1,2034
+"1610","Korea","KOR",1,2034
+"1611","Kosovo","XKX",1,2034
+"1612","Kuwait","KWT",1,2034
+"1613","Latvia","LVA",1,2034
+"1614","Lebanon","LBN",1,2034
+"1615","Libya","LBY",1,2034
+"1616","Lithuania","LTU",1,2034
+"1617","Luxembourg","LUX",1,2034
+"1618","Malaysia","MYS",1,2034
+"1619","Malta","MLT",1,2034
+"1620","Mauritius","MUS",1,2034
+"1621","Mexico","MEX",1,2034
+"1622","Mongolia","MNG",1,2034
+"1623","Montenegro","MNE",1,2034
+"1624","Morocco","MAR",1,2034
+"1625","Mozambique","MOZ",1,2034
+"1626","Myanmar","MMR",1,2034
+"1627","Namibia","NAM",1,2034
+"1628","Nepal","NPL",1,2034
+"1629","Netherlands","NLD",1,2034
+"1630","New Zealand","NZL",1,2034
+"1631","Nicaragua","NIC",1,2034
+"1632","Niger","NER",1,2034
+"1633","Nigeria","NGA",1,2034
+"1634","Norway","NOR",1,2034
+"1635","Oman","OMN",1,2034
+"1636","Pakistan","PAK",1,2034
+"1637","Panama","PAN",1,2034
+"1638","Paraguay","PRY",1,2034
+"1639","Peru","PER",1,2034
+"1640","Philippines","PHL",1,2034
+"1641","Poland","POL",1,2034
+"1642","Portugal","PRT",1,2034
+"1643","Qatar","QAT",1,2034
+"1644","Romania","ROU",1,2034
+"1645","Russian Federation","RUS",1,2034
+"1646","Saudi Arabia","SAU",1,2034
+"1647","Senegal","SEN",1,2034
+"1648","Serbia","SRB",1,2034
+"1649","Singapore","SGP",1,2034
+"1650","Slovak Republic","SVK",1,2034
+"1651","Slovenia","SVN",1,2034
+"1652","South Africa","ZAF",1,2034
+"1653","South Sudan","SSD",1,2034
+"1654","Spain","ESP",1,2034
+"1655","Sri Lanka","LKA",1,2034
+"1656","Sudan","SDN",1,2034
+"1657","Suriname","SUR",1,2034
+"1658","Sweden","SWE",1,2034
+"1659","Switzerland","CHE",1,2034
+"1660","Syrian Arab Republic","SYR",1,2034
+"1661","Tajikistan","TJK",1,2034
+"1662","Thailand","THA",1,2034
+"1663","Togo","TGO",1,2034
+"1664","Trinidad and Tobago","TTO",1,2034
+"1665","Tunisia","TUN",1,2034
+"1666","Turkey","TUR",1,2034
+"1667","Turkmenistan","TKM",1,2034
+"1668","Ukraine","UKR",1,2034
+"1669","United Arab Emirates","ARE",1,2034
+"1670","United Kingdom","GBR",1,2034
+"1671","United States","USA",1,2034
+"1672","Uruguay","URY",1,2034
+"1673","Uzbekistan","UZB",1,2034
+"1674","Venezuela","VEN",1,2034
+"1675","Vietnam","VNM",1,2034
+"1676","Zambia","ZMB",1,2034
+"1677","Zimbabwe","ZWE",1,2034
+"1678","Albania","ALB",1,2035
+"1679","Algeria","DZA",1,2035
+"1680","Angola","AGO",1,2035
+"1681","Argentina","ARG",1,2035
+"1682","Armenia","ARM",1,2035
+"1683","Australia","AUS",1,2035
+"1684","Austria","AUT",1,2035
+"1685","Azerbaijan","AZE",1,2035
+"1686","Bahrain","BHR",1,2035
+"1687","Bangladesh","BGD",1,2035
+"1688","Belarus","BLR",1,2035
+"1689","Belgium","BEL",1,2035
+"1690","Benin","BEN",1,2035
+"1691","Bolivia","BOL",1,2035
+"1692","Bosnia and Herzegovina","BIH",1,2035
+"1693","Botswana","BWA",1,2035
+"1694","Brazil","BRA",1,2035
+"1695","Brunei Darussalam","BRN",1,2035
+"1696","Bulgaria","BGR",1,2035
+"1697","Cambodia","KHM",1,2035
+"1698","Cameroon","CMR",1,2035
+"1699","Canada","CAN",1,2035
+"1700","Chile","CHL",1,2035
+"1701","China","CHN",1,2035
+"1702","Colombia","COL",1,2035
+"1703","Costa Rica","CRI",1,2035
+"1704","Croatia","HRV",1,2035
+"1705","Cuba","CUB",1,2035
+"1706","Cyprus","CYP",1,2035
+"1707","Denmark","DNK",1,2035
+"1708","Dominican Republic","DOM",1,2035
+"1709","Ecuador","ECU",1,2035
+"1710","Egypt","EGY",1,2035
+"1711","El Salvador","SLV",1,2035
+"1712","Eritrea","ERI",1,2035
+"1713","Estonia","EST",1,2035
+"1714","Ethiopia","ETH",1,2035
+"1715","Finland","FIN",1,2035
+"1716","France","FRA",1,2035
+"1717","Gabon","GAB",1,2035
+"1718","Georgia","GEO",1,2035
+"1719","Germany","DEU",1,2035
+"1720","Ghana","GHA",1,2035
+"1721","Gibraltar","GIB",1,2035
+"1722","Greece","GRC",1,2035
+"1723","Guatemala","GTM",1,2035
+"1724","Haiti","HTI",1,2035
+"1725","Honduras","HND",1,2035
+"1726","Hungary","HUN",1,2035
+"1727","Iceland","ISL",1,2035
+"1728","India","IND",1,2035
+"1729","Indonesia","IDN",1,2035
+"1730","Iraq","IRQ",1,2035
+"1731","Ireland","IRL",1,2035
+"1732","Israel","ISR",1,2035
+"1733","Italy","ITA",1,2035
+"1734","Jamaica","JAM",1,2035
+"1735","Japan","JPN",1,2035
+"1736","Jordan","JOR",1,2035
+"1737","Kazakhstan","KAZ",1,2035
+"1738","Kenya","KEN",1,2035
+"1739","Korea","KOR",1,2035
+"1740","Kosovo","XKX",1,2035
+"1741","Kuwait","KWT",1,2035
+"1742","Latvia","LVA",1,2035
+"1743","Lebanon","LBN",1,2035
+"1744","Libya","LBY",1,2035
+"1745","Lithuania","LTU",1,2035
+"1746","Luxembourg","LUX",1,2035
+"1747","Malaysia","MYS",1,2035
+"1748","Malta","MLT",1,2035
+"1749","Mauritius","MUS",1,2035
+"1750","Mexico","MEX",1,2035
+"1751","Mongolia","MNG",1,2035
+"1752","Montenegro","MNE",1,2035
+"1753","Morocco","MAR",1,2035
+"1754","Mozambique","MOZ",1,2035
+"1755","Myanmar","MMR",1,2035
+"1756","Namibia","NAM",1,2035
+"1757","Nepal","NPL",1,2035
+"1758","Netherlands","NLD",1,2035
+"1759","New Zealand","NZL",1,2035
+"1760","Nicaragua","NIC",1,2035
+"1761","Niger","NER",1,2035
+"1762","Nigeria","NGA",1,2035
+"1763","Norway","NOR",1,2035
+"1764","Oman","OMN",1,2035
+"1765","Pakistan","PAK",1,2035
+"1766","Panama","PAN",1,2035
+"1767","Paraguay","PRY",1,2035
+"1768","Peru","PER",1,2035
+"1769","Philippines","PHL",1,2035
+"1770","Poland","POL",1,2035
+"1771","Portugal","PRT",1,2035
+"1772","Qatar","QAT",1,2035
+"1773","Romania","ROU",1,2035
+"1774","Russian Federation","RUS",1,2035
+"1775","Saudi Arabia","SAU",1,2035
+"1776","Senegal","SEN",1,2035
+"1777","Serbia","SRB",1,2035
+"1778","Singapore","SGP",1,2035
+"1779","Slovak Republic","SVK",1,2035
+"1780","Slovenia","SVN",1,2035
+"1781","South Africa","ZAF",1,2035
+"1782","South Sudan","SSD",1,2035
+"1783","Spain","ESP",1,2035
+"1784","Sri Lanka","LKA",1,2035
+"1785","Sudan","SDN",1,2035
+"1786","Suriname","SUR",1,2035
+"1787","Sweden","SWE",1,2035
+"1788","Switzerland","CHE",1,2035
+"1789","Syrian Arab Republic","SYR",1,2035
+"1790","Tajikistan","TJK",1,2035
+"1791","Thailand","THA",1,2035
+"1792","Togo","TGO",1,2035
+"1793","Trinidad and Tobago","TTO",1,2035
+"1794","Tunisia","TUN",1,2035
+"1795","Turkey","TUR",1,2035
+"1796","Turkmenistan","TKM",1,2035
+"1797","Ukraine","UKR",1,2035
+"1798","United Arab Emirates","ARE",1,2035
+"1799","United Kingdom","GBR",1,2035
+"1800","United States","USA",1,2035
+"1801","Uruguay","URY",1,2035
+"1802","Uzbekistan","UZB",1,2035
+"1803","Venezuela","VEN",1,2035
+"1804","Vietnam","VNM",1,2035
+"1805","Zambia","ZMB",1,2035
+"1806","Zimbabwe","ZWE",1,2035
+"1807","Albania","ALB",1,2036
+"1808","Algeria","DZA",1,2036
+"1809","Angola","AGO",1,2036
+"1810","Argentina","ARG",1,2036
+"1811","Armenia","ARM",1,2036
+"1812","Australia","AUS",1,2036
+"1813","Austria","AUT",1,2036
+"1814","Azerbaijan","AZE",1,2036
+"1815","Bahrain","BHR",1,2036
+"1816","Bangladesh","BGD",1,2036
+"1817","Belarus","BLR",1,2036
+"1818","Belgium","BEL",1,2036
+"1819","Benin","BEN",1,2036
+"1820","Bolivia","BOL",1,2036
+"1821","Bosnia and Herzegovina","BIH",1,2036
+"1822","Botswana","BWA",1,2036
+"1823","Brazil","BRA",1,2036
+"1824","Brunei Darussalam","BRN",1,2036
+"1825","Bulgaria","BGR",1,2036
+"1826","Cambodia","KHM",1,2036
+"1827","Cameroon","CMR",1,2036
+"1828","Canada","CAN",1,2036
+"1829","Chile","CHL",1,2036
+"1830","China","CHN",1,2036
+"1831","Colombia","COL",1,2036
+"1832","Costa Rica","CRI",1,2036
+"1833","Croatia","HRV",1,2036
+"1834","Cuba","CUB",1,2036
+"1835","Cyprus","CYP",1,2036
+"1836","Denmark","DNK",1,2036
+"1837","Dominican Republic","DOM",1,2036
+"1838","Ecuador","ECU",1,2036
+"1839","Egypt","EGY",1,2036
+"1840","El Salvador","SLV",1,2036
+"1841","Eritrea","ERI",1,2036
+"1842","Estonia","EST",1,2036
+"1843","Ethiopia","ETH",1,2036
+"1844","Finland","FIN",1,2036
+"1845","France","FRA",1,2036
+"1846","Gabon","GAB",1,2036
+"1847","Georgia","GEO",1,2036
+"1848","Germany","DEU",1,2036
+"1849","Ghana","GHA",1,2036
+"1850","Gibraltar","GIB",1,2036
+"1851","Greece","GRC",1,2036
+"1852","Guatemala","GTM",1,2036
+"1853","Haiti","HTI",1,2036
+"1854","Honduras","HND",1,2036
+"1855","Hungary","HUN",1,2036
+"1856","Iceland","ISL",1,2036
+"1857","India","IND",1,2036
+"1858","Indonesia","IDN",1,2036
+"1859","Iraq","IRQ",1,2036
+"1860","Ireland","IRL",1,2036
+"1861","Israel","ISR",1,2036
+"1862","Italy","ITA",1,2036
+"1863","Jamaica","JAM",1,2036
+"1864","Japan","JPN",1,2036
+"1865","Jordan","JOR",1,2036
+"1866","Kazakhstan","KAZ",1,2036
+"1867","Kenya","KEN",1,2036
+"1868","Korea","KOR",1,2036
+"1869","Kosovo","XKX",1,2036
+"1870","Kuwait","KWT",1,2036
+"1871","Latvia","LVA",1,2036
+"1872","Lebanon","LBN",1,2036
+"1873","Libya","LBY",1,2036
+"1874","Lithuania","LTU",1,2036
+"1875","Luxembourg","LUX",1,2036
+"1876","Malaysia","MYS",1,2036
+"1877","Malta","MLT",1,2036
+"1878","Mauritius","MUS",1,2036
+"1879","Mexico","MEX",1,2036
+"1880","Mongolia","MNG",1,2036
+"1881","Montenegro","MNE",1,2036
+"1882","Morocco","MAR",1,2036
+"1883","Mozambique","MOZ",1,2036
+"1884","Myanmar","MMR",1,2036
+"1885","Namibia","NAM",1,2036
+"1886","Nepal","NPL",1,2036
+"1887","Netherlands","NLD",1,2036
+"1888","New Zealand","NZL",1,2036
+"1889","Nicaragua","NIC",1,2036
+"1890","Niger","NER",1,2036
+"1891","Nigeria","NGA",1,2036
+"1892","Norway","NOR",1,2036
+"1893","Oman","OMN",1,2036
+"1894","Pakistan","PAK",1,2036
+"1895","Panama","PAN",1,2036
+"1896","Paraguay","PRY",1,2036
+"1897","Peru","PER",1,2036
+"1898","Philippines","PHL",1,2036
+"1899","Poland","POL",1,2036
+"1900","Portugal","PRT",1,2036
+"1901","Qatar","QAT",1,2036
+"1902","Romania","ROU",1,2036
+"1903","Russian Federation","RUS",1,2036
+"1904","Saudi Arabia","SAU",1,2036
+"1905","Senegal","SEN",1,2036
+"1906","Serbia","SRB",1,2036
+"1907","Singapore","SGP",1,2036
+"1908","Slovak Republic","SVK",1,2036
+"1909","Slovenia","SVN",1,2036
+"1910","South Africa","ZAF",1,2036
+"1911","South Sudan","SSD",1,2036
+"1912","Spain","ESP",1,2036
+"1913","Sri Lanka","LKA",1,2036
+"1914","Sudan","SDN",1,2036
+"1915","Suriname","SUR",1,2036
+"1916","Sweden","SWE",1,2036
+"1917","Switzerland","CHE",1,2036
+"1918","Syrian Arab Republic","SYR",1,2036
+"1919","Tajikistan","TJK",1,2036
+"1920","Thailand","THA",1,2036
+"1921","Togo","TGO",1,2036
+"1922","Trinidad and Tobago","TTO",1,2036
+"1923","Tunisia","TUN",1,2036
+"1924","Turkey","TUR",1,2036
+"1925","Turkmenistan","TKM",1,2036
+"1926","Ukraine","UKR",1,2036
+"1927","United Arab Emirates","ARE",1,2036
+"1928","United Kingdom","GBR",1,2036
+"1929","United States","USA",1,2036
+"1930","Uruguay","URY",1,2036
+"1931","Uzbekistan","UZB",1,2036
+"1932","Venezuela","VEN",1,2036
+"1933","Vietnam","VNM",1,2036
+"1934","Zambia","ZMB",1,2036
+"1935","Zimbabwe","ZWE",1,2036
+"1936","Albania","ALB",1,2037
+"1937","Algeria","DZA",1,2037
+"1938","Angola","AGO",1,2037
+"1939","Argentina","ARG",1,2037
+"1940","Armenia","ARM",1,2037
+"1941","Australia","AUS",1,2037
+"1942","Austria","AUT",1,2037
+"1943","Azerbaijan","AZE",1,2037
+"1944","Bahrain","BHR",1,2037
+"1945","Bangladesh","BGD",1,2037
+"1946","Belarus","BLR",1,2037
+"1947","Belgium","BEL",1,2037
+"1948","Benin","BEN",1,2037
+"1949","Bolivia","BOL",1,2037
+"1950","Bosnia and Herzegovina","BIH",1,2037
+"1951","Botswana","BWA",1,2037
+"1952","Brazil","BRA",1,2037
+"1953","Brunei Darussalam","BRN",1,2037
+"1954","Bulgaria","BGR",1,2037
+"1955","Cambodia","KHM",1,2037
+"1956","Cameroon","CMR",1,2037
+"1957","Canada","CAN",1,2037
+"1958","Chile","CHL",1,2037
+"1959","China","CHN",1,2037
+"1960","Colombia","COL",1,2037
+"1961","Costa Rica","CRI",1,2037
+"1962","Croatia","HRV",1,2037
+"1963","Cuba","CUB",1,2037
+"1964","Cyprus","CYP",1,2037
+"1965","Denmark","DNK",1,2037
+"1966","Dominican Republic","DOM",1,2037
+"1967","Ecuador","ECU",1,2037
+"1968","Egypt","EGY",1,2037
+"1969","El Salvador","SLV",1,2037
+"1970","Eritrea","ERI",1,2037
+"1971","Estonia","EST",1,2037
+"1972","Ethiopia","ETH",1,2037
+"1973","Finland","FIN",1,2037
+"1974","France","FRA",1,2037
+"1975","Gabon","GAB",1,2037
+"1976","Georgia","GEO",1,2037
+"1977","Germany","DEU",1,2037
+"1978","Ghana","GHA",1,2037
+"1979","Gibraltar","GIB",1,2037
+"1980","Greece","GRC",1,2037
+"1981","Guatemala","GTM",1,2037
+"1982","Haiti","HTI",1,2037
+"1983","Honduras","HND",1,2037
+"1984","Hungary","HUN",1,2037
+"1985","Iceland","ISL",1,2037
+"1986","India","IND",1,2037
+"1987","Indonesia","IDN",1,2037
+"1988","Iraq","IRQ",1,2037
+"1989","Ireland","IRL",1,2037
+"1990","Israel","ISR",1,2037
+"1991","Italy","ITA",1,2037
+"1992","Jamaica","JAM",1,2037
+"1993","Japan","JPN",1,2037
+"1994","Jordan","JOR",1,2037
+"1995","Kazakhstan","KAZ",1,2037
+"1996","Kenya","KEN",1,2037
+"1997","Korea","KOR",1,2037
+"1998","Kosovo","XKX",1,2037
+"1999","Kuwait","KWT",1,2037
+"2000","Latvia","LVA",1,2037
+"2001","Lebanon","LBN",1,2037
+"2002","Libya","LBY",1,2037
+"2003","Lithuania","LTU",1,2037
+"2004","Luxembourg","LUX",1,2037
+"2005","Malaysia","MYS",1,2037
+"2006","Malta","MLT",1,2037
+"2007","Mauritius","MUS",1,2037
+"2008","Mexico","MEX",1,2037
+"2009","Mongolia","MNG",1,2037
+"2010","Montenegro","MNE",1,2037
+"2011","Morocco","MAR",1,2037
+"2012","Mozambique","MOZ",1,2037
+"2013","Myanmar","MMR",1,2037
+"2014","Namibia","NAM",1,2037
+"2015","Nepal","NPL",1,2037
+"2016","Netherlands","NLD",1,2037
+"2017","New Zealand","NZL",1,2037
+"2018","Nicaragua","NIC",1,2037
+"2019","Niger","NER",1,2037
+"2020","Nigeria","NGA",1,2037
+"2021","Norway","NOR",1,2037
+"2022","Oman","OMN",1,2037
+"2023","Pakistan","PAK",1,2037
+"2024","Panama","PAN",1,2037
+"2025","Paraguay","PRY",1,2037
+"2026","Peru","PER",1,2037
+"2027","Philippines","PHL",1,2037
+"2028","Poland","POL",1,2037
+"2029","Portugal","PRT",1,2037
+"2030","Qatar","QAT",1,2037
+"2031","Romania","ROU",1,2037
+"2032","Russian Federation","RUS",1,2037
+"2033","Saudi Arabia","SAU",1,2037
+"2034","Senegal","SEN",1,2037
+"2035","Serbia","SRB",1,2037
+"2036","Singapore","SGP",1,2037
+"2037","Slovak Republic","SVK",1,2037
+"2038","Slovenia","SVN",1,2037
+"2039","South Africa","ZAF",1,2037
+"2040","South Sudan","SSD",1,2037
+"2041","Spain","ESP",1,2037
+"2042","Sri Lanka","LKA",1,2037
+"2043","Sudan","SDN",1,2037
+"2044","Suriname","SUR",1,2037
+"2045","Sweden","SWE",1,2037
+"2046","Switzerland","CHE",1,2037
+"2047","Syrian Arab Republic","SYR",1,2037
+"2048","Tajikistan","TJK",1,2037
+"2049","Thailand","THA",1,2037
+"2050","Togo","TGO",1,2037
+"2051","Trinidad and Tobago","TTO",1,2037
+"2052","Tunisia","TUN",1,2037
+"2053","Turkey","TUR",1,2037
+"2054","Turkmenistan","TKM",1,2037
+"2055","Ukraine","UKR",1,2037
+"2056","United Arab Emirates","ARE",1,2037
+"2057","United Kingdom","GBR",1,2037
+"2058","United States","USA",1,2037
+"2059","Uruguay","URY",1,2037
+"2060","Uzbekistan","UZB",1,2037
+"2061","Venezuela","VEN",1,2037
+"2062","Vietnam","VNM",1,2037
+"2063","Zambia","ZMB",1,2037
+"2064","Zimbabwe","ZWE",1,2037
+"2065","Albania","ALB",1,2038
+"2066","Algeria","DZA",1,2038
+"2067","Angola","AGO",1,2038
+"2068","Argentina","ARG",1,2038
+"2069","Armenia","ARM",1,2038
+"2070","Australia","AUS",1,2038
+"2071","Austria","AUT",1,2038
+"2072","Azerbaijan","AZE",1,2038
+"2073","Bahrain","BHR",1,2038
+"2074","Bangladesh","BGD",1,2038
+"2075","Belarus","BLR",1,2038
+"2076","Belgium","BEL",1,2038
+"2077","Benin","BEN",1,2038
+"2078","Bolivia","BOL",1,2038
+"2079","Bosnia and Herzegovina","BIH",1,2038
+"2080","Botswana","BWA",1,2038
+"2081","Brazil","BRA",1,2038
+"2082","Brunei Darussalam","BRN",1,2038
+"2083","Bulgaria","BGR",1,2038
+"2084","Cambodia","KHM",1,2038
+"2085","Cameroon","CMR",1,2038
+"2086","Canada","CAN",1,2038
+"2087","Chile","CHL",1,2038
+"2088","China","CHN",1,2038
+"2089","Colombia","COL",1,2038
+"2090","Costa Rica","CRI",1,2038
+"2091","Croatia","HRV",1,2038
+"2092","Cuba","CUB",1,2038
+"2093","Cyprus","CYP",1,2038
+"2094","Denmark","DNK",1,2038
+"2095","Dominican Republic","DOM",1,2038
+"2096","Ecuador","ECU",1,2038
+"2097","Egypt","EGY",1,2038
+"2098","El Salvador","SLV",1,2038
+"2099","Eritrea","ERI",1,2038
+"2100","Estonia","EST",1,2038
+"2101","Ethiopia","ETH",1,2038
+"2102","Finland","FIN",1,2038
+"2103","France","FRA",1,2038
+"2104","Gabon","GAB",1,2038
+"2105","Georgia","GEO",1,2038
+"2106","Germany","DEU",1,2038
+"2107","Ghana","GHA",1,2038
+"2108","Gibraltar","GIB",1,2038
+"2109","Greece","GRC",1,2038
+"2110","Guatemala","GTM",1,2038
+"2111","Haiti","HTI",1,2038
+"2112","Honduras","HND",1,2038
+"2113","Hungary","HUN",1,2038
+"2114","Iceland","ISL",1,2038
+"2115","India","IND",1,2038
+"2116","Indonesia","IDN",1,2038
+"2117","Iraq","IRQ",1,2038
+"2118","Ireland","IRL",1,2038
+"2119","Israel","ISR",1,2038
+"2120","Italy","ITA",1,2038
+"2121","Jamaica","JAM",1,2038
+"2122","Japan","JPN",1,2038
+"2123","Jordan","JOR",1,2038
+"2124","Kazakhstan","KAZ",1,2038
+"2125","Kenya","KEN",1,2038
+"2126","Korea","KOR",1,2038
+"2127","Kosovo","XKX",1,2038
+"2128","Kuwait","KWT",1,2038
+"2129","Latvia","LVA",1,2038
+"2130","Lebanon","LBN",1,2038
+"2131","Libya","LBY",1,2038
+"2132","Lithuania","LTU",1,2038
+"2133","Luxembourg","LUX",1,2038
+"2134","Malaysia","MYS",1,2038
+"2135","Malta","MLT",1,2038
+"2136","Mauritius","MUS",1,2038
+"2137","Mexico","MEX",1,2038
+"2138","Mongolia","MNG",1,2038
+"2139","Montenegro","MNE",1,2038
+"2140","Morocco","MAR",1,2038
+"2141","Mozambique","MOZ",1,2038
+"2142","Myanmar","MMR",1,2038
+"2143","Namibia","NAM",1,2038
+"2144","Nepal","NPL",1,2038
+"2145","Netherlands","NLD",1,2038
+"2146","New Zealand","NZL",1,2038
+"2147","Nicaragua","NIC",1,2038
+"2148","Niger","NER",1,2038
+"2149","Nigeria","NGA",1,2038
+"2150","Norway","NOR",1,2038
+"2151","Oman","OMN",1,2038
+"2152","Pakistan","PAK",1,2038
+"2153","Panama","PAN",1,2038
+"2154","Paraguay","PRY",1,2038
+"2155","Peru","PER",1,2038
+"2156","Philippines","PHL",1,2038
+"2157","Poland","POL",1,2038
+"2158","Portugal","PRT",1,2038
+"2159","Qatar","QAT",1,2038
+"2160","Romania","ROU",1,2038
+"2161","Russian Federation","RUS",1,2038
+"2162","Saudi Arabia","SAU",1,2038
+"2163","Senegal","SEN",1,2038
+"2164","Serbia","SRB",1,2038
+"2165","Singapore","SGP",1,2038
+"2166","Slovak Republic","SVK",1,2038
+"2167","Slovenia","SVN",1,2038
+"2168","South Africa","ZAF",1,2038
+"2169","South Sudan","SSD",1,2038
+"2170","Spain","ESP",1,2038
+"2171","Sri Lanka","LKA",1,2038
+"2172","Sudan","SDN",1,2038
+"2173","Suriname","SUR",1,2038
+"2174","Sweden","SWE",1,2038
+"2175","Switzerland","CHE",1,2038
+"2176","Syrian Arab Republic","SYR",1,2038
+"2177","Tajikistan","TJK",1,2038
+"2178","Thailand","THA",1,2038
+"2179","Togo","TGO",1,2038
+"2180","Trinidad and Tobago","TTO",1,2038
+"2181","Tunisia","TUN",1,2038
+"2182","Turkey","TUR",1,2038
+"2183","Turkmenistan","TKM",1,2038
+"2184","Ukraine","UKR",1,2038
+"2185","United Arab Emirates","ARE",1,2038
+"2186","United Kingdom","GBR",1,2038
+"2187","United States","USA",1,2038
+"2188","Uruguay","URY",1,2038
+"2189","Uzbekistan","UZB",1,2038
+"2190","Venezuela","VEN",1,2038
+"2191","Vietnam","VNM",1,2038
+"2192","Zambia","ZMB",1,2038
+"2193","Zimbabwe","ZWE",1,2038
+"2194","Albania","ALB",1,2039
+"2195","Algeria","DZA",1,2039
+"2196","Angola","AGO",1,2039
+"2197","Argentina","ARG",1,2039
+"2198","Armenia","ARM",1,2039
+"2199","Australia","AUS",1,2039
+"2200","Austria","AUT",1,2039
+"2201","Azerbaijan","AZE",1,2039
+"2202","Bahrain","BHR",1,2039
+"2203","Bangladesh","BGD",1,2039
+"2204","Belarus","BLR",1,2039
+"2205","Belgium","BEL",1,2039
+"2206","Benin","BEN",1,2039
+"2207","Bolivia","BOL",1,2039
+"2208","Bosnia and Herzegovina","BIH",1,2039
+"2209","Botswana","BWA",1,2039
+"2210","Brazil","BRA",1,2039
+"2211","Brunei Darussalam","BRN",1,2039
+"2212","Bulgaria","BGR",1,2039
+"2213","Cambodia","KHM",1,2039
+"2214","Cameroon","CMR",1,2039
+"2215","Canada","CAN",1,2039
+"2216","Chile","CHL",1,2039
+"2217","China","CHN",1,2039
+"2218","Colombia","COL",1,2039
+"2219","Costa Rica","CRI",1,2039
+"2220","Croatia","HRV",1,2039
+"2221","Cuba","CUB",1,2039
+"2222","Cyprus","CYP",1,2039
+"2223","Denmark","DNK",1,2039
+"2224","Dominican Republic","DOM",1,2039
+"2225","Ecuador","ECU",1,2039
+"2226","Egypt","EGY",1,2039
+"2227","El Salvador","SLV",1,2039
+"2228","Eritrea","ERI",1,2039
+"2229","Estonia","EST",1,2039
+"2230","Ethiopia","ETH",1,2039
+"2231","Finland","FIN",1,2039
+"2232","France","FRA",1,2039
+"2233","Gabon","GAB",1,2039
+"2234","Georgia","GEO",1,2039
+"2235","Germany","DEU",1,2039
+"2236","Ghana","GHA",1,2039
+"2237","Gibraltar","GIB",1,2039
+"2238","Greece","GRC",1,2039
+"2239","Guatemala","GTM",1,2039
+"2240","Haiti","HTI",1,2039
+"2241","Honduras","HND",1,2039
+"2242","Hungary","HUN",1,2039
+"2243","Iceland","ISL",1,2039
+"2244","India","IND",1,2039
+"2245","Indonesia","IDN",1,2039
+"2246","Iraq","IRQ",1,2039
+"2247","Ireland","IRL",1,2039
+"2248","Israel","ISR",1,2039
+"2249","Italy","ITA",1,2039
+"2250","Jamaica","JAM",1,2039
+"2251","Japan","JPN",1,2039
+"2252","Jordan","JOR",1,2039
+"2253","Kazakhstan","KAZ",1,2039
+"2254","Kenya","KEN",1,2039
+"2255","Korea","KOR",1,2039
+"2256","Kosovo","XKX",1,2039
+"2257","Kuwait","KWT",1,2039
+"2258","Latvia","LVA",1,2039
+"2259","Lebanon","LBN",1,2039
+"2260","Libya","LBY",1,2039
+"2261","Lithuania","LTU",1,2039
+"2262","Luxembourg","LUX",1,2039
+"2263","Malaysia","MYS",1,2039
+"2264","Malta","MLT",1,2039
+"2265","Mauritius","MUS",1,2039
+"2266","Mexico","MEX",1,2039
+"2267","Mongolia","MNG",1,2039
+"2268","Montenegro","MNE",1,2039
+"2269","Morocco","MAR",1,2039
+"2270","Mozambique","MOZ",1,2039
+"2271","Myanmar","MMR",1,2039
+"2272","Namibia","NAM",1,2039
+"2273","Nepal","NPL",1,2039
+"2274","Netherlands","NLD",1,2039
+"2275","New Zealand","NZL",1,2039
+"2276","Nicaragua","NIC",1,2039
+"2277","Niger","NER",1,2039
+"2278","Nigeria","NGA",1,2039
+"2279","Norway","NOR",1,2039
+"2280","Oman","OMN",1,2039
+"2281","Pakistan","PAK",1,2039
+"2282","Panama","PAN",1,2039
+"2283","Paraguay","PRY",1,2039
+"2284","Peru","PER",1,2039
+"2285","Philippines","PHL",1,2039
+"2286","Poland","POL",1,2039
+"2287","Portugal","PRT",1,2039
+"2288","Qatar","QAT",1,2039
+"2289","Romania","ROU",1,2039
+"2290","Russian Federation","RUS",1,2039
+"2291","Saudi Arabia","SAU",1,2039
+"2292","Senegal","SEN",1,2039
+"2293","Serbia","SRB",1,2039
+"2294","Singapore","SGP",1,2039
+"2295","Slovak Republic","SVK",1,2039
+"2296","Slovenia","SVN",1,2039
+"2297","South Africa","ZAF",1,2039
+"2298","South Sudan","SSD",1,2039
+"2299","Spain","ESP",1,2039
+"2300","Sri Lanka","LKA",1,2039
+"2301","Sudan","SDN",1,2039
+"2302","Suriname","SUR",1,2039
+"2303","Sweden","SWE",1,2039
+"2304","Switzerland","CHE",1,2039
+"2305","Syrian Arab Republic","SYR",1,2039
+"2306","Tajikistan","TJK",1,2039
+"2307","Thailand","THA",1,2039
+"2308","Togo","TGO",1,2039
+"2309","Trinidad and Tobago","TTO",1,2039
+"2310","Tunisia","TUN",1,2039
+"2311","Turkey","TUR",1,2039
+"2312","Turkmenistan","TKM",1,2039
+"2313","Ukraine","UKR",1,2039
+"2314","United Arab Emirates","ARE",1,2039
+"2315","United Kingdom","GBR",1,2039
+"2316","United States","USA",1,2039
+"2317","Uruguay","URY",1,2039
+"2318","Uzbekistan","UZB",1,2039
+"2319","Venezuela","VEN",1,2039
+"2320","Vietnam","VNM",1,2039
+"2321","Zambia","ZMB",1,2039
+"2322","Zimbabwe","ZWE",1,2039
+"2323","Albania","ALB",1,2040
+"2324","Algeria","DZA",1,2040
+"2325","Angola","AGO",1,2040
+"2326","Argentina","ARG",1,2040
+"2327","Armenia","ARM",1,2040
+"2328","Australia","AUS",1,2040
+"2329","Austria","AUT",1,2040
+"2330","Azerbaijan","AZE",1,2040
+"2331","Bahrain","BHR",1,2040
+"2332","Bangladesh","BGD",1,2040
+"2333","Belarus","BLR",1,2040
+"2334","Belgium","BEL",1,2040
+"2335","Benin","BEN",1,2040
+"2336","Bolivia","BOL",1,2040
+"2337","Bosnia and Herzegovina","BIH",1,2040
+"2338","Botswana","BWA",1,2040
+"2339","Brazil","BRA",1,2040
+"2340","Brunei Darussalam","BRN",1,2040
+"2341","Bulgaria","BGR",1,2040
+"2342","Cambodia","KHM",1,2040
+"2343","Cameroon","CMR",1,2040
+"2344","Canada","CAN",1,2040
+"2345","Chile","CHL",1,2040
+"2346","China","CHN",1,2040
+"2347","Colombia","COL",1,2040
+"2348","Costa Rica","CRI",1,2040
+"2349","Croatia","HRV",1,2040
+"2350","Cuba","CUB",1,2040
+"2351","Cyprus","CYP",1,2040
+"2352","Denmark","DNK",1,2040
+"2353","Dominican Republic","DOM",1,2040
+"2354","Ecuador","ECU",1,2040
+"2355","Egypt","EGY",1,2040
+"2356","El Salvador","SLV",1,2040
+"2357","Eritrea","ERI",1,2040
+"2358","Estonia","EST",1,2040
+"2359","Ethiopia","ETH",1,2040
+"2360","Finland","FIN",1,2040
+"2361","France","FRA",1,2040
+"2362","Gabon","GAB",1,2040
+"2363","Georgia","GEO",1,2040
+"2364","Germany","DEU",1,2040
+"2365","Ghana","GHA",1,2040
+"2366","Gibraltar","GIB",1,2040
+"2367","Greece","GRC",1,2040
+"2368","Guatemala","GTM",1,2040
+"2369","Haiti","HTI",1,2040
+"2370","Honduras","HND",1,2040
+"2371","Hungary","HUN",1,2040
+"2372","Iceland","ISL",1,2040
+"2373","India","IND",1,2040
+"2374","Indonesia","IDN",1,2040
+"2375","Iraq","IRQ",1,2040
+"2376","Ireland","IRL",1,2040
+"2377","Israel","ISR",1,2040
+"2378","Italy","ITA",1,2040
+"2379","Jamaica","JAM",1,2040
+"2380","Japan","JPN",1,2040
+"2381","Jordan","JOR",1,2040
+"2382","Kazakhstan","KAZ",1,2040
+"2383","Kenya","KEN",1,2040
+"2384","Korea","KOR",1,2040
+"2385","Kosovo","XKX",1,2040
+"2386","Kuwait","KWT",1,2040
+"2387","Latvia","LVA",1,2040
+"2388","Lebanon","LBN",1,2040
+"2389","Libya","LBY",1,2040
+"2390","Lithuania","LTU",1,2040
+"2391","Luxembourg","LUX",1,2040
+"2392","Malaysia","MYS",1,2040
+"2393","Malta","MLT",1,2040
+"2394","Mauritius","MUS",1,2040
+"2395","Mexico","MEX",1,2040
+"2396","Mongolia","MNG",1,2040
+"2397","Montenegro","MNE",1,2040
+"2398","Morocco","MAR",1,2040
+"2399","Mozambique","MOZ",1,2040
+"2400","Myanmar","MMR",1,2040
+"2401","Namibia","NAM",1,2040
+"2402","Nepal","NPL",1,2040
+"2403","Netherlands","NLD",1,2040
+"2404","New Zealand","NZL",1,2040
+"2405","Nicaragua","NIC",1,2040
+"2406","Niger","NER",1,2040
+"2407","Nigeria","NGA",1,2040
+"2408","Norway","NOR",1,2040
+"2409","Oman","OMN",1,2040
+"2410","Pakistan","PAK",1,2040
+"2411","Panama","PAN",1,2040
+"2412","Paraguay","PRY",1,2040
+"2413","Peru","PER",1,2040
+"2414","Philippines","PHL",1,2040
+"2415","Poland","POL",1,2040
+"2416","Portugal","PRT",1,2040
+"2417","Qatar","QAT",1,2040
+"2418","Romania","ROU",1,2040
+"2419","Russian Federation","RUS",1,2040
+"2420","Saudi Arabia","SAU",1,2040
+"2421","Senegal","SEN",1,2040
+"2422","Serbia","SRB",1,2040
+"2423","Singapore","SGP",1,2040
+"2424","Slovak Republic","SVK",1,2040
+"2425","Slovenia","SVN",1,2040
+"2426","South Africa","ZAF",1,2040
+"2427","South Sudan","SSD",1,2040
+"2428","Spain","ESP",1,2040
+"2429","Sri Lanka","LKA",1,2040
+"2430","Sudan","SDN",1,2040
+"2431","Suriname","SUR",1,2040
+"2432","Sweden","SWE",1,2040
+"2433","Switzerland","CHE",1,2040
+"2434","Syrian Arab Republic","SYR",1,2040
+"2435","Tajikistan","TJK",1,2040
+"2436","Thailand","THA",1,2040
+"2437","Togo","TGO",1,2040
+"2438","Trinidad and Tobago","TTO",1,2040
+"2439","Tunisia","TUN",1,2040
+"2440","Turkey","TUR",1,2040
+"2441","Turkmenistan","TKM",1,2040
+"2442","Ukraine","UKR",1,2040
+"2443","United Arab Emirates","ARE",1,2040
+"2444","United Kingdom","GBR",1,2040
+"2445","United States","USA",1,2040
+"2446","Uruguay","URY",1,2040
+"2447","Uzbekistan","UZB",1,2040
+"2448","Venezuela","VEN",1,2040
+"2449","Vietnam","VNM",1,2040
+"2450","Zambia","ZMB",1,2040
+"2451","Zimbabwe","ZWE",1,2040
+"2452","Albania","ALB",1,2041
+"2453","Algeria","DZA",1,2041
+"2454","Angola","AGO",1,2041
+"2455","Argentina","ARG",1,2041
+"2456","Armenia","ARM",1,2041
+"2457","Australia","AUS",1,2041
+"2458","Austria","AUT",1,2041
+"2459","Azerbaijan","AZE",1,2041
+"2460","Bahrain","BHR",1,2041
+"2461","Bangladesh","BGD",1,2041
+"2462","Belarus","BLR",1,2041
+"2463","Belgium","BEL",1,2041
+"2464","Benin","BEN",1,2041
+"2465","Bolivia","BOL",1,2041
+"2466","Bosnia and Herzegovina","BIH",1,2041
+"2467","Botswana","BWA",1,2041
+"2468","Brazil","BRA",1,2041
+"2469","Brunei Darussalam","BRN",1,2041
+"2470","Bulgaria","BGR",1,2041
+"2471","Cambodia","KHM",1,2041
+"2472","Cameroon","CMR",1,2041
+"2473","Canada","CAN",1,2041
+"2474","Chile","CHL",1,2041
+"2475","China","CHN",1,2041
+"2476","Colombia","COL",1,2041
+"2477","Costa Rica","CRI",1,2041
+"2478","Croatia","HRV",1,2041
+"2479","Cuba","CUB",1,2041
+"2480","Cyprus","CYP",1,2041
+"2481","Denmark","DNK",1,2041
+"2482","Dominican Republic","DOM",1,2041
+"2483","Ecuador","ECU",1,2041
+"2484","Egypt","EGY",1,2041
+"2485","El Salvador","SLV",1,2041
+"2486","Eritrea","ERI",1,2041
+"2487","Estonia","EST",1,2041
+"2488","Ethiopia","ETH",1,2041
+"2489","Finland","FIN",1,2041
+"2490","France","FRA",1,2041
+"2491","Gabon","GAB",1,2041
+"2492","Georgia","GEO",1,2041
+"2493","Germany","DEU",1,2041
+"2494","Ghana","GHA",1,2041
+"2495","Gibraltar","GIB",1,2041
+"2496","Greece","GRC",1,2041
+"2497","Guatemala","GTM",1,2041
+"2498","Haiti","HTI",1,2041
+"2499","Honduras","HND",1,2041
+"2500","Hungary","HUN",1,2041
+"2501","Iceland","ISL",1,2041
+"2502","India","IND",1,2041
+"2503","Indonesia","IDN",1,2041
+"2504","Iraq","IRQ",1,2041
+"2505","Ireland","IRL",1,2041
+"2506","Israel","ISR",1,2041
+"2507","Italy","ITA",1,2041
+"2508","Jamaica","JAM",1,2041
+"2509","Japan","JPN",1,2041
+"2510","Jordan","JOR",1,2041
+"2511","Kazakhstan","KAZ",1,2041
+"2512","Kenya","KEN",1,2041
+"2513","Korea","KOR",1,2041
+"2514","Kosovo","XKX",1,2041
+"2515","Kuwait","KWT",1,2041
+"2516","Latvia","LVA",1,2041
+"2517","Lebanon","LBN",1,2041
+"2518","Libya","LBY",1,2041
+"2519","Lithuania","LTU",1,2041
+"2520","Luxembourg","LUX",1,2041
+"2521","Malaysia","MYS",1,2041
+"2522","Malta","MLT",1,2041
+"2523","Mauritius","MUS",1,2041
+"2524","Mexico","MEX",1,2041
+"2525","Mongolia","MNG",1,2041
+"2526","Montenegro","MNE",1,2041
+"2527","Morocco","MAR",1,2041
+"2528","Mozambique","MOZ",1,2041
+"2529","Myanmar","MMR",1,2041
+"2530","Namibia","NAM",1,2041
+"2531","Nepal","NPL",1,2041
+"2532","Netherlands","NLD",1,2041
+"2533","New Zealand","NZL",1,2041
+"2534","Nicaragua","NIC",1,2041
+"2535","Niger","NER",1,2041
+"2536","Nigeria","NGA",1,2041
+"2537","Norway","NOR",1,2041
+"2538","Oman","OMN",1,2041
+"2539","Pakistan","PAK",1,2041
+"2540","Panama","PAN",1,2041
+"2541","Paraguay","PRY",1,2041
+"2542","Peru","PER",1,2041
+"2543","Philippines","PHL",1,2041
+"2544","Poland","POL",1,2041
+"2545","Portugal","PRT",1,2041
+"2546","Qatar","QAT",1,2041
+"2547","Romania","ROU",1,2041
+"2548","Russian Federation","RUS",1,2041
+"2549","Saudi Arabia","SAU",1,2041
+"2550","Senegal","SEN",1,2041
+"2551","Serbia","SRB",1,2041
+"2552","Singapore","SGP",1,2041
+"2553","Slovak Republic","SVK",1,2041
+"2554","Slovenia","SVN",1,2041
+"2555","South Africa","ZAF",1,2041
+"2556","South Sudan","SSD",1,2041
+"2557","Spain","ESP",1,2041
+"2558","Sri Lanka","LKA",1,2041
+"2559","Sudan","SDN",1,2041
+"2560","Suriname","SUR",1,2041
+"2561","Sweden","SWE",1,2041
+"2562","Switzerland","CHE",1,2041
+"2563","Syrian Arab Republic","SYR",1,2041
+"2564","Tajikistan","TJK",1,2041
+"2565","Thailand","THA",1,2041
+"2566","Togo","TGO",1,2041
+"2567","Trinidad and Tobago","TTO",1,2041
+"2568","Tunisia","TUN",1,2041
+"2569","Turkey","TUR",1,2041
+"2570","Turkmenistan","TKM",1,2041
+"2571","Ukraine","UKR",1,2041
+"2572","United Arab Emirates","ARE",1,2041
+"2573","United Kingdom","GBR",1,2041
+"2574","United States","USA",1,2041
+"2575","Uruguay","URY",1,2041
+"2576","Uzbekistan","UZB",1,2041
+"2577","Venezuela","VEN",1,2041
+"2578","Vietnam","VNM",1,2041
+"2579","Zambia","ZMB",1,2041
+"2580","Zimbabwe","ZWE",1,2041
+"2581","Albania","ALB",1,2042
+"2582","Algeria","DZA",1,2042
+"2583","Angola","AGO",1,2042
+"2584","Argentina","ARG",1,2042
+"2585","Armenia","ARM",1,2042
+"2586","Australia","AUS",1,2042
+"2587","Austria","AUT",1,2042
+"2588","Azerbaijan","AZE",1,2042
+"2589","Bahrain","BHR",1,2042
+"2590","Bangladesh","BGD",1,2042
+"2591","Belarus","BLR",1,2042
+"2592","Belgium","BEL",1,2042
+"2593","Benin","BEN",1,2042
+"2594","Bolivia","BOL",1,2042
+"2595","Bosnia and Herzegovina","BIH",1,2042
+"2596","Botswana","BWA",1,2042
+"2597","Brazil","BRA",1,2042
+"2598","Brunei Darussalam","BRN",1,2042
+"2599","Bulgaria","BGR",1,2042
+"2600","Cambodia","KHM",1,2042
+"2601","Cameroon","CMR",1,2042
+"2602","Canada","CAN",1,2042
+"2603","Chile","CHL",1,2042
+"2604","China","CHN",1,2042
+"2605","Colombia","COL",1,2042
+"2606","Costa Rica","CRI",1,2042
+"2607","Croatia","HRV",1,2042
+"2608","Cuba","CUB",1,2042
+"2609","Cyprus","CYP",1,2042
+"2610","Denmark","DNK",1,2042
+"2611","Dominican Republic","DOM",1,2042
+"2612","Ecuador","ECU",1,2042
+"2613","Egypt","EGY",1,2042
+"2614","El Salvador","SLV",1,2042
+"2615","Eritrea","ERI",1,2042
+"2616","Estonia","EST",1,2042
+"2617","Ethiopia","ETH",1,2042
+"2618","Finland","FIN",1,2042
+"2619","France","FRA",1,2042
+"2620","Gabon","GAB",1,2042
+"2621","Georgia","GEO",1,2042
+"2622","Germany","DEU",1,2042
+"2623","Ghana","GHA",1,2042
+"2624","Gibraltar","GIB",1,2042
+"2625","Greece","GRC",1,2042
+"2626","Guatemala","GTM",1,2042
+"2627","Haiti","HTI",1,2042
+"2628","Honduras","HND",1,2042
+"2629","Hungary","HUN",1,2042
+"2630","Iceland","ISL",1,2042
+"2631","India","IND",1,2042
+"2632","Indonesia","IDN",1,2042
+"2633","Iraq","IRQ",1,2042
+"2634","Ireland","IRL",1,2042
+"2635","Israel","ISR",1,2042
+"2636","Italy","ITA",1,2042
+"2637","Jamaica","JAM",1,2042
+"2638","Japan","JPN",1,2042
+"2639","Jordan","JOR",1,2042
+"2640","Kazakhstan","KAZ",1,2042
+"2641","Kenya","KEN",1,2042
+"2642","Korea","KOR",1,2042
+"2643","Kosovo","XKX",1,2042
+"2644","Kuwait","KWT",1,2042
+"2645","Latvia","LVA",1,2042
+"2646","Lebanon","LBN",1,2042
+"2647","Libya","LBY",1,2042
+"2648","Lithuania","LTU",1,2042
+"2649","Luxembourg","LUX",1,2042
+"2650","Malaysia","MYS",1,2042
+"2651","Malta","MLT",1,2042
+"2652","Mauritius","MUS",1,2042
+"2653","Mexico","MEX",1,2042
+"2654","Mongolia","MNG",1,2042
+"2655","Montenegro","MNE",1,2042
+"2656","Morocco","MAR",1,2042
+"2657","Mozambique","MOZ",1,2042
+"2658","Myanmar","MMR",1,2042
+"2659","Namibia","NAM",1,2042
+"2660","Nepal","NPL",1,2042
+"2661","Netherlands","NLD",1,2042
+"2662","New Zealand","NZL",1,2042
+"2663","Nicaragua","NIC",1,2042
+"2664","Niger","NER",1,2042
+"2665","Nigeria","NGA",1,2042
+"2666","Norway","NOR",1,2042
+"2667","Oman","OMN",1,2042
+"2668","Pakistan","PAK",1,2042
+"2669","Panama","PAN",1,2042
+"2670","Paraguay","PRY",1,2042
+"2671","Peru","PER",1,2042
+"2672","Philippines","PHL",1,2042
+"2673","Poland","POL",1,2042
+"2674","Portugal","PRT",1,2042
+"2675","Qatar","QAT",1,2042
+"2676","Romania","ROU",1,2042
+"2677","Russian Federation","RUS",1,2042
+"2678","Saudi Arabia","SAU",1,2042
+"2679","Senegal","SEN",1,2042
+"2680","Serbia","SRB",1,2042
+"2681","Singapore","SGP",1,2042
+"2682","Slovak Republic","SVK",1,2042
+"2683","Slovenia","SVN",1,2042
+"2684","South Africa","ZAF",1,2042
+"2685","South Sudan","SSD",1,2042
+"2686","Spain","ESP",1,2042
+"2687","Sri Lanka","LKA",1,2042
+"2688","Sudan","SDN",1,2042
+"2689","Suriname","SUR",1,2042
+"2690","Sweden","SWE",1,2042
+"2691","Switzerland","CHE",1,2042
+"2692","Syrian Arab Republic","SYR",1,2042
+"2693","Tajikistan","TJK",1,2042
+"2694","Thailand","THA",1,2042
+"2695","Togo","TGO",1,2042
+"2696","Trinidad and Tobago","TTO",1,2042
+"2697","Tunisia","TUN",1,2042
+"2698","Turkey","TUR",1,2042
+"2699","Turkmenistan","TKM",1,2042
+"2700","Ukraine","UKR",1,2042
+"2701","United Arab Emirates","ARE",1,2042
+"2702","United Kingdom","GBR",1,2042
+"2703","United States","USA",1,2042
+"2704","Uruguay","URY",1,2042
+"2705","Uzbekistan","UZB",1,2042
+"2706","Venezuela","VEN",1,2042
+"2707","Vietnam","VNM",1,2042
+"2708","Zambia","ZMB",1,2042
+"2709","Zimbabwe","ZWE",1,2042
+"2710","Albania","ALB",1,2043
+"2711","Algeria","DZA",1,2043
+"2712","Angola","AGO",1,2043
+"2713","Argentina","ARG",1,2043
+"2714","Armenia","ARM",1,2043
+"2715","Australia","AUS",1,2043
+"2716","Austria","AUT",1,2043
+"2717","Azerbaijan","AZE",1,2043
+"2718","Bahrain","BHR",1,2043
+"2719","Bangladesh","BGD",1,2043
+"2720","Belarus","BLR",1,2043
+"2721","Belgium","BEL",1,2043
+"2722","Benin","BEN",1,2043
+"2723","Bolivia","BOL",1,2043
+"2724","Bosnia and Herzegovina","BIH",1,2043
+"2725","Botswana","BWA",1,2043
+"2726","Brazil","BRA",1,2043
+"2727","Brunei Darussalam","BRN",1,2043
+"2728","Bulgaria","BGR",1,2043
+"2729","Cambodia","KHM",1,2043
+"2730","Cameroon","CMR",1,2043
+"2731","Canada","CAN",1,2043
+"2732","Chile","CHL",1,2043
+"2733","China","CHN",1,2043
+"2734","Colombia","COL",1,2043
+"2735","Costa Rica","CRI",1,2043
+"2736","Croatia","HRV",1,2043
+"2737","Cuba","CUB",1,2043
+"2738","Cyprus","CYP",1,2043
+"2739","Denmark","DNK",1,2043
+"2740","Dominican Republic","DOM",1,2043
+"2741","Ecuador","ECU",1,2043
+"2742","Egypt","EGY",1,2043
+"2743","El Salvador","SLV",1,2043
+"2744","Eritrea","ERI",1,2043
+"2745","Estonia","EST",1,2043
+"2746","Ethiopia","ETH",1,2043
+"2747","Finland","FIN",1,2043
+"2748","France","FRA",1,2043
+"2749","Gabon","GAB",1,2043
+"2750","Georgia","GEO",1,2043
+"2751","Germany","DEU",1,2043
+"2752","Ghana","GHA",1,2043
+"2753","Gibraltar","GIB",1,2043
+"2754","Greece","GRC",1,2043
+"2755","Guatemala","GTM",1,2043
+"2756","Haiti","HTI",1,2043
+"2757","Honduras","HND",1,2043
+"2758","Hungary","HUN",1,2043
+"2759","Iceland","ISL",1,2043
+"2760","India","IND",1,2043
+"2761","Indonesia","IDN",1,2043
+"2762","Iraq","IRQ",1,2043
+"2763","Ireland","IRL",1,2043
+"2764","Israel","ISR",1,2043
+"2765","Italy","ITA",1,2043
+"2766","Jamaica","JAM",1,2043
+"2767","Japan","JPN",1,2043
+"2768","Jordan","JOR",1,2043
+"2769","Kazakhstan","KAZ",1,2043
+"2770","Kenya","KEN",1,2043
+"2771","Korea","KOR",1,2043
+"2772","Kosovo","XKX",1,2043
+"2773","Kuwait","KWT",1,2043
+"2774","Latvia","LVA",1,2043
+"2775","Lebanon","LBN",1,2043
+"2776","Libya","LBY",1,2043
+"2777","Lithuania","LTU",1,2043
+"2778","Luxembourg","LUX",1,2043
+"2779","Malaysia","MYS",1,2043
+"2780","Malta","MLT",1,2043
+"2781","Mauritius","MUS",1,2043
+"2782","Mexico","MEX",1,2043
+"2783","Mongolia","MNG",1,2043
+"2784","Montenegro","MNE",1,2043
+"2785","Morocco","MAR",1,2043
+"2786","Mozambique","MOZ",1,2043
+"2787","Myanmar","MMR",1,2043
+"2788","Namibia","NAM",1,2043
+"2789","Nepal","NPL",1,2043
+"2790","Netherlands","NLD",1,2043
+"2791","New Zealand","NZL",1,2043
+"2792","Nicaragua","NIC",1,2043
+"2793","Niger","NER",1,2043
+"2794","Nigeria","NGA",1,2043
+"2795","Norway","NOR",1,2043
+"2796","Oman","OMN",1,2043
+"2797","Pakistan","PAK",1,2043
+"2798","Panama","PAN",1,2043
+"2799","Paraguay","PRY",1,2043
+"2800","Peru","PER",1,2043
+"2801","Philippines","PHL",1,2043
+"2802","Poland","POL",1,2043
+"2803","Portugal","PRT",1,2043
+"2804","Qatar","QAT",1,2043
+"2805","Romania","ROU",1,2043
+"2806","Russian Federation","RUS",1,2043
+"2807","Saudi Arabia","SAU",1,2043
+"2808","Senegal","SEN",1,2043
+"2809","Serbia","SRB",1,2043
+"2810","Singapore","SGP",1,2043
+"2811","Slovak Republic","SVK",1,2043
+"2812","Slovenia","SVN",1,2043
+"2813","South Africa","ZAF",1,2043
+"2814","South Sudan","SSD",1,2043
+"2815","Spain","ESP",1,2043
+"2816","Sri Lanka","LKA",1,2043
+"2817","Sudan","SDN",1,2043
+"2818","Suriname","SUR",1,2043
+"2819","Sweden","SWE",1,2043
+"2820","Switzerland","CHE",1,2043
+"2821","Syrian Arab Republic","SYR",1,2043
+"2822","Tajikistan","TJK",1,2043
+"2823","Thailand","THA",1,2043
+"2824","Togo","TGO",1,2043
+"2825","Trinidad and Tobago","TTO",1,2043
+"2826","Tunisia","TUN",1,2043
+"2827","Turkey","TUR",1,2043
+"2828","Turkmenistan","TKM",1,2043
+"2829","Ukraine","UKR",1,2043
+"2830","United Arab Emirates","ARE",1,2043
+"2831","United Kingdom","GBR",1,2043
+"2832","United States","USA",1,2043
+"2833","Uruguay","URY",1,2043
+"2834","Uzbekistan","UZB",1,2043
+"2835","Venezuela","VEN",1,2043
+"2836","Vietnam","VNM",1,2043
+"2837","Zambia","ZMB",1,2043
+"2838","Zimbabwe","ZWE",1,2043
+"2839","Albania","ALB",1,2044
+"2840","Algeria","DZA",1,2044
+"2841","Angola","AGO",1,2044
+"2842","Argentina","ARG",1,2044
+"2843","Armenia","ARM",1,2044
+"2844","Australia","AUS",1,2044
+"2845","Austria","AUT",1,2044
+"2846","Azerbaijan","AZE",1,2044
+"2847","Bahrain","BHR",1,2044
+"2848","Bangladesh","BGD",1,2044
+"2849","Belarus","BLR",1,2044
+"2850","Belgium","BEL",1,2044
+"2851","Benin","BEN",1,2044
+"2852","Bolivia","BOL",1,2044
+"2853","Bosnia and Herzegovina","BIH",1,2044
+"2854","Botswana","BWA",1,2044
+"2855","Brazil","BRA",1,2044
+"2856","Brunei Darussalam","BRN",1,2044
+"2857","Bulgaria","BGR",1,2044
+"2858","Cambodia","KHM",1,2044
+"2859","Cameroon","CMR",1,2044
+"2860","Canada","CAN",1,2044
+"2861","Chile","CHL",1,2044
+"2862","China","CHN",1,2044
+"2863","Colombia","COL",1,2044
+"2864","Costa Rica","CRI",1,2044
+"2865","Croatia","HRV",1,2044
+"2866","Cuba","CUB",1,2044
+"2867","Cyprus","CYP",1,2044
+"2868","Denmark","DNK",1,2044
+"2869","Dominican Republic","DOM",1,2044
+"2870","Ecuador","ECU",1,2044
+"2871","Egypt","EGY",1,2044
+"2872","El Salvador","SLV",1,2044
+"2873","Eritrea","ERI",1,2044
+"2874","Estonia","EST",1,2044
+"2875","Ethiopia","ETH",1,2044
+"2876","Finland","FIN",1,2044
+"2877","France","FRA",1,2044
+"2878","Gabon","GAB",1,2044
+"2879","Georgia","GEO",1,2044
+"2880","Germany","DEU",1,2044
+"2881","Ghana","GHA",1,2044
+"2882","Gibraltar","GIB",1,2044
+"2883","Greece","GRC",1,2044
+"2884","Guatemala","GTM",1,2044
+"2885","Haiti","HTI",1,2044
+"2886","Honduras","HND",1,2044
+"2887","Hungary","HUN",1,2044
+"2888","Iceland","ISL",1,2044
+"2889","India","IND",1,2044
+"2890","Indonesia","IDN",1,2044
+"2891","Iraq","IRQ",1,2044
+"2892","Ireland","IRL",1,2044
+"2893","Israel","ISR",1,2044
+"2894","Italy","ITA",1,2044
+"2895","Jamaica","JAM",1,2044
+"2896","Japan","JPN",1,2044
+"2897","Jordan","JOR",1,2044
+"2898","Kazakhstan","KAZ",1,2044
+"2899","Kenya","KEN",1,2044
+"2900","Korea","KOR",1,2044
+"2901","Kosovo","XKX",1,2044
+"2902","Kuwait","KWT",1,2044
+"2903","Latvia","LVA",1,2044
+"2904","Lebanon","LBN",1,2044
+"2905","Libya","LBY",1,2044
+"2906","Lithuania","LTU",1,2044
+"2907","Luxembourg","LUX",1,2044
+"2908","Malaysia","MYS",1,2044
+"2909","Malta","MLT",1,2044
+"2910","Mauritius","MUS",1,2044
+"2911","Mexico","MEX",1,2044
+"2912","Mongolia","MNG",1,2044
+"2913","Montenegro","MNE",1,2044
+"2914","Morocco","MAR",1,2044
+"2915","Mozambique","MOZ",1,2044
+"2916","Myanmar","MMR",1,2044
+"2917","Namibia","NAM",1,2044
+"2918","Nepal","NPL",1,2044
+"2919","Netherlands","NLD",1,2044
+"2920","New Zealand","NZL",1,2044
+"2921","Nicaragua","NIC",1,2044
+"2922","Niger","NER",1,2044
+"2923","Nigeria","NGA",1,2044
+"2924","Norway","NOR",1,2044
+"2925","Oman","OMN",1,2044
+"2926","Pakistan","PAK",1,2044
+"2927","Panama","PAN",1,2044
+"2928","Paraguay","PRY",1,2044
+"2929","Peru","PER",1,2044
+"2930","Philippines","PHL",1,2044
+"2931","Poland","POL",1,2044
+"2932","Portugal","PRT",1,2044
+"2933","Qatar","QAT",1,2044
+"2934","Romania","ROU",1,2044
+"2935","Russian Federation","RUS",1,2044
+"2936","Saudi Arabia","SAU",1,2044
+"2937","Senegal","SEN",1,2044
+"2938","Serbia","SRB",1,2044
+"2939","Singapore","SGP",1,2044
+"2940","Slovak Republic","SVK",1,2044
+"2941","Slovenia","SVN",1,2044
+"2942","South Africa","ZAF",1,2044
+"2943","South Sudan","SSD",1,2044
+"2944","Spain","ESP",1,2044
+"2945","Sri Lanka","LKA",1,2044
+"2946","Sudan","SDN",1,2044
+"2947","Suriname","SUR",1,2044
+"2948","Sweden","SWE",1,2044
+"2949","Switzerland","CHE",1,2044
+"2950","Syrian Arab Republic","SYR",1,2044
+"2951","Tajikistan","TJK",1,2044
+"2952","Thailand","THA",1,2044
+"2953","Togo","TGO",1,2044
+"2954","Trinidad and Tobago","TTO",1,2044
+"2955","Tunisia","TUN",1,2044
+"2956","Turkey","TUR",1,2044
+"2957","Turkmenistan","TKM",1,2044
+"2958","Ukraine","UKR",1,2044
+"2959","United Arab Emirates","ARE",1,2044
+"2960","United Kingdom","GBR",1,2044
+"2961","United States","USA",1,2044
+"2962","Uruguay","URY",1,2044
+"2963","Uzbekistan","UZB",1,2044
+"2964","Venezuela","VEN",1,2044
+"2965","Vietnam","VNM",1,2044
+"2966","Zambia","ZMB",1,2044
+"2967","Zimbabwe","ZWE",1,2044
+"2968","Albania","ALB",1,2045
+"2969","Algeria","DZA",1,2045
+"2970","Angola","AGO",1,2045
+"2971","Argentina","ARG",1,2045
+"2972","Armenia","ARM",1,2045
+"2973","Australia","AUS",1,2045
+"2974","Austria","AUT",1,2045
+"2975","Azerbaijan","AZE",1,2045
+"2976","Bahrain","BHR",1,2045
+"2977","Bangladesh","BGD",1,2045
+"2978","Belarus","BLR",1,2045
+"2979","Belgium","BEL",1,2045
+"2980","Benin","BEN",1,2045
+"2981","Bolivia","BOL",1,2045
+"2982","Bosnia and Herzegovina","BIH",1,2045
+"2983","Botswana","BWA",1,2045
+"2984","Brazil","BRA",1,2045
+"2985","Brunei Darussalam","BRN",1,2045
+"2986","Bulgaria","BGR",1,2045
+"2987","Cambodia","KHM",1,2045
+"2988","Cameroon","CMR",1,2045
+"2989","Canada","CAN",1,2045
+"2990","Chile","CHL",1,2045
+"2991","China","CHN",1,2045
+"2992","Colombia","COL",1,2045
+"2993","Costa Rica","CRI",1,2045
+"2994","Croatia","HRV",1,2045
+"2995","Cuba","CUB",1,2045
+"2996","Cyprus","CYP",1,2045
+"2997","Denmark","DNK",1,2045
+"2998","Dominican Republic","DOM",1,2045
+"2999","Ecuador","ECU",1,2045
+"3000","Egypt","EGY",1,2045
+"3001","El Salvador","SLV",1,2045
+"3002","Eritrea","ERI",1,2045
+"3003","Estonia","EST",1,2045
+"3004","Ethiopia","ETH",1,2045
+"3005","Finland","FIN",1,2045
+"3006","France","FRA",1,2045
+"3007","Gabon","GAB",1,2045
+"3008","Georgia","GEO",1,2045
+"3009","Germany","DEU",1,2045
+"3010","Ghana","GHA",1,2045
+"3011","Gibraltar","GIB",1,2045
+"3012","Greece","GRC",1,2045
+"3013","Guatemala","GTM",1,2045
+"3014","Haiti","HTI",1,2045
+"3015","Honduras","HND",1,2045
+"3016","Hungary","HUN",1,2045
+"3017","Iceland","ISL",1,2045
+"3018","India","IND",1,2045
+"3019","Indonesia","IDN",1,2045
+"3020","Iraq","IRQ",1,2045
+"3021","Ireland","IRL",1,2045
+"3022","Israel","ISR",1,2045
+"3023","Italy","ITA",1,2045
+"3024","Jamaica","JAM",1,2045
+"3025","Japan","JPN",1,2045
+"3026","Jordan","JOR",1,2045
+"3027","Kazakhstan","KAZ",1,2045
+"3028","Kenya","KEN",1,2045
+"3029","Korea","KOR",1,2045
+"3030","Kosovo","XKX",1,2045
+"3031","Kuwait","KWT",1,2045
+"3032","Latvia","LVA",1,2045
+"3033","Lebanon","LBN",1,2045
+"3034","Libya","LBY",1,2045
+"3035","Lithuania","LTU",1,2045
+"3036","Luxembourg","LUX",1,2045
+"3037","Malaysia","MYS",1,2045
+"3038","Malta","MLT",1,2045
+"3039","Mauritius","MUS",1,2045
+"3040","Mexico","MEX",1,2045
+"3041","Mongolia","MNG",1,2045
+"3042","Montenegro","MNE",1,2045
+"3043","Morocco","MAR",1,2045
+"3044","Mozambique","MOZ",1,2045
+"3045","Myanmar","MMR",1,2045
+"3046","Namibia","NAM",1,2045
+"3047","Nepal","NPL",1,2045
+"3048","Netherlands","NLD",1,2045
+"3049","New Zealand","NZL",1,2045
+"3050","Nicaragua","NIC",1,2045
+"3051","Niger","NER",1,2045
+"3052","Nigeria","NGA",1,2045
+"3053","Norway","NOR",1,2045
+"3054","Oman","OMN",1,2045
+"3055","Pakistan","PAK",1,2045
+"3056","Panama","PAN",1,2045
+"3057","Paraguay","PRY",1,2045
+"3058","Peru","PER",1,2045
+"3059","Philippines","PHL",1,2045
+"3060","Poland","POL",1,2045
+"3061","Portugal","PRT",1,2045
+"3062","Qatar","QAT",1,2045
+"3063","Romania","ROU",1,2045
+"3064","Russian Federation","RUS",1,2045
+"3065","Saudi Arabia","SAU",1,2045
+"3066","Senegal","SEN",1,2045
+"3067","Serbia","SRB",1,2045
+"3068","Singapore","SGP",1,2045
+"3069","Slovak Republic","SVK",1,2045
+"3070","Slovenia","SVN",1,2045
+"3071","South Africa","ZAF",1,2045
+"3072","South Sudan","SSD",1,2045
+"3073","Spain","ESP",1,2045
+"3074","Sri Lanka","LKA",1,2045
+"3075","Sudan","SDN",1,2045
+"3076","Suriname","SUR",1,2045
+"3077","Sweden","SWE",1,2045
+"3078","Switzerland","CHE",1,2045
+"3079","Syrian Arab Republic","SYR",1,2045
+"3080","Tajikistan","TJK",1,2045
+"3081","Thailand","THA",1,2045
+"3082","Togo","TGO",1,2045
+"3083","Trinidad and Tobago","TTO",1,2045
+"3084","Tunisia","TUN",1,2045
+"3085","Turkey","TUR",1,2045
+"3086","Turkmenistan","TKM",1,2045
+"3087","Ukraine","UKR",1,2045
+"3088","United Arab Emirates","ARE",1,2045
+"3089","United Kingdom","GBR",1,2045
+"3090","United States","USA",1,2045
+"3091","Uruguay","URY",1,2045
+"3092","Uzbekistan","UZB",1,2045
+"3093","Venezuela","VEN",1,2045
+"3094","Vietnam","VNM",1,2045
+"3095","Zambia","ZMB",1,2045
+"3096","Zimbabwe","ZWE",1,2045
+"3097","Albania","ALB",1,2046
+"3098","Algeria","DZA",1,2046
+"3099","Angola","AGO",1,2046
+"3100","Argentina","ARG",1,2046
+"3101","Armenia","ARM",1,2046
+"3102","Australia","AUS",1,2046
+"3103","Austria","AUT",1,2046
+"3104","Azerbaijan","AZE",1,2046
+"3105","Bahrain","BHR",1,2046
+"3106","Bangladesh","BGD",1,2046
+"3107","Belarus","BLR",1,2046
+"3108","Belgium","BEL",1,2046
+"3109","Benin","BEN",1,2046
+"3110","Bolivia","BOL",1,2046
+"3111","Bosnia and Herzegovina","BIH",1,2046
+"3112","Botswana","BWA",1,2046
+"3113","Brazil","BRA",1,2046
+"3114","Brunei Darussalam","BRN",1,2046
+"3115","Bulgaria","BGR",1,2046
+"3116","Cambodia","KHM",1,2046
+"3117","Cameroon","CMR",1,2046
+"3118","Canada","CAN",1,2046
+"3119","Chile","CHL",1,2046
+"3120","China","CHN",1,2046
+"3121","Colombia","COL",1,2046
+"3122","Costa Rica","CRI",1,2046
+"3123","Croatia","HRV",1,2046
+"3124","Cuba","CUB",1,2046
+"3125","Cyprus","CYP",1,2046
+"3126","Denmark","DNK",1,2046
+"3127","Dominican Republic","DOM",1,2046
+"3128","Ecuador","ECU",1,2046
+"3129","Egypt","EGY",1,2046
+"3130","El Salvador","SLV",1,2046
+"3131","Eritrea","ERI",1,2046
+"3132","Estonia","EST",1,2046
+"3133","Ethiopia","ETH",1,2046
+"3134","Finland","FIN",1,2046
+"3135","France","FRA",1,2046
+"3136","Gabon","GAB",1,2046
+"3137","Georgia","GEO",1,2046
+"3138","Germany","DEU",1,2046
+"3139","Ghana","GHA",1,2046
+"3140","Gibraltar","GIB",1,2046
+"3141","Greece","GRC",1,2046
+"3142","Guatemala","GTM",1,2046
+"3143","Haiti","HTI",1,2046
+"3144","Honduras","HND",1,2046
+"3145","Hungary","HUN",1,2046
+"3146","Iceland","ISL",1,2046
+"3147","India","IND",1,2046
+"3148","Indonesia","IDN",1,2046
+"3149","Iraq","IRQ",1,2046
+"3150","Ireland","IRL",1,2046
+"3151","Israel","ISR",1,2046
+"3152","Italy","ITA",1,2046
+"3153","Jamaica","JAM",1,2046
+"3154","Japan","JPN",1,2046
+"3155","Jordan","JOR",1,2046
+"3156","Kazakhstan","KAZ",1,2046
+"3157","Kenya","KEN",1,2046
+"3158","Korea","KOR",1,2046
+"3159","Kosovo","XKX",1,2046
+"3160","Kuwait","KWT",1,2046
+"3161","Latvia","LVA",1,2046
+"3162","Lebanon","LBN",1,2046
+"3163","Libya","LBY",1,2046
+"3164","Lithuania","LTU",1,2046
+"3165","Luxembourg","LUX",1,2046
+"3166","Malaysia","MYS",1,2046
+"3167","Malta","MLT",1,2046
+"3168","Mauritius","MUS",1,2046
+"3169","Mexico","MEX",1,2046
+"3170","Mongolia","MNG",1,2046
+"3171","Montenegro","MNE",1,2046
+"3172","Morocco","MAR",1,2046
+"3173","Mozambique","MOZ",1,2046
+"3174","Myanmar","MMR",1,2046
+"3175","Namibia","NAM",1,2046
+"3176","Nepal","NPL",1,2046
+"3177","Netherlands","NLD",1,2046
+"3178","New Zealand","NZL",1,2046
+"3179","Nicaragua","NIC",1,2046
+"3180","Niger","NER",1,2046
+"3181","Nigeria","NGA",1,2046
+"3182","Norway","NOR",1,2046
+"3183","Oman","OMN",1,2046
+"3184","Pakistan","PAK",1,2046
+"3185","Panama","PAN",1,2046
+"3186","Paraguay","PRY",1,2046
+"3187","Peru","PER",1,2046
+"3188","Philippines","PHL",1,2046
+"3189","Poland","POL",1,2046
+"3190","Portugal","PRT",1,2046
+"3191","Qatar","QAT",1,2046
+"3192","Romania","ROU",1,2046
+"3193","Russian Federation","RUS",1,2046
+"3194","Saudi Arabia","SAU",1,2046
+"3195","Senegal","SEN",1,2046
+"3196","Serbia","SRB",1,2046
+"3197","Singapore","SGP",1,2046
+"3198","Slovak Republic","SVK",1,2046
+"3199","Slovenia","SVN",1,2046
+"3200","South Africa","ZAF",1,2046
+"3201","South Sudan","SSD",1,2046
+"3202","Spain","ESP",1,2046
+"3203","Sri Lanka","LKA",1,2046
+"3204","Sudan","SDN",1,2046
+"3205","Suriname","SUR",1,2046
+"3206","Sweden","SWE",1,2046
+"3207","Switzerland","CHE",1,2046
+"3208","Syrian Arab Republic","SYR",1,2046
+"3209","Tajikistan","TJK",1,2046
+"3210","Thailand","THA",1,2046
+"3211","Togo","TGO",1,2046
+"3212","Trinidad and Tobago","TTO",1,2046
+"3213","Tunisia","TUN",1,2046
+"3214","Turkey","TUR",1,2046
+"3215","Turkmenistan","TKM",1,2046
+"3216","Ukraine","UKR",1,2046
+"3217","United Arab Emirates","ARE",1,2046
+"3218","United Kingdom","GBR",1,2046
+"3219","United States","USA",1,2046
+"3220","Uruguay","URY",1,2046
+"3221","Uzbekistan","UZB",1,2046
+"3222","Venezuela","VEN",1,2046
+"3223","Vietnam","VNM",1,2046
+"3224","Zambia","ZMB",1,2046
+"3225","Zimbabwe","ZWE",1,2046
+"3226","Albania","ALB",1,2047
+"3227","Algeria","DZA",1,2047
+"3228","Angola","AGO",1,2047
+"3229","Argentina","ARG",1,2047
+"3230","Armenia","ARM",1,2047
+"3231","Australia","AUS",1,2047
+"3232","Austria","AUT",1,2047
+"3233","Azerbaijan","AZE",1,2047
+"3234","Bahrain","BHR",1,2047
+"3235","Bangladesh","BGD",1,2047
+"3236","Belarus","BLR",1,2047
+"3237","Belgium","BEL",1,2047
+"3238","Benin","BEN",1,2047
+"3239","Bolivia","BOL",1,2047
+"3240","Bosnia and Herzegovina","BIH",1,2047
+"3241","Botswana","BWA",1,2047
+"3242","Brazil","BRA",1,2047
+"3243","Brunei Darussalam","BRN",1,2047
+"3244","Bulgaria","BGR",1,2047
+"3245","Cambodia","KHM",1,2047
+"3246","Cameroon","CMR",1,2047
+"3247","Canada","CAN",1,2047
+"3248","Chile","CHL",1,2047
+"3249","China","CHN",1,2047
+"3250","Colombia","COL",1,2047
+"3251","Costa Rica","CRI",1,2047
+"3252","Croatia","HRV",1,2047
+"3253","Cuba","CUB",1,2047
+"3254","Cyprus","CYP",1,2047
+"3255","Denmark","DNK",1,2047
+"3256","Dominican Republic","DOM",1,2047
+"3257","Ecuador","ECU",1,2047
+"3258","Egypt","EGY",1,2047
+"3259","El Salvador","SLV",1,2047
+"3260","Eritrea","ERI",1,2047
+"3261","Estonia","EST",1,2047
+"3262","Ethiopia","ETH",1,2047
+"3263","Finland","FIN",1,2047
+"3264","France","FRA",1,2047
+"3265","Gabon","GAB",1,2047
+"3266","Georgia","GEO",1,2047
+"3267","Germany","DEU",1,2047
+"3268","Ghana","GHA",1,2047
+"3269","Gibraltar","GIB",1,2047
+"3270","Greece","GRC",1,2047
+"3271","Guatemala","GTM",1,2047
+"3272","Haiti","HTI",1,2047
+"3273","Honduras","HND",1,2047
+"3274","Hungary","HUN",1,2047
+"3275","Iceland","ISL",1,2047
+"3276","India","IND",1,2047
+"3277","Indonesia","IDN",1,2047
+"3278","Iraq","IRQ",1,2047
+"3279","Ireland","IRL",1,2047
+"3280","Israel","ISR",1,2047
+"3281","Italy","ITA",1,2047
+"3282","Jamaica","JAM",1,2047
+"3283","Japan","JPN",1,2047
+"3284","Jordan","JOR",1,2047
+"3285","Kazakhstan","KAZ",1,2047
+"3286","Kenya","KEN",1,2047
+"3287","Korea","KOR",1,2047
+"3288","Kosovo","XKX",1,2047
+"3289","Kuwait","KWT",1,2047
+"3290","Latvia","LVA",1,2047
+"3291","Lebanon","LBN",1,2047
+"3292","Libya","LBY",1,2047
+"3293","Lithuania","LTU",1,2047
+"3294","Luxembourg","LUX",1,2047
+"3295","Malaysia","MYS",1,2047
+"3296","Malta","MLT",1,2047
+"3297","Mauritius","MUS",1,2047
+"3298","Mexico","MEX",1,2047
+"3299","Mongolia","MNG",1,2047
+"3300","Montenegro","MNE",1,2047
+"3301","Morocco","MAR",1,2047
+"3302","Mozambique","MOZ",1,2047
+"3303","Myanmar","MMR",1,2047
+"3304","Namibia","NAM",1,2047
+"3305","Nepal","NPL",1,2047
+"3306","Netherlands","NLD",1,2047
+"3307","New Zealand","NZL",1,2047
+"3308","Nicaragua","NIC",1,2047
+"3309","Niger","NER",1,2047
+"3310","Nigeria","NGA",1,2047
+"3311","Norway","NOR",1,2047
+"3312","Oman","OMN",1,2047
+"3313","Pakistan","PAK",1,2047
+"3314","Panama","PAN",1,2047
+"3315","Paraguay","PRY",1,2047
+"3316","Peru","PER",1,2047
+"3317","Philippines","PHL",1,2047
+"3318","Poland","POL",1,2047
+"3319","Portugal","PRT",1,2047
+"3320","Qatar","QAT",1,2047
+"3321","Romania","ROU",1,2047
+"3322","Russian Federation","RUS",1,2047
+"3323","Saudi Arabia","SAU",1,2047
+"3324","Senegal","SEN",1,2047
+"3325","Serbia","SRB",1,2047
+"3326","Singapore","SGP",1,2047
+"3327","Slovak Republic","SVK",1,2047
+"3328","Slovenia","SVN",1,2047
+"3329","South Africa","ZAF",1,2047
+"3330","South Sudan","SSD",1,2047
+"3331","Spain","ESP",1,2047
+"3332","Sri Lanka","LKA",1,2047
+"3333","Sudan","SDN",1,2047
+"3334","Suriname","SUR",1,2047
+"3335","Sweden","SWE",1,2047
+"3336","Switzerland","CHE",1,2047
+"3337","Syrian Arab Republic","SYR",1,2047
+"3338","Tajikistan","TJK",1,2047
+"3339","Thailand","THA",1,2047
+"3340","Togo","TGO",1,2047
+"3341","Trinidad and Tobago","TTO",1,2047
+"3342","Tunisia","TUN",1,2047
+"3343","Turkey","TUR",1,2047
+"3344","Turkmenistan","TKM",1,2047
+"3345","Ukraine","UKR",1,2047
+"3346","United Arab Emirates","ARE",1,2047
+"3347","United Kingdom","GBR",1,2047
+"3348","United States","USA",1,2047
+"3349","Uruguay","URY",1,2047
+"3350","Uzbekistan","UZB",1,2047
+"3351","Venezuela","VEN",1,2047
+"3352","Vietnam","VNM",1,2047
+"3353","Zambia","ZMB",1,2047
+"3354","Zimbabwe","ZWE",1,2047
+"3355","Albania","ALB",1,2048
+"3356","Algeria","DZA",1,2048
+"3357","Angola","AGO",1,2048
+"3358","Argentina","ARG",1,2048
+"3359","Armenia","ARM",1,2048
+"3360","Australia","AUS",1,2048
+"3361","Austria","AUT",1,2048
+"3362","Azerbaijan","AZE",1,2048
+"3363","Bahrain","BHR",1,2048
+"3364","Bangladesh","BGD",1,2048
+"3365","Belarus","BLR",1,2048
+"3366","Belgium","BEL",1,2048
+"3367","Benin","BEN",1,2048
+"3368","Bolivia","BOL",1,2048
+"3369","Bosnia and Herzegovina","BIH",1,2048
+"3370","Botswana","BWA",1,2048
+"3371","Brazil","BRA",1,2048
+"3372","Brunei Darussalam","BRN",1,2048
+"3373","Bulgaria","BGR",1,2048
+"3374","Cambodia","KHM",1,2048
+"3375","Cameroon","CMR",1,2048
+"3376","Canada","CAN",1,2048
+"3377","Chile","CHL",1,2048
+"3378","China","CHN",1,2048
+"3379","Colombia","COL",1,2048
+"3380","Costa Rica","CRI",1,2048
+"3381","Croatia","HRV",1,2048
+"3382","Cuba","CUB",1,2048
+"3383","Cyprus","CYP",1,2048
+"3384","Denmark","DNK",1,2048
+"3385","Dominican Republic","DOM",1,2048
+"3386","Ecuador","ECU",1,2048
+"3387","Egypt","EGY",1,2048
+"3388","El Salvador","SLV",1,2048
+"3389","Eritrea","ERI",1,2048
+"3390","Estonia","EST",1,2048
+"3391","Ethiopia","ETH",1,2048
+"3392","Finland","FIN",1,2048
+"3393","France","FRA",1,2048
+"3394","Gabon","GAB",1,2048
+"3395","Georgia","GEO",1,2048
+"3396","Germany","DEU",1,2048
+"3397","Ghana","GHA",1,2048
+"3398","Gibraltar","GIB",1,2048
+"3399","Greece","GRC",1,2048
+"3400","Guatemala","GTM",1,2048
+"3401","Haiti","HTI",1,2048
+"3402","Honduras","HND",1,2048
+"3403","Hungary","HUN",1,2048
+"3404","Iceland","ISL",1,2048
+"3405","India","IND",1,2048
+"3406","Indonesia","IDN",1,2048
+"3407","Iraq","IRQ",1,2048
+"3408","Ireland","IRL",1,2048
+"3409","Israel","ISR",1,2048
+"3410","Italy","ITA",1,2048
+"3411","Jamaica","JAM",1,2048
+"3412","Japan","JPN",1,2048
+"3413","Jordan","JOR",1,2048
+"3414","Kazakhstan","KAZ",1,2048
+"3415","Kenya","KEN",1,2048
+"3416","Korea","KOR",1,2048
+"3417","Kosovo","XKX",1,2048
+"3418","Kuwait","KWT",1,2048
+"3419","Latvia","LVA",1,2048
+"3420","Lebanon","LBN",1,2048
+"3421","Libya","LBY",1,2048
+"3422","Lithuania","LTU",1,2048
+"3423","Luxembourg","LUX",1,2048
+"3424","Malaysia","MYS",1,2048
+"3425","Malta","MLT",1,2048
+"3426","Mauritius","MUS",1,2048
+"3427","Mexico","MEX",1,2048
+"3428","Mongolia","MNG",1,2048
+"3429","Montenegro","MNE",1,2048
+"3430","Morocco","MAR",1,2048
+"3431","Mozambique","MOZ",1,2048
+"3432","Myanmar","MMR",1,2048
+"3433","Namibia","NAM",1,2048
+"3434","Nepal","NPL",1,2048
+"3435","Netherlands","NLD",1,2048
+"3436","New Zealand","NZL",1,2048
+"3437","Nicaragua","NIC",1,2048
+"3438","Niger","NER",1,2048
+"3439","Nigeria","NGA",1,2048
+"3440","Norway","NOR",1,2048
+"3441","Oman","OMN",1,2048
+"3442","Pakistan","PAK",1,2048
+"3443","Panama","PAN",1,2048
+"3444","Paraguay","PRY",1,2048
+"3445","Peru","PER",1,2048
+"3446","Philippines","PHL",1,2048
+"3447","Poland","POL",1,2048
+"3448","Portugal","PRT",1,2048
+"3449","Qatar","QAT",1,2048
+"3450","Romania","ROU",1,2048
+"3451","Russian Federation","RUS",1,2048
+"3452","Saudi Arabia","SAU",1,2048
+"3453","Senegal","SEN",1,2048
+"3454","Serbia","SRB",1,2048
+"3455","Singapore","SGP",1,2048
+"3456","Slovak Republic","SVK",1,2048
+"3457","Slovenia","SVN",1,2048
+"3458","South Africa","ZAF",1,2048
+"3459","South Sudan","SSD",1,2048
+"3460","Spain","ESP",1,2048
+"3461","Sri Lanka","LKA",1,2048
+"3462","Sudan","SDN",1,2048
+"3463","Suriname","SUR",1,2048
+"3464","Sweden","SWE",1,2048
+"3465","Switzerland","CHE",1,2048
+"3466","Syrian Arab Republic","SYR",1,2048
+"3467","Tajikistan","TJK",1,2048
+"3468","Thailand","THA",1,2048
+"3469","Togo","TGO",1,2048
+"3470","Trinidad and Tobago","TTO",1,2048
+"3471","Tunisia","TUN",1,2048
+"3472","Turkey","TUR",1,2048
+"3473","Turkmenistan","TKM",1,2048
+"3474","Ukraine","UKR",1,2048
+"3475","United Arab Emirates","ARE",1,2048
+"3476","United Kingdom","GBR",1,2048
+"3477","United States","USA",1,2048
+"3478","Uruguay","URY",1,2048
+"3479","Uzbekistan","UZB",1,2048
+"3480","Venezuela","VEN",1,2048
+"3481","Vietnam","VNM",1,2048
+"3482","Zambia","ZMB",1,2048
+"3483","Zimbabwe","ZWE",1,2048
+"3484","Albania","ALB",1,2049
+"3485","Algeria","DZA",1,2049
+"3486","Angola","AGO",1,2049
+"3487","Argentina","ARG",1,2049
+"3488","Armenia","ARM",1,2049
+"3489","Australia","AUS",1,2049
+"3490","Austria","AUT",1,2049
+"3491","Azerbaijan","AZE",1,2049
+"3492","Bahrain","BHR",1,2049
+"3493","Bangladesh","BGD",1,2049
+"3494","Belarus","BLR",1,2049
+"3495","Belgium","BEL",1,2049
+"3496","Benin","BEN",1,2049
+"3497","Bolivia","BOL",1,2049
+"3498","Bosnia and Herzegovina","BIH",1,2049
+"3499","Botswana","BWA",1,2049
+"3500","Brazil","BRA",1,2049
+"3501","Brunei Darussalam","BRN",1,2049
+"3502","Bulgaria","BGR",1,2049
+"3503","Cambodia","KHM",1,2049
+"3504","Cameroon","CMR",1,2049
+"3505","Canada","CAN",1,2049
+"3506","Chile","CHL",1,2049
+"3507","China","CHN",1,2049
+"3508","Colombia","COL",1,2049
+"3509","Costa Rica","CRI",1,2049
+"3510","Croatia","HRV",1,2049
+"3511","Cuba","CUB",1,2049
+"3512","Cyprus","CYP",1,2049
+"3513","Denmark","DNK",1,2049
+"3514","Dominican Republic","DOM",1,2049
+"3515","Ecuador","ECU",1,2049
+"3516","Egypt","EGY",1,2049
+"3517","El Salvador","SLV",1,2049
+"3518","Eritrea","ERI",1,2049
+"3519","Estonia","EST",1,2049
+"3520","Ethiopia","ETH",1,2049
+"3521","Finland","FIN",1,2049
+"3522","France","FRA",1,2049
+"3523","Gabon","GAB",1,2049
+"3524","Georgia","GEO",1,2049
+"3525","Germany","DEU",1,2049
+"3526","Ghana","GHA",1,2049
+"3527","Gibraltar","GIB",1,2049
+"3528","Greece","GRC",1,2049
+"3529","Guatemala","GTM",1,2049
+"3530","Haiti","HTI",1,2049
+"3531","Honduras","HND",1,2049
+"3532","Hungary","HUN",1,2049
+"3533","Iceland","ISL",1,2049
+"3534","India","IND",1,2049
+"3535","Indonesia","IDN",1,2049
+"3536","Iraq","IRQ",1,2049
+"3537","Ireland","IRL",1,2049
+"3538","Israel","ISR",1,2049
+"3539","Italy","ITA",1,2049
+"3540","Jamaica","JAM",1,2049
+"3541","Japan","JPN",1,2049
+"3542","Jordan","JOR",1,2049
+"3543","Kazakhstan","KAZ",1,2049
+"3544","Kenya","KEN",1,2049
+"3545","Korea","KOR",1,2049
+"3546","Kosovo","XKX",1,2049
+"3547","Kuwait","KWT",1,2049
+"3548","Latvia","LVA",1,2049
+"3549","Lebanon","LBN",1,2049
+"3550","Libya","LBY",1,2049
+"3551","Lithuania","LTU",1,2049
+"3552","Luxembourg","LUX",1,2049
+"3553","Malaysia","MYS",1,2049
+"3554","Malta","MLT",1,2049
+"3555","Mauritius","MUS",1,2049
+"3556","Mexico","MEX",1,2049
+"3557","Mongolia","MNG",1,2049
+"3558","Montenegro","MNE",1,2049
+"3559","Morocco","MAR",1,2049
+"3560","Mozambique","MOZ",1,2049
+"3561","Myanmar","MMR",1,2049
+"3562","Namibia","NAM",1,2049
+"3563","Nepal","NPL",1,2049
+"3564","Netherlands","NLD",1,2049
+"3565","New Zealand","NZL",1,2049
+"3566","Nicaragua","NIC",1,2049
+"3567","Niger","NER",1,2049
+"3568","Nigeria","NGA",1,2049
+"3569","Norway","NOR",1,2049
+"3570","Oman","OMN",1,2049
+"3571","Pakistan","PAK",1,2049
+"3572","Panama","PAN",1,2049
+"3573","Paraguay","PRY",1,2049
+"3574","Peru","PER",1,2049
+"3575","Philippines","PHL",1,2049
+"3576","Poland","POL",1,2049
+"3577","Portugal","PRT",1,2049
+"3578","Qatar","QAT",1,2049
+"3579","Romania","ROU",1,2049
+"3580","Russian Federation","RUS",1,2049
+"3581","Saudi Arabia","SAU",1,2049
+"3582","Senegal","SEN",1,2049
+"3583","Serbia","SRB",1,2049
+"3584","Singapore","SGP",1,2049
+"3585","Slovak Republic","SVK",1,2049
+"3586","Slovenia","SVN",1,2049
+"3587","South Africa","ZAF",1,2049
+"3588","South Sudan","SSD",1,2049
+"3589","Spain","ESP",1,2049
+"3590","Sri Lanka","LKA",1,2049
+"3591","Sudan","SDN",1,2049
+"3592","Suriname","SUR",1,2049
+"3593","Sweden","SWE",1,2049
+"3594","Switzerland","CHE",1,2049
+"3595","Syrian Arab Republic","SYR",1,2049
+"3596","Tajikistan","TJK",1,2049
+"3597","Thailand","THA",1,2049
+"3598","Togo","TGO",1,2049
+"3599","Trinidad and Tobago","TTO",1,2049
+"3600","Tunisia","TUN",1,2049
+"3601","Turkey","TUR",1,2049
+"3602","Turkmenistan","TKM",1,2049
+"3603","Ukraine","UKR",1,2049
+"3604","United Arab Emirates","ARE",1,2049
+"3605","United Kingdom","GBR",1,2049
+"3606","United States","USA",1,2049
+"3607","Uruguay","URY",1,2049
+"3608","Uzbekistan","UZB",1,2049
+"3609","Venezuela","VEN",1,2049
+"3610","Vietnam","VNM",1,2049
+"3611","Zambia","ZMB",1,2049
+"3612","Zimbabwe","ZWE",1,2049
+"3613","Albania","ALB",1,2050
+"3614","Algeria","DZA",1,2050
+"3615","Angola","AGO",1,2050
+"3616","Argentina","ARG",1,2050
+"3617","Armenia","ARM",1,2050
+"3618","Australia","AUS",1,2050
+"3619","Austria","AUT",1,2050
+"3620","Azerbaijan","AZE",1,2050
+"3621","Bahrain","BHR",1,2050
+"3622","Bangladesh","BGD",1,2050
+"3623","Belarus","BLR",1,2050
+"3624","Belgium","BEL",1,2050
+"3625","Benin","BEN",1,2050
+"3626","Bolivia","BOL",1,2050
+"3627","Bosnia and Herzegovina","BIH",1,2050
+"3628","Botswana","BWA",1,2050
+"3629","Brazil","BRA",1,2050
+"3630","Brunei Darussalam","BRN",1,2050
+"3631","Bulgaria","BGR",1,2050
+"3632","Cambodia","KHM",1,2050
+"3633","Cameroon","CMR",1,2050
+"3634","Canada","CAN",1,2050
+"3635","Chile","CHL",1,2050
+"3636","China","CHN",1,2050
+"3637","Colombia","COL",1,2050
+"3638","Costa Rica","CRI",1,2050
+"3639","Croatia","HRV",1,2050
+"3640","Cuba","CUB",1,2050
+"3641","Cyprus","CYP",1,2050
+"3642","Denmark","DNK",1,2050
+"3643","Dominican Republic","DOM",1,2050
+"3644","Ecuador","ECU",1,2050
+"3645","Egypt","EGY",1,2050
+"3646","El Salvador","SLV",1,2050
+"3647","Eritrea","ERI",1,2050
+"3648","Estonia","EST",1,2050
+"3649","Ethiopia","ETH",1,2050
+"3650","Finland","FIN",1,2050
+"3651","France","FRA",1,2050
+"3652","Gabon","GAB",1,2050
+"3653","Georgia","GEO",1,2050
+"3654","Germany","DEU",1,2050
+"3655","Ghana","GHA",1,2050
+"3656","Gibraltar","GIB",1,2050
+"3657","Greece","GRC",1,2050
+"3658","Guatemala","GTM",1,2050
+"3659","Haiti","HTI",1,2050
+"3660","Honduras","HND",1,2050
+"3661","Hungary","HUN",1,2050
+"3662","Iceland","ISL",1,2050
+"3663","India","IND",1,2050
+"3664","Indonesia","IDN",1,2050
+"3665","Iraq","IRQ",1,2050
+"3666","Ireland","IRL",1,2050
+"3667","Israel","ISR",1,2050
+"3668","Italy","ITA",1,2050
+"3669","Jamaica","JAM",1,2050
+"3670","Japan","JPN",1,2050
+"3671","Jordan","JOR",1,2050
+"3672","Kazakhstan","KAZ",1,2050
+"3673","Kenya","KEN",1,2050
+"3674","Korea","KOR",1,2050
+"3675","Kosovo","XKX",1,2050
+"3676","Kuwait","KWT",1,2050
+"3677","Latvia","LVA",1,2050
+"3678","Lebanon","LBN",1,2050
+"3679","Libya","LBY",1,2050
+"3680","Lithuania","LTU",1,2050
+"3681","Luxembourg","LUX",1,2050
+"3682","Malaysia","MYS",1,2050
+"3683","Malta","MLT",1,2050
+"3684","Mauritius","MUS",1,2050
+"3685","Mexico","MEX",1,2050
+"3686","Mongolia","MNG",1,2050
+"3687","Montenegro","MNE",1,2050
+"3688","Morocco","MAR",1,2050
+"3689","Mozambique","MOZ",1,2050
+"3690","Myanmar","MMR",1,2050
+"3691","Namibia","NAM",1,2050
+"3692","Nepal","NPL",1,2050
+"3693","Netherlands","NLD",1,2050
+"3694","New Zealand","NZL",1,2050
+"3695","Nicaragua","NIC",1,2050
+"3696","Niger","NER",1,2050
+"3697","Nigeria","NGA",1,2050
+"3698","Norway","NOR",1,2050
+"3699","Oman","OMN",1,2050
+"3700","Pakistan","PAK",1,2050
+"3701","Panama","PAN",1,2050
+"3702","Paraguay","PRY",1,2050
+"3703","Peru","PER",1,2050
+"3704","Philippines","PHL",1,2050
+"3705","Poland","POL",1,2050
+"3706","Portugal","PRT",1,2050
+"3707","Qatar","QAT",1,2050
+"3708","Romania","ROU",1,2050
+"3709","Russian Federation","RUS",1,2050
+"3710","Saudi Arabia","SAU",1,2050
+"3711","Senegal","SEN",1,2050
+"3712","Serbia","SRB",1,2050
+"3713","Singapore","SGP",1,2050
+"3714","Slovak Republic","SVK",1,2050
+"3715","Slovenia","SVN",1,2050
+"3716","South Africa","ZAF",1,2050
+"3717","South Sudan","SSD",1,2050
+"3718","Spain","ESP",1,2050
+"3719","Sri Lanka","LKA",1,2050
+"3720","Sudan","SDN",1,2050
+"3721","Suriname","SUR",1,2050
+"3722","Sweden","SWE",1,2050
+"3723","Switzerland","CHE",1,2050
+"3724","Syrian Arab Republic","SYR",1,2050
+"3725","Tajikistan","TJK",1,2050
+"3726","Thailand","THA",1,2050
+"3727","Togo","TGO",1,2050
+"3728","Trinidad and Tobago","TTO",1,2050
+"3729","Tunisia","TUN",1,2050
+"3730","Turkey","TUR",1,2050
+"3731","Turkmenistan","TKM",1,2050
+"3732","Ukraine","UKR",1,2050
+"3733","United Arab Emirates","ARE",1,2050
+"3734","United Kingdom","GBR",1,2050
+"3735","United States","USA",1,2050
+"3736","Uruguay","URY",1,2050
+"3737","Uzbekistan","UZB",1,2050
+"3738","Venezuela","VEN",1,2050
+"3739","Vietnam","VNM",1,2050
+"3740","Zambia","ZMB",1,2050
+"3741","Zimbabwe","ZWE",1,2050

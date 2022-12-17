@@ -1,6 +1,6 @@
+root<-r"(C:\Users\AP03054557\OneDrive\Edmundo-ITESM\3.Proyectos\42. LAC Decarbonization\)"
 
-#dir_data <-r"(C:\Users\L03054557\OneDrive\Edmundo-ITESM\3.Proyectos\42. LAC Decarbonization\calibration_lac_dec\observed_data\Energy\cost_enfu_fuel_coal_usd_per_m3\raw_data\)"
-dir_data <-r"(C:\Users\AP03054557\OneDrive\Edmundo-ITESM\3.Proyectos\42. LAC Decarbonization\Data\IEA2018\World Energy Balances\)"
+dir_data <-paste0(root,r"(Data\IEA2018\World Energy Balances\)")
 name_file <-"wconv.csv"
 data <- read.csv(paste0(dir_data,name_file))
 
@@ -22,83 +22,79 @@ for (i in 1:length(vars))
 datan$Mean<-rowMeans(datan[,vars],na.rm=TRUE)
 datan<-subset(datan,datan$UNIT=="toe/t")
 
+#keep only the values we need, and merge iso_code3 values 
+datan<-datan[,c(ids,"Mean")]
+head(datan)
 
-#
+#merge data crosswalk 
+dir_data <- paste0(root,r"(calibration_lac_dec\observed_data\Energy\efficfactor_enfu_industrial_energy_fuel_natural_gas\raw_data\)")
+data_cw<-read.csv(paste0(dir_data,"data_cross_walk.csv"))
+head(data_cw)
 
+dim(datan)
+dim(data_cw)
+test<-Reduce(function(...) merge(..., all.x=T), list(datan,data_cw))
+dim(test)
+test$Nation <- test$COUNTRY
 
+#append nation names 
+test$Nation <- gsub("Viet Nam", "Vietnam",test$Nation)
+test$Nation <- gsub("Plurinational State of Bolivia", "Bolivia",test$Nation)
+test$Nation <- gsub("Bolivarian Republic of Venezuela", "Venezuela",test$Nation)
+test$Nation <- gsub("People's Republic of China", "China",test$Nation)
+test$Nation <- gsub("Republic of the Congo", "Congo",test$Nation)
 
+#merge with list of countries 
+dir_countries <- root
+clist <- read.csv(paste0(dir_countries,"Countries_ISO3.csv"))
+colnames(clist) <- c("Nation","iso_code3")
 
+dim(test)
+test <- merge(test, clist, by = "Nation")
+dim(test)
 
+#now lest print the files
+sisepuede_vars <- subset(data_cw,is.na(data_cw$FLOW)==FALSE)$sipuede_item
+#first all for which we have information 
 
-
-
-
-
-summary(datan)
-
-means_table <- aggregate(list(Mean=datan$Mean),list(FLOW = datan$FLOW, PRODUCT = datan$PRODUCT,UNIT = datan$UNIT),mean, na.rm=TRUE)
-subset(means_table, FLOW == "Average net calorific value")
-subset(means_table, FLOW == "NCV in industry")
-
-subset(means_table, FLOW == "NCV in main activity producer electricity plants")
-
-
-
-
-subset(datan, FLOW == "Average net calorific value")[,c("FLOW","COUNTRY","PRODUCT","Mean")]
-
-
-
-
-test<-subset(data,FLOW=="Average net calorific value")
-test<-subset(test,UNIT=="toe/t")
-#test<-subset(test,TIME>=2000)
-test<-subset(test,COUNTRY=="Mexico")
-
-
-
-
-
-#Got it
-#estimate TJ per fuel  using IEA 
-#then divide by total value added in industry 
-#
-
-efficfactor_enfu_industrial_energy_fuel_biomass
-efficfactor_enfu_industrial_energy_fuel_coal
-efficfactor_enfu_industrial_energy_fuel_coke
-efficfactor_enfu_industrial_energy_fuel_diesel
-efficfactor_enfu_industrial_energy_fuel_electricity
-efficfactor_enfu_industrial_energy_fuel_gas_furnace
-efficfactor_enfu_industrial_energy_fuel_gas_petroleum_liquid
-efficfactor_enfu_industrial_energy_fuel_gasoline
-efficfactor_enfu_industrial_energy_fuel_hydrogen
-efficfactor_enfu_industrial_energy_fuel_kerosene
-efficfactor_enfu_industrial_energy_fuel_natural_gas
-efficfactor_enfu_industrial_energy_fuel_oil
-efficfactor_enfu_industrial_energy_fuel_solar
-
-test<-subset(data,FLOW=="Industry")
-test<-subset(test,UNIT=="TJ")
-test<-subset(test,TIME>=2000)
-test<-subset(test,COUNTRY=="Mexico")
-
-ids<-c("COUNTRY","FLOW","UNIT","TIME")
-
-vars<-subset(colnames(test),!(colnames(test)%in%ids))
-
-for (i in 1:length(vars))
+for ( i in 1:length(sisepuede_vars))
 {
- print( unique(test[,vars[i]]) )  
+i<-6
+dir_out <- paste0(root,r"(calibration_lac_dec\observed_data\Energy\)",sisepuede_vars[i],r"(\input_to_sisepuede\)")
+
+#target sisepuede_vars
+pivot <- subset(test,sipuede_item==sisepuede_vars[i])
+#head(pivot)
+
+#input NAs using average  
+pivot[, sisepuede_vars[i] ] <- ifelse(is.na(pivot$Mean) == TRUE , mean(pivot$Mean, na.rm=TRUE), pivot$Mean) 
+pivot <- pivot[ ,c("Nation","iso_code3",sisepuede_vars[i])]
+
+pivot_historic<-merge(pivot,data.frame(Year=c(2001:2021)))
+#head(pivot_historic)
+dir.create(paste0(dir_out,r"(historical\)"),recursive = TRUE)
+write.csv(pivot_historic,paste0(dir_out,r"(historical\)",sisepuede_vars[i],".csv"),row.names=FALSE)
+
+pivot_projected<-merge(pivot,data.frame(Year=c(2022:2050)))
+#head(pivot_projected)
+dir.create(paste0(dir_out,r"(projected\)"),recursive = TRUE)
+write.csv(pivot_projected,paste0(dir_out,r"(projected\)",sisepuede_vars[i],".csv"),row.names=FALSE)
 }
 
-for (i in 1:length(vars))
-{
- test[,vars[i]] <- ifelse(test[,vars[i]]=="x",NA,test[,vars[i]])
- test[,vars[i]] <- ifelse(test[,vars[i]]=="..",NA,test[,vars[i]])  
- test[,vars[i]] <- as.numeric(as.character(test[,vars[i]] ) )
-}
+#second for those we do no have informations, but can assume a constant value  
+sisepuede_varsb <- subset(data_cw,is.na(data_cw$FLOW)==TRUE)$sipuede_item
+
+i<-3
+pivot<-unique(test[,c("Nation","iso_code3")])
+pivot[,sisepuede_varsb[i]]  <- subset(data_cw, sipuede_item == sisepuede_varsb[i])$Default
 
 
+dir_out <- paste0(root,r"(calibration_lac_dec\observed_data\Energy\)",sisepuede_varsb[i],r"(\input_to_sisepuede\)")
 
-strsplit(data$TIMESERIES, ".")
+pivot_historic<-merge(pivot,data.frame(Year=c(2001:2021)))
+dir.create(paste0(dir_out,r"(historical\)"),recursive = TRUE)
+write.csv(pivot_historic,paste0(dir_out,r"(historical\)",sisepuede_varsb[i],".csv"),row.names=FALSE)
+
+pivot_projected<-merge(pivot,data.frame(Year=c(2022:2050)))
+dir.create(paste0(dir_out,r"(projected\)"),recursive = TRUE)
+write.csv(pivot_projected,paste0(dir_out,r"(projected\)",sisepuede_varsb[i],".csv"),row.names=FALSE)
