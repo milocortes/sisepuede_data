@@ -1,0 +1,8 @@
+Data obtained from "Projected-Costs-of-Generating-Electricity-2020.pdf"
+
+When a country is not present in the data set:
+
+if there is another country from the same continent:
+then it is assumed that the value is equal along the continent (with some execptions)
+
+else: global average is taken as the variable value.
