@@ -64,16 +64,6 @@ power_plants["commissioning_year"] = power_plants["commissioning_year"].astype("
 
 # Rename 'United States of America' --> United States
 power_plants.loc[power_plants["country_long"]=='United States of America',"country_long"] = "United States"
-power_plants.loc[power_plants["country_long"]=='North Korea',"country_long"] = 'Korea, Dem. Rep.'
-power_plants.loc[power_plants["country_long"]=='South Korea',"country_long"] = 'Korea, Rep.'
-power_plants.loc[power_plants["country_long"]=='Iran',"country_long"] = 'Iran, Islamic Rep.'
-power_plants.loc[power_plants["country_long"]=='Ethiopia',"country_long"] = 'Ethiopia (includes Eritrea)'
-power_plants.loc[power_plants["country_long"]=='Democratic Republic of the Congo',"country_long"] = 'Congo, Rep.'
-power_plants.loc[power_plants["country_long"]=='Russia',"country_long"] = 'Russian Federation'
-power_plants.loc[power_plants["country_long"]=='Egypt',"country_long"] = 'Egypt, Arab Rep.'
-power_plants.loc[power_plants["country_long"]=='Laos',"country_long"] = 'Lao PDR'
-
-power_plants = power_plants.query("country_long != 'Yemen'")
 
 year = 1970
 acumula_query = []
