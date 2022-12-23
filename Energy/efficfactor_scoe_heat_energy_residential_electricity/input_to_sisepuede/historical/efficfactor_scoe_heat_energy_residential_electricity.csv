@@ -1,0 +1,2710 @@
+"Nation","iso_code3","efficfactor_scoe_heat_energy_residential_electricity","Year"
+"Albania","ALB",1,2001
+"Algeria","DZA",1,2001
+"Angola","AGO",1,2001
+"Argentina","ARG",1,2001
+"Armenia","ARM",1,2001
+"Australia","AUS",1,2001
+"Austria","AUT",1,2001
+"Azerbaijan","AZE",1,2001
+"Bahrain","BHR",1,2001
+"Bangladesh","BGD",1,2001
+"Belarus","BLR",1,2001
+"Belgium","BEL",1,2001
+"Benin","BEN",1,2001
+"Bolivia","BOL",1,2001
+"Bosnia and Herzegovina","BIH",1,2001
+"Botswana","BWA",1,2001
+"Brazil","BRA",1,2001
+"Brunei Darussalam","BRN",1,2001
+"Bulgaria","BGR",1,2001
+"Cambodia","KHM",1,2001
+"Cameroon","CMR",1,2001
+"Canada","CAN",1,2001
+"Chile","CHL",1,2001
+"China","CHN",1,2001
+"Colombia","COL",1,2001
+"Costa Rica","CRI",1,2001
+"Croatia","HRV",1,2001
+"Cuba","CUB",1,2001
+"Cyprus","CYP",1,2001
+"Denmark","DNK",1,2001
+"Dominican Republic","DOM",1,2001
+"Ecuador","ECU",1,2001
+"Egypt","EGY",1,2001
+"El Salvador","SLV",1,2001
+"Eritrea","ERI",1,2001
+"Estonia","EST",1,2001
+"Ethiopia","ETH",1,2001
+"Finland","FIN",1,2001
+"France","FRA",1,2001
+"Gabon","GAB",1,2001
+"Georgia","GEO",1,2001
+"Germany","DEU",1,2001
+"Ghana","GHA",1,2001
+"Gibraltar","GIB",1,2001
+"Greece","GRC",1,2001
+"Guatemala","GTM",1,2001
+"Haiti","HTI",1,2001
+"Honduras","HND",1,2001
+"Hungary","HUN",1,2001
+"Iceland","ISL",1,2001
+"India","IND",1,2001
+"Indonesia","IDN",1,2001
+"Iraq","IRQ",1,2001
+"Ireland","IRL",1,2001
+"Israel","ISR",1,2001
+"Italy","ITA",1,2001
+"Jamaica","JAM",1,2001
+"Japan","JPN",1,2001
+"Jordan","JOR",1,2001
+"Kazakhstan","KAZ",1,2001
+"Kenya","KEN",1,2001
+"Korea","KOR",1,2001
+"Kosovo","XKX",1,2001
+"Kuwait","KWT",1,2001
+"Latvia","LVA",1,2001
+"Lebanon","LBN",1,2001
+"Libya","LBY",1,2001
+"Lithuania","LTU",1,2001
+"Luxembourg","LUX",1,2001
+"Malaysia","MYS",1,2001
+"Malta","MLT",1,2001
+"Mauritius","MUS",1,2001
+"Mexico","MEX",1,2001
+"Mongolia","MNG",1,2001
+"Montenegro","MNE",1,2001
+"Morocco","MAR",1,2001
+"Mozambique","MOZ",1,2001
+"Myanmar","MMR",1,2001
+"Namibia","NAM",1,2001
+"Nepal","NPL",1,2001
+"Netherlands","NLD",1,2001
+"New Zealand","NZL",1,2001
+"Nicaragua","NIC",1,2001
+"Niger","NER",1,2001
+"Nigeria","NGA",1,2001
+"Norway","NOR",1,2001
+"Oman","OMN",1,2001
+"Pakistan","PAK",1,2001
+"Panama","PAN",1,2001
+"Paraguay","PRY",1,2001
+"Peru","PER",1,2001
+"Philippines","PHL",1,2001
+"Poland","POL",1,2001
+"Portugal","PRT",1,2001
+"Qatar","QAT",1,2001
+"Romania","ROU",1,2001
+"Russian Federation","RUS",1,2001
+"Saudi Arabia","SAU",1,2001
+"Senegal","SEN",1,2001
+"Serbia","SRB",1,2001
+"Singapore","SGP",1,2001
+"Slovak Republic","SVK",1,2001
+"Slovenia","SVN",1,2001
+"South Africa","ZAF",1,2001
+"South Sudan","SSD",1,2001
+"Spain","ESP",1,2001
+"Sri Lanka","LKA",1,2001
+"Sudan","SDN",1,2001
+"Suriname","SUR",1,2001
+"Sweden","SWE",1,2001
+"Switzerland","CHE",1,2001
+"Syrian Arab Republic","SYR",1,2001
+"Tajikistan","TJK",1,2001
+"Thailand","THA",1,2001
+"Togo","TGO",1,2001
+"Trinidad and Tobago","TTO",1,2001
+"Tunisia","TUN",1,2001
+"Turkey","TUR",1,2001
+"Turkmenistan","TKM",1,2001
+"Ukraine","UKR",1,2001
+"United Arab Emirates","ARE",1,2001
+"United Kingdom","GBR",1,2001
+"United States","USA",1,2001
+"Uruguay","URY",1,2001
+"Uzbekistan","UZB",1,2001
+"Venezuela","VEN",1,2001
+"Vietnam","VNM",1,2001
+"Zambia","ZMB",1,2001
+"Zimbabwe","ZWE",1,2001
+"Albania","ALB",1,2002
+"Algeria","DZA",1,2002
+"Angola","AGO",1,2002
+"Argentina","ARG",1,2002
+"Armenia","ARM",1,2002
+"Australia","AUS",1,2002
+"Austria","AUT",1,2002
+"Azerbaijan","AZE",1,2002
+"Bahrain","BHR",1,2002
+"Bangladesh","BGD",1,2002
+"Belarus","BLR",1,2002
+"Belgium","BEL",1,2002
+"Benin","BEN",1,2002
+"Bolivia","BOL",1,2002
+"Bosnia and Herzegovina","BIH",1,2002
+"Botswana","BWA",1,2002
+"Brazil","BRA",1,2002
+"Brunei Darussalam","BRN",1,2002
+"Bulgaria","BGR",1,2002
+"Cambodia","KHM",1,2002
+"Cameroon","CMR",1,2002
+"Canada","CAN",1,2002
+"Chile","CHL",1,2002
+"China","CHN",1,2002
+"Colombia","COL",1,2002
+"Costa Rica","CRI",1,2002
+"Croatia","HRV",1,2002
+"Cuba","CUB",1,2002
+"Cyprus","CYP",1,2002
+"Denmark","DNK",1,2002
+"Dominican Republic","DOM",1,2002
+"Ecuador","ECU",1,2002
+"Egypt","EGY",1,2002
+"El Salvador","SLV",1,2002
+"Eritrea","ERI",1,2002
+"Estonia","EST",1,2002
+"Ethiopia","ETH",1,2002
+"Finland","FIN",1,2002
+"France","FRA",1,2002
+"Gabon","GAB",1,2002
+"Georgia","GEO",1,2002
+"Germany","DEU",1,2002
+"Ghana","GHA",1,2002
+"Gibraltar","GIB",1,2002
+"Greece","GRC",1,2002
+"Guatemala","GTM",1,2002
+"Haiti","HTI",1,2002
+"Honduras","HND",1,2002
+"Hungary","HUN",1,2002
+"Iceland","ISL",1,2002
+"India","IND",1,2002
+"Indonesia","IDN",1,2002
+"Iraq","IRQ",1,2002
+"Ireland","IRL",1,2002
+"Israel","ISR",1,2002
+"Italy","ITA",1,2002
+"Jamaica","JAM",1,2002
+"Japan","JPN",1,2002
+"Jordan","JOR",1,2002
+"Kazakhstan","KAZ",1,2002
+"Kenya","KEN",1,2002
+"Korea","KOR",1,2002
+"Kosovo","XKX",1,2002
+"Kuwait","KWT",1,2002
+"Latvia","LVA",1,2002
+"Lebanon","LBN",1,2002
+"Libya","LBY",1,2002
+"Lithuania","LTU",1,2002
+"Luxembourg","LUX",1,2002
+"Malaysia","MYS",1,2002
+"Malta","MLT",1,2002
+"Mauritius","MUS",1,2002
+"Mexico","MEX",1,2002
+"Mongolia","MNG",1,2002
+"Montenegro","MNE",1,2002
+"Morocco","MAR",1,2002
+"Mozambique","MOZ",1,2002
+"Myanmar","MMR",1,2002
+"Namibia","NAM",1,2002
+"Nepal","NPL",1,2002
+"Netherlands","NLD",1,2002
+"New Zealand","NZL",1,2002
+"Nicaragua","NIC",1,2002
+"Niger","NER",1,2002
+"Nigeria","NGA",1,2002
+"Norway","NOR",1,2002
+"Oman","OMN",1,2002
+"Pakistan","PAK",1,2002
+"Panama","PAN",1,2002
+"Paraguay","PRY",1,2002
+"Peru","PER",1,2002
+"Philippines","PHL",1,2002
+"Poland","POL",1,2002
+"Portugal","PRT",1,2002
+"Qatar","QAT",1,2002
+"Romania","ROU",1,2002
+"Russian Federation","RUS",1,2002
+"Saudi Arabia","SAU",1,2002
+"Senegal","SEN",1,2002
+"Serbia","SRB",1,2002
+"Singapore","SGP",1,2002
+"Slovak Republic","SVK",1,2002
+"Slovenia","SVN",1,2002
+"South Africa","ZAF",1,2002
+"South Sudan","SSD",1,2002
+"Spain","ESP",1,2002
+"Sri Lanka","LKA",1,2002
+"Sudan","SDN",1,2002
+"Suriname","SUR",1,2002
+"Sweden","SWE",1,2002
+"Switzerland","CHE",1,2002
+"Syrian Arab Republic","SYR",1,2002
+"Tajikistan","TJK",1,2002
+"Thailand","THA",1,2002
+"Togo","TGO",1,2002
+"Trinidad and Tobago","TTO",1,2002
+"Tunisia","TUN",1,2002
+"Turkey","TUR",1,2002
+"Turkmenistan","TKM",1,2002
+"Ukraine","UKR",1,2002
+"United Arab Emirates","ARE",1,2002
+"United Kingdom","GBR",1,2002
+"United States","USA",1,2002
+"Uruguay","URY",1,2002
+"Uzbekistan","UZB",1,2002
+"Venezuela","VEN",1,2002
+"Vietnam","VNM",1,2002
+"Zambia","ZMB",1,2002
+"Zimbabwe","ZWE",1,2002
+"Albania","ALB",1,2003
+"Algeria","DZA",1,2003
+"Angola","AGO",1,2003
+"Argentina","ARG",1,2003
+"Armenia","ARM",1,2003
+"Australia","AUS",1,2003
+"Austria","AUT",1,2003
+"Azerbaijan","AZE",1,2003
+"Bahrain","BHR",1,2003
+"Bangladesh","BGD",1,2003
+"Belarus","BLR",1,2003
+"Belgium","BEL",1,2003
+"Benin","BEN",1,2003
+"Bolivia","BOL",1,2003
+"Bosnia and Herzegovina","BIH",1,2003
+"Botswana","BWA",1,2003
+"Brazil","BRA",1,2003
+"Brunei Darussalam","BRN",1,2003
+"Bulgaria","BGR",1,2003
+"Cambodia","KHM",1,2003
+"Cameroon","CMR",1,2003
+"Canada","CAN",1,2003
+"Chile","CHL",1,2003
+"China","CHN",1,2003
+"Colombia","COL",1,2003
+"Costa Rica","CRI",1,2003
+"Croatia","HRV",1,2003
+"Cuba","CUB",1,2003
+"Cyprus","CYP",1,2003
+"Denmark","DNK",1,2003
+"Dominican Republic","DOM",1,2003
+"Ecuador","ECU",1,2003
+"Egypt","EGY",1,2003
+"El Salvador","SLV",1,2003
+"Eritrea","ERI",1,2003
+"Estonia","EST",1,2003
+"Ethiopia","ETH",1,2003
+"Finland","FIN",1,2003
+"France","FRA",1,2003
+"Gabon","GAB",1,2003
+"Georgia","GEO",1,2003
+"Germany","DEU",1,2003
+"Ghana","GHA",1,2003
+"Gibraltar","GIB",1,2003
+"Greece","GRC",1,2003
+"Guatemala","GTM",1,2003
+"Haiti","HTI",1,2003
+"Honduras","HND",1,2003
+"Hungary","HUN",1,2003
+"Iceland","ISL",1,2003
+"India","IND",1,2003
+"Indonesia","IDN",1,2003
+"Iraq","IRQ",1,2003
+"Ireland","IRL",1,2003
+"Israel","ISR",1,2003
+"Italy","ITA",1,2003
+"Jamaica","JAM",1,2003
+"Japan","JPN",1,2003
+"Jordan","JOR",1,2003
+"Kazakhstan","KAZ",1,2003
+"Kenya","KEN",1,2003
+"Korea","KOR",1,2003
+"Kosovo","XKX",1,2003
+"Kuwait","KWT",1,2003
+"Latvia","LVA",1,2003
+"Lebanon","LBN",1,2003
+"Libya","LBY",1,2003
+"Lithuania","LTU",1,2003
+"Luxembourg","LUX",1,2003
+"Malaysia","MYS",1,2003
+"Malta","MLT",1,2003
+"Mauritius","MUS",1,2003
+"Mexico","MEX",1,2003
+"Mongolia","MNG",1,2003
+"Montenegro","MNE",1,2003
+"Morocco","MAR",1,2003
+"Mozambique","MOZ",1,2003
+"Myanmar","MMR",1,2003
+"Namibia","NAM",1,2003
+"Nepal","NPL",1,2003
+"Netherlands","NLD",1,2003
+"New Zealand","NZL",1,2003
+"Nicaragua","NIC",1,2003
+"Niger","NER",1,2003
+"Nigeria","NGA",1,2003
+"Norway","NOR",1,2003
+"Oman","OMN",1,2003
+"Pakistan","PAK",1,2003
+"Panama","PAN",1,2003
+"Paraguay","PRY",1,2003
+"Peru","PER",1,2003
+"Philippines","PHL",1,2003
+"Poland","POL",1,2003
+"Portugal","PRT",1,2003
+"Qatar","QAT",1,2003
+"Romania","ROU",1,2003
+"Russian Federation","RUS",1,2003
+"Saudi Arabia","SAU",1,2003
+"Senegal","SEN",1,2003
+"Serbia","SRB",1,2003
+"Singapore","SGP",1,2003
+"Slovak Republic","SVK",1,2003
+"Slovenia","SVN",1,2003
+"South Africa","ZAF",1,2003
+"South Sudan","SSD",1,2003
+"Spain","ESP",1,2003
+"Sri Lanka","LKA",1,2003
+"Sudan","SDN",1,2003
+"Suriname","SUR",1,2003
+"Sweden","SWE",1,2003
+"Switzerland","CHE",1,2003
+"Syrian Arab Republic","SYR",1,2003
+"Tajikistan","TJK",1,2003
+"Thailand","THA",1,2003
+"Togo","TGO",1,2003
+"Trinidad and Tobago","TTO",1,2003
+"Tunisia","TUN",1,2003
+"Turkey","TUR",1,2003
+"Turkmenistan","TKM",1,2003
+"Ukraine","UKR",1,2003
+"United Arab Emirates","ARE",1,2003
+"United Kingdom","GBR",1,2003
+"United States","USA",1,2003
+"Uruguay","URY",1,2003
+"Uzbekistan","UZB",1,2003
+"Venezuela","VEN",1,2003
+"Vietnam","VNM",1,2003
+"Zambia","ZMB",1,2003
+"Zimbabwe","ZWE",1,2003
+"Albania","ALB",1,2004
+"Algeria","DZA",1,2004
+"Angola","AGO",1,2004
+"Argentina","ARG",1,2004
+"Armenia","ARM",1,2004
+"Australia","AUS",1,2004
+"Austria","AUT",1,2004
+"Azerbaijan","AZE",1,2004
+"Bahrain","BHR",1,2004
+"Bangladesh","BGD",1,2004
+"Belarus","BLR",1,2004
+"Belgium","BEL",1,2004
+"Benin","BEN",1,2004
+"Bolivia","BOL",1,2004
+"Bosnia and Herzegovina","BIH",1,2004
+"Botswana","BWA",1,2004
+"Brazil","BRA",1,2004
+"Brunei Darussalam","BRN",1,2004
+"Bulgaria","BGR",1,2004
+"Cambodia","KHM",1,2004
+"Cameroon","CMR",1,2004
+"Canada","CAN",1,2004
+"Chile","CHL",1,2004
+"China","CHN",1,2004
+"Colombia","COL",1,2004
+"Costa Rica","CRI",1,2004
+"Croatia","HRV",1,2004
+"Cuba","CUB",1,2004
+"Cyprus","CYP",1,2004
+"Denmark","DNK",1,2004
+"Dominican Republic","DOM",1,2004
+"Ecuador","ECU",1,2004
+"Egypt","EGY",1,2004
+"El Salvador","SLV",1,2004
+"Eritrea","ERI",1,2004
+"Estonia","EST",1,2004
+"Ethiopia","ETH",1,2004
+"Finland","FIN",1,2004
+"France","FRA",1,2004
+"Gabon","GAB",1,2004
+"Georgia","GEO",1,2004
+"Germany","DEU",1,2004
+"Ghana","GHA",1,2004
+"Gibraltar","GIB",1,2004
+"Greece","GRC",1,2004
+"Guatemala","GTM",1,2004
+"Haiti","HTI",1,2004
+"Honduras","HND",1,2004
+"Hungary","HUN",1,2004
+"Iceland","ISL",1,2004
+"India","IND",1,2004
+"Indonesia","IDN",1,2004
+"Iraq","IRQ",1,2004
+"Ireland","IRL",1,2004
+"Israel","ISR",1,2004
+"Italy","ITA",1,2004
+"Jamaica","JAM",1,2004
+"Japan","JPN",1,2004
+"Jordan","JOR",1,2004
+"Kazakhstan","KAZ",1,2004
+"Kenya","KEN",1,2004
+"Korea","KOR",1,2004
+"Kosovo","XKX",1,2004
+"Kuwait","KWT",1,2004
+"Latvia","LVA",1,2004
+"Lebanon","LBN",1,2004
+"Libya","LBY",1,2004
+"Lithuania","LTU",1,2004
+"Luxembourg","LUX",1,2004
+"Malaysia","MYS",1,2004
+"Malta","MLT",1,2004
+"Mauritius","MUS",1,2004
+"Mexico","MEX",1,2004
+"Mongolia","MNG",1,2004
+"Montenegro","MNE",1,2004
+"Morocco","MAR",1,2004
+"Mozambique","MOZ",1,2004
+"Myanmar","MMR",1,2004
+"Namibia","NAM",1,2004
+"Nepal","NPL",1,2004
+"Netherlands","NLD",1,2004
+"New Zealand","NZL",1,2004
+"Nicaragua","NIC",1,2004
+"Niger","NER",1,2004
+"Nigeria","NGA",1,2004
+"Norway","NOR",1,2004
+"Oman","OMN",1,2004
+"Pakistan","PAK",1,2004
+"Panama","PAN",1,2004
+"Paraguay","PRY",1,2004
+"Peru","PER",1,2004
+"Philippines","PHL",1,2004
+"Poland","POL",1,2004
+"Portugal","PRT",1,2004
+"Qatar","QAT",1,2004
+"Romania","ROU",1,2004
+"Russian Federation","RUS",1,2004
+"Saudi Arabia","SAU",1,2004
+"Senegal","SEN",1,2004
+"Serbia","SRB",1,2004
+"Singapore","SGP",1,2004
+"Slovak Republic","SVK",1,2004
+"Slovenia","SVN",1,2004
+"South Africa","ZAF",1,2004
+"South Sudan","SSD",1,2004
+"Spain","ESP",1,2004
+"Sri Lanka","LKA",1,2004
+"Sudan","SDN",1,2004
+"Suriname","SUR",1,2004
+"Sweden","SWE",1,2004
+"Switzerland","CHE",1,2004
+"Syrian Arab Republic","SYR",1,2004
+"Tajikistan","TJK",1,2004
+"Thailand","THA",1,2004
+"Togo","TGO",1,2004
+"Trinidad and Tobago","TTO",1,2004
+"Tunisia","TUN",1,2004
+"Turkey","TUR",1,2004
+"Turkmenistan","TKM",1,2004
+"Ukraine","UKR",1,2004
+"United Arab Emirates","ARE",1,2004
+"United Kingdom","GBR",1,2004
+"United States","USA",1,2004
+"Uruguay","URY",1,2004
+"Uzbekistan","UZB",1,2004
+"Venezuela","VEN",1,2004
+"Vietnam","VNM",1,2004
+"Zambia","ZMB",1,2004
+"Zimbabwe","ZWE",1,2004
+"Albania","ALB",1,2005
+"Algeria","DZA",1,2005
+"Angola","AGO",1,2005
+"Argentina","ARG",1,2005
+"Armenia","ARM",1,2005
+"Australia","AUS",1,2005
+"Austria","AUT",1,2005
+"Azerbaijan","AZE",1,2005
+"Bahrain","BHR",1,2005
+"Bangladesh","BGD",1,2005
+"Belarus","BLR",1,2005
+"Belgium","BEL",1,2005
+"Benin","BEN",1,2005
+"Bolivia","BOL",1,2005
+"Bosnia and Herzegovina","BIH",1,2005
+"Botswana","BWA",1,2005
+"Brazil","BRA",1,2005
+"Brunei Darussalam","BRN",1,2005
+"Bulgaria","BGR",1,2005
+"Cambodia","KHM",1,2005
+"Cameroon","CMR",1,2005
+"Canada","CAN",1,2005
+"Chile","CHL",1,2005
+"China","CHN",1,2005
+"Colombia","COL",1,2005
+"Costa Rica","CRI",1,2005
+"Croatia","HRV",1,2005
+"Cuba","CUB",1,2005
+"Cyprus","CYP",1,2005
+"Denmark","DNK",1,2005
+"Dominican Republic","DOM",1,2005
+"Ecuador","ECU",1,2005
+"Egypt","EGY",1,2005
+"El Salvador","SLV",1,2005
+"Eritrea","ERI",1,2005
+"Estonia","EST",1,2005
+"Ethiopia","ETH",1,2005
+"Finland","FIN",1,2005
+"France","FRA",1,2005
+"Gabon","GAB",1,2005
+"Georgia","GEO",1,2005
+"Germany","DEU",1,2005
+"Ghana","GHA",1,2005
+"Gibraltar","GIB",1,2005
+"Greece","GRC",1,2005
+"Guatemala","GTM",1,2005
+"Haiti","HTI",1,2005
+"Honduras","HND",1,2005
+"Hungary","HUN",1,2005
+"Iceland","ISL",1,2005
+"India","IND",1,2005
+"Indonesia","IDN",1,2005
+"Iraq","IRQ",1,2005
+"Ireland","IRL",1,2005
+"Israel","ISR",1,2005
+"Italy","ITA",1,2005
+"Jamaica","JAM",1,2005
+"Japan","JPN",1,2005
+"Jordan","JOR",1,2005
+"Kazakhstan","KAZ",1,2005
+"Kenya","KEN",1,2005
+"Korea","KOR",1,2005
+"Kosovo","XKX",1,2005
+"Kuwait","KWT",1,2005
+"Latvia","LVA",1,2005
+"Lebanon","LBN",1,2005
+"Libya","LBY",1,2005
+"Lithuania","LTU",1,2005
+"Luxembourg","LUX",1,2005
+"Malaysia","MYS",1,2005
+"Malta","MLT",1,2005
+"Mauritius","MUS",1,2005
+"Mexico","MEX",1,2005
+"Mongolia","MNG",1,2005
+"Montenegro","MNE",1,2005
+"Morocco","MAR",1,2005
+"Mozambique","MOZ",1,2005
+"Myanmar","MMR",1,2005
+"Namibia","NAM",1,2005
+"Nepal","NPL",1,2005
+"Netherlands","NLD",1,2005
+"New Zealand","NZL",1,2005
+"Nicaragua","NIC",1,2005
+"Niger","NER",1,2005
+"Nigeria","NGA",1,2005
+"Norway","NOR",1,2005
+"Oman","OMN",1,2005
+"Pakistan","PAK",1,2005
+"Panama","PAN",1,2005
+"Paraguay","PRY",1,2005
+"Peru","PER",1,2005
+"Philippines","PHL",1,2005
+"Poland","POL",1,2005
+"Portugal","PRT",1,2005
+"Qatar","QAT",1,2005
+"Romania","ROU",1,2005
+"Russian Federation","RUS",1,2005
+"Saudi Arabia","SAU",1,2005
+"Senegal","SEN",1,2005
+"Serbia","SRB",1,2005
+"Singapore","SGP",1,2005
+"Slovak Republic","SVK",1,2005
+"Slovenia","SVN",1,2005
+"South Africa","ZAF",1,2005
+"South Sudan","SSD",1,2005
+"Spain","ESP",1,2005
+"Sri Lanka","LKA",1,2005
+"Sudan","SDN",1,2005
+"Suriname","SUR",1,2005
+"Sweden","SWE",1,2005
+"Switzerland","CHE",1,2005
+"Syrian Arab Republic","SYR",1,2005
+"Tajikistan","TJK",1,2005
+"Thailand","THA",1,2005
+"Togo","TGO",1,2005
+"Trinidad and Tobago","TTO",1,2005
+"Tunisia","TUN",1,2005
+"Turkey","TUR",1,2005
+"Turkmenistan","TKM",1,2005
+"Ukraine","UKR",1,2005
+"United Arab Emirates","ARE",1,2005
+"United Kingdom","GBR",1,2005
+"United States","USA",1,2005
+"Uruguay","URY",1,2005
+"Uzbekistan","UZB",1,2005
+"Venezuela","VEN",1,2005
+"Vietnam","VNM",1,2005
+"Zambia","ZMB",1,2005
+"Zimbabwe","ZWE",1,2005
+"Albania","ALB",1,2006
+"Algeria","DZA",1,2006
+"Angola","AGO",1,2006
+"Argentina","ARG",1,2006
+"Armenia","ARM",1,2006
+"Australia","AUS",1,2006
+"Austria","AUT",1,2006
+"Azerbaijan","AZE",1,2006
+"Bahrain","BHR",1,2006
+"Bangladesh","BGD",1,2006
+"Belarus","BLR",1,2006
+"Belgium","BEL",1,2006
+"Benin","BEN",1,2006
+"Bolivia","BOL",1,2006
+"Bosnia and Herzegovina","BIH",1,2006
+"Botswana","BWA",1,2006
+"Brazil","BRA",1,2006
+"Brunei Darussalam","BRN",1,2006
+"Bulgaria","BGR",1,2006
+"Cambodia","KHM",1,2006
+"Cameroon","CMR",1,2006
+"Canada","CAN",1,2006
+"Chile","CHL",1,2006
+"China","CHN",1,2006
+"Colombia","COL",1,2006
+"Costa Rica","CRI",1,2006
+"Croatia","HRV",1,2006
+"Cuba","CUB",1,2006
+"Cyprus","CYP",1,2006
+"Denmark","DNK",1,2006
+"Dominican Republic","DOM",1,2006
+"Ecuador","ECU",1,2006
+"Egypt","EGY",1,2006
+"El Salvador","SLV",1,2006
+"Eritrea","ERI",1,2006
+"Estonia","EST",1,2006
+"Ethiopia","ETH",1,2006
+"Finland","FIN",1,2006
+"France","FRA",1,2006
+"Gabon","GAB",1,2006
+"Georgia","GEO",1,2006
+"Germany","DEU",1,2006
+"Ghana","GHA",1,2006
+"Gibraltar","GIB",1,2006
+"Greece","GRC",1,2006
+"Guatemala","GTM",1,2006
+"Haiti","HTI",1,2006
+"Honduras","HND",1,2006
+"Hungary","HUN",1,2006
+"Iceland","ISL",1,2006
+"India","IND",1,2006
+"Indonesia","IDN",1,2006
+"Iraq","IRQ",1,2006
+"Ireland","IRL",1,2006
+"Israel","ISR",1,2006
+"Italy","ITA",1,2006
+"Jamaica","JAM",1,2006
+"Japan","JPN",1,2006
+"Jordan","JOR",1,2006
+"Kazakhstan","KAZ",1,2006
+"Kenya","KEN",1,2006
+"Korea","KOR",1,2006
+"Kosovo","XKX",1,2006
+"Kuwait","KWT",1,2006
+"Latvia","LVA",1,2006
+"Lebanon","LBN",1,2006
+"Libya","LBY",1,2006
+"Lithuania","LTU",1,2006
+"Luxembourg","LUX",1,2006
+"Malaysia","MYS",1,2006
+"Malta","MLT",1,2006
+"Mauritius","MUS",1,2006
+"Mexico","MEX",1,2006
+"Mongolia","MNG",1,2006
+"Montenegro","MNE",1,2006
+"Morocco","MAR",1,2006
+"Mozambique","MOZ",1,2006
+"Myanmar","MMR",1,2006
+"Namibia","NAM",1,2006
+"Nepal","NPL",1,2006
+"Netherlands","NLD",1,2006
+"New Zealand","NZL",1,2006
+"Nicaragua","NIC",1,2006
+"Niger","NER",1,2006
+"Nigeria","NGA",1,2006
+"Norway","NOR",1,2006
+"Oman","OMN",1,2006
+"Pakistan","PAK",1,2006
+"Panama","PAN",1,2006
+"Paraguay","PRY",1,2006
+"Peru","PER",1,2006
+"Philippines","PHL",1,2006
+"Poland","POL",1,2006
+"Portugal","PRT",1,2006
+"Qatar","QAT",1,2006
+"Romania","ROU",1,2006
+"Russian Federation","RUS",1,2006
+"Saudi Arabia","SAU",1,2006
+"Senegal","SEN",1,2006
+"Serbia","SRB",1,2006
+"Singapore","SGP",1,2006
+"Slovak Republic","SVK",1,2006
+"Slovenia","SVN",1,2006
+"South Africa","ZAF",1,2006
+"South Sudan","SSD",1,2006
+"Spain","ESP",1,2006
+"Sri Lanka","LKA",1,2006
+"Sudan","SDN",1,2006
+"Suriname","SUR",1,2006
+"Sweden","SWE",1,2006
+"Switzerland","CHE",1,2006
+"Syrian Arab Republic","SYR",1,2006
+"Tajikistan","TJK",1,2006
+"Thailand","THA",1,2006
+"Togo","TGO",1,2006
+"Trinidad and Tobago","TTO",1,2006
+"Tunisia","TUN",1,2006
+"Turkey","TUR",1,2006
+"Turkmenistan","TKM",1,2006
+"Ukraine","UKR",1,2006
+"United Arab Emirates","ARE",1,2006
+"United Kingdom","GBR",1,2006
+"United States","USA",1,2006
+"Uruguay","URY",1,2006
+"Uzbekistan","UZB",1,2006
+"Venezuela","VEN",1,2006
+"Vietnam","VNM",1,2006
+"Zambia","ZMB",1,2006
+"Zimbabwe","ZWE",1,2006
+"Albania","ALB",1,2007
+"Algeria","DZA",1,2007
+"Angola","AGO",1,2007
+"Argentina","ARG",1,2007
+"Armenia","ARM",1,2007
+"Australia","AUS",1,2007
+"Austria","AUT",1,2007
+"Azerbaijan","AZE",1,2007
+"Bahrain","BHR",1,2007
+"Bangladesh","BGD",1,2007
+"Belarus","BLR",1,2007
+"Belgium","BEL",1,2007
+"Benin","BEN",1,2007
+"Bolivia","BOL",1,2007
+"Bosnia and Herzegovina","BIH",1,2007
+"Botswana","BWA",1,2007
+"Brazil","BRA",1,2007
+"Brunei Darussalam","BRN",1,2007
+"Bulgaria","BGR",1,2007
+"Cambodia","KHM",1,2007
+"Cameroon","CMR",1,2007
+"Canada","CAN",1,2007
+"Chile","CHL",1,2007
+"China","CHN",1,2007
+"Colombia","COL",1,2007
+"Costa Rica","CRI",1,2007
+"Croatia","HRV",1,2007
+"Cuba","CUB",1,2007
+"Cyprus","CYP",1,2007
+"Denmark","DNK",1,2007
+"Dominican Republic","DOM",1,2007
+"Ecuador","ECU",1,2007
+"Egypt","EGY",1,2007
+"El Salvador","SLV",1,2007
+"Eritrea","ERI",1,2007
+"Estonia","EST",1,2007
+"Ethiopia","ETH",1,2007
+"Finland","FIN",1,2007
+"France","FRA",1,2007
+"Gabon","GAB",1,2007
+"Georgia","GEO",1,2007
+"Germany","DEU",1,2007
+"Ghana","GHA",1,2007
+"Gibraltar","GIB",1,2007
+"Greece","GRC",1,2007
+"Guatemala","GTM",1,2007
+"Haiti","HTI",1,2007
+"Honduras","HND",1,2007
+"Hungary","HUN",1,2007
+"Iceland","ISL",1,2007
+"India","IND",1,2007
+"Indonesia","IDN",1,2007
+"Iraq","IRQ",1,2007
+"Ireland","IRL",1,2007
+"Israel","ISR",1,2007
+"Italy","ITA",1,2007
+"Jamaica","JAM",1,2007
+"Japan","JPN",1,2007
+"Jordan","JOR",1,2007
+"Kazakhstan","KAZ",1,2007
+"Kenya","KEN",1,2007
+"Korea","KOR",1,2007
+"Kosovo","XKX",1,2007
+"Kuwait","KWT",1,2007
+"Latvia","LVA",1,2007
+"Lebanon","LBN",1,2007
+"Libya","LBY",1,2007
+"Lithuania","LTU",1,2007
+"Luxembourg","LUX",1,2007
+"Malaysia","MYS",1,2007
+"Malta","MLT",1,2007
+"Mauritius","MUS",1,2007
+"Mexico","MEX",1,2007
+"Mongolia","MNG",1,2007
+"Montenegro","MNE",1,2007
+"Morocco","MAR",1,2007
+"Mozambique","MOZ",1,2007
+"Myanmar","MMR",1,2007
+"Namibia","NAM",1,2007
+"Nepal","NPL",1,2007
+"Netherlands","NLD",1,2007
+"New Zealand","NZL",1,2007
+"Nicaragua","NIC",1,2007
+"Niger","NER",1,2007
+"Nigeria","NGA",1,2007
+"Norway","NOR",1,2007
+"Oman","OMN",1,2007
+"Pakistan","PAK",1,2007
+"Panama","PAN",1,2007
+"Paraguay","PRY",1,2007
+"Peru","PER",1,2007
+"Philippines","PHL",1,2007
+"Poland","POL",1,2007
+"Portugal","PRT",1,2007
+"Qatar","QAT",1,2007
+"Romania","ROU",1,2007
+"Russian Federation","RUS",1,2007
+"Saudi Arabia","SAU",1,2007
+"Senegal","SEN",1,2007
+"Serbia","SRB",1,2007
+"Singapore","SGP",1,2007
+"Slovak Republic","SVK",1,2007
+"Slovenia","SVN",1,2007
+"South Africa","ZAF",1,2007
+"South Sudan","SSD",1,2007
+"Spain","ESP",1,2007
+"Sri Lanka","LKA",1,2007
+"Sudan","SDN",1,2007
+"Suriname","SUR",1,2007
+"Sweden","SWE",1,2007
+"Switzerland","CHE",1,2007
+"Syrian Arab Republic","SYR",1,2007
+"Tajikistan","TJK",1,2007
+"Thailand","THA",1,2007
+"Togo","TGO",1,2007
+"Trinidad and Tobago","TTO",1,2007
+"Tunisia","TUN",1,2007
+"Turkey","TUR",1,2007
+"Turkmenistan","TKM",1,2007
+"Ukraine","UKR",1,2007
+"United Arab Emirates","ARE",1,2007
+"United Kingdom","GBR",1,2007
+"United States","USA",1,2007
+"Uruguay","URY",1,2007
+"Uzbekistan","UZB",1,2007
+"Venezuela","VEN",1,2007
+"Vietnam","VNM",1,2007
+"Zambia","ZMB",1,2007
+"Zimbabwe","ZWE",1,2007
+"Albania","ALB",1,2008
+"Algeria","DZA",1,2008
+"Angola","AGO",1,2008
+"Argentina","ARG",1,2008
+"Armenia","ARM",1,2008
+"Australia","AUS",1,2008
+"Austria","AUT",1,2008
+"Azerbaijan","AZE",1,2008
+"Bahrain","BHR",1,2008
+"Bangladesh","BGD",1,2008
+"Belarus","BLR",1,2008
+"Belgium","BEL",1,2008
+"Benin","BEN",1,2008
+"Bolivia","BOL",1,2008
+"Bosnia and Herzegovina","BIH",1,2008
+"Botswana","BWA",1,2008
+"Brazil","BRA",1,2008
+"Brunei Darussalam","BRN",1,2008
+"Bulgaria","BGR",1,2008
+"Cambodia","KHM",1,2008
+"Cameroon","CMR",1,2008
+"Canada","CAN",1,2008
+"Chile","CHL",1,2008
+"China","CHN",1,2008
+"Colombia","COL",1,2008
+"Costa Rica","CRI",1,2008
+"Croatia","HRV",1,2008
+"Cuba","CUB",1,2008
+"Cyprus","CYP",1,2008
+"Denmark","DNK",1,2008
+"Dominican Republic","DOM",1,2008
+"Ecuador","ECU",1,2008
+"Egypt","EGY",1,2008
+"El Salvador","SLV",1,2008
+"Eritrea","ERI",1,2008
+"Estonia","EST",1,2008
+"Ethiopia","ETH",1,2008
+"Finland","FIN",1,2008
+"France","FRA",1,2008
+"Gabon","GAB",1,2008
+"Georgia","GEO",1,2008
+"Germany","DEU",1,2008
+"Ghana","GHA",1,2008
+"Gibraltar","GIB",1,2008
+"Greece","GRC",1,2008
+"Guatemala","GTM",1,2008
+"Haiti","HTI",1,2008
+"Honduras","HND",1,2008
+"Hungary","HUN",1,2008
+"Iceland","ISL",1,2008
+"India","IND",1,2008
+"Indonesia","IDN",1,2008
+"Iraq","IRQ",1,2008
+"Ireland","IRL",1,2008
+"Israel","ISR",1,2008
+"Italy","ITA",1,2008
+"Jamaica","JAM",1,2008
+"Japan","JPN",1,2008
+"Jordan","JOR",1,2008
+"Kazakhstan","KAZ",1,2008
+"Kenya","KEN",1,2008
+"Korea","KOR",1,2008
+"Kosovo","XKX",1,2008
+"Kuwait","KWT",1,2008
+"Latvia","LVA",1,2008
+"Lebanon","LBN",1,2008
+"Libya","LBY",1,2008
+"Lithuania","LTU",1,2008
+"Luxembourg","LUX",1,2008
+"Malaysia","MYS",1,2008
+"Malta","MLT",1,2008
+"Mauritius","MUS",1,2008
+"Mexico","MEX",1,2008
+"Mongolia","MNG",1,2008
+"Montenegro","MNE",1,2008
+"Morocco","MAR",1,2008
+"Mozambique","MOZ",1,2008
+"Myanmar","MMR",1,2008
+"Namibia","NAM",1,2008
+"Nepal","NPL",1,2008
+"Netherlands","NLD",1,2008
+"New Zealand","NZL",1,2008
+"Nicaragua","NIC",1,2008
+"Niger","NER",1,2008
+"Nigeria","NGA",1,2008
+"Norway","NOR",1,2008
+"Oman","OMN",1,2008
+"Pakistan","PAK",1,2008
+"Panama","PAN",1,2008
+"Paraguay","PRY",1,2008
+"Peru","PER",1,2008
+"Philippines","PHL",1,2008
+"Poland","POL",1,2008
+"Portugal","PRT",1,2008
+"Qatar","QAT",1,2008
+"Romania","ROU",1,2008
+"Russian Federation","RUS",1,2008
+"Saudi Arabia","SAU",1,2008
+"Senegal","SEN",1,2008
+"Serbia","SRB",1,2008
+"Singapore","SGP",1,2008
+"Slovak Republic","SVK",1,2008
+"Slovenia","SVN",1,2008
+"South Africa","ZAF",1,2008
+"South Sudan","SSD",1,2008
+"Spain","ESP",1,2008
+"Sri Lanka","LKA",1,2008
+"Sudan","SDN",1,2008
+"Suriname","SUR",1,2008
+"Sweden","SWE",1,2008
+"Switzerland","CHE",1,2008
+"Syrian Arab Republic","SYR",1,2008
+"Tajikistan","TJK",1,2008
+"Thailand","THA",1,2008
+"Togo","TGO",1,2008
+"Trinidad and Tobago","TTO",1,2008
+"Tunisia","TUN",1,2008
+"Turkey","TUR",1,2008
+"Turkmenistan","TKM",1,2008
+"Ukraine","UKR",1,2008
+"United Arab Emirates","ARE",1,2008
+"United Kingdom","GBR",1,2008
+"United States","USA",1,2008
+"Uruguay","URY",1,2008
+"Uzbekistan","UZB",1,2008
+"Venezuela","VEN",1,2008
+"Vietnam","VNM",1,2008
+"Zambia","ZMB",1,2008
+"Zimbabwe","ZWE",1,2008
+"Albania","ALB",1,2009
+"Algeria","DZA",1,2009
+"Angola","AGO",1,2009
+"Argentina","ARG",1,2009
+"Armenia","ARM",1,2009
+"Australia","AUS",1,2009
+"Austria","AUT",1,2009
+"Azerbaijan","AZE",1,2009
+"Bahrain","BHR",1,2009
+"Bangladesh","BGD",1,2009
+"Belarus","BLR",1,2009
+"Belgium","BEL",1,2009
+"Benin","BEN",1,2009
+"Bolivia","BOL",1,2009
+"Bosnia and Herzegovina","BIH",1,2009
+"Botswana","BWA",1,2009
+"Brazil","BRA",1,2009
+"Brunei Darussalam","BRN",1,2009
+"Bulgaria","BGR",1,2009
+"Cambodia","KHM",1,2009
+"Cameroon","CMR",1,2009
+"Canada","CAN",1,2009
+"Chile","CHL",1,2009
+"China","CHN",1,2009
+"Colombia","COL",1,2009
+"Costa Rica","CRI",1,2009
+"Croatia","HRV",1,2009
+"Cuba","CUB",1,2009
+"Cyprus","CYP",1,2009
+"Denmark","DNK",1,2009
+"Dominican Republic","DOM",1,2009
+"Ecuador","ECU",1,2009
+"Egypt","EGY",1,2009
+"El Salvador","SLV",1,2009
+"Eritrea","ERI",1,2009
+"Estonia","EST",1,2009
+"Ethiopia","ETH",1,2009
+"Finland","FIN",1,2009
+"France","FRA",1,2009
+"Gabon","GAB",1,2009
+"Georgia","GEO",1,2009
+"Germany","DEU",1,2009
+"Ghana","GHA",1,2009
+"Gibraltar","GIB",1,2009
+"Greece","GRC",1,2009
+"Guatemala","GTM",1,2009
+"Haiti","HTI",1,2009
+"Honduras","HND",1,2009
+"Hungary","HUN",1,2009
+"Iceland","ISL",1,2009
+"India","IND",1,2009
+"Indonesia","IDN",1,2009
+"Iraq","IRQ",1,2009
+"Ireland","IRL",1,2009
+"Israel","ISR",1,2009
+"Italy","ITA",1,2009
+"Jamaica","JAM",1,2009
+"Japan","JPN",1,2009
+"Jordan","JOR",1,2009
+"Kazakhstan","KAZ",1,2009
+"Kenya","KEN",1,2009
+"Korea","KOR",1,2009
+"Kosovo","XKX",1,2009
+"Kuwait","KWT",1,2009
+"Latvia","LVA",1,2009
+"Lebanon","LBN",1,2009
+"Libya","LBY",1,2009
+"Lithuania","LTU",1,2009
+"Luxembourg","LUX",1,2009
+"Malaysia","MYS",1,2009
+"Malta","MLT",1,2009
+"Mauritius","MUS",1,2009
+"Mexico","MEX",1,2009
+"Mongolia","MNG",1,2009
+"Montenegro","MNE",1,2009
+"Morocco","MAR",1,2009
+"Mozambique","MOZ",1,2009
+"Myanmar","MMR",1,2009
+"Namibia","NAM",1,2009
+"Nepal","NPL",1,2009
+"Netherlands","NLD",1,2009
+"New Zealand","NZL",1,2009
+"Nicaragua","NIC",1,2009
+"Niger","NER",1,2009
+"Nigeria","NGA",1,2009
+"Norway","NOR",1,2009
+"Oman","OMN",1,2009
+"Pakistan","PAK",1,2009
+"Panama","PAN",1,2009
+"Paraguay","PRY",1,2009
+"Peru","PER",1,2009
+"Philippines","PHL",1,2009
+"Poland","POL",1,2009
+"Portugal","PRT",1,2009
+"Qatar","QAT",1,2009
+"Romania","ROU",1,2009
+"Russian Federation","RUS",1,2009
+"Saudi Arabia","SAU",1,2009
+"Senegal","SEN",1,2009
+"Serbia","SRB",1,2009
+"Singapore","SGP",1,2009
+"Slovak Republic","SVK",1,2009
+"Slovenia","SVN",1,2009
+"South Africa","ZAF",1,2009
+"South Sudan","SSD",1,2009
+"Spain","ESP",1,2009
+"Sri Lanka","LKA",1,2009
+"Sudan","SDN",1,2009
+"Suriname","SUR",1,2009
+"Sweden","SWE",1,2009
+"Switzerland","CHE",1,2009
+"Syrian Arab Republic","SYR",1,2009
+"Tajikistan","TJK",1,2009
+"Thailand","THA",1,2009
+"Togo","TGO",1,2009
+"Trinidad and Tobago","TTO",1,2009
+"Tunisia","TUN",1,2009
+"Turkey","TUR",1,2009
+"Turkmenistan","TKM",1,2009
+"Ukraine","UKR",1,2009
+"United Arab Emirates","ARE",1,2009
+"United Kingdom","GBR",1,2009
+"United States","USA",1,2009
+"Uruguay","URY",1,2009
+"Uzbekistan","UZB",1,2009
+"Venezuela","VEN",1,2009
+"Vietnam","VNM",1,2009
+"Zambia","ZMB",1,2009
+"Zimbabwe","ZWE",1,2009
+"Albania","ALB",1,2010
+"Algeria","DZA",1,2010
+"Angola","AGO",1,2010
+"Argentina","ARG",1,2010
+"Armenia","ARM",1,2010
+"Australia","AUS",1,2010
+"Austria","AUT",1,2010
+"Azerbaijan","AZE",1,2010
+"Bahrain","BHR",1,2010
+"Bangladesh","BGD",1,2010
+"Belarus","BLR",1,2010
+"Belgium","BEL",1,2010
+"Benin","BEN",1,2010
+"Bolivia","BOL",1,2010
+"Bosnia and Herzegovina","BIH",1,2010
+"Botswana","BWA",1,2010
+"Brazil","BRA",1,2010
+"Brunei Darussalam","BRN",1,2010
+"Bulgaria","BGR",1,2010
+"Cambodia","KHM",1,2010
+"Cameroon","CMR",1,2010
+"Canada","CAN",1,2010
+"Chile","CHL",1,2010
+"China","CHN",1,2010
+"Colombia","COL",1,2010
+"Costa Rica","CRI",1,2010
+"Croatia","HRV",1,2010
+"Cuba","CUB",1,2010
+"Cyprus","CYP",1,2010
+"Denmark","DNK",1,2010
+"Dominican Republic","DOM",1,2010
+"Ecuador","ECU",1,2010
+"Egypt","EGY",1,2010
+"El Salvador","SLV",1,2010
+"Eritrea","ERI",1,2010
+"Estonia","EST",1,2010
+"Ethiopia","ETH",1,2010
+"Finland","FIN",1,2010
+"France","FRA",1,2010
+"Gabon","GAB",1,2010
+"Georgia","GEO",1,2010
+"Germany","DEU",1,2010
+"Ghana","GHA",1,2010
+"Gibraltar","GIB",1,2010
+"Greece","GRC",1,2010
+"Guatemala","GTM",1,2010
+"Haiti","HTI",1,2010
+"Honduras","HND",1,2010
+"Hungary","HUN",1,2010
+"Iceland","ISL",1,2010
+"India","IND",1,2010
+"Indonesia","IDN",1,2010
+"Iraq","IRQ",1,2010
+"Ireland","IRL",1,2010
+"Israel","ISR",1,2010
+"Italy","ITA",1,2010
+"Jamaica","JAM",1,2010
+"Japan","JPN",1,2010
+"Jordan","JOR",1,2010
+"Kazakhstan","KAZ",1,2010
+"Kenya","KEN",1,2010
+"Korea","KOR",1,2010
+"Kosovo","XKX",1,2010
+"Kuwait","KWT",1,2010
+"Latvia","LVA",1,2010
+"Lebanon","LBN",1,2010
+"Libya","LBY",1,2010
+"Lithuania","LTU",1,2010
+"Luxembourg","LUX",1,2010
+"Malaysia","MYS",1,2010
+"Malta","MLT",1,2010
+"Mauritius","MUS",1,2010
+"Mexico","MEX",1,2010
+"Mongolia","MNG",1,2010
+"Montenegro","MNE",1,2010
+"Morocco","MAR",1,2010
+"Mozambique","MOZ",1,2010
+"Myanmar","MMR",1,2010
+"Namibia","NAM",1,2010
+"Nepal","NPL",1,2010
+"Netherlands","NLD",1,2010
+"New Zealand","NZL",1,2010
+"Nicaragua","NIC",1,2010
+"Niger","NER",1,2010
+"Nigeria","NGA",1,2010
+"Norway","NOR",1,2010
+"Oman","OMN",1,2010
+"Pakistan","PAK",1,2010
+"Panama","PAN",1,2010
+"Paraguay","PRY",1,2010
+"Peru","PER",1,2010
+"Philippines","PHL",1,2010
+"Poland","POL",1,2010
+"Portugal","PRT",1,2010
+"Qatar","QAT",1,2010
+"Romania","ROU",1,2010
+"Russian Federation","RUS",1,2010
+"Saudi Arabia","SAU",1,2010
+"Senegal","SEN",1,2010
+"Serbia","SRB",1,2010
+"Singapore","SGP",1,2010
+"Slovak Republic","SVK",1,2010
+"Slovenia","SVN",1,2010
+"South Africa","ZAF",1,2010
+"South Sudan","SSD",1,2010
+"Spain","ESP",1,2010
+"Sri Lanka","LKA",1,2010
+"Sudan","SDN",1,2010
+"Suriname","SUR",1,2010
+"Sweden","SWE",1,2010
+"Switzerland","CHE",1,2010
+"Syrian Arab Republic","SYR",1,2010
+"Tajikistan","TJK",1,2010
+"Thailand","THA",1,2010
+"Togo","TGO",1,2010
+"Trinidad and Tobago","TTO",1,2010
+"Tunisia","TUN",1,2010
+"Turkey","TUR",1,2010
+"Turkmenistan","TKM",1,2010
+"Ukraine","UKR",1,2010
+"United Arab Emirates","ARE",1,2010
+"United Kingdom","GBR",1,2010
+"United States","USA",1,2010
+"Uruguay","URY",1,2010
+"Uzbekistan","UZB",1,2010
+"Venezuela","VEN",1,2010
+"Vietnam","VNM",1,2010
+"Zambia","ZMB",1,2010
+"Zimbabwe","ZWE",1,2010
+"Albania","ALB",1,2011
+"Algeria","DZA",1,2011
+"Angola","AGO",1,2011
+"Argentina","ARG",1,2011
+"Armenia","ARM",1,2011
+"Australia","AUS",1,2011
+"Austria","AUT",1,2011
+"Azerbaijan","AZE",1,2011
+"Bahrain","BHR",1,2011
+"Bangladesh","BGD",1,2011
+"Belarus","BLR",1,2011
+"Belgium","BEL",1,2011
+"Benin","BEN",1,2011
+"Bolivia","BOL",1,2011
+"Bosnia and Herzegovina","BIH",1,2011
+"Botswana","BWA",1,2011
+"Brazil","BRA",1,2011
+"Brunei Darussalam","BRN",1,2011
+"Bulgaria","BGR",1,2011
+"Cambodia","KHM",1,2011
+"Cameroon","CMR",1,2011
+"Canada","CAN",1,2011
+"Chile","CHL",1,2011
+"China","CHN",1,2011
+"Colombia","COL",1,2011
+"Costa Rica","CRI",1,2011
+"Croatia","HRV",1,2011
+"Cuba","CUB",1,2011
+"Cyprus","CYP",1,2011
+"Denmark","DNK",1,2011
+"Dominican Republic","DOM",1,2011
+"Ecuador","ECU",1,2011
+"Egypt","EGY",1,2011
+"El Salvador","SLV",1,2011
+"Eritrea","ERI",1,2011
+"Estonia","EST",1,2011
+"Ethiopia","ETH",1,2011
+"Finland","FIN",1,2011
+"France","FRA",1,2011
+"Gabon","GAB",1,2011
+"Georgia","GEO",1,2011
+"Germany","DEU",1,2011
+"Ghana","GHA",1,2011
+"Gibraltar","GIB",1,2011
+"Greece","GRC",1,2011
+"Guatemala","GTM",1,2011
+"Haiti","HTI",1,2011
+"Honduras","HND",1,2011
+"Hungary","HUN",1,2011
+"Iceland","ISL",1,2011
+"India","IND",1,2011
+"Indonesia","IDN",1,2011
+"Iraq","IRQ",1,2011
+"Ireland","IRL",1,2011
+"Israel","ISR",1,2011
+"Italy","ITA",1,2011
+"Jamaica","JAM",1,2011
+"Japan","JPN",1,2011
+"Jordan","JOR",1,2011
+"Kazakhstan","KAZ",1,2011
+"Kenya","KEN",1,2011
+"Korea","KOR",1,2011
+"Kosovo","XKX",1,2011
+"Kuwait","KWT",1,2011
+"Latvia","LVA",1,2011
+"Lebanon","LBN",1,2011
+"Libya","LBY",1,2011
+"Lithuania","LTU",1,2011
+"Luxembourg","LUX",1,2011
+"Malaysia","MYS",1,2011
+"Malta","MLT",1,2011
+"Mauritius","MUS",1,2011
+"Mexico","MEX",1,2011
+"Mongolia","MNG",1,2011
+"Montenegro","MNE",1,2011
+"Morocco","MAR",1,2011
+"Mozambique","MOZ",1,2011
+"Myanmar","MMR",1,2011
+"Namibia","NAM",1,2011
+"Nepal","NPL",1,2011
+"Netherlands","NLD",1,2011
+"New Zealand","NZL",1,2011
+"Nicaragua","NIC",1,2011
+"Niger","NER",1,2011
+"Nigeria","NGA",1,2011
+"Norway","NOR",1,2011
+"Oman","OMN",1,2011
+"Pakistan","PAK",1,2011
+"Panama","PAN",1,2011
+"Paraguay","PRY",1,2011
+"Peru","PER",1,2011
+"Philippines","PHL",1,2011
+"Poland","POL",1,2011
+"Portugal","PRT",1,2011
+"Qatar","QAT",1,2011
+"Romania","ROU",1,2011
+"Russian Federation","RUS",1,2011
+"Saudi Arabia","SAU",1,2011
+"Senegal","SEN",1,2011
+"Serbia","SRB",1,2011
+"Singapore","SGP",1,2011
+"Slovak Republic","SVK",1,2011
+"Slovenia","SVN",1,2011
+"South Africa","ZAF",1,2011
+"South Sudan","SSD",1,2011
+"Spain","ESP",1,2011
+"Sri Lanka","LKA",1,2011
+"Sudan","SDN",1,2011
+"Suriname","SUR",1,2011
+"Sweden","SWE",1,2011
+"Switzerland","CHE",1,2011
+"Syrian Arab Republic","SYR",1,2011
+"Tajikistan","TJK",1,2011
+"Thailand","THA",1,2011
+"Togo","TGO",1,2011
+"Trinidad and Tobago","TTO",1,2011
+"Tunisia","TUN",1,2011
+"Turkey","TUR",1,2011
+"Turkmenistan","TKM",1,2011
+"Ukraine","UKR",1,2011
+"United Arab Emirates","ARE",1,2011
+"United Kingdom","GBR",1,2011
+"United States","USA",1,2011
+"Uruguay","URY",1,2011
+"Uzbekistan","UZB",1,2011
+"Venezuela","VEN",1,2011
+"Vietnam","VNM",1,2011
+"Zambia","ZMB",1,2011
+"Zimbabwe","ZWE",1,2011
+"Albania","ALB",1,2012
+"Algeria","DZA",1,2012
+"Angola","AGO",1,2012
+"Argentina","ARG",1,2012
+"Armenia","ARM",1,2012
+"Australia","AUS",1,2012
+"Austria","AUT",1,2012
+"Azerbaijan","AZE",1,2012
+"Bahrain","BHR",1,2012
+"Bangladesh","BGD",1,2012
+"Belarus","BLR",1,2012
+"Belgium","BEL",1,2012
+"Benin","BEN",1,2012
+"Bolivia","BOL",1,2012
+"Bosnia and Herzegovina","BIH",1,2012
+"Botswana","BWA",1,2012
+"Brazil","BRA",1,2012
+"Brunei Darussalam","BRN",1,2012
+"Bulgaria","BGR",1,2012
+"Cambodia","KHM",1,2012
+"Cameroon","CMR",1,2012
+"Canada","CAN",1,2012
+"Chile","CHL",1,2012
+"China","CHN",1,2012
+"Colombia","COL",1,2012
+"Costa Rica","CRI",1,2012
+"Croatia","HRV",1,2012
+"Cuba","CUB",1,2012
+"Cyprus","CYP",1,2012
+"Denmark","DNK",1,2012
+"Dominican Republic","DOM",1,2012
+"Ecuador","ECU",1,2012
+"Egypt","EGY",1,2012
+"El Salvador","SLV",1,2012
+"Eritrea","ERI",1,2012
+"Estonia","EST",1,2012
+"Ethiopia","ETH",1,2012
+"Finland","FIN",1,2012
+"France","FRA",1,2012
+"Gabon","GAB",1,2012
+"Georgia","GEO",1,2012
+"Germany","DEU",1,2012
+"Ghana","GHA",1,2012
+"Gibraltar","GIB",1,2012
+"Greece","GRC",1,2012
+"Guatemala","GTM",1,2012
+"Haiti","HTI",1,2012
+"Honduras","HND",1,2012
+"Hungary","HUN",1,2012
+"Iceland","ISL",1,2012
+"India","IND",1,2012
+"Indonesia","IDN",1,2012
+"Iraq","IRQ",1,2012
+"Ireland","IRL",1,2012
+"Israel","ISR",1,2012
+"Italy","ITA",1,2012
+"Jamaica","JAM",1,2012
+"Japan","JPN",1,2012
+"Jordan","JOR",1,2012
+"Kazakhstan","KAZ",1,2012
+"Kenya","KEN",1,2012
+"Korea","KOR",1,2012
+"Kosovo","XKX",1,2012
+"Kuwait","KWT",1,2012
+"Latvia","LVA",1,2012
+"Lebanon","LBN",1,2012
+"Libya","LBY",1,2012
+"Lithuania","LTU",1,2012
+"Luxembourg","LUX",1,2012
+"Malaysia","MYS",1,2012
+"Malta","MLT",1,2012
+"Mauritius","MUS",1,2012
+"Mexico","MEX",1,2012
+"Mongolia","MNG",1,2012
+"Montenegro","MNE",1,2012
+"Morocco","MAR",1,2012
+"Mozambique","MOZ",1,2012
+"Myanmar","MMR",1,2012
+"Namibia","NAM",1,2012
+"Nepal","NPL",1,2012
+"Netherlands","NLD",1,2012
+"New Zealand","NZL",1,2012
+"Nicaragua","NIC",1,2012
+"Niger","NER",1,2012
+"Nigeria","NGA",1,2012
+"Norway","NOR",1,2012
+"Oman","OMN",1,2012
+"Pakistan","PAK",1,2012
+"Panama","PAN",1,2012
+"Paraguay","PRY",1,2012
+"Peru","PER",1,2012
+"Philippines","PHL",1,2012
+"Poland","POL",1,2012
+"Portugal","PRT",1,2012
+"Qatar","QAT",1,2012
+"Romania","ROU",1,2012
+"Russian Federation","RUS",1,2012
+"Saudi Arabia","SAU",1,2012
+"Senegal","SEN",1,2012
+"Serbia","SRB",1,2012
+"Singapore","SGP",1,2012
+"Slovak Republic","SVK",1,2012
+"Slovenia","SVN",1,2012
+"South Africa","ZAF",1,2012
+"South Sudan","SSD",1,2012
+"Spain","ESP",1,2012
+"Sri Lanka","LKA",1,2012
+"Sudan","SDN",1,2012
+"Suriname","SUR",1,2012
+"Sweden","SWE",1,2012
+"Switzerland","CHE",1,2012
+"Syrian Arab Republic","SYR",1,2012
+"Tajikistan","TJK",1,2012
+"Thailand","THA",1,2012
+"Togo","TGO",1,2012
+"Trinidad and Tobago","TTO",1,2012
+"Tunisia","TUN",1,2012
+"Turkey","TUR",1,2012
+"Turkmenistan","TKM",1,2012
+"Ukraine","UKR",1,2012
+"United Arab Emirates","ARE",1,2012
+"United Kingdom","GBR",1,2012
+"United States","USA",1,2012
+"Uruguay","URY",1,2012
+"Uzbekistan","UZB",1,2012
+"Venezuela","VEN",1,2012
+"Vietnam","VNM",1,2012
+"Zambia","ZMB",1,2012
+"Zimbabwe","ZWE",1,2012
+"Albania","ALB",1,2013
+"Algeria","DZA",1,2013
+"Angola","AGO",1,2013
+"Argentina","ARG",1,2013
+"Armenia","ARM",1,2013
+"Australia","AUS",1,2013
+"Austria","AUT",1,2013
+"Azerbaijan","AZE",1,2013
+"Bahrain","BHR",1,2013
+"Bangladesh","BGD",1,2013
+"Belarus","BLR",1,2013
+"Belgium","BEL",1,2013
+"Benin","BEN",1,2013
+"Bolivia","BOL",1,2013
+"Bosnia and Herzegovina","BIH",1,2013
+"Botswana","BWA",1,2013
+"Brazil","BRA",1,2013
+"Brunei Darussalam","BRN",1,2013
+"Bulgaria","BGR",1,2013
+"Cambodia","KHM",1,2013
+"Cameroon","CMR",1,2013
+"Canada","CAN",1,2013
+"Chile","CHL",1,2013
+"China","CHN",1,2013
+"Colombia","COL",1,2013
+"Costa Rica","CRI",1,2013
+"Croatia","HRV",1,2013
+"Cuba","CUB",1,2013
+"Cyprus","CYP",1,2013
+"Denmark","DNK",1,2013
+"Dominican Republic","DOM",1,2013
+"Ecuador","ECU",1,2013
+"Egypt","EGY",1,2013
+"El Salvador","SLV",1,2013
+"Eritrea","ERI",1,2013
+"Estonia","EST",1,2013
+"Ethiopia","ETH",1,2013
+"Finland","FIN",1,2013
+"France","FRA",1,2013
+"Gabon","GAB",1,2013
+"Georgia","GEO",1,2013
+"Germany","DEU",1,2013
+"Ghana","GHA",1,2013
+"Gibraltar","GIB",1,2013
+"Greece","GRC",1,2013
+"Guatemala","GTM",1,2013
+"Haiti","HTI",1,2013
+"Honduras","HND",1,2013
+"Hungary","HUN",1,2013
+"Iceland","ISL",1,2013
+"India","IND",1,2013
+"Indonesia","IDN",1,2013
+"Iraq","IRQ",1,2013
+"Ireland","IRL",1,2013
+"Israel","ISR",1,2013
+"Italy","ITA",1,2013
+"Jamaica","JAM",1,2013
+"Japan","JPN",1,2013
+"Jordan","JOR",1,2013
+"Kazakhstan","KAZ",1,2013
+"Kenya","KEN",1,2013
+"Korea","KOR",1,2013
+"Kosovo","XKX",1,2013
+"Kuwait","KWT",1,2013
+"Latvia","LVA",1,2013
+"Lebanon","LBN",1,2013
+"Libya","LBY",1,2013
+"Lithuania","LTU",1,2013
+"Luxembourg","LUX",1,2013
+"Malaysia","MYS",1,2013
+"Malta","MLT",1,2013
+"Mauritius","MUS",1,2013
+"Mexico","MEX",1,2013
+"Mongolia","MNG",1,2013
+"Montenegro","MNE",1,2013
+"Morocco","MAR",1,2013
+"Mozambique","MOZ",1,2013
+"Myanmar","MMR",1,2013
+"Namibia","NAM",1,2013
+"Nepal","NPL",1,2013
+"Netherlands","NLD",1,2013
+"New Zealand","NZL",1,2013
+"Nicaragua","NIC",1,2013
+"Niger","NER",1,2013
+"Nigeria","NGA",1,2013
+"Norway","NOR",1,2013
+"Oman","OMN",1,2013
+"Pakistan","PAK",1,2013
+"Panama","PAN",1,2013
+"Paraguay","PRY",1,2013
+"Peru","PER",1,2013
+"Philippines","PHL",1,2013
+"Poland","POL",1,2013
+"Portugal","PRT",1,2013
+"Qatar","QAT",1,2013
+"Romania","ROU",1,2013
+"Russian Federation","RUS",1,2013
+"Saudi Arabia","SAU",1,2013
+"Senegal","SEN",1,2013
+"Serbia","SRB",1,2013
+"Singapore","SGP",1,2013
+"Slovak Republic","SVK",1,2013
+"Slovenia","SVN",1,2013
+"South Africa","ZAF",1,2013
+"South Sudan","SSD",1,2013
+"Spain","ESP",1,2013
+"Sri Lanka","LKA",1,2013
+"Sudan","SDN",1,2013
+"Suriname","SUR",1,2013
+"Sweden","SWE",1,2013
+"Switzerland","CHE",1,2013
+"Syrian Arab Republic","SYR",1,2013
+"Tajikistan","TJK",1,2013
+"Thailand","THA",1,2013
+"Togo","TGO",1,2013
+"Trinidad and Tobago","TTO",1,2013
+"Tunisia","TUN",1,2013
+"Turkey","TUR",1,2013
+"Turkmenistan","TKM",1,2013
+"Ukraine","UKR",1,2013
+"United Arab Emirates","ARE",1,2013
+"United Kingdom","GBR",1,2013
+"United States","USA",1,2013
+"Uruguay","URY",1,2013
+"Uzbekistan","UZB",1,2013
+"Venezuela","VEN",1,2013
+"Vietnam","VNM",1,2013
+"Zambia","ZMB",1,2013
+"Zimbabwe","ZWE",1,2013
+"Albania","ALB",1,2014
+"Algeria","DZA",1,2014
+"Angola","AGO",1,2014
+"Argentina","ARG",1,2014
+"Armenia","ARM",1,2014
+"Australia","AUS",1,2014
+"Austria","AUT",1,2014
+"Azerbaijan","AZE",1,2014
+"Bahrain","BHR",1,2014
+"Bangladesh","BGD",1,2014
+"Belarus","BLR",1,2014
+"Belgium","BEL",1,2014
+"Benin","BEN",1,2014
+"Bolivia","BOL",1,2014
+"Bosnia and Herzegovina","BIH",1,2014
+"Botswana","BWA",1,2014
+"Brazil","BRA",1,2014
+"Brunei Darussalam","BRN",1,2014
+"Bulgaria","BGR",1,2014
+"Cambodia","KHM",1,2014
+"Cameroon","CMR",1,2014
+"Canada","CAN",1,2014
+"Chile","CHL",1,2014
+"China","CHN",1,2014
+"Colombia","COL",1,2014
+"Costa Rica","CRI",1,2014
+"Croatia","HRV",1,2014
+"Cuba","CUB",1,2014
+"Cyprus","CYP",1,2014
+"Denmark","DNK",1,2014
+"Dominican Republic","DOM",1,2014
+"Ecuador","ECU",1,2014
+"Egypt","EGY",1,2014
+"El Salvador","SLV",1,2014
+"Eritrea","ERI",1,2014
+"Estonia","EST",1,2014
+"Ethiopia","ETH",1,2014
+"Finland","FIN",1,2014
+"France","FRA",1,2014
+"Gabon","GAB",1,2014
+"Georgia","GEO",1,2014
+"Germany","DEU",1,2014
+"Ghana","GHA",1,2014
+"Gibraltar","GIB",1,2014
+"Greece","GRC",1,2014
+"Guatemala","GTM",1,2014
+"Haiti","HTI",1,2014
+"Honduras","HND",1,2014
+"Hungary","HUN",1,2014
+"Iceland","ISL",1,2014
+"India","IND",1,2014
+"Indonesia","IDN",1,2014
+"Iraq","IRQ",1,2014
+"Ireland","IRL",1,2014
+"Israel","ISR",1,2014
+"Italy","ITA",1,2014
+"Jamaica","JAM",1,2014
+"Japan","JPN",1,2014
+"Jordan","JOR",1,2014
+"Kazakhstan","KAZ",1,2014
+"Kenya","KEN",1,2014
+"Korea","KOR",1,2014
+"Kosovo","XKX",1,2014
+"Kuwait","KWT",1,2014
+"Latvia","LVA",1,2014
+"Lebanon","LBN",1,2014
+"Libya","LBY",1,2014
+"Lithuania","LTU",1,2014
+"Luxembourg","LUX",1,2014
+"Malaysia","MYS",1,2014
+"Malta","MLT",1,2014
+"Mauritius","MUS",1,2014
+"Mexico","MEX",1,2014
+"Mongolia","MNG",1,2014
+"Montenegro","MNE",1,2014
+"Morocco","MAR",1,2014
+"Mozambique","MOZ",1,2014
+"Myanmar","MMR",1,2014
+"Namibia","NAM",1,2014
+"Nepal","NPL",1,2014
+"Netherlands","NLD",1,2014
+"New Zealand","NZL",1,2014
+"Nicaragua","NIC",1,2014
+"Niger","NER",1,2014
+"Nigeria","NGA",1,2014
+"Norway","NOR",1,2014
+"Oman","OMN",1,2014
+"Pakistan","PAK",1,2014
+"Panama","PAN",1,2014
+"Paraguay","PRY",1,2014
+"Peru","PER",1,2014
+"Philippines","PHL",1,2014
+"Poland","POL",1,2014
+"Portugal","PRT",1,2014
+"Qatar","QAT",1,2014
+"Romania","ROU",1,2014
+"Russian Federation","RUS",1,2014
+"Saudi Arabia","SAU",1,2014
+"Senegal","SEN",1,2014
+"Serbia","SRB",1,2014
+"Singapore","SGP",1,2014
+"Slovak Republic","SVK",1,2014
+"Slovenia","SVN",1,2014
+"South Africa","ZAF",1,2014
+"South Sudan","SSD",1,2014
+"Spain","ESP",1,2014
+"Sri Lanka","LKA",1,2014
+"Sudan","SDN",1,2014
+"Suriname","SUR",1,2014
+"Sweden","SWE",1,2014
+"Switzerland","CHE",1,2014
+"Syrian Arab Republic","SYR",1,2014
+"Tajikistan","TJK",1,2014
+"Thailand","THA",1,2014
+"Togo","TGO",1,2014
+"Trinidad and Tobago","TTO",1,2014
+"Tunisia","TUN",1,2014
+"Turkey","TUR",1,2014
+"Turkmenistan","TKM",1,2014
+"Ukraine","UKR",1,2014
+"United Arab Emirates","ARE",1,2014
+"United Kingdom","GBR",1,2014
+"United States","USA",1,2014
+"Uruguay","URY",1,2014
+"Uzbekistan","UZB",1,2014
+"Venezuela","VEN",1,2014
+"Vietnam","VNM",1,2014
+"Zambia","ZMB",1,2014
+"Zimbabwe","ZWE",1,2014
+"Albania","ALB",1,2015
+"Algeria","DZA",1,2015
+"Angola","AGO",1,2015
+"Argentina","ARG",1,2015
+"Armenia","ARM",1,2015
+"Australia","AUS",1,2015
+"Austria","AUT",1,2015
+"Azerbaijan","AZE",1,2015
+"Bahrain","BHR",1,2015
+"Bangladesh","BGD",1,2015
+"Belarus","BLR",1,2015
+"Belgium","BEL",1,2015
+"Benin","BEN",1,2015
+"Bolivia","BOL",1,2015
+"Bosnia and Herzegovina","BIH",1,2015
+"Botswana","BWA",1,2015
+"Brazil","BRA",1,2015
+"Brunei Darussalam","BRN",1,2015
+"Bulgaria","BGR",1,2015
+"Cambodia","KHM",1,2015
+"Cameroon","CMR",1,2015
+"Canada","CAN",1,2015
+"Chile","CHL",1,2015
+"China","CHN",1,2015
+"Colombia","COL",1,2015
+"Costa Rica","CRI",1,2015
+"Croatia","HRV",1,2015
+"Cuba","CUB",1,2015
+"Cyprus","CYP",1,2015
+"Denmark","DNK",1,2015
+"Dominican Republic","DOM",1,2015
+"Ecuador","ECU",1,2015
+"Egypt","EGY",1,2015
+"El Salvador","SLV",1,2015
+"Eritrea","ERI",1,2015
+"Estonia","EST",1,2015
+"Ethiopia","ETH",1,2015
+"Finland","FIN",1,2015
+"France","FRA",1,2015
+"Gabon","GAB",1,2015
+"Georgia","GEO",1,2015
+"Germany","DEU",1,2015
+"Ghana","GHA",1,2015
+"Gibraltar","GIB",1,2015
+"Greece","GRC",1,2015
+"Guatemala","GTM",1,2015
+"Haiti","HTI",1,2015
+"Honduras","HND",1,2015
+"Hungary","HUN",1,2015
+"Iceland","ISL",1,2015
+"India","IND",1,2015
+"Indonesia","IDN",1,2015
+"Iraq","IRQ",1,2015
+"Ireland","IRL",1,2015
+"Israel","ISR",1,2015
+"Italy","ITA",1,2015
+"Jamaica","JAM",1,2015
+"Japan","JPN",1,2015
+"Jordan","JOR",1,2015
+"Kazakhstan","KAZ",1,2015
+"Kenya","KEN",1,2015
+"Korea","KOR",1,2015
+"Kosovo","XKX",1,2015
+"Kuwait","KWT",1,2015
+"Latvia","LVA",1,2015
+"Lebanon","LBN",1,2015
+"Libya","LBY",1,2015
+"Lithuania","LTU",1,2015
+"Luxembourg","LUX",1,2015
+"Malaysia","MYS",1,2015
+"Malta","MLT",1,2015
+"Mauritius","MUS",1,2015
+"Mexico","MEX",1,2015
+"Mongolia","MNG",1,2015
+"Montenegro","MNE",1,2015
+"Morocco","MAR",1,2015
+"Mozambique","MOZ",1,2015
+"Myanmar","MMR",1,2015
+"Namibia","NAM",1,2015
+"Nepal","NPL",1,2015
+"Netherlands","NLD",1,2015
+"New Zealand","NZL",1,2015
+"Nicaragua","NIC",1,2015
+"Niger","NER",1,2015
+"Nigeria","NGA",1,2015
+"Norway","NOR",1,2015
+"Oman","OMN",1,2015
+"Pakistan","PAK",1,2015
+"Panama","PAN",1,2015
+"Paraguay","PRY",1,2015
+"Peru","PER",1,2015
+"Philippines","PHL",1,2015
+"Poland","POL",1,2015
+"Portugal","PRT",1,2015
+"Qatar","QAT",1,2015
+"Romania","ROU",1,2015
+"Russian Federation","RUS",1,2015
+"Saudi Arabia","SAU",1,2015
+"Senegal","SEN",1,2015
+"Serbia","SRB",1,2015
+"Singapore","SGP",1,2015
+"Slovak Republic","SVK",1,2015
+"Slovenia","SVN",1,2015
+"South Africa","ZAF",1,2015
+"South Sudan","SSD",1,2015
+"Spain","ESP",1,2015
+"Sri Lanka","LKA",1,2015
+"Sudan","SDN",1,2015
+"Suriname","SUR",1,2015
+"Sweden","SWE",1,2015
+"Switzerland","CHE",1,2015
+"Syrian Arab Republic","SYR",1,2015
+"Tajikistan","TJK",1,2015
+"Thailand","THA",1,2015
+"Togo","TGO",1,2015
+"Trinidad and Tobago","TTO",1,2015
+"Tunisia","TUN",1,2015
+"Turkey","TUR",1,2015
+"Turkmenistan","TKM",1,2015
+"Ukraine","UKR",1,2015
+"United Arab Emirates","ARE",1,2015
+"United Kingdom","GBR",1,2015
+"United States","USA",1,2015
+"Uruguay","URY",1,2015
+"Uzbekistan","UZB",1,2015
+"Venezuela","VEN",1,2015
+"Vietnam","VNM",1,2015
+"Zambia","ZMB",1,2015
+"Zimbabwe","ZWE",1,2015
+"Albania","ALB",1,2016
+"Algeria","DZA",1,2016
+"Angola","AGO",1,2016
+"Argentina","ARG",1,2016
+"Armenia","ARM",1,2016
+"Australia","AUS",1,2016
+"Austria","AUT",1,2016
+"Azerbaijan","AZE",1,2016
+"Bahrain","BHR",1,2016
+"Bangladesh","BGD",1,2016
+"Belarus","BLR",1,2016
+"Belgium","BEL",1,2016
+"Benin","BEN",1,2016
+"Bolivia","BOL",1,2016
+"Bosnia and Herzegovina","BIH",1,2016
+"Botswana","BWA",1,2016
+"Brazil","BRA",1,2016
+"Brunei Darussalam","BRN",1,2016
+"Bulgaria","BGR",1,2016
+"Cambodia","KHM",1,2016
+"Cameroon","CMR",1,2016
+"Canada","CAN",1,2016
+"Chile","CHL",1,2016
+"China","CHN",1,2016
+"Colombia","COL",1,2016
+"Costa Rica","CRI",1,2016
+"Croatia","HRV",1,2016
+"Cuba","CUB",1,2016
+"Cyprus","CYP",1,2016
+"Denmark","DNK",1,2016
+"Dominican Republic","DOM",1,2016
+"Ecuador","ECU",1,2016
+"Egypt","EGY",1,2016
+"El Salvador","SLV",1,2016
+"Eritrea","ERI",1,2016
+"Estonia","EST",1,2016
+"Ethiopia","ETH",1,2016
+"Finland","FIN",1,2016
+"France","FRA",1,2016
+"Gabon","GAB",1,2016
+"Georgia","GEO",1,2016
+"Germany","DEU",1,2016
+"Ghana","GHA",1,2016
+"Gibraltar","GIB",1,2016
+"Greece","GRC",1,2016
+"Guatemala","GTM",1,2016
+"Haiti","HTI",1,2016
+"Honduras","HND",1,2016
+"Hungary","HUN",1,2016
+"Iceland","ISL",1,2016
+"India","IND",1,2016
+"Indonesia","IDN",1,2016
+"Iraq","IRQ",1,2016
+"Ireland","IRL",1,2016
+"Israel","ISR",1,2016
+"Italy","ITA",1,2016
+"Jamaica","JAM",1,2016
+"Japan","JPN",1,2016
+"Jordan","JOR",1,2016
+"Kazakhstan","KAZ",1,2016
+"Kenya","KEN",1,2016
+"Korea","KOR",1,2016
+"Kosovo","XKX",1,2016
+"Kuwait","KWT",1,2016
+"Latvia","LVA",1,2016
+"Lebanon","LBN",1,2016
+"Libya","LBY",1,2016
+"Lithuania","LTU",1,2016
+"Luxembourg","LUX",1,2016
+"Malaysia","MYS",1,2016
+"Malta","MLT",1,2016
+"Mauritius","MUS",1,2016
+"Mexico","MEX",1,2016
+"Mongolia","MNG",1,2016
+"Montenegro","MNE",1,2016
+"Morocco","MAR",1,2016
+"Mozambique","MOZ",1,2016
+"Myanmar","MMR",1,2016
+"Namibia","NAM",1,2016
+"Nepal","NPL",1,2016
+"Netherlands","NLD",1,2016
+"New Zealand","NZL",1,2016
+"Nicaragua","NIC",1,2016
+"Niger","NER",1,2016
+"Nigeria","NGA",1,2016
+"Norway","NOR",1,2016
+"Oman","OMN",1,2016
+"Pakistan","PAK",1,2016
+"Panama","PAN",1,2016
+"Paraguay","PRY",1,2016
+"Peru","PER",1,2016
+"Philippines","PHL",1,2016
+"Poland","POL",1,2016
+"Portugal","PRT",1,2016
+"Qatar","QAT",1,2016
+"Romania","ROU",1,2016
+"Russian Federation","RUS",1,2016
+"Saudi Arabia","SAU",1,2016
+"Senegal","SEN",1,2016
+"Serbia","SRB",1,2016
+"Singapore","SGP",1,2016
+"Slovak Republic","SVK",1,2016
+"Slovenia","SVN",1,2016
+"South Africa","ZAF",1,2016
+"South Sudan","SSD",1,2016
+"Spain","ESP",1,2016
+"Sri Lanka","LKA",1,2016
+"Sudan","SDN",1,2016
+"Suriname","SUR",1,2016
+"Sweden","SWE",1,2016
+"Switzerland","CHE",1,2016
+"Syrian Arab Republic","SYR",1,2016
+"Tajikistan","TJK",1,2016
+"Thailand","THA",1,2016
+"Togo","TGO",1,2016
+"Trinidad and Tobago","TTO",1,2016
+"Tunisia","TUN",1,2016
+"Turkey","TUR",1,2016
+"Turkmenistan","TKM",1,2016
+"Ukraine","UKR",1,2016
+"United Arab Emirates","ARE",1,2016
+"United Kingdom","GBR",1,2016
+"United States","USA",1,2016
+"Uruguay","URY",1,2016
+"Uzbekistan","UZB",1,2016
+"Venezuela","VEN",1,2016
+"Vietnam","VNM",1,2016
+"Zambia","ZMB",1,2016
+"Zimbabwe","ZWE",1,2016
+"Albania","ALB",1,2017
+"Algeria","DZA",1,2017
+"Angola","AGO",1,2017
+"Argentina","ARG",1,2017
+"Armenia","ARM",1,2017
+"Australia","AUS",1,2017
+"Austria","AUT",1,2017
+"Azerbaijan","AZE",1,2017
+"Bahrain","BHR",1,2017
+"Bangladesh","BGD",1,2017
+"Belarus","BLR",1,2017
+"Belgium","BEL",1,2017
+"Benin","BEN",1,2017
+"Bolivia","BOL",1,2017
+"Bosnia and Herzegovina","BIH",1,2017
+"Botswana","BWA",1,2017
+"Brazil","BRA",1,2017
+"Brunei Darussalam","BRN",1,2017
+"Bulgaria","BGR",1,2017
+"Cambodia","KHM",1,2017
+"Cameroon","CMR",1,2017
+"Canada","CAN",1,2017
+"Chile","CHL",1,2017
+"China","CHN",1,2017
+"Colombia","COL",1,2017
+"Costa Rica","CRI",1,2017
+"Croatia","HRV",1,2017
+"Cuba","CUB",1,2017
+"Cyprus","CYP",1,2017
+"Denmark","DNK",1,2017
+"Dominican Republic","DOM",1,2017
+"Ecuador","ECU",1,2017
+"Egypt","EGY",1,2017
+"El Salvador","SLV",1,2017
+"Eritrea","ERI",1,2017
+"Estonia","EST",1,2017
+"Ethiopia","ETH",1,2017
+"Finland","FIN",1,2017
+"France","FRA",1,2017
+"Gabon","GAB",1,2017
+"Georgia","GEO",1,2017
+"Germany","DEU",1,2017
+"Ghana","GHA",1,2017
+"Gibraltar","GIB",1,2017
+"Greece","GRC",1,2017
+"Guatemala","GTM",1,2017
+"Haiti","HTI",1,2017
+"Honduras","HND",1,2017
+"Hungary","HUN",1,2017
+"Iceland","ISL",1,2017
+"India","IND",1,2017
+"Indonesia","IDN",1,2017
+"Iraq","IRQ",1,2017
+"Ireland","IRL",1,2017
+"Israel","ISR",1,2017
+"Italy","ITA",1,2017
+"Jamaica","JAM",1,2017
+"Japan","JPN",1,2017
+"Jordan","JOR",1,2017
+"Kazakhstan","KAZ",1,2017
+"Kenya","KEN",1,2017
+"Korea","KOR",1,2017
+"Kosovo","XKX",1,2017
+"Kuwait","KWT",1,2017
+"Latvia","LVA",1,2017
+"Lebanon","LBN",1,2017
+"Libya","LBY",1,2017
+"Lithuania","LTU",1,2017
+"Luxembourg","LUX",1,2017
+"Malaysia","MYS",1,2017
+"Malta","MLT",1,2017
+"Mauritius","MUS",1,2017
+"Mexico","MEX",1,2017
+"Mongolia","MNG",1,2017
+"Montenegro","MNE",1,2017
+"Morocco","MAR",1,2017
+"Mozambique","MOZ",1,2017
+"Myanmar","MMR",1,2017
+"Namibia","NAM",1,2017
+"Nepal","NPL",1,2017
+"Netherlands","NLD",1,2017
+"New Zealand","NZL",1,2017
+"Nicaragua","NIC",1,2017
+"Niger","NER",1,2017
+"Nigeria","NGA",1,2017
+"Norway","NOR",1,2017
+"Oman","OMN",1,2017
+"Pakistan","PAK",1,2017
+"Panama","PAN",1,2017
+"Paraguay","PRY",1,2017
+"Peru","PER",1,2017
+"Philippines","PHL",1,2017
+"Poland","POL",1,2017
+"Portugal","PRT",1,2017
+"Qatar","QAT",1,2017
+"Romania","ROU",1,2017
+"Russian Federation","RUS",1,2017
+"Saudi Arabia","SAU",1,2017
+"Senegal","SEN",1,2017
+"Serbia","SRB",1,2017
+"Singapore","SGP",1,2017
+"Slovak Republic","SVK",1,2017
+"Slovenia","SVN",1,2017
+"South Africa","ZAF",1,2017
+"South Sudan","SSD",1,2017
+"Spain","ESP",1,2017
+"Sri Lanka","LKA",1,2017
+"Sudan","SDN",1,2017
+"Suriname","SUR",1,2017
+"Sweden","SWE",1,2017
+"Switzerland","CHE",1,2017
+"Syrian Arab Republic","SYR",1,2017
+"Tajikistan","TJK",1,2017
+"Thailand","THA",1,2017
+"Togo","TGO",1,2017
+"Trinidad and Tobago","TTO",1,2017
+"Tunisia","TUN",1,2017
+"Turkey","TUR",1,2017
+"Turkmenistan","TKM",1,2017
+"Ukraine","UKR",1,2017
+"United Arab Emirates","ARE",1,2017
+"United Kingdom","GBR",1,2017
+"United States","USA",1,2017
+"Uruguay","URY",1,2017
+"Uzbekistan","UZB",1,2017
+"Venezuela","VEN",1,2017
+"Vietnam","VNM",1,2017
+"Zambia","ZMB",1,2017
+"Zimbabwe","ZWE",1,2017
+"Albania","ALB",1,2018
+"Algeria","DZA",1,2018
+"Angola","AGO",1,2018
+"Argentina","ARG",1,2018
+"Armenia","ARM",1,2018
+"Australia","AUS",1,2018
+"Austria","AUT",1,2018
+"Azerbaijan","AZE",1,2018
+"Bahrain","BHR",1,2018
+"Bangladesh","BGD",1,2018
+"Belarus","BLR",1,2018
+"Belgium","BEL",1,2018
+"Benin","BEN",1,2018
+"Bolivia","BOL",1,2018
+"Bosnia and Herzegovina","BIH",1,2018
+"Botswana","BWA",1,2018
+"Brazil","BRA",1,2018
+"Brunei Darussalam","BRN",1,2018
+"Bulgaria","BGR",1,2018
+"Cambodia","KHM",1,2018
+"Cameroon","CMR",1,2018
+"Canada","CAN",1,2018
+"Chile","CHL",1,2018
+"China","CHN",1,2018
+"Colombia","COL",1,2018
+"Costa Rica","CRI",1,2018
+"Croatia","HRV",1,2018
+"Cuba","CUB",1,2018
+"Cyprus","CYP",1,2018
+"Denmark","DNK",1,2018
+"Dominican Republic","DOM",1,2018
+"Ecuador","ECU",1,2018
+"Egypt","EGY",1,2018
+"El Salvador","SLV",1,2018
+"Eritrea","ERI",1,2018
+"Estonia","EST",1,2018
+"Ethiopia","ETH",1,2018
+"Finland","FIN",1,2018
+"France","FRA",1,2018
+"Gabon","GAB",1,2018
+"Georgia","GEO",1,2018
+"Germany","DEU",1,2018
+"Ghana","GHA",1,2018
+"Gibraltar","GIB",1,2018
+"Greece","GRC",1,2018
+"Guatemala","GTM",1,2018
+"Haiti","HTI",1,2018
+"Honduras","HND",1,2018
+"Hungary","HUN",1,2018
+"Iceland","ISL",1,2018
+"India","IND",1,2018
+"Indonesia","IDN",1,2018
+"Iraq","IRQ",1,2018
+"Ireland","IRL",1,2018
+"Israel","ISR",1,2018
+"Italy","ITA",1,2018
+"Jamaica","JAM",1,2018
+"Japan","JPN",1,2018
+"Jordan","JOR",1,2018
+"Kazakhstan","KAZ",1,2018
+"Kenya","KEN",1,2018
+"Korea","KOR",1,2018
+"Kosovo","XKX",1,2018
+"Kuwait","KWT",1,2018
+"Latvia","LVA",1,2018
+"Lebanon","LBN",1,2018
+"Libya","LBY",1,2018
+"Lithuania","LTU",1,2018
+"Luxembourg","LUX",1,2018
+"Malaysia","MYS",1,2018
+"Malta","MLT",1,2018
+"Mauritius","MUS",1,2018
+"Mexico","MEX",1,2018
+"Mongolia","MNG",1,2018
+"Montenegro","MNE",1,2018
+"Morocco","MAR",1,2018
+"Mozambique","MOZ",1,2018
+"Myanmar","MMR",1,2018
+"Namibia","NAM",1,2018
+"Nepal","NPL",1,2018
+"Netherlands","NLD",1,2018
+"New Zealand","NZL",1,2018
+"Nicaragua","NIC",1,2018
+"Niger","NER",1,2018
+"Nigeria","NGA",1,2018
+"Norway","NOR",1,2018
+"Oman","OMN",1,2018
+"Pakistan","PAK",1,2018
+"Panama","PAN",1,2018
+"Paraguay","PRY",1,2018
+"Peru","PER",1,2018
+"Philippines","PHL",1,2018
+"Poland","POL",1,2018
+"Portugal","PRT",1,2018
+"Qatar","QAT",1,2018
+"Romania","ROU",1,2018
+"Russian Federation","RUS",1,2018
+"Saudi Arabia","SAU",1,2018
+"Senegal","SEN",1,2018
+"Serbia","SRB",1,2018
+"Singapore","SGP",1,2018
+"Slovak Republic","SVK",1,2018
+"Slovenia","SVN",1,2018
+"South Africa","ZAF",1,2018
+"South Sudan","SSD",1,2018
+"Spain","ESP",1,2018
+"Sri Lanka","LKA",1,2018
+"Sudan","SDN",1,2018
+"Suriname","SUR",1,2018
+"Sweden","SWE",1,2018
+"Switzerland","CHE",1,2018
+"Syrian Arab Republic","SYR",1,2018
+"Tajikistan","TJK",1,2018
+"Thailand","THA",1,2018
+"Togo","TGO",1,2018
+"Trinidad and Tobago","TTO",1,2018
+"Tunisia","TUN",1,2018
+"Turkey","TUR",1,2018
+"Turkmenistan","TKM",1,2018
+"Ukraine","UKR",1,2018
+"United Arab Emirates","ARE",1,2018
+"United Kingdom","GBR",1,2018
+"United States","USA",1,2018
+"Uruguay","URY",1,2018
+"Uzbekistan","UZB",1,2018
+"Venezuela","VEN",1,2018
+"Vietnam","VNM",1,2018
+"Zambia","ZMB",1,2018
+"Zimbabwe","ZWE",1,2018
+"Albania","ALB",1,2019
+"Algeria","DZA",1,2019
+"Angola","AGO",1,2019
+"Argentina","ARG",1,2019
+"Armenia","ARM",1,2019
+"Australia","AUS",1,2019
+"Austria","AUT",1,2019
+"Azerbaijan","AZE",1,2019
+"Bahrain","BHR",1,2019
+"Bangladesh","BGD",1,2019
+"Belarus","BLR",1,2019
+"Belgium","BEL",1,2019
+"Benin","BEN",1,2019
+"Bolivia","BOL",1,2019
+"Bosnia and Herzegovina","BIH",1,2019
+"Botswana","BWA",1,2019
+"Brazil","BRA",1,2019
+"Brunei Darussalam","BRN",1,2019
+"Bulgaria","BGR",1,2019
+"Cambodia","KHM",1,2019
+"Cameroon","CMR",1,2019
+"Canada","CAN",1,2019
+"Chile","CHL",1,2019
+"China","CHN",1,2019
+"Colombia","COL",1,2019
+"Costa Rica","CRI",1,2019
+"Croatia","HRV",1,2019
+"Cuba","CUB",1,2019
+"Cyprus","CYP",1,2019
+"Denmark","DNK",1,2019
+"Dominican Republic","DOM",1,2019
+"Ecuador","ECU",1,2019
+"Egypt","EGY",1,2019
+"El Salvador","SLV",1,2019
+"Eritrea","ERI",1,2019
+"Estonia","EST",1,2019
+"Ethiopia","ETH",1,2019
+"Finland","FIN",1,2019
+"France","FRA",1,2019
+"Gabon","GAB",1,2019
+"Georgia","GEO",1,2019
+"Germany","DEU",1,2019
+"Ghana","GHA",1,2019
+"Gibraltar","GIB",1,2019
+"Greece","GRC",1,2019
+"Guatemala","GTM",1,2019
+"Haiti","HTI",1,2019
+"Honduras","HND",1,2019
+"Hungary","HUN",1,2019
+"Iceland","ISL",1,2019
+"India","IND",1,2019
+"Indonesia","IDN",1,2019
+"Iraq","IRQ",1,2019
+"Ireland","IRL",1,2019
+"Israel","ISR",1,2019
+"Italy","ITA",1,2019
+"Jamaica","JAM",1,2019
+"Japan","JPN",1,2019
+"Jordan","JOR",1,2019
+"Kazakhstan","KAZ",1,2019
+"Kenya","KEN",1,2019
+"Korea","KOR",1,2019
+"Kosovo","XKX",1,2019
+"Kuwait","KWT",1,2019
+"Latvia","LVA",1,2019
+"Lebanon","LBN",1,2019
+"Libya","LBY",1,2019
+"Lithuania","LTU",1,2019
+"Luxembourg","LUX",1,2019
+"Malaysia","MYS",1,2019
+"Malta","MLT",1,2019
+"Mauritius","MUS",1,2019
+"Mexico","MEX",1,2019
+"Mongolia","MNG",1,2019
+"Montenegro","MNE",1,2019
+"Morocco","MAR",1,2019
+"Mozambique","MOZ",1,2019
+"Myanmar","MMR",1,2019
+"Namibia","NAM",1,2019
+"Nepal","NPL",1,2019
+"Netherlands","NLD",1,2019
+"New Zealand","NZL",1,2019
+"Nicaragua","NIC",1,2019
+"Niger","NER",1,2019
+"Nigeria","NGA",1,2019
+"Norway","NOR",1,2019
+"Oman","OMN",1,2019
+"Pakistan","PAK",1,2019
+"Panama","PAN",1,2019
+"Paraguay","PRY",1,2019
+"Peru","PER",1,2019
+"Philippines","PHL",1,2019
+"Poland","POL",1,2019
+"Portugal","PRT",1,2019
+"Qatar","QAT",1,2019
+"Romania","ROU",1,2019
+"Russian Federation","RUS",1,2019
+"Saudi Arabia","SAU",1,2019
+"Senegal","SEN",1,2019
+"Serbia","SRB",1,2019
+"Singapore","SGP",1,2019
+"Slovak Republic","SVK",1,2019
+"Slovenia","SVN",1,2019
+"South Africa","ZAF",1,2019
+"South Sudan","SSD",1,2019
+"Spain","ESP",1,2019
+"Sri Lanka","LKA",1,2019
+"Sudan","SDN",1,2019
+"Suriname","SUR",1,2019
+"Sweden","SWE",1,2019
+"Switzerland","CHE",1,2019
+"Syrian Arab Republic","SYR",1,2019
+"Tajikistan","TJK",1,2019
+"Thailand","THA",1,2019
+"Togo","TGO",1,2019
+"Trinidad and Tobago","TTO",1,2019
+"Tunisia","TUN",1,2019
+"Turkey","TUR",1,2019
+"Turkmenistan","TKM",1,2019
+"Ukraine","UKR",1,2019
+"United Arab Emirates","ARE",1,2019
+"United Kingdom","GBR",1,2019
+"United States","USA",1,2019
+"Uruguay","URY",1,2019
+"Uzbekistan","UZB",1,2019
+"Venezuela","VEN",1,2019
+"Vietnam","VNM",1,2019
+"Zambia","ZMB",1,2019
+"Zimbabwe","ZWE",1,2019
+"Albania","ALB",1,2020
+"Algeria","DZA",1,2020
+"Angola","AGO",1,2020
+"Argentina","ARG",1,2020
+"Armenia","ARM",1,2020
+"Australia","AUS",1,2020
+"Austria","AUT",1,2020
+"Azerbaijan","AZE",1,2020
+"Bahrain","BHR",1,2020
+"Bangladesh","BGD",1,2020
+"Belarus","BLR",1,2020
+"Belgium","BEL",1,2020
+"Benin","BEN",1,2020
+"Bolivia","BOL",1,2020
+"Bosnia and Herzegovina","BIH",1,2020
+"Botswana","BWA",1,2020
+"Brazil","BRA",1,2020
+"Brunei Darussalam","BRN",1,2020
+"Bulgaria","BGR",1,2020
+"Cambodia","KHM",1,2020
+"Cameroon","CMR",1,2020
+"Canada","CAN",1,2020
+"Chile","CHL",1,2020
+"China","CHN",1,2020
+"Colombia","COL",1,2020
+"Costa Rica","CRI",1,2020
+"Croatia","HRV",1,2020
+"Cuba","CUB",1,2020
+"Cyprus","CYP",1,2020
+"Denmark","DNK",1,2020
+"Dominican Republic","DOM",1,2020
+"Ecuador","ECU",1,2020
+"Egypt","EGY",1,2020
+"El Salvador","SLV",1,2020
+"Eritrea","ERI",1,2020
+"Estonia","EST",1,2020
+"Ethiopia","ETH",1,2020
+"Finland","FIN",1,2020
+"France","FRA",1,2020
+"Gabon","GAB",1,2020
+"Georgia","GEO",1,2020
+"Germany","DEU",1,2020
+"Ghana","GHA",1,2020
+"Gibraltar","GIB",1,2020
+"Greece","GRC",1,2020
+"Guatemala","GTM",1,2020
+"Haiti","HTI",1,2020
+"Honduras","HND",1,2020
+"Hungary","HUN",1,2020
+"Iceland","ISL",1,2020
+"India","IND",1,2020
+"Indonesia","IDN",1,2020
+"Iraq","IRQ",1,2020
+"Ireland","IRL",1,2020
+"Israel","ISR",1,2020
+"Italy","ITA",1,2020
+"Jamaica","JAM",1,2020
+"Japan","JPN",1,2020
+"Jordan","JOR",1,2020
+"Kazakhstan","KAZ",1,2020
+"Kenya","KEN",1,2020
+"Korea","KOR",1,2020
+"Kosovo","XKX",1,2020
+"Kuwait","KWT",1,2020
+"Latvia","LVA",1,2020
+"Lebanon","LBN",1,2020
+"Libya","LBY",1,2020
+"Lithuania","LTU",1,2020
+"Luxembourg","LUX",1,2020
+"Malaysia","MYS",1,2020
+"Malta","MLT",1,2020
+"Mauritius","MUS",1,2020
+"Mexico","MEX",1,2020
+"Mongolia","MNG",1,2020
+"Montenegro","MNE",1,2020
+"Morocco","MAR",1,2020
+"Mozambique","MOZ",1,2020
+"Myanmar","MMR",1,2020
+"Namibia","NAM",1,2020
+"Nepal","NPL",1,2020
+"Netherlands","NLD",1,2020
+"New Zealand","NZL",1,2020
+"Nicaragua","NIC",1,2020
+"Niger","NER",1,2020
+"Nigeria","NGA",1,2020
+"Norway","NOR",1,2020
+"Oman","OMN",1,2020
+"Pakistan","PAK",1,2020
+"Panama","PAN",1,2020
+"Paraguay","PRY",1,2020
+"Peru","PER",1,2020
+"Philippines","PHL",1,2020
+"Poland","POL",1,2020
+"Portugal","PRT",1,2020
+"Qatar","QAT",1,2020
+"Romania","ROU",1,2020
+"Russian Federation","RUS",1,2020
+"Saudi Arabia","SAU",1,2020
+"Senegal","SEN",1,2020
+"Serbia","SRB",1,2020
+"Singapore","SGP",1,2020
+"Slovak Republic","SVK",1,2020
+"Slovenia","SVN",1,2020
+"South Africa","ZAF",1,2020
+"South Sudan","SSD",1,2020
+"Spain","ESP",1,2020
+"Sri Lanka","LKA",1,2020
+"Sudan","SDN",1,2020
+"Suriname","SUR",1,2020
+"Sweden","SWE",1,2020
+"Switzerland","CHE",1,2020
+"Syrian Arab Republic","SYR",1,2020
+"Tajikistan","TJK",1,2020
+"Thailand","THA",1,2020
+"Togo","TGO",1,2020
+"Trinidad and Tobago","TTO",1,2020
+"Tunisia","TUN",1,2020
+"Turkey","TUR",1,2020
+"Turkmenistan","TKM",1,2020
+"Ukraine","UKR",1,2020
+"United Arab Emirates","ARE",1,2020
+"United Kingdom","GBR",1,2020
+"United States","USA",1,2020
+"Uruguay","URY",1,2020
+"Uzbekistan","UZB",1,2020
+"Venezuela","VEN",1,2020
+"Vietnam","VNM",1,2020
+"Zambia","ZMB",1,2020
+"Zimbabwe","ZWE",1,2020
+"Albania","ALB",1,2021
+"Algeria","DZA",1,2021
+"Angola","AGO",1,2021
+"Argentina","ARG",1,2021
+"Armenia","ARM",1,2021
+"Australia","AUS",1,2021
+"Austria","AUT",1,2021
+"Azerbaijan","AZE",1,2021
+"Bahrain","BHR",1,2021
+"Bangladesh","BGD",1,2021
+"Belarus","BLR",1,2021
+"Belgium","BEL",1,2021
+"Benin","BEN",1,2021
+"Bolivia","BOL",1,2021
+"Bosnia and Herzegovina","BIH",1,2021
+"Botswana","BWA",1,2021
+"Brazil","BRA",1,2021
+"Brunei Darussalam","BRN",1,2021
+"Bulgaria","BGR",1,2021
+"Cambodia","KHM",1,2021
+"Cameroon","CMR",1,2021
+"Canada","CAN",1,2021
+"Chile","CHL",1,2021
+"China","CHN",1,2021
+"Colombia","COL",1,2021
+"Costa Rica","CRI",1,2021
+"Croatia","HRV",1,2021
+"Cuba","CUB",1,2021
+"Cyprus","CYP",1,2021
+"Denmark","DNK",1,2021
+"Dominican Republic","DOM",1,2021
+"Ecuador","ECU",1,2021
+"Egypt","EGY",1,2021
+"El Salvador","SLV",1,2021
+"Eritrea","ERI",1,2021
+"Estonia","EST",1,2021
+"Ethiopia","ETH",1,2021
+"Finland","FIN",1,2021
+"France","FRA",1,2021
+"Gabon","GAB",1,2021
+"Georgia","GEO",1,2021
+"Germany","DEU",1,2021
+"Ghana","GHA",1,2021
+"Gibraltar","GIB",1,2021
+"Greece","GRC",1,2021
+"Guatemala","GTM",1,2021
+"Haiti","HTI",1,2021
+"Honduras","HND",1,2021
+"Hungary","HUN",1,2021
+"Iceland","ISL",1,2021
+"India","IND",1,2021
+"Indonesia","IDN",1,2021
+"Iraq","IRQ",1,2021
+"Ireland","IRL",1,2021
+"Israel","ISR",1,2021
+"Italy","ITA",1,2021
+"Jamaica","JAM",1,2021
+"Japan","JPN",1,2021
+"Jordan","JOR",1,2021
+"Kazakhstan","KAZ",1,2021
+"Kenya","KEN",1,2021
+"Korea","KOR",1,2021
+"Kosovo","XKX",1,2021
+"Kuwait","KWT",1,2021
+"Latvia","LVA",1,2021
+"Lebanon","LBN",1,2021
+"Libya","LBY",1,2021
+"Lithuania","LTU",1,2021
+"Luxembourg","LUX",1,2021
+"Malaysia","MYS",1,2021
+"Malta","MLT",1,2021
+"Mauritius","MUS",1,2021
+"Mexico","MEX",1,2021
+"Mongolia","MNG",1,2021
+"Montenegro","MNE",1,2021
+"Morocco","MAR",1,2021
+"Mozambique","MOZ",1,2021
+"Myanmar","MMR",1,2021
+"Namibia","NAM",1,2021
+"Nepal","NPL",1,2021
+"Netherlands","NLD",1,2021
+"New Zealand","NZL",1,2021
+"Nicaragua","NIC",1,2021
+"Niger","NER",1,2021
+"Nigeria","NGA",1,2021
+"Norway","NOR",1,2021
+"Oman","OMN",1,2021
+"Pakistan","PAK",1,2021
+"Panama","PAN",1,2021
+"Paraguay","PRY",1,2021
+"Peru","PER",1,2021
+"Philippines","PHL",1,2021
+"Poland","POL",1,2021
+"Portugal","PRT",1,2021
+"Qatar","QAT",1,2021
+"Romania","ROU",1,2021
+"Russian Federation","RUS",1,2021
+"Saudi Arabia","SAU",1,2021
+"Senegal","SEN",1,2021
+"Serbia","SRB",1,2021
+"Singapore","SGP",1,2021
+"Slovak Republic","SVK",1,2021
+"Slovenia","SVN",1,2021
+"South Africa","ZAF",1,2021
+"South Sudan","SSD",1,2021
+"Spain","ESP",1,2021
+"Sri Lanka","LKA",1,2021
+"Sudan","SDN",1,2021
+"Suriname","SUR",1,2021
+"Sweden","SWE",1,2021
+"Switzerland","CHE",1,2021
+"Syrian Arab Republic","SYR",1,2021
+"Tajikistan","TJK",1,2021
+"Thailand","THA",1,2021
+"Togo","TGO",1,2021
+"Trinidad and Tobago","TTO",1,2021
+"Tunisia","TUN",1,2021
+"Turkey","TUR",1,2021
+"Turkmenistan","TKM",1,2021
+"Ukraine","UKR",1,2021
+"United Arab Emirates","ARE",1,2021
+"United Kingdom","GBR",1,2021
+"United States","USA",1,2021
+"Uruguay","URY",1,2021
+"Uzbekistan","UZB",1,2021
+"Venezuela","VEN",1,2021
+"Vietnam","VNM",1,2021
+"Zambia","ZMB",1,2021
+"Zimbabwe","ZWE",1,2021

@@ -29,7 +29,7 @@ gdp <- rbind(gdp_h,gdp_p)
 
 #add ha
 #areas<-read.csv(paste0(data_in,'areas_future.csv'))
-areas<-read.csv(paste0(data_in,'area_gnrl_country_ha.csv'))
+areas<-read.csv(paste0(data_in_historic,'area_gnrl_country_ha.csv'))
 
 #merge the three socio-economic variables
 dim(gdp)
@@ -59,27 +59,40 @@ dim(DataIn)
 head(DataIn)
 
 #now add all variables 
-dir_data<- r"(C:\Users\L03054557\OneDrive\Edmundo-ITESM\3.Proyectos\42. LAC Decarbonization\calibration_lac_dec\observed_data\Energy\)"
+dir_data<- r"(C:\Users\L03054557\OneDrive\Edmundo-ITESM\3.Proyectos\42. LAC Decarbonization\sisepuede_data\Energy\)"
+#dir_data<- r"(C:\Users\L03054557\OneDrive\Edmundo-ITESM\3.Proyectos\42. LAC Decarbonization\calibration_lac_dec\observed_data\Energy\)"
 files<-list.files(dir_data)
-files<-subset(files,!(files%in%c("code","input_to_sisepuede","raw_data","nada.txt","nemomod_entc_residual_capacity_pp_waste_incineration_gw","README.md")))
-files
+files<-subset(files,!(files%in%c("code","input_to_sisepuede","raw_data","nada.txt","README.md")))
+filest <- files
 
-for (i in 1:length(files))
+
+for (i in 1:length(filest))
 {
-#i<-1
+#i<-5
 target_dir_historial <- r"(\input_to_sisepuede\historical\)"
 target_dir_projected <- r"(\input_to_sisepuede\projected\)"
 historical<-read.csv(paste0(dir_data,files[i],target_dir_historial,files[i],".csv"))
 projected<-read.csv(paste0(dir_data,files[i],target_dir_projected,files[i],".csv"))
+projected<-subset(projected,Year>max(historical$Year))
+
 all <- rbind(historical,projected)
 dim(all)
-all <-subset(all,Year%in%unique(DataIn$Year) & iso_code3%in%target_nations)
+subset(target_nations,!(target_nations%in%unique(all$iso_code3)))
+all <-subset(all,Year%in%unique(DataIn$Year))
+all <-subset(all,iso_code3%in%unique(DataIn$iso_code3))
 dim(all)
 all$Nation<-NULL
-DataIn <-Reduce(function(...) merge(...,), list(DataIn,all))
-dim(DataIn)
-rm(all)
+all$X<-NULL
+
+#if (nrow(all)>0) {
+  DataIn <-Reduce(function(...) merge(...,), list(DataIn,all))
+  dim(DataIn)
+  rm(all)
+#} else { rm(all)  }
+
 }
+dim(DataIn)
+
 
 #add fake data  
 dir.data<-r"(C:\Users\L03054557\Downloads\)"
@@ -93,7 +106,7 @@ DataIn$time_period<-DataIn$Year-2015
 
 DataIn <-Reduce(function(...) merge(...,), list(DataIn,fake_data_complete))
 dim(DataIn)
-write.csv(DataIn ,paste0(r"(C:\Users\L03054557\OneDrive\Edmundo-ITESM\3.Proyectos\42. LAC Decarbonization\Git-LAC-Calib\lac_decarbonization\calibration\SocioEconomic\input_to_sisepuede\for JAmes\)",'data_complete_future_2022_12_09_test.csv'),row.names=FALSE)
+write.csv(DataIn ,paste0(r"(C:\Users\L03054557\OneDrive\Edmundo-ITESM\3.Proyectos\42. LAC Decarbonization\Git-LAC-Calib\lac_decarbonization\calibration\SocioEconomic\input_to_sisepuede\for JAmes\)",'data_complete_future_2022_12_23_test2.csv'),row.names=FALSE)
 
 
 
