@@ -1,0 +1,27 @@
+
+date:        2022-07-12
+variable :
+  name : occrate_trns_passenger_per_vehicle_public
+  subsector :  Transportation
+  longname :  Average Passenger Vehicle Occupancy Rate
+
+
+  units: rate between 0 and 1
+
+resources:
+
+    - url:   https://www.eea.europa.eu/data-and-maps/indicators/occupancy-rates-of-passenger-vehicles/occupancy-rates-of-passenger-vehicles
+
+Last visited: 2022-07-12
+
+      descrip:   Percentage of seats occupied in some countries of Europe.
+
+aditional_information:
+      assumptions: -With the values of 
+
+'occrate_trns_passenger_per_vehicle_rail_passenger' and 'occrate_trns_passenger_per_vehicle_road_heavy_regional',
+
+the total public transportation occupation rate is given as the mean historical and projected value of them both.
+
+
+
