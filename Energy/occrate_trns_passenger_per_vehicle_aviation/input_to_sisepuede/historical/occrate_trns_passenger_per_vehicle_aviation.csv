@@ -1,4 +1,4 @@
-,Country,ISO3,Year,occrate_trns_passenger_per_vehicle_aviation
+,Nation,iso_code3,Year,occrate_trns_passenger_per_vehicle_aviation
 0,Aruba,ABW,1991,0.568
 1,Aruba,ABW,1992,0.5670000000000001
 2,Aruba,ABW,1993,0.579

@@ -1,4 +1,4 @@
-,Country,ISO3,Year,occrate_trns_passenger_per_vehicle_road_light
+,Nation,iso_code3,Year,occrate_trns_passenger_per_vehicle_road_light
 0,Aruba,ABW,1995,0.41825
 1,Aruba,ABW,1996,0.41825
 2,Aruba,ABW,1997,0.41825
