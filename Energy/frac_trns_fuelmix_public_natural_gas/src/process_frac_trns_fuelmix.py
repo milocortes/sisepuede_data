@@ -36,11 +36,20 @@ for (edition, year), page in correspondence_tables.items():
     
     df_information["total"] = df_information["total"].str.replace(",","").astype(float)
 
+    # Fix to numeric data type
     for fuel in fuel_types:
         df_information[fuel] = df_information[fuel].str.replace("c","NaN")
         df_information[fuel] = df_information[fuel].str.replace(",", "").astype(float)
+
+    # Natural Gas is equal to natural_gas plus liquefied_petroleum_gas
+    df_information.fillna(0, inplace = True)
+    df_information["natural_gas"] = df_information["natural_gas"] + df_information["liquefied_petroleum_gas"] 
+
+    """
+    for fuel in fuel_types:
         df_information[fuel] = df_information[fuel]/df_information["total"] 
         df_information[fuel] = df_information[fuel].round(3)
+    """
 
     df_information = df_information[["transportation_mode"] + fuel_types].fillna(0)
     df_information["transportation_mode"] = df_information["transportation_mode"].str.lower()
@@ -100,6 +109,18 @@ for trans_type_trns, trans_type_sise  in  transportation_mode_corr_te_sisepuede.
         df_var_sisepuede_to_build = pd.DataFrame({"Year" : time_period, resto_var_sisepuede : [0.0]*len(time_period)})
         save_dfs_by_transport_type[f"frac_trns_fuelmix_{trans_type_sise}"][resto_var_sisepuede] = df_var_sisepuede_to_build
 
+## Compute shares by each mode of trasnportation
+time_period = range(2008, 2020)
+
+for k, v in save_dfs_by_transport_type.items(): 
+    
+    total = pd.Series([0.0]*len(time_period))
+    
+    for var_sise, df_sise in v.items():
+        total += df_sise[var_sise]
+
+    for var_sise, df_sise in v.items():
+        df_sise[var_sise] = df_sise[var_sise]/total
 
 ## Test sum equal to 1 for each transport_type
 
