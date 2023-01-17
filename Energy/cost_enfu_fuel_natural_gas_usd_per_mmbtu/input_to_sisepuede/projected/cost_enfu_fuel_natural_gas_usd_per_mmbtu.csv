@@ -1,4 +1,4 @@
-,Country,ISO3,Year,cost_enfu_fuel_natural_gas_usd_per_mmbtu
+,Nation,iso_code3,Year,cost_enfu_fuel_natural_gas_usd_per_mmbtu
 0,Aruba,ABW,2022.0,10.234523309458606
 1,Aruba,ABW,2023.0,10.234523309458606
 2,Aruba,ABW,2024.0,10.234523309458606

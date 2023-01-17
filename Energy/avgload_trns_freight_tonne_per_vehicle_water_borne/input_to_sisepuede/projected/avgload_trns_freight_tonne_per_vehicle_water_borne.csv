@@ -1,4 +1,4 @@
-,Country,ISO3,Year,avgload_trns_freight_tonne_per_vehicle_water_borne
+,Nation,iso_code3,Year,avgload_trns_freight_tonne_per_vehicle_water_borne
 0,Aruba,ABW,2023,145000.0
 1,Aruba,ABW,2024,145000.0
 2,Aruba,ABW,2025,145000.0

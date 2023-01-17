@@ -1,4 +1,4 @@
-,Country,ISO3,Year,cost_enfu_fuel_oil_usd_per_m3
+,Nation,iso_code3,Year,cost_enfu_fuel_oil_usd_per_m3
 0,Aruba,ABW,2022.0,445.9649123840332
 1,Aruba,ABW,2023.0,445.9649123840332
 2,Aruba,ABW,2024.0,445.9649123840332
