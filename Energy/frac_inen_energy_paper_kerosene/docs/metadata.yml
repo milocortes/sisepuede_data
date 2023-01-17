@@ -1,0 +1,17 @@
+date:        2023-01-017
+variable :
+  name : frac_inen_energy
+  subsector : Industrial Energy
+  longname : Share of fuel type in industrial sector
+  units: Percentage
+
+resources:
+    - url:   A4786
+      descrip:   Water Bucket (Filled)
+
+aditional_information:
+      assumptions: >
+            Follow the Yellow Brick
+            Road to the Emerald City.
+            Pay no attention to the
+            man behind the curtain.
