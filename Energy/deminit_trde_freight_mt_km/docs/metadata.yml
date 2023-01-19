@@ -1,0 +1,18 @@
+date:        2022-25-11
+variable :
+  name : deminit_trde_freight_mt_km
+  subsector :   Transport
+  longname :  Initial Megatonne-Kilometer Demand
+
+
+  units:  MT/km
+
+resources:
+    - url:   https://data.oecd.org/transport/freight-transport.htm#indicator-chart
+
+aditional_information:
+
+      assumptions: Variable value of countries not present in the data set are found as follow:
+
+	caountry_val = 1/N_df*sum(MT-Km_df/TJ_df)*TJ_coutry
+
