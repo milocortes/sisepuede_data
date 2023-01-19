@@ -14,5 +14,5 @@ aditional_information:
 
       assumptions: Variable value of countries not present in the data set are found as follow:
 
-	caountry_val = 1/N_df*sum(MT-Km_df/TJ_df)*TJ_coutry
+	country_val = 1/N_df*sum(MT-Km_df/TJ_df)*TJ_coutry
 
