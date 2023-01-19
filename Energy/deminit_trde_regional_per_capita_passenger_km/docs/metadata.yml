@@ -16,3 +16,5 @@ aditional_information:
 
 	caountry_val = 1/N_df*sum((PK-P)_df/TJ_df)*TJ_coutry
 
+-Data values not present in neither datasets are found as the 25 quartile of the data in https://data.oecd.org/transport/freight-transport.htm#indicator-chart
+

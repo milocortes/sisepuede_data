@@ -12,7 +12,14 @@ resources:
 
 aditional_information:
 
-      assumptions: Variable value of countries not present in the data set are found as follow:
+      assumptions: 
+	
+	-Data value of countries not present in the data set are found as follow:
 
 	country_val = 1/N_df*sum(MT-Km_df/TJ_df)*TJ_coutry
+
+	using the energy dataset for the TJ values.
+	
+	-Data values not present in neither datasets are found as the 25 quartile of the data in https://data.oecd.org/transport/freight-transport.htm#indicator-chart
+	
 
