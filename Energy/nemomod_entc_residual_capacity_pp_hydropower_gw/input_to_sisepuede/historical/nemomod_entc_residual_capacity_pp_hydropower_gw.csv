@@ -39,18 +39,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,afghanistan,AFG,0.0
 2008,afghanistan,AFG,0.0
 2009,afghanistan,AFG,0.0
-2010,afghanistan,AFG,0.0
-2011,afghanistan,AFG,0.0
-2012,afghanistan,AFG,0.0
-2013,afghanistan,AFG,0.0
-2014,afghanistan,AFG,0.0
-2015,afghanistan,AFG,0.0
-2016,afghanistan,AFG,0.0
-2017,afghanistan,AFG,0.0
-2018,afghanistan,AFG,0.0
-2019,afghanistan,AFG,0.0
-2020,afghanistan,AFG,0.0
-2021,afghanistan,AFG,0.0
+2010,afghanistan,AFG,0.23855
+2011,afghanistan,AFG,0.23855
+2012,afghanistan,AFG,0.23855
+2013,afghanistan,AFG,0.23855
+2014,afghanistan,AFG,0.23855
+2015,afghanistan,AFG,0.23855
+2016,afghanistan,AFG,0.23855
+2017,afghanistan,AFG,0.23855
+2018,afghanistan,AFG,0.23855
+2019,afghanistan,AFG,0.23855
+2020,afghanistan,AFG,0.23855
+2021,afghanistan,AFG,0.23855
 1970,albania,ALB,0.081
 1971,albania,ALB,0.331
 1972,albania,ALB,0.331
@@ -299,18 +299,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,angola,AGO,0.0
 2008,angola,AGO,0.0
 2009,angola,AGO,0.0
-2010,angola,AGO,0.0
-2011,angola,AGO,0.0
-2012,angola,AGO,0.0
-2013,angola,AGO,0.0
-2014,angola,AGO,0.0
-2015,angola,AGO,0.0
-2016,angola,AGO,0.0
-2017,angola,AGO,0.0
-2018,angola,AGO,0.0
-2019,angola,AGO,0.0
-2020,angola,AGO,0.0
-2021,angola,AGO,0.0
+2010,angola,AGO,0.7706000000000001
+2011,angola,AGO,0.7706000000000001
+2012,angola,AGO,0.7706000000000001
+2013,angola,AGO,0.7706000000000001
+2014,angola,AGO,0.7706000000000001
+2015,angola,AGO,0.7706000000000001
+2016,angola,AGO,0.7706000000000001
+2017,angola,AGO,0.7706000000000001
+2018,angola,AGO,0.7706000000000001
+2019,angola,AGO,0.7706000000000001
+2020,angola,AGO,0.7706000000000001
+2021,angola,AGO,0.7706000000000001
 1970,anguila,AIA,0.0
 1971,anguila,AIA,0.0
 1972,anguila,AIA,0.0
@@ -416,24 +416,24 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2020,antigua and barbuda,ATG,0.0
 2021,antigua and barbuda,ATG,0.0
 1970,argentina,ARG,0.55826
-1971,argentina,ARG,0.5752600000000001
-1972,argentina,ARG,0.6382600000000002
-1973,argentina,ARG,0.6382600000000002
-1974,argentina,ARG,0.6382600000000002
-1975,argentina,ARG,1.8382600000000002
-1976,argentina,ARG,1.8572600000000004
-1977,argentina,ARG,1.9852600000000002
-1978,argentina,ARG,2.559259999999999
-1979,argentina,ARG,3.031259999999999
-1980,argentina,ARG,3.9762599999999995
-1981,argentina,ARG,4.02126
-1982,argentina,ARG,4.15126
-1983,argentina,ARG,4.375259999999999
-1984,argentina,ARG,4.375259999999999
-1985,argentina,ARG,4.375259999999999
-1986,argentina,ARG,5.125259999999999
-1987,argentina,ARG,6.17526
-1988,argentina,ARG,6.17526
+1971,argentina,ARG,0.57526
+1972,argentina,ARG,0.63826
+1973,argentina,ARG,0.63826
+1974,argentina,ARG,0.63826
+1975,argentina,ARG,1.83826
+1976,argentina,ARG,1.8572600000000001
+1977,argentina,ARG,1.98526
+1978,argentina,ARG,2.55926
+1979,argentina,ARG,3.03126
+1980,argentina,ARG,3.9762600000000003
+1981,argentina,ARG,4.021260000000001
+1982,argentina,ARG,4.151260000000001
+1983,argentina,ARG,4.37526
+1984,argentina,ARG,4.37526
+1985,argentina,ARG,4.37526
+1986,argentina,ARG,5.12526
+1987,argentina,ARG,6.175260000000001
+1988,argentina,ARG,6.175260000000001
 1989,argentina,ARG,6.18966
 1990,argentina,ARG,6.18966
 1991,argentina,ARG,6.30966
@@ -442,31 +442,31 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 1994,argentina,ARG,7.70966
 1995,argentina,ARG,9.26596
 1996,argentina,ARG,9.325959999999998
-1997,argentina,ARG,9.336509999999999
-1998,argentina,ARG,9.336509999999999
-1999,argentina,ARG,9.621509999999999
-2000,argentina,ARG,9.621509999999999
-2001,argentina,ARG,9.621509999999999
-2002,argentina,ARG,9.741509999999998
+1997,argentina,ARG,9.33651
+1998,argentina,ARG,9.33651
+1999,argentina,ARG,9.62151
+2000,argentina,ARG,9.62151
+2001,argentina,ARG,9.62151
+2002,argentina,ARG,9.74151
 2003,argentina,ARG,9.792209999999999
 2004,argentina,ARG,9.792209999999999
 2005,argentina,ARG,9.792209999999999
 2006,argentina,ARG,9.792209999999999
 2007,argentina,ARG,9.792209999999999
 2008,argentina,ARG,9.792209999999999
-2009,argentina,ARG,9.913609999999998
-2010,argentina,ARG,9.913609999999998
-2011,argentina,ARG,9.913609999999998
-2012,argentina,ARG,9.921509999999998
-2013,argentina,ARG,9.921509999999998
-2014,argentina,ARG,9.921509999999998
-2015,argentina,ARG,9.921509999999998
-2016,argentina,ARG,9.921509999999998
-2017,argentina,ARG,9.921509999999998
-2018,argentina,ARG,9.921509999999998
-2019,argentina,ARG,9.921509999999998
-2020,argentina,ARG,9.921509999999998
-2021,argentina,ARG,9.921509999999998
+2009,argentina,ARG,9.91361
+2010,argentina,ARG,9.99181
+2011,argentina,ARG,9.99181
+2012,argentina,ARG,9.999709999999999
+2013,argentina,ARG,9.999709999999999
+2014,argentina,ARG,9.999709999999999
+2015,argentina,ARG,9.999709999999999
+2016,argentina,ARG,9.999709999999999
+2017,argentina,ARG,9.999709999999999
+2018,argentina,ARG,9.999709999999999
+2019,argentina,ARG,9.999709999999999
+2020,argentina,ARG,9.999709999999999
+2021,argentina,ARG,9.999709999999999
 1970,armenia,ARM,0.158
 1971,armenia,ARM,0.158
 1972,armenia,ARM,0.158
@@ -507,18 +507,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,armenia,ARM,0.404
 2008,armenia,ARM,0.404
 2009,armenia,ARM,0.404
-2010,armenia,ARM,0.404
-2011,armenia,ARM,0.404
-2012,armenia,ARM,0.404
-2013,armenia,ARM,0.404
-2014,armenia,ARM,0.404
-2015,armenia,ARM,0.404
-2016,armenia,ARM,0.404
-2017,armenia,ARM,0.404
-2018,armenia,ARM,0.404
-2019,armenia,ARM,0.404
-2020,armenia,ARM,0.404
-2021,armenia,ARM,0.404
+2010,armenia,ARM,0.965
+2011,armenia,ARM,0.965
+2012,armenia,ARM,0.965
+2013,armenia,ARM,0.965
+2014,armenia,ARM,0.965
+2015,armenia,ARM,0.965
+2016,armenia,ARM,0.965
+2017,armenia,ARM,0.965
+2018,armenia,ARM,0.965
+2019,armenia,ARM,0.965
+2020,armenia,ARM,0.965
+2021,armenia,ARM,0.965
 1970,aruba,ABW,0.0
 1971,aruba,ABW,0.0
 1972,aruba,ABW,0.0
@@ -611,18 +611,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,australia,AUS,0.0
 2008,australia,AUS,0.0
 2009,australia,AUS,0.0
-2010,australia,AUS,0.0
-2011,australia,AUS,0.0
-2012,australia,AUS,0.0
-2013,australia,AUS,0.0
-2014,australia,AUS,0.0
-2015,australia,AUS,0.0
-2016,australia,AUS,0.0
-2017,australia,AUS,0.0
-2018,australia,AUS,0.0
-2019,australia,AUS,0.0
-2020,australia,AUS,0.0
-2021,australia,AUS,0.0
+2010,australia,AUS,8.5213
+2011,australia,AUS,8.5213
+2012,australia,AUS,8.5213
+2013,australia,AUS,8.5213
+2014,australia,AUS,8.5213
+2015,australia,AUS,8.5213
+2016,australia,AUS,8.5213
+2017,australia,AUS,8.5213
+2018,australia,AUS,8.5213
+2019,australia,AUS,8.5213
+2020,australia,AUS,8.5213
+2021,australia,AUS,8.5213
 1970,austria,AUT,3.4001
 1971,austria,AUT,3.4001
 1972,austria,AUT,3.4301
@@ -663,18 +663,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,austria,AUT,7.5981000000000005
 2008,austria,AUT,8.1231
 2009,austria,AUT,8.139100000000001
-2010,austria,AUT,8.139100000000001
-2011,austria,AUT,8.619100000000001
-2012,austria,AUT,8.619100000000001
-2013,austria,AUT,8.6411
-2014,austria,AUT,8.6411
-2015,austria,AUT,8.6411
-2016,austria,AUT,8.6411
-2017,austria,AUT,8.6411
-2018,austria,AUT,8.6411
-2019,austria,AUT,8.6411
-2020,austria,AUT,8.6411
-2021,austria,AUT,8.6411
+2010,austria,AUT,8.5701
+2011,austria,AUT,9.0501
+2012,austria,AUT,9.0501
+2013,austria,AUT,9.0721
+2014,austria,AUT,9.0721
+2015,austria,AUT,9.0721
+2016,austria,AUT,9.0721
+2017,austria,AUT,9.0721
+2018,austria,AUT,9.0721
+2019,austria,AUT,9.0721
+2020,austria,AUT,9.0721
+2021,austria,AUT,9.0721
 1970,azerbaijan,AZE,0.418
 1971,azerbaijan,AZE,0.418
 1972,azerbaijan,AZE,0.418
@@ -715,18 +715,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,azerbaijan,AZE,0.5680000000000001
 2008,azerbaijan,AZE,0.5680000000000001
 2009,azerbaijan,AZE,0.5680000000000001
-2010,azerbaijan,AZE,0.5680000000000001
-2011,azerbaijan,AZE,0.5680000000000001
-2012,azerbaijan,AZE,0.5690000000000001
-2013,azerbaijan,AZE,0.5690000000000001
-2014,azerbaijan,AZE,0.5690000000000001
-2015,azerbaijan,AZE,0.5690000000000001
-2016,azerbaijan,AZE,0.5690000000000001
-2017,azerbaijan,AZE,0.5690000000000001
-2018,azerbaijan,AZE,0.5690000000000001
-2019,azerbaijan,AZE,0.5690000000000001
-2020,azerbaijan,AZE,0.5690000000000001
-2021,azerbaijan,AZE,0.5690000000000001
+2010,azerbaijan,AZE,0.973
+2011,azerbaijan,AZE,0.973
+2012,azerbaijan,AZE,0.974
+2013,azerbaijan,AZE,0.974
+2014,azerbaijan,AZE,0.974
+2015,azerbaijan,AZE,0.974
+2016,azerbaijan,AZE,0.974
+2017,azerbaijan,AZE,0.974
+2018,azerbaijan,AZE,0.974
+2019,azerbaijan,AZE,0.974
+2020,azerbaijan,AZE,0.974
+2021,azerbaijan,AZE,0.974
 1970,bahamas,BHS,0.0
 1971,bahamas,BHS,0.0
 1972,bahamas,BHS,0.0
@@ -1027,18 +1027,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,belgium,BEL,0.0
 2008,belgium,BEL,0.0
 2009,belgium,BEL,0.0
-2010,belgium,BEL,0.0
-2011,belgium,BEL,0.0
-2012,belgium,BEL,0.0
-2013,belgium,BEL,0.0
-2014,belgium,BEL,0.0
-2015,belgium,BEL,0.0
-2016,belgium,BEL,0.0
-2017,belgium,BEL,0.0
-2018,belgium,BEL,0.0
-2019,belgium,BEL,0.0
-2020,belgium,BEL,0.0
-2021,belgium,BEL,0.0
+2010,belgium,BEL,1.3933
+2011,belgium,BEL,1.3933
+2012,belgium,BEL,1.3933
+2013,belgium,BEL,1.3933
+2014,belgium,BEL,1.3933
+2015,belgium,BEL,1.3933
+2016,belgium,BEL,1.3933
+2017,belgium,BEL,1.3933
+2018,belgium,BEL,1.3933
+2019,belgium,BEL,1.3933
+2020,belgium,BEL,1.3933
+2021,belgium,BEL,1.3933
 1970,belgium-luxembourg,BLX,0.0
 1971,belgium-luxembourg,BLX,0.0
 1972,belgium-luxembourg,BLX,0.0
@@ -1287,18 +1287,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,bhutan,BTN,0.0
 2008,bhutan,BTN,0.0
 2009,bhutan,BTN,0.0
-2010,bhutan,BTN,0.0
-2011,bhutan,BTN,0.0
-2012,bhutan,BTN,0.0
-2013,bhutan,BTN,0.0
-2014,bhutan,BTN,0.0
-2015,bhutan,BTN,0.0
-2016,bhutan,BTN,0.0
-2017,bhutan,BTN,0.0
-2018,bhutan,BTN,0.0
-2019,bhutan,BTN,0.0
-2020,bhutan,BTN,0.0
-2021,bhutan,BTN,0.0
+2010,bhutan,BTN,1.4822000000000002
+2011,bhutan,BTN,1.4822000000000002
+2012,bhutan,BTN,1.4822000000000002
+2013,bhutan,BTN,1.4822000000000002
+2014,bhutan,BTN,1.4822000000000002
+2015,bhutan,BTN,1.4822000000000002
+2016,bhutan,BTN,1.4822000000000002
+2017,bhutan,BTN,1.4822000000000002
+2018,bhutan,BTN,1.4822000000000002
+2019,bhutan,BTN,1.4822000000000002
+2020,bhutan,BTN,1.4822000000000002
+2021,bhutan,BTN,1.4822000000000002
 1970,bolivia,BOL,0.0
 1971,bolivia,BOL,0.0
 1972,bolivia,BOL,0.0
@@ -1339,18 +1339,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,bolivia,BOL,0.0
 2008,bolivia,BOL,0.0
 2009,bolivia,BOL,0.0
-2010,bolivia,BOL,0.0
-2011,bolivia,BOL,0.0
-2012,bolivia,BOL,0.0
-2013,bolivia,BOL,0.0
-2014,bolivia,BOL,0.0
-2015,bolivia,BOL,0.0
-2016,bolivia,BOL,0.0
-2017,bolivia,BOL,0.0
-2018,bolivia,BOL,0.0
-2019,bolivia,BOL,0.0
-2020,bolivia,BOL,0.0
-2021,bolivia,BOL,0.0
+2010,bolivia,BOL,0.44910000000000005
+2011,bolivia,BOL,0.44910000000000005
+2012,bolivia,BOL,0.44910000000000005
+2013,bolivia,BOL,0.44910000000000005
+2014,bolivia,BOL,0.44910000000000005
+2015,bolivia,BOL,0.44910000000000005
+2016,bolivia,BOL,0.44910000000000005
+2017,bolivia,BOL,0.44910000000000005
+2018,bolivia,BOL,0.44910000000000005
+2019,bolivia,BOL,0.44910000000000005
+2020,bolivia,BOL,0.44910000000000005
+2021,bolivia,BOL,0.44910000000000005
 1970,bosnia and herzegovina,BIH,0.0
 1971,bosnia and herzegovina,BIH,0.0
 1972,bosnia and herzegovina,BIH,0.0
@@ -1391,18 +1391,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,bosnia and herzegovina,BIH,0.0
 2008,bosnia and herzegovina,BIH,0.0
 2009,bosnia and herzegovina,BIH,0.0
-2010,bosnia and herzegovina,BIH,0.0
-2011,bosnia and herzegovina,BIH,0.0
-2012,bosnia and herzegovina,BIH,0.0
-2013,bosnia and herzegovina,BIH,0.0
-2014,bosnia and herzegovina,BIH,0.0
-2015,bosnia and herzegovina,BIH,0.0
-2016,bosnia and herzegovina,BIH,0.0
-2017,bosnia and herzegovina,BIH,0.0
-2018,bosnia and herzegovina,BIH,0.0
-2019,bosnia and herzegovina,BIH,0.0
-2020,bosnia and herzegovina,BIH,0.0
-2021,bosnia and herzegovina,BIH,0.0
+2010,bosnia and herzegovina,BIH,2.2055000000000002
+2011,bosnia and herzegovina,BIH,2.2055000000000002
+2012,bosnia and herzegovina,BIH,2.2055000000000002
+2013,bosnia and herzegovina,BIH,2.2055000000000002
+2014,bosnia and herzegovina,BIH,2.2055000000000002
+2015,bosnia and herzegovina,BIH,2.2055000000000002
+2016,bosnia and herzegovina,BIH,2.2055000000000002
+2017,bosnia and herzegovina,BIH,2.2055000000000002
+2018,bosnia and herzegovina,BIH,2.2055000000000002
+2019,bosnia and herzegovina,BIH,2.2055000000000002
+2020,bosnia and herzegovina,BIH,2.2055000000000002
+2021,bosnia and herzegovina,BIH,2.2055000000000002
 1970,botswana,BWA,0.0
 1971,botswana,BWA,0.0
 1972,botswana,BWA,0.0
@@ -1507,58 +1507,58 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2019,br. antr. terr,BAT,0.0
 2020,br. antr. terr,BAT,0.0
 2021,br. antr. terr,BAT,0.0
-1970,brazil,BRA,10.483431799999998
-1971,brazil,BRA,11.9616318
+1970,brazil,BRA,10.4834318
+1971,brazil,BRA,11.961631800000001
 1972,brazil,BRA,11.9629108
 1973,brazil,BRA,16.3267108
 1974,brazil,BRA,16.778710800000002
-1975,brazil,BRA,19.637662799999998
-1976,brazil,BRA,19.6396628
-1977,brazil,BRA,20.690962799999998
+1975,brazil,BRA,19.6376628
+1976,brazil,BRA,19.639662800000004
+1977,brazil,BRA,20.6909628
 1978,brazil,BRA,23.928189800000002
 1979,brazil,BRA,26.8909898
-1980,brazil,BRA,32.068489799999995
-1981,brazil,BRA,32.068489799999995
-1982,brazil,BRA,34.71565379999999
-1983,brazil,BRA,34.72989379999999
-1984,brazil,BRA,43.26597919999999
-1985,brazil,BRA,43.26741919999999
-1986,brazil,BRA,43.33277919999999
-1987,brazil,BRA,43.68977919999999
-1988,brazil,BRA,45.17452836999998
-1989,brazil,BRA,52.67789837000001
-1990,brazil,BRA,52.68189037000001
-1991,brazil,BRA,52.69622637000001
-1992,brazil,BRA,54.50827837000001
-1993,brazil,BRA,55.319728370000014
-1994,brazil,BRA,59.005183370000005
-1995,brazil,BRA,59.09045337000001
-1996,brazil,BRA,59.46575337000001
+1980,brazil,BRA,32.0684898
+1981,brazil,BRA,32.0684898
+1982,brazil,BRA,34.7156538
+1983,brazil,BRA,34.7298938
+1984,brazil,BRA,43.265979200000004
+1985,brazil,BRA,43.2674192
+1986,brazil,BRA,43.3327792
+1987,brazil,BRA,43.6897792
+1988,brazil,BRA,45.174528370000004
+1989,brazil,BRA,52.67789837
+1990,brazil,BRA,52.681890370000005
+1991,brazil,BRA,52.69622637
+1992,brazil,BRA,54.50827837
+1993,brazil,BRA,55.31972837
+1994,brazil,BRA,59.00518337
+1995,brazil,BRA,59.090453370000006
+1996,brazil,BRA,59.46575337
 1997,brazil,BRA,59.64876137
 1998,brazil,BRA,61.639563370000005
 1999,brazil,BRA,64.63862337
-2000,brazil,BRA,66.35628337000001
-2001,brazil,BRA,67.54793136999999
+2000,brazil,BRA,66.35628337
+2001,brazil,BRA,67.54793137
 2002,brazil,BRA,69.67282137000001
 2003,brazil,BRA,70.75079037
-2004,brazil,BRA,71.34869036999999
-2005,brazil,BRA,72.85675836999998
+2004,brazil,BRA,71.34869037
+2005,brazil,BRA,72.85675837
 2006,brazil,BRA,74.55556637000001
 2007,brazil,BRA,75.91162437000001
 2008,brazil,BRA,76.81164937
-2009,brazil,BRA,78.03499036999999
-2010,brazil,BRA,80.08844936999999
-2011,brazil,BRA,82.02381317
-2012,brazil,BRA,86.39852357
-2013,brazil,BRA,90.96361087000001
-2014,brazil,BRA,91.77148987
-2015,brazil,BRA,93.72444995999997
-2016,brazil,BRA,97.55302289999999
-2017,brazil,BRA,97.63191289999999
-2018,brazil,BRA,97.63191289999999
-2019,brazil,BRA,97.63191289999999
-2020,brazil,BRA,97.63191289999999
-2021,brazil,BRA,97.63191289999999
+2009,brazil,BRA,78.03499037
+2010,brazil,BRA,80.49592037000001
+2011,brazil,BRA,82.43128417
+2012,brazil,BRA,86.80599457
+2013,brazil,BRA,91.37108187
+2014,brazil,BRA,92.17896087
+2015,brazil,BRA,94.13192096
+2016,brazil,BRA,97.9604939
+2017,brazil,BRA,98.0393839
+2018,brazil,BRA,98.0393839
+2019,brazil,BRA,98.0393839
+2020,brazil,BRA,98.0393839
+2021,brazil,BRA,98.0393839
 1970,british indian ocean ter.,IOT,0.0
 1971,british indian ocean ter.,IOT,0.0
 1972,british indian ocean ter.,IOT,0.0
@@ -1755,18 +1755,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,bulgaria,BGR,0.0
 2008,bulgaria,BGR,0.0
 2009,bulgaria,BGR,0.0
-2010,bulgaria,BGR,0.0
-2011,bulgaria,BGR,0.0
-2012,bulgaria,BGR,0.0
-2013,bulgaria,BGR,0.0
-2014,bulgaria,BGR,0.0
-2015,bulgaria,BGR,0.0
-2016,bulgaria,BGR,0.0
-2017,bulgaria,BGR,0.0
-2018,bulgaria,BGR,0.0
-2019,bulgaria,BGR,0.0
-2020,bulgaria,BGR,0.0
-2021,bulgaria,BGR,0.0
+2010,bulgaria,BGR,1.958
+2011,bulgaria,BGR,1.958
+2012,bulgaria,BGR,1.958
+2013,bulgaria,BGR,1.958
+2014,bulgaria,BGR,1.958
+2015,bulgaria,BGR,1.958
+2016,bulgaria,BGR,1.958
+2017,bulgaria,BGR,1.958
+2018,bulgaria,BGR,1.958
+2019,bulgaria,BGR,1.958
+2020,bulgaria,BGR,1.958
+2021,bulgaria,BGR,1.958
 1970,burkina faso,BFA,0.0
 1971,burkina faso,BFA,0.0
 1972,burkina faso,BFA,0.0
@@ -1807,18 +1807,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,burkina faso,BFA,0.0
 2008,burkina faso,BFA,0.0
 2009,burkina faso,BFA,0.0
-2010,burkina faso,BFA,0.0
-2011,burkina faso,BFA,0.0
-2012,burkina faso,BFA,0.0
-2013,burkina faso,BFA,0.0
-2014,burkina faso,BFA,0.0
-2015,burkina faso,BFA,0.0
-2016,burkina faso,BFA,0.0
-2017,burkina faso,BFA,0.0
-2018,burkina faso,BFA,0.0
-2019,burkina faso,BFA,0.0
-2020,burkina faso,BFA,0.0
-2021,burkina faso,BFA,0.0
+2010,burkina faso,BFA,0.03
+2011,burkina faso,BFA,0.03
+2012,burkina faso,BFA,0.03
+2013,burkina faso,BFA,0.03
+2014,burkina faso,BFA,0.03
+2015,burkina faso,BFA,0.03
+2016,burkina faso,BFA,0.03
+2017,burkina faso,BFA,0.03
+2018,burkina faso,BFA,0.03
+2019,burkina faso,BFA,0.03
+2020,burkina faso,BFA,0.03
+2021,burkina faso,BFA,0.03
 1970,burundi,BDI,0.0
 1971,burundi,BDI,0.0
 1972,burundi,BDI,0.0
@@ -1859,18 +1859,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,burundi,BDI,0.0
 2008,burundi,BDI,0.0
 2009,burundi,BDI,0.0
-2010,burundi,BDI,0.0
-2011,burundi,BDI,0.0
-2012,burundi,BDI,0.0
-2013,burundi,BDI,0.0
-2014,burundi,BDI,0.0
-2015,burundi,BDI,0.0
-2016,burundi,BDI,0.0
-2017,burundi,BDI,0.0
-2018,burundi,BDI,0.0
-2019,burundi,BDI,0.0
-2020,burundi,BDI,0.0
-2021,burundi,BDI,0.0
+2010,burundi,BDI,0.04957
+2011,burundi,BDI,0.04957
+2012,burundi,BDI,0.04957
+2013,burundi,BDI,0.04957
+2014,burundi,BDI,0.04957
+2015,burundi,BDI,0.04957
+2016,burundi,BDI,0.04957
+2017,burundi,BDI,0.04957
+2018,burundi,BDI,0.04957
+2019,burundi,BDI,0.04957
+2020,burundi,BDI,0.04957
+2021,burundi,BDI,0.04957
 1970,cambodia,KHM,0.0
 1971,cambodia,KHM,0.0
 1972,cambodia,KHM,0.0
@@ -1963,18 +1963,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,cameroon,CMR,0.0
 2008,cameroon,CMR,0.0
 2009,cameroon,CMR,0.0
-2010,cameroon,CMR,0.0
-2011,cameroon,CMR,0.0
-2012,cameroon,CMR,0.0
-2013,cameroon,CMR,0.0
-2014,cameroon,CMR,0.0
-2015,cameroon,CMR,0.0
-2016,cameroon,CMR,0.0
-2017,cameroon,CMR,0.0
-2018,cameroon,CMR,0.0
-2019,cameroon,CMR,0.0
-2020,cameroon,CMR,0.0
-2021,cameroon,CMR,0.0
+2010,cameroon,CMR,0.6302000000000001
+2011,cameroon,CMR,0.6302000000000001
+2012,cameroon,CMR,0.6302000000000001
+2013,cameroon,CMR,0.6302000000000001
+2014,cameroon,CMR,0.6302000000000001
+2015,cameroon,CMR,0.6302000000000001
+2016,cameroon,CMR,0.6302000000000001
+2017,cameroon,CMR,0.6302000000000001
+2018,cameroon,CMR,0.6302000000000001
+2019,cameroon,CMR,0.6302000000000001
+2020,cameroon,CMR,0.6302000000000001
+2021,cameroon,CMR,0.6302000000000001
 1970,canada,CAN,0.0
 1971,canada,CAN,0.0
 1972,canada,CAN,0.0
@@ -2015,18 +2015,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,canada,CAN,0.0
 2008,canada,CAN,0.0
 2009,canada,CAN,0.0
-2010,canada,CAN,0.0
-2011,canada,CAN,0.0
-2012,canada,CAN,0.0
-2013,canada,CAN,0.0
-2014,canada,CAN,0.0
-2015,canada,CAN,0.0
-2016,canada,CAN,0.0
-2017,canada,CAN,0.0
-2018,canada,CAN,0.0
-2019,canada,CAN,0.0
-2020,canada,CAN,0.0
-2021,canada,CAN,0.0
+2010,canada,CAN,80.683
+2011,canada,CAN,80.683
+2012,canada,CAN,80.683
+2013,canada,CAN,80.683
+2014,canada,CAN,80.683
+2015,canada,CAN,80.683
+2016,canada,CAN,80.683
+2017,canada,CAN,80.683
+2018,canada,CAN,80.683
+2019,canada,CAN,80.683
+2020,canada,CAN,80.683
+2021,canada,CAN,80.683
 1970,cape verde,CPV,0.0
 1971,cape verde,CPV,0.0
 1972,cape verde,CPV,0.0
@@ -2171,18 +2171,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,central african republic,CAF,0.0
 2008,central african republic,CAF,0.0
 2009,central african republic,CAF,0.0
-2010,central african republic,CAF,0.0
-2011,central african republic,CAF,0.0
-2012,central african republic,CAF,0.0
-2013,central african republic,CAF,0.0
-2014,central african republic,CAF,0.0
-2015,central african republic,CAF,0.0
-2016,central african republic,CAF,0.0
-2017,central african republic,CAF,0.0
-2018,central african republic,CAF,0.0
-2019,central african republic,CAF,0.0
-2020,central african republic,CAF,0.0
-2021,central african republic,CAF,0.0
+2010,central african republic,CAF,0.0193
+2011,central african republic,CAF,0.0193
+2012,central african republic,CAF,0.0193
+2013,central african republic,CAF,0.0193
+2014,central african republic,CAF,0.0193
+2015,central african republic,CAF,0.0193
+2016,central african republic,CAF,0.0193
+2017,central african republic,CAF,0.0193
+2018,central african republic,CAF,0.0193
+2019,central african republic,CAF,0.0193
+2020,central african republic,CAF,0.0193
+2021,central african republic,CAF,0.0193
 1970,chad,TCD,0.0
 1971,chad,TCD,0.0
 1972,chad,TCD,0.0
@@ -2275,18 +2275,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,chile,CHL,0.0
 2008,chile,CHL,0.0
 2009,chile,CHL,0.0
-2010,chile,CHL,0.0
-2011,chile,CHL,0.0
-2012,chile,CHL,0.0
-2013,chile,CHL,0.0
-2014,chile,CHL,0.0
-2015,chile,CHL,0.0
-2016,chile,CHL,0.0
-2017,chile,CHL,0.0
-2018,chile,CHL,0.0
-2019,chile,CHL,0.0
-2020,chile,CHL,0.0
-2021,chile,CHL,0.0
+2010,chile,CHL,6.41
+2011,chile,CHL,6.41
+2012,chile,CHL,6.41
+2013,chile,CHL,6.41
+2014,chile,CHL,6.41
+2015,chile,CHL,6.41
+2016,chile,CHL,6.41
+2017,chile,CHL,6.41
+2018,chile,CHL,6.41
+2019,chile,CHL,6.41
+2020,chile,CHL,6.41
+2021,chile,CHL,6.41
 1970,china,CHN,6.282
 1971,china,CHN,6.682
 1972,china,CHN,6.682
@@ -2296,15 +2296,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 1976,china,CHN,8.762
 1977,china,CHN,9.062
 1978,china,CHN,9.334
-1979,china,CHN,12.7472
-1980,china,CHN,13.447199999999999
-1981,china,CHN,13.597199999999999
-1982,china,CHN,13.597199999999999
-1983,china,CHN,14.847199999999999
-1984,china,CHN,14.847199999999999
-1985,china,CHN,15.117199999999999
-1986,china,CHN,19.297199999999997
-1987,china,CHN,19.297199999999997
+1979,china,CHN,12.747200000000001
+1980,china,CHN,13.4472
+1981,china,CHN,13.5972
+1982,china,CHN,13.5972
+1983,china,CHN,14.8472
+1984,china,CHN,14.8472
+1985,china,CHN,15.1172
+1986,china,CHN,19.2972
+1987,china,CHN,19.2972
 1988,china,CHN,19.5972
 1989,china,CHN,19.5972
 1990,china,CHN,20.3972
@@ -2314,31 +2314,31 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 1994,china,CHN,29.537200000000002
 1995,china,CHN,32.8317
 1996,china,CHN,34.7317
-1997,china,CHN,37.6837
-1998,china,CHN,38.233700000000006
-1999,china,CHN,38.673700000000004
-2000,china,CHN,47.553700000000006
-2001,china,CHN,47.633700000000005
-2002,china,CHN,47.643299999999996
-2003,china,CHN,70.1433
-2004,china,CHN,72.5003
-2005,china,CHN,74.29329999999999
-2006,china,CHN,79.61129999999999
-2007,china,CHN,82.80129999999998
-2008,china,CHN,87.83429999999998
-2009,china,CHN,101.09029999999998
-2010,china,CHN,109.5303
-2011,china,CHN,115.24029999999999
-2012,china,CHN,120.85329999999999
-2013,china,CHN,139.27329999999998
-2014,china,CHN,154.2413
-2015,china,CHN,157.9213
-2016,china,CHN,169.1413
-2017,china,CHN,169.1413
-2018,china,CHN,169.1413
-2019,china,CHN,169.1413
-2020,china,CHN,169.1413
-2021,china,CHN,169.1413
+1997,china,CHN,37.683699999999995
+1998,china,CHN,38.2337
+1999,china,CHN,38.6737
+2000,china,CHN,47.5537
+2001,china,CHN,47.6337
+2002,china,CHN,47.6433
+2003,china,CHN,70.14330000000001
+2004,china,CHN,72.50030000000001
+2005,china,CHN,74.2933
+2006,china,CHN,79.6113
+2007,china,CHN,82.8013
+2008,china,CHN,87.8343
+2009,china,CHN,101.0903
+2010,china,CHN,199.4146
+2011,china,CHN,205.12460000000002
+2012,china,CHN,210.73760000000001
+2013,china,CHN,229.1576
+2014,china,CHN,244.12560000000002
+2015,china,CHN,247.8056
+2016,china,CHN,259.0256
+2017,china,CHN,259.0256
+2018,china,CHN,259.0256
+2019,china,CHN,259.0256
+2020,china,CHN,259.0256
+2021,china,CHN,259.0256
 1970,christmas island,CXR,0.0
 1971,christmas island,CXR,0.0
 1972,christmas island,CXR,0.0
@@ -2483,18 +2483,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,colombia,COL,0.0
 2008,colombia,COL,0.0
 2009,colombia,COL,0.0
-2010,colombia,COL,0.0
-2011,colombia,COL,0.0
-2012,colombia,COL,0.0
-2013,colombia,COL,0.0
-2014,colombia,COL,0.0
-2015,colombia,COL,0.0
-2016,colombia,COL,0.0
-2017,colombia,COL,0.0
-2018,colombia,COL,0.0
-2019,colombia,COL,0.0
-2020,colombia,COL,0.0
-2021,colombia,COL,0.0
+2010,colombia,COL,6.694
+2011,colombia,COL,6.694
+2012,colombia,COL,6.694
+2013,colombia,COL,6.694
+2014,colombia,COL,6.694
+2015,colombia,COL,6.694
+2016,colombia,COL,6.694
+2017,colombia,COL,6.694
+2018,colombia,COL,6.694
+2019,colombia,COL,6.694
+2020,colombia,COL,6.694
+2021,colombia,COL,6.694
 1970,comoros,COM,0.0
 1971,comoros,COM,0.0
 1972,comoros,COM,0.0
@@ -2639,18 +2639,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,"congo, rep.",COG,2.603
 2008,"congo, rep.",COG,2.603
 2009,"congo, rep.",COG,2.603
-2010,"congo, rep.",COG,2.603
-2011,"congo, rep.",COG,2.723
-2012,"congo, rep.",COG,2.723
-2013,"congo, rep.",COG,2.723
-2014,"congo, rep.",COG,2.723
-2015,"congo, rep.",COG,2.7368
-2016,"congo, rep.",COG,2.8008
-2017,"congo, rep.",COG,2.9508
-2018,"congo, rep.",COG,2.9508
-2019,"congo, rep.",COG,2.9508
-2020,"congo, rep.",COG,2.9508
-2021,"congo, rep.",COG,2.9508
+2010,"congo, rep.",COG,2.6710000000000003
+2011,"congo, rep.",COG,2.791
+2012,"congo, rep.",COG,2.791
+2013,"congo, rep.",COG,2.791
+2014,"congo, rep.",COG,2.791
+2015,"congo, rep.",COG,2.8048
+2016,"congo, rep.",COG,2.8688000000000002
+2017,"congo, rep.",COG,3.0188
+2018,"congo, rep.",COG,3.0188
+2019,"congo, rep.",COG,3.0188
+2020,"congo, rep.",COG,3.0188
+2021,"congo, rep.",COG,3.0188
 1970,cook islands,COK,0.0
 1971,cook islands,COK,0.0
 1972,cook islands,COK,0.0
@@ -2743,18 +2743,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,costa_rica,CRI,0.0
 2008,costa_rica,CRI,0.0
 2009,costa_rica,CRI,0.0
-2010,costa_rica,CRI,0.0
-2011,costa_rica,CRI,0.0
-2012,costa_rica,CRI,0.0
-2013,costa_rica,CRI,0.0
-2014,costa_rica,CRI,0.0
-2015,costa_rica,CRI,0.0
-2016,costa_rica,CRI,0.0
-2017,costa_rica,CRI,0.0
-2018,costa_rica,CRI,0.0
-2019,costa_rica,CRI,0.0
-2020,costa_rica,CRI,0.0
-2021,costa_rica,CRI,0.0
+2010,costa_rica,CRI,1.298
+2011,costa_rica,CRI,1.298
+2012,costa_rica,CRI,1.298
+2013,costa_rica,CRI,1.298
+2014,costa_rica,CRI,1.298
+2015,costa_rica,CRI,1.298
+2016,costa_rica,CRI,1.298
+2017,costa_rica,CRI,1.298
+2018,costa_rica,CRI,1.298
+2019,costa_rica,CRI,1.298
+2020,costa_rica,CRI,1.298
+2021,costa_rica,CRI,1.298
 1970,cote d'ivoire,CIV,0.0
 1971,cote d'ivoire,CIV,0.0
 1972,cote d'ivoire,CIV,0.0
@@ -2847,18 +2847,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,croatia,HRV,0.0
 2008,croatia,HRV,0.0
 2009,croatia,HRV,0.0
-2010,croatia,HRV,0.0
-2011,croatia,HRV,0.0
-2012,croatia,HRV,0.0
-2013,croatia,HRV,0.0
-2014,croatia,HRV,0.0
-2015,croatia,HRV,0.0
-2016,croatia,HRV,0.0
-2017,croatia,HRV,0.0
-2018,croatia,HRV,0.0
-2019,croatia,HRV,0.0
-2020,croatia,HRV,0.0
-2021,croatia,HRV,0.0
+2010,croatia,HRV,1.6227
+2011,croatia,HRV,1.6227
+2012,croatia,HRV,1.6227
+2013,croatia,HRV,1.6227
+2014,croatia,HRV,1.6227
+2015,croatia,HRV,1.6227
+2016,croatia,HRV,1.6227
+2017,croatia,HRV,1.6227
+2018,croatia,HRV,1.6227
+2019,croatia,HRV,1.6227
+2020,croatia,HRV,1.6227
+2021,croatia,HRV,1.6227
 1970,cuba,CUB,0.0
 1971,cuba,CUB,0.0
 1972,cuba,CUB,0.0
@@ -3003,18 +3003,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,czech republic,CZE,1.302
 2008,czech republic,CZE,1.302
 2009,czech republic,CZE,1.302
-2010,czech republic,CZE,1.302
-2011,czech republic,CZE,1.302
-2012,czech republic,CZE,1.302
-2013,czech republic,CZE,1.302
-2014,czech republic,CZE,1.302
-2015,czech republic,CZE,1.302
-2016,czech republic,CZE,1.302
-2017,czech republic,CZE,1.302
-2018,czech republic,CZE,1.302
-2019,czech republic,CZE,1.302
-2020,czech republic,CZE,1.302
-2021,czech republic,CZE,1.302
+2010,czech republic,CZE,1.827
+2011,czech republic,CZE,1.827
+2012,czech republic,CZE,1.827
+2013,czech republic,CZE,1.827
+2014,czech republic,CZE,1.827
+2015,czech republic,CZE,1.827
+2016,czech republic,CZE,1.827
+2017,czech republic,CZE,1.827
+2018,czech republic,CZE,1.827
+2019,czech republic,CZE,1.827
+2020,czech republic,CZE,1.827
+2021,czech republic,CZE,1.827
 1970,czechoslovakia,CSK,0.0
 1971,czechoslovakia,CSK,0.0
 1972,czechoslovakia,CSK,0.0
@@ -3263,18 +3263,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,dominican_republic,DOM,0.0
 2008,dominican_republic,DOM,0.0
 2009,dominican_republic,DOM,0.0
-2010,dominican_republic,DOM,0.0
-2011,dominican_republic,DOM,0.0
-2012,dominican_republic,DOM,0.0
-2013,dominican_republic,DOM,0.0
-2014,dominican_republic,DOM,0.0
-2015,dominican_republic,DOM,0.0
-2016,dominican_republic,DOM,0.0
-2017,dominican_republic,DOM,0.0
-2018,dominican_republic,DOM,0.0
-2019,dominican_republic,DOM,0.0
-2020,dominican_republic,DOM,0.0
-2021,dominican_republic,DOM,0.0
+2010,dominican_republic,DOM,0.22709000000000001
+2011,dominican_republic,DOM,0.22709000000000001
+2012,dominican_republic,DOM,0.22709000000000001
+2013,dominican_republic,DOM,0.22709000000000001
+2014,dominican_republic,DOM,0.22709000000000001
+2015,dominican_republic,DOM,0.22709000000000001
+2016,dominican_republic,DOM,0.22709000000000001
+2017,dominican_republic,DOM,0.22709000000000001
+2018,dominican_republic,DOM,0.22709000000000001
+2019,dominican_republic,DOM,0.22709000000000001
+2020,dominican_republic,DOM,0.22709000000000001
+2021,dominican_republic,DOM,0.22709000000000001
 1970,east timor,TMP,0.0
 1971,east timor,TMP,0.0
 1972,east timor,TMP,0.0
@@ -3367,18 +3367,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,ecuador,ECU,0.0
 2008,ecuador,ECU,0.0
 2009,ecuador,ECU,0.0
-2010,ecuador,ECU,1.5
-2011,ecuador,ECU,1.5
-2012,ecuador,ECU,1.5
-2013,ecuador,ECU,1.5
-2014,ecuador,ECU,1.5
-2015,ecuador,ECU,1.565
-2016,ecuador,ECU,1.565
-2017,ecuador,ECU,1.565
-2018,ecuador,ECU,1.565
-2019,ecuador,ECU,1.565
-2020,ecuador,ECU,1.565
-2021,ecuador,ECU,1.565
+2010,ecuador,ECU,3.1893200000000004
+2011,ecuador,ECU,3.1893200000000004
+2012,ecuador,ECU,3.1893200000000004
+2013,ecuador,ECU,3.1893200000000004
+2014,ecuador,ECU,3.1893200000000004
+2015,ecuador,ECU,3.2543200000000003
+2016,ecuador,ECU,3.2543200000000003
+2017,ecuador,ECU,3.2543200000000003
+2018,ecuador,ECU,3.2543200000000003
+2019,ecuador,ECU,3.2543200000000003
+2020,ecuador,ECU,3.2543200000000003
+2021,ecuador,ECU,3.2543200000000003
 1970,"egypt, arab rep.",EGY,2.1
 1971,"egypt, arab rep.",EGY,2.1
 1972,"egypt, arab rep.",EGY,2.1
@@ -3471,18 +3471,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,el_salvador,SLV,0.0
 2008,el_salvador,SLV,0.0
 2009,el_salvador,SLV,0.0
-2010,el_salvador,SLV,0.0
-2011,el_salvador,SLV,0.0
-2012,el_salvador,SLV,0.0
-2013,el_salvador,SLV,0.0
-2014,el_salvador,SLV,0.0
-2015,el_salvador,SLV,0.0
-2016,el_salvador,SLV,0.0
-2017,el_salvador,SLV,0.0
-2018,el_salvador,SLV,0.0
-2019,el_salvador,SLV,0.0
-2020,el_salvador,SLV,0.0
-2021,el_salvador,SLV,0.0
+2010,el_salvador,SLV,0.4693
+2011,el_salvador,SLV,0.4693
+2012,el_salvador,SLV,0.4693
+2013,el_salvador,SLV,0.4693
+2014,el_salvador,SLV,0.4693
+2015,el_salvador,SLV,0.4693
+2016,el_salvador,SLV,0.4693
+2017,el_salvador,SLV,0.4693
+2018,el_salvador,SLV,0.4693
+2019,el_salvador,SLV,0.4693
+2020,el_salvador,SLV,0.4693
+2021,el_salvador,SLV,0.4693
 1970,equatorial guinea,GNQ,0.0
 1971,equatorial guinea,GNQ,0.0
 1972,equatorial guinea,GNQ,0.0
@@ -3523,18 +3523,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,equatorial guinea,GNQ,0.0
 2008,equatorial guinea,GNQ,0.0
 2009,equatorial guinea,GNQ,0.0
-2010,equatorial guinea,GNQ,0.0
-2011,equatorial guinea,GNQ,0.0
-2012,equatorial guinea,GNQ,0.0
-2013,equatorial guinea,GNQ,0.0
-2014,equatorial guinea,GNQ,0.0
-2015,equatorial guinea,GNQ,0.0
-2016,equatorial guinea,GNQ,0.0
-2017,equatorial guinea,GNQ,0.0
-2018,equatorial guinea,GNQ,0.0
-2019,equatorial guinea,GNQ,0.0
-2020,equatorial guinea,GNQ,0.0
-2021,equatorial guinea,GNQ,0.0
+2010,equatorial guinea,GNQ,0.12
+2011,equatorial guinea,GNQ,0.12
+2012,equatorial guinea,GNQ,0.12
+2013,equatorial guinea,GNQ,0.12
+2014,equatorial guinea,GNQ,0.12
+2015,equatorial guinea,GNQ,0.12
+2016,equatorial guinea,GNQ,0.12
+2017,equatorial guinea,GNQ,0.12
+2018,equatorial guinea,GNQ,0.12
+2019,equatorial guinea,GNQ,0.12
+2020,equatorial guinea,GNQ,0.12
+2021,equatorial guinea,GNQ,0.12
 1970,eritrea,ERI,0.0
 1971,eritrea,ERI,0.0
 1972,eritrea,ERI,0.0
@@ -3731,18 +3731,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,ethiopia (includes eritrea),ETF,0.5782
 2008,ethiopia (includes eritrea),ETF,0.5782
 2009,ethiopia (includes eritrea),ETF,0.8782000000000001
-2010,ethiopia (includes eritrea),ETF,1.7582
-2011,ethiopia (includes eritrea),ETF,1.8582
-2012,ethiopia (includes eritrea),ETF,1.8582
-2013,ethiopia (includes eritrea),ETF,1.8582
-2014,ethiopia (includes eritrea),ETF,1.8582
-2015,ethiopia (includes eritrea),ETF,3.7281999999999997
-2016,ethiopia (includes eritrea),ETF,3.7281999999999997
-2017,ethiopia (includes eritrea),ETF,3.7281999999999997
-2018,ethiopia (includes eritrea),ETF,3.7281999999999997
-2019,ethiopia (includes eritrea),ETF,3.7281999999999997
-2020,ethiopia (includes eritrea),ETF,3.7281999999999997
-2021,ethiopia (includes eritrea),ETF,3.7281999999999997
+2010,ethiopia (includes eritrea),ETF,1.8426
+2011,ethiopia (includes eritrea),ETF,1.9425999999999999
+2012,ethiopia (includes eritrea),ETF,1.9425999999999999
+2013,ethiopia (includes eritrea),ETF,1.9425999999999999
+2014,ethiopia (includes eritrea),ETF,1.9425999999999999
+2015,ethiopia (includes eritrea),ETF,3.8125999999999998
+2016,ethiopia (includes eritrea),ETF,3.8125999999999998
+2017,ethiopia (includes eritrea),ETF,3.8125999999999998
+2018,ethiopia (includes eritrea),ETF,3.8125999999999998
+2019,ethiopia (includes eritrea),ETF,3.8125999999999998
+2020,ethiopia (includes eritrea),ETF,3.8125999999999998
+2021,ethiopia (includes eritrea),ETF,3.8125999999999998
 1970,european union,EUN,0.0
 1971,european union,EUN,0.0
 1972,european union,EUN,0.0
@@ -3991,18 +3991,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,finland,FIN,0.0
 2008,finland,FIN,0.0
 2009,finland,FIN,0.0
-2010,finland,FIN,0.0
-2011,finland,FIN,0.0
-2012,finland,FIN,0.0
-2013,finland,FIN,0.0
-2014,finland,FIN,0.0
-2015,finland,FIN,0.0
-2016,finland,FIN,0.0
-2017,finland,FIN,0.0
-2018,finland,FIN,0.0
-2019,finland,FIN,0.0
-2020,finland,FIN,0.0
-2021,finland,FIN,0.0
+2010,finland,FIN,2.38232
+2011,finland,FIN,2.38232
+2012,finland,FIN,2.38232
+2013,finland,FIN,2.38232
+2014,finland,FIN,2.38232
+2015,finland,FIN,2.38232
+2016,finland,FIN,2.38232
+2017,finland,FIN,2.38232
+2018,finland,FIN,2.38232
+2019,finland,FIN,2.38232
+2020,finland,FIN,2.38232
+2021,finland,FIN,2.38232
 1970,fm panama cz,PCZ,0.0
 1971,fm panama cz,PCZ,0.0
 1972,fm panama cz,PCZ,0.0
@@ -4367,18 +4367,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2019,fr. so. ant. tr,ATF,0.0
 2020,fr. so. ant. tr,ATF,0.0
 2021,fr. so. ant. tr,ATF,0.0
-1970,france,FRA,2.7543999999999995
-1971,france,FRA,2.7954
-1972,france,FRA,2.7954
-1973,france,FRA,2.7954
-1974,france,FRA,2.8364
-1975,france,FRA,2.8364
-1976,france,FRA,2.9244
-1977,france,FRA,2.9623999999999997
-1978,france,FRA,2.9623999999999997
-1979,france,FRA,2.9623999999999997
-1980,france,FRA,3.1243999999999996
-1981,france,FRA,3.1243999999999996
+1970,france,FRA,2.7544
+1971,france,FRA,2.7954000000000003
+1972,france,FRA,2.7954000000000003
+1973,france,FRA,2.7954000000000003
+1974,france,FRA,2.8364000000000003
+1975,france,FRA,2.8364000000000003
+1976,france,FRA,2.9244000000000003
+1977,france,FRA,2.9624
+1978,france,FRA,2.9624
+1979,france,FRA,2.9624
+1980,france,FRA,3.1244
+1981,france,FRA,3.1244
 1982,france,FRA,3.2394000000000003
 1983,france,FRA,3.2394000000000003
 1984,france,FRA,3.4254000000000002
@@ -4407,18 +4407,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,france,FRA,3.5094000000000003
 2008,france,FRA,3.5094000000000003
 2009,france,FRA,3.5094000000000003
-2010,france,FRA,3.5094000000000003
-2011,france,FRA,3.5094000000000003
-2012,france,FRA,3.5094000000000003
-2013,france,FRA,3.5094000000000003
-2014,france,FRA,3.5094000000000003
-2015,france,FRA,3.5094000000000003
-2016,france,FRA,3.5094000000000003
-2017,france,FRA,3.5094000000000003
-2018,france,FRA,3.5094000000000003
-2019,france,FRA,3.5094000000000003
-2020,france,FRA,3.5094000000000003
-2021,france,FRA,3.5094000000000003
+2010,france,FRA,19.5057799
+2011,france,FRA,19.5057799
+2012,france,FRA,19.5057799
+2013,france,FRA,19.5057799
+2014,france,FRA,19.5057799
+2015,france,FRA,19.5057799
+2016,france,FRA,19.5057799
+2017,france,FRA,19.5057799
+2018,france,FRA,19.5057799
+2019,france,FRA,19.5057799
+2020,france,FRA,19.5057799
+2021,france,FRA,19.5057799
 1970,free zones,FRE,0.0
 1971,free zones,FRE,0.0
 1972,free zones,FRE,0.0
@@ -4615,18 +4615,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,gabon,GAB,0.0
 2008,gabon,GAB,0.0
 2009,gabon,GAB,0.0
-2010,gabon,GAB,0.0
-2011,gabon,GAB,0.0
-2012,gabon,GAB,0.0
-2013,gabon,GAB,0.0
-2014,gabon,GAB,0.0
-2015,gabon,GAB,0.0
-2016,gabon,GAB,0.0
-2017,gabon,GAB,0.0
-2018,gabon,GAB,0.0
-2019,gabon,GAB,0.0
-2020,gabon,GAB,0.0
-2021,gabon,GAB,0.0
+2010,gabon,GAB,0.28600000000000003
+2011,gabon,GAB,0.28600000000000003
+2012,gabon,GAB,0.28600000000000003
+2013,gabon,GAB,0.28600000000000003
+2014,gabon,GAB,0.28600000000000003
+2015,gabon,GAB,0.28600000000000003
+2016,gabon,GAB,0.28600000000000003
+2017,gabon,GAB,0.28600000000000003
+2018,gabon,GAB,0.28600000000000003
+2019,gabon,GAB,0.28600000000000003
+2020,gabon,GAB,0.28600000000000003
+2021,gabon,GAB,0.28600000000000003
 1970,"gambia, the",GMB,0.0
 1971,"gambia, the",GMB,0.0
 1972,"gambia, the",GMB,0.0
@@ -4771,18 +4771,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,georgia,GEO,0.0
 2008,georgia,GEO,0.0
 2009,georgia,GEO,0.0
-2010,georgia,GEO,0.0
-2011,georgia,GEO,0.0
-2012,georgia,GEO,0.0
-2013,georgia,GEO,0.0
-2014,georgia,GEO,0.0
-2015,georgia,GEO,0.0
-2016,georgia,GEO,0.0
-2017,georgia,GEO,0.0
-2018,georgia,GEO,0.0
-2019,georgia,GEO,0.0
-2020,georgia,GEO,0.0
-2021,georgia,GEO,0.0
+2010,georgia,GEO,2.5814000000000004
+2011,georgia,GEO,2.5814000000000004
+2012,georgia,GEO,2.5814000000000004
+2013,georgia,GEO,2.5814000000000004
+2014,georgia,GEO,2.5814000000000004
+2015,georgia,GEO,2.5814000000000004
+2016,georgia,GEO,2.5814000000000004
+2017,georgia,GEO,2.5814000000000004
+2018,georgia,GEO,2.5814000000000004
+2019,georgia,GEO,2.5814000000000004
+2020,georgia,GEO,2.5814000000000004
+2021,georgia,GEO,2.5814000000000004
 1970,german democratic republic,DDR,0.0
 1971,german democratic republic,DDR,0.0
 1972,german democratic republic,DDR,0.0
@@ -4835,58 +4835,58 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2019,german democratic republic,DDR,0.0
 2020,german democratic republic,DDR,0.0
 2021,german democratic republic,DDR,0.0
-1970,germany,DEU,4.295300000000001
-1971,germany,DEU,4.334300000000002
-1972,germany,DEU,4.334300000000002
-1973,germany,DEU,4.334300000000002
-1974,germany,DEU,4.978300000000001
-1975,germany,DEU,5.905000000000002
-1976,germany,DEU,5.905000000000002
-1977,germany,DEU,5.924400000000001
-1978,germany,DEU,5.936400000000002
-1979,germany,DEU,5.936400000000002
-1980,germany,DEU,6.993800000000003
-1981,germany,DEU,7.005800000000003
-1982,germany,DEU,7.052400000000002
-1983,germany,DEU,7.064800000000002
-1984,germany,DEU,7.089500000000002
-1985,germany,DEU,7.1266000000000025
-1986,germany,DEU,7.1266000000000025
-1987,germany,DEU,7.1266000000000025
-1988,germany,DEU,7.139200000000001
-1989,germany,DEU,7.292200000000002
-1990,germany,DEU,7.292200000000002
-1991,germany,DEU,7.306400000000002
-1992,germany,DEU,7.359700000000002
-1993,germany,DEU,7.359700000000002
-1994,germany,DEU,7.393800000000002
-1995,germany,DEU,7.393800000000002
-1996,germany,DEU,7.393800000000002
-1997,germany,DEU,7.393800000000002
-1998,germany,DEU,7.393800000000002
-1999,germany,DEU,7.393800000000002
-2000,germany,DEU,7.393800000000002
-2001,germany,DEU,7.393800000000002
-2002,germany,DEU,7.393800000000002
-2003,germany,DEU,7.393800000000002
-2004,germany,DEU,7.393800000000002
-2005,germany,DEU,7.393800000000002
-2006,germany,DEU,7.393800000000002
-2007,germany,DEU,7.393800000000002
-2008,germany,DEU,7.393800000000002
-2009,germany,DEU,7.417800000000002
-2010,germany,DEU,7.464500000000003
-2011,germany,DEU,7.464500000000003
-2012,germany,DEU,7.474400000000003
-2013,germany,DEU,7.474400000000003
-2014,germany,DEU,7.474400000000003
-2015,germany,DEU,7.474400000000003
-2016,germany,DEU,7.474400000000003
-2017,germany,DEU,7.474400000000003
-2018,germany,DEU,7.474400000000003
-2019,germany,DEU,7.474400000000003
-2020,germany,DEU,7.474400000000003
-2021,germany,DEU,7.474400000000003
+1970,germany,DEU,4.2953
+1971,germany,DEU,4.334300000000001
+1972,germany,DEU,4.334300000000001
+1973,germany,DEU,4.334300000000001
+1974,germany,DEU,4.9783
+1975,germany,DEU,5.905
+1976,germany,DEU,5.905
+1977,germany,DEU,5.9243999999999994
+1978,germany,DEU,5.9364
+1979,germany,DEU,5.9364
+1980,germany,DEU,6.9938
+1981,germany,DEU,7.005800000000001
+1982,germany,DEU,7.0524
+1983,germany,DEU,7.0648
+1984,germany,DEU,7.0895
+1985,germany,DEU,7.126600000000001
+1986,germany,DEU,7.126600000000001
+1987,germany,DEU,7.126600000000001
+1988,germany,DEU,7.1392
+1989,germany,DEU,7.2922
+1990,germany,DEU,7.2922
+1991,germany,DEU,7.3064
+1992,germany,DEU,7.3597
+1993,germany,DEU,7.3597
+1994,germany,DEU,7.393800000000001
+1995,germany,DEU,7.393800000000001
+1996,germany,DEU,7.393800000000001
+1997,germany,DEU,7.393800000000001
+1998,germany,DEU,7.393800000000001
+1999,germany,DEU,7.393800000000001
+2000,germany,DEU,7.393800000000001
+2001,germany,DEU,7.393800000000001
+2002,germany,DEU,7.393800000000001
+2003,germany,DEU,7.393800000000001
+2004,germany,DEU,7.393800000000001
+2005,germany,DEU,7.393800000000001
+2006,germany,DEU,7.393800000000001
+2007,germany,DEU,7.393800000000001
+2008,germany,DEU,7.393800000000001
+2009,germany,DEU,7.417800000000001
+2010,germany,DEU,9.974200000000002
+2011,germany,DEU,9.974200000000002
+2012,germany,DEU,9.9841
+2013,germany,DEU,9.9841
+2014,germany,DEU,9.9841
+2015,germany,DEU,9.9841
+2016,germany,DEU,9.9841
+2017,germany,DEU,9.9841
+2018,germany,DEU,9.9841
+2019,germany,DEU,9.9841
+2020,germany,DEU,9.9841
+2021,germany,DEU,9.9841
 1970,ghana,GHA,1.038
 1971,ghana,GHA,1.038
 1972,ghana,GHA,1.038
@@ -5031,18 +5031,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,greece,GRC,2.867
 2008,greece,GRC,2.867
 2009,greece,GRC,2.867
-2010,greece,GRC,2.867
-2011,greece,GRC,3.021
-2012,greece,GRC,3.021
-2013,greece,GRC,3.021
-2014,greece,GRC,3.021
-2015,greece,GRC,3.021
-2016,greece,GRC,3.021
-2017,greece,GRC,3.021
-2018,greece,GRC,3.021
-2019,greece,GRC,3.021
-2020,greece,GRC,3.021
-2021,greece,GRC,3.021
+2010,greece,GRC,3.347
+2011,greece,GRC,3.501
+2012,greece,GRC,3.501
+2013,greece,GRC,3.501
+2014,greece,GRC,3.501
+2015,greece,GRC,3.501
+2016,greece,GRC,3.501
+2017,greece,GRC,3.501
+2018,greece,GRC,3.501
+2019,greece,GRC,3.501
+2020,greece,GRC,3.501
+2021,greece,GRC,3.501
 1970,greenland,GRL,0.0
 1971,greenland,GRL,0.0
 1972,greenland,GRL,0.0
@@ -5283,26 +5283,26 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 1999,guatemala,GTM,0.5053
 2000,guatemala,GTM,0.5181
 2001,guatemala,GTM,0.5181
-2002,guatemala,GTM,0.5729999999999998
+2002,guatemala,GTM,0.5730000000000001
 2003,guatemala,GTM,0.6211
 2004,guatemala,GTM,0.6892
 2005,guatemala,GTM,0.7075
-2006,guatemala,GTM,0.7255999999999999
-2007,guatemala,GTM,0.7515999999999999
-2008,guatemala,GTM,0.7515999999999999
-2009,guatemala,GTM,0.7515999999999999
-2010,guatemala,GTM,0.8455999999999999
-2011,guatemala,GTM,0.8795999999999999
-2012,guatemala,GTM,0.9645999999999999
-2013,guatemala,GTM,0.9667
-2014,guatemala,GTM,0.9667
-2015,guatemala,GTM,1.0075999999999998
-2016,guatemala,GTM,1.0075999999999998
-2017,guatemala,GTM,1.0075999999999998
-2018,guatemala,GTM,1.0075999999999998
-2019,guatemala,GTM,1.0075999999999998
-2020,guatemala,GTM,1.0075999999999998
-2021,guatemala,GTM,1.0075999999999998
+2006,guatemala,GTM,0.7256
+2007,guatemala,GTM,0.7516
+2008,guatemala,GTM,0.7516
+2009,guatemala,GTM,0.7516
+2010,guatemala,GTM,0.8456
+2011,guatemala,GTM,0.8796
+2012,guatemala,GTM,0.9646
+2013,guatemala,GTM,0.9667000000000001
+2014,guatemala,GTM,0.9667000000000001
+2015,guatemala,GTM,1.0076
+2016,guatemala,GTM,1.0076
+2017,guatemala,GTM,1.0076
+2018,guatemala,GTM,1.0076
+2019,guatemala,GTM,1.0076
+2020,guatemala,GTM,1.0076
+2021,guatemala,GTM,1.0076
 1970,guinea,GIN,0.0
 1971,guinea,GIN,0.0
 1972,guinea,GIN,0.0
@@ -5343,18 +5343,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,guinea,GIN,0.0
 2008,guinea,GIN,0.0
 2009,guinea,GIN,0.0
-2010,guinea,GIN,0.0
-2011,guinea,GIN,0.0
-2012,guinea,GIN,0.0
-2013,guinea,GIN,0.0
-2014,guinea,GIN,0.0
-2015,guinea,GIN,0.0
-2016,guinea,GIN,0.0
-2017,guinea,GIN,0.0
-2018,guinea,GIN,0.0
-2019,guinea,GIN,0.0
-2020,guinea,GIN,0.0
-2021,guinea,GIN,0.0
+2010,guinea,GIN,0.41832
+2011,guinea,GIN,0.41832
+2012,guinea,GIN,0.41832
+2013,guinea,GIN,0.41832
+2014,guinea,GIN,0.41832
+2015,guinea,GIN,0.41832
+2016,guinea,GIN,0.41832
+2017,guinea,GIN,0.41832
+2018,guinea,GIN,0.41832
+2019,guinea,GIN,0.41832
+2020,guinea,GIN,0.41832
+2021,guinea,GIN,0.41832
 1970,guinea-bissau,GNB,0.0
 1971,guinea-bissau,GNB,0.0
 1972,guinea-bissau,GNB,0.0
@@ -5603,18 +5603,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,honduras,HND,0.0
 2008,honduras,HND,0.0
 2009,honduras,HND,0.0
-2010,honduras,HND,0.0
-2011,honduras,HND,0.0
-2012,honduras,HND,0.0
-2013,honduras,HND,0.0
-2014,honduras,HND,0.0
-2015,honduras,HND,0.0
-2016,honduras,HND,0.0
-2017,honduras,HND,0.0
-2018,honduras,HND,0.0
-2019,honduras,HND,0.0
-2020,honduras,HND,0.0
-2021,honduras,HND,0.0
+2010,honduras,HND,0.51517
+2011,honduras,HND,0.51517
+2012,honduras,HND,0.51517
+2013,honduras,HND,0.51517
+2014,honduras,HND,0.51517
+2015,honduras,HND,0.51517
+2016,honduras,HND,0.51517
+2017,honduras,HND,0.51517
+2018,honduras,HND,0.51517
+2019,honduras,HND,0.51517
+2020,honduras,HND,0.51517
+2021,honduras,HND,0.51517
 1970,"hong kong, china",HKG,0.0
 1971,"hong kong, china",HKG,0.0
 1972,"hong kong, china",HKG,0.0
@@ -5759,70 +5759,70 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,iceland,ISL,1.0796
 2008,iceland,ISL,1.7695999999999998
 2009,iceland,ISL,1.7695999999999998
-2010,iceland,ISL,1.7695999999999998
-2011,iceland,ISL,1.7695999999999998
-2012,iceland,ISL,1.7695999999999998
-2013,iceland,ISL,1.7695999999999998
-2014,iceland,ISL,1.7695999999999998
-2015,iceland,ISL,1.7695999999999998
-2016,iceland,ISL,1.7695999999999998
-2017,iceland,ISL,1.7695999999999998
-2018,iceland,ISL,1.7695999999999998
-2019,iceland,ISL,1.7695999999999998
-2020,iceland,ISL,1.7695999999999998
-2021,iceland,ISL,1.7695999999999998
-1970,india,IND,6.511799999999999
-1971,india,IND,6.617799999999999
-1972,india,IND,6.617799999999999
-1973,india,IND,6.8027999999999995
-1974,india,IND,7.102799999999999
-1975,india,IND,7.461799999999999
+2010,iceland,ISL,1.9125999999999999
+2011,iceland,ISL,1.9125999999999999
+2012,iceland,ISL,1.9125999999999999
+2013,iceland,ISL,1.9125999999999999
+2014,iceland,ISL,1.9125999999999999
+2015,iceland,ISL,1.9125999999999999
+2016,iceland,ISL,1.9125999999999999
+2017,iceland,ISL,1.9125999999999999
+2018,iceland,ISL,1.9125999999999999
+2019,iceland,ISL,1.9125999999999999
+2020,iceland,ISL,1.9125999999999999
+2021,iceland,ISL,1.9125999999999999
+1970,india,IND,6.5118
+1971,india,IND,6.6178
+1972,india,IND,6.6178
+1973,india,IND,6.8028
+1974,india,IND,7.1028
+1975,india,IND,7.4618
 1976,india,IND,8.1798
 1977,india,IND,8.2438
 1978,india,IND,8.5738
-1979,india,IND,10.089800000000002
-1980,india,IND,11.322600000000003
-1981,india,IND,12.50895
-1982,india,IND,13.354550000000001
-1983,india,IND,13.609550000000002
+1979,india,IND,10.0898
+1980,india,IND,11.322600000000001
+1981,india,IND,12.508949999999999
+1982,india,IND,13.35455
+1983,india,IND,13.609549999999999
 1984,india,IND,17.033549999999998
 1985,india,IND,17.35755
-1986,india,IND,17.618499999999997
-1987,india,IND,18.161499999999997
+1986,india,IND,17.6185
+1987,india,IND,18.1615
 1988,india,IND,19.0315
 1989,india,IND,19.1515
 1990,india,IND,20.1615
 1991,india,IND,20.5939
-1992,india,IND,20.858100000000004
-1993,india,IND,21.084100000000003
+1992,india,IND,20.8581
+1993,india,IND,21.0841
 1994,india,IND,22.0431
 1995,india,IND,22.11485
 1996,india,IND,22.762349999999998
-1997,india,IND,22.94835
+1997,india,IND,22.948349999999998
 1998,india,IND,23.394450000000003
 1999,india,IND,24.580450000000003
 2000,india,IND,25.39195
 2001,india,IND,26.61295
 2002,india,IND,27.536450000000002
 2003,india,IND,29.64095
-2004,india,IND,31.188449999999996
+2004,india,IND,31.188450000000003
 2005,india,IND,32.81845
-2006,india,IND,34.64045000000001
+2006,india,IND,34.64045
 2007,india,IND,36.55045
 2008,india,IND,37.76045
 2009,india,IND,37.99445
 2010,india,IND,38.40645
 2011,india,IND,39.80645
-2012,india,IND,40.30744999999999
-2013,india,IND,41.27646999999999
-2014,india,IND,41.796469999999985
-2015,india,IND,43.262469999999986
-2016,india,IND,43.42246999999999
-2017,india,IND,45.12146999999999
-2018,india,IND,45.561469999999986
-2019,india,IND,45.561469999999986
-2020,india,IND,45.561469999999986
-2021,india,IND,45.561469999999986
+2012,india,IND,40.307449999999996
+2013,india,IND,41.27647
+2014,india,IND,41.79647
+2015,india,IND,43.26247
+2016,india,IND,43.422470000000004
+2017,india,IND,45.12147
+2018,india,IND,45.56147
+2019,india,IND,45.56147
+2020,india,IND,45.56147
+2021,india,IND,45.56147
 1970,indonesia,IDN,0.0
 1971,indonesia,IDN,0.0
 1972,indonesia,IDN,0.0
@@ -5863,18 +5863,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,indonesia,IDN,0.0
 2008,indonesia,IDN,0.0
 2009,indonesia,IDN,0.0
-2010,indonesia,IDN,0.0
-2011,indonesia,IDN,0.0
-2012,indonesia,IDN,0.0
-2013,indonesia,IDN,0.0
-2014,indonesia,IDN,0.0
-2015,indonesia,IDN,0.0
-2016,indonesia,IDN,0.0
-2017,indonesia,IDN,0.0
-2018,indonesia,IDN,0.0
-2019,indonesia,IDN,0.0
-2020,indonesia,IDN,0.0
-2021,indonesia,IDN,0.0
+2010,indonesia,IDN,4.559591999999999
+2011,indonesia,IDN,4.559591999999999
+2012,indonesia,IDN,4.559591999999999
+2013,indonesia,IDN,4.559591999999999
+2014,indonesia,IDN,4.559591999999999
+2015,indonesia,IDN,4.559591999999999
+2016,indonesia,IDN,4.559591999999999
+2017,indonesia,IDN,4.559591999999999
+2018,indonesia,IDN,4.559591999999999
+2019,indonesia,IDN,4.559591999999999
+2020,indonesia,IDN,4.559591999999999
+2021,indonesia,IDN,4.559591999999999
 1970,"iran, islamic rep.",IRN,0.6970000000000001
 1971,"iran, islamic rep.",IRN,0.6970000000000001
 1972,"iran, islamic rep.",IRN,0.6970000000000001
@@ -5915,18 +5915,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,"iran, islamic rep.",IRN,2.9425
 2008,"iran, islamic rep.",IRN,2.9425
 2009,"iran, islamic rep.",IRN,2.9425
-2010,"iran, islamic rep.",IRN,2.9425
-2011,"iran, islamic rep.",IRN,3.7075
-2012,"iran, islamic rep.",IRN,4.7235000000000005
-2013,"iran, islamic rep.",IRN,5.2035
-2014,"iran, islamic rep.",IRN,5.2035
-2015,"iran, islamic rep.",IRN,6.3735
-2016,"iran, islamic rep.",IRN,6.3735
-2017,"iran, islamic rep.",IRN,6.3735
-2018,"iran, islamic rep.",IRN,6.3735
-2019,"iran, islamic rep.",IRN,6.3735
-2020,"iran, islamic rep.",IRN,6.3735
-2021,"iran, islamic rep.",IRN,6.3735
+2010,"iran, islamic rep.",IRN,7.4265
+2011,"iran, islamic rep.",IRN,8.1915
+2012,"iran, islamic rep.",IRN,9.2075
+2013,"iran, islamic rep.",IRN,9.6875
+2014,"iran, islamic rep.",IRN,9.6875
+2015,"iran, islamic rep.",IRN,10.8575
+2016,"iran, islamic rep.",IRN,10.8575
+2017,"iran, islamic rep.",IRN,10.8575
+2018,"iran, islamic rep.",IRN,10.8575
+2019,"iran, islamic rep.",IRN,10.8575
+2020,"iran, islamic rep.",IRN,10.8575
+2021,"iran, islamic rep.",IRN,10.8575
 1970,iraq,IRQ,0.323
 1971,iraq,IRQ,0.323
 1972,iraq,IRQ,0.323
@@ -6019,18 +6019,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,ireland,IRL,0.0
 2008,ireland,IRL,0.0
 2009,ireland,IRL,0.0
-2010,ireland,IRL,0.0
-2011,ireland,IRL,0.0
-2012,ireland,IRL,0.0
-2013,ireland,IRL,0.0
-2014,ireland,IRL,0.0
-2015,ireland,IRL,0.0
-2016,ireland,IRL,0.0
-2017,ireland,IRL,0.0
-2018,ireland,IRL,0.0
-2019,ireland,IRL,0.0
-2020,ireland,IRL,0.0
-2021,ireland,IRL,0.0
+2010,ireland,IRL,0.405
+2011,ireland,IRL,0.405
+2012,ireland,IRL,0.405
+2013,ireland,IRL,0.405
+2014,ireland,IRL,0.405
+2015,ireland,IRL,0.405
+2016,ireland,IRL,0.405
+2017,ireland,IRL,0.405
+2018,ireland,IRL,0.405
+2019,ireland,IRL,0.405
+2020,ireland,IRL,0.405
+2021,ireland,IRL,0.405
 1970,israel,ISR,0.0
 1971,israel,ISR,0.0
 1972,israel,ISR,0.0
@@ -6123,70 +6123,70 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,italy,ITA,0.0
 2008,italy,ITA,0.0
 2009,italy,ITA,0.0
-2010,italy,ITA,0.0
-2011,italy,ITA,0.0
-2012,italy,ITA,0.0
-2013,italy,ITA,0.0
-2014,italy,ITA,0.0
-2015,italy,ITA,0.0
-2016,italy,ITA,0.0
-2017,italy,ITA,0.0
-2018,italy,ITA,0.0
-2019,italy,ITA,0.0
-2020,italy,ITA,0.0
-2021,italy,ITA,0.0
-1970,jamaica,JAM,0.014799999999999999
-1971,jamaica,JAM,0.014799999999999999
-1972,jamaica,JAM,0.014799999999999999
-1973,jamaica,JAM,0.014799999999999999
-1974,jamaica,JAM,0.014799999999999999
-1975,jamaica,JAM,0.014799999999999999
-1976,jamaica,JAM,0.014799999999999999
-1977,jamaica,JAM,0.014799999999999999
-1978,jamaica,JAM,0.014799999999999999
-1979,jamaica,JAM,0.014799999999999999
-1980,jamaica,JAM,0.014799999999999999
-1981,jamaica,JAM,0.014799999999999999
-1982,jamaica,JAM,0.014799999999999999
-1983,jamaica,JAM,0.014799999999999999
-1984,jamaica,JAM,0.014799999999999999
-1985,jamaica,JAM,0.014799999999999999
-1986,jamaica,JAM,0.014799999999999999
-1987,jamaica,JAM,0.014799999999999999
-1988,jamaica,JAM,0.014799999999999999
-1989,jamaica,JAM,0.014799999999999999
-1990,jamaica,JAM,0.014799999999999999
-1991,jamaica,JAM,0.014799999999999999
-1992,jamaica,JAM,0.014799999999999999
-1993,jamaica,JAM,0.014799999999999999
-1994,jamaica,JAM,0.014799999999999999
-1995,jamaica,JAM,0.014799999999999999
-1996,jamaica,JAM,0.014799999999999999
-1997,jamaica,JAM,0.014799999999999999
-1998,jamaica,JAM,0.014799999999999999
-1999,jamaica,JAM,0.014799999999999999
-2000,jamaica,JAM,0.014799999999999999
-2001,jamaica,JAM,0.014799999999999999
-2002,jamaica,JAM,0.014799999999999999
-2003,jamaica,JAM,0.014799999999999999
-2004,jamaica,JAM,0.014799999999999999
-2005,jamaica,JAM,0.014799999999999999
-2006,jamaica,JAM,0.014799999999999999
-2007,jamaica,JAM,0.014799999999999999
-2008,jamaica,JAM,0.014799999999999999
-2009,jamaica,JAM,0.014799999999999999
-2010,jamaica,JAM,0.014799999999999999
-2011,jamaica,JAM,0.014799999999999999
-2012,jamaica,JAM,0.014799999999999999
-2013,jamaica,JAM,0.014799999999999999
-2014,jamaica,JAM,0.014799999999999999
-2015,jamaica,JAM,0.014799999999999999
-2016,jamaica,JAM,0.014799999999999999
-2017,jamaica,JAM,0.014799999999999999
-2018,jamaica,JAM,0.014799999999999999
-2019,jamaica,JAM,0.014799999999999999
-2020,jamaica,JAM,0.014799999999999999
-2021,jamaica,JAM,0.014799999999999999
+2010,italy,ITA,13.38418
+2011,italy,ITA,13.38418
+2012,italy,ITA,13.38418
+2013,italy,ITA,13.38418
+2014,italy,ITA,13.38418
+2015,italy,ITA,13.38418
+2016,italy,ITA,13.38418
+2017,italy,ITA,13.38418
+2018,italy,ITA,13.38418
+2019,italy,ITA,13.38418
+2020,italy,ITA,13.38418
+2021,italy,ITA,13.38418
+1970,jamaica,JAM,0.0148
+1971,jamaica,JAM,0.0148
+1972,jamaica,JAM,0.0148
+1973,jamaica,JAM,0.0148
+1974,jamaica,JAM,0.0148
+1975,jamaica,JAM,0.0148
+1976,jamaica,JAM,0.0148
+1977,jamaica,JAM,0.0148
+1978,jamaica,JAM,0.0148
+1979,jamaica,JAM,0.0148
+1980,jamaica,JAM,0.0148
+1981,jamaica,JAM,0.0148
+1982,jamaica,JAM,0.0148
+1983,jamaica,JAM,0.0148
+1984,jamaica,JAM,0.0148
+1985,jamaica,JAM,0.0148
+1986,jamaica,JAM,0.0148
+1987,jamaica,JAM,0.0148
+1988,jamaica,JAM,0.0148
+1989,jamaica,JAM,0.0148
+1990,jamaica,JAM,0.0148
+1991,jamaica,JAM,0.0148
+1992,jamaica,JAM,0.0148
+1993,jamaica,JAM,0.0148
+1994,jamaica,JAM,0.0148
+1995,jamaica,JAM,0.0148
+1996,jamaica,JAM,0.0148
+1997,jamaica,JAM,0.0148
+1998,jamaica,JAM,0.0148
+1999,jamaica,JAM,0.0148
+2000,jamaica,JAM,0.0148
+2001,jamaica,JAM,0.0148
+2002,jamaica,JAM,0.0148
+2003,jamaica,JAM,0.0148
+2004,jamaica,JAM,0.0148
+2005,jamaica,JAM,0.0148
+2006,jamaica,JAM,0.0148
+2007,jamaica,JAM,0.0148
+2008,jamaica,JAM,0.0148
+2009,jamaica,JAM,0.0148
+2010,jamaica,JAM,0.0148
+2011,jamaica,JAM,0.0148
+2012,jamaica,JAM,0.0148
+2013,jamaica,JAM,0.0148
+2014,jamaica,JAM,0.0148
+2015,jamaica,JAM,0.0148
+2016,jamaica,JAM,0.0148
+2017,jamaica,JAM,0.0148
+2018,jamaica,JAM,0.0148
+2019,jamaica,JAM,0.0148
+2020,jamaica,JAM,0.0148
+2021,jamaica,JAM,0.0148
 1970,japan,JPN,0.10300000000000001
 1971,japan,JPN,0.133
 1972,japan,JPN,0.234
@@ -6227,18 +6227,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,japan,JPN,0.556
 2008,japan,JPN,0.556
 2009,japan,JPN,0.556
-2010,japan,JPN,0.556
-2011,japan,JPN,0.556
-2012,japan,JPN,0.556
-2013,japan,JPN,0.556
-2014,japan,JPN,0.556
-2015,japan,JPN,0.556
-2016,japan,JPN,0.556
-2017,japan,JPN,0.556
-2018,japan,JPN,0.556
-2019,japan,JPN,0.556
-2020,japan,JPN,0.556
-2021,japan,JPN,0.556
+2010,japan,JPN,27.439
+2011,japan,JPN,27.439
+2012,japan,JPN,27.439
+2013,japan,JPN,27.439
+2014,japan,JPN,27.439
+2015,japan,JPN,27.439
+2016,japan,JPN,27.439
+2017,japan,JPN,27.439
+2018,japan,JPN,27.439
+2019,japan,JPN,27.439
+2020,japan,JPN,27.439
+2021,japan,JPN,27.439
 1970,jhonston island,JTN,0.0
 1971,jhonston island,JTN,0.0
 1972,jhonston island,JTN,0.0
@@ -6383,18 +6383,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,kazakhstan,KAZ,1.051
 2008,kazakhstan,KAZ,1.051
 2009,kazakhstan,KAZ,1.051
-2010,kazakhstan,KAZ,1.051
-2011,kazakhstan,KAZ,1.051
-2012,kazakhstan,KAZ,1.051
-2013,kazakhstan,KAZ,1.051
-2014,kazakhstan,KAZ,1.051
-2015,kazakhstan,KAZ,1.051
-2016,kazakhstan,KAZ,1.051
-2017,kazakhstan,KAZ,1.051
-2018,kazakhstan,KAZ,1.051
-2019,kazakhstan,KAZ,1.051
-2020,kazakhstan,KAZ,1.051
-2021,kazakhstan,KAZ,1.051
+2010,kazakhstan,KAZ,2.09
+2011,kazakhstan,KAZ,2.09
+2012,kazakhstan,KAZ,2.09
+2013,kazakhstan,KAZ,2.09
+2014,kazakhstan,KAZ,2.09
+2015,kazakhstan,KAZ,2.09
+2016,kazakhstan,KAZ,2.09
+2017,kazakhstan,KAZ,2.09
+2018,kazakhstan,KAZ,2.09
+2019,kazakhstan,KAZ,2.09
+2020,kazakhstan,KAZ,2.09
+2021,kazakhstan,KAZ,2.09
 1970,kenya,KEN,0.07200000000000001
 1971,kenya,KEN,0.07200000000000001
 1972,kenya,KEN,0.07200000000000001
@@ -6539,18 +6539,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,"korea, dem. rep.",PRK,1.29
 2008,"korea, dem. rep.",PRK,1.29
 2009,"korea, dem. rep.",PRK,1.29
-2010,"korea, dem. rep.",PRK,1.29
-2011,"korea, dem. rep.",PRK,1.29
-2012,"korea, dem. rep.",PRK,1.29
-2013,"korea, dem. rep.",PRK,1.29
-2014,"korea, dem. rep.",PRK,1.29
-2015,"korea, dem. rep.",PRK,1.29
-2016,"korea, dem. rep.",PRK,1.29
-2017,"korea, dem. rep.",PRK,1.29
-2018,"korea, dem. rep.",PRK,1.29
-2019,"korea, dem. rep.",PRK,1.29
-2020,"korea, dem. rep.",PRK,1.29
-2021,"korea, dem. rep.",PRK,1.29
+2010,"korea, dem. rep.",PRK,3.805
+2011,"korea, dem. rep.",PRK,3.805
+2012,"korea, dem. rep.",PRK,3.805
+2013,"korea, dem. rep.",PRK,3.805
+2014,"korea, dem. rep.",PRK,3.805
+2015,"korea, dem. rep.",PRK,3.805
+2016,"korea, dem. rep.",PRK,3.805
+2017,"korea, dem. rep.",PRK,3.805
+2018,"korea, dem. rep.",PRK,3.805
+2019,"korea, dem. rep.",PRK,3.805
+2020,"korea, dem. rep.",PRK,3.805
+2021,"korea, dem. rep.",PRK,3.805
 1970,"korea, rep.",KOR,0.22080000000000002
 1971,"korea, rep.",KOR,0.22080000000000002
 1972,"korea, rep.",KOR,0.22080000000000002
@@ -6591,18 +6591,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,"korea, rep.",KOR,1.3408
 2008,"korea, rep.",KOR,1.3408
 2009,"korea, rep.",KOR,1.3408
-2010,"korea, rep.",KOR,1.3408
-2011,"korea, rep.",KOR,1.3408
-2012,"korea, rep.",KOR,1.3408
-2013,"korea, rep.",KOR,1.3408
-2014,"korea, rep.",KOR,1.3408
-2015,"korea, rep.",KOR,1.3408
-2016,"korea, rep.",KOR,1.3408
-2017,"korea, rep.",KOR,1.3408
-2018,"korea, rep.",KOR,1.3408
-2019,"korea, rep.",KOR,1.3408
-2020,"korea, rep.",KOR,1.3408
-2021,"korea, rep.",KOR,1.3408
+2010,"korea, rep.",KOR,6.063059999999999
+2011,"korea, rep.",KOR,6.063059999999999
+2012,"korea, rep.",KOR,6.063059999999999
+2013,"korea, rep.",KOR,6.063059999999999
+2014,"korea, rep.",KOR,6.063059999999999
+2015,"korea, rep.",KOR,6.063059999999999
+2016,"korea, rep.",KOR,6.063059999999999
+2017,"korea, rep.",KOR,6.063059999999999
+2018,"korea, rep.",KOR,6.063059999999999
+2019,"korea, rep.",KOR,6.063059999999999
+2020,"korea, rep.",KOR,6.063059999999999
+2021,"korea, rep.",KOR,6.063059999999999
 1970,kuwait,KWT,0.0
 1971,kuwait,KWT,0.0
 1972,kuwait,KWT,0.0
@@ -6747,18 +6747,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,lao pdr,LAO,0.493
 2008,lao pdr,LAO,0.493
 2009,lao pdr,LAO,0.493
-2010,lao pdr,LAO,1.663
-2011,lao pdr,LAO,2.438
-2012,lao pdr,LAO,2.968
-2013,lao pdr,LAO,2.968
-2014,lao pdr,LAO,2.968
-2015,lao pdr,LAO,2.968
-2016,lao pdr,LAO,2.968
-2017,lao pdr,LAO,2.968
-2018,lao pdr,LAO,2.968
-2019,lao pdr,LAO,2.968
-2020,lao pdr,LAO,2.968
-2021,lao pdr,LAO,2.968
+2010,lao pdr,LAO,1.80386
+2011,lao pdr,LAO,2.57886
+2012,lao pdr,LAO,3.1088600000000004
+2013,lao pdr,LAO,3.1088600000000004
+2014,lao pdr,LAO,3.1088600000000004
+2015,lao pdr,LAO,3.1088600000000004
+2016,lao pdr,LAO,3.1088600000000004
+2017,lao pdr,LAO,3.1088600000000004
+2018,lao pdr,LAO,3.1088600000000004
+2019,lao pdr,LAO,3.1088600000000004
+2020,lao pdr,LAO,3.1088600000000004
+2021,lao pdr,LAO,3.1088600000000004
 1970,latvia,LVA,0.0
 1971,latvia,LVA,0.0
 1972,latvia,LVA,0.0
@@ -6799,18 +6799,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,latvia,LVA,0.0
 2008,latvia,LVA,0.0
 2009,latvia,LVA,0.0
-2010,latvia,LVA,0.0
-2011,latvia,LVA,0.0
-2012,latvia,LVA,0.0
-2013,latvia,LVA,0.0
-2014,latvia,LVA,0.0
-2015,latvia,LVA,0.0
-2016,latvia,LVA,0.0
-2017,latvia,LVA,0.0
-2018,latvia,LVA,0.0
-2019,latvia,LVA,0.0
-2020,latvia,LVA,0.0
-2021,latvia,LVA,0.0
+2010,latvia,LVA,1.536
+2011,latvia,LVA,1.536
+2012,latvia,LVA,1.536
+2013,latvia,LVA,1.536
+2014,latvia,LVA,1.536
+2015,latvia,LVA,1.536
+2016,latvia,LVA,1.536
+2017,latvia,LVA,1.536
+2018,latvia,LVA,1.536
+2019,latvia,LVA,1.536
+2020,latvia,LVA,1.536
+2021,latvia,LVA,1.536
 1970,lebanon,LBN,0.0
 1971,lebanon,LBN,0.0
 1972,lebanon,LBN,0.0
@@ -6903,18 +6903,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,lesotho,LSO,0.0
 2008,lesotho,LSO,0.0
 2009,lesotho,LSO,0.0
-2010,lesotho,LSO,0.0
-2011,lesotho,LSO,0.0
-2012,lesotho,LSO,0.0
-2013,lesotho,LSO,0.0
-2014,lesotho,LSO,0.0
-2015,lesotho,LSO,0.0
-2016,lesotho,LSO,0.0
-2017,lesotho,LSO,0.0
-2018,lesotho,LSO,0.0
-2019,lesotho,LSO,0.0
-2020,lesotho,LSO,0.0
-2021,lesotho,LSO,0.0
+2010,lesotho,LSO,0.07200000000000001
+2011,lesotho,LSO,0.07200000000000001
+2012,lesotho,LSO,0.07200000000000001
+2013,lesotho,LSO,0.07200000000000001
+2014,lesotho,LSO,0.07200000000000001
+2015,lesotho,LSO,0.07200000000000001
+2016,lesotho,LSO,0.07200000000000001
+2017,lesotho,LSO,0.07200000000000001
+2018,lesotho,LSO,0.07200000000000001
+2019,lesotho,LSO,0.07200000000000001
+2020,lesotho,LSO,0.07200000000000001
+2021,lesotho,LSO,0.07200000000000001
 1970,liberia,LBR,0.0
 1971,liberia,LBR,0.0
 1972,liberia,LBR,0.0
@@ -6955,18 +6955,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,liberia,LBR,0.0
 2008,liberia,LBR,0.0
 2009,liberia,LBR,0.0
-2010,liberia,LBR,0.0
-2011,liberia,LBR,0.0
-2012,liberia,LBR,0.0
-2013,liberia,LBR,0.0
-2014,liberia,LBR,0.0
-2015,liberia,LBR,0.0
-2016,liberia,LBR,0.0
-2017,liberia,LBR,0.0
-2018,liberia,LBR,0.0
-2019,liberia,LBR,0.0
-2020,liberia,LBR,0.0
-2021,liberia,LBR,0.0
+2010,liberia,LBR,0.06
+2011,liberia,LBR,0.06
+2012,liberia,LBR,0.06
+2013,liberia,LBR,0.06
+2014,liberia,LBR,0.06
+2015,liberia,LBR,0.06
+2016,liberia,LBR,0.06
+2017,liberia,LBR,0.06
+2018,liberia,LBR,0.06
+2019,liberia,LBR,0.06
+2020,liberia,LBR,0.06
+2021,liberia,LBR,0.06
 1970,libya,LBY,0.0
 1971,libya,LBY,0.0
 1972,libya,LBY,0.0
@@ -7111,18 +7111,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,lithuania,LTU,0.0
 2008,lithuania,LTU,0.0
 2009,lithuania,LTU,0.0
-2010,lithuania,LTU,0.0
-2011,lithuania,LTU,0.0
-2012,lithuania,LTU,0.0
-2013,lithuania,LTU,0.0
-2014,lithuania,LTU,0.0
-2015,lithuania,LTU,0.0
-2016,lithuania,LTU,0.0
-2017,lithuania,LTU,0.0
-2018,lithuania,LTU,0.0
-2019,lithuania,LTU,0.0
-2020,lithuania,LTU,0.0
-2021,lithuania,LTU,0.0
+2010,lithuania,LTU,1.0008
+2011,lithuania,LTU,1.0008
+2012,lithuania,LTU,1.0008
+2013,lithuania,LTU,1.0008
+2014,lithuania,LTU,1.0008
+2015,lithuania,LTU,1.0008
+2016,lithuania,LTU,1.0008
+2017,lithuania,LTU,1.0008
+2018,lithuania,LTU,1.0008
+2019,lithuania,LTU,1.0008
+2020,lithuania,LTU,1.0008
+2021,lithuania,LTU,1.0008
 1970,luxembourg,LUX,0.0
 1971,luxembourg,LUX,0.0
 1972,luxembourg,LUX,0.0
@@ -7163,18 +7163,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,luxembourg,LUX,0.0
 2008,luxembourg,LUX,0.0
 2009,luxembourg,LUX,0.0
-2010,luxembourg,LUX,0.0
-2011,luxembourg,LUX,0.0
-2012,luxembourg,LUX,0.0
-2013,luxembourg,LUX,0.0
-2014,luxembourg,LUX,0.0
-2015,luxembourg,LUX,0.0
-2016,luxembourg,LUX,0.0
-2017,luxembourg,LUX,0.0
-2018,luxembourg,LUX,0.0
-2019,luxembourg,LUX,0.0
-2020,luxembourg,LUX,0.0
-2021,luxembourg,LUX,0.0
+2010,luxembourg,LUX,1.296
+2011,luxembourg,LUX,1.296
+2012,luxembourg,LUX,1.296
+2013,luxembourg,LUX,1.296
+2014,luxembourg,LUX,1.296
+2015,luxembourg,LUX,1.296
+2016,luxembourg,LUX,1.296
+2017,luxembourg,LUX,1.296
+2018,luxembourg,LUX,1.296
+2019,luxembourg,LUX,1.296
+2020,luxembourg,LUX,1.296
+2021,luxembourg,LUX,1.296
 1970,macao,MAC,0.0
 1971,macao,MAC,0.0
 1972,macao,MAC,0.0
@@ -7319,18 +7319,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,madagascar,MDG,0.0
 2008,madagascar,MDG,0.0
 2009,madagascar,MDG,0.0
-2010,madagascar,MDG,0.0
-2011,madagascar,MDG,0.0
-2012,madagascar,MDG,0.0
-2013,madagascar,MDG,0.0
-2014,madagascar,MDG,0.0
-2015,madagascar,MDG,0.0
-2016,madagascar,MDG,0.0
-2017,madagascar,MDG,0.0
-2018,madagascar,MDG,0.0
-2019,madagascar,MDG,0.0
-2020,madagascar,MDG,0.0
-2021,madagascar,MDG,0.0
+2010,madagascar,MDG,0.11265000000000001
+2011,madagascar,MDG,0.11265000000000001
+2012,madagascar,MDG,0.11265000000000001
+2013,madagascar,MDG,0.11265000000000001
+2014,madagascar,MDG,0.11265000000000001
+2015,madagascar,MDG,0.11265000000000001
+2016,madagascar,MDG,0.11265000000000001
+2017,madagascar,MDG,0.11265000000000001
+2018,madagascar,MDG,0.11265000000000001
+2019,madagascar,MDG,0.11265000000000001
+2020,madagascar,MDG,0.11265000000000001
+2021,madagascar,MDG,0.11265000000000001
 1970,malawi,MWI,0.0
 1971,malawi,MWI,0.0
 1972,malawi,MWI,0.0
@@ -7371,18 +7371,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,malawi,MWI,0.0
 2008,malawi,MWI,0.0
 2009,malawi,MWI,0.0
-2010,malawi,MWI,0.0
-2011,malawi,MWI,0.0
-2012,malawi,MWI,0.0
-2013,malawi,MWI,0.0
-2014,malawi,MWI,0.0
-2015,malawi,MWI,0.0
-2016,malawi,MWI,0.0
-2017,malawi,MWI,0.0
-2018,malawi,MWI,0.0
-2019,malawi,MWI,0.0
-2020,malawi,MWI,0.0
-2021,malawi,MWI,0.0
+2010,malawi,MWI,0.3436
+2011,malawi,MWI,0.3436
+2012,malawi,MWI,0.3436
+2013,malawi,MWI,0.3436
+2014,malawi,MWI,0.3436
+2015,malawi,MWI,0.3436
+2016,malawi,MWI,0.3436
+2017,malawi,MWI,0.3436
+2018,malawi,MWI,0.3436
+2019,malawi,MWI,0.3436
+2020,malawi,MWI,0.3436
+2021,malawi,MWI,0.3436
 1970,malaysia,MYS,0.0
 1971,malaysia,MYS,0.0
 1972,malaysia,MYS,0.0
@@ -7423,18 +7423,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,malaysia,MYS,0.0
 2008,malaysia,MYS,0.0
 2009,malaysia,MYS,0.0
-2010,malaysia,MYS,0.0
-2011,malaysia,MYS,0.0
-2012,malaysia,MYS,0.0
-2013,malaysia,MYS,0.0
-2014,malaysia,MYS,0.0
-2015,malaysia,MYS,0.0
-2016,malaysia,MYS,0.0
-2017,malaysia,MYS,0.0
-2018,malaysia,MYS,0.0
-2019,malaysia,MYS,0.0
-2020,malaysia,MYS,0.0
-2021,malaysia,MYS,0.0
+2010,malaysia,MYS,1.989
+2011,malaysia,MYS,1.989
+2012,malaysia,MYS,1.989
+2013,malaysia,MYS,1.989
+2014,malaysia,MYS,1.989
+2015,malaysia,MYS,1.989
+2016,malaysia,MYS,1.989
+2017,malaysia,MYS,1.989
+2018,malaysia,MYS,1.989
+2019,malaysia,MYS,1.989
+2020,malaysia,MYS,1.989
+2021,malaysia,MYS,1.989
 1970,maldives,MDV,0.0
 1971,maldives,MDV,0.0
 1972,maldives,MDV,0.0
@@ -7527,18 +7527,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,mali,MLI,0.0
 2008,mali,MLI,0.0
 2009,mali,MLI,0.0
-2010,mali,MLI,0.0
-2011,mali,MLI,0.0
-2012,mali,MLI,0.0
-2013,mali,MLI,0.0
-2014,mali,MLI,0.0
-2015,mali,MLI,0.0
-2016,mali,MLI,0.0
-2017,mali,MLI,0.0
-2018,mali,MLI,0.0
-2019,mali,MLI,0.0
-2020,mali,MLI,0.0
-2021,mali,MLI,0.0
+2010,mali,MLI,0.3115
+2011,mali,MLI,0.3115
+2012,mali,MLI,0.3115
+2013,mali,MLI,0.3115
+2014,mali,MLI,0.3115
+2015,mali,MLI,0.3115
+2016,mali,MLI,0.3115
+2017,mali,MLI,0.3115
+2018,mali,MLI,0.3115
+2019,mali,MLI,0.3115
+2020,mali,MLI,0.3115
+2021,mali,MLI,0.3115
 1970,malta,MLT,0.0
 1971,malta,MLT,0.0
 1972,malta,MLT,0.0
@@ -7787,18 +7787,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,mauritius,MUS,0.0
 2008,mauritius,MUS,0.0
 2009,mauritius,MUS,0.0
-2010,mauritius,MUS,0.0
-2011,mauritius,MUS,0.0
-2012,mauritius,MUS,0.0
-2013,mauritius,MUS,0.0
-2014,mauritius,MUS,0.0
-2015,mauritius,MUS,0.0
-2016,mauritius,MUS,0.0
-2017,mauritius,MUS,0.0
-2018,mauritius,MUS,0.0
-2019,mauritius,MUS,0.0
-2020,mauritius,MUS,0.0
-2021,mauritius,MUS,0.0
+2010,mauritius,MUS,0.051383
+2011,mauritius,MUS,0.051383
+2012,mauritius,MUS,0.051383
+2013,mauritius,MUS,0.051383
+2014,mauritius,MUS,0.051383
+2015,mauritius,MUS,0.051383
+2016,mauritius,MUS,0.051383
+2017,mauritius,MUS,0.051383
+2018,mauritius,MUS,0.051383
+2019,mauritius,MUS,0.051383
+2020,mauritius,MUS,0.051383
+2021,mauritius,MUS,0.051383
 1970,mexico,MEX,0.0
 1971,mexico,MEX,0.0
 1972,mexico,MEX,0.0
@@ -7839,18 +7839,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,mexico,MEX,0.0
 2008,mexico,MEX,0.0
 2009,mexico,MEX,0.0
-2010,mexico,MEX,0.0
-2011,mexico,MEX,0.0
-2012,mexico,MEX,0.0
-2013,mexico,MEX,0.0
-2014,mexico,MEX,0.0
-2015,mexico,MEX,0.0
-2016,mexico,MEX,0.0
-2017,mexico,MEX,0.0
-2018,mexico,MEX,0.0
-2019,mexico,MEX,0.0
-2020,mexico,MEX,0.0
-2021,mexico,MEX,0.0
+2010,mexico,MEX,12.4429
+2011,mexico,MEX,12.4429
+2012,mexico,MEX,12.4429
+2013,mexico,MEX,12.4429
+2014,mexico,MEX,12.4429
+2015,mexico,MEX,12.4429
+2016,mexico,MEX,12.4429
+2017,mexico,MEX,12.4429
+2018,mexico,MEX,12.4429
+2019,mexico,MEX,12.4429
+2020,mexico,MEX,12.4429
+2021,mexico,MEX,12.4429
 1970,"micronesia, fed. sts.",FSM,0.0
 1971,"micronesia, fed. sts.",FSM,0.0
 1972,"micronesia, fed. sts.",FSM,0.0
@@ -7995,18 +7995,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,moldova,MDA,0.016
 2008,moldova,MDA,0.016
 2009,moldova,MDA,0.016
-2010,moldova,MDA,0.016
-2011,moldova,MDA,0.016
-2012,moldova,MDA,0.016
-2013,moldova,MDA,0.016
-2014,moldova,MDA,0.016
-2015,moldova,MDA,0.016
-2016,moldova,MDA,0.016
-2017,moldova,MDA,0.016
-2018,moldova,MDA,0.016
-2019,moldova,MDA,0.016
-2020,moldova,MDA,0.016
-2021,moldova,MDA,0.016
+2010,moldova,MDA,0.064
+2011,moldova,MDA,0.064
+2012,moldova,MDA,0.064
+2013,moldova,MDA,0.064
+2014,moldova,MDA,0.064
+2015,moldova,MDA,0.064
+2016,moldova,MDA,0.064
+2017,moldova,MDA,0.064
+2018,moldova,MDA,0.064
+2019,moldova,MDA,0.064
+2020,moldova,MDA,0.064
+2021,moldova,MDA,0.064
 1970,monaco,MCO,0.0
 1971,monaco,MCO,0.0
 1972,monaco,MCO,0.0
@@ -8171,8 +8171,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 1975,morocco,MAR,0.32610000000000006
 1976,morocco,MAR,0.32610000000000006
 1977,morocco,MAR,0.32610000000000006
-1978,morocco,MAR,0.3667
-1979,morocco,MAR,0.40270000000000006
+1978,morocco,MAR,0.36669999999999997
+1979,morocco,MAR,0.4027
 1980,morocco,MAR,0.5307000000000001
 1981,morocco,MAR,0.5307000000000001
 1982,morocco,MAR,0.5307000000000001
@@ -8187,34 +8187,34 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 1991,morocco,MAR,0.5977
 1992,morocco,MAR,0.5977
 1993,morocco,MAR,0.5977
-1994,morocco,MAR,0.8377
-1995,morocco,MAR,0.8377
-1996,morocco,MAR,0.8377
-1997,morocco,MAR,0.8377
-1998,morocco,MAR,1.0776999999999999
-1999,morocco,MAR,1.0776999999999999
-2000,morocco,MAR,1.0776999999999999
-2001,morocco,MAR,1.0776999999999999
-2002,morocco,MAR,1.0776999999999999
-2003,morocco,MAR,1.1696999999999997
-2004,morocco,MAR,1.1696999999999997
-2005,morocco,MAR,1.6337
-2006,morocco,MAR,1.6337
-2007,morocco,MAR,1.6337
-2008,morocco,MAR,1.6337
-2009,morocco,MAR,1.6337
-2010,morocco,MAR,1.6557
-2011,morocco,MAR,1.6557
-2012,morocco,MAR,1.6557
-2013,morocco,MAR,1.6557
-2014,morocco,MAR,1.6557
-2015,morocco,MAR,1.6557
-2016,morocco,MAR,1.6557
-2017,morocco,MAR,1.6557
-2018,morocco,MAR,1.6557
-2019,morocco,MAR,1.6557
-2020,morocco,MAR,1.6557
-2021,morocco,MAR,1.6557
+1994,morocco,MAR,0.8377000000000001
+1995,morocco,MAR,0.8377000000000001
+1996,morocco,MAR,0.8377000000000001
+1997,morocco,MAR,0.8377000000000001
+1998,morocco,MAR,1.0777
+1999,morocco,MAR,1.0777
+2000,morocco,MAR,1.0777
+2001,morocco,MAR,1.0777
+2002,morocco,MAR,1.0777
+2003,morocco,MAR,1.1697
+2004,morocco,MAR,1.1697
+2005,morocco,MAR,1.6337000000000002
+2006,morocco,MAR,1.6337000000000002
+2007,morocco,MAR,1.6337000000000002
+2008,morocco,MAR,1.6337000000000002
+2009,morocco,MAR,1.6337000000000002
+2010,morocco,MAR,1.6765
+2011,morocco,MAR,1.6765
+2012,morocco,MAR,1.6765
+2013,morocco,MAR,1.6765
+2014,morocco,MAR,1.6765
+2015,morocco,MAR,1.6765
+2016,morocco,MAR,1.6765
+2017,morocco,MAR,1.6765
+2018,morocco,MAR,1.6765
+2019,morocco,MAR,1.6765
+2020,morocco,MAR,1.6765
+2021,morocco,MAR,1.6765
 1970,mozambique,MOZ,0.044
 1971,mozambique,MOZ,0.044
 1972,mozambique,MOZ,0.044
@@ -8359,18 +8359,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,namibia,NAM,0.0
 2008,namibia,NAM,0.0
 2009,namibia,NAM,0.0
-2010,namibia,NAM,0.0
-2011,namibia,NAM,0.0
-2012,namibia,NAM,0.0
-2013,namibia,NAM,0.0
-2014,namibia,NAM,0.0
-2015,namibia,NAM,0.0
-2016,namibia,NAM,0.0
-2017,namibia,NAM,0.0
-2018,namibia,NAM,0.0
-2019,namibia,NAM,0.0
-2020,namibia,NAM,0.0
-2021,namibia,NAM,0.0
+2010,namibia,NAM,0.24
+2011,namibia,NAM,0.24
+2012,namibia,NAM,0.24
+2013,namibia,NAM,0.24
+2014,namibia,NAM,0.24
+2015,namibia,NAM,0.24
+2016,namibia,NAM,0.24
+2017,namibia,NAM,0.24
+2018,namibia,NAM,0.24
+2019,namibia,NAM,0.24
+2020,namibia,NAM,0.24
+2021,namibia,NAM,0.24
 1970,nauru,NRU,0.0
 1971,nauru,NRU,0.0
 1972,nauru,NRU,0.0
@@ -8463,18 +8463,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,nepal,NPL,0.0
 2008,nepal,NPL,0.0
 2009,nepal,NPL,0.0
-2010,nepal,NPL,0.0
-2011,nepal,NPL,0.0
-2012,nepal,NPL,0.0
-2013,nepal,NPL,0.0
-2014,nepal,NPL,0.0
-2015,nepal,NPL,0.0
-2016,nepal,NPL,0.0
-2017,nepal,NPL,0.0
-2018,nepal,NPL,0.0
-2019,nepal,NPL,0.0
-2020,nepal,NPL,0.0
-2021,nepal,NPL,0.0
+2010,nepal,NPL,0.5579500000000001
+2011,nepal,NPL,0.5579500000000001
+2012,nepal,NPL,0.5579500000000001
+2013,nepal,NPL,0.5579500000000001
+2014,nepal,NPL,0.5579500000000001
+2015,nepal,NPL,0.5579500000000001
+2016,nepal,NPL,0.5579500000000001
+2017,nepal,NPL,0.5579500000000001
+2018,nepal,NPL,0.5579500000000001
+2019,nepal,NPL,0.5579500000000001
+2020,nepal,NPL,0.5579500000000001
+2021,nepal,NPL,0.5579500000000001
 1970,netherlands,NLD,0.0
 1971,netherlands,NLD,0.0
 1972,netherlands,NLD,0.0
@@ -8723,18 +8723,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,new zealand,NZL,1.311
 2008,new zealand,NZL,1.311
 2009,new zealand,NZL,1.311
-2010,new zealand,NZL,1.311
-2011,new zealand,NZL,1.323
-2012,new zealand,NZL,1.323
-2013,new zealand,NZL,1.323
-2014,new zealand,NZL,1.323
-2015,new zealand,NZL,1.323
-2016,new zealand,NZL,1.323
-2017,new zealand,NZL,1.323
-2018,new zealand,NZL,1.323
-2019,new zealand,NZL,1.323
-2020,new zealand,NZL,1.323
-2021,new zealand,NZL,1.323
+2010,new zealand,NZL,4.376
+2011,new zealand,NZL,4.388
+2012,new zealand,NZL,4.388
+2013,new zealand,NZL,4.388
+2014,new zealand,NZL,4.388
+2015,new zealand,NZL,4.388
+2016,new zealand,NZL,4.388
+2017,new zealand,NZL,4.388
+2018,new zealand,NZL,4.388
+2019,new zealand,NZL,4.388
+2020,new zealand,NZL,4.388
+2021,new zealand,NZL,4.388
 1970,nicaragua,NIC,0.0
 1971,nicaragua,NIC,0.0
 1972,nicaragua,NIC,0.0
@@ -8775,18 +8775,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,nicaragua,NIC,0.0
 2008,nicaragua,NIC,0.0
 2009,nicaragua,NIC,0.0
-2010,nicaragua,NIC,0.0
-2011,nicaragua,NIC,0.0
-2012,nicaragua,NIC,0.0
-2013,nicaragua,NIC,0.0
-2014,nicaragua,NIC,0.0
-2015,nicaragua,NIC,0.0
-2016,nicaragua,NIC,0.0
-2017,nicaragua,NIC,0.0
-2018,nicaragua,NIC,0.0
-2019,nicaragua,NIC,0.0
-2020,nicaragua,NIC,0.0
-2021,nicaragua,NIC,0.0
+2010,nicaragua,NIC,0.1044
+2011,nicaragua,NIC,0.1044
+2012,nicaragua,NIC,0.1044
+2013,nicaragua,NIC,0.1044
+2014,nicaragua,NIC,0.1044
+2015,nicaragua,NIC,0.1044
+2016,nicaragua,NIC,0.1044
+2017,nicaragua,NIC,0.1044
+2018,nicaragua,NIC,0.1044
+2019,nicaragua,NIC,0.1044
+2020,nicaragua,NIC,0.1044
+2021,nicaragua,NIC,0.1044
 1970,niger,NER,0.0
 1971,niger,NER,0.0
 1972,niger,NER,0.0
@@ -8879,18 +8879,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,nigeria,NGA,0.0
 2008,nigeria,NGA,0.0
 2009,nigeria,NGA,0.0
-2010,nigeria,NGA,0.0
-2011,nigeria,NGA,0.0
-2012,nigeria,NGA,0.0
-2013,nigeria,NGA,0.0
-2014,nigeria,NGA,0.0
-2015,nigeria,NGA,0.0
-2016,nigeria,NGA,0.0
-2017,nigeria,NGA,0.0
-2018,nigeria,NGA,0.0
-2019,nigeria,NGA,0.0
-2020,nigeria,NGA,0.0
-2021,nigeria,NGA,0.0
+2010,nigeria,NGA,1.9000000000000001
+2011,nigeria,NGA,1.9000000000000001
+2012,nigeria,NGA,1.9000000000000001
+2013,nigeria,NGA,1.9000000000000001
+2014,nigeria,NGA,1.9000000000000001
+2015,nigeria,NGA,1.9000000000000001
+2016,nigeria,NGA,1.9000000000000001
+2017,nigeria,NGA,1.9000000000000001
+2018,nigeria,NGA,1.9000000000000001
+2019,nigeria,NGA,1.9000000000000001
+2020,nigeria,NGA,1.9000000000000001
+2021,nigeria,NGA,1.9000000000000001
 1970,niue,NIU,0.0
 1971,niue,NIU,0.0
 1972,niue,NIU,0.0
@@ -9087,18 +9087,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,norway,NOR,0.0
 2008,norway,NOR,0.0
 2009,norway,NOR,0.0
-2010,norway,NOR,0.0
-2011,norway,NOR,0.0
-2012,norway,NOR,0.0
-2013,norway,NOR,0.0
-2014,norway,NOR,0.0
-2015,norway,NOR,0.0
-2016,norway,NOR,0.0
-2017,norway,NOR,0.0
-2018,norway,NOR,0.0
-2019,norway,NOR,0.0
-2020,norway,NOR,0.0
-2021,norway,NOR,0.0
+2010,norway,NOR,30.474
+2011,norway,NOR,30.474
+2012,norway,NOR,30.474
+2013,norway,NOR,30.474
+2014,norway,NOR,30.474
+2015,norway,NOR,30.474
+2016,norway,NOR,30.474
+2017,norway,NOR,30.474
+2018,norway,NOR,30.474
+2019,norway,NOR,30.474
+2020,norway,NOR,30.474
+2021,norway,NOR,30.474
 1970,oman,OMN,0.0
 1971,oman,OMN,0.0
 1972,oman,OMN,0.0
@@ -9243,18 +9243,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,pakistan,PAK,1.6340000000000001
 2008,pakistan,PAK,1.6340000000000001
 2009,pakistan,PAK,1.6340000000000001
-2010,pakistan,PAK,1.6340000000000001
-2011,pakistan,PAK,1.6340000000000001
-2012,pakistan,PAK,1.6340000000000001
-2013,pakistan,PAK,1.6340000000000001
-2014,pakistan,PAK,1.6340000000000001
-2015,pakistan,PAK,1.6340000000000001
-2016,pakistan,PAK,1.6705999999999999
-2017,pakistan,PAK,1.8175999999999999
-2018,pakistan,PAK,1.8175999999999999
-2019,pakistan,PAK,1.8175999999999999
-2020,pakistan,PAK,1.8175999999999999
-2021,pakistan,PAK,1.8175999999999999
+2010,pakistan,PAK,7.806
+2011,pakistan,PAK,7.806
+2012,pakistan,PAK,7.806
+2013,pakistan,PAK,7.806
+2014,pakistan,PAK,7.806
+2015,pakistan,PAK,7.806
+2016,pakistan,PAK,7.842600000000001
+2017,pakistan,PAK,7.9896
+2018,pakistan,PAK,7.9896
+2019,pakistan,PAK,7.9896
+2020,pakistan,PAK,7.9896
+2021,pakistan,PAK,7.9896
 1970,palau,PLW,0.0
 1971,palau,PLW,0.0
 1972,palau,PLW,0.0
@@ -9347,18 +9347,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,panama,PAN,0.0
 2008,panama,PAN,0.0
 2009,panama,PAN,0.0
-2010,panama,PAN,0.0
-2011,panama,PAN,0.0
-2012,panama,PAN,0.0
-2013,panama,PAN,0.0
-2014,panama,PAN,0.0
-2015,panama,PAN,0.0
-2016,panama,PAN,0.0
-2017,panama,PAN,0.0
-2018,panama,PAN,0.0
-2019,panama,PAN,0.0
-2020,panama,PAN,0.0
-2021,panama,PAN,0.0
+2010,panama,PAN,1.0629000000000002
+2011,panama,PAN,1.0629000000000002
+2012,panama,PAN,1.0629000000000002
+2013,panama,PAN,1.0629000000000002
+2014,panama,PAN,1.0629000000000002
+2015,panama,PAN,1.0629000000000002
+2016,panama,PAN,1.0629000000000002
+2017,panama,PAN,1.0629000000000002
+2018,panama,PAN,1.0629000000000002
+2019,panama,PAN,1.0629000000000002
+2020,panama,PAN,1.0629000000000002
+2021,panama,PAN,1.0629000000000002
 1970,papua new guinea,PNG,0.0
 1971,papua new guinea,PNG,0.0
 1972,papua new guinea,PNG,0.0
@@ -9399,18 +9399,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,papua new guinea,PNG,0.0
 2008,papua new guinea,PNG,0.0
 2009,papua new guinea,PNG,0.0
-2010,papua new guinea,PNG,0.0
-2011,papua new guinea,PNG,0.0
-2012,papua new guinea,PNG,0.0
-2013,papua new guinea,PNG,0.0
-2014,papua new guinea,PNG,0.0
-2015,papua new guinea,PNG,0.0
-2016,papua new guinea,PNG,0.0
-2017,papua new guinea,PNG,0.0
-2018,papua new guinea,PNG,0.0
-2019,papua new guinea,PNG,0.0
-2020,papua new guinea,PNG,0.0
-2021,papua new guinea,PNG,0.0
+2010,papua new guinea,PNG,0.165
+2011,papua new guinea,PNG,0.165
+2012,papua new guinea,PNG,0.165
+2013,papua new guinea,PNG,0.165
+2014,papua new guinea,PNG,0.165
+2015,papua new guinea,PNG,0.165
+2016,papua new guinea,PNG,0.165
+2017,papua new guinea,PNG,0.165
+2018,papua new guinea,PNG,0.165
+2019,papua new guinea,PNG,0.165
+2020,papua new guinea,PNG,0.165
+2021,papua new guinea,PNG,0.165
 1970,paraguay,PRY,0.0
 1971,paraguay,PRY,0.0
 1972,paraguay,PRY,0.0
@@ -9555,18 +9555,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,peru,PER,1.8924
 2008,peru,PER,1.8924
 2009,peru,PER,1.8924
-2010,peru,PER,2.1124
-2011,peru,PER,2.1124
-2012,peru,PER,2.1124
-2013,peru,PER,2.1124
-2014,peru,PER,2.1124
-2015,peru,PER,2.1124
-2016,peru,PER,2.1124
-2017,peru,PER,2.1124
-2018,peru,PER,2.1124
-2019,peru,PER,2.1124
-2020,peru,PER,2.1124
-2021,peru,PER,2.1124
+2010,peru,PER,2.7354000000000003
+2011,peru,PER,2.7354000000000003
+2012,peru,PER,2.7354000000000003
+2013,peru,PER,2.7354000000000003
+2014,peru,PER,2.7354000000000003
+2015,peru,PER,2.7354000000000003
+2016,peru,PER,2.7354000000000003
+2017,peru,PER,2.7354000000000003
+2018,peru,PER,2.7354000000000003
+2019,peru,PER,2.7354000000000003
+2020,peru,PER,2.7354000000000003
+2021,peru,PER,2.7354000000000003
 1970,philippines,PHL,0.0
 1971,philippines,PHL,0.0
 1972,philippines,PHL,0.0
@@ -9607,18 +9607,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,philippines,PHL,0.0
 2008,philippines,PHL,0.0
 2009,philippines,PHL,0.0
-2010,philippines,PHL,0.0
-2011,philippines,PHL,0.0
-2012,philippines,PHL,0.0
-2013,philippines,PHL,0.0
-2014,philippines,PHL,0.0
-2015,philippines,PHL,0.0
-2016,philippines,PHL,0.0
-2017,philippines,PHL,0.001
-2018,philippines,PHL,0.001
-2019,philippines,PHL,0.001
-2020,philippines,PHL,0.001
-2021,philippines,PHL,0.001
+2010,philippines,PHL,3.4001000000000006
+2011,philippines,PHL,3.4001000000000006
+2012,philippines,PHL,3.4001000000000006
+2013,philippines,PHL,3.4001000000000006
+2014,philippines,PHL,3.4001000000000006
+2015,philippines,PHL,3.4001000000000006
+2016,philippines,PHL,3.4001000000000006
+2017,philippines,PHL,3.4011000000000005
+2018,philippines,PHL,3.4011000000000005
+2019,philippines,PHL,3.4011000000000005
+2020,philippines,PHL,3.4011000000000005
+2021,philippines,PHL,3.4011000000000005
 1970,pitcairn,PCN,0.0
 1971,pitcairn,PCN,0.0
 1972,pitcairn,PCN,0.0
@@ -9711,18 +9711,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,poland,POL,2.072
 2008,poland,POL,2.074
 2009,poland,POL,2.074
-2010,poland,POL,2.074
-2011,poland,POL,2.074
-2012,poland,POL,2.074
-2013,poland,POL,2.074
-2014,poland,POL,2.074
-2015,poland,POL,2.074
-2016,poland,POL,2.074
-2017,poland,POL,2.074
-2018,poland,POL,2.074
-2019,poland,POL,2.074
-2020,poland,POL,2.074
-2021,poland,POL,2.074
+2010,poland,POL,2.078
+2011,poland,POL,2.078
+2012,poland,POL,2.078
+2013,poland,POL,2.078
+2014,poland,POL,2.078
+2015,poland,POL,2.078
+2016,poland,POL,2.078
+2017,poland,POL,2.078
+2018,poland,POL,2.078
+2019,poland,POL,2.078
+2020,poland,POL,2.078
+2021,poland,POL,2.078
 1970,portugal,PRT,0.7092
 1971,portugal,PRT,0.7116
 1972,portugal,PRT,0.714
@@ -9735,46 +9735,46 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 1979,portugal,PRT,0.721
 1980,portugal,PRT,0.721
 1981,portugal,PRT,0.721
-1982,portugal,PRT,0.7449999999999999
-1983,portugal,PRT,0.7449999999999999
-1984,portugal,PRT,0.7449999999999999
-1985,portugal,PRT,0.7449999999999999
-1986,portugal,PRT,0.7449999999999999
-1987,portugal,PRT,0.7449999999999999
+1982,portugal,PRT,0.745
+1983,portugal,PRT,0.745
+1984,portugal,PRT,0.745
+1985,portugal,PRT,0.745
+1986,portugal,PRT,0.745
+1987,portugal,PRT,0.745
 1988,portugal,PRT,0.7496
 1989,portugal,PRT,0.7496
 1990,portugal,PRT,0.7736000000000001
 1991,portugal,PRT,0.7776000000000001
-1992,portugal,PRT,0.8028000000000001
+1992,portugal,PRT,0.8028
 1993,portugal,PRT,0.9494
-1994,portugal,PRT,1.0023000000000002
-1995,portugal,PRT,1.0323000000000002
-1996,portugal,PRT,1.0536999999999999
+1994,portugal,PRT,1.0023
+1995,portugal,PRT,1.0323
+1996,portugal,PRT,1.0537
 1997,portugal,PRT,1.0609000000000002
 1998,portugal,PRT,1.0698
 1999,portugal,PRT,1.0799
 2000,portugal,PRT,1.0864
-2001,portugal,PRT,1.1266000000000003
-2002,portugal,PRT,1.1378000000000001
-2003,portugal,PRT,1.1378000000000001
-2004,portugal,PRT,1.1480000000000004
-2005,portugal,PRT,1.1500000000000004
-2006,portugal,PRT,1.1851000000000005
-2007,portugal,PRT,1.1861000000000004
-2008,portugal,PRT,1.2066500000000004
-2009,portugal,PRT,1.2120500000000005
-2010,portugal,PRT,1.2270500000000006
-2011,portugal,PRT,1.2290500000000006
-2012,portugal,PRT,1.2338500000000006
-2013,portugal,PRT,1.2338500000000006
-2014,portugal,PRT,1.2338500000000006
-2015,portugal,PRT,1.3504500000000006
-2016,portugal,PRT,1.3504500000000006
-2017,portugal,PRT,1.3504500000000006
-2018,portugal,PRT,1.3504500000000006
-2019,portugal,PRT,1.3504500000000006
-2020,portugal,PRT,1.3504500000000006
-2021,portugal,PRT,1.3504500000000006
+2001,portugal,PRT,1.1265999999999998
+2002,portugal,PRT,1.1378
+2003,portugal,PRT,1.1378
+2004,portugal,PRT,1.1480000000000001
+2005,portugal,PRT,1.1500000000000001
+2006,portugal,PRT,1.1851
+2007,portugal,PRT,1.1861
+2008,portugal,PRT,1.2066500000000002
+2009,portugal,PRT,1.21205
+2010,portugal,PRT,2.6370500000000003
+2011,portugal,PRT,2.63905
+2012,portugal,PRT,2.64385
+2013,portugal,PRT,2.64385
+2014,portugal,PRT,2.64385
+2015,portugal,PRT,2.76045
+2016,portugal,PRT,2.76045
+2017,portugal,PRT,2.76045
+2018,portugal,PRT,2.76045
+2019,portugal,PRT,2.76045
+2020,portugal,PRT,2.76045
+2021,portugal,PRT,2.76045
 1970,puerto rico,PRI,0.0
 1971,puerto rico,PRI,0.0
 1972,puerto rico,PRI,0.0
@@ -9971,18 +9971,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,romania,ROM,1.496
 2008,romania,ROM,1.496
 2009,romania,ROM,1.496
-2010,romania,ROM,1.496
-2011,romania,ROM,1.496
-2012,romania,ROM,1.496
-2013,romania,ROM,1.496
-2014,romania,ROM,1.496
-2015,romania,ROM,1.496
-2016,romania,ROM,1.496
-2017,romania,ROM,1.496
-2018,romania,ROM,1.496
-2019,romania,ROM,1.496
-2020,romania,ROM,1.496
-2021,romania,ROM,1.496
+2010,romania,ROM,3.332
+2011,romania,ROM,3.332
+2012,romania,ROM,3.332
+2013,romania,ROM,3.332
+2014,romania,ROM,3.332
+2015,romania,ROM,3.332
+2016,romania,ROM,3.332
+2017,romania,ROM,3.332
+2018,romania,ROM,3.332
+2019,romania,ROM,3.332
+2020,romania,ROM,3.332
+2021,romania,ROM,3.332
 1970,russian federation,RUS,13.79964
 1971,russian federation,RUS,13.84764
 1972,russian federation,RUS,19.99764
@@ -10023,18 +10023,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,russian federation,RUS,24.98234
 2008,russian federation,RUS,24.98234
 2009,russian federation,RUS,24.98234
-2010,russian federation,RUS,24.98234
-2011,russian federation,RUS,25.01294
-2012,russian federation,RUS,28.009940000000004
-2013,russian federation,RUS,28.009940000000004
-2014,russian federation,RUS,28.009940000000004
-2015,russian federation,RUS,28.009940000000004
-2016,russian federation,RUS,28.009940000000004
-2017,russian federation,RUS,28.009940000000004
-2018,russian federation,RUS,28.009940000000004
-2019,russian federation,RUS,28.009940000000004
-2020,russian federation,RUS,28.009940000000004
-2021,russian federation,RUS,28.009940000000004
+2010,russian federation,RUS,42.56384
+2011,russian federation,RUS,42.594440000000006
+2012,russian federation,RUS,45.591440000000006
+2013,russian federation,RUS,45.591440000000006
+2014,russian federation,RUS,45.591440000000006
+2015,russian federation,RUS,45.591440000000006
+2016,russian federation,RUS,45.591440000000006
+2017,russian federation,RUS,45.591440000000006
+2018,russian federation,RUS,45.591440000000006
+2019,russian federation,RUS,45.591440000000006
+2020,russian federation,RUS,45.591440000000006
+2021,russian federation,RUS,45.591440000000006
 1970,rwanda,RWA,0.041299999999999996
 1971,rwanda,RWA,0.041299999999999996
 1972,rwanda,RWA,0.041299999999999996
@@ -10647,18 +10647,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,senegal,SEN,0.0
 2008,senegal,SEN,0.0
 2009,senegal,SEN,0.0
-2010,senegal,SEN,0.0
-2011,senegal,SEN,0.0
-2012,senegal,SEN,0.0
-2013,senegal,SEN,0.0
-2014,senegal,SEN,0.0
-2015,senegal,SEN,0.0
-2016,senegal,SEN,0.0
-2017,senegal,SEN,0.0
-2018,senegal,SEN,0.0
-2019,senegal,SEN,0.0
-2020,senegal,SEN,0.0
-2021,senegal,SEN,0.0
+2010,senegal,SEN,0.12
+2011,senegal,SEN,0.12
+2012,senegal,SEN,0.12
+2013,senegal,SEN,0.12
+2014,senegal,SEN,0.12
+2015,senegal,SEN,0.12
+2016,senegal,SEN,0.12
+2017,senegal,SEN,0.12
+2018,senegal,SEN,0.12
+2019,senegal,SEN,0.12
+2020,senegal,SEN,0.12
+2021,senegal,SEN,0.12
 1970,seychelles,SYC,0.0
 1971,seychelles,SYC,0.0
 1972,seychelles,SYC,0.0
@@ -10751,18 +10751,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,sierra leone,SLE,0.0
 2008,sierra leone,SLE,0.0
 2009,sierra leone,SLE,0.0
-2010,sierra leone,SLE,0.0
-2011,sierra leone,SLE,0.0
-2012,sierra leone,SLE,0.0
-2013,sierra leone,SLE,0.0
-2014,sierra leone,SLE,0.0
-2015,sierra leone,SLE,0.0
-2016,sierra leone,SLE,0.0
-2017,sierra leone,SLE,0.0
-2018,sierra leone,SLE,0.0
-2019,sierra leone,SLE,0.0
-2020,sierra leone,SLE,0.0
-2021,sierra leone,SLE,0.0
+2010,sierra leone,SLE,0.05
+2011,sierra leone,SLE,0.05
+2012,sierra leone,SLE,0.05
+2013,sierra leone,SLE,0.05
+2014,sierra leone,SLE,0.05
+2015,sierra leone,SLE,0.05
+2016,sierra leone,SLE,0.05
+2017,sierra leone,SLE,0.05
+2018,sierra leone,SLE,0.05
+2019,sierra leone,SLE,0.05
+2020,sierra leone,SLE,0.05
+2021,sierra leone,SLE,0.05
 1970,sikkim,SIK,0.0
 1971,sikkim,SIK,0.0
 1972,sikkim,SIK,0.0
@@ -10959,18 +10959,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,slovenia,SVN,0.0
 2008,slovenia,SVN,0.0
 2009,slovenia,SVN,0.0
-2010,slovenia,SVN,0.0
-2011,slovenia,SVN,0.0
-2012,slovenia,SVN,0.0
-2013,slovenia,SVN,0.0
-2014,slovenia,SVN,0.0
-2015,slovenia,SVN,0.0
-2016,slovenia,SVN,0.0
-2017,slovenia,SVN,0.0
-2018,slovenia,SVN,0.0
-2019,slovenia,SVN,0.0
-2020,slovenia,SVN,0.0
-2021,slovenia,SVN,0.0
+2010,slovenia,SVN,0.422
+2011,slovenia,SVN,0.422
+2012,slovenia,SVN,0.422
+2013,slovenia,SVN,0.422
+2014,slovenia,SVN,0.422
+2015,slovenia,SVN,0.422
+2016,slovenia,SVN,0.422
+2017,slovenia,SVN,0.422
+2018,slovenia,SVN,0.422
+2019,slovenia,SVN,0.422
+2020,slovenia,SVN,0.422
+2021,slovenia,SVN,0.422
 1970,solomon islands,SLB,0.0
 1971,solomon islands,SLB,0.0
 1972,solomon islands,SLB,0.0
@@ -11115,18 +11115,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,south africa,ZAF,2.0
 2008,south africa,ZAF,2.0
 2009,south africa,ZAF,2.007
-2010,south africa,ZAF,2.007
-2011,south africa,ZAF,2.007
-2012,south africa,ZAF,2.007
-2013,south africa,ZAF,2.007
-2014,south africa,ZAF,2.007
-2015,south africa,ZAF,2.007
-2016,south africa,ZAF,2.007
-2017,south africa,ZAF,2.007
-2018,south africa,ZAF,2.007
-2019,south africa,ZAF,2.007
-2020,south africa,ZAF,2.007
-2021,south africa,ZAF,2.007
+2010,south africa,ZAF,2.01957
+2011,south africa,ZAF,2.01957
+2012,south africa,ZAF,2.01957
+2013,south africa,ZAF,2.01957
+2014,south africa,ZAF,2.01957
+2015,south africa,ZAF,2.01957
+2016,south africa,ZAF,2.01957
+2017,south africa,ZAF,2.01957
+2018,south africa,ZAF,2.01957
+2019,south africa,ZAF,2.01957
+2020,south africa,ZAF,2.01957
+2021,south africa,ZAF,2.01957
 1970,soviet union,SVU,0.0
 1971,soviet union,SVU,0.0
 1972,soviet union,SVU,0.0
@@ -11179,12 +11179,12 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2019,soviet union,SVU,0.0
 2020,soviet union,SVU,0.0
 2021,soviet union,SVU,0.0
-1970,spain,ESP,7.221019999999999
+1970,spain,ESP,7.22102
 1971,spain,ESP,7.3719
 1972,spain,ESP,7.41615
 1973,spain,ESP,7.95956
 1974,spain,ESP,8.05198
-1975,spain,ESP,8.39304
+1975,spain,ESP,8.393040000000001
 1976,spain,ESP,8.888219999999999
 1977,spain,ESP,9.72889
 1978,spain,ESP,9.863959999999999
@@ -11192,13 +11192,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 1980,spain,ESP,9.91436
 1981,spain,ESP,10.00291
 1982,spain,ESP,10.17808
-1983,spain,ESP,10.53868
-1984,spain,ESP,10.53868
+1983,spain,ESP,10.538680000000001
+1984,spain,ESP,10.538680000000001
 1985,spain,ESP,10.75782
 1986,spain,ESP,11.98425
 1987,spain,ESP,11.98425
 1988,spain,ESP,12.04935
-1989,spain,ESP,13.302629999999999
+1989,spain,ESP,13.30263
 1990,spain,ESP,13.38582
 1991,spain,ESP,13.38582
 1992,spain,ESP,13.4425
@@ -11208,29 +11208,29 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 1996,spain,ESP,13.690299999999999
 1997,spain,ESP,13.690299999999999
 1998,spain,ESP,13.690299999999999
-1999,spain,ESP,14.016869999999999
-2000,spain,ESP,14.016869999999999
-2001,spain,ESP,14.03727
-2002,spain,ESP,14.03727
-2003,spain,ESP,14.107439999999999
-2004,spain,ESP,14.107439999999999
-2005,spain,ESP,14.117439999999998
-2006,spain,ESP,14.133329999999999
-2007,spain,ESP,14.178319999999996
-2008,spain,ESP,14.178319999999996
-2009,spain,ESP,14.192309999999996
-2010,spain,ESP,14.192309999999996
-2011,spain,ESP,14.192309999999996
-2012,spain,ESP,14.630759999999997
-2013,spain,ESP,14.630759999999997
-2014,spain,ESP,14.630759999999997
-2015,spain,ESP,14.630759999999997
-2016,spain,ESP,14.630759999999997
-2017,spain,ESP,14.630759999999997
-2018,spain,ESP,14.630759999999997
-2019,spain,ESP,14.630759999999997
-2020,spain,ESP,14.630759999999997
-2021,spain,ESP,14.630759999999997
+1999,spain,ESP,14.01687
+2000,spain,ESP,14.01687
+2001,spain,ESP,14.037270000000001
+2002,spain,ESP,14.037270000000001
+2003,spain,ESP,14.10744
+2004,spain,ESP,14.10744
+2005,spain,ESP,14.11744
+2006,spain,ESP,14.13333
+2007,spain,ESP,14.17832
+2008,spain,ESP,14.17832
+2009,spain,ESP,14.192309999999999
+2010,spain,ESP,15.220686
+2011,spain,ESP,15.220686
+2012,spain,ESP,15.659136
+2013,spain,ESP,15.659136
+2014,spain,ESP,15.659136
+2015,spain,ESP,15.659136
+2016,spain,ESP,15.659136
+2017,spain,ESP,15.659136
+2018,spain,ESP,15.659136
+2019,spain,ESP,15.659136
+2020,spain,ESP,15.659136
+2021,spain,ESP,15.659136
 1970,special categories,SPE,0.0
 1971,special categories,SPE,0.0
 1972,special categories,SPE,0.0
@@ -11323,18 +11323,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,sri lanka,LKA,0.011
 2008,sri lanka,LKA,0.011
 2009,sri lanka,LKA,0.011
-2010,sri lanka,LKA,0.011
-2011,sri lanka,LKA,0.011
-2012,sri lanka,LKA,0.011
-2013,sri lanka,LKA,0.011
-2014,sri lanka,LKA,0.011
-2015,sri lanka,LKA,0.011
-2016,sri lanka,LKA,0.011
-2017,sri lanka,LKA,0.046
-2018,sri lanka,LKA,0.046
-2019,sri lanka,LKA,0.046
-2020,sri lanka,LKA,0.046
-2021,sri lanka,LKA,0.046
+2010,sri lanka,LKA,1.4067
+2011,sri lanka,LKA,1.4067
+2012,sri lanka,LKA,1.4067
+2013,sri lanka,LKA,1.4067
+2014,sri lanka,LKA,1.4067
+2015,sri lanka,LKA,1.4067
+2016,sri lanka,LKA,1.4067
+2017,sri lanka,LKA,1.4417
+2018,sri lanka,LKA,1.4417
+2019,sri lanka,LKA,1.4417
+2020,sri lanka,LKA,1.4417
+2021,sri lanka,LKA,1.4417
 1970,st. kitts and nevis,KNA,0.0
 1971,st. kitts and nevis,KNA,0.0
 1972,st. kitts and nevis,KNA,0.0
@@ -11531,18 +11531,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,sudan,SDN,0.0
 2008,sudan,SDN,0.0
 2009,sudan,SDN,0.0
-2010,sudan,SDN,0.0
-2011,sudan,SDN,0.0
-2012,sudan,SDN,0.0
-2013,sudan,SDN,0.0
-2014,sudan,SDN,0.0
-2015,sudan,SDN,0.0
-2016,sudan,SDN,0.0
-2017,sudan,SDN,0.0
-2018,sudan,SDN,0.0
-2019,sudan,SDN,0.0
-2020,sudan,SDN,0.0
-2021,sudan,SDN,0.0
+2010,sudan,SDN,1.54001
+2011,sudan,SDN,1.54001
+2012,sudan,SDN,1.54001
+2013,sudan,SDN,1.54001
+2014,sudan,SDN,1.54001
+2015,sudan,SDN,1.54001
+2016,sudan,SDN,1.54001
+2017,sudan,SDN,1.54001
+2018,sudan,SDN,1.54001
+2019,sudan,SDN,1.54001
+2020,sudan,SDN,1.54001
+2021,sudan,SDN,1.54001
 1970,suriname,SUR,0.0
 1971,suriname,SUR,0.0
 1972,suriname,SUR,0.0
@@ -11687,21 +11687,21 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,swaziland,SWZ,0.0
 2008,swaziland,SWZ,0.0
 2009,swaziland,SWZ,0.0
-2010,swaziland,SWZ,0.0
-2011,swaziland,SWZ,0.0
-2012,swaziland,SWZ,0.0
-2013,swaziland,SWZ,0.0
-2014,swaziland,SWZ,0.0
-2015,swaziland,SWZ,0.0
-2016,swaziland,SWZ,0.0
-2017,swaziland,SWZ,0.0
-2018,swaziland,SWZ,0.0
-2019,swaziland,SWZ,0.0
-2020,swaziland,SWZ,0.0
-2021,swaziland,SWZ,0.0
-1970,sweden,SWE,7.989000000000001
-1971,sweden,SWE,7.989000000000001
-1972,sweden,SWE,8.176000000000002
+2010,swaziland,SWZ,0.0508
+2011,swaziland,SWZ,0.0508
+2012,swaziland,SWZ,0.0508
+2013,swaziland,SWZ,0.0508
+2014,swaziland,SWZ,0.0508
+2015,swaziland,SWZ,0.0508
+2016,swaziland,SWZ,0.0508
+2017,swaziland,SWZ,0.0508
+2018,swaziland,SWZ,0.0508
+2019,swaziland,SWZ,0.0508
+2020,swaziland,SWZ,0.0508
+2021,swaziland,SWZ,0.0508
+1970,sweden,SWE,7.989
+1971,sweden,SWE,7.989
+1972,sweden,SWE,8.176
 1973,sweden,SWE,8.326
 1974,sweden,SWE,8.348
 1975,sweden,SWE,8.842
@@ -11711,7 +11711,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 1979,sweden,SWE,9.3192
 1980,sweden,SWE,9.339200000000002
 1981,sweden,SWE,9.3612
-1982,sweden,SWE,9.404900000000001
+1982,sweden,SWE,9.4049
 1983,sweden,SWE,9.408700000000001
 1984,sweden,SWE,9.408700000000001
 1985,sweden,SWE,9.4207
@@ -11739,70 +11739,70 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,sweden,SWE,9.7797
 2008,sweden,SWE,9.7797
 2009,sweden,SWE,9.7797
-2010,sweden,SWE,9.7797
-2011,sweden,SWE,9.7797
-2012,sweden,SWE,9.7797
-2013,sweden,SWE,9.7797
-2014,sweden,SWE,9.7797
-2015,sweden,SWE,9.7797
-2016,sweden,SWE,9.7797
-2017,sweden,SWE,9.7797
-2018,sweden,SWE,9.7797
-2019,sweden,SWE,9.7797
-2020,sweden,SWE,9.7797
-2021,sweden,SWE,9.7797
-1970,switzerland,CHE,6.2608200000000025
-1971,switzerland,CHE,6.2608200000000025
-1972,switzerland,CHE,6.265070000000002
-1973,switzerland,CHE,6.278730000000002
-1974,switzerland,CHE,6.311230000000003
-1975,switzerland,CHE,6.395230000000002
-1976,switzerland,CHE,6.450230000000002
-1977,switzerland,CHE,6.450230000000002
-1978,switzerland,CHE,6.7107300000000025
-1979,switzerland,CHE,6.7107300000000025
-1980,switzerland,CHE,6.7107300000000025
-1981,switzerland,CHE,7.058730000000003
-1982,switzerland,CHE,7.059930000000003
-1983,switzerland,CHE,7.059930000000003
-1984,switzerland,CHE,7.059930000000003
-1985,switzerland,CHE,7.059930000000003
-1986,switzerland,CHE,7.059930000000003
-1987,switzerland,CHE,7.059930000000003
-1988,switzerland,CHE,7.059930000000003
-1989,switzerland,CHE,7.059930000000003
-1990,switzerland,CHE,7.059930000000003
-1991,switzerland,CHE,7.061860000000004
-1992,switzerland,CHE,7.111360000000004
-1993,switzerland,CHE,7.111360000000004
-1994,switzerland,CHE,7.204060000000004
-1995,switzerland,CHE,7.204060000000004
-1996,switzerland,CHE,7.217090000000003
-1997,switzerland,CHE,7.217090000000003
-1998,switzerland,CHE,7.219890000000003
-1999,switzerland,CHE,8.507790000000004
-2000,switzerland,CHE,8.507790000000004
-2001,switzerland,CHE,8.513990000000003
-2002,switzerland,CHE,8.515270000000003
-2003,switzerland,CHE,8.516470000000004
-2004,switzerland,CHE,8.517850000000003
-2005,switzerland,CHE,8.517850000000003
-2006,switzerland,CHE,8.517850000000003
-2007,switzerland,CHE,8.519950000000003
-2008,switzerland,CHE,8.519950000000003
-2009,switzerland,CHE,8.548350000000003
-2010,switzerland,CHE,8.548350000000003
-2011,switzerland,CHE,8.548350000000003
-2012,switzerland,CHE,8.560350000000003
-2013,switzerland,CHE,8.560350000000003
-2014,switzerland,CHE,8.560350000000003
-2015,switzerland,CHE,8.560350000000003
-2016,switzerland,CHE,9.56035
-2017,switzerland,CHE,9.56035
-2018,switzerland,CHE,9.56035
-2019,switzerland,CHE,9.56035
-2020,switzerland,CHE,9.56035
-2021,switzerland,CHE,9.56035
+2010,sweden,SWE,12.8229
+2011,sweden,SWE,12.8229
+2012,sweden,SWE,12.8229
+2013,sweden,SWE,12.8229
+2014,sweden,SWE,12.8229
+2015,sweden,SWE,12.8229
+2016,sweden,SWE,12.8229
+2017,sweden,SWE,12.8229
+2018,sweden,SWE,12.8229
+2019,sweden,SWE,12.8229
+2020,sweden,SWE,12.8229
+2021,sweden,SWE,12.8229
+1970,switzerland,CHE,6.26082
+1971,switzerland,CHE,6.26082
+1972,switzerland,CHE,6.26507
+1973,switzerland,CHE,6.2787299999999995
+1974,switzerland,CHE,6.31123
+1975,switzerland,CHE,6.39523
+1976,switzerland,CHE,6.4502299999999995
+1977,switzerland,CHE,6.4502299999999995
+1978,switzerland,CHE,6.71073
+1979,switzerland,CHE,6.71073
+1980,switzerland,CHE,6.71073
+1981,switzerland,CHE,7.05873
+1982,switzerland,CHE,7.0599300000000005
+1983,switzerland,CHE,7.0599300000000005
+1984,switzerland,CHE,7.0599300000000005
+1985,switzerland,CHE,7.0599300000000005
+1986,switzerland,CHE,7.0599300000000005
+1987,switzerland,CHE,7.0599300000000005
+1988,switzerland,CHE,7.0599300000000005
+1989,switzerland,CHE,7.0599300000000005
+1990,switzerland,CHE,7.0599300000000005
+1991,switzerland,CHE,7.06186
+1992,switzerland,CHE,7.1113599999999995
+1993,switzerland,CHE,7.1113599999999995
+1994,switzerland,CHE,7.20406
+1995,switzerland,CHE,7.20406
+1996,switzerland,CHE,7.217090000000001
+1997,switzerland,CHE,7.217090000000001
+1998,switzerland,CHE,7.21989
+1999,switzerland,CHE,8.50779
+2000,switzerland,CHE,8.50779
+2001,switzerland,CHE,8.51399
+2002,switzerland,CHE,8.515270000000001
+2003,switzerland,CHE,8.51647
+2004,switzerland,CHE,8.517850000000001
+2005,switzerland,CHE,8.517850000000001
+2006,switzerland,CHE,8.517850000000001
+2007,switzerland,CHE,8.519950000000001
+2008,switzerland,CHE,8.519950000000001
+2009,switzerland,CHE,8.548350000000001
+2010,switzerland,CHE,8.6558
+2011,switzerland,CHE,8.6558
+2012,switzerland,CHE,8.6678
+2013,switzerland,CHE,8.6678
+2014,switzerland,CHE,8.6678
+2015,switzerland,CHE,8.6678
+2016,switzerland,CHE,9.6678
+2017,switzerland,CHE,9.6678
+2018,switzerland,CHE,9.6678
+2019,switzerland,CHE,9.6678
+2020,switzerland,CHE,9.6678
+2021,switzerland,CHE,9.6678
 1970,syrian arab republic,SYR,0.0
 1971,syrian arab republic,SYR,0.0
 1972,syrian arab republic,SYR,0.0
@@ -11843,18 +11843,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,syrian arab republic,SYR,0.0
 2008,syrian arab republic,SYR,0.0
 2009,syrian arab republic,SYR,0.0
-2010,syrian arab republic,SYR,0.0
-2011,syrian arab republic,SYR,0.0
-2012,syrian arab republic,SYR,0.0
-2013,syrian arab republic,SYR,0.0
-2014,syrian arab republic,SYR,0.0
-2015,syrian arab republic,SYR,0.0
-2016,syrian arab republic,SYR,0.0
-2017,syrian arab republic,SYR,0.0
-2018,syrian arab republic,SYR,0.0
-2019,syrian arab republic,SYR,0.0
-2020,syrian arab republic,SYR,0.0
-2021,syrian arab republic,SYR,0.0
+2010,syrian arab republic,SYR,1.5050000000000001
+2011,syrian arab republic,SYR,1.5050000000000001
+2012,syrian arab republic,SYR,1.5050000000000001
+2013,syrian arab republic,SYR,1.5050000000000001
+2014,syrian arab republic,SYR,1.5050000000000001
+2015,syrian arab republic,SYR,1.5050000000000001
+2016,syrian arab republic,SYR,1.5050000000000001
+2017,syrian arab republic,SYR,1.5050000000000001
+2018,syrian arab republic,SYR,1.5050000000000001
+2019,syrian arab republic,SYR,1.5050000000000001
+2020,syrian arab republic,SYR,1.5050000000000001
+2021,syrian arab republic,SYR,1.5050000000000001
 1970,taiwan,TWN,0.02
 1971,taiwan,TWN,0.02
 1972,taiwan,TWN,0.02
@@ -11895,18 +11895,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,taiwan,TWN,1.0425
 2008,taiwan,TWN,1.0425
 2009,taiwan,TWN,1.0425
-2010,taiwan,TWN,1.0435
-2011,taiwan,TWN,1.0435
-2012,taiwan,TWN,1.0435
-2013,taiwan,TWN,1.0435
-2014,taiwan,TWN,1.0435
-2015,taiwan,TWN,1.0435
-2016,taiwan,TWN,1.0435
-2017,taiwan,TWN,1.0435
-2018,taiwan,TWN,1.0435
-2019,taiwan,TWN,1.0435
-2020,taiwan,TWN,1.0435
-2021,taiwan,TWN,1.0435
+2010,taiwan,TWN,3.8255
+2011,taiwan,TWN,3.8255
+2012,taiwan,TWN,3.8255
+2013,taiwan,TWN,3.8255
+2014,taiwan,TWN,3.8255
+2015,taiwan,TWN,3.8255
+2016,taiwan,TWN,3.8255
+2017,taiwan,TWN,3.8255
+2018,taiwan,TWN,3.8255
+2019,taiwan,TWN,3.8255
+2020,taiwan,TWN,3.8255
+2021,taiwan,TWN,3.8255
 1970,tajikistan,TJK,0.0
 1971,tajikistan,TJK,0.0
 1972,tajikistan,TJK,3.015
@@ -11947,18 +11947,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,tajikistan,TJK,3.015
 2008,tajikistan,TJK,3.015
 2009,tajikistan,TJK,3.715
-2010,tajikistan,TJK,3.715
-2011,tajikistan,TJK,3.715
-2012,tajikistan,TJK,3.715
-2013,tajikistan,TJK,3.715
-2014,tajikistan,TJK,3.715
-2015,tajikistan,TJK,3.715
-2016,tajikistan,TJK,3.715
-2017,tajikistan,TJK,3.715
-2018,tajikistan,TJK,3.715
-2019,tajikistan,TJK,3.715
-2020,tajikistan,TJK,3.715
-2021,tajikistan,TJK,3.715
+2010,tajikistan,TJK,4.6864
+2011,tajikistan,TJK,4.6864
+2012,tajikistan,TJK,4.6864
+2013,tajikistan,TJK,4.6864
+2014,tajikistan,TJK,4.6864
+2015,tajikistan,TJK,4.6864
+2016,tajikistan,TJK,4.6864
+2017,tajikistan,TJK,4.6864
+2018,tajikistan,TJK,4.6864
+2019,tajikistan,TJK,4.6864
+2020,tajikistan,TJK,4.6864
+2021,tajikistan,TJK,4.6864
 1970,tanzania,TZA,0.008
 1971,tanzania,TZA,0.008
 1972,tanzania,TZA,0.008
@@ -11999,18 +11999,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,tanzania,TZA,0.54
 2008,tanzania,TZA,0.54
 2009,tanzania,TZA,0.54
-2010,tanzania,TZA,0.54
-2011,tanzania,TZA,0.54
-2012,tanzania,TZA,0.54
-2013,tanzania,TZA,0.54
-2014,tanzania,TZA,0.54
-2015,tanzania,TZA,0.54
-2016,tanzania,TZA,0.54
-2017,tanzania,TZA,0.54
-2018,tanzania,TZA,0.54
-2019,tanzania,TZA,0.54
-2020,tanzania,TZA,0.54
-2021,tanzania,TZA,0.54
+2010,tanzania,TZA,0.561
+2011,tanzania,TZA,0.561
+2012,tanzania,TZA,0.561
+2013,tanzania,TZA,0.561
+2014,tanzania,TZA,0.561
+2015,tanzania,TZA,0.561
+2016,tanzania,TZA,0.561
+2017,tanzania,TZA,0.561
+2018,tanzania,TZA,0.561
+2019,tanzania,TZA,0.561
+2020,tanzania,TZA,0.561
+2021,tanzania,TZA,0.561
 1970,thailand,THA,0.0
 1971,thailand,THA,0.0
 1972,thailand,THA,0.04
@@ -12051,18 +12051,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,thailand,THA,3.008
 2008,thailand,THA,3.008
 2009,thailand,THA,3.008
-2010,thailand,THA,3.008
-2011,thailand,THA,3.008
-2012,thailand,THA,3.008
-2013,thailand,THA,3.008
-2014,thailand,THA,3.008
-2015,thailand,THA,3.008
-2016,thailand,THA,3.008
-2017,thailand,THA,3.008
-2018,thailand,THA,3.008
-2019,thailand,THA,3.008
-2020,thailand,THA,3.008
-2021,thailand,THA,3.008
+2010,thailand,THA,3.7880000000000003
+2011,thailand,THA,3.7880000000000003
+2012,thailand,THA,3.7880000000000003
+2013,thailand,THA,3.7880000000000003
+2014,thailand,THA,3.7880000000000003
+2015,thailand,THA,3.7880000000000003
+2016,thailand,THA,3.7880000000000003
+2017,thailand,THA,3.7880000000000003
+2018,thailand,THA,3.7880000000000003
+2019,thailand,THA,3.7880000000000003
+2020,thailand,THA,3.7880000000000003
+2021,thailand,THA,3.7880000000000003
 1970,togo,TGO,0.0
 1971,togo,TGO,0.0
 1972,togo,TGO,0.0
@@ -12103,18 +12103,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,togo,TGO,0.0
 2008,togo,TGO,0.0
 2009,togo,TGO,0.0
-2010,togo,TGO,0.0
-2011,togo,TGO,0.0
-2012,togo,TGO,0.0
-2013,togo,TGO,0.0
-2014,togo,TGO,0.0
-2015,togo,TGO,0.0
-2016,togo,TGO,0.0
-2017,togo,TGO,0.0
-2018,togo,TGO,0.0
-2019,togo,TGO,0.0
-2020,togo,TGO,0.0
-2021,togo,TGO,0.0
+2010,togo,TGO,0.06559999999999999
+2011,togo,TGO,0.06559999999999999
+2012,togo,TGO,0.06559999999999999
+2013,togo,TGO,0.06559999999999999
+2014,togo,TGO,0.06559999999999999
+2015,togo,TGO,0.06559999999999999
+2016,togo,TGO,0.06559999999999999
+2017,togo,TGO,0.06559999999999999
+2018,togo,TGO,0.06559999999999999
+2019,togo,TGO,0.06559999999999999
+2020,togo,TGO,0.06559999999999999
+2021,togo,TGO,0.06559999999999999
 1970,tokelau,TKL,0.0
 1971,tokelau,TKL,0.0
 1972,tokelau,TKL,0.0
@@ -12363,18 +12363,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,turkey,TUR,0.192
 2008,turkey,TUR,0.192
 2009,turkey,TUR,0.192
-2010,turkey,TUR,0.192
-2011,turkey,TUR,0.192
-2012,turkey,TUR,0.192
-2013,turkey,TUR,0.192
-2014,turkey,TUR,0.192
-2015,turkey,TUR,0.192
-2016,turkey,TUR,0.192
-2017,turkey,TUR,0.192
-2018,turkey,TUR,0.192
-2019,turkey,TUR,0.192
-2020,turkey,TUR,0.192
-2021,turkey,TUR,0.192
+2010,turkey,TUR,13.839
+2011,turkey,TUR,13.839
+2012,turkey,TUR,13.839
+2013,turkey,TUR,13.839
+2014,turkey,TUR,13.839
+2015,turkey,TUR,13.839
+2016,turkey,TUR,13.839
+2017,turkey,TUR,13.839
+2018,turkey,TUR,13.839
+2019,turkey,TUR,13.839
+2020,turkey,TUR,13.839
+2021,turkey,TUR,13.839
 1970,turkmenistan,TKM,0.0
 1971,turkmenistan,TKM,0.0
 1972,turkmenistan,TKM,0.0
@@ -12571,18 +12571,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,uganda,UGA,0.0
 2008,uganda,UGA,0.0
 2009,uganda,UGA,0.0
-2010,uganda,UGA,0.0
-2011,uganda,UGA,0.0
-2012,uganda,UGA,0.0
-2013,uganda,UGA,0.0
-2014,uganda,UGA,0.0
-2015,uganda,UGA,0.0
-2016,uganda,UGA,0.0
-2017,uganda,UGA,0.0
-2018,uganda,UGA,0.0
-2019,uganda,UGA,0.0
-2020,uganda,UGA,0.0
-2021,uganda,UGA,0.0
+2010,uganda,UGA,0.6665
+2011,uganda,UGA,0.6665
+2012,uganda,UGA,0.6665
+2013,uganda,UGA,0.6665
+2014,uganda,UGA,0.6665
+2015,uganda,UGA,0.6665
+2016,uganda,UGA,0.6665
+2017,uganda,UGA,0.6665
+2018,uganda,UGA,0.6665
+2019,uganda,UGA,0.6665
+2020,uganda,UGA,0.6665
+2021,uganda,UGA,0.6665
 1970,ukraine,UKR,0.0
 1971,ukraine,UKR,0.0
 1972,ukraine,UKR,0.0
@@ -12623,18 +12623,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,ukraine,UKR,0.0
 2008,ukraine,UKR,0.0
 2009,ukraine,UKR,0.0
-2010,ukraine,UKR,0.0
-2011,ukraine,UKR,0.0
-2012,ukraine,UKR,0.0
-2013,ukraine,UKR,0.0
-2014,ukraine,UKR,0.0
-2015,ukraine,UKR,0.0
-2016,ukraine,UKR,0.0
-2017,ukraine,UKR,0.0
-2018,ukraine,UKR,0.0
-2019,ukraine,UKR,0.0
-2020,ukraine,UKR,0.0
-2021,ukraine,UKR,0.0
+2010,ukraine,UKR,5.729
+2011,ukraine,UKR,5.729
+2012,ukraine,UKR,5.729
+2013,ukraine,UKR,5.729
+2014,ukraine,UKR,5.729
+2015,ukraine,UKR,5.729
+2016,ukraine,UKR,5.729
+2017,ukraine,UKR,5.729
+2018,ukraine,UKR,5.729
+2019,ukraine,UKR,5.729
+2020,ukraine,UKR,5.729
+2021,ukraine,UKR,5.729
 1970,united arab emirates,ARE,0.0
 1971,united arab emirates,ARE,0.0
 1972,united arab emirates,ARE,0.0
@@ -12727,70 +12727,70 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,united kingdom,GBR,0.0
 2008,united kingdom,GBR,0.0
 2009,united kingdom,GBR,0.0
-2010,united kingdom,GBR,0.0
-2011,united kingdom,GBR,0.0
-2012,united kingdom,GBR,0.0
-2013,united kingdom,GBR,0.0
-2014,united kingdom,GBR,0.0
-2015,united kingdom,GBR,0.0
-2016,united kingdom,GBR,0.0
-2017,united kingdom,GBR,0.0
-2018,united kingdom,GBR,0.0
-2019,united kingdom,GBR,0.0
-2020,united kingdom,GBR,0.0
-2021,united kingdom,GBR,0.0
-1970,united states,USA,69.52940000000004
-1971,united states,USA,70.05780000000004
-1972,united states,USA,71.34370000000004
-1973,united states,USA,74.79590000000009
-1974,united states,USA,79.68420000000012
-1975,united states,USA,81.5289000000001
-1976,united states,USA,82.87420000000013
-1977,united states,USA,83.55690000000013
-1978,united states,USA,84.26450000000011
-1979,united states,USA,86.29880000000013
-1980,united states,USA,86.97560000000013
-1981,united states,USA,87.18570000000011
-1982,united states,USA,87.69520000000013
-1983,united states,USA,88.24020000000013
-1984,united states,USA,90.04850000000013
-1985,united states,USA,90.52300000000014
-1986,united states,USA,93.53970000000022
-1987,united states,USA,93.72970000000022
-1988,united states,USA,94.40760000000022
-1989,united states,USA,94.96330000000017
-1990,united states,USA,95.40210000000019
-1991,united states,USA,96.94240000000018
-1992,united states,USA,97.04720000000017
-1993,united states,USA,97.90450000000013
-1994,united states,USA,98.09470000000015
-1995,united states,USA,99.04230000000013
-1996,united states,USA,99.08720000000011
-1997,united states,USA,99.1370000000001
-1998,united states,USA,99.28430000000012
-1999,united states,USA,99.4646000000001
-2000,united states,USA,99.4839000000001
-2001,united states,USA,99.5996000000001
-2002,united states,USA,99.6449000000001
-2003,united states,USA,99.6509000000001
-2004,united states,USA,99.7964000000001
-2005,united states,USA,99.7964000000001
-2006,united states,USA,99.8182000000001
-2007,united states,USA,99.8405000000001
-2008,united states,USA,99.8592000000001
-2009,united states,USA,99.87520000000012
-2010,united states,USA,99.8952000000001
-2011,united states,USA,99.9197000000001
-2012,united states,USA,99.98810000000012
-2013,united states,USA,100.07610000000011
-2014,united states,USA,101.2248000000001
-2015,united states,USA,101.24530000000011
-2016,united states,USA,101.5048000000001
-2017,united states,USA,101.58310000000012
-2018,united states,USA,101.59510000000012
-2019,united states,USA,101.59630000000011
-2020,united states,USA,101.59630000000011
-2021,united states,USA,101.59630000000011
+2010,united kingdom,GBR,6.364905
+2011,united kingdom,GBR,6.364905
+2012,united kingdom,GBR,6.364905
+2013,united kingdom,GBR,6.364905
+2014,united kingdom,GBR,6.364905
+2015,united kingdom,GBR,6.364905
+2016,united kingdom,GBR,6.364905
+2017,united kingdom,GBR,6.364905
+2018,united kingdom,GBR,6.364905
+2019,united kingdom,GBR,6.364905
+2020,united kingdom,GBR,6.364905
+2021,united kingdom,GBR,6.364905
+1970,united states,USA,69.5294
+1971,united states,USA,70.0578
+1972,united states,USA,71.3437
+1973,united states,USA,74.79589999999999
+1974,united states,USA,79.6842
+1975,united states,USA,81.5289
+1976,united states,USA,82.8742
+1977,united states,USA,83.5569
+1978,united states,USA,84.2645
+1979,united states,USA,86.2988
+1980,united states,USA,86.97560000000001
+1981,united states,USA,87.1857
+1982,united states,USA,87.6952
+1983,united states,USA,88.2402
+1984,united states,USA,90.0485
+1985,united states,USA,90.523
+1986,united states,USA,93.5397
+1987,united states,USA,93.7297
+1988,united states,USA,94.4076
+1989,united states,USA,94.9633
+1990,united states,USA,95.4021
+1991,united states,USA,96.94239999999999
+1992,united states,USA,97.0472
+1993,united states,USA,97.9045
+1994,united states,USA,98.0947
+1995,united states,USA,99.04230000000001
+1996,united states,USA,99.0872
+1997,united states,USA,99.137
+1998,united states,USA,99.2843
+1999,united states,USA,99.4646
+2000,united states,USA,99.48389999999999
+2001,united states,USA,99.59960000000001
+2002,united states,USA,99.64489999999999
+2003,united states,USA,99.6509
+2004,united states,USA,99.79639999999999
+2005,united states,USA,99.79639999999999
+2006,united states,USA,99.8182
+2007,united states,USA,99.8405
+2008,united states,USA,99.8592
+2009,united states,USA,99.87519999999999
+2010,united states,USA,99.95580000000001
+2011,united states,USA,99.9803
+2012,united states,USA,100.0487
+2013,united states,USA,100.1367
+2014,united states,USA,101.2854
+2015,united states,USA,101.3059
+2016,united states,USA,101.5654
+2017,united states,USA,101.6437
+2018,united states,USA,101.6557
+2019,united states,USA,101.6569
+2020,united states,USA,101.6569
+2021,united states,USA,101.6569
 1970,unspecified,UNS,0.0
 1971,unspecified,UNS,0.0
 1972,unspecified,UNS,0.0
@@ -12883,18 +12883,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,uruguay,URY,0.0
 2008,uruguay,URY,0.0
 2009,uruguay,URY,0.0
-2010,uruguay,URY,0.0
-2011,uruguay,URY,0.0
-2012,uruguay,URY,0.0
-2013,uruguay,URY,0.0
-2014,uruguay,URY,0.0
-2015,uruguay,URY,0.0
-2016,uruguay,URY,0.0
-2017,uruguay,URY,0.0
-2018,uruguay,URY,0.0
-2019,uruguay,URY,0.0
-2020,uruguay,URY,0.0
-2021,uruguay,URY,0.0
+2010,uruguay,URY,1.538
+2011,uruguay,URY,1.538
+2012,uruguay,URY,1.538
+2013,uruguay,URY,1.538
+2014,uruguay,URY,1.538
+2015,uruguay,URY,1.538
+2016,uruguay,URY,1.538
+2017,uruguay,URY,1.538
+2018,uruguay,URY,1.538
+2019,uruguay,URY,1.538
+2020,uruguay,URY,1.538
+2021,uruguay,URY,1.538
 1970,us msc.pac.i,USP,0.0
 1971,us msc.pac.i,USP,0.0
 1972,us msc.pac.i,USP,0.0
@@ -12987,18 +12987,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,uzbekistan,UZB,1.031
 2008,uzbekistan,UZB,1.031
 2009,uzbekistan,UZB,1.031
-2010,uzbekistan,UZB,1.031
-2011,uzbekistan,UZB,1.031
-2012,uzbekistan,UZB,1.031
-2013,uzbekistan,UZB,1.031
-2014,uzbekistan,UZB,1.031
-2015,uzbekistan,UZB,1.031
-2016,uzbekistan,UZB,1.031
-2017,uzbekistan,UZB,1.031
-2018,uzbekistan,UZB,1.031
-2019,uzbekistan,UZB,1.031
-2020,uzbekistan,UZB,1.031
-2021,uzbekistan,UZB,1.031
+2010,uzbekistan,UZB,1.1400000000000001
+2011,uzbekistan,UZB,1.1400000000000001
+2012,uzbekistan,UZB,1.1400000000000001
+2013,uzbekistan,UZB,1.1400000000000001
+2014,uzbekistan,UZB,1.1400000000000001
+2015,uzbekistan,UZB,1.1400000000000001
+2016,uzbekistan,UZB,1.1400000000000001
+2017,uzbekistan,UZB,1.1400000000000001
+2018,uzbekistan,UZB,1.1400000000000001
+2019,uzbekistan,UZB,1.1400000000000001
+2020,uzbekistan,UZB,1.1400000000000001
+2021,uzbekistan,UZB,1.1400000000000001
 1970,vanuatu,VUT,0.0
 1971,vanuatu,VUT,0.0
 1972,vanuatu,VUT,0.0
@@ -13091,18 +13091,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,venezuela,VEN,0.0
 2008,venezuela,VEN,0.0
 2009,venezuela,VEN,0.0
-2010,venezuela,VEN,0.0
-2011,venezuela,VEN,0.514
-2012,venezuela,VEN,0.514
-2013,venezuela,VEN,0.514
-2014,venezuela,VEN,0.514
-2015,venezuela,VEN,0.514
-2016,venezuela,VEN,0.514
-2017,venezuela,VEN,3.044
-2018,venezuela,VEN,3.044
-2019,venezuela,VEN,3.044
-2020,venezuela,VEN,3.044
-2021,venezuela,VEN,3.044
+2010,venezuela,VEN,14.622
+2011,venezuela,VEN,15.136000000000001
+2012,venezuela,VEN,15.136000000000001
+2013,venezuela,VEN,15.136000000000001
+2014,venezuela,VEN,15.136000000000001
+2015,venezuela,VEN,15.136000000000001
+2016,venezuela,VEN,15.136000000000001
+2017,venezuela,VEN,17.666
+2018,venezuela,VEN,17.666
+2019,venezuela,VEN,17.666
+2020,venezuela,VEN,17.666
+2021,venezuela,VEN,17.666
 1970,vietnam,VNM,0.1631
 1971,vietnam,VNM,0.2831
 1972,vietnam,VNM,0.2831
@@ -13136,25 +13136,25 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2000,vietnam,VNM,2.7804
 2001,vietnam,VNM,3.3914
 2002,vietnam,VNM,4.1114
-2003,vietnam,VNM,4.120700000000001
-2004,vietnam,VNM,4.209700000000001
+2003,vietnam,VNM,4.1207
+2004,vietnam,VNM,4.2097
 2005,vietnam,VNM,4.2123
 2006,vietnam,VNM,4.5353
 2007,vietnam,VNM,4.7128000000000005
-2008,vietnam,VNM,5.8302000000000005
-2009,vietnam,VNM,7.05599
-2010,vietnam,VNM,8.02059
-2011,vietnam,VNM,8.86149
-2012,vietnam,VNM,12.50849
-2013,vietnam,VNM,13.421790000000001
-2014,vietnam,VNM,14.22789
-2015,vietnam,VNM,16.556189999999997
-2016,vietnam,VNM,16.64219
-2017,vietnam,VNM,16.64219
-2018,vietnam,VNM,16.64219
-2019,vietnam,VNM,16.64219
-2020,vietnam,VNM,16.64219
-2021,vietnam,VNM,16.64219
+2008,vietnam,VNM,5.8302
+2009,vietnam,VNM,7.0559899999999995
+2010,vietnam,VNM,8.12849
+2011,vietnam,VNM,8.969389999999999
+2012,vietnam,VNM,12.616389999999999
+2013,vietnam,VNM,13.52969
+2014,vietnam,VNM,14.335790000000001
+2015,vietnam,VNM,16.66409
+2016,vietnam,VNM,16.75009
+2017,vietnam,VNM,16.75009
+2018,vietnam,VNM,16.75009
+2019,vietnam,VNM,16.75009
+2020,vietnam,VNM,16.75009
+2021,vietnam,VNM,16.75009
 1970,virgin islands (u.s.),VIR,0.0
 1971,virgin islands (u.s.),VIR,0.0
 1972,virgin islands (u.s.),VIR,0.0
@@ -13663,18 +13663,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,zambia,ZMB,1.11
 2008,zambia,ZMB,1.11
 2009,zambia,ZMB,1.11
-2010,zambia,ZMB,1.11
-2011,zambia,ZMB,1.11
-2012,zambia,ZMB,1.11
-2013,zambia,ZMB,1.11
-2014,zambia,ZMB,1.11
-2015,zambia,ZMB,1.11
-2016,zambia,ZMB,1.11
-2017,zambia,ZMB,1.11
-2018,zambia,ZMB,1.11
-2019,zambia,ZMB,1.11
-2020,zambia,ZMB,1.11
-2021,zambia,ZMB,1.11
+2010,zambia,ZMB,2.16
+2011,zambia,ZMB,2.16
+2012,zambia,ZMB,2.16
+2013,zambia,ZMB,2.16
+2014,zambia,ZMB,2.16
+2015,zambia,ZMB,2.16
+2016,zambia,ZMB,2.16
+2017,zambia,ZMB,2.16
+2018,zambia,ZMB,2.16
+2019,zambia,ZMB,2.16
+2020,zambia,ZMB,2.16
+2021,zambia,ZMB,2.16
 1970,zimbabwe,ZWE,0.0
 1971,zimbabwe,ZWE,0.0
 1972,zimbabwe,ZWE,0.0
@@ -13715,15 +13715,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_hydropower_gw
 2007,zimbabwe,ZWE,0.0
 2008,zimbabwe,ZWE,0.0
 2009,zimbabwe,ZWE,0.0
-2010,zimbabwe,ZWE,0.0
-2011,zimbabwe,ZWE,0.0
-2012,zimbabwe,ZWE,0.0
-2013,zimbabwe,ZWE,0.0
-2014,zimbabwe,ZWE,0.0
-2015,zimbabwe,ZWE,0.0
-2016,zimbabwe,ZWE,0.0
-2017,zimbabwe,ZWE,0.0
-2018,zimbabwe,ZWE,0.0
-2019,zimbabwe,ZWE,0.0
-2020,zimbabwe,ZWE,0.0
-2021,zimbabwe,ZWE,0.0
+2010,zimbabwe,ZWE,0.75
+2011,zimbabwe,ZWE,0.75
+2012,zimbabwe,ZWE,0.75
+2013,zimbabwe,ZWE,0.75
+2014,zimbabwe,ZWE,0.75
+2015,zimbabwe,ZWE,0.75
+2016,zimbabwe,ZWE,0.75
+2017,zimbabwe,ZWE,0.75
+2018,zimbabwe,ZWE,0.75
+2019,zimbabwe,ZWE,0.75
+2020,zimbabwe,ZWE,0.75
+2021,zimbabwe,ZWE,0.75

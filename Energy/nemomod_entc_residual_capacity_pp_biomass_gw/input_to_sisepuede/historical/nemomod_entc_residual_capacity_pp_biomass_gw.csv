@@ -611,18 +611,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,australia,AUS,0.0
 2008,australia,AUS,0.0
 2009,australia,AUS,0.0
-2010,australia,AUS,0.0
-2011,australia,AUS,0.0
-2012,australia,AUS,0.0
-2013,australia,AUS,0.0
-2014,australia,AUS,0.0
-2015,australia,AUS,0.0
-2016,australia,AUS,0.0
-2017,australia,AUS,0.0
-2018,australia,AUS,0.0
-2019,australia,AUS,0.0
-2020,australia,AUS,0.0
-2021,australia,AUS,0.0
+2010,australia,AUS,0.5895
+2011,australia,AUS,0.5895
+2012,australia,AUS,0.5895
+2013,australia,AUS,0.5895
+2014,australia,AUS,0.5895
+2015,australia,AUS,0.5895
+2016,australia,AUS,0.5895
+2017,australia,AUS,0.5895
+2018,australia,AUS,0.5895
+2019,australia,AUS,0.5895
+2020,australia,AUS,0.5895
+2021,australia,AUS,0.5895
 1970,austria,AUT,0.0
 1971,austria,AUT,0.0
 1972,austria,AUT,0.0
@@ -1027,18 +1027,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,belgium,BEL,0.095
 2008,belgium,BEL,0.095
 2009,belgium,BEL,0.095
-2010,belgium,BEL,0.095
-2011,belgium,BEL,0.095
-2012,belgium,BEL,0.095
-2013,belgium,BEL,0.095
-2014,belgium,BEL,0.095
-2015,belgium,BEL,0.095
-2016,belgium,BEL,0.095
-2017,belgium,BEL,0.095
-2018,belgium,BEL,0.095
-2019,belgium,BEL,0.095
-2020,belgium,BEL,0.095
-2021,belgium,BEL,0.095
+2010,belgium,BEL,0.363
+2011,belgium,BEL,0.363
+2012,belgium,BEL,0.363
+2013,belgium,BEL,0.363
+2014,belgium,BEL,0.363
+2015,belgium,BEL,0.363
+2016,belgium,BEL,0.363
+2017,belgium,BEL,0.363
+2018,belgium,BEL,0.363
+2019,belgium,BEL,0.363
+2020,belgium,BEL,0.363
+2021,belgium,BEL,0.363
 1970,belgium-luxembourg,BLX,0.0
 1971,belgium-luxembourg,BLX,0.0
 1972,belgium-luxembourg,BLX,0.0
@@ -1510,55 +1510,55 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 1970,brazil,BRA,0.18478199999999997
 1971,brazil,BRA,0.435776
 1972,brazil,BRA,0.435776
-1973,brazil,BRA,0.43937600000000004
-1974,brazil,BRA,0.49605600000000005
+1973,brazil,BRA,0.439376
+1974,brazil,BRA,0.496056
 1975,brazil,BRA,0.574856
 1976,brazil,BRA,0.756856
-1977,brazil,BRA,0.859656
-1978,brazil,BRA,0.859656
-1979,brazil,BRA,0.873656
-1980,brazil,BRA,0.9502559999999999
-1981,brazil,BRA,1.0096159999999998
+1977,brazil,BRA,0.8596560000000001
+1978,brazil,BRA,0.8596560000000001
+1979,brazil,BRA,0.8736560000000001
+1980,brazil,BRA,0.950256
+1981,brazil,BRA,1.009616
 1982,brazil,BRA,1.101916
-1983,brazil,BRA,1.1491159999999998
-1984,brazil,BRA,1.1591159999999998
-1985,brazil,BRA,1.1661159999999997
-1986,brazil,BRA,1.2231159999999999
+1983,brazil,BRA,1.149116
+1984,brazil,BRA,1.159116
+1985,brazil,BRA,1.166116
+1986,brazil,BRA,1.223116
 1987,brazil,BRA,1.3344760000000002
 1988,brazil,BRA,1.382476
 1989,brazil,BRA,1.393156
-1990,brazil,BRA,1.4363559999999997
-1991,brazil,BRA,1.4363559999999997
-1992,brazil,BRA,1.6504359999999998
-1993,brazil,BRA,1.6504359999999998
-1994,brazil,BRA,2.0763610000000003
-1995,brazil,BRA,2.0939810000000008
-1996,brazil,BRA,2.183481000000001
+1990,brazil,BRA,1.436356
+1991,brazil,BRA,1.436356
+1992,brazil,BRA,1.650436
+1993,brazil,BRA,1.650436
+1994,brazil,BRA,2.076361
+1995,brazil,BRA,2.0939810000000003
+1996,brazil,BRA,2.1834810000000004
 1997,brazil,BRA,2.255481
 1998,brazil,BRA,2.301781
 1999,brazil,BRA,2.372181
-2000,brazil,BRA,2.4416110000000004
-2001,brazil,BRA,2.8605510000000005
-2002,brazil,BRA,3.420251000000001
-2003,brazil,BRA,3.6454410000000004
-2004,brazil,BRA,3.7291710000000005
+2000,brazil,BRA,2.441611
+2001,brazil,BRA,2.860551
+2002,brazil,BRA,3.4202510000000004
+2003,brazil,BRA,3.645441
+2004,brazil,BRA,3.729171
 2005,brazil,BRA,3.8415909999999998
 2006,brazil,BRA,4.429901
-2007,brazil,BRA,4.638837999999999
-2008,brazil,BRA,5.078815999999999
-2009,brazil,BRA,6.274415999999998
-2010,brazil,BRA,7.941715999999995
-2011,brazil,BRA,8.749561999999996
-2012,brazil,BRA,9.331986999999993
-2013,brazil,BRA,10.430964999999997
-2014,brazil,BRA,11.202014999999998
-2015,brazil,BRA,11.421414999999998
-2016,brazil,BRA,11.855710999999996
-2017,brazil,BRA,11.888710999999997
-2018,brazil,BRA,11.888710999999997
-2019,brazil,BRA,11.888710999999997
-2020,brazil,BRA,11.888710999999997
-2021,brazil,BRA,11.888710999999997
+2007,brazil,BRA,4.638838
+2008,brazil,BRA,5.078816
+2009,brazil,BRA,6.274416
+2010,brazil,BRA,8.8968196
+2011,brazil,BRA,9.7046656
+2012,brazil,BRA,10.287090599999999
+2013,brazil,BRA,11.386068600000002
+2014,brazil,BRA,12.1571186
+2015,brazil,BRA,12.376518599999999
+2016,brazil,BRA,12.8108146
+2017,brazil,BRA,12.8438146
+2018,brazil,BRA,12.8438146
+2019,brazil,BRA,12.8438146
+2020,brazil,BRA,12.8438146
+2021,brazil,BRA,12.8438146
 1970,british indian ocean ter.,IOT,0.0
 1971,british indian ocean ter.,IOT,0.0
 1972,british indian ocean ter.,IOT,0.0
@@ -2015,18 +2015,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,canada,CAN,0.0
 2008,canada,CAN,0.0
 2009,canada,CAN,0.0
-2010,canada,CAN,0.0
-2011,canada,CAN,0.0
-2012,canada,CAN,0.0
-2013,canada,CAN,0.0
-2014,canada,CAN,0.0
-2015,canada,CAN,0.0
-2016,canada,CAN,0.0
-2017,canada,CAN,0.0
-2018,canada,CAN,0.0
-2019,canada,CAN,0.0
-2020,canada,CAN,0.0
-2021,canada,CAN,0.0
+2010,canada,CAN,2.7419000000000002
+2011,canada,CAN,2.7419000000000002
+2012,canada,CAN,2.7419000000000002
+2013,canada,CAN,2.7419000000000002
+2014,canada,CAN,2.7419000000000002
+2015,canada,CAN,2.7419000000000002
+2016,canada,CAN,2.7419000000000002
+2017,canada,CAN,2.7419000000000002
+2018,canada,CAN,2.7419000000000002
+2019,canada,CAN,2.7419000000000002
+2020,canada,CAN,2.7419000000000002
+2021,canada,CAN,2.7419000000000002
 1970,cape verde,CPV,0.0
 1971,cape verde,CPV,0.0
 1972,cape verde,CPV,0.0
@@ -2275,18 +2275,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,chile,CHL,0.0
 2008,chile,CHL,0.0
 2009,chile,CHL,0.0
-2010,chile,CHL,0.0
-2011,chile,CHL,0.0
-2012,chile,CHL,0.0
-2013,chile,CHL,0.0
-2014,chile,CHL,0.0
-2015,chile,CHL,0.0
-2016,chile,CHL,0.0
-2017,chile,CHL,0.0
-2018,chile,CHL,0.0
-2019,chile,CHL,0.0
-2020,chile,CHL,0.0
-2021,chile,CHL,0.0
+2010,chile,CHL,0.38389999999999996
+2011,chile,CHL,0.38389999999999996
+2012,chile,CHL,0.38389999999999996
+2013,chile,CHL,0.38389999999999996
+2014,chile,CHL,0.38389999999999996
+2015,chile,CHL,0.38389999999999996
+2016,chile,CHL,0.38389999999999996
+2017,chile,CHL,0.38389999999999996
+2018,chile,CHL,0.38389999999999996
+2019,chile,CHL,0.38389999999999996
+2020,chile,CHL,0.38389999999999996
+2021,chile,CHL,0.38389999999999996
 1970,china,CHN,0.0
 1971,china,CHN,0.0
 1972,china,CHN,0.0
@@ -3939,18 +3939,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,fiji,FJI,0.0
 2008,fiji,FJI,0.0
 2009,fiji,FJI,0.0
-2010,fiji,FJI,0.0
-2011,fiji,FJI,0.0
-2012,fiji,FJI,0.0
-2013,fiji,FJI,0.0
-2014,fiji,FJI,0.0
-2015,fiji,FJI,0.01
-2016,fiji,FJI,0.01
-2017,fiji,FJI,0.01
-2018,fiji,FJI,0.01
-2019,fiji,FJI,0.01
-2020,fiji,FJI,0.01
-2021,fiji,FJI,0.01
+2010,fiji,FJI,0.0143
+2011,fiji,FJI,0.0143
+2012,fiji,FJI,0.0143
+2013,fiji,FJI,0.0143
+2014,fiji,FJI,0.0143
+2015,fiji,FJI,0.024300000000000002
+2016,fiji,FJI,0.024300000000000002
+2017,fiji,FJI,0.024300000000000002
+2018,fiji,FJI,0.024300000000000002
+2019,fiji,FJI,0.024300000000000002
+2020,fiji,FJI,0.024300000000000002
+2021,fiji,FJI,0.024300000000000002
 1970,finland,FIN,0.0
 1971,finland,FIN,0.0
 1972,finland,FIN,0.0
@@ -3991,18 +3991,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,finland,FIN,0.0
 2008,finland,FIN,0.0
 2009,finland,FIN,0.0
-2010,finland,FIN,0.0
-2011,finland,FIN,0.0
-2012,finland,FIN,0.0
-2013,finland,FIN,0.0
-2014,finland,FIN,0.0
-2015,finland,FIN,0.0
-2016,finland,FIN,0.0
-2017,finland,FIN,0.0
-2018,finland,FIN,0.0
-2019,finland,FIN,0.0
-2020,finland,FIN,0.0
-2021,finland,FIN,0.0
+2010,finland,FIN,2.18044
+2011,finland,FIN,2.18044
+2012,finland,FIN,2.18044
+2013,finland,FIN,2.18044
+2014,finland,FIN,2.18044
+2015,finland,FIN,2.18044
+2016,finland,FIN,2.18044
+2017,finland,FIN,2.18044
+2018,finland,FIN,2.18044
+2019,finland,FIN,2.18044
+2020,finland,FIN,2.18044
+2021,finland,FIN,2.18044
 1970,fm panama cz,PCZ,0.0
 1971,fm panama cz,PCZ,0.0
 1972,fm panama cz,PCZ,0.0
@@ -4407,18 +4407,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,france,FRA,0.0
 2008,france,FRA,0.0
 2009,france,FRA,0.0
-2010,france,FRA,0.0
-2011,france,FRA,0.0
-2012,france,FRA,0.0
-2013,france,FRA,0.0
-2014,france,FRA,0.0
-2015,france,FRA,0.0
-2016,france,FRA,0.0
-2017,france,FRA,0.0
-2018,france,FRA,0.0
-2019,france,FRA,0.0
-2020,france,FRA,0.0
-2021,france,FRA,0.0
+2010,france,FRA,0.7926000000000001
+2011,france,FRA,0.7926000000000001
+2012,france,FRA,0.7926000000000001
+2013,france,FRA,0.7926000000000001
+2014,france,FRA,0.7926000000000001
+2015,france,FRA,0.7926000000000001
+2016,france,FRA,0.7926000000000001
+2017,france,FRA,0.7926000000000001
+2018,france,FRA,0.7926000000000001
+2019,france,FRA,0.7926000000000001
+2020,france,FRA,0.7926000000000001
+2021,france,FRA,0.7926000000000001
 1970,free zones,FRE,0.0
 1971,free zones,FRE,0.0
 1972,free zones,FRE,0.0
@@ -4511,18 +4511,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,french guiana,GUF,0.0
 2008,french guiana,GUF,0.0
 2009,french guiana,GUF,0.0
-2010,french guiana,GUF,0.0
-2011,french guiana,GUF,0.0
-2012,french guiana,GUF,0.0
-2013,french guiana,GUF,0.0
-2014,french guiana,GUF,0.0
-2015,french guiana,GUF,0.0
-2016,french guiana,GUF,0.0
-2017,french guiana,GUF,0.0
-2018,french guiana,GUF,0.0
-2019,french guiana,GUF,0.0
-2020,french guiana,GUF,0.0
-2021,french guiana,GUF,0.0
+2010,french guiana,GUF,0.002
+2011,french guiana,GUF,0.002
+2012,french guiana,GUF,0.002
+2013,french guiana,GUF,0.002
+2014,french guiana,GUF,0.002
+2015,french guiana,GUF,0.002
+2016,french guiana,GUF,0.002
+2017,french guiana,GUF,0.002
+2018,french guiana,GUF,0.002
+2019,french guiana,GUF,0.002
+2020,french guiana,GUF,0.002
+2021,french guiana,GUF,0.002
 1970,french polynesia,PYF,0.0
 1971,french polynesia,PYF,0.0
 1972,french polynesia,PYF,0.0
@@ -4868,25 +4868,25 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2000,germany,DEU,0.6906
 2001,germany,DEU,0.721
 2002,germany,DEU,0.7753
-2003,germany,DEU,0.8943000000000001
+2003,germany,DEU,0.8943
 2004,germany,DEU,1.0477
 2005,germany,DEU,1.1419000000000001
-2006,germany,DEU,1.2431999999999999
-2007,germany,DEU,1.2678999999999998
+2006,germany,DEU,1.2432
+2007,germany,DEU,1.2679
 2008,germany,DEU,1.2929000000000002
 2009,germany,DEU,1.3243
-2010,germany,DEU,1.4022999999999999
-2011,germany,DEU,1.4022999999999999
-2012,germany,DEU,1.4022999999999999
-2013,germany,DEU,1.4022999999999999
-2014,germany,DEU,1.4022999999999999
-2015,germany,DEU,1.4022999999999999
-2016,germany,DEU,1.4022999999999999
-2017,germany,DEU,1.4022999999999999
-2018,germany,DEU,1.4022999999999999
-2019,germany,DEU,1.4022999999999999
-2020,germany,DEU,1.4022999999999999
-2021,germany,DEU,1.4022999999999999
+2010,germany,DEU,1.6553
+2011,germany,DEU,1.6553
+2012,germany,DEU,1.6553
+2013,germany,DEU,1.6553
+2014,germany,DEU,1.6553
+2015,germany,DEU,1.6553
+2016,germany,DEU,1.6553
+2017,germany,DEU,1.6553
+2018,germany,DEU,1.6553
+2019,germany,DEU,1.6553
+2020,germany,DEU,1.6553
+2021,germany,DEU,1.6553
 1970,ghana,GHA,0.0
 1971,ghana,GHA,0.0
 1972,ghana,GHA,0.0
@@ -5293,16 +5293,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2009,guatemala,GTM,0.52
 2010,guatemala,GTM,0.52
 2011,guatemala,GTM,0.6068
-2012,guatemala,GTM,0.6402
-2013,guatemala,GTM,0.6402
-2014,guatemala,GTM,0.8800999999999999
-2015,guatemala,GTM,0.8800999999999999
-2016,guatemala,GTM,0.8800999999999999
-2017,guatemala,GTM,0.8800999999999999
-2018,guatemala,GTM,0.8800999999999999
-2019,guatemala,GTM,0.8800999999999999
-2020,guatemala,GTM,0.8800999999999999
-2021,guatemala,GTM,0.8800999999999999
+2012,guatemala,GTM,0.6402000000000001
+2013,guatemala,GTM,0.6402000000000001
+2014,guatemala,GTM,0.8801
+2015,guatemala,GTM,0.8801
+2016,guatemala,GTM,0.8801
+2017,guatemala,GTM,0.8801
+2018,guatemala,GTM,0.8801
+2019,guatemala,GTM,0.8801
+2020,guatemala,GTM,0.8801
+2021,guatemala,GTM,0.8801
 1970,guinea,GIN,0.0
 1971,guinea,GIN,0.0
 1972,guinea,GIN,0.0
@@ -5603,18 +5603,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,honduras,HND,0.0
 2008,honduras,HND,0.0
 2009,honduras,HND,0.0
-2010,honduras,HND,0.0
-2011,honduras,HND,0.0
-2012,honduras,HND,0.0
-2013,honduras,HND,0.0
-2014,honduras,HND,0.0
-2015,honduras,HND,0.0
-2016,honduras,HND,0.0
-2017,honduras,HND,0.0
-2018,honduras,HND,0.0
-2019,honduras,HND,0.0
-2020,honduras,HND,0.0
-2021,honduras,HND,0.0
+2010,honduras,HND,0.05
+2011,honduras,HND,0.05
+2012,honduras,HND,0.05
+2013,honduras,HND,0.05
+2014,honduras,HND,0.05
+2015,honduras,HND,0.05
+2016,honduras,HND,0.05
+2017,honduras,HND,0.05
+2018,honduras,HND,0.05
+2019,honduras,HND,0.05
+2020,honduras,HND,0.05
+2021,honduras,HND,0.05
 1970,"hong kong, china",HKG,0.0
 1971,"hong kong, china",HKG,0.0
 1972,"hong kong, china",HKG,0.0
@@ -5811,18 +5811,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,india,IND,0.0
 2008,india,IND,0.0
 2009,india,IND,0.0
-2010,india,IND,0.0
-2011,india,IND,0.0
-2012,india,IND,0.0
-2013,india,IND,0.0
-2014,india,IND,0.0
-2015,india,IND,0.0
-2016,india,IND,0.0
-2017,india,IND,0.0
-2018,india,IND,0.0
-2019,india,IND,0.0
-2020,india,IND,0.0
-2021,india,IND,0.0
+2010,india,IND,1.00326
+2011,india,IND,1.00326
+2012,india,IND,1.00326
+2013,india,IND,1.00326
+2014,india,IND,1.00326
+2015,india,IND,1.00326
+2016,india,IND,1.00326
+2017,india,IND,1.00326
+2018,india,IND,1.00326
+2019,india,IND,1.00326
+2020,india,IND,1.00326
+2021,india,IND,1.00326
 1970,indonesia,IDN,0.0
 1971,indonesia,IDN,0.0
 1972,indonesia,IDN,0.0
@@ -6019,18 +6019,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,ireland,IRL,0.0
 2008,ireland,IRL,0.0
 2009,ireland,IRL,0.0
-2010,ireland,IRL,0.0
-2011,ireland,IRL,0.0
-2012,ireland,IRL,0.0
-2013,ireland,IRL,0.0
-2014,ireland,IRL,0.0
-2015,ireland,IRL,0.0
-2016,ireland,IRL,0.0
-2017,ireland,IRL,0.0
-2018,ireland,IRL,0.0
-2019,ireland,IRL,0.0
-2020,ireland,IRL,0.0
-2021,ireland,IRL,0.0
+2010,ireland,IRL,0.137
+2011,ireland,IRL,0.137
+2012,ireland,IRL,0.137
+2013,ireland,IRL,0.137
+2014,ireland,IRL,0.137
+2015,ireland,IRL,0.137
+2016,ireland,IRL,0.137
+2017,ireland,IRL,0.137
+2018,ireland,IRL,0.137
+2019,ireland,IRL,0.137
+2020,ireland,IRL,0.137
+2021,ireland,IRL,0.137
 1970,israel,ISR,0.0
 1971,israel,ISR,0.0
 1972,israel,ISR,0.0
@@ -6591,18 +6591,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,"korea, rep.",KOR,0.0
 2008,"korea, rep.",KOR,0.0
 2009,"korea, rep.",KOR,0.0
-2010,"korea, rep.",KOR,0.0
-2011,"korea, rep.",KOR,0.0
-2012,"korea, rep.",KOR,0.0
-2013,"korea, rep.",KOR,0.0
-2014,"korea, rep.",KOR,0.0
-2015,"korea, rep.",KOR,0.0
-2016,"korea, rep.",KOR,0.0
-2017,"korea, rep.",KOR,0.0
-2018,"korea, rep.",KOR,0.0
-2019,"korea, rep.",KOR,0.0
-2020,"korea, rep.",KOR,0.0
-2021,"korea, rep.",KOR,0.0
+2010,"korea, rep.",KOR,0.108
+2011,"korea, rep.",KOR,0.108
+2012,"korea, rep.",KOR,0.108
+2013,"korea, rep.",KOR,0.108
+2014,"korea, rep.",KOR,0.108
+2015,"korea, rep.",KOR,0.108
+2016,"korea, rep.",KOR,0.108
+2017,"korea, rep.",KOR,0.108
+2018,"korea, rep.",KOR,0.108
+2019,"korea, rep.",KOR,0.108
+2020,"korea, rep.",KOR,0.108
+2021,"korea, rep.",KOR,0.108
 1970,kuwait,KWT,0.0
 1971,kuwait,KWT,0.0
 1972,kuwait,KWT,0.0
@@ -7371,18 +7371,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,malawi,MWI,0.0
 2008,malawi,MWI,0.0
 2009,malawi,MWI,0.0
-2010,malawi,MWI,0.0
-2011,malawi,MWI,0.0
-2012,malawi,MWI,0.0
-2013,malawi,MWI,0.0
-2014,malawi,MWI,0.0
-2015,malawi,MWI,0.0
-2016,malawi,MWI,0.0
-2017,malawi,MWI,0.0
-2018,malawi,MWI,0.0
-2019,malawi,MWI,0.0
-2020,malawi,MWI,0.0
-2021,malawi,MWI,0.0
+2010,malawi,MWI,0.01
+2011,malawi,MWI,0.01
+2012,malawi,MWI,0.01
+2013,malawi,MWI,0.01
+2014,malawi,MWI,0.01
+2015,malawi,MWI,0.01
+2016,malawi,MWI,0.01
+2017,malawi,MWI,0.01
+2018,malawi,MWI,0.01
+2019,malawi,MWI,0.01
+2020,malawi,MWI,0.01
+2021,malawi,MWI,0.01
 1970,malaysia,MYS,0.0
 1971,malaysia,MYS,0.0
 1972,malaysia,MYS,0.0
@@ -7423,18 +7423,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,malaysia,MYS,0.0
 2008,malaysia,MYS,0.0
 2009,malaysia,MYS,0.0
-2010,malaysia,MYS,0.0
-2011,malaysia,MYS,0.0
-2012,malaysia,MYS,0.0
-2013,malaysia,MYS,0.0
-2014,malaysia,MYS,0.0
-2015,malaysia,MYS,0.0
-2016,malaysia,MYS,0.0
-2017,malaysia,MYS,0.0
-2018,malaysia,MYS,0.0
-2019,malaysia,MYS,0.0
-2020,malaysia,MYS,0.0
-2021,malaysia,MYS,0.0
+2010,malaysia,MYS,0.012
+2011,malaysia,MYS,0.012
+2012,malaysia,MYS,0.012
+2013,malaysia,MYS,0.012
+2014,malaysia,MYS,0.012
+2015,malaysia,MYS,0.012
+2016,malaysia,MYS,0.012
+2017,malaysia,MYS,0.012
+2018,malaysia,MYS,0.012
+2019,malaysia,MYS,0.012
+2020,malaysia,MYS,0.012
+2021,malaysia,MYS,0.012
 1970,maldives,MDV,0.0
 1971,maldives,MDV,0.0
 1972,maldives,MDV,0.0
@@ -7787,18 +7787,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,mauritius,MUS,0.0
 2008,mauritius,MUS,0.0
 2009,mauritius,MUS,0.0
-2010,mauritius,MUS,0.0
-2011,mauritius,MUS,0.0
-2012,mauritius,MUS,0.0
-2013,mauritius,MUS,0.0
-2014,mauritius,MUS,0.0
-2015,mauritius,MUS,0.0
-2016,mauritius,MUS,0.0
-2017,mauritius,MUS,0.0
-2018,mauritius,MUS,0.0
-2019,mauritius,MUS,0.0
-2020,mauritius,MUS,0.0
-2021,mauritius,MUS,0.0
+2010,mauritius,MUS,0.10185
+2011,mauritius,MUS,0.10185
+2012,mauritius,MUS,0.10185
+2013,mauritius,MUS,0.10185
+2014,mauritius,MUS,0.10185
+2015,mauritius,MUS,0.10185
+2016,mauritius,MUS,0.10185
+2017,mauritius,MUS,0.10185
+2018,mauritius,MUS,0.10185
+2019,mauritius,MUS,0.10185
+2020,mauritius,MUS,0.10185
+2021,mauritius,MUS,0.10185
 1970,mexico,MEX,0.0
 1971,mexico,MEX,0.0
 1972,mexico,MEX,0.0
@@ -7839,18 +7839,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,mexico,MEX,0.0
 2008,mexico,MEX,0.0
 2009,mexico,MEX,0.0
-2010,mexico,MEX,0.0
-2011,mexico,MEX,0.0
-2012,mexico,MEX,0.0
-2013,mexico,MEX,0.0
-2014,mexico,MEX,0.0
-2015,mexico,MEX,0.0
-2016,mexico,MEX,0.0
-2017,mexico,MEX,0.0
-2018,mexico,MEX,0.0
-2019,mexico,MEX,0.0
-2020,mexico,MEX,0.0
-2021,mexico,MEX,0.0
+2010,mexico,MEX,0.6764
+2011,mexico,MEX,0.6764
+2012,mexico,MEX,0.6764
+2013,mexico,MEX,0.6764
+2014,mexico,MEX,0.6764
+2015,mexico,MEX,0.6764
+2016,mexico,MEX,0.6764
+2017,mexico,MEX,0.6764
+2018,mexico,MEX,0.6764
+2019,mexico,MEX,0.6764
+2020,mexico,MEX,0.6764
+2021,mexico,MEX,0.6764
 1970,"micronesia, fed. sts.",FSM,0.0
 1971,"micronesia, fed. sts.",FSM,0.0
 1972,"micronesia, fed. sts.",FSM,0.0
@@ -9607,18 +9607,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,philippines,PHL,0.0
 2008,philippines,PHL,0.0
 2009,philippines,PHL,0.0
-2010,philippines,PHL,0.0
-2011,philippines,PHL,0.0
-2012,philippines,PHL,0.0
-2013,philippines,PHL,0.0
-2014,philippines,PHL,0.0
-2015,philippines,PHL,0.0
-2016,philippines,PHL,0.0
-2017,philippines,PHL,0.0
-2018,philippines,PHL,0.0
-2019,philippines,PHL,0.0
-2020,philippines,PHL,0.0
-2021,philippines,PHL,0.0
+2010,philippines,PHL,0.0233
+2011,philippines,PHL,0.0233
+2012,philippines,PHL,0.0233
+2013,philippines,PHL,0.0233
+2014,philippines,PHL,0.0233
+2015,philippines,PHL,0.0233
+2016,philippines,PHL,0.0233
+2017,philippines,PHL,0.0233
+2018,philippines,PHL,0.0233
+2019,philippines,PHL,0.0233
+2020,philippines,PHL,0.0233
+2021,philippines,PHL,0.0233
 1970,pitcairn,PCN,0.0
 1971,pitcairn,PCN,0.0
 1972,pitcairn,PCN,0.0
@@ -9757,7 +9757,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2001,portugal,PRT,0.128
 2002,portugal,PRT,0.1668
 2003,portugal,PRT,0.1668
-2004,portugal,PRT,0.31679999999999997
+2004,portugal,PRT,0.3168
 2005,portugal,PRT,0.3519
 2006,portugal,PRT,0.3519
 2007,portugal,PRT,0.3649
@@ -10023,18 +10023,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,russian federation,RUS,0.0
 2008,russian federation,RUS,0.0
 2009,russian federation,RUS,0.0
-2010,russian federation,RUS,0.0
-2011,russian federation,RUS,0.0
-2012,russian federation,RUS,0.0
-2013,russian federation,RUS,0.0
-2014,russian federation,RUS,0.0
-2015,russian federation,RUS,0.0
-2016,russian federation,RUS,0.0
-2017,russian federation,RUS,0.0
-2018,russian federation,RUS,0.0
-2019,russian federation,RUS,0.0
-2020,russian federation,RUS,0.0
-2021,russian federation,RUS,0.0
+2010,russian federation,RUS,0.58
+2011,russian federation,RUS,0.58
+2012,russian federation,RUS,0.58
+2013,russian federation,RUS,0.58
+2014,russian federation,RUS,0.58
+2015,russian federation,RUS,0.58
+2016,russian federation,RUS,0.58
+2017,russian federation,RUS,0.58
+2018,russian federation,RUS,0.58
+2019,russian federation,RUS,0.58
+2020,russian federation,RUS,0.58
+2021,russian federation,RUS,0.58
 1970,rwanda,RWA,0.0
 1971,rwanda,RWA,0.0
 1972,rwanda,RWA,0.0
@@ -11115,18 +11115,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,south africa,ZAF,0.0
 2008,south africa,ZAF,0.0
 2009,south africa,ZAF,0.0
-2010,south africa,ZAF,0.0
-2011,south africa,ZAF,0.0
-2012,south africa,ZAF,0.0
-2013,south africa,ZAF,0.0035
-2014,south africa,ZAF,0.0035
-2015,south africa,ZAF,0.0035
-2016,south africa,ZAF,0.0035
-2017,south africa,ZAF,0.0035
-2018,south africa,ZAF,0.0035
-2019,south africa,ZAF,0.0035
-2020,south africa,ZAF,0.0035
-2021,south africa,ZAF,0.0035
+2010,south africa,ZAF,0.0101
+2011,south africa,ZAF,0.0101
+2012,south africa,ZAF,0.0101
+2013,south africa,ZAF,0.0136
+2014,south africa,ZAF,0.0136
+2015,south africa,ZAF,0.0136
+2016,south africa,ZAF,0.0136
+2017,south africa,ZAF,0.0136
+2018,south africa,ZAF,0.0136
+2019,south africa,ZAF,0.0136
+2020,south africa,ZAF,0.0136
+2021,south africa,ZAF,0.0136
 1970,soviet union,SVU,0.0
 1971,soviet union,SVU,0.0
 1972,soviet union,SVU,0.0
@@ -11219,18 +11219,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,spain,ESP,0.0
 2008,spain,ESP,0.0
 2009,spain,ESP,0.0
-2010,spain,ESP,0.0
-2011,spain,ESP,0.0
-2012,spain,ESP,0.0
-2013,spain,ESP,0.0
-2014,spain,ESP,0.0
-2015,spain,ESP,0.0
-2016,spain,ESP,0.0
-2017,spain,ESP,0.0
-2018,spain,ESP,0.0
-2019,spain,ESP,0.0
-2020,spain,ESP,0.0
-2021,spain,ESP,0.0
+2010,spain,ESP,0.02
+2011,spain,ESP,0.02
+2012,spain,ESP,0.02
+2013,spain,ESP,0.02
+2014,spain,ESP,0.02
+2015,spain,ESP,0.02
+2016,spain,ESP,0.02
+2017,spain,ESP,0.02
+2018,spain,ESP,0.02
+2019,spain,ESP,0.02
+2020,spain,ESP,0.02
+2021,spain,ESP,0.02
 1970,special categories,SPE,0.0
 1971,special categories,SPE,0.0
 1972,special categories,SPE,0.0
@@ -11531,18 +11531,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,sudan,SDN,0.0
 2008,sudan,SDN,0.0
 2009,sudan,SDN,0.0
-2010,sudan,SDN,0.0
-2011,sudan,SDN,0.0
-2012,sudan,SDN,0.0
-2013,sudan,SDN,0.0
-2014,sudan,SDN,0.0
-2015,sudan,SDN,0.0
-2016,sudan,SDN,0.0
-2017,sudan,SDN,0.0
-2018,sudan,SDN,0.0
-2019,sudan,SDN,0.0
-2020,sudan,SDN,0.0
-2021,sudan,SDN,0.0
+2010,sudan,SDN,0.126
+2011,sudan,SDN,0.126
+2012,sudan,SDN,0.126
+2013,sudan,SDN,0.126
+2014,sudan,SDN,0.126
+2015,sudan,SDN,0.126
+2016,sudan,SDN,0.126
+2017,sudan,SDN,0.126
+2018,sudan,SDN,0.126
+2019,sudan,SDN,0.126
+2020,sudan,SDN,0.126
+2021,sudan,SDN,0.126
 1970,suriname,SUR,0.0
 1971,suriname,SUR,0.0
 1972,suriname,SUR,0.0
@@ -11687,18 +11687,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,swaziland,SWZ,0.0
 2008,swaziland,SWZ,0.0
 2009,swaziland,SWZ,0.0
-2010,swaziland,SWZ,0.0
-2011,swaziland,SWZ,0.0
-2012,swaziland,SWZ,0.0
-2013,swaziland,SWZ,0.0
-2014,swaziland,SWZ,0.0
-2015,swaziland,SWZ,0.0
-2016,swaziland,SWZ,0.0
-2017,swaziland,SWZ,0.0
-2018,swaziland,SWZ,0.0
-2019,swaziland,SWZ,0.0
-2020,swaziland,SWZ,0.0
-2021,swaziland,SWZ,0.0
+2010,swaziland,SWZ,0.044
+2011,swaziland,SWZ,0.044
+2012,swaziland,SWZ,0.044
+2013,swaziland,SWZ,0.044
+2014,swaziland,SWZ,0.044
+2015,swaziland,SWZ,0.044
+2016,swaziland,SWZ,0.044
+2017,swaziland,SWZ,0.044
+2018,swaziland,SWZ,0.044
+2019,swaziland,SWZ,0.044
+2020,swaziland,SWZ,0.044
+2021,swaziland,SWZ,0.044
 1970,sweden,SWE,0.095
 1971,sweden,SWE,0.095
 1972,sweden,SWE,0.095
@@ -11739,18 +11739,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,sweden,SWE,0.13369999999999999
 2008,sweden,SWE,0.13369999999999999
 2009,sweden,SWE,0.13369999999999999
-2010,sweden,SWE,0.13369999999999999
-2011,sweden,SWE,0.13369999999999999
-2012,sweden,SWE,0.13369999999999999
-2013,sweden,SWE,0.5227
-2014,sweden,SWE,0.5227
-2015,sweden,SWE,0.5227
-2016,sweden,SWE,0.5227
-2017,sweden,SWE,0.5227
-2018,sweden,SWE,0.5227
-2019,sweden,SWE,0.5227
-2020,sweden,SWE,0.5227
-2021,sweden,SWE,0.5227
+2010,sweden,SWE,0.4877
+2011,sweden,SWE,0.4877
+2012,sweden,SWE,0.4877
+2013,sweden,SWE,0.8767
+2014,sweden,SWE,0.8767
+2015,sweden,SWE,0.8767
+2016,sweden,SWE,0.8767
+2017,sweden,SWE,0.8767
+2018,sweden,SWE,0.8767
+2019,sweden,SWE,0.8767
+2020,sweden,SWE,0.8767
+2021,sweden,SWE,0.8767
 1970,switzerland,CHE,0.0
 1971,switzerland,CHE,0.0
 1972,switzerland,CHE,0.0
@@ -12051,18 +12051,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,thailand,THA,0.0
 2008,thailand,THA,0.0
 2009,thailand,THA,0.0
-2010,thailand,THA,0.0
-2011,thailand,THA,0.0
-2012,thailand,THA,0.0
-2013,thailand,THA,0.0
-2014,thailand,THA,0.0
-2015,thailand,THA,0.0
-2016,thailand,THA,0.0
-2017,thailand,THA,0.0
-2018,thailand,THA,0.0
-2019,thailand,THA,0.0
-2020,thailand,THA,0.0
-2021,thailand,THA,0.0
+2010,thailand,THA,0.0886
+2011,thailand,THA,0.0886
+2012,thailand,THA,0.0886
+2013,thailand,THA,0.0886
+2014,thailand,THA,0.0886
+2015,thailand,THA,0.0886
+2016,thailand,THA,0.0886
+2017,thailand,THA,0.0886
+2018,thailand,THA,0.0886
+2019,thailand,THA,0.0886
+2020,thailand,THA,0.0886
+2021,thailand,THA,0.0886
 1970,togo,TGO,0.0
 1971,togo,TGO,0.0
 1972,togo,TGO,0.0
@@ -12571,18 +12571,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,uganda,UGA,0.0
 2008,uganda,UGA,0.0
 2009,uganda,UGA,0.0
-2010,uganda,UGA,0.0
-2011,uganda,UGA,0.0
-2012,uganda,UGA,0.0
-2013,uganda,UGA,0.0
-2014,uganda,UGA,0.0
-2015,uganda,UGA,0.0
-2016,uganda,UGA,0.0
-2017,uganda,UGA,0.0
-2018,uganda,UGA,0.0
-2019,uganda,UGA,0.0
-2020,uganda,UGA,0.0
-2021,uganda,UGA,0.0
+2010,uganda,UGA,0.012
+2011,uganda,UGA,0.012
+2012,uganda,UGA,0.012
+2013,uganda,UGA,0.012
+2014,uganda,UGA,0.012
+2015,uganda,UGA,0.012
+2016,uganda,UGA,0.012
+2017,uganda,UGA,0.012
+2018,uganda,UGA,0.012
+2019,uganda,UGA,0.012
+2020,uganda,UGA,0.012
+2021,uganda,UGA,0.012
 1970,ukraine,UKR,0.0
 1971,ukraine,UKR,0.0
 1972,ukraine,UKR,0.0
@@ -12727,50 +12727,50 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,united kingdom,GBR,0.0
 2008,united kingdom,GBR,0.0
 2009,united kingdom,GBR,0.0
-2010,united kingdom,GBR,0.0
-2011,united kingdom,GBR,0.0
-2012,united kingdom,GBR,0.0
-2013,united kingdom,GBR,0.0
-2014,united kingdom,GBR,0.0
-2015,united kingdom,GBR,0.0
-2016,united kingdom,GBR,0.0
-2017,united kingdom,GBR,0.0
-2018,united kingdom,GBR,0.0
-2019,united kingdom,GBR,0.0
-2020,united kingdom,GBR,0.0
-2021,united kingdom,GBR,0.0
+2010,united kingdom,GBR,1.5837
+2011,united kingdom,GBR,1.5837
+2012,united kingdom,GBR,1.5837
+2013,united kingdom,GBR,1.5837
+2014,united kingdom,GBR,1.5837
+2015,united kingdom,GBR,1.5837
+2016,united kingdom,GBR,1.5837
+2017,united kingdom,GBR,1.5837
+2018,united kingdom,GBR,1.5837
+2019,united kingdom,GBR,1.5837
+2020,united kingdom,GBR,1.5837
+2021,united kingdom,GBR,1.5837
 1970,united states,USA,1.1865999999999999
 1971,united states,USA,1.2546
 1972,united states,USA,1.3240999999999998
 1973,united states,USA,1.3756
-1974,united states,USA,1.4653999999999998
-1975,united states,USA,1.8241999999999998
+1974,united states,USA,1.4654
+1975,united states,USA,1.8242
 1976,united states,USA,1.9040000000000001
 1977,united states,USA,1.932
 1978,united states,USA,2.0494000000000003
 1979,united states,USA,2.0494000000000003
-1980,united states,USA,2.1217
+1980,united states,USA,2.1216999999999997
 1981,united states,USA,2.2536
 1982,united states,USA,2.2536
 1983,united states,USA,2.4879000000000002
 1984,united states,USA,2.8988
 1985,united states,USA,2.9133000000000004
-1986,united states,USA,3.0419000000000005
-1987,united states,USA,3.1555000000000004
-1988,united states,USA,3.1573000000000007
-1989,united states,USA,3.1634000000000007
-1990,united states,USA,3.4230000000000005
-1991,united states,USA,3.5762000000000005
-1992,united states,USA,3.5912
-1993,united states,USA,3.6687000000000003
-1994,united states,USA,3.7071000000000005
-1995,united states,USA,3.9530000000000007
+1986,united states,USA,3.0419
+1987,united states,USA,3.1555
+1988,united states,USA,3.1573
+1989,united states,USA,3.1634
+1990,united states,USA,3.423
+1991,united states,USA,3.5762
+1992,united states,USA,3.5911999999999997
+1993,united states,USA,3.6687
+1994,united states,USA,3.7071
+1995,united states,USA,3.9530000000000003
 1996,united states,USA,4.1596
 1997,united states,USA,4.177600000000001
 1998,united states,USA,4.177600000000001
 1999,united states,USA,4.177600000000001
-2000,united states,USA,4.1824
-2001,united states,USA,4.271400000000001
+2000,united states,USA,4.1823999999999995
+2001,united states,USA,4.2714
 2002,united states,USA,4.2735
 2003,united states,USA,4.2735
 2004,united states,USA,4.361
@@ -12778,19 +12778,19 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2006,united states,USA,4.5701
 2007,united states,USA,4.6285
 2008,united states,USA,4.6353
-2009,united states,USA,4.782700000000002
-2010,united states,USA,4.845300000000001
-2011,united states,USA,4.856600000000002
-2012,united states,USA,4.887000000000003
-2013,united states,USA,4.916500000000003
-2014,united states,USA,4.995000000000003
-2015,united states,USA,5.071600000000003
-2016,united states,USA,5.079200000000003
-2017,united states,USA,5.115400000000003
-2018,united states,USA,5.118400000000002
-2019,united states,USA,5.120400000000003
-2020,united states,USA,5.123200000000002
-2021,united states,USA,5.123200000000002
+2009,united states,USA,4.7827
+2010,united states,USA,4.8453
+2011,united states,USA,4.8566
+2012,united states,USA,4.8870000000000005
+2013,united states,USA,4.9165
+2014,united states,USA,4.995
+2015,united states,USA,5.0716
+2016,united states,USA,5.0792
+2017,united states,USA,5.1154
+2018,united states,USA,5.118399999999999
+2019,united states,USA,5.1204
+2020,united states,USA,5.1232
+2021,united states,USA,5.1232
 1970,unspecified,UNS,0.0
 1971,unspecified,UNS,0.0
 1972,unspecified,UNS,0.0
@@ -12883,18 +12883,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,uruguay,URY,0.0
 2008,uruguay,URY,0.0
 2009,uruguay,URY,0.0
-2010,uruguay,URY,0.0
-2011,uruguay,URY,0.0
-2012,uruguay,URY,0.0
-2013,uruguay,URY,0.0
-2014,uruguay,URY,0.0
-2015,uruguay,URY,0.0
-2016,uruguay,URY,0.0
-2017,uruguay,URY,0.0
-2018,uruguay,URY,0.0
-2019,uruguay,URY,0.0
-2020,uruguay,URY,0.0
-2021,uruguay,URY,0.0
+2010,uruguay,URY,0.4127
+2011,uruguay,URY,0.4127
+2012,uruguay,URY,0.4127
+2013,uruguay,URY,0.4127
+2014,uruguay,URY,0.4127
+2015,uruguay,URY,0.4127
+2016,uruguay,URY,0.4127
+2017,uruguay,URY,0.4127
+2018,uruguay,URY,0.4127
+2019,uruguay,URY,0.4127
+2020,uruguay,URY,0.4127
+2021,uruguay,URY,0.4127
 1970,us msc.pac.i,USP,0.0
 1971,us msc.pac.i,USP,0.0
 1972,us msc.pac.i,USP,0.0
@@ -13143,18 +13143,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,vietnam,VNM,0.0
 2008,vietnam,VNM,0.0
 2009,vietnam,VNM,0.0
-2010,vietnam,VNM,0.0
-2011,vietnam,VNM,0.0
-2012,vietnam,VNM,0.0
-2013,vietnam,VNM,0.0
-2014,vietnam,VNM,0.0
-2015,vietnam,VNM,0.0
-2016,vietnam,VNM,0.0
-2017,vietnam,VNM,0.0
-2018,vietnam,VNM,0.0
-2019,vietnam,VNM,0.0
-2020,vietnam,VNM,0.0
-2021,vietnam,VNM,0.0
+2010,vietnam,VNM,0.022
+2011,vietnam,VNM,0.022
+2012,vietnam,VNM,0.022
+2013,vietnam,VNM,0.022
+2014,vietnam,VNM,0.022
+2015,vietnam,VNM,0.022
+2016,vietnam,VNM,0.022
+2017,vietnam,VNM,0.022
+2018,vietnam,VNM,0.022
+2019,vietnam,VNM,0.022
+2020,vietnam,VNM,0.022
+2021,vietnam,VNM,0.022
 1970,virgin islands (u.s.),VIR,0.0
 1971,virgin islands (u.s.),VIR,0.0
 1972,virgin islands (u.s.),VIR,0.0
@@ -13663,18 +13663,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biomass_gw
 2007,zambia,ZMB,0.0
 2008,zambia,ZMB,0.0
 2009,zambia,ZMB,0.0
-2010,zambia,ZMB,0.0
-2011,zambia,ZMB,0.0
-2012,zambia,ZMB,0.0
-2013,zambia,ZMB,0.0
-2014,zambia,ZMB,0.0
-2015,zambia,ZMB,0.0
-2016,zambia,ZMB,0.0
-2017,zambia,ZMB,0.0
-2018,zambia,ZMB,0.0
-2019,zambia,ZMB,0.0
-2020,zambia,ZMB,0.0
-2021,zambia,ZMB,0.0
+2010,zambia,ZMB,0.012237
+2011,zambia,ZMB,0.012237
+2012,zambia,ZMB,0.012237
+2013,zambia,ZMB,0.012237
+2014,zambia,ZMB,0.012237
+2015,zambia,ZMB,0.012237
+2016,zambia,ZMB,0.012237
+2017,zambia,ZMB,0.012237
+2018,zambia,ZMB,0.012237
+2019,zambia,ZMB,0.012237
+2020,zambia,ZMB,0.012237
+2021,zambia,ZMB,0.012237
 1970,zimbabwe,ZWE,0.0
 1971,zimbabwe,ZWE,0.0
 1972,zimbabwe,ZWE,0.0

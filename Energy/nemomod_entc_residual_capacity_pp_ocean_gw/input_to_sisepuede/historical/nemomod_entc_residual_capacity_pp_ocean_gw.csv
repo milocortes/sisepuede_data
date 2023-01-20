@@ -91,18 +91,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_ocean_gw
 2007,albania,ALB,0.0
 2008,albania,ALB,0.0
 2009,albania,ALB,0.0
-2010,albania,ALB,0.0
-2011,albania,ALB,0.0
-2012,albania,ALB,0.0
-2013,albania,ALB,0.0
-2014,albania,ALB,0.0
-2015,albania,ALB,0.0
-2016,albania,ALB,0.0
-2017,albania,ALB,0.0
-2018,albania,ALB,0.0
-2019,albania,ALB,0.0
-2020,albania,ALB,0.0
-2021,albania,ALB,0.0
+2010,albania,ALB,0.098
+2011,albania,ALB,0.098
+2012,albania,ALB,0.098
+2013,albania,ALB,0.098
+2014,albania,ALB,0.098
+2015,albania,ALB,0.098
+2016,albania,ALB,0.098
+2017,albania,ALB,0.098
+2018,albania,ALB,0.098
+2019,albania,ALB,0.098
+2020,albania,ALB,0.098
+2021,albania,ALB,0.098
 1970,algeria,DZA,0.0
 1971,algeria,DZA,0.0
 1972,algeria,DZA,0.0
@@ -2015,18 +2015,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_ocean_gw
 2007,canada,CAN,0.0
 2008,canada,CAN,0.0
 2009,canada,CAN,0.0
-2010,canada,CAN,0.0
-2011,canada,CAN,0.0
-2012,canada,CAN,0.0
-2013,canada,CAN,0.0
-2014,canada,CAN,0.0
-2015,canada,CAN,0.0
-2016,canada,CAN,0.0
-2017,canada,CAN,0.0
-2018,canada,CAN,0.0
-2019,canada,CAN,0.0
-2020,canada,CAN,0.0
-2021,canada,CAN,0.0
+2010,canada,CAN,0.017
+2011,canada,CAN,0.017
+2012,canada,CAN,0.017
+2013,canada,CAN,0.017
+2014,canada,CAN,0.017
+2015,canada,CAN,0.017
+2016,canada,CAN,0.017
+2017,canada,CAN,0.017
+2018,canada,CAN,0.017
+2019,canada,CAN,0.017
+2020,canada,CAN,0.017
+2021,canada,CAN,0.017
 1970,cape verde,CPV,0.0
 1971,cape verde,CPV,0.0
 1972,cape verde,CPV,0.0
@@ -3991,18 +3991,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_ocean_gw
 2007,finland,FIN,0.0
 2008,finland,FIN,0.0
 2009,finland,FIN,0.0
-2010,finland,FIN,0.0
-2011,finland,FIN,0.0
-2012,finland,FIN,0.0
-2013,finland,FIN,0.0
-2014,finland,FIN,0.0
-2015,finland,FIN,0.0
-2016,finland,FIN,0.0
-2017,finland,FIN,0.0
-2018,finland,FIN,0.0
-2019,finland,FIN,0.0
-2020,finland,FIN,0.0
-2021,finland,FIN,0.0
+2010,finland,FIN,0.28250000000000003
+2011,finland,FIN,0.28250000000000003
+2012,finland,FIN,0.28250000000000003
+2013,finland,FIN,0.28250000000000003
+2014,finland,FIN,0.28250000000000003
+2015,finland,FIN,0.28250000000000003
+2016,finland,FIN,0.28250000000000003
+2017,finland,FIN,0.28250000000000003
+2018,finland,FIN,0.28250000000000003
+2019,finland,FIN,0.28250000000000003
+2020,finland,FIN,0.28250000000000003
+2021,finland,FIN,0.28250000000000003
 1970,fm panama cz,PCZ,0.0
 1971,fm panama cz,PCZ,0.0
 1972,fm panama cz,PCZ,0.0
@@ -4875,18 +4875,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_ocean_gw
 2007,germany,DEU,0.1277
 2008,germany,DEU,0.1277
 2009,germany,DEU,0.1277
-2010,germany,DEU,0.5222000000000001
-2011,germany,DEU,0.5457000000000001
-2012,germany,DEU,0.5457000000000001
-2013,germany,DEU,0.6467
-2014,germany,DEU,0.6467
-2015,germany,DEU,0.6467
-2016,germany,DEU,0.6467
-2017,germany,DEU,0.6467
-2018,germany,DEU,0.6467
-2019,germany,DEU,0.6467
-2020,germany,DEU,0.6467
-2021,germany,DEU,0.6467
+2010,germany,DEU,0.6324
+2011,germany,DEU,0.6559
+2012,germany,DEU,0.6559
+2013,germany,DEU,0.7569
+2014,germany,DEU,0.7569
+2015,germany,DEU,0.7569
+2016,germany,DEU,0.7569
+2017,germany,DEU,0.7569
+2018,germany,DEU,0.7569
+2019,germany,DEU,0.7569
+2020,germany,DEU,0.7569
+2021,germany,DEU,0.7569
 1970,ghana,GHA,0.0
 1971,ghana,GHA,0.0
 1972,ghana,GHA,0.0
@@ -6123,18 +6123,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_ocean_gw
 2007,italy,ITA,0.0
 2008,italy,ITA,0.0
 2009,italy,ITA,0.0
-2010,italy,ITA,0.0
-2011,italy,ITA,0.0
-2012,italy,ITA,0.0
-2013,italy,ITA,0.0
-2014,italy,ITA,0.0
-2015,italy,ITA,0.0
-2016,italy,ITA,0.0
-2017,italy,ITA,0.0
-2018,italy,ITA,0.0
-2019,italy,ITA,0.0
-2020,italy,ITA,0.0
-2021,italy,ITA,0.0
+2010,italy,ITA,0.38460000000000005
+2011,italy,ITA,0.38460000000000005
+2012,italy,ITA,0.38460000000000005
+2013,italy,ITA,0.38460000000000005
+2014,italy,ITA,0.38460000000000005
+2015,italy,ITA,0.38460000000000005
+2016,italy,ITA,0.38460000000000005
+2017,italy,ITA,0.38460000000000005
+2018,italy,ITA,0.38460000000000005
+2019,italy,ITA,0.38460000000000005
+2020,italy,ITA,0.38460000000000005
+2021,italy,ITA,0.38460000000000005
 1970,jamaica,JAM,0.0
 1971,jamaica,JAM,0.0
 1972,jamaica,JAM,0.0
@@ -10023,18 +10023,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_ocean_gw
 2007,russian federation,RUS,0.0
 2008,russian federation,RUS,0.0
 2009,russian federation,RUS,0.0
-2010,russian federation,RUS,0.0
-2011,russian federation,RUS,0.0
-2012,russian federation,RUS,0.0
-2013,russian federation,RUS,0.0
-2014,russian federation,RUS,0.0
-2015,russian federation,RUS,0.0
-2016,russian federation,RUS,0.0
-2017,russian federation,RUS,0.0
-2018,russian federation,RUS,0.0
-2019,russian federation,RUS,0.0
-2020,russian federation,RUS,0.0
-2021,russian federation,RUS,0.0
+2010,russian federation,RUS,0.0297
+2011,russian federation,RUS,0.0297
+2012,russian federation,RUS,0.0297
+2013,russian federation,RUS,0.0297
+2014,russian federation,RUS,0.0297
+2015,russian federation,RUS,0.0297
+2016,russian federation,RUS,0.0297
+2017,russian federation,RUS,0.0297
+2018,russian federation,RUS,0.0297
+2019,russian federation,RUS,0.0297
+2020,russian federation,RUS,0.0297
+2021,russian federation,RUS,0.0297
 1970,rwanda,RWA,0.0
 1971,rwanda,RWA,0.0
 1972,rwanda,RWA,0.0
@@ -12755,22 +12755,22 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_ocean_gw
 1983,united states,USA,0.26430000000000003
 1984,united states,USA,0.26430000000000003
 1985,united states,USA,0.26430000000000003
-1986,united states,USA,0.28640000000000004
-1987,united states,USA,0.30840000000000006
-1988,united states,USA,0.30840000000000006
-1989,united states,USA,0.30840000000000006
+1986,united states,USA,0.2864
+1987,united states,USA,0.3084
+1988,united states,USA,0.3084
+1989,united states,USA,0.3084
 1990,united states,USA,0.31410000000000005
-1991,united states,USA,0.34540000000000004
-1992,united states,USA,0.34540000000000004
-1993,united states,USA,0.34540000000000004
-1994,united states,USA,0.34540000000000004
-1995,united states,USA,0.34540000000000004
-1996,united states,USA,0.3904
-1997,united states,USA,0.3904
-1998,united states,USA,0.3904
-1999,united states,USA,0.3904
-2000,united states,USA,0.3904
-2001,united states,USA,0.3904
+1991,united states,USA,0.3454
+1992,united states,USA,0.3454
+1993,united states,USA,0.3454
+1994,united states,USA,0.3454
+1995,united states,USA,0.3454
+1996,united states,USA,0.39039999999999997
+1997,united states,USA,0.39039999999999997
+1998,united states,USA,0.39039999999999997
+1999,united states,USA,0.39039999999999997
+2000,united states,USA,0.39039999999999997
+2001,united states,USA,0.39039999999999997
 2002,united states,USA,0.4295
 2003,united states,USA,0.4295
 2004,united states,USA,0.434
@@ -12787,10 +12787,10 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_ocean_gw
 2015,united states,USA,0.512
 2016,united states,USA,0.512
 2017,united states,USA,0.522
-2018,united states,USA,0.5723999999999999
-2019,united states,USA,0.5723999999999999
-2020,united states,USA,0.5723999999999999
-2021,united states,USA,0.5723999999999999
+2018,united states,USA,0.5724
+2019,united states,USA,0.5724
+2020,united states,USA,0.5724
+2021,united states,USA,0.5724
 1970,unspecified,UNS,0.0
 1971,unspecified,UNS,0.0
 1972,unspecified,UNS,0.0

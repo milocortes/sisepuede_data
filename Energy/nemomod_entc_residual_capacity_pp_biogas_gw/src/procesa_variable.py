@@ -11,11 +11,12 @@ print(f"Processing {sisepuede_name} variable")
 # Set directories
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
-relative_path = os.path.normpath(dir_path + "/../../../")
-relative_path_power_plants_file = os.path.join(relative_path, "global_power_plant_database" ,"global_power_plant_database.csv")
+relative_path = os.path.normpath(dir_path + "/../raw_data")
+relative_path_power_plants_file = os.path.join(relative_path, "global_power_plant_database.csv")
 
 # Read source 
 power_plants = pd.read_csv(relative_path_power_plants_file)
+power_plants["commissioning_year"] = power_plants["commissioning_year"].fillna(2010)  
 
 # Get countries ISO 3 codes
 relative_path_iso3_file = os.path.join(relative_path, "iso3_all_countries.csv")
