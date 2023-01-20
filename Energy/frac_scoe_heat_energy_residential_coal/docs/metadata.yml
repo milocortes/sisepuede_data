@@ -2,5 +2,6 @@ Historical values obtained from World Energy Blance Highlights 2021
 
 Assumptions:
 
--Not presented data is 0
--Not presented countries are filled with global average
+-Fuel portion correspondent to requested fuels is listed in row_data/frac_scoe_heat_energy_proportion.xlsx
+
+-Data not present in the dataset is filled with world value
