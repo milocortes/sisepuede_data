@@ -9,7 +9,7 @@ variable :
   longname :  Average Passenger Vehicle Occupancy Rate
 
 
-  units: rate between 0 and 1
+  units: number of passengers per vehicle
 
 resources:
 
@@ -20,9 +20,12 @@ Last visited: 2022-07-12
       descrip:   Occupation rate per car divided by average car capability
 
 aditional_information:
-      assumptions: Occupation rate per car divided by average car capability
+      assumptions:
 
-Average historical value assigned to all the countries and every year.
+- Direct calculation of the available data lead to a avrerage value of 1.6808 passenger per vehicle
+
+
+-Average value assigned to all the countries and every year.
 
 
 

@@ -6,7 +6,7 @@ variable :
   longname :  Average Passenger Vehicle Occupancy Rate
 
 
-  units: rate between 0 and 1
+  units: Number of passengers per vehicle
 
 resources:
 
@@ -17,9 +17,15 @@ Last visited: 2022-07-12
       descrip:   Percentage of seats occupied in some countries of Europe.
 
 aditional_information:
-      assumptions: -Average historical value is assigned to all the countries and every year, when country is no present in the data set.
+      assumptions: 
 
--Average historical value is assigned to all the countries and every projected year.
+-According to http://reasonrail.blogspot.com/2014/10/average-number-of-seats-per-amtrak-train.html,
+which took data from https://www.transportation.gov/ and taking the average seats is 320. 
+
+This number is multiplied by the Percentage of seats occupied.
+
+-Average value is assigned to the countries not present in the data set.
+
 
 
 

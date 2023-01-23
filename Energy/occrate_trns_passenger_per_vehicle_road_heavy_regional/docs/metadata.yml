@@ -6,7 +6,7 @@ variable :
   longname :  Average Passenger Vehicle Occupancy Rate
 
 
-  units: rate between 0 and 1
+  units: Number of passengers per vehicle
 
 resources:
 
@@ -17,9 +17,13 @@ Last visited: 2022-07-12
       descrip:   Percentage of seats occupied in some countries of Europe.
 
 aditional_information:
-      assumptions: -Average historical value is assigned to all the countries and every year, when country is no present in the data set.
+      assumptions:
+ -According to https://ppiaf.org/sites/ppiaf.org/files/documents/toolkits/UrbanBusToolkit/assets/1/1c/1c27.html
+"A typical urban bus will carry approximately 40 passengers seated and 30 standing."
 
--Average historical value is assigned to all the countries for every projected year.
+so 100% of ocupation is 70 passengers, which is multiplied by the percentage of seats occupied.
+
+-Average value is assigned to the countries not present in the data set.
 
 
 
