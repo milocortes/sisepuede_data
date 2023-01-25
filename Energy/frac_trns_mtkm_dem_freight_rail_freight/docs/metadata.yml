@@ -1,0 +1,15 @@
+date:        2023-24-01
+variable :
+  name : frac_trns_mtkm_dem_freight_rail_freight
+  subsector :   Transport
+  longname :  Fraction of freight Megatonne-Kilometer (mtkm) demand accounted for by transportation type
+
+
+  units:   decimal between 0-1
+
+resources:
+    - url:   https://data.oecd.org/transport/freight-transport.htm#indicator-chart
+
+aditional_information:
+
+      assumptions: Variable value of countries not present in the data set take the mean value
