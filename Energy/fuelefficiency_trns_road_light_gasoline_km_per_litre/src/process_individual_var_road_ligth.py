@@ -2,7 +2,7 @@ from assumption import historical_assumption, projected_assumption
 import os 
 import sys
 import pandas as pd
-
+import numpy as np
 
 # Set directories
 dir_path = os.path.dirname(os.path.realpath(__file__))
@@ -29,7 +29,7 @@ for k,v in projected_assumption.items():
 
 var_energy_to_process = sys.argv[1]
 
-time = range(2000, 2020)
+time = range(2000, 2015)
 df_var_energy = pd.DataFrame({"Year" : time, var_energy_to_process : [historical_assumption[var_energy_to_process]]*len(time)})
 
 historical_df_var_energy = iso3_m49_correspondence.merge(right = df_var_energy, how = "cross") 
@@ -44,7 +44,15 @@ last_year = df_var_energy["Year"].to_list()[-1]
 
 time_period = range(last_year +1, 2051)
 
-projected_df_var_energy = pd.DataFrame({"Year" : time_period, var_energy_to_process : [projected_assumption[var_energy_to_process]]*len(time_period)})
+# Interpolate data from 2014 (current technology) to 2050 (mature technology)
+x = [2015, 2050]
+y = [historical_assumption[var_energy_to_process], projected_assumption[var_energy_to_process]] 
+
+y_interpol = np.interp(range(last_year +2, 2050), x, y)
+
+y_all = [historical_assumption[var_energy_to_process]] + list(y_interpol) + [projected_assumption[var_energy_to_process]]
+
+projected_df_var_energy = pd.DataFrame({"Year" : time_period, var_energy_to_process : y_all})
 
 all_projected_df_var_energy = iso3_m49_correspondence.merge( right = projected_df_var_energy, how = "cross")
 
