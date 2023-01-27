@@ -1,0 +1,7 @@
+ According to https://web.archive.org/web/20140724231620/http://www.boeing.com/assets/pdf/commercial/startup/pdf/747-8_perf.pdf
+
+Fuel burn per seat = 117.8 Kg/3000nmi, for 467 seats then Fule efficiency=52012.6Kg/3000nmi
+
+As kerosene density=0.82kg/L => 52012.6 Kg=64429.2683 L, 1 nmi=1.852 km => 3000 nmi=5556 km
+
+Then 52012.6Kg/3000nmi= 11.4 L/ km => 0.087 Km/L
