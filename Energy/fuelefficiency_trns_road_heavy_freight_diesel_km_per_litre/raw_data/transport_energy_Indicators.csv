@@ -1,0 +1,961 @@
+Country,Mode/vehicle type,Indicator,2000,2005,2010,2015,2016,2017,2018,2019,2020
+Australia,Cars/light trucks,Per capita energy intensity (GJ/cap)                            ,30.06,30.85,27.72,26.26,26.29,25.08,24.74,24.20,22.09
+Australia,Cars/light trucks,Fuel intensity (litres/100 vkm)                                 ,11.41,11.31,11.09,10.60,10.71,10.32,10.27,10.24,10.18
+Australia,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                  ,12.60,12.99,11.90,11.76,11.65,11.53,11.43,11.23,10.34
+Australia,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                  ,2.39,2.38,2.33,2.23,2.26,2.18,2.16,2.15,2.14
+Australia,Cars/light trucks,Passenger average occupancy (#passengers)                       ,1.59,1.58,1.58,1.57,1.57,1.57,1.57,1.58,1.58
+Australia,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                    ,7.94,8.23,7.54,7.47,7.41,7.33,7.26,7.13,6.54
+Australia,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                    ,3.78,3.75,3.68,3.51,3.55,3.42,3.41,3.40,3.38
+Australia,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                  ,15.40,15.06,13.54,13.13,12.96,12.80,12.66,12.46,11.40
+Australia,Freight trucks,Per capita energy intensity (GJ/cap)                               ,16.01,17.25,18.33,19.39,19.47,19.58,19.86,19.78,19.63
+Australia,Freight trucks,Fuel intensity (litres/100 vkm)                                    ,20.73,21.08,21.07,20.95,20.75,20.57,20.49,20.56,20.73
+Australia,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                         ,7.08,8.04,8.24,8.50,8.47,8.47,8.57,8.69,8.67
+Australia,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                         ,2.26,2.15,2.22,2.28,2.30,2.31,2.32,2.28,2.26
+Australia,Freight trucks,Freight load factor (tkm/vkm)                                      ,3.04,3.26,3.14,3.05,2.99,2.95,2.93,3.00,3.04
+Australia,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,2.33,2.47,2.62,2.79,2.83,2.87,2.92,2.90,2.86
+Australia,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,6.87,6.99,6.99,6.95,6.88,6.82,6.79,6.82,6.87
+Australia,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                     ,20.42,20.16,19.46,19.15,19.22,19.24,19.27,18.70,18.02
+Austria,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,18.31,18.88,18.72,19.02,19.29,19.46,19.89,20.18,..
+Austria,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,8.14,7.88,7.50,7.26,7.25,7.22,7.38,7.35,..
+Austria,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,8.32,8.58,8.73,9.08,9.20,9.30,9.29,9.44,..
+Austria,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,2.20,2.20,2.14,2.10,2.10,2.09,2.14,2.14,..
+Austria,Cars/light trucks,Passenger average occupancy (#passengers)                         ,1.23,1.19,1.16,1.15,1.15,1.15,1.15,1.14,..
+Austria,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,6.79,7.22,7.51,7.87,8.00,8.10,8.11,8.26,..
+Austria,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,2.70,2.61,2.49,2.42,2.41,2.40,2.45,2.44,..
+Austria,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,14.26,14.29,14.15,14.31,14.50,14.54,14.39,14.52,..
+Austria,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,7.19,7.82,7.86,8.26,8.44,8.61,9.04,9.27,..
+Austria,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,18.78,18.73,17.88,17.87,17.85,17.85,18.07,17.94,..
+Austria,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,4.79,5.48,5.66,5.91,6.02,6.43,6.73,6.97,..
+Austria,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,1.50,1.43,1.39,1.40,1.40,1.34,1.34,1.33,..
+Austria,Freight trucks,Freight load factor (tkm/vkm)                                        ,4.14,4.35,4.27,4.24,4.22,4.42,4.46,4.48,..
+Austria,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,1.16,1.26,1.33,1.40,1.43,1.46,1.51,1.56,..
+Austria,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,6.22,6.21,5.93,5.92,5.92,5.92,5.99,5.95,..
+Austria,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,28.15,28.95,27.92,27.12,27.28,26.97,26.93,27.01,..
+Belgium,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,17.22,16.97,16.99,16.74,16.81,16.89,16.78,16.80,12.79
+Belgium,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,7.48,7.36,7.29,7.26,7.27,7.27,7.28,7.28,7.27
+Belgium,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,10.00,9.81,10.04,9.49,9.35,9.40,9.36,9.36,..
+Belgium,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,1.72,1.73,1.69,1.76,1.80,1.80,1.79,1.80,..
+Belgium,Cars/light trucks,Passenger average occupancy (#passengers)                         ,1.44,1.41,1.43,1.37,1.34,1.34,1.35,1.35,..
+Belgium,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,6.94,6.96,7.03,6.95,6.96,6.99,6.93,6.92,5.26
+Belgium,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,2.48,2.44,2.42,2.41,2.41,2.42,2.42,2.43,2.43
+Belgium,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,15.21,14.82,14.53,13.83,13.77,13.72,13.53,13.51,10.30
+Belgium,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,10.85,11.96,11.07,10.96,11.26,11.65,11.95,12.25,11.02
+Belgium,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,20.31,19.70,19.11,18.96,18.82,18.82,18.75,18.67,19.44
+Belgium,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,4.90,4.58,4.50,4.95,4.85,5.18,5.16,..,..
+Belgium,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,2.21,2.61,2.46,2.21,2.32,2.25,2.32,..,..
+Belgium,Freight trucks,Freight load factor (tkm/vkm)                                        ,3.04,2.50,2.57,2.84,2.69,2.78,2.69,..,..
+Belgium,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,1.61,1.83,1.75,1.74,1.80,1.87,1.92,1.97,1.69
+Belgium,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,6.73,6.53,6.34,6.29,6.24,6.24,6.22,6.21,6.50
+Belgium,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,28.05,28.97,25.47,23.63,23.96,23.96,23.95,23.91,20.30
+Canada,Cars/light trucks,Per capita energy intensity (GJ/cap)                               ,30.57,30.42,29.38,28.00,28.56,28.34,28.26,28.17,23.18
+Canada,Cars/light trucks,Fuel intensity (litres/100 vkm)                                    ,10.06,9.77,9.48,9.28,9.26,9.24,9.21,9.15,9.12
+Canada,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                     ,14.82,15.23,15.21,14.90,15.25,15.19,15.23,15.30,12.64
+Canada,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                     ,2.06,2.00,1.93,1.88,1.87,1.87,1.86,1.84,1.83
+Canada,Cars/light trucks,Passenger average occupancy (#passengers)                          ,1.62,1.62,1.63,1.64,1.64,1.64,1.65,1.65,1.65
+Canada,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,9.16,9.38,9.34,9.10,9.30,9.25,9.26,9.29,7.66
+Canada,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,3.34,3.24,3.14,3.08,3.07,3.07,3.05,3.03,3.02
+Canada,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                     ,18.48,18.24,16.88,15.46,15.48,15.19,15.06,15.31,13.18
+Canada,Freight trucks,Per capita energy intensity (GJ/cap)                                  ,22.01,24.26,26.81,25.85,24.93,25.69,26.50,26.19,23.29
+Canada,Freight trucks,Fuel intensity (litres/100 vkm)                                       ,26.19,25.05,23.43,21.60,20.77,20.59,20.36,19.94,20.00
+Canada,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                            ,7.83,8.76,8.62,9.92,10.34,10.43,9.61,9.81,8.99
+Canada,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                            ,2.81,2.77,3.11,2.61,2.41,2.46,2.76,2.67,2.59
+Canada,Freight trucks,Freight load factor (tkm/vkm)                                         ,3.09,3.00,2.50,2.75,2.86,2.77,2.45,2.48,2.56
+Canada,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                          ,2.54,2.92,3.45,3.61,3.62,3.76,3.92,3.96,3.51
+Canada,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                          ,8.68,8.31,7.77,7.16,6.89,6.83,6.75,6.62,6.63
+Canada,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                        ,31.24,30.88,28.91,26.18,25.42,25.65,26.11,26.20,23.47
+Czech Republic,Cars/light trucks,Per capita energy intensity (GJ/cap)                       ,9.80,13.17,13.43,13.84,14.36,14.78,14.73,15.13,14.60
+Czech Republic,Cars/light trucks,Fuel intensity (litres/100 vkm)                            ,9.69,10.93,11.39,10.04,9.92,8.54,8.12,8.11,7.65
+Czech Republic,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)             ,6.22,6.71,6.04,6.61,6.84,7.02,7.34,7.61,6.44
+Czech Republic,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)             ,1.58,1.96,2.22,2.09,2.10,2.11,2.01,1.99,2.27
+Czech Republic,Cars/light trucks,Passenger average occupancy (#passengers)                  ,2.04,1.85,1.70,1.61,1.59,1.36,1.36,1.37,1.14
+Czech Republic,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)               ,3.05,3.63,3.56,4.12,4.31,5.15,5.39,5.54,5.67
+Czech Republic,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)               ,3.21,3.63,3.78,3.36,3.33,2.87,2.73,2.73,2.58
+Czech Republic,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                             ,9.11,9.39,8.32,8.49,8.58,9.84,9.96,9.98,10.03
+Czech Republic,Freight trucks,Per capita energy intensity (GJ/cap)                          ,4.27,6.60,6.32,7.13,7.42,7.88,7.87,7.75,7.37
+Czech Republic,Freight trucks,Fuel intensity (litres/100 vkm)                               ,16.33,22.48,24.66,..,..,..,..,..,..
+Czech Republic,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                    ,3.80,4.25,4.93,5.57,4.76,4.18,3.87,3.66,5.24
+Czech Republic,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                    ,1.12,1.55,1.28,1.28,1.56,1.88,2.04,2.12,1.41
+Czech Republic,Freight trucks,Freight load factor (tkm/vkm)                                 ,4.82,4.79,6.38,..,..,..,..,..,..
+Czech Republic,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                  ,0.79,0.89,0.77,..,..,..,..,..,..
+Czech Republic,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                  ,5.41,7.45,8.17,..,..,..,..,..,..
+Czech Republic,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                ,27.19,20.64,13.59,..,..,..,..,..,..
+Denmark,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,17.90,17.60,17.76,18.51,18.42,18.46,18.73,18.54,..
+Denmark,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,8.76,8.61,8.47,7.86,7.64,7.58,7.62,7.47,..
+Denmark,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,9.48,9.18,9.32,10.00,10.31,10.42,10.56,10.75,..
+Denmark,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,1.89,1.92,1.91,1.85,1.79,1.77,1.77,1.73,..
+Denmark,Cars/light trucks,Passenger average occupancy (#passengers)                         ,1.54,1.49,1.47,1.41,1.42,1.42,1.42,1.43,..
+Denmark,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,6.17,6.17,6.32,7.10,7.27,7.35,7.42,7.49,..
+Denmark,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,2.90,2.86,2.81,2.61,2.53,2.51,2.52,2.48,..
+Denmark,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,17.16,16.59,15.64,16.17,16.19,16.08,15.94,15.85,..
+Denmark,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,10.17,10.62,9.80,8.01,7.98,8.11,8.35,8.10,..
+Denmark,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,21.97,18.34,18.02,18.54,18.49,18.62,19.25,18.87,..
+Denmark,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,4.50,5.01,3.75,3.75,4.32,4.25,3.85,4.00,..
+Denmark,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,2.26,2.12,2.61,2.13,1.85,1.91,2.17,2.02,..
+Denmark,Freight trucks,Freight load factor (tkm/vkm)                                        ,3.22,2.87,2.29,2.88,3.32,3.24,2.95,3.10,..
+Denmark,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,1.40,1.75,1.64,1.30,1.30,1.31,1.30,1.29,..
+Denmark,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,7.28,6.08,5.97,6.15,6.14,6.19,6.40,6.27,..
+Denmark,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,23.20,22.48,22.42,22.28,22.48,22.77,22.95,23.08,..
+Estonia,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,..,..,..,..,..,..,..,..,..
+Estonia,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,..,..,..,..,..,..,..,..,..
+Estonia,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,..,..,..,..,..,..,..,..,..
+Estonia,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,..,..,..,..,..,..,..,..,..
+Estonia,Cars/light trucks,Passenger average occupancy (#passengers)                         ,..,..,..,..,..,..,..,..,..
+Estonia,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,..,..,..,..,..,..,..,..,..
+Estonia,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,..,..,..,..,..,..,..,..,..
+Estonia,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,..,..,..,..,..,..,..,..,..
+Estonia,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,..,..,..,..,..,..,..,..,..
+Estonia,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,..,..,..,..,..,..,..,..,..
+Estonia,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,..,..,..,..,..,..,..,..,..
+Estonia,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,..,..,..,..,..,..,..,..,..
+Estonia,Freight trucks,Freight load factor (tkm/vkm)                                        ,..,..,..,..,..,..,..,..,..
+Estonia,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,..,..,..,..,..,..,..,..,..
+Estonia,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,..,..,..,..,..,..,..,..,..
+Estonia,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,..,..,..,..,..,..,..,..,..
+Finland,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,15.96,17.34,16.97,16.38,16.36,16.11,15.98,15.75,14.60
+Finland,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,6.44,6.66,6.70,6.66,6.66,6.59,6.53,6.44,6.22
+Finland,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,10.76,11.80,12.06,12.10,12.09,12.09,12.11,12.10,11.59
+Finland,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,1.48,1.47,1.41,1.35,1.35,1.33,1.32,1.30,1.26
+Finland,Cars/light trucks,Passenger average occupancy (#passengers)                         ,1.44,1.50,1.58,1.63,1.63,1.64,1.65,1.65,1.66
+Finland,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,7.48,7.85,7.64,7.41,7.40,7.36,7.35,7.32,6.98
+Finland,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,2.14,2.21,2.22,2.21,2.21,2.19,2.17,2.15,2.09
+Finland,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,18.25,17.06,14.34,12.55,12.24,11.92,11.68,11.39,10.63
+Finland,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,10.70,11.38,11.76,11.16,11.64,11.84,12.19,11.94,11.58
+Finland,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,23.59,23.06,22.76,20.74,21.43,21.91,22.28,21.94,21.66
+Finland,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,5.53,5.47,5.01,3.91,4.47,4.78,4.71,4.84,5.04
+Finland,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,1.94,2.08,2.35,2.85,2.60,2.48,2.59,2.47,2.30
+Finland,Freight trucks,Freight load factor (tkm/vkm)                                        ,4.04,3.68,3.21,2.41,2.73,2.93,2.86,2.95,3.13
+Finland,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,1.37,1.49,1.56,1.62,1.64,1.63,1.65,1.64,1.61
+Finland,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,7.82,7.64,7.54,6.88,7.11,7.27,7.39,7.28,7.19
+Finland,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,23.53,21.71,18.19,16.03,15.64,14.99,14.65,14.09,13.32
+France,Cars/light trucks,Per capita energy intensity (GJ/cap)                               ,16.22,16.02,15.80,14.59,14.52,14.54,14.20,14.00,11.41
+France,Cars/light trucks,Fuel intensity (litres/100 vkm)                                    ,7.66,7.30,7.13,6.58,6.45,6.46,6.37,6.35,6.30
+France,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                     ,10.80,10.80,10.64,10.57,10.69,10.68,10.56,10.41,8.53
+France,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                     ,1.50,1.48,1.48,1.38,1.36,1.36,1.34,1.34,1.34
+France,Cars/light trucks,Passenger average occupancy (#passengers)                          ,1.69,1.63,1.59,1.58,1.57,1.57,1.57,1.57,1.56
+France,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,6.39,6.62,6.68,6.69,6.79,6.79,6.73,6.65,5.46
+France,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,2.54,2.42,2.36,2.18,2.14,2.14,2.11,2.11,2.09
+France,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                     ,13.52,12.99,12.49,12.36,12.39,12.26,12.10,11.92,9.88
+France,Freight trucks,Per capita energy intensity (GJ/cap)                                  ,10.13,9.42,8.56,7.92,7.94,8.02,8.06,7.89,7.16
+France,Freight trucks,Fuel intensity (litres/100 vkm)                                       ,17.55,16.59,15.84,15.09,14.92,14.90,14.79,14.64,14.85
+France,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                            ,3.13,3.16,2.77,2.27,2.29,2.47,2.48,2.51,2.44
+France,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                            ,3.24,2.98,3.09,3.49,3.46,3.25,3.25,3.15,2.93
+France,Freight trucks,Freight load factor (tkm/vkm)                                         ,1.80,1.85,1.71,1.44,1.43,1.52,1.51,1.55,1.69
+France,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                          ,1.74,1.71,1.63,1.58,1.60,1.62,1.64,1.62,1.44
+France,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                          ,5.82,5.50,5.26,5.01,4.95,4.95,4.92,4.88,4.96
+France,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                        ,19.00,18.60,17.66,16.82,16.84,16.71,16.66,16.71,15.53
+Germany,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,18.57,18.17,18.12,18.34,18.49,18.70,18.56,18.63,16.72
+Germany,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,8.15,7.70,7.30,7.07,7.04,7.22,7.20,7.21,7.21
+Germany,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,10.43,10.77,11.24,11.58,11.72,11.50,11.02,11.04,9.89
+Germany,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,1.78,1.69,1.61,1.58,1.58,1.63,1.68,1.69,1.69
+Germany,Cars/light trucks,Passenger average occupancy (#passengers)                         ,1.52,1.51,1.51,1.49,1.49,1.48,1.42,1.42,1.42
+Germany,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,6.87,7.11,7.46,7.78,7.89,7.78,7.75,7.76,6.95
+Germany,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,2.70,2.56,2.43,2.36,2.34,2.40,2.40,2.40,2.41
+Germany,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,14.10,14.14,14.35,14.32,14.41,14.03,13.82,13.69,12.12
+Germany,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,7.13,6.99,7.53,7.70,7.81,7.93,7.47,7.47,6.99
+Germany,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,23.32,22.37,22.29,20.68,20.55,23.53,21.30,21.08,20.57
+Germany,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,4.25,4.95,5.50,5.69,5.75,5.88,6.02,6.00,5.86
+Germany,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,1.68,1.41,1.37,1.35,1.36,1.35,1.24,1.24,1.19
+Germany,Freight trucks,Freight load factor (tkm/vkm)                                        ,4.61,5.25,5.40,5.07,5.02,5.78,5.70,5.61,5.72
+Germany,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,0.92,0.94,1.02,1.12,1.15,1.02,1.06,1.07,1.02
+Germany,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,7.73,7.41,7.39,6.86,6.81,7.80,7.06,6.99,6.82
+Germany,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,21.74,20.59,21.67,21.03,20.89,23.96,24.12,23.64,21.95
+Greece,Cars/light trucks,Per capita energy intensity (GJ/cap)                               ,11.20,13.64,12.97,9.83,9.84,9.53,9.39,9.25,..
+Greece,Cars/light trucks,Fuel intensity (litres/100 vkm)                                    ,7.88,7.67,6.31,5.78,5.74,5.47,5.72,5.13,..
+Greece,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                     ,5.83,7.74,8.96,9.08,9.27,9.47,9.63,9.90,..
+Greece,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                     ,1.92,1.76,1.45,1.08,1.06,1.01,0.97,0.93,..
+Greece,Cars/light trucks,Passenger average occupancy (#passengers)                          ,1.36,1.44,1.44,1.77,1.79,1.80,1.95,1.82,..
+Greece,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,4.29,5.37,6.20,5.13,5.17,5.25,4.95,5.44,..
+Greece,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,2.61,2.54,2.09,1.92,1.90,1.81,1.90,1.70,..
+Greece,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                     ,14.50,13.70,13.21,10.86,10.79,10.79,10.05,10.79,..
+Greece,Freight trucks,Per capita energy intensity (GJ/cap)                                  ,8.22,8.72,9.65,7.99,8.48,8.49,8.70,9.30,..
+Greece,Freight trucks,Fuel intensity (litres/100 vkm)                                       ,..,3.42,3.39,3.43,3.73,3.84,3.77,3.84,..
+Greece,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                            ,2.68,2.90,2.68,1.83,2.28,2.64,2.73,3.01,..
+Greece,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                            ,3.06,3.01,3.60,4.38,3.72,3.22,3.19,3.09,..
+Greece,Freight trucks,Freight load factor (tkm/vkm)                                         ,..,0.38,0.31,0.26,0.33,0.40,0.39,0.41,..
+Greece,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                          ,..,7.70,8.58,7.03,6.87,6.67,6.97,7.30,..
+Greece,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                          ,..,1.13,1.12,1.14,1.24,1.27,1.25,1.27,..
+Greece,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                        ,..,71.28,72.39,57.50,55.51,53.38,55.66,57.57,..
+Hungary,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,6.08,8.13,8.29,9.00,9.31,9.76,10.39,11.15,10.02
+Hungary,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,11.65,8.83,8.92,..,..,..,..,..,..
+Hungary,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,4.52,4.90,5.26,5.55,5.84,6.20,6.54,6.86,6.56
+Hungary,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,1.34,1.66,1.58,1.62,1.59,1.57,1.59,1.63,1.53
+Hungary,Cars/light trucks,Passenger average occupancy (#passengers)                         ,2.87,1.76,1.88,..,..,..,..,..,..
+Hungary,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,1.58,2.78,2.81,..,..,..,..,..,..
+Hungary,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,3.86,2.93,2.96,..,..,..,..,..,..
+Hungary,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,6.80,9.70,9.40,..,..,..,..,..,..
+Hungary,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,4.94,6.82,7.20,7.16,7.12,7.57,8.13,8.54,7.49
+Hungary,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,..,..,..,..,..,..,..,..,..
+Hungary,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,1.87,2.49,3.37,3.90,4.08,4.05,3.88,3.78,3.30
+Hungary,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,2.64,2.74,2.14,1.84,1.75,1.87,2.09,2.26,2.27
+Hungary,Freight trucks,Freight load factor (tkm/vkm)                                        ,..,..,..,..,..,..,..,..,..
+Hungary,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,..,..,..,..,..,..,..,..,..
+Hungary,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,..,..,..,..,..,..,..,..,..
+Hungary,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,..,..,..,..,..,..,..,..,..
+Ireland,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,17.58,19.86,19.28,19.77,19.23,18.62,18.38,18.23,14.21
+Ireland,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,8.58,8.53,8.36,7.84,7.71,7.55,7.47,7.41,7.26
+Ireland,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,9.10,10.67,10.54,11.05,..,..,..,..,..
+Ireland,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,1.93,1.86,1.83,1.79,..,..,..,..,..
+Ireland,Cars/light trucks,Passenger average occupancy (#passengers)                         ,1.47,1.52,1.52,1.45,..,..,..,..,..
+Ireland,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,6.18,7.02,6.95,7.61,7.52,7.44,7.41,7.41,5.89
+Ireland,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,2.84,2.83,2.77,2.60,2.56,2.50,2.48,2.46,2.41
+Ireland,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,17.83,17.57,16.93,18.01,17.63,17.30,17.11,16.80,13.25
+Ireland,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,8.91,11.19,9.51,8.95,9.66,9.60,9.28,9.54,8.62
+Ireland,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,..,..,..,..,..,..,..,..,..
+Ireland,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,3.22,4.28,2.40,2.10,2.44,2.45,2.37,2.52,2.29
+Ireland,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,2.76,2.61,3.97,4.27,3.97,3.92,3.91,3.79,3.77
+Ireland,Freight trucks,Freight load factor (tkm/vkm)                                        ,..,..,..,..,..,..,..,..,..
+Ireland,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,..,..,..,..,..,..,..,..,..
+Ireland,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,..,..,..,..,..,..,..,..,..
+Ireland,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,..,..,..,..,..,..,..,..,..
+Italy,Cars/light trucks,Per capita energy intensity (GJ/cap)                                ,16.96,15.97,14.05,12.43,12.03,11.00,11.85,12.20,9.40
+Italy,Cars/light trucks,Fuel intensity (litres/100 vkm)                                     ,6.18,5.88,5.56,5.04,4.90,4.71,4.77,4.75,4.53
+Italy,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                      ,12.76,13.20,11.67,11.14,11.62,12.31,11.96,12.14,8.13
+Italy,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                      ,1.33,1.21,1.20,1.12,1.04,0.89,0.99,1.01,1.16
+Italy,Cars/light trucks,Passenger average occupancy (#passengers)                           ,1.56,1.64,1.58,1.57,1.65,1.84,1.68,1.66,1.38
+Italy,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                        ,8.16,8.05,7.37,7.08,7.03,6.67,7.13,7.33,5.90
+Italy,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                        ,2.08,1.98,1.91,1.76,1.71,1.65,1.66,1.66,1.59
+Italy,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                      ,14.26,13.51,12.00,11.51,11.25,10.48,11.05,11.18,8.93
+Italy,Freight trucks,Per capita energy intensity (GJ/cap)                                   ,8.36,9.96,9.00,8.93,8.96,9.25,9.15,9.05,8.07
+Italy,Freight trucks,Fuel intensity (litres/100 vkm)                                        ,9.05,..,..,..,..,..,..,..,..
+Italy,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                             ,3.25,3.64,2.94,1.92,1.86,1.98,2.07,2.29,2.22
+Italy,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                             ,2.57,2.74,3.07,4.64,4.82,4.68,4.43,3.96,3.64
+Italy,Freight trucks,Freight load factor (tkm/vkm)                                          ,1.17,..,..,..,..,..,..,..,..
+Italy,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                           ,2.79,..,..,..,..,..,..,..,..
+Italy,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                           ,3.00,..,..,..,..,..,..,..,..
+Italy,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                         ,46.98,..,..,..,..,..,..,..,..
+Japan,Cars/light trucks,Per capita energy intensity (GJ/cap)                                ,15.48,14.44,13.71,12.52,12.47,12.36,12.16,11.83,10.62
+Japan,Cars/light trucks,Fuel intensity (litres/100 vkm)                                     ,9.07,8.55,8.19,7.33,7.18,7.01,6.80,6.63,6.65
+Japan,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                      ,6.79,6.60,6.19,6.29,6.40,6.52,6.63,6.61,5.83
+Japan,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                      ,2.28,2.19,2.22,1.99,1.95,1.90,1.84,1.79,1.82
+Japan,Cars/light trucks,Passenger average occupancy (#passengers)                           ,1.32,1.29,1.23,1.22,1.22,1.22,1.23,1.23,1.21
+Japan,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                        ,5.15,5.10,5.05,5.15,5.23,5.32,5.40,5.39,4.82
+Japan,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                        ,3.01,2.83,2.72,2.43,2.38,2.32,2.25,2.20,2.20
+Japan,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                      ,9.85,9.18,8.98,8.79,8.88,8.99,9.08,9.06,8.07
+Japan,Freight trucks,Per capita energy intensity (GJ/cap)                                   ,9.06,8.48,7.90,7.47,7.36,7.32,7.31,7.23,6.93
+Japan,Freight trucks,Fuel intensity (litres/100 vkm)                                        ,54.61,50.14,46.69,47.68,47.34,46.69,46.38,46.05,46.50
+Japan,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                             ,1.69,1.79,1.83,1.62,1.67,1.68,1.68,1.71,1.71
+Japan,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                             ,5.36,4.74,4.32,4.61,4.41,4.36,4.36,4.23,4.05
+Japan,Freight trucks,Freight load factor (tkm/vkm)                                          ,3.38,3.52,3.60,3.44,3.57,3.55,3.54,3.61,3.81
+Japan,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                           ,0.50,0.51,0.51,0.47,0.47,0.47,0.47,0.47,0.45
+Japan,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                           ,18.12,16.67,15.53,15.85,15.73,15.51,15.40,15.28,15.43
+Japan,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                         ,23.21,25.04,25.46,22.80,22.33,22.23,22.05,21.70,20.40
+Korea,Cars/light trucks,Per capita energy intensity (GJ/cap)                                ,9.62,11.20,11.33,12.13,13.15,13.24,13.52,13.84,13.33
+Korea,Cars/light trucks,Fuel intensity (litres/100 vkm)                                     ,..,6.85,7.76,7.99,8.33,8.19,8.14,8.29,7.92
+Korea,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                      ,..,..,..,5.22,5.23,5.34,5.45,5.53,5.36
+Korea,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                      ,..,..,..,2.32,2.51,2.48,2.48,2.50,2.49
+Korea,Cars/light trucks,Passenger average occupancy (#passengers)                           ,..,..,..,1.14,1.10,1.10,1.09,1.10,1.05
+Korea,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                        ,..,4.93,4.41,4.58,4.76,4.88,5.01,5.03,5.08
+Korea,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                        ,..,2.27,2.57,2.65,2.76,2.71,2.70,2.75,2.62
+Korea,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                      ,..,19.51,15.24,14.36,13.70,13.33,13.52,12.91,12.74
+Korea,Freight trucks,Per capita energy intensity (GJ/cap)                                   ,6.24,7.32,6.53,7.30,7.53,7.46,7.21,7.30,6.88
+Korea,Freight trucks,Fuel intensity (litres/100 vkm)                                        ,..,14.41,14.66,17.06,17.28,16.69,16.36,16.54,15.57
+Korea,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                             ,..,2.19,2.07,2.60,2.64,2.78,2.78,2.70,2.72
+Korea,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                             ,..,3.34,3.15,2.81,2.85,2.69,2.59,2.70,2.53
+Korea,Freight trucks,Freight load factor (tkm/vkm)                                          ,..,1.43,1.54,2.01,2.01,2.06,2.09,2.03,2.04
+Korea,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                           ,..,1.53,1.34,1.29,1.32,1.35,1.33,1.33,1.33
+Korea,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                           ,..,4.78,4.86,5.66,5.73,5.53,5.42,5.48,5.16
+Korea,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                         ,..,23.77,20.52,19.38,18.95,19.10,18.77,18.70,18.54
+Lithuania,Cars/light trucks,Per capita energy intensity (GJ/cap)                            ,7.37,10.53,12.16,14.53,15.89,16.86,17.89,17.99,..
+Lithuania,Cars/light trucks,Fuel intensity (litres/100 vkm)                                 ,..,..,..,..,..,..,..,..,..
+Lithuania,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                  ,7.43,10.47,10.52,8.56,9.01,11.09,10.75,10.67,..
+Lithuania,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                  ,0.99,1.01,1.16,1.70,1.76,1.52,1.66,1.68,..
+Lithuania,Cars/light trucks,Passenger average occupancy (#passengers)                       ,..,..,..,..,..,..,..,..,..
+Lithuania,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                    ,..,..,..,..,..,..,..,..,..
+Lithuania,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                    ,..,..,..,..,..,..,..,..,..
+Lithuania,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                  ,..,..,..,..,..,..,..,..,..
+Lithuania,Freight trucks,Per capita energy intensity (GJ/cap)                               ,3.98,5.60,6.56,9.26,9.88,10.56,11.56,12.69,..
+Lithuania,Freight trucks,Fuel intensity (litres/100 vkm)                                    ,..,..,..,..,..,..,..,..,..
+Lithuania,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                         ,2.22,4.79,6.26,9.12,10.80,13.83,15.56,19.01,..
+Lithuania,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                         ,1.79,1.17,1.05,1.02,0.91,0.76,0.74,0.67,..
+Lithuania,Freight trucks,Freight load factor (tkm/vkm)                                      ,..,..,..,..,..,..,..,..,..
+Lithuania,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,..,..,..,..,..,..,..,..,..
+Lithuania,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,..,..,..,..,..,..,..,..,..
+Lithuania,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                     ,..,..,..,..,..,..,..,..,..
+Luxembourg,Cars/light trucks,Per capita energy intensity (GJ/cap)                           ,21.01,24.93,24.01,21.08,22.05,20.54,20.54,19.46,17.56
+Luxembourg,Cars/light trucks,Fuel intensity (litres/100 vkm)                                ,..,..,6.03,5.71,5.99,5.70,5.89,5.80,5.98
+Luxembourg,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                 ,12.81,13.52,13.82,12.80,12.76,13.25,12.82,12.34,10.80
+Luxembourg,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                 ,1.64,1.84,1.74,1.65,1.73,1.55,1.60,1.58,1.63
+Luxembourg,Cars/light trucks,Passenger average occupancy (#passengers)                      ,..,..,1.15,1.15,1.15,1.22,1.22,1.22,1.22
+Luxembourg,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                   ,..,..,12.02,11.13,11.09,10.86,10.51,10.12,8.85
+Luxembourg,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                   ,..,..,2.00,1.89,1.99,1.89,1.95,1.92,1.98
+Luxembourg,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                 ,..,..,16.91,15.40,15.35,14.87,14.22,13.62,11.86
+Luxembourg,Freight trucks,Per capita energy intensity (GJ/cap)                              ,6.45,17.89,13.53,11.55,9.12,8.73,7.79,8.53,6.91
+Luxembourg,Freight trucks,Fuel intensity (litres/100 vkm)                                   ,..,..,24.45,31.07,25.94,29.33,26.49,29.96,25.38
+Luxembourg,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                        ,17.11,18.52,17.04,12.47,11.04,10.75,11.44,12.12,9.99
+Luxembourg,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                        ,0.38,0.97,0.79,0.93,0.83,0.81,0.68,0.70,0.69
+Luxembourg,Freight trucks,Freight load factor (tkm/vkm)                                     ,..,..,10.21,11.12,10.42,11.97,12.90,14.12,12.20
+Luxembourg,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,..,..,1.67,1.12,1.06,0.90,0.89,0.86,0.82
+Luxembourg,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,..,..,8.11,10.30,8.60,9.73,8.78,9.94,8.43
+Luxembourg,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                    ,..,..,77.09,63.80,61.90,53.60,54.00,48.55,47.00
+Mexico,Cars/light trucks,Per capita energy intensity (GJ/cap)                               ,..,..,..,..,..,..,..,..,..
+Mexico,Cars/light trucks,Fuel intensity (litres/100 vkm)                                    ,..,..,..,..,..,..,..,..,..
+Mexico,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                     ,..,..,..,..,..,..,..,..,..
+Mexico,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                     ,..,..,..,..,..,..,..,..,..
+Mexico,Cars/light trucks,Passenger average occupancy (#passengers)                          ,..,..,..,..,..,..,..,..,..
+Mexico,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,..,..,..,..,..,..,..,..,..
+Mexico,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,..,..,..,..,..,..,..,..,..
+Mexico,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                     ,..,..,..,..,..,..,..,..,..
+Mexico,Freight trucks,Per capita energy intensity (GJ/cap)                                  ,..,..,..,..,..,..,..,..,..
+Mexico,Freight trucks,Fuel intensity (litres/100 vkm)                                       ,..,..,..,..,..,..,..,..,..
+Mexico,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                            ,1.92,1.91,1.93,2.03,2.06,2.32,2.33,2.30,2.14
+Mexico,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                            ,..,..,..,..,..,..,..,..,..
+Mexico,Freight trucks,Freight load factor (tkm/vkm)                                         ,..,..,..,..,..,..,..,..,..
+Mexico,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                          ,..,..,..,..,..,..,..,..,..
+Mexico,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                          ,..,..,..,..,..,..,..,..,..
+Mexico,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                        ,..,..,..,..,..,..,..,..,..
+Netherlands,Cars/light trucks,Per capita energy intensity (GJ/cap)                          ,14.82,15.32,14.91,14.48,14.65,14.57,14.70,14.81,..
+Netherlands,Cars/light trucks,Fuel intensity (litres/100 vkm)                               ,7.80,7.79,7.36,7.00,6.92,6.85,6.88,6.92,..
+Netherlands,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                ,8.86,9.12,8.68,8.24,8.27,8.10,8.40,8.35,..
+Netherlands,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                ,1.67,1.68,1.72,1.76,1.77,1.80,1.75,1.77,..
+Netherlands,Cars/light trucks,Passenger average occupancy (#passengers)                     ,1.55,1.54,1.42,1.33,1.30,1.27,1.32,1.31,..
+Netherlands,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                  ,5.73,5.93,6.11,6.21,6.35,6.36,6.38,6.37,..
+Netherlands,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                  ,2.59,2.58,2.44,2.33,2.31,2.29,2.30,2.32,..
+Netherlands,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                ,14.16,13.74,13.22,13.09,13.24,13.12,13.00,12.85,..
+Netherlands,Freight trucks,Per capita energy intensity (GJ/cap)                             ,7.35,7.46,7.42,6.79,7.03,7.07,7.27,7.07,..
+Netherlands,Freight trucks,Fuel intensity (litres/100 vkm)                                  ,14.90,14.89,15.47,15.21,15.53,15.40,15.62,15.16,..
+Netherlands,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                       ,3.23,3.32,2.77,2.80,2.88,2.84,2.90,2.90,..
+Netherlands,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                       ,2.28,2.25,2.67,2.43,2.44,2.49,2.51,2.44,..
+Netherlands,Freight trucks,Freight load factor (tkm/vkm)                                    ,2.17,2.19,1.92,2.08,2.11,2.06,2.07,2.07,..
+Netherlands,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                     ,1.49,1.51,1.45,1.35,1.36,1.38,1.40,1.41,..
+Netherlands,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                     ,4.94,4.94,5.13,5.05,5.15,5.11,5.19,5.03,..
+Netherlands,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                   ,27.33,24.18,23.78,23.85,23.80,23.58,23.23,22.77,..
+New Zealand,Cars/light trucks,Per capita energy intensity (GJ/cap)                          ,85.28,97.31,93.48,84.83,85.09,87.84,86.01,84.59,65.04
+New Zealand,Cars/light trucks,Fuel intensity (litres/100 vkm)                               ,35.99,38.12,39.18,35.92,35.34,36.26,35.33,35.54,29.06
+New Zealand,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                ,12.10,12.63,11.52,11.24,11.45,11.48,11.45,11.08,10.31
+New Zealand,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                ,7.05,7.71,8.12,7.54,7.43,7.65,7.51,7.63,6.31
+New Zealand,Cars/light trucks,Passenger average occupancy (#passengers)                     ,1.69,1.64,1.60,1.58,1.58,1.58,1.58,1.58,1.58
+New Zealand,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                  ,7.15,7.70,7.20,7.12,7.25,7.26,7.24,7.01,6.53
+New Zealand,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                  ,11.93,12.64,12.99,11.92,11.74,12.09,11.87,12.06,9.96
+New Zealand,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                ,12.83,12.30,11.54,10.94,10.97,10.86,10.79,10.42,9.87
+New Zealand,Freight trucks,Per capita energy intensity (GJ/cap)                             ,15.22,17.52,18.37,19.31,19.57,21.27,21.82,22.02,18.79
+New Zealand,Freight trucks,Fuel intensity (litres/100 vkm)                                  ,25.05,26.42,28.00,26.74,26.01,27.02,26.65,26.51,22.96
+New Zealand,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                       ,4.34,4.93,4.90,5.21,5.22,5.52,5.53,5.48,5.43
+New Zealand,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                       ,3.51,3.56,3.75,3.71,3.75,3.86,3.94,4.02,3.46
+New Zealand,Freight trucks,Freight load factor (tkm/vkm)                                    ,2.37,2.46,2.48,2.39,2.30,2.32,2.24,2.19,2.20
+New Zealand,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                     ,1.83,2.00,1.98,2.18,2.27,2.37,2.47,2.51,2.47
+New Zealand,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                     ,8.30,8.76,9.28,8.86,8.62,8.96,8.83,8.79,7.61
+New Zealand,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                   ,73.83,68.75,66.62,73.02,75.92,78.57,80.83,81.03,80.20
+Norway,Cars/light trucks,Per capita energy intensity (GJ/cap)                               ,..,..,..,..,..,..,..,..,..
+Norway,Cars/light trucks,Fuel intensity (litres/100 vkm)                                    ,..,..,..,..,..,..,..,..,..
+Norway,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                     ,..,..,..,..,..,..,..,..,..
+Norway,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                     ,..,..,..,..,..,..,..,..,..
+Norway,Cars/light trucks,Passenger average occupancy (#passengers)                          ,..,..,..,..,..,..,..,..,..
+Norway,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,..,7.62,8.21,8.01,8.04,8.09,8.17,8.02,7.63
+Norway,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,..,..,..,..,..,..,..,..,..
+Norway,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                     ,..,14.60,14.57,13.47,13.38,13.31,13.36,12.98,12.37
+Norway,Freight trucks,Per capita energy intensity (GJ/cap)                                  ,..,..,..,..,..,..,..,..,..
+Norway,Freight trucks,Fuel intensity (litres/100 vkm)                                       ,..,..,..,..,..,..,..,..,..
+Norway,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                            ,3.37,3.95,4.04,4.09,4.00,4.05,4.02,4.01,3.98
+Norway,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                            ,..,..,..,..,..,..,..,..,..
+Norway,Freight trucks,Freight load factor (tkm/vkm)                                         ,..,..,..,..,..,..,..,..,..
+Norway,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                          ,..,..,..,..,..,..,..,..,..
+Norway,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                          ,..,..,..,..,..,..,..,..,..
+Norway,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                        ,..,..,..,..,..,..,..,..,..
+Poland,Cars/light trucks,Per capita energy intensity (GJ/cap)                               ,5.17,6.18,9.01,9.36,10.41,12.40,12.98,13.36,..
+Poland,Cars/light trucks,Fuel intensity (litres/100 vkm)                                    ,..,..,6.57,6.03,6.45,7.40,7.53,7.59,..
+Poland,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                     ,3.40,3.99,4.90,5.22,5.55,5.77,6.09,6.37,5.84
+Poland,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                     ,1.52,1.55,1.84,1.80,1.88,2.15,2.13,2.10,..
+Poland,Cars/light trucks,Passenger average occupancy (#passengers)                          ,..,..,1.19,1.11,1.14,1.14,1.17,1.20,..
+Poland,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,..,..,4.14,4.68,4.87,5.06,5.20,5.31,..
+Poland,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,..,..,2.18,2.00,2.14,2.45,2.50,2.52,..
+Poland,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                     ,..,..,9.24,8.69,8.63,8.63,8.52,8.36,..
+Poland,Freight trucks,Per capita energy intensity (GJ/cap)                                  ,3.44,5.41,8.00,7.26,8.23,9.44,9.77,9.92,..
+Poland,Freight trucks,Fuel intensity (litres/100 vkm)                                       ,..,..,27.62,23.67,26.21,29.27,29.57,29.41,..
+Poland,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                            ,1.96,3.14,5.56,7.10,7.90,9.07,9.83,10.30,12.03
+Poland,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                            ,1.76,1.72,1.44,1.02,1.04,1.04,0.99,0.96,..
+Poland,Freight trucks,Freight load factor (tkm/vkm)                                         ,..,..,6.37,7.68,8.34,9.33,9.87,10.13,..
+Poland,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                          ,..,..,0.87,0.92,0.95,0.97,1.00,1.02,..
+Poland,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                          ,..,..,9.16,7.85,8.69,9.70,9.80,9.76,..
+Poland,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                        ,..,..,11.28,10.37,10.28,10.26,10.19,10.05,..
+Portugal,Cars/light trucks,Per capita energy intensity (GJ/cap)                             ,11.89,12.72,13.14,11.97,11.96,12.12,12.18,12.63,10.68
+Portugal,Cars/light trucks,Fuel intensity (litres/100 vkm)                                  ,8.16,7.93,8.30,7.95,7.93,7.89,7.91,7.98,8.18
+Portugal,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                   ,7.86,8.33,7.92,8.17,8.16,8.30,8.33,8.56,7.19
+Portugal,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                   ,1.51,1.53,1.66,1.47,1.47,1.46,1.46,1.48,1.49
+Portugal,Cars/light trucks,Passenger average occupancy (#passengers)                        ,1.79,1.72,1.66,1.80,1.79,1.79,1.79,1.79,1.83
+Portugal,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                     ,4.40,4.83,4.78,4.54,4.55,4.63,4.64,4.77,3.94
+Portugal,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                     ,2.70,2.63,2.75,2.63,2.63,2.62,2.62,2.65,2.71
+Portugal,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                   ,12.59,12.09,11.27,9.95,9.68,9.42,9.03,9.02,7.30
+Portugal,Freight trucks,Per capita energy intensity (GJ/cap)                                ,11.42,10.62,10.13,8.65,8.81,9.12,9.24,9.13,8.04
+Portugal,Freight trucks,Fuel intensity (litres/100 vkm)                                     ,15.07,15.34,14.34,15.35,15.69,15.94,15.73,16.37,16.75
+Portugal,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                          ,3.79,4.06,3.28,3.15,3.36,3.31,3.18,3.02,2.37
+Portugal,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                          ,3.02,2.61,3.09,2.75,2.62,2.75,2.90,3.02,3.39
+Portugal,Freight trucks,Freight load factor (tkm/vkm)                                       ,1.66,1.95,1.54,1.85,1.99,1.92,1.80,1.80,1.64
+Portugal,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                        ,2.29,2.09,2.13,1.70,1.69,1.73,1.77,1.68,1.45
+Portugal,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                        ,5.00,5.08,4.75,5.09,5.20,5.29,5.21,5.43,5.55
+Portugal,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                      ,20.57,16.76,16.85,14.39,14.51,12.93,12.94,11.11,10.35
+Slovak Republic,Cars/light trucks,Per capita energy intensity (GJ/cap)                      ,5.00,5.47,6.31,7.79,8.03,8.34,8.68,9.90,..
+Slovak Republic,Cars/light trucks,Fuel intensity (litres/100 vkm)                           ,6.64,7.09,6.25,6.12,6.10,6.06,6.02,6.73,..
+Slovak Republic,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)            ,4.43,4.79,4.95,5.08,5.13,5.17,5.23,5.22,..
+Slovak Republic,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)            ,1.13,1.14,1.27,1.53,1.57,1.61,1.66,1.90,..
+Slovak Republic,Cars/light trucks,Passenger average occupancy (#passengers)                 ,1.95,2.06,1.66,1.39,1.35,1.30,1.26,1.22,..
+Slovak Republic,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)              ,2.27,2.32,2.98,3.65,3.81,3.99,4.16,4.28,..
+Slovak Republic,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)              ,2.20,2.35,2.12,2.13,2.11,2.09,2.09,2.31,..
+Slovak Republic,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                            ,10.00,10.00,10.00,10.00,10.00,10.00,10.00,10.00,..
+Slovak Republic,Freight trucks,Per capita energy intensity (GJ/cap)                         ,1.32,1.79,2.59,3.01,3.05,3.13,3.20,3.18,..
+Slovak Republic,Freight trucks,Fuel intensity (litres/100 vkm)                              ,..,..,..,..,..,..,..,..,..
+Slovak Republic,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                   ,2.66,4.19,5.05,6.18,6.65,6.50,6.54,6.21,5.78
+Slovak Republic,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                   ,0.50,0.43,0.51,0.49,0.46,0.48,0.49,0.51,..
+Slovak Republic,Freight trucks,Freight load factor (tkm/vkm)                                ,..,..,..,..,..,..,..,..,..
+Slovak Republic,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                 ,..,..,..,..,..,..,..,..,..
+Slovak Republic,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                 ,..,..,..,..,..,..,..,..,..
+Slovak Republic,Freight trucks,Vehicle use (10^3 vkm/vehicle)                               ,..,..,..,..,..,..,..,..,..
+Spain,Cars/light trucks,Per capita energy intensity (GJ/cap)                                ,10.71,11.80,11.37,10.59,11.12,11.51,11.98,12.08,9.80
+Spain,Cars/light trucks,Fuel intensity (litres/100 vkm)                                     ,8.28,8.11,8.74,8.36,8.42,8.50,8.74,8.70,8.75
+Spain,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                      ,7.43,7.66,7.27,6.81,7.09,7.15,7.29,7.27,5.83
+Spain,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                      ,1.44,1.54,1.57,1.56,1.57,1.61,1.64,1.66,1.68
+Spain,Cars/light trucks,Passenger average occupancy (#passengers)                           ,1.90,1.75,1.85,1.78,1.78,1.75,1.76,1.74,1.73
+Spain,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                        ,3.90,4.39,3.92,3.82,3.98,4.09,4.14,4.19,3.38
+Spain,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                        ,2.75,2.69,2.90,2.77,2.79,2.82,2.90,2.88,2.90
+Spain,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                      ,11.96,12.62,11.00,10.52,10.71,10.70,10.61,10.59,8.57
+Spain,Freight trucks,Per capita energy intensity (GJ/cap)                                   ,15.37,17.13,13.92,12.09,12.27,12.36,12.37,12.28,10.08
+Spain,Freight trucks,Fuel intensity (litres/100 vkm)                                        ,14.70,13.21,12.51,11.94,11.81,11.71,11.67,11.62,..
+Spain,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                             ,7.35,7.47,5.80,5.47,5.55,6.02,6.22,6.37,6.13
+Spain,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                             ,2.09,2.29,2.40,2.21,2.21,2.05,1.99,1.93,1.64
+Spain,Freight trucks,Freight load factor (tkm/vkm)                                          ,2.33,1.91,1.73,1.79,1.77,1.89,1.95,2.00,..
+Spain,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                           ,3.15,3.91,3.36,3.05,3.14,3.19,3.20,3.19,..
+Spain,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                           ,4.87,4.38,4.15,3.96,3.91,3.88,3.87,3.85,..
+Spain,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                         ,44.94,49.04,41.08,38.92,39.54,39.73,39.51,39.32,..
+Sweden,Cars/light trucks,Per capita energy intensity (GJ/cap)                               ,19.51,20.25,18.61,..,..,..,..,..,..
+Sweden,Cars/light trucks,Fuel intensity (litres/100 vkm)                                    ,8.87,8.89,8.38,..,..,..,..,..,..
+Sweden,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                     ,9.61,9.78,9.42,9.35,9.64,9.69,9.66,9.49,8.91
+Sweden,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                     ,2.03,2.07,1.97,..,..,..,..,..,..
+Sweden,Cars/light trucks,Passenger average occupancy (#passengers)                          ,1.45,1.42,1.41,1.39,1.42,1.43,1.43,1.44,1.48
+Sweden,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,6.64,6.87,6.70,6.72,6.79,6.79,6.75,6.60,6.01
+Sweden,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,2.94,2.95,2.78,..,..,..,..,..,..
+Sweden,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                     ,14.72,14.95,14.49,14.10,14.13,14.10,14.09,13.87,12.58
+Sweden,Freight trucks,Per capita energy intensity (GJ/cap)                                  ,8.06,9.74,9.83,..,..,..,..,..,..
+Sweden,Freight trucks,Fuel intensity (litres/100 vkm)                                       ,21.77,23.11,21.97,..,..,..,..,..,..
+Sweden,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                            ,4.39,4.78,4.34,3.89,3.96,3.83,4.00,3.90,3.93
+Sweden,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                            ,1.83,2.04,2.26,..,..,..,..,..,..
+Sweden,Freight trucks,Freight load factor (tkm/vkm)                                         ,4.36,3.95,3.32,2.89,2.89,2.77,2.85,2.83,2.92
+Sweden,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                          ,1.01,1.21,1.31,1.34,1.37,1.38,1.40,1.38,1.35
+Sweden,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                          ,8.00,8.05,7.53,..,..,..,..,..,..
+Sweden,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                        ,24.15,23.76,23.26,22.10,22.02,21.81,21.72,21.20,20.53
+Switzerland,Cars/light trucks,Per capita energy intensity (GJ/cap)                          ,20.53,20.08,19.74,18.49,18.32,18.13,17.85,17.63,15.00
+Switzerland,Cars/light trucks,Fuel intensity (litres/100 vkm)                               ,9.85,9.44,8.94,8.15,8.00,7.85,7.70,7.60,7.48
+Switzerland,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                ,10.34,10.40,10.96,11.11,11.22,11.33,11.38,11.41,6.02
+Switzerland,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                ,1.99,1.93,1.80,1.66,1.63,1.60,1.57,1.55,2.49
+Switzerland,Cars/light trucks,Passenger average occupancy (#passengers)                     ,1.64,1.62,1.65,1.62,1.63,1.63,1.63,1.64,1.00
+Switzerland,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                  ,6.29,6.42,6.64,6.84,6.90,6.95,6.97,6.98,6.02
+Switzerland,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                  ,3.26,3.13,2.97,2.71,2.66,2.61,2.56,2.53,2.49
+Switzerland,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                ,12.87,12.44,12.77,12.70,12.76,12.85,12.89,12.94,11.17
+Switzerland,Freight trucks,Per capita energy intensity (GJ/cap)                             ,5.29,5.14,5.06,4.96,4.96,4.94,4.92,4.90,4.44
+Switzerland,Freight trucks,Fuel intensity (litres/100 vkm)                                  ,22.10,21.69,20.86,19.42,19.22,18.94,18.63,18.34,16.47
+Switzerland,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                       ,1.88,2.10,2.16,2.07,2.02,2.04,2.07,2.00,1.97
+Switzerland,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                       ,2.82,2.45,2.35,2.39,2.46,2.42,2.38,2.45,2.26
+Switzerland,Freight trucks,Freight load factor (tkm/vkm)                                    ,2.60,2.94,2.95,2.70,2.60,2.60,2.60,2.49,2.42
+Switzerland,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                     ,0.72,0.71,0.73,0.77,0.78,0.78,0.79,0.80,0.81
+Switzerland,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                     ,7.33,7.20,6.93,6.45,6.39,6.29,6.19,6.10,5.47
+Switzerland,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                   ,17.24,15.90,15.41,14.32,14.12,13.95,13.74,13.53,13.30
+Republic of Türkiye,Cars/light trucks,Per capita energy intensity (GJ/cap)                               ,..,..,..,..,..,..,..,..,..
+Republic of Türkiye,Cars/light trucks,Fuel intensity (litres/100 vkm)                                    ,..,..,..,..,..,..,..,..,..
+Republic of Türkiye,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                     ,1.41,..,1.88,2.56,2.70,2.75,2.82,2.91,2.58
+Republic of Türkiye,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                     ,..,..,..,..,..,..,..,..,..
+Republic of Türkiye,Cars/light trucks,Passenger average occupancy (#passengers)                          ,2.50,..,2.50,2.45,2.45,2.38,2.37,2.37,2.32
+Republic of Türkiye,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,0.56,..,0.75,1.04,1.10,1.16,1.19,1.23,1.11
+Republic of Türkiye,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,..,..,..,..,..,..,..,..,..
+Republic of Türkiye,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                     ,8.19,..,5.54,5.89,5.91,5.94,6.00,6.22,5.45
+Republic of Türkiye,Freight trucks,Per capita energy intensity (GJ/cap)                                  ,..,..,..,..,..,..,..,..,..
+Republic of Türkiye,Freight trucks,Fuel intensity (litres/100 vkm)                                       ,..,..,..,..,..,..,..,..,..
+Republic of Türkiye,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                            ,..,2.44,2.60,3.12,3.19,3.27,3.27,3.24,3.27
+Republic of Türkiye,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                            ,..,..,..,..,..,..,..,..,..
+Republic of Türkiye,Freight trucks,Freight load factor (tkm/vkm)                                         ,..,..,8.95,8.89,8.96,8.76,9.11,9.34,9.59
+Republic of Türkiye,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                          ,0.26,..,0.29,0.35,0.36,0.37,0.36,0.35,0.34
+Republic of Türkiye,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                          ,..,..,..,..,..,..,..,..,..
+Republic of Türkiye,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                        ,42.76,..,29.28,34.18,34.25,35.77,34.61,33.94,33.12
+United Kingdom,Cars/light trucks,Per capita energy intensity (GJ/cap)                       ,19.44,19.25,16.40,15.13,15.19,15.08,14.81,14.64,12.17
+United Kingdom,Cars/light trucks,Fuel intensity (litres/100 vkm)                            ,9.06,8.81,8.04,7.45,7.08,6.93,6.77,6.58,7.30
+United Kingdom,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)             ,10.84,11.04,10.37,10.47,10.62,10.71,10.86,11.04,7.97
+United Kingdom,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)             ,1.79,1.74,1.58,1.44,1.43,1.41,1.36,1.33,1.53
+United Kingdom,Cars/light trucks,Passenger average occupancy (#passengers)                  ,1.67,1.67,1.69,1.71,1.64,1.63,1.65,1.65,1.59
+United Kingdom,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)               ,6.48,6.59,6.15,6.12,6.47,6.56,6.60,6.70,5.02
+United Kingdom,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)               ,3.00,2.92,2.67,2.47,2.35,2.30,2.25,2.18,2.43
+United Kingdom,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                             ,15.24,14.09,13.20,12.79,13.42,13.46,13.50,13.64,10.31
+United Kingdom,Freight trucks,Per capita energy intensity (GJ/cap)                          ,8.44,8.91,8.04,8.01,8.32,8.33,8.35,8.17,6.92
+United Kingdom,Freight trucks,Fuel intensity (litres/100 vkm)                               ,18.29,17.56,16.47,15.38,14.92,15.23,15.35,15.07,13.03
+United Kingdom,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                    ,2.56,2.53,2.21,2.20,2.26,2.23,2.29,2.30,2.03
+United Kingdom,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                    ,3.30,3.53,3.63,3.64,3.68,3.74,3.65,3.55,3.41
+United Kingdom,Freight trucks,Freight load factor (tkm/vkm)                                 ,1.84,1.65,1.50,1.40,1.34,1.35,1.40,1.41,1.27
+United Kingdom,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                  ,1.39,1.53,1.47,1.57,1.68,1.65,1.64,1.63,1.60
+United Kingdom,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                  ,6.06,5.82,5.46,5.10,4.94,5.05,5.09,5.00,4.32
+United Kingdom,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                ,33.59,30.60,25.12,24.11,24.37,24.01,24.06,24.08,22.15
+United States,Cars/light trucks,Per capita energy intensity (GJ/cap)                        ,55.51,56.96,50.50,51.94,50.31,50.09,49.56,49.96,43.93
+United States,Cars/light trucks,Fuel intensity (litres/100 vkm)                             ,11.63,11.48,11.06,11.23,10.68,10.60,10.47,10.51,10.57
+United States,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)              ,22.86,24.49,23.02,23.35,23.78,23.83,23.87,23.98,20.98
+United States,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)              ,2.43,2.33,2.19,2.22,2.12,2.10,2.08,2.08,2.09
+United States,Cars/light trucks,Passenger average occupancy (#passengers)                   ,1.59,1.64,1.67,1.68,1.68,1.67,1.67,1.67,1.68
+United States,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                ,14.38,14.95,13.76,13.94,14.19,14.24,14.26,14.32,12.52
+United States,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                ,3.86,3.81,3.67,3.73,3.55,3.52,3.48,3.49,3.51
+United States,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                              ,19.09,19.08,18.50,18.42,18.52,18.48,18.60,18.54,16.33
+United States,Freight trucks,Per capita energy intensity (GJ/cap)                           ,15.87,17.48,16.14,17.20,16.84,17.41,17.40,17.60,15.83
+United States,Freight trucks,Fuel intensity (litres/100 vkm)                                ,29.60,32.41,32.69,36.77,35.20,35.43,34.70,35.83,32.14
+United States,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                     ,12.03,12.10,8.57,9.10,9.08,9.08,9.25,..,..
+United States,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                     ,1.32,1.44,1.88,1.89,1.85,1.92,1.88,..,..
+United States,Freight trucks,Freight load factor (tkm/vkm)                                  ,7.44,7.44,5.76,6.48,6.34,6.17,6.16,..,..
+United States,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                   ,1.62,1.63,1.49,1.40,1.43,1.47,1.50,1.47,1.47
+United States,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                   ,9.82,10.75,10.84,12.26,11.75,11.82,11.59,11.98,10.75
+United States,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                 ,56.88,56.73,42.81,40.20,40.29,39.16,37.08,36.89,36.07
+Argentina,Cars/light trucks,Per capita energy intensity (GJ/cap)                            ,..,..,..,..,..,..,..,..,..
+Argentina,Cars/light trucks,Fuel intensity (litres/100 vkm)                                 ,..,..,..,..,..,..,..,..,..
+Argentina,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                  ,..,..,..,..,..,..,..,..,..
+Argentina,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                  ,..,..,..,..,..,..,..,..,..
+Argentina,Cars/light trucks,Passenger average occupancy (#passengers)                       ,..,..,..,..,..,..,..,..,..
+Argentina,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                    ,..,..,..,..,..,..,..,..,..
+Argentina,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                    ,..,..,..,..,..,..,..,..,..
+Argentina,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                  ,..,..,..,..,..,..,..,..,..
+Argentina,Freight trucks,Per capita energy intensity (GJ/cap)                               ,..,..,..,..,..,..,..,..,..
+Argentina,Freight trucks,Fuel intensity (litres/100 vkm)                                    ,..,..,..,..,..,..,..,..,..
+Argentina,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                         ,..,..,..,..,..,..,..,..,..
+Argentina,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                         ,..,..,..,..,..,..,..,..,..
+Argentina,Freight trucks,Freight load factor (tkm/vkm)                                      ,..,..,..,..,..,..,..,..,..
+Argentina,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,..,..,..,..,..,..,..,..,..
+Argentina,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,..,..,..,..,..,..,..,..,..
+Argentina,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                     ,..,..,..,..,..,..,..,..,..
+Brazil,Cars/light trucks,Per capita energy intensity (GJ/cap)                               ,4.66,5.03,6.79,8.49,8.34,8.46,8.20,8.51,7.61
+Brazil,Cars/light trucks,Fuel intensity (litres/100 vkm)                                    ,..,..,..,..,..,..,..,..,..
+Brazil,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                     ,2.91,3.15,4.21,4.91,4.83,4.92,4.75,4.94,4.09
+Brazil,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                     ,1.60,1.60,1.61,1.73,1.73,1.72,1.73,1.72,1.86
+Brazil,Cars/light trucks,Passenger average occupancy (#passengers)                          ,..,..,..,..,..,..,..,..,..
+Brazil,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,..,..,..,..,..,..,..,..,..
+Brazil,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,..,..,..,..,..,..,..,..,..
+Brazil,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                     ,..,..,..,..,..,..,..,..,..
+Brazil,Freight trucks,Per capita energy intensity (GJ/cap)                                  ,4.87,5.32,6.27,6.63,6.33,6.25,6.25,6.34,6.66
+Brazil,Freight trucks,Fuel intensity (litres/100 vkm)                                       ,41.26,45.75,55.48,66.20,65.37,64.46,64.44,65.30,64.58
+Brazil,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                            ,3.32,3.78,5.17,6.14,5.85,5.79,5.82,6.04,6.71
+Brazil,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                            ,1.47,1.41,1.21,1.08,1.08,1.08,1.07,1.05,0.99
+Brazil,Freight trucks,Freight load factor (tkm/vkm)                                         ,9.45,11.62,16.15,21.32,21.10,20.95,21.23,22.03,22.68
+Brazil,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                          ,0.35,0.33,0.32,0.29,0.28,0.28,0.27,0.27,0.30
+Brazil,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                          ,13.86,16.35,19.57,23.05,22.84,22.63,22.78,23.10,22.51
+Brazil,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                        ,35.85,30.29,25.75,20.44,20.12,20.57,20.74,20.83,22.64
+Morocco,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,..,3.30,4.15,4.66,4.81,4.94,5.01,5.05,4.31
+Morocco,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,..,13.05,9.48,7.93,7.72,7.51,7.26,6.96,5.75
+Morocco,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,..,..,..,..,..,..,..,..,..
+Morocco,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,..,..,..,..,..,..,..,..,..
+Morocco,Cars/light trucks,Passenger average occupancy (#passengers)                         ,..,..,..,..,..,..,..,..,..
+Morocco,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,..,0.76,1.32,1.77,1.88,1.98,2.08,2.19,2.26
+Morocco,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,..,4.33,3.14,2.63,2.56,2.49,2.41,2.31,1.91
+Morocco,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,..,24.12,24.65,24.63,24.60,24.59,24.57,24.57,24.57
+Morocco,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,..,1.28,1.58,1.80,1.84,1.89,1.93,1.94,1.65
+Morocco,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,..,49.62,29.71,25.37,24.63,24.13,23.52,22.59,18.59
+Morocco,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,..,..,..,..,..,..,..,..,..
+Morocco,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,..,..,..,..,..,..,..,..,..
+Morocco,Freight trucks,Freight load factor (tkm/vkm)                                        ,..,..,..,..,..,..,..,..,..
+Morocco,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,..,0.08,0.16,0.21,0.23,0.24,0.25,0.26,0.27
+Morocco,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,..,16.45,9.85,8.41,8.17,8.00,7.80,7.49,6.16
+Morocco,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,..,36.73,36.73,36.71,36.72,36.72,36.72,36.72,36.72
+South Africa,Cars/light trucks,Per capita energy intensity (GJ/cap)                         ,..,..,5.49,..,..,..,..,..,..
+South Africa,Cars/light trucks,Fuel intensity (litres/100 vkm)                              ,..,..,9.12,..,..,..,..,..,..
+South Africa,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)               ,..,..,2.54,..,..,..,..,..,..
+South Africa,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)               ,..,..,2.16,..,..,..,..,..,..
+South Africa,Cars/light trucks,Passenger average occupancy (#passengers)                    ,..,..,1.40,..,..,..,..,..,..
+South Africa,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                 ,..,..,1.81,..,..,..,..,..,..
+South Africa,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                 ,..,..,3.02,..,..,..,..,..,..
+South Africa,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                               ,..,..,16.95,..,..,..,..,..,..
+South Africa,Freight trucks,Per capita energy intensity (GJ/cap)                            ,..,..,6.05,..,..,..,..,..,..
+South Africa,Freight trucks,Fuel intensity (litres/100 vkm)                                 ,..,..,20.34,..,..,..,..,..,..
+South Africa,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                      ,..,..,3.18,..,..,..,..,..,..
+South Africa,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                      ,..,..,1.90,..,..,..,..,..,..
+South Africa,Freight trucks,Freight load factor (tkm/vkm)                                   ,..,..,3.54,..,..,..,..,..,..
+South Africa,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                    ,..,..,0.90,..,..,..,..,..,..
+South Africa,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                    ,..,..,6.74,..,..,..,..,..,..
+South Africa,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                  ,..,..,17.89,..,..,..,..,..,..
+Ukraine,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,..,..,..,..,..,..,..,..,..
+Ukraine,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,..,..,..,..,..,..,..,..,..
+Ukraine,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,..,..,..,..,..,..,..,..,..
+Ukraine,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,..,..,..,..,..,..,..,..,..
+Ukraine,Cars/light trucks,Passenger average occupancy (#passengers)                         ,..,..,..,..,..,..,..,..,..
+Ukraine,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,..,0.10,0.10,0.09,0.09,0.09,0.09,0.10,..
+Ukraine,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,..,..,..,..,..,..,..,..,..
+Ukraine,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,..,0.86,0.74,..,..,..,..,..,..
+Ukraine,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,..,..,..,..,..,..,..,..,..
+Ukraine,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,..,..,..,..,..,..,..,..,..
+Ukraine,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,0.16,0.42,0.85,0.81,0.89,0.98,1.01,1.05,..
+Ukraine,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,..,..,..,..,..,..,..,..,..
+Ukraine,Freight trucks,Freight load factor (tkm/vkm)                                        ,..,2.89,6.01,6.41,6.64,6.88,6.64,6.74,..
+Ukraine,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,..,0.14,0.14,0.13,0.13,0.14,0.15,0.16,..
+Ukraine,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,..,..,..,..,..,..,..,..,..
+Ukraine,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,..,7.26,6.59,..,..,..,..,..,..
+Chile,Cars/light trucks,Per capita energy intensity (GJ/cap)                                ,..,..,..,..,..,..,..,..,..
+Chile,Cars/light trucks,Fuel intensity (litres/100 vkm)                                     ,..,..,..,..,..,..,..,..,..
+Chile,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                      ,..,..,..,..,..,..,..,..,..
+Chile,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                      ,..,..,..,..,..,..,..,..,..
+Chile,Cars/light trucks,Passenger average occupancy (#passengers)                           ,..,..,..,..,..,..,..,..,..
+Chile,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                        ,..,..,..,..,..,..,..,..,..
+Chile,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                        ,..,..,..,..,..,..,..,..,..
+Chile,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                      ,..,..,..,..,..,..,..,..,..
+Chile,Freight trucks,Per capita energy intensity (GJ/cap)                                   ,..,..,..,..,..,..,..,..,..
+Chile,Freight trucks,Fuel intensity (litres/100 vkm)                                        ,..,..,..,..,..,..,..,..,..
+Chile,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                             ,..,..,..,..,..,..,..,..,..
+Chile,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                             ,..,..,..,..,..,..,..,..,..
+Chile,Freight trucks,Freight load factor (tkm/vkm)                                          ,..,..,..,..,..,..,..,..,..
+Chile,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                           ,..,..,..,..,..,..,..,..,..
+Chile,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                           ,..,..,..,..,..,..,..,..,..
+Chile,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                         ,..,..,..,..,..,..,..,..,..
+Colombia,Cars/light trucks,Per capita energy intensity (GJ/cap)                             ,..,..,..,..,..,..,..,..,..
+Colombia,Cars/light trucks,Fuel intensity (litres/100 vkm)                                  ,..,..,..,..,..,..,..,..,..
+Colombia,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                   ,..,..,..,..,..,..,..,..,..
+Colombia,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                   ,..,..,..,..,..,..,..,..,..
+Colombia,Cars/light trucks,Passenger average occupancy (#passengers)                        ,..,..,..,..,..,..,..,..,..
+Colombia,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                     ,..,..,0.43,0.52,0.46,0.54,0.43,..,..
+Colombia,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                     ,..,..,..,..,..,..,..,..,..
+Colombia,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                   ,..,..,..,..,..,..,..,..,..
+Colombia,Freight trucks,Per capita energy intensity (GJ/cap)                                ,..,..,2.98,2.71,2.68,2.62,2.66,2.70,..
+Colombia,Freight trucks,Fuel intensity (litres/100 vkm)                                     ,..,..,..,..,..,..,..,..,..
+Colombia,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                          ,..,..,..,..,..,..,..,..,..
+Colombia,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                          ,..,..,..,..,..,..,..,..,..
+Colombia,Freight trucks,Freight load factor (tkm/vkm)                                       ,..,..,..,..,..,..,..,..,..
+Colombia,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                        ,..,..,..,..,..,..,..,..,..
+Colombia,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                        ,..,..,..,..,..,..,..,..,..
+Colombia,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                      ,..,..,..,..,..,..,..,..,..
+Latvia,Cars/light trucks,Per capita energy intensity (GJ/cap)                               ,..,..,..,..,..,..,..,..,..
+Latvia,Cars/light trucks,Fuel intensity (litres/100 vkm)                                    ,..,..,..,..,..,..,..,..,..
+Latvia,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                     ,..,..,..,..,..,..,..,..,..
+Latvia,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                     ,..,..,..,..,..,..,..,..,..
+Latvia,Cars/light trucks,Passenger average occupancy (#passengers)                          ,..,..,..,..,..,..,..,..,..
+Latvia,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,..,..,..,..,..,..,..,..,..
+Latvia,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,..,..,..,..,..,..,..,..,..
+Latvia,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                     ,..,..,..,..,..,..,..,..,..
+Latvia,Freight trucks,Per capita energy intensity (GJ/cap)                                  ,..,..,..,..,..,..,..,..,..
+Latvia,Freight trucks,Fuel intensity (litres/100 vkm)                                       ,..,..,..,..,..,..,..,..,..
+Latvia,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                            ,..,..,..,..,..,..,..,..,..
+Latvia,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                            ,..,..,..,..,..,..,..,..,..
+Latvia,Freight trucks,Freight load factor (tkm/vkm)                                         ,..,..,..,..,..,..,..,..,..
+Latvia,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                          ,..,..,..,..,..,..,..,..,..
+Latvia,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                          ,..,..,..,..,..,..,..,..,..
+Latvia,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                        ,..,..,..,..,..,..,..,..,..
+Albania,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,..,..,..,..,..,..,..,..,..
+Albania,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,..,..,..,..,..,..,..,..,..
+Albania,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,..,..,..,..,..,..,..,..,..
+Albania,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,..,..,..,..,..,..,..,..,..
+Albania,Cars/light trucks,Passenger average occupancy (#passengers)                         ,..,..,..,..,..,..,..,..,..
+Albania,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,..,..,..,..,..,..,..,..,..
+Albania,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,..,..,..,..,..,..,..,..,..
+Albania,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,..,..,..,..,..,..,..,..,..
+Albania,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,..,..,..,..,..,..,..,..,..
+Albania,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,..,..,..,..,..,..,..,..,..
+Albania,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,..,..,..,..,..,..,..,..,..
+Albania,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,..,..,..,..,..,..,..,..,..
+Albania,Freight trucks,Freight load factor (tkm/vkm)                                        ,..,..,..,..,..,..,..,..,..
+Albania,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,..,..,..,..,..,..,..,..,..
+Albania,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,..,..,..,..,..,..,..,..,..
+Albania,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,..,..,..,..,..,..,..,..,..
+Armenia,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,..,..,..,..,..,..,..,..,..
+Armenia,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,..,..,..,..,..,..,..,..,..
+Armenia,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,..,0.02,0.06,0.03,0.02,0.02,0.03,0.02,0.01
+Armenia,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,..,..,..,..,..,..,..,..,..
+Armenia,Cars/light trucks,Passenger average occupancy (#passengers)                         ,..,0.43,0.70,0.41,0.35,0.35,0.42,0.35,0.13
+Armenia,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,..,0.05,0.08,0.08,0.07,0.07,0.06,0.06,0.05
+Armenia,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,..,..,..,..,..,..,..,..,..
+Armenia,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,..,..,..,..,..,..,..,..,..
+Armenia,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,..,..,..,..,..,..,..,..,..
+Armenia,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,..,..,..,..,..,..,..,..,..
+Armenia,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,..,0.08,0.18,0.30,0.32,0.37,0.49,0.48,0.51
+Armenia,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,..,..,..,..,..,..,..,..,..
+Armenia,Freight trucks,Freight load factor (tkm/vkm)                                        ,..,2.56,3.44,4.94,5.88,6.11,6.90,6.76,6.82
+Armenia,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,..,0.03,0.05,0.06,0.05,0.06,0.07,0.07,0.07
+Armenia,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,..,..,..,..,..,..,..,..,..
+Armenia,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Cars/light trucks,Per capita energy intensity (GJ/cap)                           ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Cars/light trucks,Fuel intensity (litres/100 vkm)                                ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                 ,0.05,0.06,0.10,0.14,0.14,0.15,0.15,0.15,..
+Azerbaijan,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                 ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Cars/light trucks,Passenger average occupancy (#passengers)                      ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                   ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                   ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                 ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Freight trucks,Per capita energy intensity (GJ/cap)                              ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Freight trucks,Fuel intensity (litres/100 vkm)                                   ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                        ,0.44,0.89,1.25,1.61,1.64,1.66,1.70,1.75,..
+Azerbaijan,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                        ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Freight trucks,Freight load factor (tkm/vkm)                                     ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,..,..,..,..,..,..,..,..,..
+Azerbaijan,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                    ,..,..,..,..,..,..,..,..,..
+Belarus,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,..,..,..,..,..,..,..,..,..
+Belarus,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,..,..,..,..,..,..,..,..,..
+Belarus,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,..,..,..,..,..,..,..,..,..
+Belarus,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,..,..,..,..,..,..,..,..,..
+Belarus,Cars/light trucks,Passenger average occupancy (#passengers)                         ,..,..,..,..,..,..,..,..,..
+Belarus,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,..,..,..,..,..,..,..,..,..
+Belarus,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,..,..,..,..,..,..,..,..,..
+Belarus,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,..,..,..,..,..,..,..,..,..
+Belarus,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,..,..,..,..,2.70,3.02,3.07,3.08,..
+Belarus,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,..,..,..,..,..,..,..,..,..
+Belarus,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,..,..,1.69,2.59,2.67,2.85,2.97,3.02,..
+Belarus,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,..,..,..,..,1.01,1.06,1.03,1.02,..
+Belarus,Freight trucks,Freight load factor (tkm/vkm)                                        ,..,..,..,..,..,..,..,..,..
+Belarus,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,..,..,..,..,..,..,..,..,..
+Belarus,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,..,..,..,..,..,..,..,..,..
+Belarus,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Cars/light trucks,Per capita energy intensity (GJ/cap)               ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Cars/light trucks,Fuel intensity (litres/100 vkm)                    ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)     ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)     ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Cars/light trucks,Passenger average occupancy (#passengers)          ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)       ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)       ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                     ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Freight trucks,Per capita energy intensity (GJ/cap)                  ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Freight trucks,Fuel intensity (litres/100 vkm)                       ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)            ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)            ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Freight trucks,Freight load factor (tkm/vkm)                         ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)          ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)          ,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,Freight trucks,Vehicle use (10^3 vkm/vehicle)                        ,..,..,..,..,..,..,..,..,..
+Bulgaria,Cars/light trucks,Per capita energy intensity (GJ/cap)                             ,..,..,..,..,..,..,..,..,..
+Bulgaria,Cars/light trucks,Fuel intensity (litres/100 vkm)                                  ,..,..,..,..,..,..,..,..,..
+Bulgaria,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                   ,..,..,..,..,..,..,..,..,..
+Bulgaria,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                   ,..,..,..,..,..,..,..,..,..
+Bulgaria,Cars/light trucks,Passenger average occupancy (#passengers)                        ,..,..,..,..,..,..,..,..,..
+Bulgaria,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                     ,..,..,..,..,..,..,..,..,..
+Bulgaria,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                     ,..,..,..,..,..,..,..,..,..
+Bulgaria,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                   ,..,..,..,..,..,..,..,..,..
+Bulgaria,Freight trucks,Per capita energy intensity (GJ/cap)                                ,..,..,..,..,..,..,..,..,..
+Bulgaria,Freight trucks,Fuel intensity (litres/100 vkm)                                     ,..,..,..,..,..,..,..,..,..
+Bulgaria,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                          ,..,..,..,..,..,..,..,..,..
+Bulgaria,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                          ,..,..,..,..,..,..,..,..,..
+Bulgaria,Freight trucks,Freight load factor (tkm/vkm)                                       ,..,..,..,..,..,..,..,..,..
+Bulgaria,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                        ,..,..,..,..,..,..,..,..,..
+Bulgaria,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                        ,..,..,..,..,..,..,..,..,..
+Bulgaria,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                      ,..,..,..,..,..,..,..,..,..
+Croatia,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,..,..,..,..,..,..,..,..,..
+Croatia,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,..,..,..,..,..,..,..,..,..
+Croatia,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,..,..,..,..,..,..,..,..,..
+Croatia,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,..,..,..,..,..,..,..,..,..
+Croatia,Cars/light trucks,Passenger average occupancy (#passengers)                         ,..,..,..,..,..,..,..,..,..
+Croatia,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,..,..,..,..,..,..,..,..,..
+Croatia,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,..,..,..,..,..,..,..,..,..
+Croatia,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,..,..,..,..,..,..,..,..,..
+Croatia,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,..,..,..,..,..,..,..,..,..
+Croatia,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,..,..,..,..,..,..,..,..,..
+Croatia,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,..,..,..,..,..,..,..,..,..
+Croatia,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,..,..,..,..,..,..,..,..,..
+Croatia,Freight trucks,Freight load factor (tkm/vkm)                                        ,..,..,..,..,..,..,..,..,..
+Croatia,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,..,..,..,..,..,..,..,..,..
+Croatia,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,..,..,..,..,..,..,..,..,..
+Croatia,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,..,..,..,..,..,..,..,..,..
+Cyprus,Cars/light trucks,Per capita energy intensity (GJ/cap)                               ,..,..,..,..,..,..,..,..,..
+Cyprus,Cars/light trucks,Fuel intensity (litres/100 vkm)                                    ,..,..,..,..,..,..,..,..,..
+Cyprus,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                     ,..,..,..,..,..,..,..,..,..
+Cyprus,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                     ,..,..,..,..,..,..,..,..,..
+Cyprus,Cars/light trucks,Passenger average occupancy (#passengers)                          ,..,..,..,..,..,..,..,..,..
+Cyprus,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,..,..,..,..,..,..,..,..,..
+Cyprus,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,..,..,..,..,..,..,..,..,..
+Cyprus,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                     ,..,..,..,..,..,..,..,..,..
+Cyprus,Freight trucks,Per capita energy intensity (GJ/cap)                                  ,..,..,..,..,..,..,..,..,..
+Cyprus,Freight trucks,Fuel intensity (litres/100 vkm)                                       ,..,..,..,..,..,..,..,..,..
+Cyprus,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                            ,..,..,..,..,..,..,..,..,..
+Cyprus,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                            ,..,..,..,..,..,..,..,..,..
+Cyprus,Freight trucks,Freight load factor (tkm/vkm)                                         ,..,..,..,..,..,..,..,..,..
+Cyprus,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                          ,..,..,..,..,..,..,..,..,..
+Cyprus,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                          ,..,..,..,..,..,..,..,..,..
+Cyprus,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                        ,..,..,..,..,..,..,..,..,..
+Georgia,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,..,..,..,..,..,..,..,..,..
+Georgia,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,..,..,..,..,..,..,..,..,..
+Georgia,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,..,..,..,..,..,..,..,..,..
+Georgia,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,..,..,..,..,..,..,..,..,..
+Georgia,Cars/light trucks,Passenger average occupancy (#passengers)                         ,..,..,..,..,..,..,..,..,..
+Georgia,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,..,..,..,..,..,..,..,..,..
+Georgia,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,..,..,..,..,..,..,..,..,..
+Georgia,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,..,..,..,..,..,..,..,..,..
+Georgia,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,..,..,..,..,..,..,..,..,..
+Georgia,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,..,..,..,..,..,..,..,..,..
+Georgia,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,0.12,0.15,0.16,0.18,0.18,0.18,0.19,0.19,0.19
+Georgia,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,..,..,..,..,..,..,..,..,..
+Georgia,Freight trucks,Freight load factor (tkm/vkm)                                        ,..,..,..,..,..,..,..,..,..
+Georgia,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,..,..,..,..,..,..,..,..,..
+Georgia,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,..,..,..,..,..,..,..,..,..
+Georgia,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,..,..,..,..,..,..,..,..,..
+Hong Kong (China),Cars/light trucks,Per capita energy intensity (GJ/cap)                    ,4.23,4.28,4.50,4.68,4.79,4.56,4.45,4.64,..
+Hong Kong (China),Cars/light trucks,Fuel intensity (litres/100 vkm)                         ,13.43,14.76,13.90,12.70,12.49,12.00,11.50,11.87,..
+Hong Kong (China),Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)          ,..,..,..,1.78,1.84,1.79,1.81,1.81,1.67
+Hong Kong (China),Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)          ,..,..,..,2.64,2.61,2.55,2.45,2.57,..
+Hong Kong (China),Cars/light trucks,Passenger average occupancy (#passengers)               ,..,..,..,1.60,1.59,1.56,1.55,1.53,1.48
+Hong Kong (China),Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)            ,0.95,0.88,0.98,1.11,1.16,1.15,1.17,1.18,1.13
+Hong Kong (China),Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)            ,4.45,4.89,4.61,4.21,4.14,3.98,3.81,3.94,..
+Hong Kong (China),Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                          ,18.07,16.18,15.85,15.05,15.32,14.84,14.90,14.96,14.31
+Hong Kong (China),Freight trucks,Per capita energy intensity (GJ/cap)                       ,6.24,4.82,4.07,3.39,3.37,3.36,3.33,3.29,..
+Hong Kong (China),Freight trucks,Fuel intensity (litres/100 vkm)                            ,33.84,27.66,24.40,21.41,21.28,21.35,20.95,21.38,..
+Hong Kong (China),Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                 ,..,..,..,..,..,..,..,..,..
+Hong Kong (China),Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                 ,..,..,..,..,..,..,..,..,..
+Hong Kong (China),Freight trucks,Freight load factor (tkm/vkm)                              ,..,..,..,..,..,..,..,..,..
+Hong Kong (China),Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)               ,0.56,0.53,0.50,0.48,0.48,0.47,0.48,0.47,0.45
+Hong Kong (China),Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)               ,11.22,9.17,8.09,7.10,7.05,7.08,6.94,7.09,..
+Hong Kong (China),Freight trucks,Vehicle use (10^3 vkm/vehicle)                             ,32.44,32.25,32.30,31.23,31.17,31.07,30.88,30.81,29.14
+Kazakhstan,Cars/light trucks,Per capita energy intensity (GJ/cap)                           ,..,..,..,..,..,..,..,..,..
+Kazakhstan,Cars/light trucks,Fuel intensity (litres/100 vkm)                                ,..,..,..,..,..,..,..,..,..
+Kazakhstan,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                 ,1.24,1.84,1.36,2.28,2.40,3.22,3.86,4.28,..
+Kazakhstan,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                 ,..,..,..,..,..,..,..,..,..
+Kazakhstan,Cars/light trucks,Passenger average occupancy (#passengers)                      ,..,..,..,..,..,..,..,..,..
+Kazakhstan,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                   ,..,..,..,..,..,..,..,..,..
+Kazakhstan,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                   ,..,..,..,..,..,..,..,..,..
+Kazakhstan,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                 ,..,..,..,..,..,..,..,..,..
+Kazakhstan,Freight trucks,Per capita energy intensity (GJ/cap)                              ,..,..,..,..,..,..,..,..,..
+Kazakhstan,Freight trucks,Fuel intensity (litres/100 vkm)                                   ,..,..,..,..,..,..,..,..,..
+Kazakhstan,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                        ,2.08,3.11,4.92,9.23,9.18,9.21,10.13,9.37,..
+Kazakhstan,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                        ,..,..,..,..,..,..,..,..,..
+Kazakhstan,Freight trucks,Freight load factor (tkm/vkm)                                     ,..,..,..,..,..,..,..,..,..
+Kazakhstan,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,..,..,..,..,..,..,..,..,..
+Kazakhstan,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,..,..,..,..,..,..,..,..,..
+Kazakhstan,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                    ,..,..,..,..,..,..,..,..,..
+Kosovo,Cars/light trucks,Per capita energy intensity (GJ/cap)                               ,..,..,..,..,..,..,..,..,..
+Kosovo,Cars/light trucks,Fuel intensity (litres/100 vkm)                                    ,..,..,..,..,..,..,..,..,..
+Kosovo,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                     ,..,..,..,..,..,..,..,..,..
+Kosovo,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                     ,..,..,..,..,..,..,..,..,..
+Kosovo,Cars/light trucks,Passenger average occupancy (#passengers)                          ,..,..,..,..,..,..,..,..,..
+Kosovo,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,..,..,..,..,..,..,..,..,..
+Kosovo,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,..,..,..,..,..,..,..,..,..
+Kosovo,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                     ,..,..,..,..,..,..,..,..,..
+Kosovo,Freight trucks,Per capita energy intensity (GJ/cap)                                  ,..,..,..,..,..,..,..,..,..
+Kosovo,Freight trucks,Fuel intensity (litres/100 vkm)                                       ,..,..,..,..,..,..,..,..,..
+Kosovo,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                            ,..,..,..,..,..,..,..,..,..
+Kosovo,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                            ,..,..,..,..,..,..,..,..,..
+Kosovo,Freight trucks,Freight load factor (tkm/vkm)                                         ,..,..,..,..,..,..,..,..,..
+Kosovo,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                          ,..,..,..,..,..,..,..,..,..
+Kosovo,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                          ,..,..,..,..,..,..,..,..,..
+Kosovo,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                        ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Cars/light trucks,Per capita energy intensity (GJ/cap)                           ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Cars/light trucks,Fuel intensity (litres/100 vkm)                                ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                 ,..,0.02,0.05,0.08,0.09,0.09,0.10,0.12,0.11
+Kyrgyzstan,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                 ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Cars/light trucks,Passenger average occupancy (#passengers)                      ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                   ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                   ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                 ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Freight trucks,Per capita energy intensity (GJ/cap)                              ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Freight trucks,Fuel intensity (litres/100 vkm)                                   ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                        ,0.25,0.16,0.24,0.24,0.25,0.25,0.26,0.29,0.19
+Kyrgyzstan,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                        ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Freight trucks,Freight load factor (tkm/vkm)                                     ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,..,..,..,..,..,..,..,..,..
+Kyrgyzstan,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                    ,..,..,..,..,..,..,..,..,..
+Malta,Cars/light trucks,Per capita energy intensity (GJ/cap)                                ,..,..,..,..,..,..,..,..,..
+Malta,Cars/light trucks,Fuel intensity (litres/100 vkm)                                     ,..,..,..,..,..,..,..,..,..
+Malta,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                      ,..,..,..,..,..,..,..,..,..
+Malta,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                      ,..,..,..,..,..,..,..,..,..
+Malta,Cars/light trucks,Passenger average occupancy (#passengers)                           ,..,..,..,..,..,..,..,..,..
+Malta,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                        ,..,..,..,..,..,..,..,..,..
+Malta,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                        ,..,..,..,..,..,..,..,..,..
+Malta,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                      ,..,..,..,..,..,..,..,..,..
+Malta,Freight trucks,Per capita energy intensity (GJ/cap)                                   ,..,..,..,..,..,..,..,..,..
+Malta,Freight trucks,Fuel intensity (litres/100 vkm)                                        ,..,..,..,..,..,..,..,..,..
+Malta,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                             ,..,..,..,..,..,..,..,..,..
+Malta,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                             ,..,..,..,..,..,..,..,..,..
+Malta,Freight trucks,Freight load factor (tkm/vkm)                                          ,..,..,..,..,..,..,..,..,..
+Malta,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                           ,..,..,..,..,..,..,..,..,..
+Malta,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                           ,..,..,..,..,..,..,..,..,..
+Malta,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                         ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Cars/light trucks,Per capita energy intensity (GJ/cap)                  ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Cars/light trucks,Fuel intensity (litres/100 vkm)                       ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)        ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)        ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Cars/light trucks,Passenger average occupancy (#passengers)             ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)          ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)          ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                        ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Freight trucks,Per capita energy intensity (GJ/cap)                     ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Freight trucks,Fuel intensity (litres/100 vkm)                          ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)               ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)               ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Freight trucks,Freight load factor (tkm/vkm)                            ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)             ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)             ,..,..,..,..,..,..,..,..,..
+Republic of Moldova,Freight trucks,Vehicle use (10^3 vkm/vehicle)                           ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Cars/light trucks,Per capita energy intensity (GJ/cap)          ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Cars/light trucks,Fuel intensity (litres/100 vkm)               ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap),..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm),..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Cars/light trucks,Passenger average occupancy (#passengers)     ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)  ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)  ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Freight trucks,Per capita energy intensity (GJ/cap)             ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Freight trucks,Fuel intensity (litres/100 vkm)                  ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)       ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)       ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Freight trucks,Freight load factor (tkm/vkm)                    ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)     ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)     ,..,..,..,..,..,..,..,..,..
+Republic of North Macedonia,Freight trucks,Vehicle use (10^3 vkm/vehicle)                   ,..,..,..,..,..,..,..,..,..
+Romania,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,..,..,..,..,..,..,..,..,..
+Romania,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,..,..,..,..,..,..,..,..,..
+Romania,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,..,..,..,..,..,..,..,..,..
+Romania,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,..,..,..,..,..,..,..,..,..
+Romania,Cars/light trucks,Passenger average occupancy (#passengers)                         ,..,..,..,..,..,..,..,..,..
+Romania,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,..,..,..,..,..,..,..,..,..
+Romania,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,..,..,..,..,..,..,..,..,..
+Romania,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,..,..,..,..,..,..,..,..,..
+Romania,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,..,..,..,..,..,..,..,..,..
+Romania,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,..,..,..,..,..,..,..,..,..
+Romania,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,..,..,..,..,..,..,..,..,..
+Romania,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,..,..,..,..,..,..,..,..,..
+Romania,Freight trucks,Freight load factor (tkm/vkm)                                        ,..,..,..,..,..,..,..,..,..
+Romania,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,..,..,..,..,..,..,..,..,..
+Romania,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,..,..,..,..,..,..,..,..,..
+Romania,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,..,..,..,..,..,..,..,..,..
+Serbia,Cars/light trucks,Per capita energy intensity (GJ/cap)                               ,..,..,..,..,..,..,..,..,..
+Serbia,Cars/light trucks,Fuel intensity (litres/100 vkm)                                    ,..,..,..,..,..,..,..,..,..
+Serbia,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                     ,..,..,..,..,..,..,..,..,..
+Serbia,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                     ,..,..,..,..,..,..,..,..,..
+Serbia,Cars/light trucks,Passenger average occupancy (#passengers)                          ,..,..,..,..,..,..,..,..,..
+Serbia,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                       ,..,..,..,..,..,..,..,..,..
+Serbia,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                       ,..,..,..,..,..,..,..,..,..
+Serbia,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                     ,..,..,..,..,..,..,..,..,..
+Serbia,Freight trucks,Per capita energy intensity (GJ/cap)                                  ,..,..,..,..,..,..,..,..,..
+Serbia,Freight trucks,Fuel intensity (litres/100 vkm)                                       ,..,..,..,..,..,..,..,..,..
+Serbia,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                            ,..,..,..,..,..,..,..,..,..
+Serbia,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                            ,..,..,..,..,..,..,..,..,..
+Serbia,Freight trucks,Freight load factor (tkm/vkm)                                         ,..,..,..,..,..,..,..,..,..
+Serbia,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                          ,..,..,..,..,..,..,..,..,..
+Serbia,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                          ,..,..,..,..,..,..,..,..,..
+Serbia,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                        ,..,..,..,..,..,..,..,..,..
+Slovenia,Cars/light trucks,Per capita energy intensity (GJ/cap)                             ,14.61,18.34,21.72,22.10,22.59,23.45,23.92,23.83,..
+Slovenia,Cars/light trucks,Fuel intensity (litres/100 vkm)                                  ,6.40,7.30,7.44,7.72,7.56,7.77,7.84,7.93,..
+Slovenia,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                   ,8.55,10.26,12.06,12.43,12.69,13.15,13.47,13.59,..
+Slovenia,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                   ,1.71,1.79,1.80,1.78,1.78,1.78,1.78,1.75,..
+Slovenia,Cars/light trucks,Passenger average occupancy (#passengers)                        ,1.24,1.35,1.37,1.44,1.41,1.44,1.46,1.50,..
+Slovenia,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                     ,6.89,7.58,8.81,8.63,9.01,9.10,9.20,9.06,..
+Slovenia,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                     ,2.12,2.42,2.47,2.56,2.51,2.58,2.60,2.63,..
+Slovenia,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                   ,15.71,15.72,16.66,15.75,16.06,15.77,15.62,15.21,..
+Slovenia,Freight trucks,Per capita energy intensity (GJ/cap)                                ,5.05,7.55,9.70,10.08,10.73,11.66,12.70,12.39,..
+Slovenia,Freight trucks,Fuel intensity (litres/100 vkm)                                     ,21.88,19.44,19.88,17.87,17.41,18.17,18.89,19.33,..
+Slovenia,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                          ,3.35,5.51,7.78,8.68,9.06,10.07,10.73,11.49,..
+Slovenia,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                          ,1.51,1.37,1.25,1.16,1.18,1.16,1.18,1.08,..
+Slovenia,Freight trucks,Freight load factor (tkm/vkm)                                       ,4.80,4.70,5.28,5.10,4.87,5.20,5.29,5.94,..
+Slovenia,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                        ,0.70,1.17,1.47,1.70,1.86,1.94,2.03,1.93,..
+Slovenia,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                        ,7.25,6.44,6.59,5.92,5.77,6.02,6.26,6.41,..
+Slovenia,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                      ,25.41,35.27,35.51,34.48,35.33,34.31,33.82,30.96,..
+Chinese Taipei,Cars/light trucks,Per capita energy intensity (GJ/cap)                       ,..,..,..,..,..,..,..,..,..
+Chinese Taipei,Cars/light trucks,Fuel intensity (litres/100 vkm)                            ,..,..,..,..,..,..,..,..,..
+Chinese Taipei,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)             ,..,..,..,..,..,..,..,..,..
+Chinese Taipei,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)             ,..,..,..,..,..,..,..,..,..
+Chinese Taipei,Cars/light trucks,Passenger average occupancy (#passengers)                  ,..,..,..,..,..,..,..,..,..
+Chinese Taipei,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)               ,..,5.79,4.82,4.55,4.60,4.65,4.61,4.66,..
+Chinese Taipei,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)               ,..,..,..,..,..,..,..,..,..
+Chinese Taipei,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                             ,..,19.73,16.23,13.78,13.80,13.79,13.54,13.55,..
+Chinese Taipei,Freight trucks,Per capita energy intensity (GJ/cap)                          ,..,..,..,..,..,..,..,..,..
+Chinese Taipei,Freight trucks,Fuel intensity (litres/100 vkm)                               ,..,..,..,..,..,..,..,..,..
+Chinese Taipei,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                    ,..,..,..,..,..,..,..,..,..
+Chinese Taipei,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                    ,..,..,..,..,..,..,..,..,..
+Chinese Taipei,Freight trucks,Freight load factor (tkm/vkm)                                 ,..,..,..,..,..,..,..,..,..
+Chinese Taipei,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                  ,..,..,..,..,..,..,..,..,..
+Chinese Taipei,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                  ,..,..,..,..,..,..,..,..,..
+Chinese Taipei,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                ,..,..,..,..,..,..,..,..,..
+Uruguay,Cars/light trucks,Per capita energy intensity (GJ/cap)                              ,5.09,3.79,5.51,6.98,7.31,7.75,7.76,..,..
+Uruguay,Cars/light trucks,Fuel intensity (litres/100 vkm)                                   ,9.31,8.90,9.60,9.79,9.79,9.79,9.78,..,..
+Uruguay,Cars/light trucks,Passenger-kilometres per capita (10^3 pkm/cap)                    ,..,..,..,..,..,..,..,..,..
+Uruguay,Cars/light trucks,Passenger-kilometres energy intensity (MJ/pkm)                    ,..,..,..,..,..,..,..,..,..
+Uruguay,Cars/light trucks,Passenger average occupancy (#passengers)                         ,..,..,..,..,..,..,..,..,..
+Uruguay,Cars/light trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                      ,1.65,1.28,1.73,2.15,2.25,2.39,2.39,..,..
+Uruguay,Cars/light trucks,Vehicle-kilometres energy intensity (MJ/vkm)                      ,3.09,2.95,3.18,3.24,3.25,3.25,3.24,..,..
+Uruguay,Cars/light trucks,Vehicle use (10^3 vkm/vehicle)                                    ,9.02,9.73,12.86,12.60,12.86,12.99,12.75,..,..
+Uruguay,Freight trucks,Per capita energy intensity (GJ/cap)                                 ,3.47,3.92,5.22,5.76,5.85,5.88,5.68,..,..
+Uruguay,Freight trucks,Fuel intensity (litres/100 vkm)                                      ,..,..,..,..,..,..,..,..,..
+Uruguay,Freight trucks,Tonne-kilometres per capita (10^3 tkm/cap)                           ,..,2.50,3.75,5.41,..,..,..,..,..
+Uruguay,Freight trucks,Tonne-kilometres energy intensity (MJ/tkm)                           ,..,1.57,1.39,1.07,..,..,..,..,..
+Uruguay,Freight trucks,Freight load factor (tkm/vkm)                                        ,..,..,..,..,..,..,..,..,..
+Uruguay,Freight trucks,Vehicle-kilometres per capita (10^3 vkm/cap)                         ,..,..,..,..,..,..,..,..,..
+Uruguay,Freight trucks,Vehicle-kilometres energy intensity (MJ/vkm)                         ,..,..,..,..,..,..,..,..,..
+Uruguay,Freight trucks,Vehicle use (10^3 vkm/vehicle)                                       ,..,..,..,..,..,..,..,..,..
