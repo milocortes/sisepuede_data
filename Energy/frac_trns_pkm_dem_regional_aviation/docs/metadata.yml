@@ -1,0 +1,25 @@
+date:        2023-30-01
+variable :
+  name : frac_trns_pkm_dem_regional_aviation
+  subsector :  Transportation
+  longname :  Fraction of p-Km transport demand 
+
+
+  units: ratio between 0 and 1
+
+resources:
+
+    - url:   https://www.eea.europa.eu/data-and-maps/daviz/passenger-transport-volume-6/#tab-chart_2
+
+Last visited: 2022-07-12
+
+      descrip:   Passenger transport volume and modal split
+
+aditional_information:
+
+      assumptions:
+
+- Historical value assigned to all the countries and every year.
+
+
+
