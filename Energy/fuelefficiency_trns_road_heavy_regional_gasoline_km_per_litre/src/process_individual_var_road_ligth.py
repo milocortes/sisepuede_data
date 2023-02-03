@@ -22,10 +22,10 @@ iso3_m49_correspondence = iso3_m49_correspondence[["Nation", "iso_code3"]]
 ## Convert LGE/100km  unit to sisepuede unit km/l [ km/l = ((LGE/100km)^-1)(1/100)  ]
 
 for k,v in historical_assumption.items():
-    historical_assumption[k] = (v**-1)*100
+    historical_assumption[k] = ((v*1.5)**-1)*100
 
 for k,v in projected_assumption.items():
-    projected_assumption[k] = (v**-1)*100
+    projected_assumption[k] = ((v*1.5)**-1)*100
 
 
 var_energy_to_process = sys.argv[1]

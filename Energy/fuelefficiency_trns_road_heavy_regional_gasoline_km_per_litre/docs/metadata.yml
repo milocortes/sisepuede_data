@@ -12,5 +12,6 @@ resources:
 aditional_information:
       assumptions: >
             - Historical values takes the Baseline 36.37 L(diesel)/100 km. 
-            - Projected values takes the Long-term 30.64 L(diesel)/100 km.    
+            - Projected values takes the Long-term 30.64 L(diesel)/100 km. 
+            - Gasoline is 50% less efficient than diesel.   
             - Convert LGE/100km  unit to sisepuede unit km/l [ km/l = ((LGE/100km)^-1)(1/100)  ].
