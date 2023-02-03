@@ -1,0 +1,16 @@
+date:        2023-01-17
+variable :
+  name : frac_trns_fuelmix
+  subsector : Transportation
+  longname :  Share of fuel type consumption in transportation mode
+  units: Percentage
+
+resources:
+    - url:   https://fraser.stlouisfed.org/title/transportation-energy-data-book-6461?browse=2010s#611605
+      descrip:   Transportation Energy Data Book
+
+aditional_information:
+      assumptions: >
+            - USA historical transport data is assumed for every country.
+            - Projected data is given by the last historical data.
+            - Natural Gas is equal to Natural Gas plus Liquefied Petroleum Gas
