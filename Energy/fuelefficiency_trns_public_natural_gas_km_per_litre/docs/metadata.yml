@@ -1,0 +1,16 @@
+03-02-2022
+
+fuelefficiency_trns_public_natural_gas_km_per_litre
+
+According to: https://www.researchgate.net/publication/333191750_Study_of_the_fuel_efficiency_and_ecological_aspects_of_CNG_buses_in_urban_public_transport_in_Belgrade
+
+doi:10.5937/jaes16-17035
+
+"[...] average fuel consumption for all lines of CNG (compressed natural gas) was 40.77 kg/100km.[...]"
+
+CNG density = 0.705 kg/m3 = 0.000705 kg/L (reference in same article)
+
+40.77 kg/100km = 0.4077 kg/km, which are 
+
+2.45278390974 km/kg = 2.45278390974*0.000705 km/L = 0.00172921265 km/L
+
