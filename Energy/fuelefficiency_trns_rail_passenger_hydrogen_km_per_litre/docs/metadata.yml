@@ -1,0 +1,28 @@
+9-02-2023
+
+fuelefficiency_trns_rail_passenger_hydrogen_km_per_litre
+
+According to: 
+"STUDY ON THE USE
+OF FUEL CELLS
+AND HYDROGEN
+IN THE RAILWAY
+ENVIRONMENT"
+
+URL: https://rail-research.europa.eu/wp-content/uploads/2019/05/Study-on-the-use-of-fuel-cells-and-hydrogen-in-the-railway-environment_final.pdf
+
+"Multiple Units are widely used for passenger transport in Europe today" 
+
+Figure 4: Overview of the Multiple Units case studies including economic and environmental
+results
+
+H2 average consumption = (0.36 + 0.31 + 0.22)/3 kg/km = 0.2966 kg/km => 3.37154416723 km/kg 
+
+Hydrogen density at 25 celsius and 50Mpa = 30.811 kg/m3 = 0.030811 kg/L 
+
+(https://h2tools.org/hyarc/hydrogen-data/hydrogen-density-different-temperatures-and-pressures)
+
+Then 
+
+H2 av. Cons. = 0.10388064733 km/L
+

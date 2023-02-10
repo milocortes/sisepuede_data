@@ -1,0 +1,29 @@
+9-02-2023
+
+fuelefficiency_trns_rail_freight_hydrogen_km_per_litre
+
+According to: 
+"STUDY ON THE USE
+OF FUEL CELLS
+AND HYDROGEN
+IN THE RAILWAY
+ENVIRONMENT"
+
+URL: https://rail-research.europa.eu/wp-content/uploads/2019/05/Study-on-the-use-of-fuel-cells-and-hydrogen-in-the-railway-environment_final.pdf
+
+"Mainline Locomotives are used for passenger and freight transport and operate mostly on major
+routes."
+
+Figure 6: Overview of the Mainline Locomotives case studies including economic and
+environmental results
+
+H2 average consumption = (0.67 + 0.82 + 0.48)/3 kg/km = 0.656666 kg/km => 1.52284 km/kg 
+
+
+Hydrogen density at 25 celsius and 50Mpa = 30.811 kg/m3 = 0.030811 kg/L 
+
+(https://h2tools.org/hyarc/hydrogen-data/hydrogen-density-different-temperatures-and-pressures)
+
+Then 
+
+H2 average consumption = 0.04692030456 km/L
