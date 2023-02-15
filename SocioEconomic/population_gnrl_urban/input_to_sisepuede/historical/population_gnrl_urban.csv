@@ -1,2621 +1,1821 @@
 "Year","Nation","iso_code3","population_gnrl_urban"
-"2011","Aruba","ABW",43820.27
-"2011","Africa Eastern and Southern","AFE",173901250.111
-"2011","Afghanistan","AFG",7212517.58628
-"2011","Africa Western and Central","AFW",152273428.036534
-"2011","Angola","AGO",14660281.0848
-"2011","Albania","ALB",1546929.18165
-"2011","Andorra","AND",74306.25048
-"2011","Arab World","ARB",206243657.316677
-"2011","United Arab Emirates","ARE",7553138.39094
-"2011","Argentina","ARG",37543829.751
-"2011","Armenia","ARM",1821997.9024
-"2011","American Samoa","ASM",48786.7401
-"2011","Antigua and Barbuda","ATG",22939.9275
-"2011","Australia","AUS",19056040.472
-"2011","Austria","AUT",4792886.89945
-"2011","Azerbaijan","AZE",4920165.99234
-"2011","Burundi","BDI",977810.0149
-"2011","Belgium","BEL",10784163.16272
-"2011","Benin","BEN",4125678.31032
-"2011","Burkina Faso","BFA",4051999.3034
-"2011","Bangladesh","BGD",46610536.0915
-"2011","Bulgaria","BGR",5337678.49264
-"2011","Bahrain","BHR",1133657.80335
-"2011","Bahamas, The","BHS",296569.67508
-"2011","Bosnia and Herzegovina","BIH",1679672.94894
-"2011","Belarus","BLR",7114020.13884
-"2011","Belize","BLZ",149359.13808
-"2011","Bermuda","BMU",64564
-"2011","Bolivia","BOL",6829808.85174
-"2011","Brazil","BRA",167158531.19371
-"2011","Barbados","BRB",89706.879
-"2011","Brunei Darussalam","BRN",296485.6797
-"2011","Bhutan","BTN",246709.73745
-"2011","Botswana","BWA",1287139.0419
-"2011","Central African Republic","CAF",1729234.37265
-"2011","Canada","CAN",27847821.43488
-"2011","Central Europe and the Baltics","CEB",64654506.6999077
-"2011","Switzerland","CHE",5825977.77138
-"2011","Channel Islands","CHI",50053.4009
-"2011","Chile","CHL",15015966.41088
-"2011","China","CHN",679390628.85
-"2011","Cote d'Ivoire","CIV",10041391.61652
-"2011","Cameroon","CMR",10905610.32288
-"2011","Congo, Dem. Rep.","COD",27065208.42144
-"2011","Congo, Rep.","COG",2800041.73504
-"2011","Colombia","COL",35769912.86245
-"2011","Comoros","COM",198124.4712
-"2011","Cabo Verde","CPV",310898.28276
-"2011","Costa Rica","CRI",3376037.10648
-"2011","Caribbean small states","CSS",3543228.29303894
-"2011","Cuba","CUB",8617290.62319
-"2011","Curacao","CUW",135408.53025
-"2011","Cayman Islands","CYM",57877
-"2011","Cyprus","CYP",758207.62822
-"2011","Czech Republic","CZE",7681562.0028
-"2011","Germany","DEU",61940176.8828
-"2011","Djibouti","DJI",657873.01944
-"2011","Dominica","DMA",48496.00768
-"2011","Denmark","DNK",4844002.29404
-"2011","Dominican Republic","DOM",7342937.38113
-"2011","Algeria","DZA",25016298.83368
-"2011","East Asia & Pacific (excluding high income)","EAP",963976301.704615
-"2011","Early-demographic dividend","EAR",1250743601.19011
-"2011","East Asia & Pacific","EAS",1175208430.30871
-"2011","Europe & Central Asia (excluding high income)","ECA",266079710.045614
-"2011","Europe & Central Asia","ECS",631525614.511608
-"2011","Ecuador","ECU",9580934.16135
-"2011","Egypt, Arab Rep.","EGY",36347577.93
-"2011","Euro area","EMU",253272104.759515
-"2011","Spain","ESP",36773882.01081
-"2011","Estonia","EST",902193.91635
-"2011","Ethiopia","ETH",15986316.2308
-"2011","European Union","EUU",322486011.354757
-"2011","Fragile and conflict affected situations","FCS",304832022.892085
-"2011","Finland","FIN",4543013.77136
-"2011","Fiji","FJI",454891.89033
-"2011","France","FRA",51373807.56758
-"2011","Faroe Islands","FRO",19646.2272
-"2011","Micronesia, Fed. Sts.","FSM",23074.0764
-"2011","Gabon","GAB",1450330.79868
-"2011","United Kingdom","GBR",51600211.317
-"2011","Georgia","GEO",2100564.24279
-"2011","Ghana","GHA",13047761.21922
-"2011","Gibraltar","GIB",33608
-"2011","Guinea","GIN",3539413.10394
-"2011","Gambia, The","GMB",1042056.38528
-"2011","Guinea-Bissau","GNB",633138.41968
-"2011","Equatorial Guinea","GNQ",666012.75168
-"2011","Greece","GRC",8511794.03451
-"2011","Grenada","GRD",38292.39174
-"2011","Greenland","GRL",48217.1195
-"2011","Guatemala","GTM",7072123.02015
-"2011","Guam","GUM",150408.8172
-"2011","Guyana","GUY",198535.656
-"2011","High income","HIC",923957795.065387
-"2011","Hong Kong SAR, China","HKG",7071600
-"2011","Honduras","HND",4455998.4381
-"2011","Heavily indebted poor countries (HIPC)","HPC",211290531.138154
-"2011","Croatia","HRV",2368125.70284
-"2011","Haiti","HTI",4897847.1744
-"2011","Hungary","HUN",6916190.41266
-"2011","IBRD only","IBD",2265715905.83902
-"2011","IDA & IBRD total","IBT",2737511281.66665
-"2011","IDA total","IDA",471564577.585478
-"2011","IDA blend","IDB",182311096.43034
-"2011","Indonesia","IDN",124016434.1286
-"2011","IDA only","IDX",289206056.182096
-"2011","Isle of Man","IMN",44152.46668
-"2011","India","IND",391040055.80164
-"2011","Ireland","IRL",2827835.46328
-"2011","Iran, Islamic Rep.","IRN",53140090.808
-"2011","Iraq","IRQ",21282804.2674
-"2011","Iceland","ISL",298555.63218
-"2011","Israel","ISR",7136148.936
-"2011","Italy","ITA",40641670.07356
-"2011","Jamaica","JAM",1524025.1276
-"2011","Jordan","JOR",6679866.57576
-"2011","Japan","JPN",116416234.77
-"2011","Kazakhstan","KAZ",9421047.938
-"2011","Kenya","KEN",10349399.5363
-"2011","Kyrgyz Republic","KGZ",1949521.392
-"2011","Cambodia","KHM",3004693.82123
-"2011","Kiribati","KIR",50518.92725
-"2011","St. Kitts and Nevis","KNA",15417.00444
-"2011","Korea, Rep.","KOR",40909591.94874
-"2011","Kuwait","KWT",3168054
-"2011","Latin America & Caribbean (excluding high income)","LAC",421994179.783
-"2011","Lao PDR","LAO",1946163.1224
-"2011","Lebanon","LBN",4550936.92648
-"2011","Liberia","LBR",1936127.75078
-"2011","Libya","LBY",4890307.04326
-"2011","St. Lucia","LCA",32386.761
-"2011","Latin America & Caribbean","LCN",470222096.797291
-"2011","Least developed countries: UN classification","LDC",256682957.064359
-"2011","Low income","LIC",161311936.041321
-"2011","Liechtenstein","LIE",5230.6859
-"2011","Sri Lanka","LKA",3714770.10656
-"2011","Lower middle income","LMC",1120134494.62736
-"2011","Low & middle income","LMY",2691763369.02376
-"2011","Lesotho","LSO",507160.0083
-"2011","Late-demographic dividend","LTE",1234212959.25823
-"2011","Lithuania","LTU",2020994.23215
-"2011","Luxembourg","LUX",460841.58382
-"2011","Latvia","LVA",1397903.90121
-"2011","Macao SAR, China","MAC",550833
-"2011","Morocco","MAR",19203941.4066
-"2011","Monaco","MCO",36025
-"2011","Moldova","MDA",1217974.27637
-"2011","Madagascar","MDG",7084185.426
-"2011","Maldives","MDV",140207.86557
-"2011","Middle East & North Africa","MEA",248191694.535243
-"2011","Mexico","MEX",90370887.00948
-"2011","Marshall Islands","MHL",41849.23912
-"2011","Middle income","MIC",2533296421.92204
-"2011","North Macedonia","MKD",1175261.08588
-"2011","Mali","MLI",5709215.07807
-"2011","Malta","MLT",391878.85788
-"2011","Myanmar","MMR",14825520.439
-"2011","Middle East & North Africa (excluding high income)","MNA",201059836.113541
-"2011","Montenegro","MNE",399777.33288
-"2011","Mongolia","MNG",1882817.72791
-"2011","Northern Mariana Islands","MNP",49166.95364
-"2011","Mozambique","MOZ",7821270
-"2011","Mauritania","MRT",1709104.94478
-"2011","Mauritius","MUS",519046.31376
-"2011","Malawi","MWI",2344863.13296
-"2011","Malaysia","MYS",20516667.37858
-"2011","North America","NAC",280120518.30559
-"2011","Namibia","NAM",919551.32626
-"2011","New Caledonia","NCL",171851.5775
-"2011","Niger","NER",2775331.1032
-"2011","Nigeria","NGA",72230101.7928
-"2011","Nicaragua","NIC",3371400.37955
-"2011","Netherlands","NLD",14669706.50046
-"2011","Norway","NOR",3935476.0704
-"2011","Nepal","NPL",4626211.9176
-"2011","Nauru","NRU",10069
-"2011","New Zealand","NZL",3774624
-"2011","OECD members","OED",1028740085.34902
-"2011","Oman","OMN",2476787.03666
-"2011","Other small states","OSS",15521570.7289532
-"2011","Pakistan","PAK",64539405.93936
-"2011","Panama","PAN",2425408.66323
-"2011","Peru","PER",22421439.45738
-"2011","Philippines","PHL",43505397.70578
-"2011","Palau","PLW",13401.69228
-"2011","Papua New Guinea","PNG",971385.48
-"2011","Poland","POL",23134846.389
-"2011","Pre-demographic dividend","PRE",281911309.338305
-"2011","Puerto Rico","PRI",3449657.35836
-"2011","Korea, Dem. People's Rep.","PRK",14941465.99344
-"2011","Portugal","PRT",6457742.7252
-"2011","Paraguay","PRY",3774039.23904
-"2011","West Bank and Gaza","PSE",2888203.81666
-"2011","Pacific island small states","PSS",831892.261637149
-"2011","Post-demographic dividend","PST",862954532.930709
-"2011","French Polynesia","PYF",163001.07078
-"2011","Qatar","QAT",2007400.64924
-"2011","Romania","ROU",10871606.1088
-"2011","Russian Federation","RUS",105407936.68656
-"2011","Rwanda","RWA",1743484.74354
-"2011","South Asia","SAS",518130414.963601
-"2011","Saudi Arabia","SAU",23264792.74482
-"2011","Sudan","SDN",11738566.90932
-"2011","Senegal","SEN",5759381.73032
-"2011","Singapore","SGP",5183688
-"2011","Solomon Islands","SLB",111055.33176
-"2011","Sierra Leone","SLE",2575939.65024
-"2011","El Salvador","SLV",4119158.56275
-"2011","San Marino","SMR",30376.45455
-"2011","Somalia","SOM",5074285.05
-"2011","Serbia","SRB",3994307.76285
-"2011","Sub-Saharan Africa (excluding high income)","SSA",326127704.866457
-"2011","South Sudan","SSD",1772670.9224
-"2011","Sub-Saharan Africa","SSF",326174678.118487
-"2011","Small states","SST",19896691.2843193
-"2011","Sao Tome and Principe","STP",121901.95344
-"2011","Suriname","SUR",354693.90852
-"2011","Slovak Republic","SVK",2937800.5728
-"2011","Slovenia","SVN",1085604.96369
-"2011","Sweden","SWE",8059895.21261
-"2011","Eswatini","SWZ",243350.583
-"2011","Sint Maarten (Dutch part)","SXM",33435
-"2011","Seychelles","SYC",46973.3052
-"2011","Syrian Arab Republic","SYR",11506454.0812
-"2011","Turks and Caicos Islands","TCA",30256.81828
-"2011","Chad","TCD",2726091.85244
-"2011","East Asia & Pacific (IDA & IBRD countries)","TEA",949004754.57439
-"2011","Europe & Central Asia (IDA & IBRD countries)","TEC",289040776.412289
-"2011","Togo","TGO",2508567.52048
-"2011","Thailand","THA",30179365.04542
-"2011","Tajikistan","TJK",2041455.83147
-"2011","Turkmenistan","TKM",2526242.607
-"2011","Latin America & the Caribbean (IDA & IBRD countries)","TLA",457323146.832383
-"2011","Timor-Leste","TLS",312562.51166
-"2011","Middle East & North Africa (IDA & IBRD countries)","TMN",198171632.300288
-"2011","Tonga","TON",24277.10194
-"2011","South Asia (IDA & IBRD)","TSA",518130414.963601
-"2011","Sub-Saharan Africa (IDA & IBRD countries)","TSS",326174678.118487
-"2011","Trinidad and Tobago","TTO",719345.8648
-"2011","Tunisia","TUN",7190394.27936
-"2011","Turkey","TUR",52439952.22108
-"2011","Tuvalu","TUV",5930.05182
-"2011","Tanzania","TZA",13153060.2896
-"2011","Uganda","UGA",6661208.09256
-"2011","Ukraine","UKR",31395053.41254
-"2011","Upper middle income","UMC",1415938961.38792
-"2011","Uruguay","URY",3187408.26712
-"2011","United States","USA",252208132.86064
-"2011","Uzbekistan","UZB",15007103.1
-"2011","St. Vincent and the Grenadines","VCT",53459.9514
-"2011","Venezuela, RB","VEN",25452527.14284
-"2011","British Virgin Islands","VGB",12790.32204
-"2011","Virgin Islands (U.S.)","VIR",102616.6869
-"2011","Vietnam","VNM",27621226.1472
-"2011","Vanuatu","VUT",59599.23138
-"2011","World","WLD",3649225957.57253
-"2011","Samoa","WSM",37225.71933
-"2011","Yemen, Rep.","YEM",7705087.13304
-"2011","South Africa","ZAF",32630278.62214
-"2011","Zambia","ZMB",5588385.03349
-"2011","Zimbabwe","ZWE",4257060.73845
-"2012","Aruba","ABW",44058.84705
-"2012","Africa Eastern and Southern","AFE",181061819.705971
-"2012","Afghanistan","AFG",7528588.9248
-"2012","Africa Western and Central","AFW",158838087.900271
-"2012","Angola","AGO",15383123.489
-"2012","Albania","ALB",1575787.8633
-"2012","Andorra","AND",73055.87437
-"2012","Arab World","ARB",212084936.725104
-"2012","United Arab Emirates","ARE",7747412.88902
-"2012","Argentina","ARG",38027773.86791
-"2012","Armenia","ARM",1823992.7436
-"2012","American Samoa","ASM",48665.8398
-"2012","Antigua and Barbuda","ATG",23077.29082
-"2012","Australia","AUS",19414833.7793
-"2012","Austria","AUT",4817486.95677
-"2012","Azerbaijan","AZE",5008847.29272
-"2012","Burundi","BDI",1034996.34448
-"2012","Belgium","BEL",10856359.61408
-"2012","Benin","BEN",4293033.3275
-"2012","Burkina Faso","BFA",4269914.50284
-"2012","Bangladesh","BGD",48311264.15869
-"2012","Bulgaria","BGR",5331471.768
-"2012","Bahrain","BHR",1153854.51804
-"2012","Bahamas, The","BHS",300070.67092
-"2012","Bosnia and Herzegovina","BIH",1665461.01428
-"2012","Belarus","BLR",7150971.44692
-"2012","Belize","BLZ",152931.93246
-"2012","Bermuda","BMU",64798
-"2012","Bolivia","BOL",6985733.27255
-"2012","Brazil","BRA",169240746.98516
-"2012","Barbados","BRB",89515.22994
-"2012","Brunei Darussalam","BRN",301865.17032
-"2012","Bhutan","BTN",255172.38922
-"2012","Botswana","BWA",1320976.39168
-"2012","Central African Republic","CAF",1747413.56468
-"2012","Canada","CAN",28166078.30414
-"2012","Central Europe and the Baltics","CEB",64524892.3138203
-"2012","Switzerland","CHE",5889928.03233
-"2012","Channel Islands","CHI",50331.42009
-"2012","Chile","CHL",15171199.00851
-"2012","China","CHN",700996453.5
-"2012","Cote d'Ivoire","CIV",10379711.40336
-"2012","Cameroon","CMR",11337560.54323
-"2012","Congo, Dem. Rep.","COD",28355104.10418
-"2012","Congo, Rep.","COG",2894148.31293
-"2012","Colombia","COL",36262053.18421
-"2012","Comoros","COM",203572.55395
-"2012","Cabo Verde","CPV",317397.44861
-"2012","Costa Rica","CRI",3466590.69838
-"2012","Caribbean small states","CSS",3572956.38270413
-"2012","Cuba","CUB",8643323.16472
-"2012","Curacao","CUW",136352.97552
-"2012","Cayman Islands","CYM",58963
-"2012","Cyprus","CYP",763443.29006
-"2012","Czech Republic","CZE",7693579.29645
-"2012","Germany","DEU",62064607.6091
-"2012","Djibouti","DJI",669662.74768
-"2012","Dominica","DMA",48734.7549
-"2012","Denmark","DNK",4872607.67224
-"2012","Dominican Republic","DOM",7527832.94632
-"2012","Algeria","DZA",25763113.99585
-"2012","East Asia & Pacific (excluding high income)","EAP",992526837.479007
-"2012","Early-demographic dividend","EAR",1280321221.65018
-"2012","East Asia & Pacific","EAS",1204635826.29993
-"2012","Europe & Central Asia (excluding high income)","ECA",268199082.270906
-"2012","Europe & Central Asia","ECS",635654017.240241
-"2012","Ecuador","ECU",9746825.47812
-"2012","Egypt, Arab Rep.","EGY",37114895.1904
-"2012","Euro area","EMU",254552161.556431
-"2012","Spain","ESP",36904875.8561
-"2012","Estonia","EST",899089.37904
-"2012","Ethiopia","ETH",16839219.9312
-"2012","European Union","EUU",323794324.200991
-"2012","Fragile and conflict affected situations","FCS",315029094.983674
-"2012","Finland","FIN",4593267.13611
-"2012","Fiji","FJI",460179.9774
-"2012","France","FRA",51791148.08692
-"2012","Faroe Islands","FRO",19723.27675
-"2012","Micronesia, Fed. Sts.","FSM",23329.91944
-"2012","Gabon","GAB",1515815.17218
-"2012","United Kingdom","GBR",52130344.94955
-"2012","Georgia","GEO",2099467.92822
-"2012","Ghana","GHA",13537133.49142
-"2012","Gibraltar","GIB",33653
-"2012","Guinea","GIN",3648853.5616
-"2012","Gambia, The","GMB",1087861.671
-"2012","Guinea-Bissau","GNB",656565.62748
-"2012","Equatorial Guinea","GNQ",711521.79
-"2012","Greece","GRC",8505100.27044
-"2012","Grenada","GRD",38541.95788
-"2012","Greenland","GRL",48402.12
-"2012","Guatemala","GTM",7243151.58
-"2012","Guam","GUM",150833.7723
-"2012","Guyana","GUY",199422.432
-"2012","High income","HIC",931435457.33339
-"2012","Hong Kong SAR, China","HKG",7150100
-"2012","Honduras","HND",4597020.95784
-"2012","Heavily indebted poor countries (HIPC)","HPC",220121423.187711
-"2012","Croatia","HRV",2368750.74348
-"2012","Haiti","HTI",5071848.67794
-"2012","Hungary","HUN",6912309.83436
-"2012","IBRD only","IBD",2317809980.79149
-"2012","IDA & IBRD total","IBT",2806433184.86009
-"2012","IDA total","IDA",488388321.673586
-"2012","IDA blend","IDB",188787618.179067
-"2012","Indonesia","IDN",127396100.87064
-"2012","IDA only","IDX",299552595.631575
-"2012","Isle of Man","IMN",43996.56564
-"2012","India","IND",400416922.07062
-"2012","Ireland","IRL",2849042.73086
-"2012","Iran, Islamic Rep.","IRN",54203641.61155
-"2012","Iraq","IRQ",22141873.13184
-"2012","Iceland","ISL",300190.176
-"2012","Israel","ISR",7274495.8
-"2012","Italy","ITA",40894259.22428
-"2012","Jamaica","JAM",1538500.72896
-"2012","Jordan","JOR",7134133.87155
-"2012","Japan","JPN",116331280.92
-"2012","Kazakhstan","KAZ",9566957.4357
-"2012","Kenya","KEN",10809164.00344
-"2012","Kyrgyz Republic","KGZ",1986238.456
-"2012","Cambodia","KHM",3109364.10798
-"2012","Kiribati","KIR",52203.12438
-"2012","St. Kitts and Nevis","KNA",15494.03622
-"2012","Korea, Rep.","KOR",41089081.67903
-"2012","Kuwait","KWT",3348852
-"2012","Latin America & Caribbean (excluding high income)","LAC",428267825.539022
-"2012","Lao PDR","LAO",2014816.92128
-"2012","Lebanon","LBN",4852948.6632
-"2012","Liberia","LBR",2009228.66946
-"2012","Libya","LBY",4935068.82512
-"2012","St. Lucia","LCA",32592.663
-"2012","Latin America & Caribbean","LCN",477045001.9242
-"2012","Least developed countries: UN classification","LDC",267187279.625555
-"2012","Low income","LIC",166875694.8959
-"2012","Liechtenstein","LIE",5260.47705
-"2012","Sri Lanka","LKA",3716533
-"2012","Lower middle income","LMC",1150460317.62372
-"2012","Low & middle income","LMY",2760480344.91382
-"2012","Lesotho","LSO",517932.51552
-"2012","Late-demographic dividend","LTE",1262946619.5552
-"2012","Lithuania","LTU",1997744.53872
-"2012","Luxembourg","LUX",473863.99554
-"2012","Latvia","LVA",1381241.57143
-"2012","Macao SAR, China","MAC",564037
-"2012","Morocco","MAR",19659923.31516
-"2012","Monaco","MCO",36459
-"2012","Moldova","MDA",1216928.13564
-"2012","Madagascar","MDG",7425118.40507
-"2012","Maldives","MDV",148036.07677
-"2012","Middle East & North Africa","MEA",254607761.261684
-"2012","Mexico","MEX",91948802.0118
-"2012","Marshall Islands","MHL",42249.30576
-"2012","Middle income","MIC",2596591036.91011
-"2012","North Macedonia","MKD",1177371.385
-"2012","Mali","MLI",6008129.19708
-"2012","Malta","MLT",395712.57908
-"2012","Myanmar","MMR",15046734.31998
-"2012","Middle East & North Africa (excluding high income)","MNA",205748129.173405
-"2012","Montenegro","MNE",402174.27204
-"2012","Mongolia","MNG",1921642.0494
-"2012","Northern Mariana Islands","MNP",49477.11048
-"2012","Mozambique","MOZ",8166393.57358
-"2012","Mauritania","MRT",1793972.62
-"2012","Mauritius","MUS",519081.14824
-"2012","Malawi","MWI",2434417.1012
-"2012","Malaysia","MYS",21009033.59975
-"2012","North America","NAC",282845296.929338
-"2012","Namibia","NAM",958963.91461
-"2012","New Caledonia","NCL",176182.16
-"2012","Niger","NER",2884959.28308
-"2012","Nigeria","NGA",75664344.20538
-"2012","Nicaragua","NIC",3428528.1177
-"2012","Netherlands","NLD",14842885.73656
-"2012","Norway","NOR",4008534.99802
-"2012","Nepal","NPL",4711767.5528
-"2012","Nauru","NRU",10136
-"2012","New Zealand","NZL",3798063.041
-"2012","OECD members","OED",1037704063.01718
-"2012","Oman","OMN",2713212.76484
-"2012","Other small states","OSS",16040236.3437263
-"2012","Pakistan","PAK",66312146.66
-"2012","Panama","PAN",2478853.15535
-"2012","Peru","PER",22662394.9916
-"2012","Philippines","PHL",44437841.53968
-"2012","Palau","PLW",13436.8119
-"2012","Papua New Guinea","PNG",990656.80946
-"2012","Poland","POL",23086831.49256
-"2012","Pre-demographic dividend","PRE",294423080.304828
-"2012","Puerto Rico","PRI",3406460.22288
-"2012","Korea, Dem. People's Rep.","PRK",15063411.50844
-"2012","Portugal","PRT",6494283.09972
-"2012","Paraguay","PRY",3846933.9957
-"2012","West Bank and Gaza","PSE",2969834.70762
-"2012","Pacific island small states","PSS",846959.817774107
-"2012","Post-demographic dividend","PST",868454819.019958
-"2012","French Polynesia","PYF",165321.63705
-"2012","Qatar","QAT",2167463.10366
-"2012","Romania","ROU",10826123.8109
-"2012","Russian Federation","RUS",105669981.94311
-"2012","Rwanda","RWA",1787430.24924
-"2012","South Asia","SAS",531400430.769218
-"2012","Saudi Arabia","SAU",24058628.4312
-"2012","Sudan","SDN",12069178.21226
-"2012","Senegal","SEN",5977689.5997
-"2012","Singapore","SGP",5312437
-"2012","Solomon Islands","SLB",116607.0402
-"2012","Sierra Leone","SLE",2661003.34212
-"2012","El Salvador","SLV",4191072.65414
-"2012","San Marino","SMR",30873.77613
-"2012","Somalia","SOM",5284302.08746
-"2012","Serbia","SRB",3985121.06412
-"2012","Sub-Saharan Africa (excluding high income)","SSA",339852117.959271
-"2012","South Sudan","SSD",1842403.25616
-"2012","Sub-Saharan Africa","SSF",339899907.589091
-"2012","Small states","SST",20460152.5438737
-"2012","Sao Tome and Principe","STP",126525.4104
-"2012","Suriname","SUR",358348.81376
-"2012","Slovak Republic","SVK",2935233.8812
-"2012","Slovenia","SVN",1092516.00172
-"2012","Sweden","SWE",8150488.0188
-"2012","Eswatini","SWZ",246605.82965
-"2012","Sint Maarten (Dutch part)","SXM",34640
-"2012","Seychelles","SYC",47789.5836
-"2012","Syrian Arab Republic","SYR",10946032.00855
-"2012","Turks and Caicos Islands","TCA",31031.6303
-"2012","Chad","TCD",2830798.90216
-"2012","East Asia & Pacific (IDA & IBRD countries)","TEA",977433657.017387
-"2012","Europe & Central Asia (IDA & IBRD countries)","TEC",291095054.342431
-"2012","Togo","TGO",2611031.64622
-"2012","Thailand","THA",30828056.11205
-"2012","Tajikistan","TJK",2090375.7471
-"2012","Turkmenistan","TKM",2590492.7755
-"2012","Latin America & the Caribbean (IDA & IBRD countries)","TLA",464155580.796681
-"2012","Timor-Leste","TLS",322089.80856
-"2012","Middle East & North Africa (IDA & IBRD countries)","TMN",202778294.449427
-"2012","Tonga","TON",24076.1816
-"2012","South Asia (IDA & IBRD)","TSA",531400430.769218
-"2012","Sub-Saharan Africa (IDA & IBRD countries)","TSS",339899907.589091
-"2012","Trinidad and Tobago","TTO",721775.12194
-"2012","Tunisia","TUN",7291131.75474
-"2012","Turkey","TUR",53729343.84804
-"2012","Tuvalu","TUV",6104.2036
-"2012","Tanzania","TZA",13877351.02269
-"2012","Uganda","UGA",7058268.888
-"2012","Ukraine","UKR",31360012.49444
-"2012","Upper middle income","UMC",1449007190.70068
-"2012","Uruguay","URY",3201207.12525
-"2012","United States","USA",254614420.63778
-"2012","Uzbekistan","UZB",15199882.25
-"2012","St. Vincent and the Grenadines","VCT",53950.7499
-"2012","Venezuela, RB","VEN",25873641.57721
-"2012","British Virgin Islands","VGB",13038.14308
-"2012","Virgin Islands (U.S.)","VIR",102690.96772
-"2012","Vietnam","VNM",28513907.54352
-"2012","Vanuatu","VUT",61530.42805
-"2012","World","WLD",3725742894.14518
-"2012","Samoa","WSM",37106.82536
-"2012","Yemen, Rep.","YEM",8065869.34608
-"2012","South Africa","ZAF",33428280.00248
-"2012","Zambia","ZMB",5837265.82392
-"2012","Zimbabwe","ZWE",4306228.02266
-"2013","Aruba","ABW",44350.6335
-"2013","Africa Eastern and Southern","AFE",188513993.628327
-"2013","Afghanistan","AFG",7865067.65816
-"2013","Africa Western and Central","AFW",165607295.628989
-"2013","Angola","AGO",16130307.63572
-"2013","Albania","ALB",1603504.60604
-"2013","Andorra","AND",71511.3349
-"2013","Arab World","ARB",217948564.959989
-"2013","United Arab Emirates","ARE",7824292.41928
-"2013","Argentina","ARG",38509756.15815
-"2013","Armenia","ARM",1830235.64252
-"2013","American Samoa","ASM",48667.68516
-"2013","Antigua and Barbuda","ATG",23197.785
-"2013","Australia","AUS",19775012.85758
-"2013","Austria","AUT",4861991.31528
-"2013","Azerbaijan","AZE",5098726.90145
-"2013","Burundi","BDI",1095417.47564
-"2013","Belgium","BEL",10912672.51123
-"2013","Benin","BEN",4466250.85348
-"2013","Burkina Faso","BFA",4497997.51686
-"2013","Bangladesh","BGD",50047694.12706
-"2013","Bulgaria","BGR",5326273.75995
-"2013","Bahrain","BHR",1168206.01215
-"2013","Bahamas, The","BHS",303261.12552
-"2013","Bosnia and Herzegovina","BIH",1647981.16362
-"2013","Belarus","BLR",7195632.34989
-"2013","Belize","BLZ",156543.04374
-"2013","Bermuda","BMU",65001
-"2013","Bolivia","BOL",7137082.45125
-"2013","Brazil","BRA",171300683.43936
-"2013","Barbados","BRB",89350.76126
-"2013","Brunei Darussalam","BRN",307342.50758
-"2013","Bhutan","BTN",263845.20015
-"2013","Botswana","BWA",1352455.94172
-"2013","Central African Republic","CAF",1764188.42535
-"2013","Canada","CAN",28479640.39812
-"2013","Central Europe and the Baltics","CEB",64402919.257034
-"2013","Switzerland","CHE",5959744.77204
-"2013","Channel Islands","CHI",50586.11053
-"2013","Chile","CHL",15330440.48706
-"2013","China","CHN",722694421.2
-"2013","Cote d'Ivoire","CIV",10732981.79058
-"2013","Cameroon","CMR",11783317.329
-"2013","Congo, Dem. Rep.","COD",29704529.34108
-"2013","Congo, Rep.","COG",2987549.16639
-"2013","Colombia","COL",36759800.93012
-"2013","Comoros","COM",209276.64953
-"2013","Cabo Verde","CPV",324018.4158
-"2013","Costa Rica","CRI",3555160.6167
-"2013","Caribbean small states","CSS",3603784.37888104
-"2013","Cuba","CUB",8668176.83094
-"2013","Curacao","CUW",137738.37168
-"2013","Cayman Islands","CYM",59933
-"2013","Cyprus","CYP",767957.31642
-"2013","Czech Republic","CZE",7705909.9488
-"2013","Germany","DEU",62242277.939
-"2013","Djibouti","DJI",682098.83712
-"2013","Dominica","DMA",48990.32658
-"2013","Denmark","DNK",4901386.44144
-"2013","Dominican Republic","DOM",7711912.97274
-"2013","Algeria","DZA",26536380.3276
-"2013","East Asia & Pacific (excluding high income)","EAP",1021264683.78535
-"2013","Early-demographic dividend","EAR",1310270393.2235
-"2013","East Asia & Pacific","EAS",1234156240.37859
-"2013","Europe & Central Asia (excluding high income)","ECA",270503827.965849
-"2013","Europe & Central Asia","ECS",640234121.081523
-"2013","Ecuador","ECU",9915342.33125
-"2013","Egypt, Arab Rep.","EGY",37919407.38236
-"2013","Euro area","EMU",256110530.155478
-"2013","Spain","ESP",36891840.20985
-"2013","Estonia","EST",897845.91634
-"2013","Ethiopia","ETH",17717911.04975
-"2013","European Union","EUU",325389418.481756
-"2013","Fragile and conflict affected situations","FCS",325521828.93703
-"2013","Finland","FIN",4629924.915
-"2013","Fiji","FJI",464880.21012
-"2013","France","FRA",52228059.37475
-"2013","Faroe Islands","FRO",19813.29063
-"2013","Micronesia, Fed. Sts.","FSM",23678.8631
-"2013","Gabon","GAB",1583685.5292
-"2013","United Kingdom","GBR",52650594.69846
-"2013","Georgia","GEO",2107360.1058
-"2013","Ghana","GHA",14034998.47468
-"2013","Gibraltar","GIB",33694
-"2013","Guinea","GIN",3762925.01445
-"2013","Gambia, The","GMB",1135415.9656
-"2013","Guinea-Bissau","GNB",680895.7929
-"2013","Equatorial Guinea","GNQ",748579.96128
-"2013","Greece","GRC",8482138.96905
-"2013","Grenada","GRD",38829.42112
-"2013","Greenland","GRL",48321.77133
-"2013","Guatemala","GTM",7418337.47091
-"2013","Guam","GUM",151374.0106
-"2013","Guyana","GUY",200450.184
-"2013","High income","HIC",938915410.294694
-"2013","Hong Kong SAR, China","HKG",7178900
-"2013","Honduras","HND",4738709.05592
-"2013","Heavily indebted poor countries (HIPC)","HPC",229294869.900007
-"2013","Croatia","HRV",2370674.11434
-"2013","Haiti","HTI",5248179.0912
-"2013","Hungary","HUN",6920507.65146
-"2013","IBRD only","IBD",2370556738.11449
-"2013","IDA & IBRD total","IBT",2876502114.41692
-"2013","IDA total","IDA",505707083.893196
-"2013","IDA blend","IDB",195460752.000836
-"2013","Indonesia","IDN",130825450.8887
-"2013","IDA only","IDX",310197673.035075
-"2013","Isle of Man","IMN",43752.8256
-"2013","India","IND",409907903.34357
-"2013","Ireland","IRL",2873285.50056
-"2013","Iran, Islamic Rep.","IRN",55292635.15085
-"2013","Iraq","IRQ",23075656.60295
-"2013","Iceland","ISL",303149.94612
-"2013","Israel","ISR",7417238.445
-"2013","Italy","ITA",41548774.99092
-"2013","Jamaica","JAM",1553708.885
-"2013","Jordan","JOR",7592551.62
-"2013","Japan","JPN",116262975.7
-"2013","Kazakhstan","KAZ",9718100.42346
-"2013","Kenya","KEN",11286225.32884
-"2013","Kyrgyz Republic","KGZ",2031430.332
-"2013","Cambodia","KHM",3217888.5695
-"2013","Kiribati","KIR",53864.74249
-"2013","St. Kitts and Nevis","KNA",15583.56192
-"2013","Korea, Rep.","KOR",41240244.40647
-"2013","Kuwait","KWT",3526382
-"2013","Latin America & Caribbean (excluding high income)","LAC",434534011.283691
-"2013","Lao PDR","LAO",2084843.77344
-"2013","Lebanon","LBN",5191036.7464
-"2013","Liberia","LBR",2081047.87945
-"2013","Libya","LBY",4977654.846
-"2013","St. Lucia","LCA",32769.19805
-"2013","Latin America & Caribbean","LCN",483820695.912407
-"2013","Least developed countries: UN classification","LDC",278079607.055863
-"2013","Low income","LIC",172588108.494816
-"2013","Liechtenstein","LIE",5294.9796
-"2013","Sri Lanka","LKA",3746058.3
-"2013","Lower middle income","LMC",1181516364.78503
-"2013","Low & middle income","LMY",2830408562.18094
-"2013","Lesotho","LSO",529466.09328
-"2013","Late-demographic dividend","LTE",1291818382.24496
-"2013","Lithuania","LTU",1981237.55354
-"2013","Luxembourg","LUX",486709.2864
-"2013","Latvia","LVA",1367090.47475
-"2013","Macao SAR, China","MAC",577368
-"2013","Morocco","MAR",20128275.885
-"2013","Monaco","MCO",36899
-"2013","Moldova","MDA",1215715.94684
-"2013","Madagascar","MDG",7778815.32402
-"2013","Maldives","MDV",156615.8452
-"2013","Middle East & North Africa","MEA",261044560.078756
-"2013","Mexico","MEX",93515785.07442
-"2013","Marshall Islands","MHL",42669.00618
-"2013","Middle income","MIC",2660954431.31481
-"2013","North Macedonia","MKD",1180399.26048
-"2013","Mali","MLI",6316414.93892
-"2013","Malta","MLT",401597.42793
-"2013","Myanmar","MMR",15274180.32048
-"2013","Middle East & North Africa (excluding high income)","MNA",210563827.951439
-"2013","Montenegro","MNE",404635.60359
-"2013","Mongolia","MNG",1962407.76951
-"2013","Northern Mariana Islands","MNP",49959.3534
-"2013","Mozambique","MOZ",8527066.8672
-"2013","Mauritania","MRT",1882255.07082
-"2013","Mauritius","MUS",518841.93966
-"2013","Malawi","MWI",2528900.56242
-"2013","Malaysia","MYS",21491685.5439
-"2013","North America","NAC",285498217.720648
-"2013","Namibia","NAM",999627.94536
-"2013","New Caledonia","NCL",180544.8835
-"2013","Niger","NER",2999174.83696
-"2013","Nigeria","NGA",79214960.40642
-"2013","Nicaragua","NIC",3486218.7731
-"2013","Netherlands","NLD",14987368.76784
-"2013","Norway","NOR",4078226.12178
-"2013","Nepal","NPL",4795227.02925
-"2013","Nauru","NRU",10208
-"2013","New Zealand","NZL",3830023.041
-"2013","OECD members","OED",1046925416.28194
-"2013","Oman","OMN",2969753.4801
-"2013","Other small states","OSS",16537055.1616069
-"2013","Pakistan","PAK",68113708.34787
-"2013","Panama","PAN",2533389.45244
-"2013","Peru","PER",22922694.08154
-"2013","Philippines","PHL",45385011.26874
-"2013","Palau","PLW",13530.01786
-"2013","Papua New Guinea","PNG",1010776.99464
-"2013","Poland","POL",23025350.23684
-"2013","Pre-demographic dividend","PRE",307462591.723597
-"2013","Puerto Rico","PRI",3366210.11822
-"2013","Korea, Dem. People's Rep.","PRK",15186552.81
-"2013","Portugal","PRT",6520332.5784
-"2013","Paraguay","PRY",3918989.03781
-"2013","West Bank and Gaza","PSE",3051945.91004
-"2013","Pacific island small states","PSS",861866.827654635
-"2013","Post-demographic dividend","PST",874089275.818464
-"2013","French Polynesia","PYF",166478.55556
-"2013","Qatar","QAT",2308189.56515
-"2013","Romania","ROU",10778604.49341
-"2013","Russian Federation","RUS",105998571.71685
-"2013","Rwanda","RWA",1832231.34486
-"2013","South Asia","SAS",544896119.810515
-"2013","Saudi Arabia","SAU",24865072.7892
-"2013","Sudan","SDN",12421901.00385
-"2013","Senegal","SEN",6204711.71151
-"2013","Singapore","SGP",5399162
-"2013","Solomon Islands","SLB",122452.94457
-"2013","Sierra Leone","SLE",2748061.031
-"2013","El Salvador","SLV",4263187.46736
-"2013","San Marino","SMR",31372.2898
-"2013","Somalia","SOM",5502043.16187
-"2013","Serbia","SRB",3973872.37908
-"2013","Sub-Saharan Africa (excluding high income)","SSA",354072233.776991
-"2013","South Sudan","SSD",1906878.7745
-"2013","Sub-Saharan Africa","SSF",354121289.282593
-"2013","Small states","SST",21002706.3682792
-"2013","Sao Tome and Principe","STP",131011.19808
-"2013","Suriname","SUR",361980.913
-"2013","Slovak Republic","SVK",2930810.9702
-"2013","Slovenia","SVN",1098614.13396
-"2013","Sweden","SWE",8250181.69744
-"2013","Eswatini","SWZ",249963.02157
-"2013","Sint Maarten (Dutch part)","SXM",36607
-"2013","Seychelles","SYC",49055.48613
-"2013","Syrian Arab Republic","SYR",10284372.40514
-"2013","Turks and Caicos Islands","TCA",31774.79039
-"2013","Chad","TCD",2941281.93384
-"2013","East Asia & Pacific (IDA & IBRD countries)","TEA",1006048593.94834
-"2013","Europe & Central Asia (IDA & IBRD countries)","TEC",293310158.709784
-"2013","Togo","TGO",2716583.56981
-"2013","Thailand","THA",31477997.66167
-"2013","Tajikistan","TJK",2143015.43598
-"2013","Turkmenistan","TKM",2658556.33416
-"2013","Latin America & the Caribbean (IDA & IBRD countries)","TLA",470938413.46372
-"2013","Timor-Leste","TLS",331904.75352
-"2013","Middle East & North Africa (IDA & IBRD countries)","TMN",207511882.063144
-"2013","Tonga","TON",23795.39376
-"2013","South Asia (IDA & IBRD)","TSA",544896119.810515
-"2013","Sub-Saharan Africa (IDA & IBRD countries)","TSS",354121289.282593
-"2013","Trinidad and Tobago","TTO",724639.8924
-"2013","Tunisia","TUN",7392692.92755
-"2013","Turkey","TUR",55069491.04074
-"2013","Tuvalu","TUV",6272.24086
-"2013","Tanzania","TZA",14639966.53872
-"2013","Uganda","UGA",7480857.29202
-"2013","Ukraine","UKR",31330995.06
-"2013","Upper middle income","UMC",1482422546.08696
-"2013","Uruguay","URY",3214642.78548
-"2013","United States","USA",256953576.31153
-"2013","Uzbekistan","UZB",15408910.4
-"2013","St. Vincent and the Grenadines","VCT",54479.28096
-"2013","Venezuela, RB","VEN",26246929.27118
-"2013","British Virgin Islands","VGB",13229.456
-"2013","Virgin Islands (U.S.)","VIR",102714.5787
-"2013","Vietnam","VNM",29430158.38397
-"2013","Vanuatu","VUT",63545.88757
-"2013","World","WLD",3803429136.30051
-"2013","Samoa","WSM",36969.5212
-"2013","Yemen, Rep.","YEM",8439119.31608
-"2013","South Africa","ZAF",34248627.65125
-"2013","Zambia","ZMB",6099735.06615
-"2013","Zimbabwe","ZWE",4359432.43212
-"2014","Aruba","ABW",44666.22816
-"2014","Africa Eastern and Southern","AFE",196270603.761613
-"2014","Afghanistan","AFG",8204879.57948
-"2014","Africa Western and Central","AFW",172602708.937379
-"2014","Angola","AGO",16900843.62063
-"2014","Albania","ALB",1630119.14992
-"2014","Andorra","AND",70056.76933
-"2014","Arab World","ARB",223788435.305793
-"2014","United Arab Emirates","ARE",7866607.8825
-"2014","Argentina","ARG",38990109.015
-"2014","Armenia","ARM",1838075.78136
-"2014","American Samoa","ASM",48698.84808
-"2014","Antigua and Barbuda","ATG",23302.4835
-"2014","Australia","AUS",20095656.72972
-"2014","Austria","AUT",4916376.75256
-"2014","Azerbaijan","AZE",5189180.69338
-"2014","Burundi","BDI",1159264.88576
-"2014","Belgium","BEL",10966156.73481
-"2014","Benin","BEN",4646153.70274
-"2014","Burkina Faso","BFA",4736621.05086
-"2014","Bangladesh","BGD",51817405.05975
-"2014","Bulgaria","BGR",5320502.57638
-"2014","Bahrain","BHR",1187969.30795
-"2014","Bahamas, The","BHS",306388.275
-"2014","Bosnia and Herzegovina","BIH",1631018.4504
-"2014","Belarus","BLR",7246349.60895
-"2014","Belize","BLZ",160198.4761
-"2014","Bermuda","BMU",65138
-"2014","Bolivia","BOL",7285463.62299
-"2014","Brazil","BRA",173346780.02048
-"2014","Barbados","BRB",89229.976
-"2014","Brunei Darussalam","BRN",312791.74296
-"2014","Bhutan","BTN",272650.51654
-"2014","Botswana","BWA",1386174.65792
-"2014","Central African Republic","CAF",1783838.08989
-"2014","Canada","CAN",28781575.9583
-"2014","Central Europe and the Baltics","CEB",64285249.3575192
-"2014","Switzerland","CHE",6034706.76704
-"2014","Channel Islands","CHI",50864.96465
-"2014","Chile","CHL",15504112.70607
-"2014","China","CHN",744357517.4
-"2014","Cote d'Ivoire","CIV",11100529.95408
-"2014","Cameroon","CMR",12242756.97528
-"2014","Congo, Dem. Rep.","COD",31115108.301
-"2014","Congo, Rep.","COG",3083053.67025
-"2014","Colombia","COL",37299403.7199
-"2014","Comoros","COM",215195.9382
-"2014","Cabo Verde","CPV",330711.9156
-"2014","Costa Rica","CRI",3641667.1199
-"2014","Caribbean small states","CSS",3635508.44308046
-"2014","Cuba","CUB",8690603.32649
-"2014","Curacao","CUW",139449.68687
-"2014","Cayman Islands","CYM",60848
-"2014","Cyprus","CYP",772396.20207
-"2014","Czech Republic","CZE",7723920.64248
-"2014","Germany","DEU",62510391.75
-"2014","Djibouti","DJI",694826.32998
-"2014","Dominica","DMA",49251.8448
-"2014","Denmark","DNK",4932961.4975
-"2014","Dominican Republic","DOM",7895296.8594
-"2014","Algeria","DZA",27332602.95048
-"2014","East Asia & Pacific (excluding high income)","EAP",1050029718.16293
-"2014","Early-demographic dividend","EAR",1340608330.57719
-"2014","East Asia & Pacific","EAS",1263762179.39704
-"2014","Europe & Central Asia (excluding high income)","ECA",272826508.3927
-"2014","Europe & Central Asia","ECS",644882053.261917
-"2014","Ecuador","ECU",10091288.44152
-"2014","Egypt, Arab Rep.","EGY",38737023.52452
-"2014","Euro area","EMU",257664866.167904
-"2014","Spain","ESP",36890016.80812
-"2014","Estonia","EST",897426.72605
-"2014","Ethiopia","ETH",18635948.27472
-"2014","European Union","EUU",326995181.612699
-"2014","Fragile and conflict affected situations","FCS",336166576.725975
-"2014","Finland","FIN",4651842.846
-"2014","Fiji","FJI",469752.90552
-"2014","France","FRA",52647802.47398
-"2014","Faroe Islands","FRO",19905.95465
-"2014","Micronesia, Fed. Sts.","FSM",24066.38156
-"2014","Gabon","GAB",1651170.41451
-"2014","United Kingdom","GBR",53209682.7477
-"2014","Georgia","GEO",2122557.98738
-"2014","Ghana","GHA",14543044.9712
-"2014","Gibraltar","GIB",33726
-"2014","Guinea","GIN",3884551.9092
-"2014","Gambia, The","GMB",1184628.37536
-"2014","Guinea-Bissau","GNB",705998.42595
-"2014","Equatorial Guinea","GNQ",786522.58659
-"2014","Greece","GRC",8463622.74926
-"2014","Grenada","GRD",39136.482
-"2014","Greenland","GRL",48308.42835
-"2014","Guatemala","GTM",7597136.88344
-"2014","Guam","GUM",152069.50143
-"2014","Guyana","GUY",201636.81594
-"2014","High income","HIC",946558833.21196
-"2014","Hong Kong SAR, China","HKG",7229500
-"2014","Honduras","HND",4882044.33606
-"2014","Heavily indebted poor countries (HIPC)","HPC",238840219.706465
-"2014","Croatia","HRV",2370234.28047
-"2014","Haiti","HTI",5426831.16108
-"2014","Hungary","HUN",6928924.48236
-"2014","IBRD only","IBD",2423507358.0961
-"2014","IDA & IBRD total","IBT",2947417653.39068
-"2014","IDA total","IDA",523670857.480186
-"2014","IDA blend","IDB",202346504.577196
-"2014","Indonesia","IDN",134286662.8026
-"2014","IDA only","IDX",321275622.993856
-"2014","Isle of Man","IMN",43549.01056
-"2014","India","IND",419567352.70912
-"2014","Ireland","IRL",2903635.116
-"2014","Iran, Islamic Rep.","IRN",56418319.5627
-"2014","Iraq","IRQ",24005087.38342
-"2014","Iceland","ISL",306652.64462
-"2014","Israel","ISR",7566988.328
-"2014","Italy","ITA",42109853.0608
-"2014","Jamaica","JAM",1569364.78008
-"2014","Jordan","JOR",8026939.8
-"2014","Japan","JPN",116208079.04
-"2014","Kazakhstan","KAZ",9874722.6263
-"2014","Kenya","KEN",11778222.88923
-"2014","Kyrgyz Republic","KGZ",2079480.425
-"2014","Cambodia","KHM",3329689.56294
-"2014","Kiribati","KIR",55539.06151
-"2014","St. Kitts and Nevis","KNA",15682.1676
-"2014","Korea, Rep.","KOR",41463572.66913
-"2014","Kuwait","KWT",3690939
-"2014","Latin America & Caribbean (excluding high income)","LAC",440864094.449748
-"2014","Lao PDR","LAO",2157059.80581
-"2014","Lebanon","LBN",5506402.12562
-"2014","Liberia","LBR",2153466.16676
-"2014","Libya","LBY",5026583.39351
-"2014","St. Lucia","LCA",32954.69974
-"2014","Latin America & Caribbean","LCN",490520420.17143
-"2014","Least developed countries: UN classification","LDC",289385870.802361
-"2014","Low income","LIC",178584180.373958
-"2014","Liechtenstein","LIE",5327.15547
-"2014","Sri Lanka","LKA",3785336.04
-"2014","Lower middle income","LMC",1213182027.42567
-"2014","Low & middle income","LMY",2901311264.2113
-"2014","Lesotho","LSO",541554.58896
-"2014","Late-demographic dividend","LTE",1320690276.99396
-"2014","Lithuania","LTU",1967852.84636
-"2014","Luxembourg","LUX",500041.76996
-"2014","Latvia","LVA",1354814.74464
-"2014","Macao SAR, China","MAC",590210
-"2014","Morocco","MAR",20602947.23648
-"2014","Monaco","MCO",37320
-"2014","Moldova","MDA",1214089.472
-"2014","Madagascar","MDG",8146535.02998
-"2014","Maldives","MDV",165767.95908
-"2014","Middle East & North Africa","MEA",267471774.239164
-"2014","Mexico","MEX",95072133.37041
-"2014","Marshall Islands","MHL",43106.83272
-"2014","Middle income","MIC",2726010902.443
-"2014","North Macedonia","MKD",1184330.08764
-"2014","Mali","MLI",6637534.12748
-"2014","Malta","MLT",409992.43626
-"2014","Myanmar","MMR",15501261.944
-"2014","Middle East & North Africa (excluding high income)","MNA",215441856.09342
-"2014","Montenegro","MNE",407105.2251
-"2014","Mongolia","MNG",2004067.86093
-"2014","Northern Mariana Islands","MNP",50474.88173
-"2014","Mozambique","MOZ",8905236.12576
-"2014","Mauritania","MRT",1973426.71482
-"2014","Mauritius","MUS",518382.57674
-"2014","Malawi","MWI",2627830.206
-"2014","Malaysia","MYS",21974952.69662
-"2014","North America","NAC",288277446.414461
-"2014","Namibia","NAM",1041820.19876
-"2014","New Caledonia","NCL",184769.5455
-"2014","Niger","NER",3120565.11858
-"2014","Nigeria","NGA",82878564.68242
-"2014","Nicaragua","NIC",3544357.518
-"2014","Netherlands","NLD",15126225.6752
-"2014","Norway","NOR",4145335.24544
-"2014","Nepal","NPL",4892045.64724
-"2014","Nauru","NRU",10289
-"2014","New Zealand","NZL",3896881.365
-"2014","OECD members","OED",1056485125.1324
-"2014","Oman","OMN",3227643.51975
-"2014","Other small states","OSS",17034202.8354386
-"2014","Pakistan","PAK",69956302.24828
-"2014","Panama","PAN",2589339.12381
-"2014","Peru","PER",23221642.78356
-"2014","Philippines","PHL",46329520.23741
-"2014","Palau","PLW",13662.37125
-"2014","Papua New Guinea","PNG",1032121.68204
-"2014","Poland","POL",22960228.29205
-"2014","Pre-demographic dividend","PRE",320962177.042093
-"2014","Puerto Rico","PRI",3310444.84974
-"2014","Korea, Dem. People's Rep.","PRK",15309810.36714
-"2014","Portugal","PRT",6546012.38032
-"2014","Paraguay","PRY",3990996.14376
-"2014","West Bank and Gaza","PSE",3134764.43974
-"2014","Pacific island small states","PSS",877394.007010047
-"2014","Post-demographic dividend","PST",879909131.042036
-"2014","French Polynesia","PYF",167464.87329
-"2014","Qatar","QAT",2431363.83336
-"2014","Romania","ROU",10730939.681
-"2014","Russian Federation","RUS",106354643.7465
-"2014","Rwanda","RWA",1880559.33243
-"2014","South Asia","SAS",558661739.744124
-"2014","Saudi Arabia","SAU",25648413.8488
-"2014","Sudan","SDN",12794292.86673
-"2014","Senegal","SEN",6440434.8664
-"2014","Singapore","SGP",5469724
-"2014","Solomon Islands","SLB",128546.81784
-"2014","Sierra Leone","SLE",2837175.30096
-"2014","El Salvador","SLV",4335703.70376
-"2014","San Marino","SMR",31807.50019
-"2014","Somalia","SOM",5729045.86709
-"2014","Serbia","SRB",3963388.05808
-"2014","Sub-Saharan Africa (excluding high income)","SSA",368823093.574384
-"2014","South Sudan","SSD",1965952.32132
-"2014","Sub-Saharan Africa","SSF",368873312.658412
-"2014","Small states","SST",21547105.2875544
-"2014","Sao Tome and Principe","STP",135468.52851
-"2014","Suriname","SUR",365655.89742
-"2014","Slovak Republic","SVK",2926070.46
-"2014","Slovenia","SVN",1104334.6286
-"2014","Sweden","SWE",8362603.9917
-"2014","Eswatini","SWZ",253486.64278
-"2014","Sint Maarten (Dutch part)","SXM",37685
-"2014","Seychelles","SYC",50219.12871
-"2014","Syrian Arab Republic","SYR",9636016.165
-"2014","Turks and Caicos Islands","TCA",32488.61721
-"2014","Chad","TCD",3056812.09064
-"2014","East Asia & Pacific (IDA & IBRD countries)","TEA",1034690609.28285
-"2014","Europe & Central Asia (IDA & IBRD countries)","TEC",295537134.809147
-"2014","Togo","TGO",2825147.83263
-"2014","Thailand","THA",32127201.47364
-"2014","Tajikistan","TJK",2199791.3034
-"2014","Turkmenistan","TKM",2728843.60404
-"2014","Latin America & the Caribbean (IDA & IBRD countries)","TLA",477663821.680632
-"2014","Timor-Leste","TLS",342118.43289
-"2014","Middle East & North Africa (IDA & IBRD countries)","TMN",212307091.666404
-"2014","Tonga","TON",23566.64544
-"2014","South Asia (IDA & IBRD)","TSA",558661739.744124
-"2014","Sub-Saharan Africa (IDA & IBRD countries)","TSS",368873312.658412
-"2014","Trinidad and Tobago","TTO",727665.06181
-"2014","Tunisia","TUN",7497748.5154
-"2014","Turkey","TUR",56436827.79174
-"2014","Tuvalu","TUV",6450.58778
-"2014","Tanzania","TZA",15439812.38952
-"2014","Uganda","UGA",7937455.4112
-"2014","Ukraine","UKR",31223299.8604
-"2014","Upper middle income","UMC",1515913362.62668
-"2014","Uruguay","URY",3228546.80855
-"2014","United States","USA",259430732.45907
-"2014","Uzbekistan","UZB",15640290.45
-"2014","St. Vincent and the Grenadines","VCT",55041.48344
-"2014","Venezuela, RB","VEN",26481078.12112
-"2014","British Virgin Islands","VGB",13395.7076
-"2014","Virgin Islands (U.S.)","VIR",102717.68866
-"2014","Vietnam","VNM",30371041.4275
-"2014","Vanuatu","VUT",65605.19568
-"2014","World","WLD",3882113082.89011
-"2014","Samoa","WSM",36808.2078
-"2014","Yemen, Rep.","YEM",8822594.6752
-"2014","South Africa","ZAF",35078455.61408
-"2014","Zambia","ZMB",6372742.33926
-"2014","Zimbabwe","ZWE",4416224.2184
-"2015","Aruba","ABW",44978.45612
-"2015","Africa Eastern and Southern","AFE",204322107.278217
-"2015","Afghanistan","AFG",8535605.95209
-"2015","Africa Western and Central","AFW",179836016.102518
-"2015","Angola","AGO",17691523.7348
-"2015","Albania","ALB",1654502.96102
-"2015","Andorra","AND",68902.91585
-"2015","Arab World","ARB",229821029.439235
-"2015","United Arab Emirates","ARE",7935893.51904
-"2015","Argentina","ARG",39467042.84898
-"2015","Armenia","ARM",1845588.89515
-"2015","American Samoa","ASM",48684.03828
-"2015","Antigua and Barbuda","ATG",23392.75
-"2015","Australia","AUS",20410545.87495
-"2015","Austria","AUT",4988133.72785
-"2015","Azerbaijan","AZE",5279540.43474
-"2015","Burundi","BDI",1227128.90652
-"2015","Belgium","BEL",11034732.07696
-"2015","Benin","BEN",4832685.8359
-"2015","Burkina Faso","BFA",4985852.5848
-"2015","Bangladesh","BGD",53608406.94396
-"2015","Bulgaria","BGR",5310995.5409
-"2015","Bahrain","BHR",1220935.45147
-"2015","Bahamas, The","BHS",309635.532
-"2015","Bosnia and Herzegovina","BIH",1617732.93626
-"2015","Belarus","BLR",7302153.06756
-"2015","Belize","BLZ",163882.05956
-"2015","Bermuda","BMU",65237
-"2015","Bolivia","BOL",7434135.80676
-"2015","Brazil","BRA",175375427.6943
-"2015","Barbados","BRB",89161.83423
-"2015","Brunei Darussalam","BRN",318085.51982
-"2015","Bhutan","BTN",281531.3603
-"2015","Botswana","BWA",1424166.8298
-"2015","Central African Republic","CAF",1809714.48367
-"2015","Canada","CAN",29011826.01172
-"2015","Central Europe and the Baltics","CEB",64165144.7283802
-"2015","Switzerland","CHE",6105616.68328
-"2015","Channel Islands","CHI",51207.12294
-"2015","Chile","CHL",15698029.4016
-"2015","China","CHN",765822300
-"2015","Cote d'Ivoire","CIV",11483936.61712
-"2015","Cameroon","CMR",12715787.65328
-"2015","Congo, Dem. Rep.","COD",32586912.9768
-"2015","Congo, Rep.","COG",3182829.03499
-"2015","Colombia","COL",37904384.82588
-"2015","Comoros","COM",221335.7445
-"2015","Cabo Verde","CPV",337407.82
-"2015","Costa Rica","CRI",3726119.8791
-"2015","Caribbean small states","CSS",3667761.48878138
-"2015","Cuba","CUB",8708300.52192
-"2015","Curacao","CUW",141158.2896
-"2015","Cayman Islands","CYM",61721
-"2015","Cyprus","CYP",777234.35702
-"2015","Czech Republic","CZE",7748927.77143
-"2015","Germany","DEU",63062063.692
-"2015","Djibouti","DJI",707589.83166
-"2015","Dominica","DMA",49522.85325
-"2015","Denmark","DNK",4974525.33058
-"2015","Dominican Republic","DOM",8077900.7805
-"2015","Algeria","DZA",28146507.6096
-"2015","East Asia & Pacific (excluding high income)","EAP",1078620830.91047
-"2015","Early-demographic dividend","EAR",1371521457.51958
-"2015","East Asia & Pacific","EAS",1293210147.82728
-"2015","Europe & Central Asia (excluding high income)","ECA",275206585.377171
-"2015","Europe & Central Asia","ECS",649579040.919721
-"2015","Ecuador","ECU",10278097.70756
-"2015","Egypt, Arab Rep.","EGY",39551544.58965
-"2015","Euro area","EMU",259162924.070536
-"2015","Spain","ESP",36971015.16864
-"2015","Estonia","EST",899948.85312
-"2015","Ethiopia","ETH",19590311.80884
-"2015","European Union","EUU",328554221.151581
-"2015","Fragile and conflict affected situations","FCS",347234092.78094
-"2015","Finland","FIN",4669930.29475
-"2015","Fiji","FJI",475367.54832
-"2015","France","FRA",53009026.0616
-"2015","Faroe Islands","FRO",20009.1409
-"2015","Micronesia, Fed. Sts.","FSM",24451.44016
-"2015","Gabon","GAB",1716265.4742
-"2015","United Kingdom","GBR",53802927.11094
-"2015","Georgia","GEO",2140096.55648
-"2015","Ghana","GHA",15062519.93458
-"2015","Gibraltar","GIB",33742
-"2015","Guinea","GIN",4017352.85536
-"2015","Gambia, The","GMB",1235413.1608
-"2015","Guinea-Bissau","GNB",731763.70461
-"2015","Equatorial Guinea","GNQ",825200.922
-"2015","Greece","GRC",8445266.34618
-"2015","Grenada","GRD",39453.79191
-"2015","Greenland","GRL",48297.88094
-"2015","Guatemala","GTM",7779194.94849
-"2015","Guam","GUM",153004.22434
-"2015","Guyana","GUY",202916.95953
-"2015","High income","HIC",954153648.399637
-"2015","Hong Kong SAR, China","HKG",7291300
-"2015","Honduras","HND",5027133.4916
-"2015","Heavily indebted poor countries (HIPC)","HPC",248770230.340203
-"2015","Croatia","HRV",2360533.8262
-"2015","Haiti","HTI",5607350.7558
-"2015","Hungary","HUN",6939334.74
-"2015","IBRD only","IBD",2476317764.45888
-"2015","IDA & IBRD total","IBT",3019221713.60136
-"2015","IDA total","IDA",542666399.158624
-"2015","IDA blend","IDB",209437701.890978
-"2015","Indonesia","IDN",137751865.80441
-"2015","IDA only","IDX",333180666.466744
-"2015","Isle of Man","IMN",43484.5584
-"2015","India","IND",429428649.52584
-"2015","Ireland","IRL",2940509.86866
-"2015","Iran, Islamic Rep.","IRN",57580313.94464
-"2015","Iraq","IRQ",24872486.20749
-"2015","Iceland","ISL",309973.655
-"2015","Israel","ISR",7724692.379
-"2015","Italy","ITA",42247229.3683
-"2015","Jamaica","JAM",1585235.18992
-"2015","Jordan","JOR",8363638.12688
-"2015","Japan","JPN",116182717.21
-"2015","Kazakhstan","KAZ",10032906.17946
-"2015","Kenya","KEN",12284624.22062
-"2015","Kyrgyz Republic","KGZ",2131200.113
-"2015","Cambodia","KHM",3443895.9978
-"2015","Kiribati","KIR",57259.40813
-"2015","St. Kitts and Nevis","KNA",15784.65708
-"2015","Korea, Rep.","KOR",41645541.83398
-"2015","Kuwait","KWT",3835588
-"2015","Latin America & Caribbean (excluding high income)","LAC",447289586.288163
-"2015","Lao PDR","LAO",2231863.2528
-"2015","Lebanon","LBN",5755683.92186
-"2015","Liberia","LBR",2228064.4878
-"2015","Libya","LBY",5087798.3005
-"2015","St. Lucia","LCA",33166.10465
-"2015","Latin America & Caribbean","LCN",497137078.651283
-"2015","Least developed countries: UN classification","LDC",301106289.766775
-"2015","Low income","LIC",185246083.406363
-"2015","Liechtenstein","LIE",5358.61895
-"2015","Sri Lanka","LKA",3828283.2
-"2015","Lower middle income","LMC",1245536308.95877
-"2015","Low & middle income","LMY",2973276192.6533
-"2015","Lesotho","LSO",554038.67988
-"2015","Late-demographic dividend","LTE",1349370076.09803
-"2015","Lithuania","LTU",1952970.993
-"2015","Luxembourg","LUX",513663.19116
-"2015","Latvia","LVA",1344322.8546
-"2015","Macao SAR, China","MAC",602093
-"2015","Morocco","MAR",21078593.38872
-"2015","Monaco","MCO",37723
-"2015","Moldova","MDA",1204391.797
-"2015","Madagascar","MDG",8528699.7744
-"2015","Maldives","MDV",175273.81506
-"2015","Middle East & North Africa","MEA",274105310.008124
-"2015","Mexico","MEX",96615314.30535
-"2015","Marshall Islands","MHL",43548.87084
-"2015","Middle income","MIC",2791453631.55471
-"2015","North Macedonia","MKD",1188475.34208
-"2015","Mali","MLI",6973939.31052
-"2015","Malta","MLT",420192.33942
-"2015","Myanmar","MMR",15729410.57192
-"2015","Middle East & North Africa (excluding high income)","MNA",220575123.741294
-"2015","Montenegro","MNE",409417.95154
-"2015","Mongolia","MNG",2045830.8359
-"2015","Northern Mariana Islands","MNP",50958.02103
-"2015","Mozambique","MOZ",9302448.344
-"2015","Mauritania","MRT",2067216.25056
-"2015","Mauritius","MUS",517668.05
-"2015","Malawi","MWI",2731661.60465
-"2015","Malaysia","MYS",22464991.25545
-"2015","North America","NAC",291027806.791408
-"2015","Namibia","NAM",1085688.569
-"2015","New Caledonia","NCL",186421.373
-"2015","Niger","NER",3249670.18761
-"2015","Nigeria","NGA",86652535.24452
-"2015","Nicaragua","NIC",3602941.3243
-"2015","Netherlands","NLD",15275236.76679
-"2015","Norway","NOR",4207493.30237
-"2015","Nepal","NPL",5013179.67381
-"2015","Nauru","NRU",10374
-"2015","New Zealand","NZL",3979802.054
-"2015","OECD members","OED",1066089238.68845
-"2015","Oman","OMN",3471481.9035
-"2015","Other small states","OSS",17541693.3402814
-"2015","Pakistan","PAK",71845554.08778
-"2015","Panama","PAN",2646824.0904
-"2015","Peru","PER",23571249.56823
-"2015","Philippines","PHL",47262076.26504
-"2015","Palau","PLW",13806.78735
-"2015","Papua New Guinea","PNG",1054983.29264
-"2015","Poland","POL",22897449.42536
-"2015","Pre-demographic dividend","PRE",334869043.026205
-"2015","Puerto Rico","PRI",3251778.72768
-"2015","Korea, Dem. People's Rep.","PRK",15431896.73464
-"2015","Portugal","PRT",6578828.39064
-"2015","Paraguay","PRY",4063413.195
-"2015","West Bank and Gaza","PSE",3218282.93856
-"2015","Pacific island small states","PSS",894031.312809349
-"2015","Post-demographic dividend","PST",885744061.500025
-"2015","French Polynesia","PYF",168467.99277
-"2015","Qatar","QAT",2538639.7806
-"2015","Romania","ROU",10678040.99392
-"2015","Russian Federation","RUS",106703732.235
-"2015","Rwanda","RWA",1933195.98264
-"2015","South Asia","SAS",572716484.526845
-"2015","Saudi Arabia","SAU",26382762.8968
-"2015","Sudan","SDN",13185765.19512
-"2015","Senegal","SEN",6685968.739
-"2015","Singapore","SGP",5535002
-"2015","Solomon Islands","SLB",134860.5388
-"2015","Sierra Leone","SLE",2928218.72561
-"2015","El Salvador","SLV",4408609.337
-"2015","San Marino","SMR",32185.0653
-"2015","Somalia","SOM",5966600.8698
-"2015","Serbia","SRB",3951844.51568
-"2015","Sub-Saharan Africa (excluding high income)","SSA",384106369.237296
-"2015","South Sudan","SSD",2020115.65764
-"2015","Sub-Saharan Africa","SSF",384158123.41246
-"2015","Small states","SST",22103486.142128
-"2015","Sao Tome and Principe","STP",139954.32386
-"2015","Suriname","SUR",369342.87616
-"2015","Slovak Republic","SVK",2922832.12089
-"2015","Slovenia","SVN",1109787.60711
-"2015","Sweden","SWE",8481489.45858
-"2015","Eswatini","SWZ",257240.854
-"2015","Sint Maarten (Dutch part)","SXM",38825
-"2015","Seychelles","SYC",51754.126
-"2015","Syrian Arab Republic","SYR",9388889.37048
-"2015","Turks and Caicos Islands","TCA",33170.83905
-"2015","Chad","TCD",3177085.12065
-"2015","East Asia & Pacific (IDA & IBRD countries)","TEA",1063159932.96096
-"2015","Europe & Central Asia (IDA & IBRD countries)","TEC",297821517.110754
-"2015","Togo","TGO",2936587.962
-"2015","Thailand","THA",32772702.69186
-"2015","Tajikistan","TJK",2260773.76098
-"2015","Turkmenistan","TKM",2800283.44711
-"2015","Latin America & the Caribbean (IDA & IBRD countries)","TLA",484313415.600705
-"2015","Timor-Leste","TLS",352787.1006
-"2015","Middle East & North Africa (IDA & IBRD countries)","TMN",217356840.812019
-"2015","Tonga","TON",23456.545
-"2015","South Asia (IDA & IBRD)","TSA",572716484.526845
-"2015","Sub-Saharan Africa (IDA & IBRD countries)","TSS",384158123.41246
-"2015","Trinidad and Tobago","TTO",730647.31908
-"2015","Tunisia","TUN",7608627.45256
-"2015","Turkey","TUR",57806286.20343
-"2015","Tuvalu","TUV",6629.4327
-"2015","Tanzania","TZA",16277265.65646
-"2015","Uganda","UGA",8432533.6082
-"2015","Ukraine","UKR",31183828.80196
-"2015","Upper middle income","UMC",1549079523.40252
-"2015","Uruguay","URY",3242947.75585
-"2015","United States","USA",261950743.78974
-"2015","Uzbekistan","UZB",15884191.75
-"2015","St. Vincent and the Grenadines","VCT",55619.5614
-"2015","Venezuela, RB","VEN",26518333.77358
-"2015","British Virgin Islands","VGB",13578.01284
-"2015","Virgin Islands (U.S.)","VIR",102703.392
-"2015","Vietnam","VNM",31333194.65338
-"2015","Vanuatu","VUT",67676.26008
-"2015","World","WLD",3961607665.8698
-"2015","Samoa","WSM",36600.4814
-"2015","Yemen, Rep.","YEM",9215168.07537
-"2015","South Africa","ZAF",35905875.29532
-"2015","Zambia","ZMB",6654567.5859
-"2015","Zimbabwe","ZWE",4473871.8117
-"2016","Aruba","ABW",45293.2908
-"2016","Africa Eastern and Southern","AFE",212669775.235648
-"2016","Afghanistan","AFG",8852833.6056
-"2016","Africa Western and Central","AFW",187305753.252805
-"2016","Angola","AGO",18502163.77818
-"2016","Albania","ALB",1680246.96521
-"2016","Andorra","AND",68211.2916
-"2016","Arab World","ARB",235741358.605524
-"2016","United Arab Emirates","ARE",8047162.15875
-"2016","Argentina","ARG",39940546.48736
-"2016","Armenia","ARM",1852180.25054
-"2016","American Samoa","ASM",48603.29322
-"2016","Antigua and Barbuda","ATG",23484.4392
-"2016","Australia","AUS",20755798.206
-"2016","Austria","AUT",5058967.6054
-"2016","Azerbaijan","AZE",5368845.74052
-"2016","Burundi","BDI",1299253.68776
-"2016","Belgium","BEL",11095615.10818
-"2016","Benin","BEN",5026050.16488
-"2016","Burkina Faso","BFA",5245964.109
-"2016","Bangladesh","BGD",55423123.88533
-"2016","Bulgaria","BGR",5298038.81438
-"2016","Bahrain","BHR",1270238.9837
-"2016","Bahamas, The","BHS",313041.17936
-"2016","Bosnia and Herzegovina","BIH",1609084.45234
-"2016","Belarus","BLR",7354014.42519
-"2016","Belize","BLZ",167603.12505
-"2016","Bermuda","BMU",64554
-"2016","Bolivia","BOL",7583053.80636
-"2016","Brazil","BRA",177386816.64352
-"2016","Barbados","BRB",89148.97014
-"2016","Brunei Darussalam","BRN",323197.0909
-"2016","Bhutan","BTN",290468.44168
-"2016","Botswana","BWA",1467301.85025
-"2016","Central African Republic","CAF",1843116.08094
-"2016","Canada","CAN",29357012.931
-"2016","Central Europe and the Baltics","CEB",64046460.6534072
-"2016","Switzerland","CHE",6174415.70782
-"2016","Channel Islands","CHI",51628.9746
-"2016","Chile","CHL",15918734.92384
-"2016","China","CHN",787376534.4
-"2016","Cote d'Ivoire","CIV",11883013.95606
-"2016","Cameroon","CMR",13202430.47271
-"2016","Congo, Dem. Rep.","COD",34121208.5291
-"2016","Congo, Rep.","COG",3287507.16996
-"2016","Colombia","COL",38592067.45184
-"2016","Comoros","COM",227691.90543
-"2016","Cabo Verde","CPV",344093.7376
-"2016","Costa Rica","CRI",3808498.8396
-"2016","Caribbean small states","CSS",3700578.3594084
-"2016","Cuba","CUB",8720098.5844
-"2016","Curacao","CUW",142535.24608
-"2016","Cayman Islands","CYM",62564
-"2016","Cyprus","CYP",782634.10509
-"2016","Czech Republic","CZE",7773650.4524
-"2016","Germany","DEU",63592936.14856
-"2016","Djibouti","DJI",720325.82776
-"2016","Dominica","DMA",49829.3316
-"2016","Denmark","DNK",5020142.5242
-"2016","Dominican Republic","DOM",8259547.15768
-"2016","Algeria","DZA",28977623.49682
-"2016","East Asia & Pacific (excluding high income)","EAP",1107316051.58506
-"2016","Early-demographic dividend","EAR",1402685625.52146
-"2016","East Asia & Pacific","EAS",1322735963.34206
-"2016","Europe & Central Asia (excluding high income)","ECA",277561940.420165
-"2016","Europe & Central Asia","ECS",654266287.288067
-"2016","Ecuador","ECU",10477465.63944
-"2016","Egypt, Arab Rep.","EGY",40359122.37972
-"2016","Euro area","EMU",260648893.104866
-"2016","Spain","ESP",37112875.1008
-"2016","Estonia","EST",902145.0977
-"2016","Ethiopia","ETH",20581863.56226
-"2016","European Union","EUU",330129008.948104
-"2016","Fragile and conflict affected situations","FCS",358325895.84795
-"2016","Finland","FIN",4686119.63325
-"2016","Fiji","FJI",481873.4541
-"2016","France","FRA",53323902.19368
-"2016","Faroe Islands","FRO",20125.23421
-"2016","Micronesia, Fed. Sts.","FSM",24827.0309
-"2016","Gabon","GAB",1778160.22038
-"2016","United Kingdom","GBR",54382824.97398
-"2016","Georgia","GEO",2155877.06685
-"2016","Ghana","GHA",15593581.16303
-"2016","Gibraltar","GIB",33738
-"2016","Guinea","GIN",4162448.6964
-"2016","Gambia, The","GMB",1287718.11012
-"2016","Guinea-Bissau","GNB",758122.65322
-"2016","Equatorial Guinea","GNQ",864455.45978
-"2016","Greece","GRC",8446960.38777
-"2016","Grenada","GRD",39774.06936
-"2016","Greenland","GRL",48503.12636
-"2016","Guatemala","GTM",7964335.3311
-"2016","Guam","GUM",154176.50916
-"2016","Guyana","GUY",204272.34966
-"2016","High income","HIC",961799507.005259
-"2016","Hong Kong SAR, China","HKG",7336600
-"2016","Honduras","HND",5174308.25522
-"2016","Heavily indebted poor countries (HIPC)","HPC",259093102.645098
-"2016","Croatia","HRV",2354458.06647
-"2016","Haiti","HTI",5788113.58496
-"2016","Hungary","HUN",6946267.33917
-"2016","IBRD only","IBD",2529215924.98663
-"2016","IDA & IBRD total","IBT",3091840170.137
-"2016","IDA total","IDA",562386892.419959
-"2016","IDA blend","IDB",216720490.139963
-"2016","Indonesia","IDN",141211677.23754
-"2016","IDA only","IDX",345618752.801564
-"2016","Isle of Man","IMN",43599.62528
-"2016","India","IND",439501313.895
-"2016","Ireland","IRL",2983354.51895
-"2016","Iran, Islamic Rep.","IRN",58781876.5508
-"2016","Iraq","IRQ",25661856.39408
-"2016","Iceland","ISL",314423.74665
-"2016","Israel","ISR",7884197.76
-"2016","Italy","ITA",42351338.7279
-"2016","Jamaica","JAM",1601281.21716
-"2016","Jordan","JOR",8647202.08716
-"2016","Japan","JPN",116145369.92527
-"2016","Kazakhstan","KAZ",10189587.6552
-"2016","Kenya","KEN",12804902.16755
-"2016","Kyrgyz Republic","KGZ",2185215.48
-"2016","Cambodia","KHM",3560343.6078
-"2016","Kiribati","KIR",59021.4605
-"2016","St. Kitts and Nevis","KNA",15896.5691
-"2016","Korea, Rep.","KOR",41774264.48286
-"2016","Kuwait","KWT",3956862
-"2016","Latin America & Caribbean (excluding high income)","LAC",453834029.243814
-"2016","Lao PDR","LAO",2309515.28128
-"2016","Lebanon","LBN",5926427.26746
-"2016","Liberia","LBR",2305044.44152
-"2016","Libya","LBY",5163864.064
-"2016","St. Lucia","LCA",33409.59624
-"2016","Latin America & Caribbean","LCN",503658672.584687
-"2016","Least developed countries: UN classification","LDC",313252260.896074
-"2016","Low income","LIC",192278138.829759
-"2016","Liechtenstein","LIE",5385.79465
-"2016","Sri Lanka","LKA",3882481.33
-"2016","Lower middle income","LMC",1278470797.97422
-"2016","Low & middle income","LMY",3046239567.72373
-"2016","Lesotho","LSO",566838.94997
-"2016","Late-demographic dividend","LTE",1378184355.95223
-"2016","Lithuania","LTU",1932212.49546
-"2016","Luxembourg","LUX",526489.8644
-"2016","Latvia","LVA",1332896.66277
-"2016","Macao SAR, China","MAC",612824
-"2016","Morocco","MAR",21553481.7264
-"2016","Monaco","MCO",38070
-"2016","Moldova","MDA",1191230.4887
-"2016","Madagascar","MDG",8926125.3072
-"2016","Maldives","MDV",185228.2177
-"2016","Middle East & North Africa","MEA",280634586.433637
-"2016","Mexico","MEX",98145003.00683
-"2016","Marshall Islands","MHL",44001.08844
-"2016","Middle income","MIC",2857524426.85548
-"2016","North Macedonia","MKD",1192987.4187
-"2016","Mali","MLI",7326848.65784
-"2016","Malta","MLT",430220.3488
-"2016","Myanmar","MMR",15957056.76318
-"2016","Middle East & North Africa (excluding high income)","MNA",225664161.889283
-"2016","Montenegro","MNE",411597.42723
-"2016","Mongolia","MNG",2087400.82326
-"2016","Northern Mariana Islands","MNP",51379.07841
-"2016","Mozambique","MOZ",9719881.3518
-"2016","Mauritania","MRT",2163454.49784
-"2016","Mauritius","MUS",516886.8043
-"2016","Malawi","MWI",2839899.06018
-"2016","Malaysia","MYS",22964393.5568
-"2016","North America","NAC",293894567.020234
-"2016","Namibia","NAM",1130941.48284
-"2016","New Caledonia","NCL",188062.8635
-"2016","Niger","NER",3386493.7281
-"2016","Nigeria","NGA",90531025.58652
-"2016","Nicaragua","NIC",3661976.173
-"2016","Netherlands","NLD",15435425.0939
-"2016","Norway","NOR",4265347.80715
-"2016","Nepal","NPL",5164238.9106
-"2016","Nauru","NRU",10474
-"2016","New Zealand","NZL",4072982.4
-"2016","OECD members","OED",1075896851.82784
-"2016","Oman","OMN",3695354.025
-"2016","Other small states","OSS",18056014.1936218
-"2016","Pakistan","PAK",73783785.53304
-"2016","Panama","PAN",2705928.91971
-"2016","Peru","PER",23979739.05404
-"2016","Philippines","PHL",48177756.627
-"2016","Palau","PLW",13957.3545
-"2016","Papua New Guinea","PNG",1079465.463
-"2016","Poland","POL",22849638.95486
-"2016","Pre-demographic dividend","PRE",349167730.276706
-"2016","Puerto Rico","PRI",3188713.12544
-"2016","Korea, Dem. People's Rep.","PRK",15556874.75215
-"2016","Portugal","PRT",6617169.16872
-"2016","Paraguay","PRY",4136267.82828
-"2016","West Bank and Gaza","PSE",3302741.31264
-"2016","Pacific island small states","PSS",911923.876668043
-"2016","Post-demographic dividend","PST",891621393.709918
-"2016","French Polynesia","PYF",169506.74784
-"2016","Qatar","QAT",2628233.36685
-"2016","Romania","ROU",10619521.913
-"2016","Russian Federation","RUS",107050095.31108
-"2016","Rwanda","RWA",1990235.47424
-"2016","South Asia","SAS",587083473.807328
-"2016","Saudi Arabia","SAU",27058155.89643
-"2016","Sudan","SDN",13596342.61393
-"2016","Senegal","SEN",6941397.24144
-"2016","Singapore","SGP",5607283
-"2016","Solomon Islands","SLB",141374.33474
-"2016","Sierra Leone","SLE",3021536.62888
-"2016","El Salvador","SLV",4481140.14637
-"2016","San Marino","SMR",32467.7573
-"2016","Somalia","SOM",6215577.8316
-"2016","Serbia","SRB",3939249.5082
-"2016","Sub-Saharan Africa (excluding high income)","SSA",399922669.32545
-"2016","South Sudan","SSD",2068144.7184
-"2016","Sub-Saharan Africa","SSF",399975528.47454
-"2016","Small states","SST",22668516.427853
-"2016","Sao Tome and Principe","STP",144473.87332
-"2016","Suriname","SUR",373048.7332
-"2016","Slovak Republic","SVK",2922095.17188
-"2016","Slovenia","SVN",1115535.6884
-"2016","Sweden","SWE",8618397.7842
-"2016","Eswatini","SWZ",261331.85246
-"2016","Sint Maarten (Dutch part)","SXM",39969
-"2016","Seychelles","SYC",52859.11587
-"2016","Syrian Arab Republic","SYR",9227932.32445
-"2016","Turks and Caicos Islands","TCA",33822.36486
-"2016","Chad","TCD",3302147.18466
-"2016","East Asia & Pacific (IDA & IBRD countries)","TEA",1091730561.17686
-"2016","Europe & Central Asia (IDA & IBRD countries)","TEC",300106869.325075
-"2016","Togo","TGO",3051143.29856
-"2016","Thailand","THA",33415221.72224
-"2016","Tajikistan","TJK",2326256.52325
-"2016","Turkmenistan","TKM",2872407.56088
-"2016","Latin America & the Caribbean (IDA & IBRD countries)","TLA",490878147.91968
-"2016","Timor-Leste","TLS",363957.7665
-"2016","Middle East & North Africa (IDA & IBRD countries)","TMN",222361420.568269
-"2016","Tonga","TON",23487.42746
-"2016","South Asia (IDA & IBRD)","TSA",587083473.807328
-"2016","Sub-Saharan Africa (IDA & IBRD countries)","TSS",399975528.47454
-"2016","Trinidad and Tobago","TTO",733552.2975
-"2016","Tunisia","TUN",7725792.19932
-"2016","Turkey","TUR",59179591.66312
-"2016","Tuvalu","TUV",6811.6464
-"2016","Tanzania","TZA",17152407.85923
-"2016","Uganda","UGA",8970228.89952
-"2016","Ukraine","UKR",31122531.56642
-"2016","Upper middle income","UMC",1582270927.09914
-"2016","Uruguay","URY",3257862.81016
-"2016","United States","USA",264473000.0781
-"2016","Uzbekistan","UZB",16130961.35
-"2016","St. Vincent and the Grenadines","VCT",56236.48191
-"2016","Venezuela, RB","VEN",26318353.68085
-"2016","British Virgin Islands","VGB",13784.22735
-"2016","Virgin Islands (U.S.)","VIR",102656.2768
-"2016","Vietnam","VNM",32315314.1185
-"2016","Vanuatu","VUT",69754.06212
-"2016","World","WLD",4041931923.01073
-"2016","Samoa","WSM",36342.0174
-"2016","Yemen, Rep.","YEM",9615916.2474
-"2016","South Africa","ZAF",36726639.93309
-"2016","Zambia","ZMB",6944320.48662
-"2016","Zimbabwe","ZWE",4531237.96048
-"2017","Aruba","ABW",45613.93773
-"2017","Africa Eastern and Southern","AFE",221319466.301471
-"2017","Afghanistan","AFG",9164768.0275
-"2017","Africa Western and Central","AFW",195016097.528924
-"2017","Angola","AGO",19332894.85191
-"2017","Albania","ALB",1706344.97031
-"2017","Andorra","AND",67872.8555
-"2017","Arab World","ARB",241572839.334196
-"2017","United Arab Emirates","ARE",8182525.43088
-"2017","Argentina","ARG",40410673.64439
-"2017","Armenia","ARM",1858250.20267
-"2017","American Samoa","ASM",48481.3389
-"2017","Antigua and Barbuda","ATG",23582.38025
-"2017","Australia","AUS",21133981.8144
-"2017","Austria","AUT",5110857.99204
-"2017","Azerbaijan","AZE",5453517.48319
-"2017","Burundi","BDI",1375679.8906
-"2017","Belgium","BEL",11143218.52838
-"2017","Benin","BEN",5226413.79456
-"2017","Burkina Faso","BFA",5516711.82348
-"2017","Bangladesh","BGD",57259998.26218
-"2017","Bulgaria","BGR",5283538.86543
-"2017","Bahrain","BHR",1332507.51322
-"2017","Bahamas, The","BHS",316565.35825
-"2017","Bosnia and Herzegovina","BIH",1604580.41784
-"2017","Belarus","BLR",7390686.46526
-"2017","Belize","BLZ",171357.15775
-"2017","Bermuda","BMU",63873
-"2017","Bolivia","BOL",7732022.8524
-"2017","Brazil","BRA",179379296.01925
-"2017","Barbados","BRB",89186.09411
-"2017","Brunei Darussalam","BRN",328174.75072
-"2017","Bhutan","BTN",299470.29021
-"2017","Botswana","BWA",1514887.212
-"2017","Central African Republic","CAF",1883450.2254
-"2017","Canada","CAN",29729549.486
-"2017","Central Europe and the Baltics","CEB",63954110.9433967
-"2017","Switzerland","CHE",6234161.7024
-"2017","Channel Islands","CHI",52141.40724
-"2017","Chile","CHL",16159783.5815
-"2017","China","CHN",809246214
-"2017","Cote d'Ivoire","CIV",12298403.6685
-"2017","Cameroon","CMR",13702216.8639
-"2017","Congo, Dem. Rep.","COD",35717778.082
-"2017","Congo, Rep.","COG",3396520.77759
-"2017","Colombia","COL",39346013.10424
-"2017","Comoros","COM",234270.0976
-"2017","Cabo Verde","CPV",350777.22239
-"2017","Costa Rica","CRI",3888684.648
-"2017","Caribbean small states","CSS",3733891.73183477
-"2017","Cuba","CUB",8728618.32135
-"2017","Curacao","CUW",142880.90525
-"2017","Cayman Islands","CYM",63382
-"2017","Cyprus","CYP",788454.2666
-"2017","Czech Republic","CZE",7805452.1965
-"2017","Germany","DEU",63861626.31522
-"2017","Djibouti","DJI",733074.768
-"2017","Dominica","DMA",50151.3426
-"2017","Denmark","DNK",5059173.4986
-"2017","Dominican Republic","DOM",8439610.11747
-"2017","Algeria","DZA",29821727.65048
-"2017","East Asia & Pacific (excluding high income)","EAP",1136337865.93597
-"2017","Early-demographic dividend","EAR",1434129497.14386
-"2017","East Asia & Pacific","EAS",1352466475.08713
-"2017","Europe & Central Asia (excluding high income)","ECA",279838969.324104
-"2017","Europe & Central Asia","ECS",658673597.20725
-"2017","Ecuador","ECU",10687236.1652
-"2017","Egypt, Arab Rep.","EGY",41185808.0595
-"2017","Euro area","EMU",261954003.238124
-"2017","Spain","ESP",37311863.3888
-"2017","Estonia","EST",905266.76328
-"2017","Ethiopia","ETH",21609824.9706
-"2017","European Union","EUU",331549960.133977
-"2017","Fragile and conflict affected situations","FCS",369520977.535392
-"2017","Finland","FIN",4699883.5955
-"2017","Fiji","FJI",489113.7532
-"2017","France","FRA",53654868.436
-"2017","Faroe Islands","FRO",20255.35964
-"2017","Micronesia, Fed. Sts.","FSM",25199.10288
-"2017","Gabon","GAB",1837187.12512
-"2017","United Kingdom","GBR",54923317.13837
-"2017","Georgia","GEO",2170854.00924
-"2017","Ghana","GHA",16135329.55848
-"2017","Gibraltar","GIB",33723
-"2017","Guinea","GIN",4319326.00188
-"2017","Gambia, The","GMB",1341601.261
-"2017","Guinea-Bissau","GNB",785097.2997
-"2017","Equatorial Guinea","GNQ",904178.25168
-"2017","Greece","GRC",8466513.49596
-"2017","Grenada","GRD",40096.47336
-"2017","Greenland","GRL",48629.48154
-"2017","Guatemala","GTM",8153103.4424
-"2017","Guam","GUM",155572.46419
-"2017","Guyana","GUY",205727.35284
-"2017","High income","HIC",968870137.729639
-"2017","Hong Kong SAR, China","HKG",7391700
-"2017","Honduras","HND",5323339.56312
-"2017","Heavily indebted poor countries (HIPC)","HPC",269819312.072865
-"2017","Croatia","HRV",2337247.98177
-"2017","Haiti","HTI",5968477.16982
-"2017","Hungary","HUN",6955524.39892
-"2017","IBRD only","IBD",2582417028.3513
-"2017","IDA & IBRD total","IBT",3165486428.99807
-"2017","IDA total","IDA",582829157.371045
-"2017","IDA blend","IDB",224185928.296373
-"2017","Indonesia","IDN",144655573.14571
-"2017","IDA only","IDX",358595372.447271
-"2017","Isle of Man","IMN",43860.1338
-"2017","India","IND",449795397.744
-"2017","Ireland","IRL",3026106.52436
-"2017","Iran, Islamic Rep.","IRN",60016532.23872
-"2017","Iraq","IRQ",26391349.05342
-"2017","Iceland","ISL",322016.482
-"2017","Israel","ISR",8045512.688
-"2017","Italy","ITA",42462869.16096
-"2017","Jamaica","JAM",1617507.20544
-"2017","Jordan","JOR",8880356.2248
-"2017","Japan","JPN",116053379.28395
-"2017","Kazakhstan","KAZ",10342139.24736
-"2017","Kenya","KEN",13339740.80052
-"2017","Kyrgyz Republic","KGZ",2239719.57
-"2017","Cambodia","KHM",3678963.1074
-"2017","Kiribati","KIR",60800.17086
-"2017","St. Kitts and Nevis","KNA",16013.03828
-"2017","Korea, Rep.","KOR",41861498.32233
-"2017","Kuwait","KWT",4056102
-"2017","Latin America & Caribbean (excluding high income)","LAC",460465060.514948
-"2017","Lao PDR","LAO",2389617.69408
-"2017","Lebanon","LBN",6030303.35017
-"2017","Liberia","LBR",2383886.50128
-"2017","Libya","LBY",5252535.67691
-"2017","St. Lucia","LCA",33679.3446
-"2017","Latin America & Caribbean","LCN",510082570.645772
-"2017","Least developed countries: UN classification","LDC",325834452.62853
-"2017","Low income","LIC",199683225.246645
-"2017","Liechtenstein","LIE",5411.78575
-"2017","Sri Lanka","LKA",3942264.96
-"2017","Lower middle income","LMC",1312002844.51152
-"2017","Low & middle income","LMY",3120375693.01414
-"2017","Lesotho","LSO",579981.8236
-"2017","Late-demographic dividend","LTE",1407262740.98012
-"2017","Lithuania","LTU",1909624.56948
-"2017","Luxembourg","LUX",541037.76272
-"2017","Latvia","LVA",1322185.326
-"2017","Macao SAR, China","MAC",622578
-"2017","Morocco","MAR",22027644.58356
-"2017","Monaco","MCO",38392
-"2017","Moldova","MDA",1172512.59006
-"2017","Madagascar","MDG",9338862.02742
-"2017","Maldives","MDV",195481.5324
-"2017","Middle East & North Africa","MEA",287077016.246199
-"2017","Mexico","MEX",99655906.95642
-"2017","Marshall Islands","MHL",44488.33602
-"2017","Middle income","MIC",2924395306.53911
-"2017","North Macedonia","MKD",1197983.41496
-"2017","Mali","MLI",7695986.98388
-"2017","Malta","MLT",442474.33454
-"2017","Myanmar","MMR",16186648.01762
-"2017","Middle East & North Africa (excluding high income)","MNA",230739570.278009
-"2017","Montenegro","MNE",413734.89921
-"2017","Mongolia","MNG",2128678.89044
-"2017","Northern Mariana Islands","MNP",51762.9609
-"2017","Mozambique","MOZ",10157505.43185
-"2017","Mauritania","MRT",2262231.11568
-"2017","Mauritius","MUS",516480.59533
-"2017","Malawi","MWI",2953396.05802
-"2017","Malaysia","MYS",23467529.05785
-"2017","North America","NAC",296582138.296557
-"2017","Namibia","NAM",1177405.40115
-"2017","New Caledonia","NCL",189691.2
-"2017","Niger","NER",3531990.438
-"2017","Nigeria","NGA",94518523.18193
-"2017","Nicaragua","NIC",3722299.62057
-"2017","Netherlands","NLD",15602670.45792
-"2017","Norway","NOR",4320306.47128
-"2017","Nepal","NPL",5343055.39152
-"2017","Nauru","NRU",10577
-"2017","New Zealand","NZL",4162127.376
-"2017","OECD members","OED",1085327143.09853
-"2017","Oman","OMN",3898847.7656
-"2017","Other small states","OSS",18579119.503806
-"2017","Pakistan","PAK",75765181.0482
-"2017","Panama","PAN",2766521.5686
-"2017","Peru","PER",24438509.1828
-"2017","Philippines","PHL",49096822.98122
-"2017","Palau","PLW",14134.11285
-"2017","Papua New Guinea","PNG",1105551.73876
-"2017","Poland","POL",22824769.1673
-"2017","Pre-demographic dividend","PRE",363894614.087619
-"2017","Puerto Rico","PRI",3112035.40882
-"2017","Korea, Dem. People's Rep.","PRK",15684601.91248
-"2017","Portugal","PRT",6659349.956
-"2017","Paraguay","PRY",4209506.554
-"2017","West Bank and Gaza","PSE",3380929.7067
-"2017","Pacific island small states","PSS",930931.720950073
-"2017","Post-demographic dividend","PST",896927869.550441
-"2017","French Polynesia","PYF",170590.56672
-"2017","Qatar","QAT",2699605.01706
-"2017","Romania","ROU",10565369.3224
-"2017","Russian Federation","RUS",107349517.33788
-"2017","Rwanda","RWA",2051739.4
-"2017","South Asia","SAS",601765617.267088
-"2017","Saudi Arabia","SAU",27679871.24826
-"2017","Sudan","SDN",14027564.8926
-"2017","Senegal","SEN",7207006.0596
-"2017","Singapore","SGP",5612253
-"2017","Solomon Islands","SLB",148105.9458
-"2017","Sierra Leone","SLE",3117881.46572
-"2017","El Salvador","SLV",4553135.381
-"2017","San Marino","SMR",32685.11312
-"2017","Somalia","SOM",6476276.23515
-"2017","Serbia","SRB",3927608.38236
-"2017","Sub-Saharan Africa (excluding high income)","SSA",416281641.582005
-"2017","South Sudan","SSD",2110798.33804
-"2017","Sub-Saharan Africa","SSF",416335563.82471
-"2017","Small states","SST",23243942.9575652
-"2017","Sao Tome and Principe","STP",149035.65248
-"2017","Suriname","SUR",376764.56541
-"2017","Slovak Republic","SVK",2923641.59232
-"2017","Slovenia","SVN",1121490.75924
-"2017","Sweden","SWE",8764881.49908
-"2017","Eswatini","SWZ",265735.89
-"2017","Sint Maarten (Dutch part)","SXM",40574
-"2017","Seychelles","SYC",53922.23023
-"2017","Syrian Arab Republic","SYR",9146182.915
-"2017","Turks and Caicos Islands","TCA",34449.95772
-"2017","Chad","TCD",3432531.22938
-"2017","East Asia & Pacific (IDA & IBRD countries)","TEA",1120625098.3697
-"2017","Europe & Central Asia (IDA & IBRD countries)","TEC",302329420.305593
-"2017","Togo","TGO",3168846.69112
-"2017","Thailand","THA",34051229.964
-"2017","Tajikistan","TJK",2396074.4514
-"2017","Turkmenistan","TKM",2945219.40051
-"2017","Latin America & the Caribbean (IDA & IBRD countries)","TLA",497363309.486068
-"2017","Timor-Leste","TLS",375613.7112
-"2017","Middle East & North Africa (IDA & IBRD countries)","TMN",227358640.569271
-"2017","Tonga","TON",23632.84338
-"2017","South Asia (IDA & IBRD)","TSA",601765617.267088
-"2017","Sub-Saharan Africa (IDA & IBRD countries)","TSS",416335563.82471
-"2017","Trinidad and Tobago","TTO",736389.123
-"2017","Tunisia","TUN",7848140.51196
-"2017","Turkey","TUR",60548563.68444
-"2017","Tuvalu","TUV",6992.8845
-"2017","Tanzania","TZA",18066883.83285
-"2017","Uganda","UGA",9549001.75248
-"2017","Ukraine","UKR",31043767.7421
-"2017","Upper middle income","UMC",1615646657.57338
-"2017","Uruguay","URY",3273060.698
-"2017","United States","USA",266788715.79424
-"2017","Uzbekistan","UZB",16372437.3
-"2017","St. Vincent and the Grenadines","VCT",56872.29584
-"2017","Venezuela, RB","VEN",25927988.9384
-"2017","British Virgin Islands","VGB",13996.13079
-"2017","Virgin Islands (U.S.)","VIR",102563.85443
-"2017","Vietnam","VNM",33311724.41959
-"2017","Vanuatu","VUT",71840.11337
-"2017","World","WLD",4122672113.63317
-"2017","Samoa","WSM",36047.45816
-"2017","Yemen, Rep.","YEM",10024985.52976
-"2017","South Africa","ZAF",37540921.0335
-"2017","Zambia","ZMB",7243006.57408
-"2017","Zimbabwe","ZWE",4589452.41963
-"2018","Aruba","ABW",45948.80706
-"2018","Africa Eastern and Southern","AFE",230276235.772887
-"2018","Afghanistan","AFG",9476981.5139
-"2018","Africa Western and Central","AFW",202961119.076918
-"2018","Angola","AGO",20184723.85518
-"2018","Albania","ALB",1728969.33944
-"2018","Andorra","AND",67814.78496
-"2018","Arab World","ARB",247404481.367401
-"2018","United Arab Emirates","ARE",8332904.40252
-"2018","Argentina","ARG",40877098.9874
-"2018","Armenia","ARM",1863994.92409
-"2018","American Samoa","ASM",48335.92533
-"2018","Antigua and Barbuda","ATG",23684.40918
-"2018","Australia","AUS",21488109.60256
-"2018","Austria","AUT",5153758.52737
-"2018","Azerbaijan","AZE",5534464.4928
-"2018","Burundi","BDI",1456375.39128
-"2018","Belgium","BEL",11198627.19054
-"2018","Benin","BEN",5433799.7592
-"2018","Burkina Faso","BFA",5798635.38828
-"2018","Bangladesh","BGD",59115517.50616
-"2018","Bulgaria","BGR",5269339.75296
-"2018","Bahrain","BHR",1401305.8928
-"2018","Bahamas, The","BHS",320173.45875
-"2018","Bosnia and Herzegovina","BIH",1603629.54605
-"2018","Belarus","BLR",7418413.07075
-"2018","Belize","BLZ",175155.38404
-"2018","Bermuda","BMU",63919
-"2018","Bolivia","BOL",7881917.445
-"2018","Brazil","BRA",181335495.6308
-"2018","Barbados","BRB",89279.7608
-"2018","Brunei Darussalam","BRN",332997.3584
-"2018","Bhutan","BTN",308510.2442
-"2018","Botswana","BWA",1565359.36882
-"2018","Central African Republic","CAF",1930199.355
-"2018","Canada","CAN",30175055.53524
-"2018","Central Europe and the Baltics","CEB",63915976.1831444
-"2018","Switzerland","CHE",6283319.37213
-"2018","Channel Islands","CHI",52707.13344
-"2018","Chile","CHL",16400006.91624
-"2018","China","CHN",829760595.2
-"2018","Cote d'Ivoire","CIV",12729902.27054
-"2018","Cameroon","CMR",14215414.97614
-"2018","Congo, Dem. Rep.","COD",37376673.7032
-"2018","Congo, Rep.","COG",3509317.94508
-"2018","Colombia","COL",40115207.81568
-"2018","Comoros","COM",241082.0673
-"2018","Cabo Verde","CPV",357426.95248
-"2018","Costa Rica","CRI",3966558.0762
-"2018","Caribbean small states","CSS",3767723.80760257
-"2018","Cuba","CUB",8734567.53402
-"2018","Curacao","CUW",142040.0772
-"2018","Cayman Islands","CYM",64172
-"2018","Cyprus","CYP",794545.9422
-"2018","Czech Republic","CZE",7844036.46976
-"2018","Germany","DEU",64096118.17984
-"2018","Djibouti","DJI",745821.54171
-"2018","Dominica","DMA",50484.15358
-"2018","Denmark","DNK",5091099.69864
-"2018","Dominican Republic","DOM",8615853.15878
-"2018","Algeria","DZA",30670075.53035
-"2018","East Asia & Pacific (excluding high income)","EAP",1164027254.05804
-"2018","Early-demographic dividend","EAR",1466014127.24357
-"2018","East Asia & Pacific","EAS",1380862156.3417
-"2018","Europe & Central Asia (excluding high income)","ECA",281957284.185612
-"2018","Europe & Central Asia","ECS",662921013.975474
-"2018","Ecuador","ECU",10903408.75739
-"2018","Egypt, Arab Rep.","EGY",42030814.99808
-"2018","Euro area","EMU",263300317.401107
-"2018","Spain","ESP",37588423.99034
-"2018","Estonia","EST",910577.7576
-"2018","Ethiopia","ETH",22678264.2483
-"2018","European Union","EUU",333026380.95895
-"2018","Fragile and conflict affected situations","FCS",381052559.148205
-"2018","Finland","FIN",4709265.5555
-"2018","Fiji","FJI",496945.4552
-"2018","France","FRA",53979476.5692
-"2018","Faroe Islands","FRO",20399.77808
-"2018","Micronesia, Fed. Sts.","FSM",25572.6592
-"2018","Gabon","GAB",1893996.0675
-"2018","United Kingdom","GBR",55426597.68912
-"2018","Georgia","GEO",2184950.20968
-"2018","Ghana","GHA",16687440.7448
-"2018","Gibraltar","GIB",33715
-"2018","Guinea","GIN",4486525.1288
-"2018","Gambia, The","GMB",1397012.3684
-"2018","Guinea-Bissau","GNB",812698.2144
-"2018","Equatorial Guinea","GNQ",944327.34138
-"2018","Greece","GRC",8485201.85156
-"2018","Grenada","GRD",40424.78128
-"2018","Greenland","GRL",48636.92768
-"2018","Guatemala","GTM",8345771.853
-"2018","Guam","GUM",157116.806
-"2018","Guyana","GUY",207262.60242
-"2018","High income","HIC",975639183.600946
-"2018","Hong Kong SAR, China","HKG",7451000
-"2018","Honduras","HND",5474092.13208
-"2018","Heavily indebted poor countries (HIPC)","HPC",280949951.902795
-"2018","Croatia","HRV",2327903.95321
-"2018","Haiti","HTI",6148673.09874
-"2018","Hungary","HUN",6974962.66964
-"2018","IBRD only","IBD",2634177756.96486
-"2018","IDA & IBRD total","IBT",3238495042.92198
-"2018","IDA total","IDA",604075439.663541
-"2018","IDA blend","IDB",231886967.556326
-"2018","Indonesia","IDN",148088731.23425
-"2018","IDA only","IDX",372140625.380269
-"2018","Isle of Man","IMN",44212.30924
-"2018","India","IND",460304168.9049
-"2018","Ireland","IRL",3074683.5172
-"2018","Iran, Islamic Rep.","IRN",61266716.79192
-"2018","Iraq","IRQ",27085313.74692
-"2018","Iceland","ISL",330898.15173
-"2018","Israel","ISR",8209306.104
-"2018","Italy","ITA",42559879.3088
-"2018","Jamaica","JAM",1633950.05922
-"2018","Jordan","JOR",9066350.30238
-"2018","Japan","JPN",115920900.256
-"2018","Kazakhstan","KAZ",10495800.85456
-"2018","Kenya","KEN",13891411.671
-"2018","Kyrgyz Republic","KGZ",2298401.028
-"2018","Cambodia","KHM",3800502.0546
-"2018","Kiribati","KIR",62620.70994
-"2018","St. Kitts and Nevis","KNA",16138.31888
-"2018","Korea, Rep.","KOR",42020672.39622
-"2018","Kuwait","KWT",4137314
-"2018","Latin America & Caribbean (excluding high income)","LAC",467085250.454038
-"2018","Lao PDR","LAO",2471806.75992
-"2018","Lebanon","LBN",6076955.32944
-"2018","Liberia","LBR",2464954.41376
-"2018","Libya","LBY",5349664.1363
-"2018","St. Lucia","LCA",33973.4142
-"2018","Latin America & Caribbean","LCN",516390076.231735
-"2018","Least developed countries: UN classification","LDC",338858843.533786
-"2018","Low income","LIC",207501374.880655
-"2018","Liechtenstein","LIE",5436.68284
-"2018","Sri Lanka","LKA",4003749.2
-"2018","Lower middle income","LMC",1346190539.29503
-"2018","Low & middle income","LMY",3193929836.10507
-"2018","Lesotho","LSO",593557.30031
-"2018","Late-demographic dividend","LTE",1434746428.89508
-"2018","Lithuania","LTU",1896056.28697
-"2018","Luxembourg","LUX",553118.9895
-"2018","Latvia","LVA",1313214.90708
-"2018","Macao SAR, China","MAC",631633
-"2018","Morocco","MAR",22501246.95317
-"2018","Monaco","MCO",38682
-"2018","Moldova","MDA",1154484.54606
-"2018","Madagascar","MDG",9767216.82783
-"2018","Maldives","MDV",205291.44832
-"2018","Middle East & North Africa","MEA",293504359.156497
-"2018","Mexico","MEX",101149483.21992
-"2018","Marshall Islands","MHL",44995.34772
-"2018","Middle income","MIC",2990269297.28286
-"2018","North Macedonia","MKD",1203437.65971
-"2018","Mali","MLI",8080573.9078
-"2018","Malta","MLT",458518.1356
-"2018","Myanmar","MMR",16423466.56122
-"2018","Middle East & North Africa (excluding high income)","MNA",235866859.857478
-"2018","Montenegro","MNE",415728.52551
-"2018","Mongolia","MNG",2169852.9723
-"2018","Northern Mariana Islands","MNP",52120.56402
-"2018","Mozambique","MOZ",10615023.71892
-"2018","Mauritania","MRT",2363345.61664
-"2018","Mauritius","MUS",516155.05279
-"2018","Malawi","MWI",3072916.32455
-"2018","Malaysia","MYS",23972655.17188
-"2018","North America","NAC",299083003.330735
-"2018","Namibia","NAM",1224933.456
-"2018","New Caledonia","NCL",191303.5395
-"2018","Niger","NER",3686234.99175
-"2018","Nigeria","NGA",98611151.4164
-"2018","Nicaragua","NIC",3783741.08044
-"2018","Netherlands","NLD",15765212.7976
-"2018","Norway","NOR",4368944.67168
-"2018","Nepal","NPL",5546093.5488
-"2018","Nauru","NRU",10678
-"2018","New Zealand","NZL",4240881.228
-"2018","OECD members","OED",1094504365.49198
-"2018","Oman","OMN",4082790.71564
-"2018","Other small states","OSS",19107846.6859727
-"2018","Pakistan","PAK",77815624.07808
-"2018","Panama","PAN",2828115.55412
-"2018","Peru","PER",24921876.68355
-"2018","Philippines","PHL",50026969.38358
-"2018","Palau","PLW",14316.2623
-"2018","Papua New Guinea","PNG",1133366.80756
-"2018","Poland","POL",22806875.355
-"2018","Pre-demographic dividend","PRE",379075207.947958
-"2018","Puerto Rico","PRI",2988276.80612
-"2018","Korea, Dem. People's Rep.","PRK",15814950.61794
-"2018","Portugal","PRT",6706183.16442
-"2018","Paraguay","PRY",4283895.09365
-"2018","West Bank and Gaza","PSE",3479999.42268
-"2018","Pacific island small states","PSS",950974.101334202
-"2018","Post-demographic dividend","PST",902020027.152215
-"2018","French Polynesia","PYF",171696.32282
-"2018","Qatar","QAT",2757620.4507
-"2018","Romania","ROU",10515554.3206
-"2018","Russian Federation","RUS",107539204.78947
-"2018","Rwanda","RWA",2117291.88459
-"2018","South Asia","SAS",616775936.418778
-"2018","Saudi Arabia","SAU",28257739.57908
-"2018","Sudan","SDN",14480886.71544
-"2018","Senegal","SEN",7481972.58208
-"2018","Singapore","SGP",5638676
-"2018","Solomon Islands","SLB",155046.77144
-"2018","Sierra Leone","SLE",3217270.16195
-"2018","El Salvador","SLV",4624409.5702
-"2018","San Marino","SMR",32846.83184
-"2018","Somalia","SOM",6749348.86475
-"2018","Serbia","SRB",3916682.23568
-"2018","Sub-Saharan Africa (excluding high income)","SSA",433182499.474531
-"2018","South Sudan","SSD",2152927.4926
-"2018","Sub-Saharan Africa","SSF",433237354.88739
-"2018","Small states","SST",23826544.5947032
-"2018","Sao Tome and Principe","STP",153637.62696
-"2018","Suriname","SUR",380497.0122
-"2018","Slovak Republic","SVK",2926332.18746
-"2018","Slovenia","SVN",1131122.52654
-"2018","Sweden","SWE",8896291.35234
-"2018","Eswatini","SWZ",270421.84926
-"2018","Sint Maarten (Dutch part)","SXM",40895
-"2018","Seychelles","SYC",54855.34542
-"2018","Syrian Arab Republic","SYR",9177784.48044
-"2018","Turks and Caicos Islands","TCA",35067.22366
-"2018","Chad","TCD",3569009.06893
-"2018","East Asia & Pacific (IDA & IBRD countries)","TEA",1148184613.14386
-"2018","Europe & Central Asia (IDA & IBRD countries)","TEC",304412908.726027
-"2018","Togo","TGO",3289910.3969
-"2018","Thailand","THA",34678818.48846
-"2018","Tajikistan","TJK",2469423.82498
-"2018","Turkmenistan","TKM",3018655.86886
-"2018","Latin America & the Caribbean (IDA & IBRD countries)","TLA",503782969.956923
-"2018","Timor-Leste","TLS",387721.3955
-"2018","Middle East & North Africa (IDA & IBRD countries)","TMN",232386860.447954
-"2018","Tonga","TON",23870.96069
-"2018","South Asia (IDA & IBRD)","TSA",616775936.418778
-"2018","Sub-Saharan Africa (IDA & IBRD countries)","TSS",433237354.88739
-"2018","Trinidad and Tobago","TTO",739173.03744
-"2018","Tunisia","TUN",7973629.20835
-"2018","Turkey","TUR",61872813.8287
-"2018","Tuvalu","TUV",7177.62435
-"2018","Tanzania","TZA",19020428.84544
-"2018","Uganda","UGA",10158400.06768
-"2018","Ukraine","UKR",30946608.68336
-"2018","Upper middle income","UMC",1647350695.81931
-"2018","Uruguay","URY",3288346.1286
-"2018","United States","USA",268844028.96944
-"2018","Uzbekistan","UZB",16635580.158
-"2018","St. Vincent and the Grenadines","VCT",57527.4158
-"2018","Venezuela, RB","VEN",25480748.16336
-"2018","British Virgin Islands","VGB",14219.06785
-"2018","Virgin Islands (U.S.)","VIR",102422.42721
-"2018","Vietnam","VNM",34319153.01321
-"2018","Vanuatu","VUT",73970.6795
-"2018","World","WLD",4202470863.25883
-"2018","Samoa","WSM",35779.63104
-"2018","Yemen, Rep.","YEM",10442487.42486
-"2018","South Africa","ZAF",38348226.646
-"2018","Zambia","ZMB",7551639.44994
-"2018","Zimbabwe","ZWE",4650596.95708
-"2019","Aruba","ABW",46293.7526
-"2019","Africa Eastern and Southern","AFE",239539518.382548
-"2019","Afghanistan","AFG",9797274.09778
-"2019","Africa Western and Central","AFW",211133788.746797
-"2019","Angola","AGO",21061028.11923
-"2019","Albania","ALB",1747592.60739
-"2019","Andorra","AND",67876.13664
-"2019","Arab World","ARB",253306244.189545
-"2019","United Arab Emirates","ARE",8479741.81014
-"2019","Argentina","ARG",41339570.55592
-"2019","Armenia","ARM",1869846.06432
-"2019","American Samoa","ASM",48202.74864
-"2019","Antigua and Barbuda","ATG",23799.0019
-"2019","Australia","AUS",21845994.2238
-"2019","Austria","AUT",5196085.188
-"2019","Azerbaijan","AZE",5616706.00773
-"2019","Burundi","BDI",1541176.92182
-"2019","Belgium","BEL",11263910.8818
-"2019","Benin","BEN",5648148.88011
-"2019","Burkina Faso","BFA",6092350.6234
-"2019","Bangladesh","BGD",60987421.01065
-"2019","Bulgaria","BGR",5256026.64067
-"2019","Bahrain","BHR",1467102.14616
-"2019","Bahamas, The","BHS",323787.50152
-"2019","Bosnia and Herzegovina","BIH",1605143.28748
-"2019","Belarus","BLR",7445753.51352
-"2019","Belize","BLZ",179038.38966
-"2019","Bermuda","BMU",63913
-"2019","Bolivia","BOL",8033036.65846
-"2019","Brazil","BRA",183241634.37656
-"2019","Barbados","BRB",89430.00318
-"2019","Brunei Darussalam","BRN",337719.56832
-"2019","Bhutan","BTN",317538.67528
-"2019","Botswana","BWA",1616554.46916
-"2019","Central African Republic","CAF",1982061.2683
-"2019","Canada","CAN",30638234.2286
-"2019","Central Europe and the Baltics","CEB",63935711.3962252
-"2019","Switzerland","CHE",6332758.5272
-"2019","Channel Islands","CHI",53282.97784
-"2019","Chile","CHL",16610132.03505
-"2019","China","CHN",848982854.6
-"2019","Cote d'Ivoire","CIV",13176905.10406
-"2019","Cameroon","CMR",14741260.14616
-"2019","Congo, Dem. Rep.","COD",39095679.26128
-"2019","Congo, Rep.","COG",3625006.95992
-"2019","Colombia","COL",40827301.85072
-"2019","Comoros","COM",248153.85124
-"2019","Cabo Verde","CPV",364030.1352
-"2019","Costa Rica","CRI",4041884.94636
-"2019","Caribbean small states","CSS",3802092.0090547
-"2019","Cuba","CUB",8739136.17756
-"2019","Curacao","CUW",140276.78218
-"2019","Cayman Islands","CYM",64948
-"2019","Cyprus","CYP",800707.3607
-"2019","Czech Republic","CZE",7888753.0227
-"2019","Germany","DEU",64294010.27712
-"2019","Djibouti","DJI",758546.93655
-"2019","Dominica","DMA",50830.01088
-"2019","Denmark","DNK",5116342.49468
-"2019","Dominican Republic","DOM",8787473.73396
-"2019","Algeria","DZA",31510099.69206
-"2019","East Asia & Pacific (excluding high income)","EAP",1190445256.00734
-"2019","Early-demographic dividend","EAR",1498425035.59763
-"2019","East Asia & Pacific","EAS",1407974299.67536
-"2019","Europe & Central Asia (excluding high income)","ECA",283992012.125465
-"2019","Europe & Central Asia","ECS",666772967.768601
-"2019","Ecuador","ECU",11116708.16802
-"2019","Egypt, Arab Rep.","EGY",42895824.8748
-"2019","Euro area","EMU",264349475.599532
-"2019","Spain","ESP",37974181.42905
-"2019","Estonia","EST",916206.64605
-"2019","Ethiopia","ETH",23788709.80575
-"2019","European Union","EUU",334223766.680578
-"2019","Fragile and conflict affected situations","FCS",393196870.799425
-"2019","Finland","FIN",4717991.46276
-"2019","Fiji","FJI",505049.4625
-"2019","France","FRA",54275935.68534
-"2019","Faroe Islands","FRO",20553.86325
-"2019","Micronesia, Fed. Sts.","FSM",25962.56532
-"2019","Gabon","GAB",1949693.22298
-"2019","United Kingdom","GBR",55909924.26204
-"2019","Georgia","GEO",2196345.85279
-"2019","Ghana","GHA",17249054.73606
-"2019","Gibraltar","GIB",33706
-"2019","Guinea","GIN",4661504.79
-"2019","Gambia, The","GMB",1453951.60976
-"2019","Guinea-Bissau","GNB",840919.83509
-"2019","Equatorial Guinea","GNQ",984809.04714
-"2019","Greece","GRC",8511649.51816
-"2019","Grenada","GRD",40764.24792
-"2019","Greenland","GRL",48944.987
-"2019","Guatemala","GTM",8540944.93414
-"2019","Guam","GUM",158694.36405
-"2019","Guyana","GUY",208914.81975
-"2019","High income","HIC",981971027.88753
-"2019","Hong Kong SAR, China","HKG",7507400
-"2019","Honduras","HND",5626432.1895
-"2019","Heavily indebted poor countries (HIPC)","HPC",292473354.970411
-"2019","Croatia","HRV",2327032.12226
-"2019","Haiti","HTI",6328949.35168
-"2019","Hungary","HUN",7000436.25804
-"2019","IBRD only","IBD",2684649045.70801
-"2019","IDA & IBRD total","IBT",3311048792.85468
-"2019","IDA total","IDA",626158532.464906
-"2019","IDA blend","IDB",239831545.161212
-"2019","Indonesia","IDN",151509723.68495
-"2019","IDA only","IDX",386279556.485369
-"2019","Isle of Man","IMN",44608.00915
-"2019","India","IND",471031528.84832
-"2019","Ireland","IRL",3128618.277
-"2019","Iran, Islamic Rep.","IRN",62509613.07163
-"2019","Iraq","IRQ",27783372.66942
-"2019","Iceland","ISL",338406.40365
-"2019","Israel","ISR",8375040.54
-"2019","Italy","ITA",42249962.73616
-"2019","Jamaica","JAM",1650592.87845
-"2019","Jordan","JOR",9213050.71491
-"2019","Japan","JPN",115782416.42838
-"2019","Kazakhstan","KAZ",10652767.4442
-"2019","Kenya","KEN",14461521.10269
-"2019","Kyrgyz Republic","KGZ",2362388.142
-"2019","Cambodia","KHM",3924621.3231
-"2019","Kiribati","KIR",64490.3468
-"2019","St. Kitts and Nevis","KNA",16272.34366
-"2019","Korea, Rep.","KOR",42152094.5546
-"2019","Kuwait","KWT",4207077
-"2019","Latin America & Caribbean (excluding high income)","LAC",473558364.778933
-"2019","Lao PDR","LAO",2555552.5912
-"2019","Lebanon","LBN",6084990.19422
-"2019","Liberia","LBR",2548425.5901
-"2019","Libya","LBY",5448597.79029
-"2019","St. Lucia","LCA",34281.3743
-"2019","Latin America & Caribbean","LCN",522773055.72694
-"2019","Least developed countries: UN classification","LDC",352323407.726804
-"2019","Low income","LIC",215766446.678086
-"2019","Liechtenstein","LIE",5463.8542
-"2019","Sri Lanka","LKA",4052087.55
-"2019","Lower middle income","LMC",1380990567.60156
-"2019","Low & middle income","LMY",3266912795.74642
-"2019","Lesotho","LSO",607507.57195
-"2019","Late-demographic dividend","LTE",1460836127.42242
-"2019","Lithuania","LTU",1895961.66135
-"2019","Luxembourg","LUX",565583.51223
-"2019","Latvia","LVA",1305647.64484
-"2019","Macao SAR, China","MAC",640446
-"2019","Morocco","MAR",22975024.27404
-"2019","Monaco","MCO",38967
-"2019","Moldova","MDA",1138636.79124
-"2019","Madagascar","MDG",10210848.94466
-"2019","Maldives","MDV",213646.47766
-"2019","Middle East & North Africa","MEA",299961063.670142
-"2019","Mexico","MEX",102626858.54876
-"2019","Marshall Islands","MHL",45514.22847
-"2019","Middle income","MIC",3055123321.43577
-"2019","North Macedonia","MKD",1208802.04352
-"2019","Mali","MLI",8479684.80128
-"2019","Malta","MLT",477235.82036
-"2019","Myanmar","MMR",16674093.59544
-"2019","Middle East & North Africa (excluding high income)","MNA",241087170.459256
-"2019","Montenegro","MNE",417691.802
-"2019","Mongolia","MNG",2210625.53138
-"2019","Northern Mariana Islands","MNP",52468.89804
-"2019","Mozambique","MOZ",11092108.18704
-"2019","Mauritania","MRT",2466822.20886
-"2019","Mauritius","MUS",515979.74626
-"2019","Malawi","MWI",3199301.35326
-"2019","Malaysia","MYS",24475774.85923
-"2019","North America","NAC",301439742.83257
-"2019","Namibia","NAM",1273254.94008
-"2019","New Caledonia","NCL",192905.152
-"2019","Niger","NER",3850231.45723
-"2019","Nigeria","NGA",102806950.38671
-"2019","Nicaragua","NIC",3846137.5628
-"2019","Netherlands","NLD",15935776.43624
-"2019","Norway","NOR",4418217.75936
-"2019","Nepal","NPL",5765514.33395
-"2019","Nauru","NRU",10764
-"2019","New Zealand","NZL",4312820.695
-"2019","OECD members","OED",1102973367.05312
-"2019","Oman","OMN",4250782.41456
-"2019","Other small states","OSS",19631252.6200811
-"2019","Pakistan","PAK",79927761.54519
-"2019","Panama","PAN",2890084.5996
-"2019","Peru","PER",25390345.71738
-"2019","Philippines","PHL",50975906.10678
-"2019","Palau","PLW",14485.4047
-"2019","Papua New Guinea","PNG",1162835.7675
-"2019","Poland","POL",22793332.22575
-"2019","Pre-demographic dividend","PRE",394746860.256621
-"2019","Puerto Rico","PRI",2988531.09744
-"2019","Korea, Dem. People's Rep.","PRK",15947410.61172
-"2019","Portugal","PRT",6764657.99932
-"2019","Paraguay","PRY",4359152.16681
-"2019","West Bank and Gaza","PSE",3581447.9064
-"2019","Pacific island small states","PSS",971682.649161439
-"2019","Post-demographic dividend","PST",906630710.175622
-"2019","French Polynesia","PYF",172869.03645
-"2019","Qatar","QAT",2809074.58348
-"2019","Romania","ROU",10476962.10432
-"2019","Russian Federation","RUS",107708297.89207
-"2019","Rwanda","RWA",2186101.77594
-"2019","South Asia","SAS",632092772.493649
-"2019","Saudi Arabia","SAU",28807838.90385
-"2019","Sudan","SDN",14957232.47832
-"2019","Senegal","SEN",7765705.38386
-"2019","Singapore","SGP",5703569
-"2019","Solomon Islands","SLB",162163.6641
-"2019","Sierra Leone","SLE",3319362.86188
-"2019","El Salvador","SLV",4694699.483
-"2019","San Marino","SMR",32972.69952
-"2019","Somalia","SOM",7034861.39924
-"2019","Serbia","SRB",3907389.211
-"2019","Sub-Saharan Africa (excluding high income)","SSA",450617544.690522
-"2019","South Sudan","SSD",2201250.06486
-"2019","Sub-Saharan Africa","SSF",450673307.140463
-"2019","Small states","SST",24405027.2774393
-"2019","Sao Tome and Principe","STP",158271.02704
-"2019","Suriname","SUR",384251.87485
-"2019","Slovak Republic","SVK",2930458.64163
-"2019","Slovenia","SVN",1144894.4247
-"2019","Sweden","SWE",9015406.20996
-"2019","Eswatini","SWZ",275333.77473
-"2019","Sint Maarten (Dutch part)","SXM",41608
-"2019","Seychelles","SYC",55762.42375
-"2019","Syrian Arab Republic","SYR",9358017.06372
-"2019","Turks and Caicos Islands","TCA",35657.9184
-"2019","Chad","TCD",3712274.66078
-"2019","East Asia & Pacific (IDA & IBRD countries)","TEA",1174470593.06165
-"2019","Europe & Central Asia (IDA & IBRD countries)","TEC",306428369.03819
-"2019","Togo","TGO",3414635.03032
-"2019","Thailand","THA",35294599.52052
-"2019","Tajikistan","TJK",2545478.17107
-"2019","Turkmenistan","TKM",3092741.08512
-"2019","Latin America & the Caribbean (IDA & IBRD countries)","TLA",510155980.30025
-"2019","Timor-Leste","TLS",400181.8464
-"2019","Middle East & North Africa (IDA & IBRD countries)","TMN",237505722.550453
-"2019","Tonga","TON",24146.12179
-"2019","South Asia (IDA & IBRD)","TSA",632092772.493649
-"2019","Sub-Saharan Africa (IDA & IBRD countries)","TSS",450673307.140463
-"2019","Trinidad and Tobago","TTO",741942.16203
-"2019","Tunisia","TUN",8099062.08134
-"2019","Turkey","TUR",63097811.7741
-"2019","Tuvalu","TUV",7367.70825
-"2019","Tanzania","TZA",20011884.045
-"2019","Uganda","UGA",10784514.08907
-"2019","Ukraine","UKR",30836426.81019
-"2019","Upper middle income","UMC",1677407459.04991
-"2019","Uruguay","URY",3303391.42406
-"2019","United States","USA",270737595.94427
-"2019","Uzbekistan","UZB",16935577.9155
-"2019","St. Vincent and the Grenadines","VCT",58187.40102
-"2019","Venezuela, RB","VEN",25162367.5096
-"2019","British Virgin Islands","VGB",14450.67828
-"2019","Virgin Islands (U.S.)","VIR",102223.03608
-"2019","Vietnam","VNM",35332140.91824
-"2019","Vanuatu","VUT",76152.03508
-"2019","World","WLD",4281394472.03278
-"2019","Samoa","WSM",35587.11208
-"2019","Yemen, Rep.","YEM",10869523.18706
-"2019","South Africa","ZAF",39149714.98552
-"2019","Zambia","ZMB",7871714.90448
-"2019","Zimbabwe","ZWE",4717306.8533
-"2020","Aruba","ABW",46653.53902
-"2020","Africa Eastern and Southern","AFE",249112476.05153
-"2020","Afghanistan","AFG",10131490.02866
-"2020","Africa Western and Central","AFW",219531156.73694
-"2020","Angola","AGO",21962883.591
-"2020","Albania","ALB",1762644.77088
-"2020","Andorra","AND",67928.2974
-"2020","Arab World","ARB",259344908.426542
-"2020","United Arab Emirates","ARE",8609395.392
-"2020","Argentina","ARG",41796990.16693
-"2020","Armenia","ARM",1876112.34242
-"2020","American Samoa","ASM",48105.84141
-"2020","Antigua and Barbuda","ATG",23926.74824
-"2020","Australia","AUS",22158130.39347
-"2020","Austria","AUT",5238479.26272
-"2020","Azerbaijan","AZE",5692217.45037
-"2020","Burundi","BDI",1629988.25948
-"2020","Belgium","BEL",11322476.13039
-"2020","Benin","BEN",5869446.3117
-"2020","Burkina Faso","BFA",6397866.29746
-"2020","Bangladesh","BGD",62873465.74791
-"2020","Bulgaria","BGR",5248078.5929
-"2020","Bahrain","BHR",1523018.87998
-"2020","Bahamas, The","BHS",327359.2976
-"2020","Bosnia and Herzegovina","BIH",1608255.513
-"2020","Belarus","BLR",7455467.24816
-"2020","Belize","BLZ",183005.06525
-"2020","Bermuda","BMU",63903
-"2020","Bolivia","BOL",8185478.12567
-"2020","Brazil","BRA",185081854.19857
-"2020","Barbados","BRB",89633.88861
-"2020","Brunei Darussalam","BRN",342330.4475
-"2020","Bhutan","BTN",326515.33392
-"2020","Botswana","BWA",1666761.25125
-"2020","Central African Republic","CAF",2038063.81272
-"2020","Canada","CAN",31023904.32648
-"2020","Central Europe and the Baltics","CEB",63921152.5580394
-"2020","Switzerland","CHE",6383714.06315
-"2020","Channel Islands","CHI",53831.96217
-"2020","Chile","CHL",16770076.66943
-"2020","China","CHN",866705688.48936
-"2020","Cote d'Ivoire","CIV",13639150.8715
-"2020","Cameroon","CMR",15279799.3184
-"2020","Congo, Dem. Rep.","COD",40874033.55752
-"2020","Congo, Rep.","COG",3742866.62268
-"2020","Colombia","COL",41431388.297
-"2020","Comoros","COM",255487.011
-"2020","Cabo Verde","CPV",370577.12176
-"2020","Costa Rica","CRI",4114566.81894
-"2020","Caribbean small states","CSS",3836980.16007916
-"2020","Cuba","CUB",8743467.95504
-"2020","Curacao","CUW",137998.89714
-"2020","Cayman Islands","CYM",65720
-"2020","Cyprus","CYP",806770.69381
-"2020","Czech Republic","CZE",7922940.61338
-"2020","Germany","DEU",64410589.41563
-"2020","Djibouti","DJI",771254.12124
-"2020","Dominica","DMA",51178.4019
-"2020","Denmark","DNK",5138399.94864
-"2020","Dominican Republic","DOM",8953859.9616
-"2020","Algeria","DZA",32332689.53519
-"2020","East Asia & Pacific (excluding high income)","EAP",1215400924.82078
-"2020","Early-demographic dividend","EAR",1531407566.6853
-"2020","East Asia & Pacific","EAS",1433171411.70813
-"2020","Europe & Central Asia (excluding high income)","ECA",285736433.595542
-"2020","Europe & Central Asia","ECS",670335059.550145
-"2020","Ecuador","ECU",11320845.8796
-"2020","Egypt, Arab Rep.","EGY",43781727.63549
-"2020","Euro area","EMU",265472183.451984
-"2020","Spain","ESP",38274378.8939
-"2020","Estonia","EST",920385.01691
-"2020","Ethiopia","ETH",24941349.33185
-"2020","European Union","EUU",335426422.719517
-"2020","Fragile and conflict affected situations","FCS",406168146.193484
-"2020","Finland","FIN",4728699.28731
-"2020","Fiji","FJI",513187.29668
-"2020","France","FRA",54560880.503
-"2020","Faroe Islands","FRO",20717.7827
-"2020","Micronesia, Fed. Sts.","FSM",26377.76593
-"2020","Gabon","GAB",2005202.86976
-"2020","United Kingdom","GBR",56395647.28579
-"2020","Georgia","GEO",2213266.34348
-"2020","Ghana","GHA",17820023.22805
-"2020","Gibraltar","GIB",33691
-"2020","Guinea","GIN",4842717.05
-"2020","Gambia, The","GMB",1512396.66448
-"2020","Guinea-Bissau","GNB",869776.39608
-"2020","Equatorial Guinea","GNQ",1025582.035
-"2020","Greece","GRC",8529948.2154
-"2020","Grenada","GRD",41111.06703
-"2020","Greenland","GRL",49198.24494
-"2020","Guatemala","GTM",8738685.49388
-"2020","Guam","GUM",160239.20454
-"2020","Guyana","GUY",210687.69374
-"2020","High income","HIC",989149855.106186
-"2020","Hong Kong SAR, China","HKG",7481800
-"2020","Honduras","HND",5780230.18272
-"2020","Heavily indebted poor countries (HIPC)","HPC",304383120.869577
-"2020","Croatia","HRV",2329561.2704
-"2020","Haiti","HTI",6509478.03904
-"2020","Hungary","HUN",7014452.19358
-"2020","IBRD only","IBD",2733449801.12703
-"2020","IDA & IBRD total","IBT",3382778527.63067
-"2020","IDA total","IDA",649080649.44456
-"2020","IDA blend","IDB",248003523.667816
-"2020","Indonesia","IDN",154926514.17061
-"2020","IDA only","IDX",401029890.378174
-"2020","Isle of Man","IMN",44980.22736
-"2020","India","IND",481980331.5051
-"2020","Ireland","IRL",3173531.07122
-"2020","Iran, Islamic Rep.","IRN",63728813.15922
-"2020","Iraq","IRQ",28514939.05179
-"2020","Iceland","ISL",344101.42774
-"2020","Israel","ISR",8531984.637
-"2020","Italy","ITA",42232349.48553
-"2020","Jamaica","JAM",1667459.37071
-"2020","Jordan","JOR",9327506.5252
-"2020","Japan","JPN",115494816.79422
-"2020","Kazakhstan","KAZ",10815873.0924
-"2020","Kenya","KEN",15053275.435
-"2020","Kyrgyz Republic","KGZ",2425087.944
-"2020","Cambodia","KHM",4051341.05272
-"2020","Kiribati","KIR",66404.80924
-"2020","St. Kitts and Nevis","KNA",16406.00856
-"2020","Korea, Rep.","KOR",42201955.61946
-"2020","Kuwait","KWT",4270563
-"2020","Latin America & Caribbean (excluding high income)","LAC",479782493.470445
-"2020","Lao PDR","LAO",2640299.2724
-"2020","Lebanon","LBN",6069524.2985
-"2020","Liberia","LBR",2634493.37253
-"2020","Libya","LBY",5544510.19317
-"2020","St. Lucia","LCA",34597.53989
-"2020","Latin America & Caribbean","LCN",529197422.950788
-"2020","Least developed countries: UN classification","LDC",366225950.08532
-"2020","Low income","LIC",224497794.041445
-"2020","Liechtenstein","LIE",5497.82992
-"2020","Sri Lanka","LKA",4101702.47
-"2020","Lower middle income","LMC",1416394659.14266
-"2020","Low & middle income","LMY",3338880141.22533
-"2020","Lesotho","LSO",621852.91056
-"2020","Late-demographic dividend","LTE",1484998659.50423
-"2020","Lithuania","LTU",1901807.4471
-"2020","Luxembourg","LUX",576537.08807
-"2020","Latvia","LVA",1298291.73435
-"2020","Macao SAR, China","MAC",649342
-"2020","Morocco","MAR",23450015.70856
-"2020","Monaco","MCO",39244
-"2020","Moldova","MDA",1122855.90255
-"2020","Madagascar","MDG",10670457.26146
-"2020","Maldives","MDV",219833.02598
-"2020","Middle East & North Africa","MEA",306474474.994691
-"2020","Mexico","MEX",104088700.82443
-"2020","Marshall Islands","MHL",46049.38036
-"2020","Middle income","MIC",3118490536.17889
-"2020","North Macedonia","MKD",1212057.57942
-"2020","Mali","MLI",8891938.70106
-"2020","Malta","MLT",488246.15008
-"2020","Myanmar","MMR",16943753.94954
-"2020","Middle East & North Africa (excluding high income)","MNA",246442893.776364
-"2020","Montenegro","MNE",419306.99328
-"2020","Mongolia","MNG",2250776.93844
-"2020","Northern Mariana Islands","MNP",52836.17486
-"2020","Mozambique","MOZ",11587639.9719
-"2020","Mauritania","MRT",2572517.3882
-"2020","Mauritius","MUS",515915.624
-"2020","Malawi","MWI",3333777.25785
-"2020","Malaysia","MYS",24973604.0568
-"2020","North America","NAC",305119858.34196
-"2020","Namibia","NAM",1322114.82228
-"2020","New Caledonia","NCL",194500.3528
-"2020","Niger","NER",4024595.30136
-"2020","Nigeria","NGA",107106006.61346
-"2020","Nicaragua","NIC",3909281.80648
-"2020","Netherlands","NLD",16087341.94
-"2020","Norway","NOR",4463565.5865
-"2020","Nepal","NPL",5995189.61408
-"2020","Nauru","NRU",10834
-"2020","New Zealand","NZL",4408037.257
-"2020","OECD members","OED",1112188426.30113
-"2020","Oman","OMN",4405789.19672
-"2020","Other small states","OSS",20132513.086515
-"2020","Pakistan","PAK",82094634.81615
-"2020","Panama","PAN",2951905.37952
-"2020","Peru","PER",25815966.26262
-"2020","Philippines","PHL",51950200.7768
-"2020","Palau","PLW",14652.34896
-"2020","Papua New Guinea","PNG",1193980.75315
-"2020","Poland","POL",22755738.6001
-"2020","Pre-demographic dividend","PRE",410942452.500347
-"2020","Puerto Rico","PRI",3070896.07578
-"2020","Korea, Dem. People's Rep.","PRK",16081082.58515
-"2020","Portugal","PRT",6827994.4111
-"2020","Paraguay","PRY",4435221.1299
-"2020","West Bank and Gaza","PSE",3685019.94411
-"2020","Pacific island small states","PSS",992815.487068041
-"2020","Post-demographic dividend","PST",912161886.354663
-"2020","French Polynesia","PYF",174090.254
-"2020","Qatar","QAT",2859019.891
-"2020","Romania","ROU",10436420.3888
-"2020","Russian Federation","RUS",107723563.9632
-"2020","Rwanda","RWA",2257829.07288
-"2020","South Asia","SAS",647723162.545025
-"2020","Saudi Arabia","SAU",29343564.07829
-"2020","Sudan","SDN",15458182.80057
-"2020","Senegal","SEN",8057513.9946
-"2020","Singapore","SGP",5685807
-"2020","Solomon Islands","SLB",169452.8026
-"2020","Sierra Leone","SLE",3423961.27155
-"2020","El Salvador","SLV",4763725.46244
-"2020","San Marino","SMR",33089.21062
-"2020","Somalia","SOM",7333290.17879
-"2020","Serbia","SRB",3894280.66196
-"2020","Sub-Saharan Africa (excluding high income)","SSA",468586971.762375
-"2020","South Sudan","SSD",2261021.32071
-"2020","Sub-Saharan Africa","SSF",468643632.785584
-"2020","Small states","SST",24962308.7319236
-"2020","Sao Tome and Principe","STP",162954.96994
-"2020","Suriname","SUR",388052.52466
-"2020","Slovak Republic","SVK",2934665.3952
-"2020","Slovenia","SVN",1158811.30442
-"2020","Sweden","SWE",9108647.66834
-"2020","Eswatini","SWZ",280423.24044
-"2020","Sint Maarten (Dutch part)","SXM",42310
-"2020","Seychelles","SYC",56660.94252
-"2020","Syrian Arab Republic","SYR",9708489.47075
-"2020","Turks and Caicos Islands","TCA",36241.9839
-"2020","Chad","TCD",3863362.0368
-"2020","East Asia & Pacific (IDA & IBRD countries)","TEA",1199293076.74077
-"2020","Europe & Central Asia (IDA & IBRD countries)","TEC",308138433.883693
-"2020","Togo","TGO",3543299.436
-"2020","Thailand","THA",35898128.6854
-"2020","Tajikistan","TJK",2623423.80852
-"2020","Turkmenistan","TKM",3167338.16492
-"2020","Latin America & the Caribbean (IDA & IBRD countries)","TLA",516489138.143646
-"2020","Timor-Leste","TLS",412936.0344
-"2020","Middle East & North Africa (IDA & IBRD countries)","TMN",242757873.811244
-"2020","Tonga","TON",24414.95003
-"2020","South Asia (IDA & IBRD)","TSA",647723162.545025
-"2020","Sub-Saharan Africa (IDA & IBRD countries)","TSS",468643632.785584
-"2020","Trinidad and Tobago","TTO",744725.14074
-"2020","Tunisia","TUN",8221976.17024
-"2020","Turkey","TUR",64186246.94035
-"2020","Tuvalu","TUV",7548.53088
-"2020","Tanzania","TZA",21042571.21351
-"2020","Uganda","UGA",11414209.14
-"2020","Ukraine","UKR",30721277.10344
-"2020","Upper middle income","UMC",1705341844.78422
-"2020","Uruguay","URY",3317930.34405
-"2020","United States","USA",274032052.7712
-"2020","Uzbekistan","UZB",17258430.328
-"2020","St. Vincent and the Grenadines","VCT",58837.41304
-"2020","Venezuela, RB","VEN",25102966.12097
-"2020","British Virgin Islands","VGB",14669.48055
-"2020","Virgin Islands (U.S.)","VIR",101973.5631
-"2020","Vietnam","VNM",36346226.8922
-"2020","Vanuatu","VUT",78400.0375
-"2020","World","WLD",4360360757.83039
-"2020","Samoa","WSM",35493.5649
-"2020","Yemen, Rep.","YEM",11306427.94944
-"2020","South Africa","ZAF",39946775.0626
-"2020","Zambia","ZMB",8204575.72324
-"2020","Zimbabwe","ZWE",4792104.92334
+2011,"Aruba","ABW",43820.27
+2011,"Afghanistan","AFG",7212517.58628
+2011,"Angola","AGO",14660281.0848
+2011,"Albania","ALB",1546929.18165
+2011,"United Arab Emirates","ARE",7553138.39094
+2011,"Argentina","ARG",37543829.751
+2011,"Armenia","ARM",1821997.9024
+2011,"Australia","AUS",19056040.472
+2011,"Austria","AUT",4792886.89945
+2011,"Azerbaijan","AZE",4920165.99234
+2011,"Burundi","BDI",977810.0149
+2011,"Belgium","BEL",10784163.16272
+2011,"Benin","BEN",4125678.31032
+2011,"Burkina Faso","BFA",4051999.3034
+2011,"Bangladesh","BGD",46610536.0915
+2011,"Bulgaria","BGR",5337678.49264
+2011,"Bahrain","BHR",1133657.80335
+2011,"Bahamas, The","BHS",296569.67508
+2011,"Bosnia and Herzegovina","BIH",1679672.94894
+2011,"Belarus","BLR",7114020.13884
+2011,"Belize","BLZ",149359.13808
+2011,"Bolivia","BOL",6829808.85174
+2011,"Brazil","BRA",167158531.19371
+2011,"Barbados","BRB",89706.879
+2011,"Brunei Darussalam","BRN",296485.6797
+2011,"Bhutan","BTN",246709.73745
+2011,"Botswana","BWA",1287139.0419
+2011,"Central African Republic","CAF",1729234.37265
+2011,"Canada","CAN",27847821.43488
+2011,"Switzerland","CHE",5825977.77138
+2011,"Chile","CHL",15015966.41088
+2011,"China","CHN",679390628.85
+2011,"Cote d'Ivoire","CIV",10041391.61652
+2011,"Cameroon","CMR",10905610.32288
+2011,"Congo, Dem. Rep.","COD",27065208.42144
+2011,"Congo, Rep.","COG",2800041.73504
+2011,"Colombia","COL",35769912.86245
+2011,"Comoros","COM",198124.4712
+2011,"Cabo Verde","CPV",310898.28276
+2011,"Costa Rica","CRI",3376037.10648
+2011,"Cuba","CUB",8617290.62319
+2011,"Cyprus","CYP",758207.62822
+2011,"Czech Republic","CZE",7681562.0028
+2011,"Germany","DEU",61940176.8828
+2011,"Djibouti","DJI",657873.01944
+2011,"Denmark","DNK",4844002.29404
+2011,"Dominican Republic","DOM",7342937.38113
+2011,"Algeria","DZA",25016298.83368
+2011,"Ecuador","ECU",9580934.16135
+2011,"Egypt, Arab Rep.","EGY",36347577.93
+2011,"Spain","ESP",36773882.01081
+2011,"Estonia","EST",902193.91635
+2011,"Ethiopia","ETH",15986316.2308
+2011,"Finland","FIN",4543013.77136
+2011,"Fiji","FJI",454891.89033
+2011,"France","FRA",51373807.56758
+2011,"Gabon","GAB",1450330.79868
+2011,"United Kingdom","GBR",51600211.317
+2011,"Georgia","GEO",2100564.24279
+2011,"Ghana","GHA",13047761.21922
+2011,"Guinea","GIN",3539413.10394
+2011,"Gambia, The","GMB",1042056.38528
+2011,"Guinea-Bissau","GNB",633138.41968
+2011,"Equatorial Guinea","GNQ",666012.75168
+2011,"Greece","GRC",8511794.03451
+2011,"Guatemala","GTM",7072123.02015
+2011,"Guyana","GUY",198535.656
+2011,"Hong Kong SAR, China","HKG",7071600
+2011,"Honduras","HND",4455998.4381
+2011,"Croatia","HRV",2368125.70284
+2011,"Haiti","HTI",4897847.1744
+2011,"Hungary","HUN",6916190.41266
+2011,"Indonesia","IDN",124016434.1286
+2011,"India","IND",391040055.80164
+2011,"Ireland","IRL",2827835.46328
+2011,"Iran, Islamic Rep.","IRN",53140090.808
+2011,"Iraq","IRQ",21282804.2674
+2011,"Iceland","ISL",298555.63218
+2011,"Israel","ISR",7136148.936
+2011,"Italy","ITA",40641670.07356
+2011,"Jamaica","JAM",1524025.1276
+2011,"Jordan","JOR",6679866.57576
+2011,"Japan","JPN",116416234.77
+2011,"Kazakhstan","KAZ",9421047.938
+2011,"Kenya","KEN",10349399.5363
+2011,"Kyrgyz Republic","KGZ",1949521.392
+2011,"Cambodia","KHM",3004693.82123
+2011,"Korea, Rep.","KOR",40909591.94874
+2011,"Kuwait","KWT",3168054
+2011,"Lao PDR","LAO",1946163.1224
+2011,"Lebanon","LBN",4550936.92648
+2011,"Liberia","LBR",1936127.75078
+2011,"Libya","LBY",4890307.04326
+2011,"St. Lucia","LCA",32386.761
+2011,"Sri Lanka","LKA",3714770.10656
+2011,"Lesotho","LSO",507160.0083
+2011,"Lithuania","LTU",2020994.23215
+2011,"Luxembourg","LUX",460841.58382
+2011,"Latvia","LVA",1397903.90121
+2011,"Macao SAR, China","MAC",550833
+2011,"Morocco","MAR",19203941.4066
+2011,"Moldova","MDA",1217974.27637
+2011,"Madagascar","MDG",7084185.426
+2011,"Maldives","MDV",140207.86557
+2011,"Mexico","MEX",90370887.00948
+2011,"North Macedonia","MKD",1175261.08588
+2011,"Mali","MLI",5709215.07807
+2011,"Malta","MLT",391878.85788
+2011,"Myanmar","MMR",14825520.439
+2011,"Montenegro","MNE",399777.33288
+2011,"Mongolia","MNG",1882817.72791
+2011,"Mozambique","MOZ",7821270
+2011,"Mauritania","MRT",1709104.94478
+2011,"Mauritius","MUS",519046.31376
+2011,"Malawi","MWI",2344863.13296
+2011,"Malaysia","MYS",20516667.37858
+2011,"Namibia","NAM",919551.32626
+2011,"New Caledonia","NCL",171851.5775
+2011,"Niger","NER",2775331.1032
+2011,"Nigeria","NGA",72230101.7928
+2011,"Nicaragua","NIC",3371400.37955
+2011,"Netherlands","NLD",14669706.50046
+2011,"Norway","NOR",3935476.0704
+2011,"Nepal","NPL",4626211.9176
+2011,"New Zealand","NZL",3774624
+2011,"Oman","OMN",2476787.03666
+2011,"Pakistan","PAK",64539405.93936
+2011,"Panama","PAN",2425408.66323
+2011,"Peru","PER",22421439.45738
+2011,"Philippines","PHL",43505397.70578
+2011,"Papua New Guinea","PNG",971385.48
+2011,"Poland","POL",23134846.389
+2011,"Puerto Rico","PRI",3449657.35836
+2011,"Portugal","PRT",6457742.7252
+2011,"Paraguay","PRY",3774039.23904
+2011,"West Bank and Gaza","PSE",2888203.81666
+2011,"French Polynesia","PYF",163001.07078
+2011,"Qatar","QAT",2007400.64924
+2011,"Romania","ROU",10871606.1088
+2011,"Russian Federation","RUS",105407936.68656
+2011,"Rwanda","RWA",1743484.74354
+2011,"Saudi Arabia","SAU",23264792.74482
+2011,"Sudan","SDN",11738566.90932
+2011,"Senegal","SEN",5759381.73032
+2011,"Singapore","SGP",5183688
+2011,"Solomon Islands","SLB",111055.33176
+2011,"Sierra Leone","SLE",2575939.65024
+2011,"El Salvador","SLV",4119158.56275
+2011,"Somalia","SOM",5074285.05
+2011,"Serbia","SRB",3994307.76285
+2011,"Sao Tome and Principe","STP",121901.95344
+2011,"Suriname","SUR",354693.90852
+2011,"Slovak Republic","SVK",2937800.5728
+2011,"Slovenia","SVN",1085604.96369
+2011,"Sweden","SWE",8059895.21261
+2011,"Eswatini","SWZ",243350.583
+2011,"Syrian Arab Republic","SYR",11506454.0812
+2011,"Chad","TCD",2726091.85244
+2011,"Togo","TGO",2508567.52048
+2011,"Thailand","THA",30179365.04542
+2011,"Tajikistan","TJK",2041455.83147
+2011,"Turkmenistan","TKM",2526242.607
+2011,"Timor-Leste","TLS",312562.51166
+2011,"Tonga","TON",24277.10194
+2011,"Trinidad and Tobago","TTO",719345.8648
+2011,"Tunisia","TUN",7190394.27936
+2011,"Turkey","TUR",52439952.22108
+2011,"Tanzania","TZA",13153060.2896
+2011,"Uganda","UGA",6661208.09256
+2011,"Ukraine","UKR",31395053.41254
+2011,"Uruguay","URY",3187408.26712
+2011,"United States","USA",252208132.86064
+2011,"Uzbekistan","UZB",15007103.1
+2011,"St. Vincent and the Grenadines","VCT",53459.9514
+2011,"Venezuela, RB","VEN",25452527.14284
+2011,"Vietnam","VNM",27621226.1472
+2011,"Vanuatu","VUT",59599.23138
+2011,"Samoa","WSM",37225.71933
+2011,"Yemen, Rep.","YEM",7705087.13304
+2011,"South Africa","ZAF",32630278.62214
+2011,"Zambia","ZMB",5588385.03349
+2011,"Zimbabwe","ZWE",4257060.73845
+2012,"Aruba","ABW",44058.84705
+2012,"Afghanistan","AFG",7528588.9248
+2012,"Angola","AGO",15383123.489
+2012,"Albania","ALB",1575787.8633
+2012,"United Arab Emirates","ARE",7747412.88902
+2012,"Argentina","ARG",38027773.86791
+2012,"Armenia","ARM",1823992.7436
+2012,"Australia","AUS",19414833.7793
+2012,"Austria","AUT",4817486.95677
+2012,"Azerbaijan","AZE",5008847.29272
+2012,"Burundi","BDI",1034996.34448
+2012,"Belgium","BEL",10856359.61408
+2012,"Benin","BEN",4293033.3275
+2012,"Burkina Faso","BFA",4269914.50284
+2012,"Bangladesh","BGD",48311264.15869
+2012,"Bulgaria","BGR",5331471.768
+2012,"Bahrain","BHR",1153854.51804
+2012,"Bahamas, The","BHS",300070.67092
+2012,"Bosnia and Herzegovina","BIH",1665461.01428
+2012,"Belarus","BLR",7150971.44692
+2012,"Belize","BLZ",152931.93246
+2012,"Bolivia","BOL",6985733.27255
+2012,"Brazil","BRA",169240746.98516
+2012,"Barbados","BRB",89515.22994
+2012,"Brunei Darussalam","BRN",301865.17032
+2012,"Bhutan","BTN",255172.38922
+2012,"Botswana","BWA",1320976.39168
+2012,"Central African Republic","CAF",1747413.56468
+2012,"Canada","CAN",28166078.30414
+2012,"Switzerland","CHE",5889928.03233
+2012,"Chile","CHL",15171199.00851
+2012,"China","CHN",700996453.5
+2012,"Cote d'Ivoire","CIV",10379711.40336
+2012,"Cameroon","CMR",11337560.54323
+2012,"Congo, Dem. Rep.","COD",28355104.10418
+2012,"Congo, Rep.","COG",2894148.31293
+2012,"Colombia","COL",36262053.18421
+2012,"Comoros","COM",203572.55395
+2012,"Cabo Verde","CPV",317397.44861
+2012,"Costa Rica","CRI",3466590.69838
+2012,"Cuba","CUB",8643323.16472
+2012,"Cyprus","CYP",763443.29006
+2012,"Czech Republic","CZE",7693579.29645
+2012,"Germany","DEU",62064607.6091
+2012,"Djibouti","DJI",669662.74768
+2012,"Denmark","DNK",4872607.67224
+2012,"Dominican Republic","DOM",7527832.94632
+2012,"Algeria","DZA",25763113.99585
+2012,"Ecuador","ECU",9746825.47812
+2012,"Egypt, Arab Rep.","EGY",37114895.1904
+2012,"Spain","ESP",36904875.8561
+2012,"Estonia","EST",899089.37904
+2012,"Ethiopia","ETH",16839219.9312
+2012,"Finland","FIN",4593267.13611
+2012,"Fiji","FJI",460179.9774
+2012,"France","FRA",51791148.08692
+2012,"Gabon","GAB",1515815.17218
+2012,"United Kingdom","GBR",52130344.94955
+2012,"Georgia","GEO",2099467.92822
+2012,"Ghana","GHA",13537133.49142
+2012,"Guinea","GIN",3648853.5616
+2012,"Gambia, The","GMB",1087861.671
+2012,"Guinea-Bissau","GNB",656565.62748
+2012,"Equatorial Guinea","GNQ",711521.79
+2012,"Greece","GRC",8505100.27044
+2012,"Guatemala","GTM",7243151.58
+2012,"Guyana","GUY",199422.432
+2012,"Hong Kong SAR, China","HKG",7150100
+2012,"Honduras","HND",4597020.95784
+2012,"Croatia","HRV",2368750.74348
+2012,"Haiti","HTI",5071848.67794
+2012,"Hungary","HUN",6912309.83436
+2012,"Indonesia","IDN",127396100.87064
+2012,"India","IND",400416922.07062
+2012,"Ireland","IRL",2849042.73086
+2012,"Iran, Islamic Rep.","IRN",54203641.61155
+2012,"Iraq","IRQ",22141873.13184
+2012,"Iceland","ISL",300190.176
+2012,"Israel","ISR",7274495.8
+2012,"Italy","ITA",40894259.22428
+2012,"Jamaica","JAM",1538500.72896
+2012,"Jordan","JOR",7134133.87155
+2012,"Japan","JPN",116331280.92
+2012,"Kazakhstan","KAZ",9566957.4357
+2012,"Kenya","KEN",10809164.00344
+2012,"Kyrgyz Republic","KGZ",1986238.456
+2012,"Cambodia","KHM",3109364.10798
+2012,"Korea, Rep.","KOR",41089081.67903
+2012,"Kuwait","KWT",3348852
+2012,"Lao PDR","LAO",2014816.92128
+2012,"Lebanon","LBN",4852948.6632
+2012,"Liberia","LBR",2009228.66946
+2012,"Libya","LBY",4935068.82512
+2012,"St. Lucia","LCA",32592.663
+2012,"Sri Lanka","LKA",3716533
+2012,"Lesotho","LSO",517932.51552
+2012,"Lithuania","LTU",1997744.53872
+2012,"Luxembourg","LUX",473863.99554
+2012,"Latvia","LVA",1381241.57143
+2012,"Macao SAR, China","MAC",564037
+2012,"Morocco","MAR",19659923.31516
+2012,"Moldova","MDA",1216928.13564
+2012,"Madagascar","MDG",7425118.40507
+2012,"Maldives","MDV",148036.07677
+2012,"Mexico","MEX",91948802.0118
+2012,"North Macedonia","MKD",1177371.385
+2012,"Mali","MLI",6008129.19708
+2012,"Malta","MLT",395712.57908
+2012,"Myanmar","MMR",15046734.31998
+2012,"Montenegro","MNE",402174.27204
+2012,"Mongolia","MNG",1921642.0494
+2012,"Mozambique","MOZ",8166393.57358
+2012,"Mauritania","MRT",1793972.62
+2012,"Mauritius","MUS",519081.14824
+2012,"Malawi","MWI",2434417.1012
+2012,"Malaysia","MYS",21009033.59975
+2012,"Namibia","NAM",958963.91461
+2012,"New Caledonia","NCL",176182.16
+2012,"Niger","NER",2884959.28308
+2012,"Nigeria","NGA",75664344.20538
+2012,"Nicaragua","NIC",3428528.1177
+2012,"Netherlands","NLD",14842885.73656
+2012,"Norway","NOR",4008534.99802
+2012,"Nepal","NPL",4711767.5528
+2012,"New Zealand","NZL",3798063.041
+2012,"Oman","OMN",2713212.76484
+2012,"Pakistan","PAK",66312146.66
+2012,"Panama","PAN",2478853.15535
+2012,"Peru","PER",22662394.9916
+2012,"Philippines","PHL",44437841.53968
+2012,"Papua New Guinea","PNG",990656.80946
+2012,"Poland","POL",23086831.49256
+2012,"Puerto Rico","PRI",3406460.22288
+2012,"Portugal","PRT",6494283.09972
+2012,"Paraguay","PRY",3846933.9957
+2012,"West Bank and Gaza","PSE",2969834.70762
+2012,"French Polynesia","PYF",165321.63705
+2012,"Qatar","QAT",2167463.10366
+2012,"Romania","ROU",10826123.8109
+2012,"Russian Federation","RUS",105669981.94311
+2012,"Rwanda","RWA",1787430.24924
+2012,"Saudi Arabia","SAU",24058628.4312
+2012,"Sudan","SDN",12069178.21226
+2012,"Senegal","SEN",5977689.5997
+2012,"Singapore","SGP",5312437
+2012,"Solomon Islands","SLB",116607.0402
+2012,"Sierra Leone","SLE",2661003.34212
+2012,"El Salvador","SLV",4191072.65414
+2012,"Somalia","SOM",5284302.08746
+2012,"Serbia","SRB",3985121.06412
+2012,"Sao Tome and Principe","STP",126525.4104
+2012,"Suriname","SUR",358348.81376
+2012,"Slovak Republic","SVK",2935233.8812
+2012,"Slovenia","SVN",1092516.00172
+2012,"Sweden","SWE",8150488.0188
+2012,"Eswatini","SWZ",246605.82965
+2012,"Syrian Arab Republic","SYR",10946032.00855
+2012,"Chad","TCD",2830798.90216
+2012,"Togo","TGO",2611031.64622
+2012,"Thailand","THA",30828056.11205
+2012,"Tajikistan","TJK",2090375.7471
+2012,"Turkmenistan","TKM",2590492.7755
+2012,"Timor-Leste","TLS",322089.80856
+2012,"Tonga","TON",24076.1816
+2012,"Trinidad and Tobago","TTO",721775.12194
+2012,"Tunisia","TUN",7291131.75474
+2012,"Turkey","TUR",53729343.84804
+2012,"Tanzania","TZA",13877351.02269
+2012,"Uganda","UGA",7058268.888
+2012,"Ukraine","UKR",31360012.49444
+2012,"Uruguay","URY",3201207.12525
+2012,"United States","USA",254614420.63778
+2012,"Uzbekistan","UZB",15199882.25
+2012,"St. Vincent and the Grenadines","VCT",53950.7499
+2012,"Venezuela, RB","VEN",25873641.57721
+2012,"Vietnam","VNM",28513907.54352
+2012,"Vanuatu","VUT",61530.42805
+2012,"Samoa","WSM",37106.82536
+2012,"Yemen, Rep.","YEM",8065869.34608
+2012,"South Africa","ZAF",33428280.00248
+2012,"Zambia","ZMB",5837265.82392
+2012,"Zimbabwe","ZWE",4306228.02266
+2013,"Aruba","ABW",44350.6335
+2013,"Afghanistan","AFG",7865067.65816
+2013,"Angola","AGO",16130307.63572
+2013,"Albania","ALB",1603504.60604
+2013,"United Arab Emirates","ARE",7824292.41928
+2013,"Argentina","ARG",38509756.15815
+2013,"Armenia","ARM",1830235.64252
+2013,"Australia","AUS",19775012.85758
+2013,"Austria","AUT",4861991.31528
+2013,"Azerbaijan","AZE",5098726.90145
+2013,"Burundi","BDI",1095417.47564
+2013,"Belgium","BEL",10912672.51123
+2013,"Benin","BEN",4466250.85348
+2013,"Burkina Faso","BFA",4497997.51686
+2013,"Bangladesh","BGD",50047694.12706
+2013,"Bulgaria","BGR",5326273.75995
+2013,"Bahrain","BHR",1168206.01215
+2013,"Bahamas, The","BHS",303261.12552
+2013,"Bosnia and Herzegovina","BIH",1647981.16362
+2013,"Belarus","BLR",7195632.34989
+2013,"Belize","BLZ",156543.04374
+2013,"Bolivia","BOL",7137082.45125
+2013,"Brazil","BRA",171300683.43936
+2013,"Barbados","BRB",89350.76126
+2013,"Brunei Darussalam","BRN",307342.50758
+2013,"Bhutan","BTN",263845.20015
+2013,"Botswana","BWA",1352455.94172
+2013,"Central African Republic","CAF",1764188.42535
+2013,"Canada","CAN",28479640.39812
+2013,"Switzerland","CHE",5959744.77204
+2013,"Chile","CHL",15330440.48706
+2013,"China","CHN",722694421.2
+2013,"Cote d'Ivoire","CIV",10732981.79058
+2013,"Cameroon","CMR",11783317.329
+2013,"Congo, Dem. Rep.","COD",29704529.34108
+2013,"Congo, Rep.","COG",2987549.16639
+2013,"Colombia","COL",36759800.93012
+2013,"Comoros","COM",209276.64953
+2013,"Cabo Verde","CPV",324018.4158
+2013,"Costa Rica","CRI",3555160.6167
+2013,"Cuba","CUB",8668176.83094
+2013,"Cyprus","CYP",767957.31642
+2013,"Czech Republic","CZE",7705909.9488
+2013,"Germany","DEU",62242277.939
+2013,"Djibouti","DJI",682098.83712
+2013,"Denmark","DNK",4901386.44144
+2013,"Dominican Republic","DOM",7711912.97274
+2013,"Algeria","DZA",26536380.3276
+2013,"Ecuador","ECU",9915342.33125
+2013,"Egypt, Arab Rep.","EGY",37919407.38236
+2013,"Spain","ESP",36891840.20985
+2013,"Estonia","EST",897845.91634
+2013,"Ethiopia","ETH",17717911.04975
+2013,"Finland","FIN",4629924.915
+2013,"Fiji","FJI",464880.21012
+2013,"France","FRA",52228059.37475
+2013,"Gabon","GAB",1583685.5292
+2013,"United Kingdom","GBR",52650594.69846
+2013,"Georgia","GEO",2107360.1058
+2013,"Ghana","GHA",14034998.47468
+2013,"Guinea","GIN",3762925.01445
+2013,"Gambia, The","GMB",1135415.9656
+2013,"Guinea-Bissau","GNB",680895.7929
+2013,"Equatorial Guinea","GNQ",748579.96128
+2013,"Greece","GRC",8482138.96905
+2013,"Guatemala","GTM",7418337.47091
+2013,"Guyana","GUY",200450.184
+2013,"Hong Kong SAR, China","HKG",7178900
+2013,"Honduras","HND",4738709.05592
+2013,"Croatia","HRV",2370674.11434
+2013,"Haiti","HTI",5248179.0912
+2013,"Hungary","HUN",6920507.65146
+2013,"Indonesia","IDN",130825450.8887
+2013,"India","IND",409907903.34357
+2013,"Ireland","IRL",2873285.50056
+2013,"Iran, Islamic Rep.","IRN",55292635.15085
+2013,"Iraq","IRQ",23075656.60295
+2013,"Iceland","ISL",303149.94612
+2013,"Israel","ISR",7417238.445
+2013,"Italy","ITA",41548774.99092
+2013,"Jamaica","JAM",1553708.885
+2013,"Jordan","JOR",7592551.62
+2013,"Japan","JPN",116262975.7
+2013,"Kazakhstan","KAZ",9718100.42346
+2013,"Kenya","KEN",11286225.32884
+2013,"Kyrgyz Republic","KGZ",2031430.332
+2013,"Cambodia","KHM",3217888.5695
+2013,"Korea, Rep.","KOR",41240244.40647
+2013,"Kuwait","KWT",3526382
+2013,"Lao PDR","LAO",2084843.77344
+2013,"Lebanon","LBN",5191036.7464
+2013,"Liberia","LBR",2081047.87945
+2013,"Libya","LBY",4977654.846
+2013,"St. Lucia","LCA",32769.19805
+2013,"Sri Lanka","LKA",3746058.3
+2013,"Lesotho","LSO",529466.09328
+2013,"Lithuania","LTU",1981237.55354
+2013,"Luxembourg","LUX",486709.2864
+2013,"Latvia","LVA",1367090.47475
+2013,"Macao SAR, China","MAC",577368
+2013,"Morocco","MAR",20128275.885
+2013,"Moldova","MDA",1215715.94684
+2013,"Madagascar","MDG",7778815.32402
+2013,"Maldives","MDV",156615.8452
+2013,"Mexico","MEX",93515785.07442
+2013,"North Macedonia","MKD",1180399.26048
+2013,"Mali","MLI",6316414.93892
+2013,"Malta","MLT",401597.42793
+2013,"Myanmar","MMR",15274180.32048
+2013,"Montenegro","MNE",404635.60359
+2013,"Mongolia","MNG",1962407.76951
+2013,"Mozambique","MOZ",8527066.8672
+2013,"Mauritania","MRT",1882255.07082
+2013,"Mauritius","MUS",518841.93966
+2013,"Malawi","MWI",2528900.56242
+2013,"Malaysia","MYS",21491685.5439
+2013,"Namibia","NAM",999627.94536
+2013,"New Caledonia","NCL",180544.8835
+2013,"Niger","NER",2999174.83696
+2013,"Nigeria","NGA",79214960.40642
+2013,"Nicaragua","NIC",3486218.7731
+2013,"Netherlands","NLD",14987368.76784
+2013,"Norway","NOR",4078226.12178
+2013,"Nepal","NPL",4795227.02925
+2013,"New Zealand","NZL",3830023.041
+2013,"Oman","OMN",2969753.4801
+2013,"Pakistan","PAK",68113708.34787
+2013,"Panama","PAN",2533389.45244
+2013,"Peru","PER",22922694.08154
+2013,"Philippines","PHL",45385011.26874
+2013,"Papua New Guinea","PNG",1010776.99464
+2013,"Poland","POL",23025350.23684
+2013,"Puerto Rico","PRI",3366210.11822
+2013,"Portugal","PRT",6520332.5784
+2013,"Paraguay","PRY",3918989.03781
+2013,"West Bank and Gaza","PSE",3051945.91004
+2013,"French Polynesia","PYF",166478.55556
+2013,"Qatar","QAT",2308189.56515
+2013,"Romania","ROU",10778604.49341
+2013,"Russian Federation","RUS",105998571.71685
+2013,"Rwanda","RWA",1832231.34486
+2013,"Saudi Arabia","SAU",24865072.7892
+2013,"Sudan","SDN",12421901.00385
+2013,"Senegal","SEN",6204711.71151
+2013,"Singapore","SGP",5399162
+2013,"Solomon Islands","SLB",122452.94457
+2013,"Sierra Leone","SLE",2748061.031
+2013,"El Salvador","SLV",4263187.46736
+2013,"Somalia","SOM",5502043.16187
+2013,"Serbia","SRB",3973872.37908
+2013,"Sao Tome and Principe","STP",131011.19808
+2013,"Suriname","SUR",361980.913
+2013,"Slovak Republic","SVK",2930810.9702
+2013,"Slovenia","SVN",1098614.13396
+2013,"Sweden","SWE",8250181.69744
+2013,"Eswatini","SWZ",249963.02157
+2013,"Syrian Arab Republic","SYR",10284372.40514
+2013,"Chad","TCD",2941281.93384
+2013,"Togo","TGO",2716583.56981
+2013,"Thailand","THA",31477997.66167
+2013,"Tajikistan","TJK",2143015.43598
+2013,"Turkmenistan","TKM",2658556.33416
+2013,"Timor-Leste","TLS",331904.75352
+2013,"Tonga","TON",23795.39376
+2013,"Trinidad and Tobago","TTO",724639.8924
+2013,"Tunisia","TUN",7392692.92755
+2013,"Turkey","TUR",55069491.04074
+2013,"Tanzania","TZA",14639966.53872
+2013,"Uganda","UGA",7480857.29202
+2013,"Ukraine","UKR",31330995.06
+2013,"Uruguay","URY",3214642.78548
+2013,"United States","USA",256953576.31153
+2013,"Uzbekistan","UZB",15408910.4
+2013,"St. Vincent and the Grenadines","VCT",54479.28096
+2013,"Venezuela, RB","VEN",26246929.27118
+2013,"Vietnam","VNM",29430158.38397
+2013,"Vanuatu","VUT",63545.88757
+2013,"Samoa","WSM",36969.5212
+2013,"Yemen, Rep.","YEM",8439119.31608
+2013,"South Africa","ZAF",34248627.65125
+2013,"Zambia","ZMB",6099735.06615
+2013,"Zimbabwe","ZWE",4359432.43212
+2014,"Aruba","ABW",44666.22816
+2014,"Afghanistan","AFG",8204879.57948
+2014,"Angola","AGO",16900843.62063
+2014,"Albania","ALB",1630119.14992
+2014,"United Arab Emirates","ARE",7866607.8825
+2014,"Argentina","ARG",38990109.015
+2014,"Armenia","ARM",1838075.78136
+2014,"Australia","AUS",20095656.72972
+2014,"Austria","AUT",4916376.75256
+2014,"Azerbaijan","AZE",5189180.69338
+2014,"Burundi","BDI",1159264.88576
+2014,"Belgium","BEL",10966156.73481
+2014,"Benin","BEN",4646153.70274
+2014,"Burkina Faso","BFA",4736621.05086
+2014,"Bangladesh","BGD",51817405.05975
+2014,"Bulgaria","BGR",5320502.57638
+2014,"Bahrain","BHR",1187969.30795
+2014,"Bahamas, The","BHS",306388.275
+2014,"Bosnia and Herzegovina","BIH",1631018.4504
+2014,"Belarus","BLR",7246349.60895
+2014,"Belize","BLZ",160198.4761
+2014,"Bolivia","BOL",7285463.62299
+2014,"Brazil","BRA",173346780.02048
+2014,"Barbados","BRB",89229.976
+2014,"Brunei Darussalam","BRN",312791.74296
+2014,"Bhutan","BTN",272650.51654
+2014,"Botswana","BWA",1386174.65792
+2014,"Central African Republic","CAF",1783838.08989
+2014,"Canada","CAN",28781575.9583
+2014,"Switzerland","CHE",6034706.76704
+2014,"Chile","CHL",15504112.70607
+2014,"China","CHN",744357517.4
+2014,"Cote d'Ivoire","CIV",11100529.95408
+2014,"Cameroon","CMR",12242756.97528
+2014,"Congo, Dem. Rep.","COD",31115108.301
+2014,"Congo, Rep.","COG",3083053.67025
+2014,"Colombia","COL",37299403.7199
+2014,"Comoros","COM",215195.9382
+2014,"Cabo Verde","CPV",330711.9156
+2014,"Costa Rica","CRI",3641667.1199
+2014,"Cuba","CUB",8690603.32649
+2014,"Cyprus","CYP",772396.20207
+2014,"Czech Republic","CZE",7723920.64248
+2014,"Germany","DEU",62510391.75
+2014,"Djibouti","DJI",694826.32998
+2014,"Denmark","DNK",4932961.4975
+2014,"Dominican Republic","DOM",7895296.8594
+2014,"Algeria","DZA",27332602.95048
+2014,"Ecuador","ECU",10091288.44152
+2014,"Egypt, Arab Rep.","EGY",38737023.52452
+2014,"Spain","ESP",36890016.80812
+2014,"Estonia","EST",897426.72605
+2014,"Ethiopia","ETH",18635948.27472
+2014,"Finland","FIN",4651842.846
+2014,"Fiji","FJI",469752.90552
+2014,"France","FRA",52647802.47398
+2014,"Gabon","GAB",1651170.41451
+2014,"United Kingdom","GBR",53209682.7477
+2014,"Georgia","GEO",2122557.98738
+2014,"Ghana","GHA",14543044.9712
+2014,"Guinea","GIN",3884551.9092
+2014,"Gambia, The","GMB",1184628.37536
+2014,"Guinea-Bissau","GNB",705998.42595
+2014,"Equatorial Guinea","GNQ",786522.58659
+2014,"Greece","GRC",8463622.74926
+2014,"Guatemala","GTM",7597136.88344
+2014,"Guyana","GUY",201636.81594
+2014,"Hong Kong SAR, China","HKG",7229500
+2014,"Honduras","HND",4882044.33606
+2014,"Croatia","HRV",2370234.28047
+2014,"Haiti","HTI",5426831.16108
+2014,"Hungary","HUN",6928924.48236
+2014,"Indonesia","IDN",134286662.8026
+2014,"India","IND",419567352.70912
+2014,"Ireland","IRL",2903635.116
+2014,"Iran, Islamic Rep.","IRN",56418319.5627
+2014,"Iraq","IRQ",24005087.38342
+2014,"Iceland","ISL",306652.64462
+2014,"Israel","ISR",7566988.328
+2014,"Italy","ITA",42109853.0608
+2014,"Jamaica","JAM",1569364.78008
+2014,"Jordan","JOR",8026939.8
+2014,"Japan","JPN",116208079.04
+2014,"Kazakhstan","KAZ",9874722.6263
+2014,"Kenya","KEN",11778222.88923
+2014,"Kyrgyz Republic","KGZ",2079480.425
+2014,"Cambodia","KHM",3329689.56294
+2014,"Korea, Rep.","KOR",41463572.66913
+2014,"Kuwait","KWT",3690939
+2014,"Lao PDR","LAO",2157059.80581
+2014,"Lebanon","LBN",5506402.12562
+2014,"Liberia","LBR",2153466.16676
+2014,"Libya","LBY",5026583.39351
+2014,"St. Lucia","LCA",32954.69974
+2014,"Sri Lanka","LKA",3785336.04
+2014,"Lesotho","LSO",541554.58896
+2014,"Lithuania","LTU",1967852.84636
+2014,"Luxembourg","LUX",500041.76996
+2014,"Latvia","LVA",1354814.74464
+2014,"Macao SAR, China","MAC",590210
+2014,"Morocco","MAR",20602947.23648
+2014,"Moldova","MDA",1214089.472
+2014,"Madagascar","MDG",8146535.02998
+2014,"Maldives","MDV",165767.95908
+2014,"Mexico","MEX",95072133.37041
+2014,"North Macedonia","MKD",1184330.08764
+2014,"Mali","MLI",6637534.12748
+2014,"Malta","MLT",409992.43626
+2014,"Myanmar","MMR",15501261.944
+2014,"Montenegro","MNE",407105.2251
+2014,"Mongolia","MNG",2004067.86093
+2014,"Mozambique","MOZ",8905236.12576
+2014,"Mauritania","MRT",1973426.71482
+2014,"Mauritius","MUS",518382.57674
+2014,"Malawi","MWI",2627830.206
+2014,"Malaysia","MYS",21974952.69662
+2014,"Namibia","NAM",1041820.19876
+2014,"New Caledonia","NCL",184769.5455
+2014,"Niger","NER",3120565.11858
+2014,"Nigeria","NGA",82878564.68242
+2014,"Nicaragua","NIC",3544357.518
+2014,"Netherlands","NLD",15126225.6752
+2014,"Norway","NOR",4145335.24544
+2014,"Nepal","NPL",4892045.64724
+2014,"New Zealand","NZL",3896881.365
+2014,"Oman","OMN",3227643.51975
+2014,"Pakistan","PAK",69956302.24828
+2014,"Panama","PAN",2589339.12381
+2014,"Peru","PER",23221642.78356
+2014,"Philippines","PHL",46329520.23741
+2014,"Papua New Guinea","PNG",1032121.68204
+2014,"Poland","POL",22960228.29205
+2014,"Puerto Rico","PRI",3310444.84974
+2014,"Portugal","PRT",6546012.38032
+2014,"Paraguay","PRY",3990996.14376
+2014,"West Bank and Gaza","PSE",3134764.43974
+2014,"French Polynesia","PYF",167464.87329
+2014,"Qatar","QAT",2431363.83336
+2014,"Romania","ROU",10730939.681
+2014,"Russian Federation","RUS",106354643.7465
+2014,"Rwanda","RWA",1880559.33243
+2014,"Saudi Arabia","SAU",25648413.8488
+2014,"Sudan","SDN",12794292.86673
+2014,"Senegal","SEN",6440434.8664
+2014,"Singapore","SGP",5469724
+2014,"Solomon Islands","SLB",128546.81784
+2014,"Sierra Leone","SLE",2837175.30096
+2014,"El Salvador","SLV",4335703.70376
+2014,"Somalia","SOM",5729045.86709
+2014,"Serbia","SRB",3963388.05808
+2014,"Sao Tome and Principe","STP",135468.52851
+2014,"Suriname","SUR",365655.89742
+2014,"Slovak Republic","SVK",2926070.46
+2014,"Slovenia","SVN",1104334.6286
+2014,"Sweden","SWE",8362603.9917
+2014,"Eswatini","SWZ",253486.64278
+2014,"Syrian Arab Republic","SYR",9636016.165
+2014,"Chad","TCD",3056812.09064
+2014,"Togo","TGO",2825147.83263
+2014,"Thailand","THA",32127201.47364
+2014,"Tajikistan","TJK",2199791.3034
+2014,"Turkmenistan","TKM",2728843.60404
+2014,"Timor-Leste","TLS",342118.43289
+2014,"Tonga","TON",23566.64544
+2014,"Trinidad and Tobago","TTO",727665.06181
+2014,"Tunisia","TUN",7497748.5154
+2014,"Turkey","TUR",56436827.79174
+2014,"Tanzania","TZA",15439812.38952
+2014,"Uganda","UGA",7937455.4112
+2014,"Ukraine","UKR",31223299.8604
+2014,"Uruguay","URY",3228546.80855
+2014,"United States","USA",259430732.45907
+2014,"Uzbekistan","UZB",15640290.45
+2014,"St. Vincent and the Grenadines","VCT",55041.48344
+2014,"Venezuela, RB","VEN",26481078.12112
+2014,"Vietnam","VNM",30371041.4275
+2014,"Vanuatu","VUT",65605.19568
+2014,"Samoa","WSM",36808.2078
+2014,"Yemen, Rep.","YEM",8822594.6752
+2014,"South Africa","ZAF",35078455.61408
+2014,"Zambia","ZMB",6372742.33926
+2014,"Zimbabwe","ZWE",4416224.2184
+2015,"Aruba","ABW",44978.45612
+2015,"Afghanistan","AFG",8535605.95209
+2015,"Angola","AGO",17691523.7348
+2015,"Albania","ALB",1654502.96102
+2015,"United Arab Emirates","ARE",7935893.51904
+2015,"Argentina","ARG",39467042.84898
+2015,"Armenia","ARM",1845588.89515
+2015,"Australia","AUS",20410545.87495
+2015,"Austria","AUT",4988133.72785
+2015,"Azerbaijan","AZE",5279540.43474
+2015,"Burundi","BDI",1227128.90652
+2015,"Belgium","BEL",11034732.07696
+2015,"Benin","BEN",4832685.8359
+2015,"Burkina Faso","BFA",4985852.5848
+2015,"Bangladesh","BGD",53608406.94396
+2015,"Bulgaria","BGR",5310995.5409
+2015,"Bahrain","BHR",1220935.45147
+2015,"Bahamas, The","BHS",309635.532
+2015,"Bosnia and Herzegovina","BIH",1617732.93626
+2015,"Belarus","BLR",7302153.06756
+2015,"Belize","BLZ",163882.05956
+2015,"Bolivia","BOL",7434135.80676
+2015,"Brazil","BRA",175375427.6943
+2015,"Barbados","BRB",89161.83423
+2015,"Brunei Darussalam","BRN",318085.51982
+2015,"Bhutan","BTN",281531.3603
+2015,"Botswana","BWA",1424166.8298
+2015,"Central African Republic","CAF",1809714.48367
+2015,"Canada","CAN",29011826.01172
+2015,"Switzerland","CHE",6105616.68328
+2015,"Chile","CHL",15698029.4016
+2015,"China","CHN",765822300
+2015,"Cote d'Ivoire","CIV",11483936.61712
+2015,"Cameroon","CMR",12715787.65328
+2015,"Congo, Dem. Rep.","COD",32586912.9768
+2015,"Congo, Rep.","COG",3182829.03499
+2015,"Colombia","COL",37904384.82588
+2015,"Comoros","COM",221335.7445
+2015,"Cabo Verde","CPV",337407.82
+2015,"Costa Rica","CRI",3726119.8791
+2015,"Cuba","CUB",8708300.52192
+2015,"Cyprus","CYP",777234.35702
+2015,"Czech Republic","CZE",7748927.77143
+2015,"Germany","DEU",63062063.692
+2015,"Djibouti","DJI",707589.83166
+2015,"Denmark","DNK",4974525.33058
+2015,"Dominican Republic","DOM",8077900.7805
+2015,"Algeria","DZA",28146507.6096
+2015,"Ecuador","ECU",10278097.70756
+2015,"Egypt, Arab Rep.","EGY",39551544.58965
+2015,"Spain","ESP",36971015.16864
+2015,"Estonia","EST",899948.85312
+2015,"Ethiopia","ETH",19590311.80884
+2015,"Finland","FIN",4669930.29475
+2015,"Fiji","FJI",475367.54832
+2015,"France","FRA",53009026.0616
+2015,"Gabon","GAB",1716265.4742
+2015,"United Kingdom","GBR",53802927.11094
+2015,"Georgia","GEO",2140096.55648
+2015,"Ghana","GHA",15062519.93458
+2015,"Guinea","GIN",4017352.85536
+2015,"Gambia, The","GMB",1235413.1608
+2015,"Guinea-Bissau","GNB",731763.70461
+2015,"Equatorial Guinea","GNQ",825200.922
+2015,"Greece","GRC",8445266.34618
+2015,"Guatemala","GTM",7779194.94849
+2015,"Guyana","GUY",202916.95953
+2015,"Hong Kong SAR, China","HKG",7291300
+2015,"Honduras","HND",5027133.4916
+2015,"Croatia","HRV",2360533.8262
+2015,"Haiti","HTI",5607350.7558
+2015,"Hungary","HUN",6939334.74
+2015,"Indonesia","IDN",137751865.80441
+2015,"India","IND",429428649.52584
+2015,"Ireland","IRL",2940509.86866
+2015,"Iran, Islamic Rep.","IRN",57580313.94464
+2015,"Iraq","IRQ",24872486.20749
+2015,"Iceland","ISL",309973.655
+2015,"Israel","ISR",7724692.379
+2015,"Italy","ITA",42247229.3683
+2015,"Jamaica","JAM",1585235.18992
+2015,"Jordan","JOR",8363638.12688
+2015,"Japan","JPN",116182717.21
+2015,"Kazakhstan","KAZ",10032906.17946
+2015,"Kenya","KEN",12284624.22062
+2015,"Kyrgyz Republic","KGZ",2131200.113
+2015,"Cambodia","KHM",3443895.9978
+2015,"Korea, Rep.","KOR",41645541.83398
+2015,"Kuwait","KWT",3835588
+2015,"Lao PDR","LAO",2231863.2528
+2015,"Lebanon","LBN",5755683.92186
+2015,"Liberia","LBR",2228064.4878
+2015,"Libya","LBY",5087798.3005
+2015,"St. Lucia","LCA",33166.10465
+2015,"Sri Lanka","LKA",3828283.2
+2015,"Lesotho","LSO",554038.67988
+2015,"Lithuania","LTU",1952970.993
+2015,"Luxembourg","LUX",513663.19116
+2015,"Latvia","LVA",1344322.8546
+2015,"Macao SAR, China","MAC",602093
+2015,"Morocco","MAR",21078593.38872
+2015,"Moldova","MDA",1204391.797
+2015,"Madagascar","MDG",8528699.7744
+2015,"Maldives","MDV",175273.81506
+2015,"Mexico","MEX",96615314.30535
+2015,"North Macedonia","MKD",1188475.34208
+2015,"Mali","MLI",6973939.31052
+2015,"Malta","MLT",420192.33942
+2015,"Myanmar","MMR",15729410.57192
+2015,"Montenegro","MNE",409417.95154
+2015,"Mongolia","MNG",2045830.8359
+2015,"Mozambique","MOZ",9302448.344
+2015,"Mauritania","MRT",2067216.25056
+2015,"Mauritius","MUS",517668.05
+2015,"Malawi","MWI",2731661.60465
+2015,"Malaysia","MYS",22464991.25545
+2015,"Namibia","NAM",1085688.569
+2015,"New Caledonia","NCL",186421.373
+2015,"Niger","NER",3249670.18761
+2015,"Nigeria","NGA",86652535.24452
+2015,"Nicaragua","NIC",3602941.3243
+2015,"Netherlands","NLD",15275236.76679
+2015,"Norway","NOR",4207493.30237
+2015,"Nepal","NPL",5013179.67381
+2015,"New Zealand","NZL",3979802.054
+2015,"Oman","OMN",3471481.9035
+2015,"Pakistan","PAK",71845554.08778
+2015,"Panama","PAN",2646824.0904
+2015,"Peru","PER",23571249.56823
+2015,"Philippines","PHL",47262076.26504
+2015,"Papua New Guinea","PNG",1054983.29264
+2015,"Poland","POL",22897449.42536
+2015,"Puerto Rico","PRI",3251778.72768
+2015,"Portugal","PRT",6578828.39064
+2015,"Paraguay","PRY",4063413.195
+2015,"West Bank and Gaza","PSE",3218282.93856
+2015,"French Polynesia","PYF",168467.99277
+2015,"Qatar","QAT",2538639.7806
+2015,"Romania","ROU",10678040.99392
+2015,"Russian Federation","RUS",106703732.235
+2015,"Rwanda","RWA",1933195.98264
+2015,"Saudi Arabia","SAU",26382762.8968
+2015,"Sudan","SDN",13185765.19512
+2015,"Senegal","SEN",6685968.739
+2015,"Singapore","SGP",5535002
+2015,"Solomon Islands","SLB",134860.5388
+2015,"Sierra Leone","SLE",2928218.72561
+2015,"El Salvador","SLV",4408609.337
+2015,"Somalia","SOM",5966600.8698
+2015,"Serbia","SRB",3951844.51568
+2015,"Sao Tome and Principe","STP",139954.32386
+2015,"Suriname","SUR",369342.87616
+2015,"Slovak Republic","SVK",2922832.12089
+2015,"Slovenia","SVN",1109787.60711
+2015,"Sweden","SWE",8481489.45858
+2015,"Eswatini","SWZ",257240.854
+2015,"Syrian Arab Republic","SYR",9388889.37048
+2015,"Chad","TCD",3177085.12065
+2015,"Togo","TGO",2936587.962
+2015,"Thailand","THA",32772702.69186
+2015,"Tajikistan","TJK",2260773.76098
+2015,"Turkmenistan","TKM",2800283.44711
+2015,"Timor-Leste","TLS",352787.1006
+2015,"Tonga","TON",23456.545
+2015,"Trinidad and Tobago","TTO",730647.31908
+2015,"Tunisia","TUN",7608627.45256
+2015,"Turkey","TUR",57806286.20343
+2015,"Tanzania","TZA",16277265.65646
+2015,"Uganda","UGA",8432533.6082
+2015,"Ukraine","UKR",31183828.80196
+2015,"Uruguay","URY",3242947.75585
+2015,"United States","USA",261950743.78974
+2015,"Uzbekistan","UZB",15884191.75
+2015,"St. Vincent and the Grenadines","VCT",55619.5614
+2015,"Venezuela, RB","VEN",26518333.77358
+2015,"Vietnam","VNM",31333194.65338
+2015,"Vanuatu","VUT",67676.26008
+2015,"Samoa","WSM",36600.4814
+2015,"Yemen, Rep.","YEM",9215168.07537
+2015,"South Africa","ZAF",35905875.29532
+2015,"Zambia","ZMB",6654567.5859
+2015,"Zimbabwe","ZWE",4473871.8117
+2016,"Aruba","ABW",45293.2908
+2016,"Afghanistan","AFG",8852833.6056
+2016,"Angola","AGO",18502163.77818
+2016,"Albania","ALB",1680246.96521
+2016,"United Arab Emirates","ARE",8047162.15875
+2016,"Argentina","ARG",39940546.48736
+2016,"Armenia","ARM",1852180.25054
+2016,"Australia","AUS",20755798.206
+2016,"Austria","AUT",5058967.6054
+2016,"Azerbaijan","AZE",5368845.74052
+2016,"Burundi","BDI",1299253.68776
+2016,"Belgium","BEL",11095615.10818
+2016,"Benin","BEN",5026050.16488
+2016,"Burkina Faso","BFA",5245964.109
+2016,"Bangladesh","BGD",55423123.88533
+2016,"Bulgaria","BGR",5298038.81438
+2016,"Bahrain","BHR",1270238.9837
+2016,"Bahamas, The","BHS",313041.17936
+2016,"Bosnia and Herzegovina","BIH",1609084.45234
+2016,"Belarus","BLR",7354014.42519
+2016,"Belize","BLZ",167603.12505
+2016,"Bolivia","BOL",7583053.80636
+2016,"Brazil","BRA",177386816.64352
+2016,"Barbados","BRB",89148.97014
+2016,"Brunei Darussalam","BRN",323197.0909
+2016,"Bhutan","BTN",290468.44168
+2016,"Botswana","BWA",1467301.85025
+2016,"Central African Republic","CAF",1843116.08094
+2016,"Canada","CAN",29357012.931
+2016,"Switzerland","CHE",6174415.70782
+2016,"Chile","CHL",15918734.92384
+2016,"China","CHN",787376534.4
+2016,"Cote d'Ivoire","CIV",11883013.95606
+2016,"Cameroon","CMR",13202430.47271
+2016,"Congo, Dem. Rep.","COD",34121208.5291
+2016,"Congo, Rep.","COG",3287507.16996
+2016,"Colombia","COL",38592067.45184
+2016,"Comoros","COM",227691.90543
+2016,"Cabo Verde","CPV",344093.7376
+2016,"Costa Rica","CRI",3808498.8396
+2016,"Cuba","CUB",8720098.5844
+2016,"Cyprus","CYP",782634.10509
+2016,"Czech Republic","CZE",7773650.4524
+2016,"Germany","DEU",63592936.14856
+2016,"Djibouti","DJI",720325.82776
+2016,"Denmark","DNK",5020142.5242
+2016,"Dominican Republic","DOM",8259547.15768
+2016,"Algeria","DZA",28977623.49682
+2016,"Ecuador","ECU",10477465.63944
+2016,"Egypt, Arab Rep.","EGY",40359122.37972
+2016,"Spain","ESP",37112875.1008
+2016,"Estonia","EST",902145.0977
+2016,"Ethiopia","ETH",20581863.56226
+2016,"Finland","FIN",4686119.63325
+2016,"Fiji","FJI",481873.4541
+2016,"France","FRA",53323902.19368
+2016,"Gabon","GAB",1778160.22038
+2016,"United Kingdom","GBR",54382824.97398
+2016,"Georgia","GEO",2155877.06685
+2016,"Ghana","GHA",15593581.16303
+2016,"Guinea","GIN",4162448.6964
+2016,"Gambia, The","GMB",1287718.11012
+2016,"Guinea-Bissau","GNB",758122.65322
+2016,"Equatorial Guinea","GNQ",864455.45978
+2016,"Greece","GRC",8446960.38777
+2016,"Guatemala","GTM",7964335.3311
+2016,"Guyana","GUY",204272.34966
+2016,"Hong Kong SAR, China","HKG",7336600
+2016,"Honduras","HND",5174308.25522
+2016,"Croatia","HRV",2354458.06647
+2016,"Haiti","HTI",5788113.58496
+2016,"Hungary","HUN",6946267.33917
+2016,"Indonesia","IDN",141211677.23754
+2016,"India","IND",439501313.895
+2016,"Ireland","IRL",2983354.51895
+2016,"Iran, Islamic Rep.","IRN",58781876.5508
+2016,"Iraq","IRQ",25661856.39408
+2016,"Iceland","ISL",314423.74665
+2016,"Israel","ISR",7884197.76
+2016,"Italy","ITA",42351338.7279
+2016,"Jamaica","JAM",1601281.21716
+2016,"Jordan","JOR",8647202.08716
+2016,"Japan","JPN",116145369.92527
+2016,"Kazakhstan","KAZ",10189587.6552
+2016,"Kenya","KEN",12804902.16755
+2016,"Kyrgyz Republic","KGZ",2185215.48
+2016,"Cambodia","KHM",3560343.6078
+2016,"Korea, Rep.","KOR",41774264.48286
+2016,"Kuwait","KWT",3956862
+2016,"Lao PDR","LAO",2309515.28128
+2016,"Lebanon","LBN",5926427.26746
+2016,"Liberia","LBR",2305044.44152
+2016,"Libya","LBY",5163864.064
+2016,"St. Lucia","LCA",33409.59624
+2016,"Sri Lanka","LKA",3882481.33
+2016,"Lesotho","LSO",566838.94997
+2016,"Lithuania","LTU",1932212.49546
+2016,"Luxembourg","LUX",526489.8644
+2016,"Latvia","LVA",1332896.66277
+2016,"Macao SAR, China","MAC",612824
+2016,"Morocco","MAR",21553481.7264
+2016,"Moldova","MDA",1191230.4887
+2016,"Madagascar","MDG",8926125.3072
+2016,"Maldives","MDV",185228.2177
+2016,"Mexico","MEX",98145003.00683
+2016,"North Macedonia","MKD",1192987.4187
+2016,"Mali","MLI",7326848.65784
+2016,"Malta","MLT",430220.3488
+2016,"Myanmar","MMR",15957056.76318
+2016,"Montenegro","MNE",411597.42723
+2016,"Mongolia","MNG",2087400.82326
+2016,"Mozambique","MOZ",9719881.3518
+2016,"Mauritania","MRT",2163454.49784
+2016,"Mauritius","MUS",516886.8043
+2016,"Malawi","MWI",2839899.06018
+2016,"Malaysia","MYS",22964393.5568
+2016,"Namibia","NAM",1130941.48284
+2016,"New Caledonia","NCL",188062.8635
+2016,"Niger","NER",3386493.7281
+2016,"Nigeria","NGA",90531025.58652
+2016,"Nicaragua","NIC",3661976.173
+2016,"Netherlands","NLD",15435425.0939
+2016,"Norway","NOR",4265347.80715
+2016,"Nepal","NPL",5164238.9106
+2016,"New Zealand","NZL",4072982.4
+2016,"Oman","OMN",3695354.025
+2016,"Pakistan","PAK",73783785.53304
+2016,"Panama","PAN",2705928.91971
+2016,"Peru","PER",23979739.05404
+2016,"Philippines","PHL",48177756.627
+2016,"Papua New Guinea","PNG",1079465.463
+2016,"Poland","POL",22849638.95486
+2016,"Puerto Rico","PRI",3188713.12544
+2016,"Portugal","PRT",6617169.16872
+2016,"Paraguay","PRY",4136267.82828
+2016,"West Bank and Gaza","PSE",3302741.31264
+2016,"French Polynesia","PYF",169506.74784
+2016,"Qatar","QAT",2628233.36685
+2016,"Romania","ROU",10619521.913
+2016,"Russian Federation","RUS",107050095.31108
+2016,"Rwanda","RWA",1990235.47424
+2016,"Saudi Arabia","SAU",27058155.89643
+2016,"Sudan","SDN",13596342.61393
+2016,"Senegal","SEN",6941397.24144
+2016,"Singapore","SGP",5607283
+2016,"Solomon Islands","SLB",141374.33474
+2016,"Sierra Leone","SLE",3021536.62888
+2016,"El Salvador","SLV",4481140.14637
+2016,"Somalia","SOM",6215577.8316
+2016,"Serbia","SRB",3939249.5082
+2016,"Sao Tome and Principe","STP",144473.87332
+2016,"Suriname","SUR",373048.7332
+2016,"Slovak Republic","SVK",2922095.17188
+2016,"Slovenia","SVN",1115535.6884
+2016,"Sweden","SWE",8618397.7842
+2016,"Eswatini","SWZ",261331.85246
+2016,"Syrian Arab Republic","SYR",9227932.32445
+2016,"Chad","TCD",3302147.18466
+2016,"Togo","TGO",3051143.29856
+2016,"Thailand","THA",33415221.72224
+2016,"Tajikistan","TJK",2326256.52325
+2016,"Turkmenistan","TKM",2872407.56088
+2016,"Timor-Leste","TLS",363957.7665
+2016,"Tonga","TON",23487.42746
+2016,"Trinidad and Tobago","TTO",733552.2975
+2016,"Tunisia","TUN",7725792.19932
+2016,"Turkey","TUR",59179591.66312
+2016,"Tanzania","TZA",17152407.85923
+2016,"Uganda","UGA",8970228.89952
+2016,"Ukraine","UKR",31122531.56642
+2016,"Uruguay","URY",3257862.81016
+2016,"United States","USA",264473000.0781
+2016,"Uzbekistan","UZB",16130961.35
+2016,"St. Vincent and the Grenadines","VCT",56236.48191
+2016,"Venezuela, RB","VEN",26318353.68085
+2016,"Vietnam","VNM",32315314.1185
+2016,"Vanuatu","VUT",69754.06212
+2016,"Samoa","WSM",36342.0174
+2016,"Yemen, Rep.","YEM",9615916.2474
+2016,"South Africa","ZAF",36726639.93309
+2016,"Zambia","ZMB",6944320.48662
+2016,"Zimbabwe","ZWE",4531237.96048
+2017,"Aruba","ABW",45613.93773
+2017,"Afghanistan","AFG",9164768.0275
+2017,"Angola","AGO",19332894.85191
+2017,"Albania","ALB",1706344.97031
+2017,"United Arab Emirates","ARE",8182525.43088
+2017,"Argentina","ARG",40410673.64439
+2017,"Armenia","ARM",1858250.20267
+2017,"Australia","AUS",21133981.8144
+2017,"Austria","AUT",5110857.99204
+2017,"Azerbaijan","AZE",5453517.48319
+2017,"Burundi","BDI",1375679.8906
+2017,"Belgium","BEL",11143218.52838
+2017,"Benin","BEN",5226413.79456
+2017,"Burkina Faso","BFA",5516711.82348
+2017,"Bangladesh","BGD",57259998.26218
+2017,"Bulgaria","BGR",5283538.86543
+2017,"Bahrain","BHR",1332507.51322
+2017,"Bahamas, The","BHS",316565.35825
+2017,"Bosnia and Herzegovina","BIH",1604580.41784
+2017,"Belarus","BLR",7390686.46526
+2017,"Belize","BLZ",171357.15775
+2017,"Bolivia","BOL",7732022.8524
+2017,"Brazil","BRA",179379296.01925
+2017,"Barbados","BRB",89186.09411
+2017,"Brunei Darussalam","BRN",328174.75072
+2017,"Bhutan","BTN",299470.29021
+2017,"Botswana","BWA",1514887.212
+2017,"Central African Republic","CAF",1883450.2254
+2017,"Canada","CAN",29729549.486
+2017,"Switzerland","CHE",6234161.7024
+2017,"Chile","CHL",16159783.5815
+2017,"China","CHN",809246214
+2017,"Cote d'Ivoire","CIV",12298403.6685
+2017,"Cameroon","CMR",13702216.8639
+2017,"Congo, Dem. Rep.","COD",35717778.082
+2017,"Congo, Rep.","COG",3396520.77759
+2017,"Colombia","COL",39346013.10424
+2017,"Comoros","COM",234270.0976
+2017,"Cabo Verde","CPV",350777.22239
+2017,"Costa Rica","CRI",3888684.648
+2017,"Cuba","CUB",8728618.32135
+2017,"Cyprus","CYP",788454.2666
+2017,"Czech Republic","CZE",7805452.1965
+2017,"Germany","DEU",63861626.31522
+2017,"Djibouti","DJI",733074.768
+2017,"Denmark","DNK",5059173.4986
+2017,"Dominican Republic","DOM",8439610.11747
+2017,"Algeria","DZA",29821727.65048
+2017,"Ecuador","ECU",10687236.1652
+2017,"Egypt, Arab Rep.","EGY",41185808.0595
+2017,"Spain","ESP",37311863.3888
+2017,"Estonia","EST",905266.76328
+2017,"Ethiopia","ETH",21609824.9706
+2017,"Finland","FIN",4699883.5955
+2017,"Fiji","FJI",489113.7532
+2017,"France","FRA",53654868.436
+2017,"Gabon","GAB",1837187.12512
+2017,"United Kingdom","GBR",54923317.13837
+2017,"Georgia","GEO",2170854.00924
+2017,"Ghana","GHA",16135329.55848
+2017,"Guinea","GIN",4319326.00188
+2017,"Gambia, The","GMB",1341601.261
+2017,"Guinea-Bissau","GNB",785097.2997
+2017,"Equatorial Guinea","GNQ",904178.25168
+2017,"Greece","GRC",8466513.49596
+2017,"Guatemala","GTM",8153103.4424
+2017,"Guyana","GUY",205727.35284
+2017,"Hong Kong SAR, China","HKG",7391700
+2017,"Honduras","HND",5323339.56312
+2017,"Croatia","HRV",2337247.98177
+2017,"Haiti","HTI",5968477.16982
+2017,"Hungary","HUN",6955524.39892
+2017,"Indonesia","IDN",144655573.14571
+2017,"India","IND",449795397.744
+2017,"Ireland","IRL",3026106.52436
+2017,"Iran, Islamic Rep.","IRN",60016532.23872
+2017,"Iraq","IRQ",26391349.05342
+2017,"Iceland","ISL",322016.482
+2017,"Israel","ISR",8045512.688
+2017,"Italy","ITA",42462869.16096
+2017,"Jamaica","JAM",1617507.20544
+2017,"Jordan","JOR",8880356.2248
+2017,"Japan","JPN",116053379.28395
+2017,"Kazakhstan","KAZ",10342139.24736
+2017,"Kenya","KEN",13339740.80052
+2017,"Kyrgyz Republic","KGZ",2239719.57
+2017,"Cambodia","KHM",3678963.1074
+2017,"Korea, Rep.","KOR",41861498.32233
+2017,"Kuwait","KWT",4056102
+2017,"Lao PDR","LAO",2389617.69408
+2017,"Lebanon","LBN",6030303.35017
+2017,"Liberia","LBR",2383886.50128
+2017,"Libya","LBY",5252535.67691
+2017,"St. Lucia","LCA",33679.3446
+2017,"Sri Lanka","LKA",3942264.96
+2017,"Lesotho","LSO",579981.8236
+2017,"Lithuania","LTU",1909624.56948
+2017,"Luxembourg","LUX",541037.76272
+2017,"Latvia","LVA",1322185.326
+2017,"Macao SAR, China","MAC",622578
+2017,"Morocco","MAR",22027644.58356
+2017,"Moldova","MDA",1172512.59006
+2017,"Madagascar","MDG",9338862.02742
+2017,"Maldives","MDV",195481.5324
+2017,"Mexico","MEX",99655906.95642
+2017,"North Macedonia","MKD",1197983.41496
+2017,"Mali","MLI",7695986.98388
+2017,"Malta","MLT",442474.33454
+2017,"Myanmar","MMR",16186648.01762
+2017,"Montenegro","MNE",413734.89921
+2017,"Mongolia","MNG",2128678.89044
+2017,"Mozambique","MOZ",10157505.43185
+2017,"Mauritania","MRT",2262231.11568
+2017,"Mauritius","MUS",516480.59533
+2017,"Malawi","MWI",2953396.05802
+2017,"Malaysia","MYS",23467529.05785
+2017,"Namibia","NAM",1177405.40115
+2017,"New Caledonia","NCL",189691.2
+2017,"Niger","NER",3531990.438
+2017,"Nigeria","NGA",94518523.18193
+2017,"Nicaragua","NIC",3722299.62057
+2017,"Netherlands","NLD",15602670.45792
+2017,"Norway","NOR",4320306.47128
+2017,"Nepal","NPL",5343055.39152
+2017,"New Zealand","NZL",4162127.376
+2017,"Oman","OMN",3898847.7656
+2017,"Pakistan","PAK",75765181.0482
+2017,"Panama","PAN",2766521.5686
+2017,"Peru","PER",24438509.1828
+2017,"Philippines","PHL",49096822.98122
+2017,"Papua New Guinea","PNG",1105551.73876
+2017,"Poland","POL",22824769.1673
+2017,"Puerto Rico","PRI",3112035.40882
+2017,"Portugal","PRT",6659349.956
+2017,"Paraguay","PRY",4209506.554
+2017,"West Bank and Gaza","PSE",3380929.7067
+2017,"French Polynesia","PYF",170590.56672
+2017,"Qatar","QAT",2699605.01706
+2017,"Romania","ROU",10565369.3224
+2017,"Russian Federation","RUS",107349517.33788
+2017,"Rwanda","RWA",2051739.4
+2017,"Saudi Arabia","SAU",27679871.24826
+2017,"Sudan","SDN",14027564.8926
+2017,"Senegal","SEN",7207006.0596
+2017,"Singapore","SGP",5612253
+2017,"Solomon Islands","SLB",148105.9458
+2017,"Sierra Leone","SLE",3117881.46572
+2017,"El Salvador","SLV",4553135.381
+2017,"Somalia","SOM",6476276.23515
+2017,"Serbia","SRB",3927608.38236
+2017,"Sao Tome and Principe","STP",149035.65248
+2017,"Suriname","SUR",376764.56541
+2017,"Slovak Republic","SVK",2923641.59232
+2017,"Slovenia","SVN",1121490.75924
+2017,"Sweden","SWE",8764881.49908
+2017,"Eswatini","SWZ",265735.89
+2017,"Syrian Arab Republic","SYR",9146182.915
+2017,"Chad","TCD",3432531.22938
+2017,"Togo","TGO",3168846.69112
+2017,"Thailand","THA",34051229.964
+2017,"Tajikistan","TJK",2396074.4514
+2017,"Turkmenistan","TKM",2945219.40051
+2017,"Timor-Leste","TLS",375613.7112
+2017,"Tonga","TON",23632.84338
+2017,"Trinidad and Tobago","TTO",736389.123
+2017,"Tunisia","TUN",7848140.51196
+2017,"Turkey","TUR",60548563.68444
+2017,"Tanzania","TZA",18066883.83285
+2017,"Uganda","UGA",9549001.75248
+2017,"Ukraine","UKR",31043767.7421
+2017,"Uruguay","URY",3273060.698
+2017,"United States","USA",266788715.79424
+2017,"Uzbekistan","UZB",16372437.3
+2017,"St. Vincent and the Grenadines","VCT",56872.29584
+2017,"Venezuela, RB","VEN",25927988.9384
+2017,"Vietnam","VNM",33311724.41959
+2017,"Vanuatu","VUT",71840.11337
+2017,"Samoa","WSM",36047.45816
+2017,"Yemen, Rep.","YEM",10024985.52976
+2017,"South Africa","ZAF",37540921.0335
+2017,"Zambia","ZMB",7243006.57408
+2017,"Zimbabwe","ZWE",4589452.41963
+2018,"Aruba","ABW",45948.80706
+2018,"Afghanistan","AFG",9476981.5139
+2018,"Angola","AGO",20184723.85518
+2018,"Albania","ALB",1728969.33944
+2018,"United Arab Emirates","ARE",8332904.40252
+2018,"Argentina","ARG",40877098.9874
+2018,"Armenia","ARM",1863994.92409
+2018,"Australia","AUS",21488109.60256
+2018,"Austria","AUT",5153758.52737
+2018,"Azerbaijan","AZE",5534464.4928
+2018,"Burundi","BDI",1456375.39128
+2018,"Belgium","BEL",11198627.19054
+2018,"Benin","BEN",5433799.7592
+2018,"Burkina Faso","BFA",5798635.38828
+2018,"Bangladesh","BGD",59115517.50616
+2018,"Bulgaria","BGR",5269339.75296
+2018,"Bahrain","BHR",1401305.8928
+2018,"Bahamas, The","BHS",320173.45875
+2018,"Bosnia and Herzegovina","BIH",1603629.54605
+2018,"Belarus","BLR",7418413.07075
+2018,"Belize","BLZ",175155.38404
+2018,"Bolivia","BOL",7881917.445
+2018,"Brazil","BRA",181335495.6308
+2018,"Barbados","BRB",89279.7608
+2018,"Brunei Darussalam","BRN",332997.3584
+2018,"Bhutan","BTN",308510.2442
+2018,"Botswana","BWA",1565359.36882
+2018,"Central African Republic","CAF",1930199.355
+2018,"Canada","CAN",30175055.53524
+2018,"Switzerland","CHE",6283319.37213
+2018,"Chile","CHL",16400006.91624
+2018,"China","CHN",829760595.2
+2018,"Cote d'Ivoire","CIV",12729902.27054
+2018,"Cameroon","CMR",14215414.97614
+2018,"Congo, Dem. Rep.","COD",37376673.7032
+2018,"Congo, Rep.","COG",3509317.94508
+2018,"Colombia","COL",40115207.81568
+2018,"Comoros","COM",241082.0673
+2018,"Cabo Verde","CPV",357426.95248
+2018,"Costa Rica","CRI",3966558.0762
+2018,"Cuba","CUB",8734567.53402
+2018,"Cyprus","CYP",794545.9422
+2018,"Czech Republic","CZE",7844036.46976
+2018,"Germany","DEU",64096118.17984
+2018,"Djibouti","DJI",745821.54171
+2018,"Denmark","DNK",5091099.69864
+2018,"Dominican Republic","DOM",8615853.15878
+2018,"Algeria","DZA",30670075.53035
+2018,"Ecuador","ECU",10903408.75739
+2018,"Egypt, Arab Rep.","EGY",42030814.99808
+2018,"Spain","ESP",37588423.99034
+2018,"Estonia","EST",910577.7576
+2018,"Ethiopia","ETH",22678264.2483
+2018,"Finland","FIN",4709265.5555
+2018,"Fiji","FJI",496945.4552
+2018,"France","FRA",53979476.5692
+2018,"Gabon","GAB",1893996.0675
+2018,"United Kingdom","GBR",55426597.68912
+2018,"Georgia","GEO",2184950.20968
+2018,"Ghana","GHA",16687440.7448
+2018,"Guinea","GIN",4486525.1288
+2018,"Gambia, The","GMB",1397012.3684
+2018,"Guinea-Bissau","GNB",812698.2144
+2018,"Equatorial Guinea","GNQ",944327.34138
+2018,"Greece","GRC",8485201.85156
+2018,"Guatemala","GTM",8345771.853
+2018,"Guyana","GUY",207262.60242
+2018,"Hong Kong SAR, China","HKG",7451000
+2018,"Honduras","HND",5474092.13208
+2018,"Croatia","HRV",2327903.95321
+2018,"Haiti","HTI",6148673.09874
+2018,"Hungary","HUN",6974962.66964
+2018,"Indonesia","IDN",148088731.23425
+2018,"India","IND",460304168.9049
+2018,"Ireland","IRL",3074683.5172
+2018,"Iran, Islamic Rep.","IRN",61266716.79192
+2018,"Iraq","IRQ",27085313.74692
+2018,"Iceland","ISL",330898.15173
+2018,"Israel","ISR",8209306.104
+2018,"Italy","ITA",42559879.3088
+2018,"Jamaica","JAM",1633950.05922
+2018,"Jordan","JOR",9066350.30238
+2018,"Japan","JPN",115920900.256
+2018,"Kazakhstan","KAZ",10495800.85456
+2018,"Kenya","KEN",13891411.671
+2018,"Kyrgyz Republic","KGZ",2298401.028
+2018,"Cambodia","KHM",3800502.0546
+2018,"Korea, Rep.","KOR",42020672.39622
+2018,"Kuwait","KWT",4137314
+2018,"Lao PDR","LAO",2471806.75992
+2018,"Lebanon","LBN",6076955.32944
+2018,"Liberia","LBR",2464954.41376
+2018,"Libya","LBY",5349664.1363
+2018,"St. Lucia","LCA",33973.4142
+2018,"Sri Lanka","LKA",4003749.2
+2018,"Lesotho","LSO",593557.30031
+2018,"Lithuania","LTU",1896056.28697
+2018,"Luxembourg","LUX",553118.9895
+2018,"Latvia","LVA",1313214.90708
+2018,"Macao SAR, China","MAC",631633
+2018,"Morocco","MAR",22501246.95317
+2018,"Moldova","MDA",1154484.54606
+2018,"Madagascar","MDG",9767216.82783
+2018,"Maldives","MDV",205291.44832
+2018,"Mexico","MEX",101149483.21992
+2018,"North Macedonia","MKD",1203437.65971
+2018,"Mali","MLI",8080573.9078
+2018,"Malta","MLT",458518.1356
+2018,"Myanmar","MMR",16423466.56122
+2018,"Montenegro","MNE",415728.52551
+2018,"Mongolia","MNG",2169852.9723
+2018,"Mozambique","MOZ",10615023.71892
+2018,"Mauritania","MRT",2363345.61664
+2018,"Mauritius","MUS",516155.05279
+2018,"Malawi","MWI",3072916.32455
+2018,"Malaysia","MYS",23972655.17188
+2018,"Namibia","NAM",1224933.456
+2018,"New Caledonia","NCL",191303.5395
+2018,"Niger","NER",3686234.99175
+2018,"Nigeria","NGA",98611151.4164
+2018,"Nicaragua","NIC",3783741.08044
+2018,"Netherlands","NLD",15765212.7976
+2018,"Norway","NOR",4368944.67168
+2018,"Nepal","NPL",5546093.5488
+2018,"New Zealand","NZL",4240881.228
+2018,"Oman","OMN",4082790.71564
+2018,"Pakistan","PAK",77815624.07808
+2018,"Panama","PAN",2828115.55412
+2018,"Peru","PER",24921876.68355
+2018,"Philippines","PHL",50026969.38358
+2018,"Papua New Guinea","PNG",1133366.80756
+2018,"Poland","POL",22806875.355
+2018,"Puerto Rico","PRI",2988276.80612
+2018,"Portugal","PRT",6706183.16442
+2018,"Paraguay","PRY",4283895.09365
+2018,"West Bank and Gaza","PSE",3479999.42268
+2018,"French Polynesia","PYF",171696.32282
+2018,"Qatar","QAT",2757620.4507
+2018,"Romania","ROU",10515554.3206
+2018,"Russian Federation","RUS",107539204.78947
+2018,"Rwanda","RWA",2117291.88459
+2018,"Saudi Arabia","SAU",28257739.57908
+2018,"Sudan","SDN",14480886.71544
+2018,"Senegal","SEN",7481972.58208
+2018,"Singapore","SGP",5638676
+2018,"Solomon Islands","SLB",155046.77144
+2018,"Sierra Leone","SLE",3217270.16195
+2018,"El Salvador","SLV",4624409.5702
+2018,"Somalia","SOM",6749348.86475
+2018,"Serbia","SRB",3916682.23568
+2018,"Sao Tome and Principe","STP",153637.62696
+2018,"Suriname","SUR",380497.0122
+2018,"Slovak Republic","SVK",2926332.18746
+2018,"Slovenia","SVN",1131122.52654
+2018,"Sweden","SWE",8896291.35234
+2018,"Eswatini","SWZ",270421.84926
+2018,"Syrian Arab Republic","SYR",9177784.48044
+2018,"Chad","TCD",3569009.06893
+2018,"Togo","TGO",3289910.3969
+2018,"Thailand","THA",34678818.48846
+2018,"Tajikistan","TJK",2469423.82498
+2018,"Turkmenistan","TKM",3018655.86886
+2018,"Timor-Leste","TLS",387721.3955
+2018,"Tonga","TON",23870.96069
+2018,"Trinidad and Tobago","TTO",739173.03744
+2018,"Tunisia","TUN",7973629.20835
+2018,"Turkey","TUR",61872813.8287
+2018,"Tanzania","TZA",19020428.84544
+2018,"Uganda","UGA",10158400.06768
+2018,"Ukraine","UKR",30946608.68336
+2018,"Uruguay","URY",3288346.1286
+2018,"United States","USA",268844028.96944
+2018,"Uzbekistan","UZB",16635580.158
+2018,"St. Vincent and the Grenadines","VCT",57527.4158
+2018,"Venezuela, RB","VEN",25480748.16336
+2018,"Vietnam","VNM",34319153.01321
+2018,"Vanuatu","VUT",73970.6795
+2018,"Samoa","WSM",35779.63104
+2018,"Yemen, Rep.","YEM",10442487.42486
+2018,"South Africa","ZAF",38348226.646
+2018,"Zambia","ZMB",7551639.44994
+2018,"Zimbabwe","ZWE",4650596.95708
+2019,"Aruba","ABW",46293.7526
+2019,"Afghanistan","AFG",9797274.09778
+2019,"Angola","AGO",21061028.11923
+2019,"Albania","ALB",1747592.60739
+2019,"United Arab Emirates","ARE",8479741.81014
+2019,"Argentina","ARG",41339570.55592
+2019,"Armenia","ARM",1869846.06432
+2019,"Australia","AUS",21845994.2238
+2019,"Austria","AUT",5196085.188
+2019,"Azerbaijan","AZE",5616706.00773
+2019,"Burundi","BDI",1541176.92182
+2019,"Belgium","BEL",11263910.8818
+2019,"Benin","BEN",5648148.88011
+2019,"Burkina Faso","BFA",6092350.6234
+2019,"Bangladesh","BGD",60987421.01065
+2019,"Bulgaria","BGR",5256026.64067
+2019,"Bahrain","BHR",1467102.14616
+2019,"Bahamas, The","BHS",323787.50152
+2019,"Bosnia and Herzegovina","BIH",1605143.28748
+2019,"Belarus","BLR",7445753.51352
+2019,"Belize","BLZ",179038.38966
+2019,"Bolivia","BOL",8033036.65846
+2019,"Brazil","BRA",183241634.37656
+2019,"Barbados","BRB",89430.00318
+2019,"Brunei Darussalam","BRN",337719.56832
+2019,"Bhutan","BTN",317538.67528
+2019,"Botswana","BWA",1616554.46916
+2019,"Central African Republic","CAF",1982061.2683
+2019,"Canada","CAN",30638234.2286
+2019,"Switzerland","CHE",6332758.5272
+2019,"Chile","CHL",16610132.03505
+2019,"China","CHN",848982854.6
+2019,"Cote d'Ivoire","CIV",13176905.10406
+2019,"Cameroon","CMR",14741260.14616
+2019,"Congo, Dem. Rep.","COD",39095679.26128
+2019,"Congo, Rep.","COG",3625006.95992
+2019,"Colombia","COL",40827301.85072
+2019,"Comoros","COM",248153.85124
+2019,"Cabo Verde","CPV",364030.1352
+2019,"Costa Rica","CRI",4041884.94636
+2019,"Cuba","CUB",8739136.17756
+2019,"Cyprus","CYP",800707.3607
+2019,"Czech Republic","CZE",7888753.0227
+2019,"Germany","DEU",64294010.27712
+2019,"Djibouti","DJI",758546.93655
+2019,"Denmark","DNK",5116342.49468
+2019,"Dominican Republic","DOM",8787473.73396
+2019,"Algeria","DZA",31510099.69206
+2019,"Ecuador","ECU",11116708.16802
+2019,"Egypt, Arab Rep.","EGY",42895824.8748
+2019,"Spain","ESP",37974181.42905
+2019,"Estonia","EST",916206.64605
+2019,"Ethiopia","ETH",23788709.80575
+2019,"Finland","FIN",4717991.46276
+2019,"Fiji","FJI",505049.4625
+2019,"France","FRA",54275935.68534
+2019,"Gabon","GAB",1949693.22298
+2019,"United Kingdom","GBR",55909924.26204
+2019,"Georgia","GEO",2196345.85279
+2019,"Ghana","GHA",17249054.73606
+2019,"Guinea","GIN",4661504.79
+2019,"Gambia, The","GMB",1453951.60976
+2019,"Guinea-Bissau","GNB",840919.83509
+2019,"Equatorial Guinea","GNQ",984809.04714
+2019,"Greece","GRC",8511649.51816
+2019,"Guatemala","GTM",8540944.93414
+2019,"Guyana","GUY",208914.81975
+2019,"Hong Kong SAR, China","HKG",7507400
+2019,"Honduras","HND",5626432.1895
+2019,"Croatia","HRV",2327032.12226
+2019,"Haiti","HTI",6328949.35168
+2019,"Hungary","HUN",7000436.25804
+2019,"Indonesia","IDN",151509723.68495
+2019,"India","IND",471031528.84832
+2019,"Ireland","IRL",3128618.277
+2019,"Iran, Islamic Rep.","IRN",62509613.07163
+2019,"Iraq","IRQ",27783372.66942
+2019,"Iceland","ISL",338406.40365
+2019,"Israel","ISR",8375040.54
+2019,"Italy","ITA",42249962.73616
+2019,"Jamaica","JAM",1650592.87845
+2019,"Jordan","JOR",9213050.71491
+2019,"Japan","JPN",115782416.42838
+2019,"Kazakhstan","KAZ",10652767.4442
+2019,"Kenya","KEN",14461521.10269
+2019,"Kyrgyz Republic","KGZ",2362388.142
+2019,"Cambodia","KHM",3924621.3231
+2019,"Korea, Rep.","KOR",42152094.5546
+2019,"Kuwait","KWT",4207077
+2019,"Lao PDR","LAO",2555552.5912
+2019,"Lebanon","LBN",6084990.19422
+2019,"Liberia","LBR",2548425.5901
+2019,"Libya","LBY",5448597.79029
+2019,"St. Lucia","LCA",34281.3743
+2019,"Sri Lanka","LKA",4052087.55
+2019,"Lesotho","LSO",607507.57195
+2019,"Lithuania","LTU",1895961.66135
+2019,"Luxembourg","LUX",565583.51223
+2019,"Latvia","LVA",1305647.64484
+2019,"Macao SAR, China","MAC",640446
+2019,"Morocco","MAR",22975024.27404
+2019,"Moldova","MDA",1138636.79124
+2019,"Madagascar","MDG",10210848.94466
+2019,"Maldives","MDV",213646.47766
+2019,"Mexico","MEX",102626858.54876
+2019,"North Macedonia","MKD",1208802.04352
+2019,"Mali","MLI",8479684.80128
+2019,"Malta","MLT",477235.82036
+2019,"Myanmar","MMR",16674093.59544
+2019,"Montenegro","MNE",417691.802
+2019,"Mongolia","MNG",2210625.53138
+2019,"Mozambique","MOZ",11092108.18704
+2019,"Mauritania","MRT",2466822.20886
+2019,"Mauritius","MUS",515979.74626
+2019,"Malawi","MWI",3199301.35326
+2019,"Malaysia","MYS",24475774.85923
+2019,"Namibia","NAM",1273254.94008
+2019,"New Caledonia","NCL",192905.152
+2019,"Niger","NER",3850231.45723
+2019,"Nigeria","NGA",102806950.38671
+2019,"Nicaragua","NIC",3846137.5628
+2019,"Netherlands","NLD",15935776.43624
+2019,"Norway","NOR",4418217.75936
+2019,"Nepal","NPL",5765514.33395
+2019,"New Zealand","NZL",4312820.695
+2019,"Oman","OMN",4250782.41456
+2019,"Pakistan","PAK",79927761.54519
+2019,"Panama","PAN",2890084.5996
+2019,"Peru","PER",25390345.71738
+2019,"Philippines","PHL",50975906.10678
+2019,"Papua New Guinea","PNG",1162835.7675
+2019,"Poland","POL",22793332.22575
+2019,"Puerto Rico","PRI",2988531.09744
+2019,"Portugal","PRT",6764657.99932
+2019,"Paraguay","PRY",4359152.16681
+2019,"West Bank and Gaza","PSE",3581447.9064
+2019,"French Polynesia","PYF",172869.03645
+2019,"Qatar","QAT",2809074.58348
+2019,"Romania","ROU",10476962.10432
+2019,"Russian Federation","RUS",107708297.89207
+2019,"Rwanda","RWA",2186101.77594
+2019,"Saudi Arabia","SAU",28807838.90385
+2019,"Sudan","SDN",14957232.47832
+2019,"Senegal","SEN",7765705.38386
+2019,"Singapore","SGP",5703569
+2019,"Solomon Islands","SLB",162163.6641
+2019,"Sierra Leone","SLE",3319362.86188
+2019,"El Salvador","SLV",4694699.483
+2019,"Somalia","SOM",7034861.39924
+2019,"Serbia","SRB",3907389.211
+2019,"Sao Tome and Principe","STP",158271.02704
+2019,"Suriname","SUR",384251.87485
+2019,"Slovak Republic","SVK",2930458.64163
+2019,"Slovenia","SVN",1144894.4247
+2019,"Sweden","SWE",9015406.20996
+2019,"Eswatini","SWZ",275333.77473
+2019,"Syrian Arab Republic","SYR",9358017.06372
+2019,"Chad","TCD",3712274.66078
+2019,"Togo","TGO",3414635.03032
+2019,"Thailand","THA",35294599.52052
+2019,"Tajikistan","TJK",2545478.17107
+2019,"Turkmenistan","TKM",3092741.08512
+2019,"Timor-Leste","TLS",400181.8464
+2019,"Tonga","TON",24146.12179
+2019,"Trinidad and Tobago","TTO",741942.16203
+2019,"Tunisia","TUN",8099062.08134
+2019,"Turkey","TUR",63097811.7741
+2019,"Tanzania","TZA",20011884.045
+2019,"Uganda","UGA",10784514.08907
+2019,"Ukraine","UKR",30836426.81019
+2019,"Uruguay","URY",3303391.42406
+2019,"United States","USA",270737595.94427
+2019,"Uzbekistan","UZB",16935577.9155
+2019,"St. Vincent and the Grenadines","VCT",58187.40102
+2019,"Venezuela, RB","VEN",25162367.5096
+2019,"Vietnam","VNM",35332140.91824
+2019,"Vanuatu","VUT",76152.03508
+2019,"Samoa","WSM",35587.11208
+2019,"Yemen, Rep.","YEM",10869523.18706
+2019,"South Africa","ZAF",39149714.98552
+2019,"Zambia","ZMB",7871714.90448
+2019,"Zimbabwe","ZWE",4717306.8533
+2020,"Aruba","ABW",46653.53902
+2020,"Afghanistan","AFG",10131490.02866
+2020,"Angola","AGO",21962883.591
+2020,"Albania","ALB",1762644.77088
+2020,"United Arab Emirates","ARE",8609395.392
+2020,"Argentina","ARG",41796990.16693
+2020,"Armenia","ARM",1876112.34242
+2020,"Australia","AUS",22158130.39347
+2020,"Austria","AUT",5238479.26272
+2020,"Azerbaijan","AZE",5692217.45037
+2020,"Burundi","BDI",1629988.25948
+2020,"Belgium","BEL",11322476.13039
+2020,"Benin","BEN",5869446.3117
+2020,"Burkina Faso","BFA",6397866.29746
+2020,"Bangladesh","BGD",62873465.74791
+2020,"Bulgaria","BGR",5248078.5929
+2020,"Bahrain","BHR",1523018.87998
+2020,"Bahamas, The","BHS",327359.2976
+2020,"Bosnia and Herzegovina","BIH",1608255.513
+2020,"Belarus","BLR",7455467.24816
+2020,"Belize","BLZ",183005.06525
+2020,"Bolivia","BOL",8185478.12567
+2020,"Brazil","BRA",185081854.19857
+2020,"Barbados","BRB",89633.88861
+2020,"Brunei Darussalam","BRN",342330.4475
+2020,"Bhutan","BTN",326515.33392
+2020,"Botswana","BWA",1666761.25125
+2020,"Central African Republic","CAF",2038063.81272
+2020,"Canada","CAN",31023904.32648
+2020,"Switzerland","CHE",6383714.06315
+2020,"Chile","CHL",16770076.66943
+2020,"China","CHN",866705688.48936
+2020,"Cote d'Ivoire","CIV",13639150.8715
+2020,"Cameroon","CMR",15279799.3184
+2020,"Congo, Dem. Rep.","COD",40874033.55752
+2020,"Congo, Rep.","COG",3742866.62268
+2020,"Colombia","COL",41431388.297
+2020,"Comoros","COM",255487.011
+2020,"Cabo Verde","CPV",370577.12176
+2020,"Costa Rica","CRI",4114566.81894
+2020,"Cuba","CUB",8743467.95504
+2020,"Cyprus","CYP",806770.69381
+2020,"Czech Republic","CZE",7922940.61338
+2020,"Germany","DEU",64410589.41563
+2020,"Djibouti","DJI",771254.12124
+2020,"Denmark","DNK",5138399.94864
+2020,"Dominican Republic","DOM",8953859.9616
+2020,"Algeria","DZA",32332689.53519
+2020,"Ecuador","ECU",11320845.8796
+2020,"Egypt, Arab Rep.","EGY",43781727.63549
+2020,"Spain","ESP",38274378.8939
+2020,"Estonia","EST",920385.01691
+2020,"Ethiopia","ETH",24941349.33185
+2020,"Finland","FIN",4728699.28731
+2020,"Fiji","FJI",513187.29668
+2020,"France","FRA",54560880.503
+2020,"Gabon","GAB",2005202.86976
+2020,"United Kingdom","GBR",56395647.28579
+2020,"Georgia","GEO",2213266.34348
+2020,"Ghana","GHA",17820023.22805
+2020,"Guinea","GIN",4842717.05
+2020,"Gambia, The","GMB",1512396.66448
+2020,"Guinea-Bissau","GNB",869776.39608
+2020,"Equatorial Guinea","GNQ",1025582.035
+2020,"Greece","GRC",8529948.2154
+2020,"Guatemala","GTM",8738685.49388
+2020,"Guyana","GUY",210687.69374
+2020,"Hong Kong SAR, China","HKG",7481800
+2020,"Honduras","HND",5780230.18272
+2020,"Croatia","HRV",2329561.2704
+2020,"Haiti","HTI",6509478.03904
+2020,"Hungary","HUN",7014452.19358
+2020,"Indonesia","IDN",154926514.17061
+2020,"India","IND",481980331.5051
+2020,"Ireland","IRL",3173531.07122
+2020,"Iran, Islamic Rep.","IRN",63728813.15922
+2020,"Iraq","IRQ",28514939.05179
+2020,"Iceland","ISL",344101.42774
+2020,"Israel","ISR",8531984.637
+2020,"Italy","ITA",42232349.48553
+2020,"Jamaica","JAM",1667459.37071
+2020,"Jordan","JOR",9327506.5252
+2020,"Japan","JPN",115494816.79422
+2020,"Kazakhstan","KAZ",10815873.0924
+2020,"Kenya","KEN",15053275.435
+2020,"Kyrgyz Republic","KGZ",2425087.944
+2020,"Cambodia","KHM",4051341.05272
+2020,"Korea, Rep.","KOR",42201955.61946
+2020,"Kuwait","KWT",4270563
+2020,"Lao PDR","LAO",2640299.2724
+2020,"Lebanon","LBN",6069524.2985
+2020,"Liberia","LBR",2634493.37253
+2020,"Libya","LBY",5544510.19317
+2020,"St. Lucia","LCA",34597.53989
+2020,"Sri Lanka","LKA",4101702.47
+2020,"Lesotho","LSO",621852.91056
+2020,"Lithuania","LTU",1901807.4471
+2020,"Luxembourg","LUX",576537.08807
+2020,"Latvia","LVA",1298291.73435
+2020,"Macao SAR, China","MAC",649342
+2020,"Morocco","MAR",23450015.70856
+2020,"Moldova","MDA",1122855.90255
+2020,"Madagascar","MDG",10670457.26146
+2020,"Maldives","MDV",219833.02598
+2020,"Mexico","MEX",104088700.82443
+2020,"North Macedonia","MKD",1212057.57942
+2020,"Mali","MLI",8891938.70106
+2020,"Malta","MLT",488246.15008
+2020,"Myanmar","MMR",16943753.94954
+2020,"Montenegro","MNE",419306.99328
+2020,"Mongolia","MNG",2250776.93844
+2020,"Mozambique","MOZ",11587639.9719
+2020,"Mauritania","MRT",2572517.3882
+2020,"Mauritius","MUS",515915.624
+2020,"Malawi","MWI",3333777.25785
+2020,"Malaysia","MYS",24973604.0568
+2020,"Namibia","NAM",1322114.82228
+2020,"New Caledonia","NCL",194500.3528
+2020,"Niger","NER",4024595.30136
+2020,"Nigeria","NGA",107106006.61346
+2020,"Nicaragua","NIC",3909281.80648
+2020,"Netherlands","NLD",16087341.94
+2020,"Norway","NOR",4463565.5865
+2020,"Nepal","NPL",5995189.61408
+2020,"New Zealand","NZL",4408037.257
+2020,"Oman","OMN",4405789.19672
+2020,"Pakistan","PAK",82094634.81615
+2020,"Panama","PAN",2951905.37952
+2020,"Peru","PER",25815966.26262
+2020,"Philippines","PHL",51950200.7768
+2020,"Papua New Guinea","PNG",1193980.75315
+2020,"Poland","POL",22755738.6001
+2020,"Puerto Rico","PRI",3070896.07578
+2020,"Portugal","PRT",6827994.4111
+2020,"Paraguay","PRY",4435221.1299
+2020,"West Bank and Gaza","PSE",3685019.94411
+2020,"French Polynesia","PYF",174090.254
+2020,"Qatar","QAT",2859019.891
+2020,"Romania","ROU",10436420.3888
+2020,"Russian Federation","RUS",107723563.9632
+2020,"Rwanda","RWA",2257829.07288
+2020,"Saudi Arabia","SAU",29343564.07829
+2020,"Sudan","SDN",15458182.80057
+2020,"Senegal","SEN",8057513.9946
+2020,"Singapore","SGP",5685807
+2020,"Solomon Islands","SLB",169452.8026
+2020,"Sierra Leone","SLE",3423961.27155
+2020,"El Salvador","SLV",4763725.46244
+2020,"Somalia","SOM",7333290.17879
+2020,"Serbia","SRB",3894280.66196
+2020,"Sao Tome and Principe","STP",162954.96994
+2020,"Suriname","SUR",388052.52466
+2020,"Slovak Republic","SVK",2934665.3952
+2020,"Slovenia","SVN",1158811.30442
+2020,"Sweden","SWE",9108647.66834
+2020,"Eswatini","SWZ",280423.24044
+2020,"Syrian Arab Republic","SYR",9708489.47075
+2020,"Chad","TCD",3863362.0368
+2020,"Togo","TGO",3543299.436
+2020,"Thailand","THA",35898128.6854
+2020,"Tajikistan","TJK",2623423.80852
+2020,"Turkmenistan","TKM",3167338.16492
+2020,"Timor-Leste","TLS",412936.0344
+2020,"Tonga","TON",24414.95003
+2020,"Trinidad and Tobago","TTO",744725.14074
+2020,"Tunisia","TUN",8221976.17024
+2020,"Turkey","TUR",64186246.94035
+2020,"Tanzania","TZA",21042571.21351
+2020,"Uganda","UGA",11414209.14
+2020,"Ukraine","UKR",30721277.10344
+2020,"Uruguay","URY",3317930.34405
+2020,"United States","USA",274032052.7712
+2020,"Uzbekistan","UZB",17258430.328
+2020,"St. Vincent and the Grenadines","VCT",58837.41304
+2020,"Venezuela, RB","VEN",25102966.12097
+2020,"Vietnam","VNM",36346226.8922
+2020,"Vanuatu","VUT",78400.0375
+2020,"Samoa","WSM",35493.5649
+2020,"Yemen, Rep.","YEM",11306427.94944
+2020,"South Africa","ZAF",39946775.0626
+2020,"Zambia","ZMB",8204575.72324
+2020,"Zimbabwe","ZWE",4792104.92334
