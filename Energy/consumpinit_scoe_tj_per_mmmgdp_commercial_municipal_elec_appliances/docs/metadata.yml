@@ -1,0 +1,12 @@
+15-02-2023
+
+consumpinit_scoe_tj_per_mmmgdp_commercial_municipal_elec_appliances
+
+Units: Tera Jloue/10^9 USD
+
+
+GDP data: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
+
+Energy data: IEA WorldEnergyBalancesHighlights2021
+
+Assumption: Data not present take the average vale of the present data.
