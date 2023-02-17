@@ -1,0 +1,55 @@
+import os 
+import sys
+import pandas as pd
+
+# Set directories
+sisepuede_name = sys.argv[1]
+
+print(f"Processing {sisepuede_name} variable")
+
+dir_path = os.path.dirname(os.path.realpath(__file__))
+#dir_path = os.getcwd()
+
+relative_path = os.path.normpath(dir_path + "/../raw_data")
+relative_path_power_plants_file = os.path.join(relative_path, "inputs_by_country_modvar_entc_nemomod_residual_capacity.csv.tar.gz")
+
+save_path_historical = os.path.abspath(os.path.join(dir_path,"..","input_to_sisepuede" ,"historical" )) 
+save_path_projected = os.path.abspath(os.path.join(dir_path,"..","input_to_sisepuede" ,"projected" )) 
+
+# Load power plants data
+pp_plants = pd.read_csv(relative_path_power_plants_file)
+pp_plants.rename(columns = {"inputs_by_country_modvar_entc_nemomod_residual_capacity.csv" : "Year", "country" : "Nation"}, inplace = True)
+pp_plants = pp_plants[~pp_plants["Year"].isnull()]
+pp_plants["Year"] = pp_plants["Year"].astype(int)
+
+# Load ISO3 code
+iso3_m49_correspondence = pd.read_html("https://unstats.un.org/unsd/methodology/m49/")[0]
+
+iso3_m49_correspondence.rename(columns = {"Country or Area" : "Nation", "ISO-alpha3 code" : "iso_code3"}, inplace = True)
+iso3_m49_correspondence = iso3_m49_correspondence[["Nation", "iso_code3"]]
+
+# Merge iso code 3
+pp_plants = pp_plants.merge(right = iso3_m49_correspondence, how = "inner", on = "Nation")
+
+# Get minimal data
+
+if sisepuede_name in ['nemomod_entc_residual_capacity_pp_biogas_gw', 'nemomod_entc_residual_capacity_pp_ocean_gw']:
+    pp_plants[sisepuede_name] = pp_plants["pp_other"]*0.5
+
+pp_plants = pp_plants[["Year", "Nation", "iso_code3", sisepuede_name]]
+
+# Historical data <= 2020
+# Projected data > 2020
+
+threshold_year = 2020
+
+pp_plants_historical = pp_plants.query(f"Year <= {threshold_year}").reset_index(drop = True)
+pp_plants_projected = pp_plants.query(f"Year > {threshold_year}").reset_index(drop = True)
+
+## Save historical data
+relative_path_to_save_historical_file = os.path.join(save_path_historical, f"{sisepuede_name}.csv")
+pp_plants_historical.to_csv(relative_path_to_save_historical_file, index = False)
+
+## Save projected data
+relative_path_to_save_projected_file = os.path.join(save_path_projected, f"{sisepuede_name}.csv")
+pp_plants_projected.to_csv(relative_path_to_save_projected_file, index = False)
