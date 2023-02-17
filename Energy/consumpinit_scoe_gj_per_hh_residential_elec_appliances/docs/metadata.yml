@@ -1,0 +1,12 @@
+15-02-2023
+
+consumpinit_scoe_gj_per_hh_residential_elec_appliances
+
+Units: Tera Jloue/Number of households
+
+
+Households data: https://www.helgilibrary.com/indicators/number-of-households/#:~:text=Based%20on%20a%20comparison%20of,followed%20by%20India%20and%20USA.
+
+Energy data: IEA WorldEnergyBalancesHighlights2021
+
+Assumption: Data not present take the average vale of the present data.
