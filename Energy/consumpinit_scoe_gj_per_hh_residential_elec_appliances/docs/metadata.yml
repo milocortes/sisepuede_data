@@ -9,4 +9,8 @@ Households data: https://www.helgilibrary.com/indicators/number-of-households/#:
 
 Energy data: IEA WorldEnergyBalancesHighlights2021
 
-Assumption: Data not present take the average vale of the present data.
+Assumption: 
+
+Data not present take the average value of the mean in the continent of the present data.
+
+If this is not possible it takes the global mean value.
