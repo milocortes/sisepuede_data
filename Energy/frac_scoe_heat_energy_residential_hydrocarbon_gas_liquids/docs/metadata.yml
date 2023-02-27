@@ -1,0 +1,11 @@
+Historical values obtained from World Energy Blance Highlights 2021
+
+Assumptions:
+
+-This variable uses 'Residential (PJ)' values from the dataset.
+
+-Fuel portion correspondent to requested fuels is listed in row_data/frac_scoe_heat_energy_proportion.xlsx
+
+-Data not present in the dataset is filled with world value
+
+-Last historical value is taken as the projected value
