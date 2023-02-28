@@ -1,0 +1,16 @@
+28/02/2023
+
+consumpinit_inen_energy_total_pj_agriculture_and_livestock
+
+Units: Peta Joules
+
+Source: EEI
+
+
+Assumption: 
+
+Data not present take the average value of the mean in the continent of the present data.
+
+If this is not possible it takes the global average value.
+
+Projected data takes last historical value
