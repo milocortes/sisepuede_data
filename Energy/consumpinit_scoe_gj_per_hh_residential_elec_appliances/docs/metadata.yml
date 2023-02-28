@@ -13,4 +13,4 @@ Assumption:
 
 Data not present take the average value of the mean in the continent of the present data.
 
-If this is not possible it takes the global mean value.
+If this is not possible it takes the global average value.
