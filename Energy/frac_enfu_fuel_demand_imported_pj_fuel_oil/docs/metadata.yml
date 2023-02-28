@@ -1,0 +1,20 @@
+date:        2012-08-06
+variable :
+  name : frac_enfu_fuel_demand_imported_pj_fuel_oil
+  subsector :   Energy Fuels
+  longname :  Unused Fuel Exported Oil
+  units: percentaje
+
+resources:
+    - url:   A4786
+      descrip:   Water Bucket (Filled)
+
+    - url:   A4786
+      descrip:   Water Bucket (Filled)
+
+aditional_information:
+      assumptions: >
+            Follow the Yellow Brick
+            Road to the Emerald City.
+            Pay no attention to the
+            man behind the curtain.
