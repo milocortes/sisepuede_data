@@ -1,22 +1,14 @@
 import pandas as pd
 import os 
+import sys
+
+from correspondencias_WEB_sisepuede_revised_jsyme import correspondencias_web_sisepuede
 
 # Get Coal and coal products import data
-variable_to_process = "frac_Oil products"
-sisepuede_name = "frac_enfu_fuel_demand_imported_pj_fuel_oil"
+sisepuede_name = sys.argv[1]
+variable_to_process, factor = correspondencias_web_sisepuede[sisepuede_name]
 
 print(f"Processing {sisepuede_name} variable")
-
-# Assumption export 0.22 of import Coal go to electricity production
-# Assumption export 0.39 of import Natural Gas go to electricity production
-# Assumption export 1 of import Electricity go to Electricity production
-# https://www.eia.gov/tools/faqs/faq.php?id=427&t=3
-# https://www.eia.gov/tools/faqs/faq.php?id=427&t=6
-
-sisepuede_name_all = ["Coal and coal products", "Natural gas", "Electricity", "Oil products"]
-sisepuede_name_factors = [0.22, 0.39, 1.0, 0.05]
-
-sisepuede_name_zipped = zip(sisepuede_name_all, sisepuede_name_factors)
 
 # Set directories
 dir_path = os.path.dirname(os.path.realpath(__file__))
@@ -30,52 +22,48 @@ wbal = wbal.rename(columns =
                             {"wbal.csv" : "COUNTRY"}
                             )
 
-wbal_var_to_proc = wbal[['COUNTRY','FLOW','TIME','UNIT']+sisepuede_name_all]
-wbal_var_to_proc = wbal_var_to_proc.query("FLOW == 'Imports'")
+# Compute Domestic Demand:
+# (Production + Imports = Domestic_Demand + Exports)
 
-# Convert to TeraJoul to PetaJoul
-wbal_var_to_proc = wbal_var_to_proc.query("UNIT=='TJ'").reset_index(drop=True)
+wbal_process = wbal.query("FLOW=='Production' and UNIT=='TJ'")[["COUNTRY", "TIME"]].reset_index(drop = True)
+wbal_process["Production"] = wbal.query("FLOW=='Production' and UNIT=='TJ'")[variable_to_process].reset_index(drop = True)
+wbal_process["Imports"] = wbal.query("FLOW=='Imports' and UNIT=='TJ'")[variable_to_process].reset_index(drop = True)
+wbal_process["Exports"] = wbal.query("FLOW=='Exports' and UNIT=='TJ'")[variable_to_process].reset_index(drop = True)
 
-for var,factor in sisepuede_name_zipped:
-    wbal_var_to_proc[var] = wbal_var_to_proc[var].apply(lambda x: float(str(x).replace("..","0").replace("x","0")))
-    wbal_var_to_proc[var] = wbal_var_to_proc[var] * factor
-    wbal_var_to_proc[var] = wbal_var_to_proc[var]*0.001
+for colvar in ["Production", "Imports", "Exports"]:
+    wbal_process[colvar] = wbal_process[colvar].apply(lambda x: float(str(x).replace("..","0").replace('c',"0").replace("x","0")))*factor
 
-wbal_var_to_proc["sisepuede_name_all"] = wbal_var_to_proc[sisepuede_name_all].sum(axis=1)
+wbal_process["domestic_demand"] = wbal_process["Production"] + wbal_process["Imports"] - wbal_process["Exports"]
+wbal_process[sisepuede_name] = wbal_process["Imports"]/wbal_process["domestic_demand"]
 
-
-for var in sisepuede_name_all:
-    wbal_var_to_proc[f"frac_{var}"] = wbal_var_to_proc[var]/wbal_var_to_proc["sisepuede_name_all"]
-
-wbal_var_to_proc = wbal_var_to_proc.fillna(0)
+wbal_process = wbal_process.dropna().reset_index(drop = True)
 
 # Get countries ISO 3 codes
 relative_path_iso3_file = os.path.join(relative_path, "iso3_all_countries.csv")
 iso3_countries = pd.read_csv(relative_path_iso3_file)
 
-wbal_var_to_proc = wbal_var_to_proc[wbal_var_to_proc["COUNTRY"].isin(iso3_countries["Category Name"])]
-wbal_var_to_proc = wbal_var_to_proc.query("COUNTRY !='World'")
+wbal_process = wbal_process[wbal_process["COUNTRY"].isin(iso3_countries["Category Name"])]
+wbal_process = wbal_process.query("COUNTRY !='World'")
 
-wbal_var_to_proc[variable_to_process] = wbal_var_to_proc[variable_to_process].apply(lambda x: float(str(x).replace("..","0")))
 
 # Merge with  ISO 3 codes
-wbal_var_to_proc_merge = wbal_var_to_proc.rename(columns = {"COUNTRY":"Category Name"})\
+wbal_process = wbal_process.rename(columns = {"COUNTRY":"Category Name"})\
          .merge(right = iso3_countries, how = "left", on = "Category Name")
 
-wbal_var_to_proc_merge = wbal_var_to_proc_merge[["REGION", "ISO3", "TIME", variable_to_process]]
+wbal_process = wbal_process[["REGION", "ISO3", "TIME", sisepuede_name]]
+wbal_process["TIME"] = wbal_process["TIME"].apply(lambda x: int(x))
 
-wbal_var_to_proc_merge = wbal_var_to_proc_merge.rename(columns = {"REGION" : "Nation",
+wbal_process = wbal_process.rename(columns = {"REGION" : "Nation",
                                           "TIME" : "Year",
-                                          "ISO3" : "iso_code3",
-                                          variable_to_process: sisepuede_name})
+                                          "ISO3" : "iso_code3"})
 
 # Get countries without values
 latam_countries = set(iso3_countries["REGION"][:26])
-non_values = latam_countries.symmetric_difference(latam_countries.intersection(wbal_var_to_proc_merge["Nation"]))
+non_values = latam_countries.symmetric_difference(latam_countries.intersection(wbal_process["Nation"]))
  
 # Impute values with the Costa Rica values
 save_df = []
-impute_country_base = wbal_var_to_proc_merge.query(f"Nation == 'costa_rica'").reset_index(drop = True)
+impute_country_base = wbal_process.query(f"Nation == 'costa_rica'").reset_index(drop = True)
 
 for country in non_values:
     impute_country = impute_country_base.copy()
@@ -88,7 +76,7 @@ for country in non_values:
     save_df.append(impute_country)
 
 
-wbal_var_to_proc_all = pd.concat([wbal_var_to_proc_merge]+save_df, ignore_index = True)
+wbal_var_to_proc_all = pd.concat([wbal_process]+save_df, ignore_index = True)
 wbal_var_to_proc_all.sort_values(["Nation","Year"], inplace = True)
 
 ## Save historical data

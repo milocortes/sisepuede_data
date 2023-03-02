@@ -1,9 +1,9 @@
 date:        2012-08-06
 variable :
-  name : frac_enfu_fuel_demand_imported_pj_fuel_oil
+  name : exports_enfu_pj_fuel_coal
   subsector :   Energy Fuels
-  longname :  Unused Fuel Exported Oil
-  units: percentaje
+  longname :  Unused Fuel Exported Coal
+  units: W/m^2
 
 resources:
     - url:   A4786

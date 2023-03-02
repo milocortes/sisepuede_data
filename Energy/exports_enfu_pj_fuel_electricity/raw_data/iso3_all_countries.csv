@@ -1,0 +1,265 @@
+Category Name,REGION,ISO3,Code
+Argentina,argentina,ARG,32
+Bahamas,bahamas,BHS,44
+Barbados,barbados,BRB,52
+Belize,belize,BLZ,84
+Bolivia,bolivia,BOL,68
+Brazil,brazil,BRA,76
+Chile,chile,CHL,152
+Colombia,colombia,COL,170
+Costa Rica,costa_rica,CRI,188
+Dominican Republic,dominican_republic,DOM,214
+Ecuador,ecuador,ECU,218
+El Salvador,el_salvador,SLV,222
+Guatemala,guatemala,GTM,320
+Guyana,guyana,GUY,328
+Haiti,haiti,HTI,332
+Honduras,honduras,HND,340
+Jamaica,jamaica,JAM,388
+Mexico,mexico,MEX,484
+Nicaragua,nicaragua,NIC,558
+Panama,panama,PAN,591
+Paraguay,paraguay,PRY,600
+Peru,peru,PER,604
+Suriname,suriname,SUR,740
+Trinidad and Tobago,trinidad_and_tobago,TTO,780
+Uruguay,uruguay,URY,858
+Venezuela,venezuela,VEN,862
+Afghanistan,afghanistan,AFG,004
+Albania,albania,ALB,008
+Algeria,algeria,DZA,012
+American Samoa,american samoa,ASM,016
+Andorra,andorra,AND,020
+Angola,angola,AGO,024
+Anguila,anguila,AIA,660
+Antigua and Barbuda,antigua and barbuda,ATG,028
+Armenia,armenia,ARM,051
+Aruba,aruba,ABW,533
+Australia,australia,AUS,036
+Austria,austria,AUT,040
+Azerbaijan,azerbaijan,AZE,031
+Bahrain,bahrain,BHR,048
+Bangladesh,bangladesh,BGD,050
+Belarus,belarus,BLR,112
+Belgium,belgium,BEL,056
+Belgium-Luxembourg,belgium-luxembourg,BLX,058
+Benin,benin,BEN,204
+Bermuda,bermuda,BMU,060
+Bhutan,bhutan,BTN,064
+Bosnia and Herzegovina,bosnia and herzegovina,BIH,070
+Botswana,botswana,BWA,072
+Br. Antr. Terr,br. antr. terr,BAT,080
+British Indian Ocean Ter.,british indian ocean ter.,IOT,086
+British Virgin Islands,british virgin islands,VGB,092
+Brunei,brunei,BRN,096
+Bulgaria,bulgaria,BGR,100
+Burkina Faso,burkina faso,BFA,854
+Burundi,burundi,BDI,108
+Cambodia,cambodia,KHM,116
+Cameroon,cameroon,CMR,120
+Canada,canada,CAN,124
+Cape Verde,cape verde,CPV,132
+Cayman Islands,cayman islands,CYM,136
+Central African Republic,central african republic,CAF,140
+Chad,chad,TCD,148
+China,china,CHN,156
+Christmas Island,christmas island,CXR,162
+Cocos (Keeling) Islands,cocos (keeling) islands,CCK,166
+Comoros,comoros,COM,174
+"Congo, Dem. Rep.","congo, dem. rep.",ZAR,180
+"Congo, Rep.","congo, rep.",COG,178
+Cook Islands,cook islands,COK,184
+Cote d'Ivoire,cote d'ivoire,CIV,384
+Croatia,croatia,HRV,191
+Cuba,cuba,CUB,192
+Cyprus,cyprus,CYP,196
+Czech Republic,czech republic,CZE,203
+Czechoslovakia,czechoslovakia,CSK,200
+Denmark,denmark,DNK,208
+Djibouti,djibouti,DJI,262
+Dominica,dominica,DMA,212
+East Timor,east timor,TMP,626
+"Egypt, Arab Rep.","egypt, arab rep.",EGY,818
+Equatorial Guinea,equatorial guinea,GNQ,226
+Eritrea,eritrea,ERI,232
+Estonia,estonia,EST,233
+Ethiopia (excludes Eritrea),ethiopia (excludes eritrea),ETH,231
+Ethiopia (includes Eritrea),ethiopia (includes eritrea),ETF,230
+European Union,european union,EUN,918
+Faeroe Islands,faeroe islands,FRO,234
+Falkland Island,falkland island,FLK,238
+Fiji,fiji,FJI,242
+Finland,finland,FIN,246
+Fm Panama Cz,fm panama cz,PCZ,592
+Fm Rhod Nyas,fm rhod nyas,ZW1,717
+Fm Tanganyik,fm tanganyik,TAN,835
+Fm Vietnam Dr,fm vietnam dr,VDR,868
+Fm Vietnam Rp,fm vietnam rp,SVR,866
+Fm Zanz-Pemb,fm zanz-pemb,ZPM,836
+Fr. So. Ant. Tr,fr. so. ant. tr,ATF,260
+France,france,FRA,250
+Free Zones,free zones,FRE,838
+French Guiana,french guiana,GUF,254
+French Polynesia,french polynesia,PYF,258
+Gabon,gabon,GAB,266
+"Gambia, The","gambia, the",GMB,270
+Gaza Strip,gaza strip,GAZ,274
+Georgia,georgia,GEO,268
+German Democratic Republic,german democratic republic,DDR,278
+Germany,germany,DEU,276
+Ghana,ghana,GHA,288
+Gibraltar,gibraltar,GIB,292
+Greece,greece,GRC,300
+Greenland,greenland,GRL,304
+Grenada,grenada,GRD,308
+Guadeloupe,guadeloupe,GLP,312
+Guam,guam,GUM,316
+Guinea,guinea,GIN,324
+Guinea-Bissau,guinea-bissau,GNB,624
+Holy See,holy see,VAT,336
+"Hong Kong, China","hong kong, china",HKG,344
+Hungary,hungary,HUN,348
+Iceland,iceland,ISL,352
+India,india,IND,356
+Indonesia,indonesia,IDN,360
+"Iran, Islamic Rep.","iran, islamic rep.",IRN,364
+Iraq,iraq,IRQ,368
+Ireland,ireland,IRL,372
+Israel,israel,ISR,376
+Italy,italy,ITA,380
+Japan,japan,JPN,392
+Jhonston Island,jhonston island,JTN,396
+Jordan,jordan,JOR,400
+Kazakhstan,kazakhstan,KAZ,398
+Kenya,kenya,KEN,404
+Kiribati,kiribati,KIR,296
+"Korea, Dem. Rep.","korea, dem. rep.",PRK,408
+"Korea, Rep.","korea, rep.",KOR,410
+Kuwait,kuwait,KWT,414
+Kyrgyz Republic,kyrgyz republic,KGZ,417
+Lao PDR,lao pdr,LAO,418
+Latvia,latvia,LVA,428
+Lebanon,lebanon,LBN,422
+Lesotho,lesotho,LSO,426
+Liberia,liberia,LBR,430
+Libya,libya,LBY,434
+Liechtenstein,liechtenstein,LIE,438
+Lithuania,lithuania,LTU,440
+Luxembourg,luxembourg,LUX,442
+Macao,macao,MAC,446
+"Macedonia, FYR","macedonia, fyr",MKD,807
+Madagascar,madagascar,MDG,450
+Malawi,malawi,MWI,454
+Malaysia,malaysia,MYS,458
+Maldives,maldives,MDV,462
+Mali,mali,MLI,466
+Malta,malta,MLT,470
+Marshall Islands,marshall islands,MHL,584
+Martinique,martinique,MTQ,474
+Mauritania,mauritania,MRT,478
+Mauritius,mauritius,MUS,480
+"Micronesia, Fed. Sts.","micronesia, fed. sts.",FSM,583
+Midway Islands,midway islands,MID,488
+Moldova,moldova,MDA,498
+Monaco,monaco,MCO,492
+Mongolia,mongolia,MNG,496
+Montserrat,montserrat,MSR,500
+Morocco,morocco,MAR,504
+Mozambique,mozambique,MOZ,508
+Myanmar,myanmar,MMR,104
+Namibia,namibia,NAM,516
+Nauru,nauru,NRU,520
+Nepal,nepal,NPL,524
+Netherlands,netherlands,NLD,528
+Netherlands Antilles,netherlands antilles,ANT,530
+Neutral Zone,neutral zone,NZE,536
+New Caledonia,new caledonia,NCL,540
+New Zealand,new zealand,NZL,554
+Niger,niger,NER,562
+Nigeria,nigeria,NGA,566
+Niue,niue,NIU,570
+Norfolk Island,norfolk island,NFK,574
+Northern Mariana Islands,northern mariana islands,MNP,580
+Norway,norway,NOR,578
+Oman,oman,OMN,512
+Pacific Islands,pacific islands,PCE,582
+Pakistan,pakistan,PAK,586
+Palau,palau,PLW,585
+Papua New Guinea,papua new guinea,PNG,598
+Pen Malaysia,pen malaysia,PMY,459
+Philippines,philippines,PHL,608
+Pitcairn,pitcairn,PCN,612
+Poland,poland,POL,616
+Portugal,portugal,PRT,620
+Puerto Rico,puerto rico,PRI,630
+Qatar,qatar,QAT,634
+Reunion,reunion,REU,638
+Romania,romania,ROM,642
+Russian Federation,russian federation,RUS,643
+Rwanda,rwanda,RWA,646
+Ryukyu Is,ryukyu is,RYU,647
+Sabah,sabah,SBH,461
+Saint Helena,saint helena,SHN,654
+Saint Kitts-Nevis-Anguilla-Aru,saint kitts-nevis-anguilla-aru,KN1,658
+Saint Pierre and Miquelon,saint pierre and miquelon,SPM,666
+Samoa,samoa,WSM,882
+San Marino,san marino,SMR,674
+Sao Tome and Principe,sao tome and principe,STP,678
+Sarawak,sarawak,SWK,457
+Saudi Arabia,saudi arabia,SAU,682
+Senegal,senegal,SEN,686
+Seychelles,seychelles,SYC,690
+Sierra Leone,sierra leone,SLE,694
+SIKKIM,sikkim,SIK,698
+Singapore,singapore,SGP,702
+Slovak Republic,slovak republic,SVK,703
+Slovenia,slovenia,SVN,705
+Solomon Islands,solomon islands,SLB,090
+Somalia,somalia,SOM,706
+South Africa,south africa,ZAF,710
+Soviet Union,soviet union,SVU,810
+Spain,spain,ESP,724
+Special Categories,special categories,SPE,839
+Sri Lanka,sri lanka,LKA,144
+St. Kitts and Nevis,st. kitts and nevis,KNA,659
+St. Lucia,st. lucia,LCA,662
+St. Vincent and the Grenadines,st. vincent and the grenadines,VCT,670
+Sudan,sudan,SDN,736
+Svalbard and Jan Mayen Is,svalbard and jan mayen is,SJM,744
+Swaziland,swaziland,SWZ,748
+Sweden,sweden,SWE,752
+Switzerland,switzerland,CHE,756
+Syrian Arab Republic,syrian arab republic,SYR,760
+Taiwan,taiwan,TWN,158
+Tajikistan,tajikistan,TJK,762
+Tanzania,tanzania,TZA,834
+Thailand,thailand,THA,764
+Togo,togo,TGO,768
+Tokelau,tokelau,TKL,772
+Tonga,tonga,TON,776
+Tunisia,tunisia,TUN,788
+Turkey,turkey,TUR,792
+Turkmenistan,turkmenistan,TKM,795
+Turks and Caicos Isl.,turks and caicos isl.,TCA,796
+Tuvalu,tuvalu,TUV,798
+Uganda,uganda,UGA,800
+Ukraine,ukraine,UKR,804
+United Arab Emirates,united arab emirates,ARE,784
+United Kingdom,united kingdom,GBR,826
+United States,united states,USA,840
+Unspecified,unspecified,UNS,898
+Us Msc.Pac.I,us msc.pac.i,USP,849
+Uzbekistan,uzbekistan,UZB,860
+Vanuatu,vanuatu,VUT,548
+Vietnam,vietnam,VNM,704
+Virgin Islands (U.S.),virgin islands (u.s.),VIR,850
+Wake Island,wake island,WAK,872
+Wallis and Futura Isl.,wallis and futura isl.,WLF,876
+Western Sahara,western sahara,ESH,732
+World,world,WLD,000
+Yemen Democratic,yemen democratic,YDR,720
+"Yemen, Rep.","yemen, rep.",YEM,887
+Yugoslavia,yugoslavia,SER,891
+"Yugoslavia, FR (Serbia/Montene","yugoslavia, fr (serbia/montene",YUG,890
+Zambia,zambia,ZMB,894
+Zimbabwe,zimbabwe,ZWE,716
