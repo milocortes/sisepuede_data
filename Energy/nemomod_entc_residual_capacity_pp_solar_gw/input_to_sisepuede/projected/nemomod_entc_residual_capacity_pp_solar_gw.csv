@@ -1,28 +1,28 @@
 Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
-2021,Afghanistan,AFG,20.0
-2022,Afghanistan,AFG,20.0
-2023,Afghanistan,AFG,20.0
-2024,Afghanistan,AFG,20.0
-2025,Afghanistan,AFG,20.0
-2026,Afghanistan,AFG,20.0
-2027,Afghanistan,AFG,20.0
-2028,Afghanistan,AFG,20.0
-2029,Afghanistan,AFG,20.0
-2030,Afghanistan,AFG,20.0
-2031,Afghanistan,AFG,20.0
-2032,Afghanistan,AFG,20.0
-2033,Afghanistan,AFG,20.0
-2034,Afghanistan,AFG,20.0
-2035,Afghanistan,AFG,20.0
-2036,Afghanistan,AFG,20.0
-2037,Afghanistan,AFG,20.0
-2038,Afghanistan,AFG,20.0
-2039,Afghanistan,AFG,20.0
-2040,Afghanistan,AFG,20.0
-2041,Afghanistan,AFG,20.0
-2042,Afghanistan,AFG,20.0
-2043,Afghanistan,AFG,20.0
-2044,Afghanistan,AFG,10.0
+2021,Afghanistan,AFG,0.02
+2022,Afghanistan,AFG,0.02
+2023,Afghanistan,AFG,0.02
+2024,Afghanistan,AFG,0.02
+2025,Afghanistan,AFG,0.02
+2026,Afghanistan,AFG,0.02
+2027,Afghanistan,AFG,0.02
+2028,Afghanistan,AFG,0.02
+2029,Afghanistan,AFG,0.02
+2030,Afghanistan,AFG,0.02
+2031,Afghanistan,AFG,0.02
+2032,Afghanistan,AFG,0.02
+2033,Afghanistan,AFG,0.02
+2034,Afghanistan,AFG,0.02
+2035,Afghanistan,AFG,0.02
+2036,Afghanistan,AFG,0.02
+2037,Afghanistan,AFG,0.02
+2038,Afghanistan,AFG,0.02
+2039,Afghanistan,AFG,0.02
+2040,Afghanistan,AFG,0.02
+2041,Afghanistan,AFG,0.02
+2042,Afghanistan,AFG,0.02
+2043,Afghanistan,AFG,0.02
+2044,Afghanistan,AFG,0.01
 2045,Afghanistan,AFG,0.0
 2046,Afghanistan,AFG,0.0
 2047,Afghanistan,AFG,0.0
@@ -69,33 +69,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Albania,ALB,0.0
 2054,Albania,ALB,0.0
 2055,Albania,ALB,0.0
-2021,Algeria,DZA,670.8
-2022,Algeria,DZA,670.8
-2023,Algeria,DZA,670.8
-2024,Algeria,DZA,670.8
-2025,Algeria,DZA,670.8
-2026,Algeria,DZA,670.8
-2027,Algeria,DZA,670.8
-2028,Algeria,DZA,670.8
-2029,Algeria,DZA,670.8
-2030,Algeria,DZA,670.8
-2031,Algeria,DZA,670.8
-2032,Algeria,DZA,670.8
-2033,Algeria,DZA,670.8
-2034,Algeria,DZA,670.8
-2035,Algeria,DZA,670.8
-2036,Algeria,DZA,670.8
-2037,Algeria,DZA,670.8
-2038,Algeria,DZA,670.8
-2039,Algeria,DZA,670.8
-2040,Algeria,DZA,670.8
-2041,Algeria,DZA,641.8
-2042,Algeria,DZA,641.8
-2043,Algeria,DZA,621.8000000000002
-2044,Algeria,DZA,574.8
-2045,Algeria,DZA,382.1
-2046,Algeria,DZA,297.1
-2047,Algeria,DZA,291.1
+2021,Algeria,DZA,0.6708
+2022,Algeria,DZA,0.6708
+2023,Algeria,DZA,0.6708
+2024,Algeria,DZA,0.6708
+2025,Algeria,DZA,0.6708
+2026,Algeria,DZA,0.6708
+2027,Algeria,DZA,0.6708
+2028,Algeria,DZA,0.6708
+2029,Algeria,DZA,0.6708
+2030,Algeria,DZA,0.6708
+2031,Algeria,DZA,0.6708
+2032,Algeria,DZA,0.6708
+2033,Algeria,DZA,0.6708
+2034,Algeria,DZA,0.6708
+2035,Algeria,DZA,0.6708
+2036,Algeria,DZA,0.6708
+2037,Algeria,DZA,0.6708
+2038,Algeria,DZA,0.6708
+2039,Algeria,DZA,0.6708
+2040,Algeria,DZA,0.6708
+2041,Algeria,DZA,0.6417999999999999
+2042,Algeria,DZA,0.6417999999999999
+2043,Algeria,DZA,0.6218000000000001
+2044,Algeria,DZA,0.5748
+2045,Algeria,DZA,0.3821000000000001
+2046,Algeria,DZA,0.29710000000000003
+2047,Algeria,DZA,0.2911
 2048,Algeria,DZA,0.0
 2049,Algeria,DZA,0.0
 2050,Algeria,DZA,0.0
@@ -148,33 +148,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2031,Antarctica,ATA,0.0
 2032,Antarctica,ATA,0.0
 2033,Antarctica,ATA,0.0
-2021,Argentina,ARG,515.7
-2022,Argentina,ARG,515.7
-2023,Argentina,ARG,515.7
-2024,Argentina,ARG,515.7
-2025,Argentina,ARG,515.7
-2026,Argentina,ARG,515.7
-2027,Argentina,ARG,515.7
-2028,Argentina,ARG,515.7
-2029,Argentina,ARG,515.7
-2030,Argentina,ARG,515.7
-2031,Argentina,ARG,515.7
-2032,Argentina,ARG,515.7
-2033,Argentina,ARG,515.7
-2034,Argentina,ARG,515.7
-2035,Argentina,ARG,515.7
-2036,Argentina,ARG,515.7
-2037,Argentina,ARG,515.7
-2038,Argentina,ARG,515.7
-2039,Argentina,ARG,515.7
-2040,Argentina,ARG,515.7
-2041,Argentina,ARG,515.7
-2042,Argentina,ARG,493.2
-2043,Argentina,ARG,413.2
-2044,Argentina,ARG,413.2
-2045,Argentina,ARG,301.2
-2046,Argentina,ARG,300.0
-2047,Argentina,ARG,300.0
+2021,Argentina,ARG,0.5157
+2022,Argentina,ARG,0.5157
+2023,Argentina,ARG,0.5157
+2024,Argentina,ARG,0.5157
+2025,Argentina,ARG,0.5157
+2026,Argentina,ARG,0.5157
+2027,Argentina,ARG,0.5157
+2028,Argentina,ARG,0.5157
+2029,Argentina,ARG,0.5157
+2030,Argentina,ARG,0.5157
+2031,Argentina,ARG,0.5157
+2032,Argentina,ARG,0.5157
+2033,Argentina,ARG,0.5157
+2034,Argentina,ARG,0.5157
+2035,Argentina,ARG,0.5157
+2036,Argentina,ARG,0.5157
+2037,Argentina,ARG,0.5157
+2038,Argentina,ARG,0.5157
+2039,Argentina,ARG,0.5157
+2040,Argentina,ARG,0.5157
+2041,Argentina,ARG,0.5157
+2042,Argentina,ARG,0.4932
+2043,Argentina,ARG,0.4132
+2044,Argentina,ARG,0.4132
+2045,Argentina,ARG,0.3012
+2046,Argentina,ARG,0.3
+2047,Argentina,ARG,0.3
 2048,Argentina,ARG,0.0
 2049,Argentina,ARG,0.0
 2050,Argentina,ARG,0.0
@@ -218,33 +218,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Armenia,ARM,0.0
 2054,Armenia,ARM,0.0
 2055,Armenia,ARM,0.0
-2021,Australia,AUS,4159.67
-2022,Australia,AUS,4159.67
-2023,Australia,AUS,4159.67
-2024,Australia,AUS,4159.67
-2025,Australia,AUS,4159.67
-2026,Australia,AUS,4159.67
-2027,Australia,AUS,4159.67
-2028,Australia,AUS,4159.67
-2029,Australia,AUS,4159.67
-2030,Australia,AUS,4159.67
-2031,Australia,AUS,4159.67
-2032,Australia,AUS,4159.67
-2033,Australia,AUS,4159.67
-2034,Australia,AUS,4159.67
-2035,Australia,AUS,4159.67
-2036,Australia,AUS,4159.67
-2037,Australia,AUS,4159.67
-2038,Australia,AUS,4159.67
-2039,Australia,AUS,4104.67
-2040,Australia,AUS,3921.17
-2041,Australia,AUS,3858.87
-2042,Australia,AUS,3438.87
-2043,Australia,AUS,3278.97
-2044,Australia,AUS,2467.6
-2045,Australia,AUS,2199.7
-2046,Australia,AUS,1400.2
-2047,Australia,AUS,674.5999999999998
+2021,Australia,AUS,4.159669999999999
+2022,Australia,AUS,4.159669999999999
+2023,Australia,AUS,4.159669999999999
+2024,Australia,AUS,4.159669999999999
+2025,Australia,AUS,4.159669999999999
+2026,Australia,AUS,4.159669999999999
+2027,Australia,AUS,4.159669999999999
+2028,Australia,AUS,4.159669999999999
+2029,Australia,AUS,4.159669999999999
+2030,Australia,AUS,4.159669999999999
+2031,Australia,AUS,4.159669999999999
+2032,Australia,AUS,4.159669999999999
+2033,Australia,AUS,4.159669999999999
+2034,Australia,AUS,4.159669999999999
+2035,Australia,AUS,4.159669999999999
+2036,Australia,AUS,4.159669999999999
+2037,Australia,AUS,4.159669999999999
+2038,Australia,AUS,4.159669999999999
+2039,Australia,AUS,4.1046700000000005
+2040,Australia,AUS,3.92117
+2041,Australia,AUS,3.8588699999999996
+2042,Australia,AUS,3.4388699999999996
+2043,Australia,AUS,3.27897
+2044,Australia,AUS,2.4676
+2045,Australia,AUS,2.1997
+2046,Australia,AUS,1.4002
+2047,Australia,AUS,0.6596
 2048,Australia,AUS,0.0
 2049,Australia,AUS,0.0
 2050,Australia,AUS,0.0
@@ -323,59 +323,59 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Azerbaijan,AZE,0.0
 2054,Azerbaijan,AZE,0.0
 2055,Azerbaijan,AZE,0.0
-2021,Bahrain,BHR,5.0
-2022,Bahrain,BHR,5.0
-2023,Bahrain,BHR,5.0
-2024,Bahrain,BHR,5.0
-2025,Bahrain,BHR,5.0
-2026,Bahrain,BHR,5.0
-2027,Bahrain,BHR,5.0
-2028,Bahrain,BHR,5.0
-2029,Bahrain,BHR,5.0
-2030,Bahrain,BHR,5.0
-2031,Bahrain,BHR,5.0
-2032,Bahrain,BHR,5.0
-2033,Bahrain,BHR,5.0
-2034,Bahrain,BHR,5.0
-2035,Bahrain,BHR,5.0
-2036,Bahrain,BHR,5.0
-2037,Bahrain,BHR,5.0
-2038,Bahrain,BHR,5.0
-2039,Bahrain,BHR,5.0
-2040,Bahrain,BHR,5.0
-2041,Bahrain,BHR,5.0
-2042,Bahrain,BHR,5.0
-2043,Bahrain,BHR,5.0
-2044,Bahrain,BHR,5.0
-2045,Bahrain,BHR,5.0
-2046,Bahrain,BHR,5.0
-2021,Bangladesh,BGD,33.0
-2022,Bangladesh,BGD,33.0
-2023,Bangladesh,BGD,33.0
-2024,Bangladesh,BGD,33.0
-2025,Bangladesh,BGD,33.0
-2026,Bangladesh,BGD,33.0
-2027,Bangladesh,BGD,33.0
-2028,Bangladesh,BGD,33.0
-2029,Bangladesh,BGD,33.0
-2030,Bangladesh,BGD,33.0
-2031,Bangladesh,BGD,33.0
-2032,Bangladesh,BGD,33.0
-2033,Bangladesh,BGD,33.0
-2034,Bangladesh,BGD,33.0
-2035,Bangladesh,BGD,33.0
-2036,Bangladesh,BGD,33.0
-2037,Bangladesh,BGD,33.0
-2038,Bangladesh,BGD,33.0
-2039,Bangladesh,BGD,33.0
-2040,Bangladesh,BGD,33.0
-2041,Bangladesh,BGD,33.0
-2042,Bangladesh,BGD,33.0
-2043,Bangladesh,BGD,33.0
-2044,Bangladesh,BGD,33.0
-2045,Bangladesh,BGD,33.0
-2046,Bangladesh,BGD,5.0
-2047,Bangladesh,BGD,5.0
+2021,Bahrain,BHR,0.005
+2022,Bahrain,BHR,0.005
+2023,Bahrain,BHR,0.005
+2024,Bahrain,BHR,0.005
+2025,Bahrain,BHR,0.005
+2026,Bahrain,BHR,0.005
+2027,Bahrain,BHR,0.005
+2028,Bahrain,BHR,0.005
+2029,Bahrain,BHR,0.005
+2030,Bahrain,BHR,0.005
+2031,Bahrain,BHR,0.005
+2032,Bahrain,BHR,0.005
+2033,Bahrain,BHR,0.005
+2034,Bahrain,BHR,0.005
+2035,Bahrain,BHR,0.005
+2036,Bahrain,BHR,0.005
+2037,Bahrain,BHR,0.005
+2038,Bahrain,BHR,0.005
+2039,Bahrain,BHR,0.005
+2040,Bahrain,BHR,0.005
+2041,Bahrain,BHR,0.005
+2042,Bahrain,BHR,0.005
+2043,Bahrain,BHR,0.005
+2044,Bahrain,BHR,0.005
+2045,Bahrain,BHR,0.005
+2046,Bahrain,BHR,0.005
+2021,Bangladesh,BGD,0.033
+2022,Bangladesh,BGD,0.033
+2023,Bangladesh,BGD,0.033
+2024,Bangladesh,BGD,0.033
+2025,Bangladesh,BGD,0.033
+2026,Bangladesh,BGD,0.033
+2027,Bangladesh,BGD,0.033
+2028,Bangladesh,BGD,0.033
+2029,Bangladesh,BGD,0.033
+2030,Bangladesh,BGD,0.033
+2031,Bangladesh,BGD,0.033
+2032,Bangladesh,BGD,0.033
+2033,Bangladesh,BGD,0.033
+2034,Bangladesh,BGD,0.033
+2035,Bangladesh,BGD,0.033
+2036,Bangladesh,BGD,0.033
+2037,Bangladesh,BGD,0.033
+2038,Bangladesh,BGD,0.033
+2039,Bangladesh,BGD,0.033
+2040,Bangladesh,BGD,0.033
+2041,Bangladesh,BGD,0.033
+2042,Bangladesh,BGD,0.033
+2043,Bangladesh,BGD,0.033
+2044,Bangladesh,BGD,0.033
+2045,Bangladesh,BGD,0.033
+2046,Bangladesh,BGD,0.005
+2047,Bangladesh,BGD,0.005
 2048,Bangladesh,BGD,0.0
 2049,Bangladesh,BGD,0.0
 2050,Bangladesh,BGD,0.0
@@ -384,58 +384,58 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Bangladesh,BGD,0.0
 2054,Bangladesh,BGD,0.0
 2055,Bangladesh,BGD,0.0
-2021,Belarus,BLR,232.9
-2022,Belarus,BLR,232.9
-2023,Belarus,BLR,232.9
-2024,Belarus,BLR,232.9
-2025,Belarus,BLR,232.9
-2026,Belarus,BLR,232.9
-2027,Belarus,BLR,232.9
-2028,Belarus,BLR,232.9
-2029,Belarus,BLR,232.9
-2030,Belarus,BLR,232.9
-2031,Belarus,BLR,232.9
-2032,Belarus,BLR,232.9
-2033,Belarus,BLR,232.9
-2034,Belarus,BLR,232.9
-2035,Belarus,BLR,232.9
-2036,Belarus,BLR,232.9
-2037,Belarus,BLR,232.9
-2038,Belarus,BLR,232.9
-2039,Belarus,BLR,232.9
-2040,Belarus,BLR,232.9
-2041,Belarus,BLR,177.9
-2042,Belarus,BLR,159.20000000000005
-2043,Belarus,BLR,147.9
-2044,Belarus,BLR,109.0
-2045,Belarus,BLR,109.0
-2046,Belarus,BLR,109.0
-2021,Belgium,BEL,116.2
-2022,Belgium,BEL,116.2
-2023,Belgium,BEL,116.2
-2024,Belgium,BEL,116.2
-2025,Belgium,BEL,116.2
-2026,Belgium,BEL,116.2
-2027,Belgium,BEL,116.2
-2028,Belgium,BEL,116.2
-2029,Belgium,BEL,116.2
-2030,Belgium,BEL,116.2
-2031,Belgium,BEL,116.2
-2032,Belgium,BEL,116.2
-2033,Belgium,BEL,116.2
-2034,Belgium,BEL,116.2
-2035,Belgium,BEL,116.2
-2036,Belgium,BEL,116.2
-2037,Belgium,BEL,116.2
-2038,Belgium,BEL,116.2
-2039,Belgium,BEL,116.2
-2040,Belgium,BEL,116.2
-2041,Belgium,BEL,116.2
-2042,Belgium,BEL,112.5
-2043,Belgium,BEL,112.5
-2044,Belgium,BEL,112.5
-2045,Belgium,BEL,112.5
-2046,Belgium,BEL,112.5
+2021,Belarus,BLR,0.2329
+2022,Belarus,BLR,0.2329
+2023,Belarus,BLR,0.2329
+2024,Belarus,BLR,0.2329
+2025,Belarus,BLR,0.2329
+2026,Belarus,BLR,0.2329
+2027,Belarus,BLR,0.2329
+2028,Belarus,BLR,0.2329
+2029,Belarus,BLR,0.2329
+2030,Belarus,BLR,0.2329
+2031,Belarus,BLR,0.2329
+2032,Belarus,BLR,0.2329
+2033,Belarus,BLR,0.2329
+2034,Belarus,BLR,0.2329
+2035,Belarus,BLR,0.2329
+2036,Belarus,BLR,0.2329
+2037,Belarus,BLR,0.2329
+2038,Belarus,BLR,0.2329
+2039,Belarus,BLR,0.2329
+2040,Belarus,BLR,0.2329
+2041,Belarus,BLR,0.1779
+2042,Belarus,BLR,0.1592
+2043,Belarus,BLR,0.1479
+2044,Belarus,BLR,0.109
+2045,Belarus,BLR,0.109
+2046,Belarus,BLR,0.109
+2021,Belgium,BEL,0.1162
+2022,Belgium,BEL,0.1162
+2023,Belgium,BEL,0.1162
+2024,Belgium,BEL,0.1162
+2025,Belgium,BEL,0.1162
+2026,Belgium,BEL,0.1162
+2027,Belgium,BEL,0.1162
+2028,Belgium,BEL,0.1162
+2029,Belgium,BEL,0.1162
+2030,Belgium,BEL,0.1162
+2031,Belgium,BEL,0.1162
+2032,Belgium,BEL,0.1162
+2033,Belgium,BEL,0.1162
+2034,Belgium,BEL,0.1162
+2035,Belgium,BEL,0.1162
+2036,Belgium,BEL,0.1162
+2037,Belgium,BEL,0.1162
+2038,Belgium,BEL,0.1162
+2039,Belgium,BEL,0.1162
+2040,Belgium,BEL,0.1162
+2041,Belgium,BEL,0.1162
+2042,Belgium,BEL,0.1125
+2043,Belgium,BEL,0.1125
+2044,Belgium,BEL,0.1125
+2045,Belgium,BEL,0.1125
+2046,Belgium,BEL,0.1125
 2047,Belgium,BEL,0.0
 2048,Belgium,BEL,0.0
 2049,Belgium,BEL,0.0
@@ -555,33 +555,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Botswana,BWA,0.0
 2054,Botswana,BWA,0.0
 2055,Botswana,BWA,0.0
-2021,Brazil,BRA,1954.6686300000001
-2022,Brazil,BRA,1954.6686300000001
-2023,Brazil,BRA,1954.6686300000001
-2024,Brazil,BRA,1954.6686300000001
-2025,Brazil,BRA,1954.6686300000001
-2026,Brazil,BRA,1954.6686300000001
-2027,Brazil,BRA,1954.6686300000001
-2028,Brazil,BRA,1954.6686300000001
-2029,Brazil,BRA,1954.6686300000001
-2030,Brazil,BRA,1954.6686300000001
-2031,Brazil,BRA,1954.6686300000001
-2032,Brazil,BRA,1954.6686300000001
-2033,Brazil,BRA,1954.6686300000001
-2034,Brazil,BRA,1954.6686300000001
-2035,Brazil,BRA,1954.6686300000001
-2036,Brazil,BRA,1954.6686300000001
-2037,Brazil,BRA,1807.3686300000002
-2038,Brazil,BRA,1807.3686300000002
-2039,Brazil,BRA,1807.3686300000002
-2040,Brazil,BRA,1807.3686300000002
-2041,Brazil,BRA,1806.3686300000002
-2042,Brazil,BRA,1766.3686300000002
-2043,Brazil,BRA,1600.1866300000002
-2044,Brazil,BRA,1043.7
-2045,Brazil,BRA,713.7
-2046,Brazil,BRA,534.0
-2047,Brazil,BRA,363.0
+2021,Brazil,BRA,1.95466863
+2022,Brazil,BRA,1.95466863
+2023,Brazil,BRA,1.95466863
+2024,Brazil,BRA,1.95466863
+2025,Brazil,BRA,1.95466863
+2026,Brazil,BRA,1.95466863
+2027,Brazil,BRA,1.95466863
+2028,Brazil,BRA,1.95466863
+2029,Brazil,BRA,1.95466863
+2030,Brazil,BRA,1.95466863
+2031,Brazil,BRA,1.95466863
+2032,Brazil,BRA,1.95466863
+2033,Brazil,BRA,1.95466863
+2034,Brazil,BRA,1.95466863
+2035,Brazil,BRA,1.95466863
+2036,Brazil,BRA,1.95466863
+2037,Brazil,BRA,1.80736863
+2038,Brazil,BRA,1.80736863
+2039,Brazil,BRA,1.80736863
+2040,Brazil,BRA,1.80736863
+2041,Brazil,BRA,1.80636863
+2042,Brazil,BRA,1.76636863
+2043,Brazil,BRA,1.75018663
+2044,Brazil,BRA,1.0437
+2045,Brazil,BRA,0.7137000000000001
+2046,Brazil,BRA,0.534
+2047,Brazil,BRA,0.363
 2048,Brazil,BRA,0.0
 2049,Brazil,BRA,0.0
 2050,Brazil,BRA,0.0
@@ -612,33 +612,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2040,Brunei Darussalam,BRN,0.0
 2041,Brunei Darussalam,BRN,0.0
 2042,Brunei Darussalam,BRN,0.0
-2021,Bulgaria,BGR,279.2
-2022,Bulgaria,BGR,279.2
-2023,Bulgaria,BGR,279.2
-2024,Bulgaria,BGR,279.2
-2025,Bulgaria,BGR,279.2
-2026,Bulgaria,BGR,279.2
-2027,Bulgaria,BGR,279.2
-2028,Bulgaria,BGR,279.2
-2029,Bulgaria,BGR,279.2
-2030,Bulgaria,BGR,279.2
-2031,Bulgaria,BGR,279.2
-2032,Bulgaria,BGR,279.2
-2033,Bulgaria,BGR,279.2
-2034,Bulgaria,BGR,279.2
-2035,Bulgaria,BGR,279.2
-2036,Bulgaria,BGR,279.2
-2037,Bulgaria,BGR,279.2
-2038,Bulgaria,BGR,279.2
-2039,Bulgaria,BGR,279.2
-2040,Bulgaria,BGR,279.2
-2041,Bulgaria,BGR,268.4
-2042,Bulgaria,BGR,254.4
-2043,Bulgaria,BGR,254.4
-2044,Bulgaria,BGR,244.9
-2045,Bulgaria,BGR,177.29999999999995
-2046,Bulgaria,BGR,151.29999999999995
-2047,Bulgaria,BGR,135.29999999999998
+2021,Bulgaria,BGR,0.2792
+2022,Bulgaria,BGR,0.2792
+2023,Bulgaria,BGR,0.2792
+2024,Bulgaria,BGR,0.2792
+2025,Bulgaria,BGR,0.2792
+2026,Bulgaria,BGR,0.2792
+2027,Bulgaria,BGR,0.2792
+2028,Bulgaria,BGR,0.2792
+2029,Bulgaria,BGR,0.2792
+2030,Bulgaria,BGR,0.2792
+2031,Bulgaria,BGR,0.2792
+2032,Bulgaria,BGR,0.2792
+2033,Bulgaria,BGR,0.2792
+2034,Bulgaria,BGR,0.2792
+2035,Bulgaria,BGR,0.2792
+2036,Bulgaria,BGR,0.2792
+2037,Bulgaria,BGR,0.2792
+2038,Bulgaria,BGR,0.2792
+2039,Bulgaria,BGR,0.2792
+2040,Bulgaria,BGR,0.2792
+2041,Bulgaria,BGR,0.2684
+2042,Bulgaria,BGR,0.2544
+2043,Bulgaria,BGR,0.2544
+2044,Bulgaria,BGR,0.2449
+2045,Bulgaria,BGR,0.1773
+2046,Bulgaria,BGR,0.1513
+2047,Bulgaria,BGR,0.13529999999999998
 2048,Bulgaria,BGR,0.0
 2049,Bulgaria,BGR,0.0
 2050,Bulgaria,BGR,0.0
@@ -647,33 +647,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Bulgaria,BGR,0.0
 2054,Bulgaria,BGR,0.0
 2055,Bulgaria,BGR,0.0
-2021,Burkina Faso,BFA,52.9
-2022,Burkina Faso,BFA,52.9
-2023,Burkina Faso,BFA,52.9
-2024,Burkina Faso,BFA,52.9
-2025,Burkina Faso,BFA,52.9
-2026,Burkina Faso,BFA,52.9
-2027,Burkina Faso,BFA,52.9
-2028,Burkina Faso,BFA,52.9
-2029,Burkina Faso,BFA,52.9
-2030,Burkina Faso,BFA,52.9
-2031,Burkina Faso,BFA,52.9
-2032,Burkina Faso,BFA,52.9
-2033,Burkina Faso,BFA,52.9
-2034,Burkina Faso,BFA,52.9
-2035,Burkina Faso,BFA,52.9
-2036,Burkina Faso,BFA,52.9
-2037,Burkina Faso,BFA,52.9
-2038,Burkina Faso,BFA,52.9
-2039,Burkina Faso,BFA,52.9
-2040,Burkina Faso,BFA,52.9
-2041,Burkina Faso,BFA,52.9
-2042,Burkina Faso,BFA,19.9
-2043,Burkina Faso,BFA,19.9
-2044,Burkina Faso,BFA,19.9
-2045,Burkina Faso,BFA,19.9
-2046,Burkina Faso,BFA,19.9
-2047,Burkina Faso,BFA,19.9
+2021,Burkina Faso,BFA,0.0529
+2022,Burkina Faso,BFA,0.0529
+2023,Burkina Faso,BFA,0.0529
+2024,Burkina Faso,BFA,0.0529
+2025,Burkina Faso,BFA,0.0529
+2026,Burkina Faso,BFA,0.0529
+2027,Burkina Faso,BFA,0.0529
+2028,Burkina Faso,BFA,0.0529
+2029,Burkina Faso,BFA,0.0529
+2030,Burkina Faso,BFA,0.0529
+2031,Burkina Faso,BFA,0.0529
+2032,Burkina Faso,BFA,0.0529
+2033,Burkina Faso,BFA,0.0529
+2034,Burkina Faso,BFA,0.0529
+2035,Burkina Faso,BFA,0.0529
+2036,Burkina Faso,BFA,0.0529
+2037,Burkina Faso,BFA,0.0529
+2038,Burkina Faso,BFA,0.0529
+2039,Burkina Faso,BFA,0.0529
+2040,Burkina Faso,BFA,0.0529
+2041,Burkina Faso,BFA,0.0529
+2042,Burkina Faso,BFA,0.0199
+2043,Burkina Faso,BFA,0.0199
+2044,Burkina Faso,BFA,0.0199
+2045,Burkina Faso,BFA,0.0199
+2046,Burkina Faso,BFA,0.0199
+2047,Burkina Faso,BFA,0.0199
 2048,Burkina Faso,BFA,0.0
 2049,Burkina Faso,BFA,0.0
 2050,Burkina Faso,BFA,0.0
@@ -682,28 +682,28 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Burkina Faso,BFA,0.0
 2054,Burkina Faso,BFA,0.0
 2055,Burkina Faso,BFA,0.0
-2021,Burundi,BDI,7.6
-2022,Burundi,BDI,7.6
-2023,Burundi,BDI,7.6
-2024,Burundi,BDI,7.6
-2025,Burundi,BDI,7.6
-2026,Burundi,BDI,7.6
-2027,Burundi,BDI,7.6
-2028,Burundi,BDI,7.6
-2029,Burundi,BDI,7.6
-2030,Burundi,BDI,7.6
-2031,Burundi,BDI,7.6
-2032,Burundi,BDI,7.6
-2033,Burundi,BDI,7.6
-2034,Burundi,BDI,7.6
-2035,Burundi,BDI,7.6
-2036,Burundi,BDI,7.6
-2037,Burundi,BDI,7.6
-2038,Burundi,BDI,7.6
-2039,Burundi,BDI,7.6
-2040,Burundi,BDI,7.6
-2041,Burundi,BDI,7.6
-2042,Burundi,BDI,7.6
+2021,Burundi,BDI,0.0076
+2022,Burundi,BDI,0.0076
+2023,Burundi,BDI,0.0076
+2024,Burundi,BDI,0.0076
+2025,Burundi,BDI,0.0076
+2026,Burundi,BDI,0.0076
+2027,Burundi,BDI,0.0076
+2028,Burundi,BDI,0.0076
+2029,Burundi,BDI,0.0076
+2030,Burundi,BDI,0.0076
+2031,Burundi,BDI,0.0076
+2032,Burundi,BDI,0.0076
+2033,Burundi,BDI,0.0076
+2034,Burundi,BDI,0.0076
+2035,Burundi,BDI,0.0076
+2036,Burundi,BDI,0.0076
+2037,Burundi,BDI,0.0076
+2038,Burundi,BDI,0.0076
+2039,Burundi,BDI,0.0076
+2040,Burundi,BDI,0.0076
+2041,Burundi,BDI,0.0076
+2042,Burundi,BDI,0.0076
 2043,Burundi,BDI,0.0
 2044,Burundi,BDI,0.0
 2045,Burundi,BDI,0.0
@@ -717,30 +717,30 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Burundi,BDI,0.0
 2054,Burundi,BDI,0.0
 2055,Burundi,BDI,0.0
-2021,Cambodia,KHM,22.8
-2022,Cambodia,KHM,22.8
-2023,Cambodia,KHM,22.8
-2024,Cambodia,KHM,22.8
-2025,Cambodia,KHM,22.8
-2026,Cambodia,KHM,22.8
-2027,Cambodia,KHM,22.8
-2028,Cambodia,KHM,22.8
-2029,Cambodia,KHM,22.8
-2030,Cambodia,KHM,22.8
-2031,Cambodia,KHM,22.8
-2032,Cambodia,KHM,22.8
-2033,Cambodia,KHM,22.8
-2034,Cambodia,KHM,22.8
-2035,Cambodia,KHM,22.8
-2036,Cambodia,KHM,22.8
-2037,Cambodia,KHM,22.8
-2038,Cambodia,KHM,22.8
-2039,Cambodia,KHM,22.8
-2040,Cambodia,KHM,22.8
-2041,Cambodia,KHM,13.0
-2042,Cambodia,KHM,3.0
-2043,Cambodia,KHM,3.0
-2044,Cambodia,KHM,3.0
+2021,Cambodia,KHM,0.0228
+2022,Cambodia,KHM,0.0228
+2023,Cambodia,KHM,0.0228
+2024,Cambodia,KHM,0.0228
+2025,Cambodia,KHM,0.0228
+2026,Cambodia,KHM,0.0228
+2027,Cambodia,KHM,0.0228
+2028,Cambodia,KHM,0.0228
+2029,Cambodia,KHM,0.0228
+2030,Cambodia,KHM,0.0228
+2031,Cambodia,KHM,0.0228
+2032,Cambodia,KHM,0.0228
+2033,Cambodia,KHM,0.0228
+2034,Cambodia,KHM,0.0228
+2035,Cambodia,KHM,0.0228
+2036,Cambodia,KHM,0.0228
+2037,Cambodia,KHM,0.0228
+2038,Cambodia,KHM,0.0228
+2039,Cambodia,KHM,0.0228
+2040,Cambodia,KHM,0.0228
+2041,Cambodia,KHM,0.013
+2042,Cambodia,KHM,0.003
+2043,Cambodia,KHM,0.003
+2044,Cambodia,KHM,0.003
 2045,Cambodia,KHM,0.0
 2046,Cambodia,KHM,0.0
 2047,Cambodia,KHM,0.0
@@ -787,33 +787,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Cameroon,CMR,0.0
 2054,Cameroon,CMR,0.0
 2055,Cameroon,CMR,0.0
-2021,Canada,CAN,1826.6
-2022,Canada,CAN,1826.6
-2023,Canada,CAN,1826.6
-2024,Canada,CAN,1826.6
-2025,Canada,CAN,1826.6
-2026,Canada,CAN,1826.6
-2027,Canada,CAN,1826.6
-2028,Canada,CAN,1826.6
-2029,Canada,CAN,1826.6
-2030,Canada,CAN,1826.6
-2031,Canada,CAN,1826.6
-2032,Canada,CAN,1826.6
-2033,Canada,CAN,1826.6
-2034,Canada,CAN,1826.6
-2035,Canada,CAN,1826.6
-2036,Canada,CAN,1826.6
-2037,Canada,CAN,1826.6
-2038,Canada,CAN,1826.6
-2039,Canada,CAN,1806.6
-2040,Canada,CAN,1780.0999999999995
-2041,Canada,CAN,1654.2
-2042,Canada,CAN,1555.7
-2043,Canada,CAN,1302.2
-2044,Canada,CAN,1179.2
-2045,Canada,CAN,882.1
-2046,Canada,CAN,613.1
-2047,Canada,CAN,508.0
+2021,Canada,CAN,1.8266
+2022,Canada,CAN,1.8266
+2023,Canada,CAN,1.8266
+2024,Canada,CAN,1.8266
+2025,Canada,CAN,1.8266
+2026,Canada,CAN,1.8266
+2027,Canada,CAN,1.8266
+2028,Canada,CAN,1.8266
+2029,Canada,CAN,1.8266
+2030,Canada,CAN,1.8266
+2031,Canada,CAN,1.8266
+2032,Canada,CAN,1.8266
+2033,Canada,CAN,1.8266
+2034,Canada,CAN,1.8266
+2035,Canada,CAN,1.8266
+2036,Canada,CAN,1.8266
+2037,Canada,CAN,1.8266
+2038,Canada,CAN,1.8266
+2039,Canada,CAN,1.7825999999999995
+2040,Canada,CAN,1.7491
+2041,Canada,CAN,1.6688999999999998
+2042,Canada,CAN,1.5723999999999998
+2043,Canada,CAN,1.4589
+2044,Canada,CAN,1.3138999999999998
+2045,Canada,CAN,1.0716
+2046,Canada,CAN,0.708
+2047,Canada,CAN,0.5555
 2048,Canada,CAN,0.0
 2049,Canada,CAN,0.0
 2050,Canada,CAN,0.0
@@ -822,68 +822,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Canada,CAN,0.0
 2054,Canada,CAN,0.0
 2055,Canada,CAN,0.0
-2021,Central African Republic,CAF,0.0
-2022,Central African Republic,CAF,0.0
-2023,Central African Republic,CAF,0.0
-2024,Central African Republic,CAF,0.0
-2025,Central African Republic,CAF,0.0
-2026,Central African Republic,CAF,0.0
-2027,Central African Republic,CAF,0.0
-2028,Central African Republic,CAF,0.0
-2029,Central African Republic,CAF,0.0
-2030,Central African Republic,CAF,0.0
-2031,Central African Republic,CAF,0.0
-2032,Central African Republic,CAF,0.0
-2033,Central African Republic,CAF,0.0
-2034,Central African Republic,CAF,0.0
-2035,Central African Republic,CAF,0.0
-2036,Central African Republic,CAF,0.0
-2037,Central African Republic,CAF,0.0
-2038,Central African Republic,CAF,0.0
-2039,Central African Republic,CAF,0.0
-2040,Central African Republic,CAF,0.0
-2041,Central African Republic,CAF,0.0
-2042,Central African Republic,CAF,0.0
-2043,Central African Republic,CAF,0.0
-2044,Central African Republic,CAF,0.0
-2045,Central African Republic,CAF,0.0
-2046,Central African Republic,CAF,0.0
-2047,Central African Republic,CAF,0.0
-2048,Central African Republic,CAF,0.0
-2049,Central African Republic,CAF,0.0
-2050,Central African Republic,CAF,0.0
-2051,Central African Republic,CAF,0.0
-2052,Central African Republic,CAF,0.0
-2053,Central African Republic,CAF,0.0
-2054,Central African Republic,CAF,0.0
-2055,Central African Republic,CAF,0.0
-2021,Chile,CHL,3953.75
-2022,Chile,CHL,3953.75
-2023,Chile,CHL,3953.75
-2024,Chile,CHL,3953.75
-2025,Chile,CHL,3953.75
-2026,Chile,CHL,3953.75
-2027,Chile,CHL,3953.75
-2028,Chile,CHL,3953.75
-2029,Chile,CHL,3953.75
-2030,Chile,CHL,3953.75
-2031,Chile,CHL,3953.75
-2032,Chile,CHL,3953.75
-2033,Chile,CHL,3953.75
-2034,Chile,CHL,3953.75
-2035,Chile,CHL,3953.75
-2036,Chile,CHL,3953.75
-2037,Chile,CHL,3953.75
-2038,Chile,CHL,3953.75
-2039,Chile,CHL,3802.35
-2040,Chile,CHL,3775.35
-2041,Chile,CHL,3521.95
-2042,Chile,CHL,3040.31
-2043,Chile,CHL,2787.51
-2044,Chile,CHL,2290.26
-2045,Chile,CHL,1734.3800000000006
-2046,Chile,CHL,1282.4600000000005
-2047,Chile,CHL,766.5600000000002
+2021,Chile,CHL,3.95375
+2022,Chile,CHL,3.95375
+2023,Chile,CHL,3.95375
+2024,Chile,CHL,3.95375
+2025,Chile,CHL,3.95375
+2026,Chile,CHL,3.95375
+2027,Chile,CHL,3.95375
+2028,Chile,CHL,3.95375
+2029,Chile,CHL,3.95375
+2030,Chile,CHL,3.95375
+2031,Chile,CHL,3.95375
+2032,Chile,CHL,3.95375
+2033,Chile,CHL,3.95375
+2034,Chile,CHL,3.95375
+2035,Chile,CHL,3.95375
+2036,Chile,CHL,3.95375
+2037,Chile,CHL,3.95375
+2038,Chile,CHL,3.95375
+2039,Chile,CHL,3.95175
+2040,Chile,CHL,3.91375
+2041,Chile,CHL,3.52475
+2042,Chile,CHL,3.37564
+2043,Chile,CHL,2.81794
+2044,Chile,CHL,2.6509400000000003
+2045,Chile,CHL,1.77742
+2046,Chile,CHL,1.2130999999999998
+2047,Chile,CHL,0.6805999999999999
 2048,Chile,CHL,0.0
 2049,Chile,CHL,0.0
 2050,Chile,CHL,0.0
@@ -892,33 +857,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Chile,CHL,0.0
 2054,Chile,CHL,0.0
 2055,Chile,CHL,0.0
-2021,China,CHN,54801.81999999999
-2022,China,CHN,54801.81999999999
-2023,China,CHN,54801.81999999999
-2024,China,CHN,54801.81999999999
-2025,China,CHN,54801.81999999999
-2026,China,CHN,54801.81999999999
-2027,China,CHN,54801.81999999999
-2028,China,CHN,54801.81999999999
-2029,China,CHN,54801.81999999999
-2030,China,CHN,54801.81999999999
-2031,China,CHN,54801.81999999999
-2032,China,CHN,54801.81999999999
-2033,China,CHN,54801.81999999999
-2034,China,CHN,54801.81999999999
-2035,China,CHN,54801.81999999999
-2036,China,CHN,54751.81999999999
-2037,China,CHN,54656.81999999999
-2038,China,CHN,54545.81999999999
-2039,China,CHN,53849.22
-2040,China,CHN,53051.92
-2041,China,CHN,50246.64
-2042,China,CHN,46364.04
-2043,China,CHN,40813.140000000014
-2044,China,CHN,35338.44
-2045,China,CHN,29446.200000000004
-2046,China,CHN,21786.6
-2047,China,CHN,14462.1
+2021,China,CHN,54.80181999999999
+2022,China,CHN,54.80181999999999
+2023,China,CHN,54.80181999999999
+2024,China,CHN,54.80181999999999
+2025,China,CHN,54.80181999999999
+2026,China,CHN,54.80181999999999
+2027,China,CHN,54.80181999999999
+2028,China,CHN,54.80181999999999
+2029,China,CHN,54.80181999999999
+2030,China,CHN,54.80181999999999
+2031,China,CHN,54.80181999999999
+2032,China,CHN,54.80181999999999
+2033,China,CHN,54.80181999999999
+2034,China,CHN,54.80181999999999
+2035,China,CHN,54.80181999999999
+2036,China,CHN,54.80181999999999
+2037,China,CHN,54.74182
+2038,China,CHN,54.57182
+2039,China,CHN,53.85981999999999
+2040,China,CHN,52.459300000000006
+2041,China,CHN,49.37449999999999
+2042,China,CHN,45.3348
+2043,China,CHN,40.032100000000014
+2044,China,CHN,34.48720000000001
+2045,China,CHN,27.63970000000001
+2046,China,CHN,18.49002
+2047,China,CHN,11.83162
 2048,China,CHN,0.0
 2049,China,CHN,0.0
 2050,China,CHN,0.0
@@ -927,33 +892,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,China,CHN,0.0
 2054,China,CHN,0.0
 2055,China,CHN,0.0
-2021,Colombia,COL,96.0
-2022,Colombia,COL,96.0
-2023,Colombia,COL,96.0
-2024,Colombia,COL,96.0
-2025,Colombia,COL,96.0
-2026,Colombia,COL,96.0
-2027,Colombia,COL,96.0
-2028,Colombia,COL,96.0
-2029,Colombia,COL,96.0
-2030,Colombia,COL,96.0
-2031,Colombia,COL,96.0
-2032,Colombia,COL,96.0
-2033,Colombia,COL,96.0
-2034,Colombia,COL,96.0
-2035,Colombia,COL,96.0
-2036,Colombia,COL,96.0
-2037,Colombia,COL,96.0
-2038,Colombia,COL,96.0
-2039,Colombia,COL,96.0
-2040,Colombia,COL,96.0
-2041,Colombia,COL,96.0
-2042,Colombia,COL,96.0
-2043,Colombia,COL,86.2
-2044,Colombia,COL,86.2
-2045,Colombia,COL,0.0
-2046,Colombia,COL,0.0
-2047,Colombia,COL,0.0
+2021,Colombia,COL,0.096
+2022,Colombia,COL,0.096
+2023,Colombia,COL,0.096
+2024,Colombia,COL,0.096
+2025,Colombia,COL,0.096
+2026,Colombia,COL,0.096
+2027,Colombia,COL,0.096
+2028,Colombia,COL,0.096
+2029,Colombia,COL,0.096
+2030,Colombia,COL,0.096
+2031,Colombia,COL,0.096
+2032,Colombia,COL,0.096
+2033,Colombia,COL,0.096
+2034,Colombia,COL,0.096
+2035,Colombia,COL,0.096
+2036,Colombia,COL,0.096
+2037,Colombia,COL,0.096
+2038,Colombia,COL,0.096
+2039,Colombia,COL,0.096
+2040,Colombia,COL,0.096
+2041,Colombia,COL,0.096
+2042,Colombia,COL,0.096
+2043,Colombia,COL,0.096
+2044,Colombia,COL,0.096
+2045,Colombia,COL,0.0862
+2046,Colombia,COL,0.0862
+2047,Colombia,COL,0.0862
 2048,Colombia,COL,0.0
 2049,Colombia,COL,0.0
 2050,Colombia,COL,0.0
@@ -997,33 +962,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Congo,COG,0.0
 2054,Congo,COG,0.0
 2055,Congo,COG,0.0
-2021,Costa Rica,CRI,5.0
-2022,Costa Rica,CRI,5.0
-2023,Costa Rica,CRI,5.0
-2024,Costa Rica,CRI,5.0
-2025,Costa Rica,CRI,5.0
-2026,Costa Rica,CRI,5.0
-2027,Costa Rica,CRI,5.0
-2028,Costa Rica,CRI,5.0
-2029,Costa Rica,CRI,5.0
-2030,Costa Rica,CRI,5.0
-2031,Costa Rica,CRI,5.0
-2032,Costa Rica,CRI,5.0
-2033,Costa Rica,CRI,5.0
-2034,Costa Rica,CRI,5.0
-2035,Costa Rica,CRI,5.0
-2036,Costa Rica,CRI,5.0
-2037,Costa Rica,CRI,5.0
-2038,Costa Rica,CRI,5.0
-2039,Costa Rica,CRI,5.0
-2040,Costa Rica,CRI,5.0
-2041,Costa Rica,CRI,5.0
-2042,Costa Rica,CRI,5.0
-2043,Costa Rica,CRI,5.0
-2044,Costa Rica,CRI,5.0
-2045,Costa Rica,CRI,0.0
-2046,Costa Rica,CRI,0.0
-2047,Costa Rica,CRI,0.0
+2021,Costa Rica,CRI,0.005
+2022,Costa Rica,CRI,0.005
+2023,Costa Rica,CRI,0.005
+2024,Costa Rica,CRI,0.005
+2025,Costa Rica,CRI,0.005
+2026,Costa Rica,CRI,0.005
+2027,Costa Rica,CRI,0.005
+2028,Costa Rica,CRI,0.005
+2029,Costa Rica,CRI,0.005
+2030,Costa Rica,CRI,0.005
+2031,Costa Rica,CRI,0.005
+2032,Costa Rica,CRI,0.005
+2033,Costa Rica,CRI,0.005
+2034,Costa Rica,CRI,0.005
+2035,Costa Rica,CRI,0.005
+2036,Costa Rica,CRI,0.005
+2037,Costa Rica,CRI,0.005
+2038,Costa Rica,CRI,0.005
+2039,Costa Rica,CRI,0.005
+2040,Costa Rica,CRI,0.005
+2041,Costa Rica,CRI,0.005
+2042,Costa Rica,CRI,0.005
+2043,Costa Rica,CRI,0.005
+2044,Costa Rica,CRI,0.005
+2045,Costa Rica,CRI,0.005
+2046,Costa Rica,CRI,0.005
+2047,Costa Rica,CRI,0.005
 2048,Costa Rica,CRI,0.0
 2049,Costa Rica,CRI,0.0
 2050,Costa Rica,CRI,0.0
@@ -1067,33 +1032,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Croatia,HRV,0.0
 2054,Croatia,HRV,0.0
 2055,Croatia,HRV,0.0
-2021,Cuba,CUB,9.0
-2022,Cuba,CUB,9.0
-2023,Cuba,CUB,9.0
-2024,Cuba,CUB,9.0
-2025,Cuba,CUB,9.0
-2026,Cuba,CUB,9.0
-2027,Cuba,CUB,9.0
-2028,Cuba,CUB,9.0
-2029,Cuba,CUB,9.0
-2030,Cuba,CUB,9.0
-2031,Cuba,CUB,9.0
-2032,Cuba,CUB,9.0
-2033,Cuba,CUB,9.0
-2034,Cuba,CUB,9.0
-2035,Cuba,CUB,9.0
-2036,Cuba,CUB,9.0
-2037,Cuba,CUB,9.0
-2038,Cuba,CUB,9.0
-2039,Cuba,CUB,9.0
-2040,Cuba,CUB,4.0
-2041,Cuba,CUB,4.0
-2042,Cuba,CUB,4.0
-2043,Cuba,CUB,0.0
-2044,Cuba,CUB,0.0
-2045,Cuba,CUB,0.0
-2046,Cuba,CUB,0.0
-2047,Cuba,CUB,0.0
+2021,Cuba,CUB,0.009000000000000001
+2022,Cuba,CUB,0.009000000000000001
+2023,Cuba,CUB,0.009000000000000001
+2024,Cuba,CUB,0.009000000000000001
+2025,Cuba,CUB,0.009000000000000001
+2026,Cuba,CUB,0.009000000000000001
+2027,Cuba,CUB,0.009000000000000001
+2028,Cuba,CUB,0.009000000000000001
+2029,Cuba,CUB,0.009000000000000001
+2030,Cuba,CUB,0.009000000000000001
+2031,Cuba,CUB,0.009000000000000001
+2032,Cuba,CUB,0.009000000000000001
+2033,Cuba,CUB,0.009000000000000001
+2034,Cuba,CUB,0.009000000000000001
+2035,Cuba,CUB,0.009000000000000001
+2036,Cuba,CUB,0.009000000000000001
+2037,Cuba,CUB,0.009000000000000001
+2038,Cuba,CUB,0.009000000000000001
+2039,Cuba,CUB,0.009000000000000001
+2040,Cuba,CUB,0.009000000000000001
+2041,Cuba,CUB,0.009000000000000001
+2042,Cuba,CUB,0.009000000000000001
+2043,Cuba,CUB,0.009000000000000001
+2044,Cuba,CUB,0.009000000000000001
+2045,Cuba,CUB,0.009000000000000001
+2046,Cuba,CUB,0.009000000000000001
+2047,Cuba,CUB,0.004
 2048,Cuba,CUB,0.0
 2049,Cuba,CUB,0.0
 2050,Cuba,CUB,0.0
@@ -1117,20 +1082,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2033,Cyprus,CYP,0.0
 2034,Cyprus,CYP,0.0
 2035,Cyprus,CYP,0.0
-2036,Cyprus,CYP,0.0
-2037,Cyprus,CYP,0.0
-2038,Cyprus,CYP,0.0
-2039,Cyprus,CYP,0.0
-2040,Cyprus,CYP,0.0
-2041,Cyprus,CYP,0.0
-2042,Cyprus,CYP,0.0
-2043,Cyprus,CYP,0.0
-2044,Cyprus,CYP,0.0
-2045,Cyprus,CYP,0.0
-2046,Cyprus,CYP,0.0
-2047,Cyprus,CYP,0.0
-2048,Cyprus,CYP,0.0
-2049,Cyprus,CYP,0.0
 2021,Democratic Republic of the Congo,COD,0.0
 2022,Democratic Republic of the Congo,COD,0.0
 2023,Democratic Republic of the Congo,COD,0.0
@@ -1166,70 +1117,66 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Democratic Republic of the Congo,COD,0.0
 2054,Democratic Republic of the Congo,COD,0.0
 2055,Democratic Republic of the Congo,COD,0.0
-2021,Denmark,DNK,251.1
-2022,Denmark,DNK,251.1
-2023,Denmark,DNK,251.1
-2024,Denmark,DNK,251.1
-2025,Denmark,DNK,251.1
-2026,Denmark,DNK,251.1
-2027,Denmark,DNK,251.1
-2028,Denmark,DNK,251.1
-2029,Denmark,DNK,251.1
-2030,Denmark,DNK,251.1
-2031,Denmark,DNK,251.1
-2032,Denmark,DNK,251.1
-2033,Denmark,DNK,251.1
-2034,Denmark,DNK,251.1
-2035,Denmark,DNK,251.1
-2036,Denmark,DNK,251.1
-2037,Denmark,DNK,251.1
-2038,Denmark,DNK,251.1
-2039,Denmark,DNK,251.1
-2040,Denmark,DNK,241.1
-2041,Denmark,DNK,180.7
-2042,Denmark,DNK,170.7
-2043,Denmark,DNK,158.6
-2044,Denmark,DNK,158.6
-2045,Denmark,DNK,158.6
-2046,Denmark,DNK,97.6
-2047,Denmark,DNK,71.0
-2048,Denmark,DNK,0.0
-2049,Denmark,DNK,0.0
-2050,Denmark,DNK,0.0
-2051,Denmark,DNK,0.0
-2052,Denmark,DNK,0.0
-2053,Denmark,DNK,0.0
-2054,Denmark,DNK,0.0
-2055,Denmark,DNK,0.0
+2021,Denmark,DNK,0.2511
+2022,Denmark,DNK,0.2511
+2023,Denmark,DNK,0.2511
+2024,Denmark,DNK,0.2511
+2025,Denmark,DNK,0.2511
+2026,Denmark,DNK,0.2511
+2027,Denmark,DNK,0.2511
+2028,Denmark,DNK,0.2511
+2029,Denmark,DNK,0.2511
+2030,Denmark,DNK,0.2511
+2031,Denmark,DNK,0.2511
+2032,Denmark,DNK,0.2511
+2033,Denmark,DNK,0.2511
+2034,Denmark,DNK,0.2511
+2035,Denmark,DNK,0.2511
+2036,Denmark,DNK,0.2511
+2037,Denmark,DNK,0.2511
+2038,Denmark,DNK,0.2511
+2039,Denmark,DNK,0.2411
+2040,Denmark,DNK,0.2411
+2041,Denmark,DNK,0.2411
+2042,Denmark,DNK,0.2411
+2043,Denmark,DNK,0.22899999999999998
+2044,Denmark,DNK,0.1586
+2045,Denmark,DNK,0.1586
+2046,Denmark,DNK,0.081
+2047,Denmark,DNK,0.07100000000000001
 2021,Djibouti,DJI,0.0
 2022,Djibouti,DJI,0.0
 2023,Djibouti,DJI,0.0
 2024,Djibouti,DJI,0.0
-2021,Dominican Republic,DOM,113.0
-2022,Dominican Republic,DOM,113.0
-2023,Dominican Republic,DOM,113.0
-2024,Dominican Republic,DOM,113.0
-2025,Dominican Republic,DOM,113.0
-2026,Dominican Republic,DOM,113.0
-2027,Dominican Republic,DOM,113.0
-2028,Dominican Republic,DOM,113.0
-2029,Dominican Republic,DOM,113.0
-2030,Dominican Republic,DOM,113.0
-2031,Dominican Republic,DOM,113.0
-2032,Dominican Republic,DOM,113.0
-2033,Dominican Republic,DOM,113.0
-2034,Dominican Republic,DOM,113.0
-2035,Dominican Republic,DOM,113.0
-2036,Dominican Republic,DOM,113.0
-2037,Dominican Republic,DOM,113.0
-2038,Dominican Republic,DOM,113.0
-2039,Dominican Republic,DOM,113.0
-2040,Dominican Republic,DOM,113.0
-2041,Dominican Republic,DOM,113.0
-2042,Dominican Republic,DOM,113.0
-2043,Dominican Republic,DOM,83.0
-2044,Dominican Republic,DOM,0.0
-2045,Dominican Republic,DOM,0.0
+2025,Djibouti,DJI,0.0
+2026,Djibouti,DJI,0.0
+2027,Djibouti,DJI,0.0
+2028,Djibouti,DJI,0.0
+2021,Dominican Republic,DOM,0.113
+2022,Dominican Republic,DOM,0.113
+2023,Dominican Republic,DOM,0.113
+2024,Dominican Republic,DOM,0.113
+2025,Dominican Republic,DOM,0.113
+2026,Dominican Republic,DOM,0.113
+2027,Dominican Republic,DOM,0.113
+2028,Dominican Republic,DOM,0.113
+2029,Dominican Republic,DOM,0.113
+2030,Dominican Republic,DOM,0.113
+2031,Dominican Republic,DOM,0.113
+2032,Dominican Republic,DOM,0.113
+2033,Dominican Republic,DOM,0.113
+2034,Dominican Republic,DOM,0.113
+2035,Dominican Republic,DOM,0.113
+2036,Dominican Republic,DOM,0.113
+2037,Dominican Republic,DOM,0.113
+2038,Dominican Republic,DOM,0.113
+2039,Dominican Republic,DOM,0.113
+2040,Dominican Republic,DOM,0.113
+2041,Dominican Republic,DOM,0.113
+2042,Dominican Republic,DOM,0.113
+2043,Dominican Republic,DOM,0.113
+2044,Dominican Republic,DOM,0.08800000000000001
+2045,Dominican Republic,DOM,0.057999999999999996
 2046,Dominican Republic,DOM,0.0
 2047,Dominican Republic,DOM,0.0
 2048,Dominican Republic,DOM,0.0
@@ -1240,33 +1187,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Dominican Republic,DOM,0.0
 2054,Dominican Republic,DOM,0.0
 2055,Dominican Republic,DOM,0.0
-2021,Ecuador,ECU,50.0
-2022,Ecuador,ECU,50.0
-2023,Ecuador,ECU,50.0
-2024,Ecuador,ECU,50.0
-2025,Ecuador,ECU,50.0
-2026,Ecuador,ECU,50.0
-2027,Ecuador,ECU,50.0
-2028,Ecuador,ECU,50.0
-2029,Ecuador,ECU,50.0
-2030,Ecuador,ECU,50.0
-2031,Ecuador,ECU,50.0
-2032,Ecuador,ECU,50.0
-2033,Ecuador,ECU,50.0
-2034,Ecuador,ECU,50.0
-2035,Ecuador,ECU,50.0
-2036,Ecuador,ECU,50.0
-2037,Ecuador,ECU,50.0
-2038,Ecuador,ECU,50.0
-2039,Ecuador,ECU,50.0
-2040,Ecuador,ECU,50.0
-2041,Ecuador,ECU,50.0
-2042,Ecuador,ECU,50.0
-2043,Ecuador,ECU,50.0
-2044,Ecuador,ECU,30.0
-2045,Ecuador,ECU,30.0
-2046,Ecuador,ECU,30.0
-2047,Ecuador,ECU,30.0
+2021,Ecuador,ECU,0.05
+2022,Ecuador,ECU,0.05
+2023,Ecuador,ECU,0.05
+2024,Ecuador,ECU,0.05
+2025,Ecuador,ECU,0.05
+2026,Ecuador,ECU,0.05
+2027,Ecuador,ECU,0.05
+2028,Ecuador,ECU,0.05
+2029,Ecuador,ECU,0.05
+2030,Ecuador,ECU,0.05
+2031,Ecuador,ECU,0.05
+2032,Ecuador,ECU,0.05
+2033,Ecuador,ECU,0.05
+2034,Ecuador,ECU,0.05
+2035,Ecuador,ECU,0.05
+2036,Ecuador,ECU,0.05
+2037,Ecuador,ECU,0.05
+2038,Ecuador,ECU,0.05
+2039,Ecuador,ECU,0.05
+2040,Ecuador,ECU,0.05
+2041,Ecuador,ECU,0.05
+2042,Ecuador,ECU,0.02
+2043,Ecuador,ECU,0.02
+2044,Ecuador,ECU,0.02
+2045,Ecuador,ECU,0.02
+2046,Ecuador,ECU,0.02
+2047,Ecuador,ECU,0.02
 2048,Ecuador,ECU,0.0
 2049,Ecuador,ECU,0.0
 2050,Ecuador,ECU,0.0
@@ -1275,33 +1222,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Ecuador,ECU,0.0
 2054,Ecuador,ECU,0.0
 2055,Ecuador,ECU,0.0
-2021,Egypt,EGY,759.5
-2022,Egypt,EGY,759.5
-2023,Egypt,EGY,759.5
-2024,Egypt,EGY,759.5
-2025,Egypt,EGY,759.5
-2026,Egypt,EGY,759.5
-2027,Egypt,EGY,759.5
-2028,Egypt,EGY,759.5
-2029,Egypt,EGY,759.5
-2030,Egypt,EGY,759.5
-2031,Egypt,EGY,759.5
-2032,Egypt,EGY,759.5
-2033,Egypt,EGY,759.5
-2034,Egypt,EGY,759.5
-2035,Egypt,EGY,759.5
-2036,Egypt,EGY,759.5
-2037,Egypt,EGY,759.5
-2038,Egypt,EGY,759.5
-2039,Egypt,EGY,739.5
-2040,Egypt,EGY,739.5
-2041,Egypt,EGY,734.5
-2042,Egypt,EGY,714.5
-2043,Egypt,EGY,660.0
-2044,Egypt,EGY,560.0
-2045,Egypt,EGY,210.0
-2046,Egypt,EGY,185.0
-2047,Egypt,EGY,100.0
+2021,Egypt,EGY,0.7595000000000001
+2022,Egypt,EGY,0.7595000000000001
+2023,Egypt,EGY,0.7595000000000001
+2024,Egypt,EGY,0.7595000000000001
+2025,Egypt,EGY,0.7595000000000001
+2026,Egypt,EGY,0.7595000000000001
+2027,Egypt,EGY,0.7595000000000001
+2028,Egypt,EGY,0.7595000000000001
+2029,Egypt,EGY,0.7595000000000001
+2030,Egypt,EGY,0.7595000000000001
+2031,Egypt,EGY,0.7595000000000001
+2032,Egypt,EGY,0.7595000000000001
+2033,Egypt,EGY,0.7595000000000001
+2034,Egypt,EGY,0.7595000000000001
+2035,Egypt,EGY,0.7595000000000001
+2036,Egypt,EGY,0.7595000000000001
+2037,Egypt,EGY,0.7595000000000001
+2038,Egypt,EGY,0.7595000000000001
+2039,Egypt,EGY,0.7495
+2040,Egypt,EGY,0.7495
+2041,Egypt,EGY,0.745
+2042,Egypt,EGY,0.72
+2043,Egypt,EGY,0.715
+2044,Egypt,EGY,0.615
+2045,Egypt,EGY,0.265
+2046,Egypt,EGY,0.215
+2047,Egypt,EGY,0.145
 2048,Egypt,EGY,0.0
 2049,Egypt,EGY,0.0
 2050,Egypt,EGY,0.0
@@ -1310,33 +1257,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Egypt,EGY,0.0
 2054,Egypt,EGY,0.0
 2055,Egypt,EGY,0.0
-2021,El Salvador,SLV,270.0
-2022,El Salvador,SLV,270.0
-2023,El Salvador,SLV,270.0
-2024,El Salvador,SLV,270.0
-2025,El Salvador,SLV,270.0
-2026,El Salvador,SLV,270.0
-2027,El Salvador,SLV,270.0
-2028,El Salvador,SLV,270.0
-2029,El Salvador,SLV,270.0
-2030,El Salvador,SLV,270.0
-2031,El Salvador,SLV,270.0
-2032,El Salvador,SLV,270.0
-2033,El Salvador,SLV,270.0
-2034,El Salvador,SLV,270.0
-2035,El Salvador,SLV,270.0
-2036,El Salvador,SLV,270.0
-2037,El Salvador,SLV,270.0
-2038,El Salvador,SLV,270.0
-2039,El Salvador,SLV,270.0
-2040,El Salvador,SLV,260.0
-2041,El Salvador,SLV,260.0
-2042,El Salvador,SLV,225.0
-2043,El Salvador,SLV,207.0
-2044,El Salvador,SLV,207.0
-2045,El Salvador,SLV,207.0
-2046,El Salvador,SLV,207.0
-2047,El Salvador,SLV,86.0
+2021,El Salvador,SLV,0.27
+2022,El Salvador,SLV,0.27
+2023,El Salvador,SLV,0.27
+2024,El Salvador,SLV,0.27
+2025,El Salvador,SLV,0.27
+2026,El Salvador,SLV,0.27
+2027,El Salvador,SLV,0.27
+2028,El Salvador,SLV,0.27
+2029,El Salvador,SLV,0.27
+2030,El Salvador,SLV,0.27
+2031,El Salvador,SLV,0.27
+2032,El Salvador,SLV,0.27
+2033,El Salvador,SLV,0.27
+2034,El Salvador,SLV,0.27
+2035,El Salvador,SLV,0.27
+2036,El Salvador,SLV,0.27
+2037,El Salvador,SLV,0.27
+2038,El Salvador,SLV,0.27
+2039,El Salvador,SLV,0.27
+2040,El Salvador,SLV,0.26
+2041,El Salvador,SLV,0.26
+2042,El Salvador,SLV,0.23199999999999998
+2043,El Salvador,SLV,0.131
+2044,El Salvador,SLV,0.03
+2045,El Salvador,SLV,0.03
+2046,El Salvador,SLV,0.03
+2047,El Salvador,SLV,0.03
 2048,El Salvador,SLV,0.0
 2049,El Salvador,SLV,0.0
 2050,El Salvador,SLV,0.0
@@ -1366,6 +1313,20 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2039,Equatorial Guinea,GNQ,0.0
 2040,Equatorial Guinea,GNQ,0.0
 2041,Equatorial Guinea,GNQ,0.0
+2042,Equatorial Guinea,GNQ,0.0
+2043,Equatorial Guinea,GNQ,0.0
+2044,Equatorial Guinea,GNQ,0.0
+2045,Equatorial Guinea,GNQ,0.0
+2046,Equatorial Guinea,GNQ,0.0
+2047,Equatorial Guinea,GNQ,0.0
+2048,Equatorial Guinea,GNQ,0.0
+2049,Equatorial Guinea,GNQ,0.0
+2050,Equatorial Guinea,GNQ,0.0
+2051,Equatorial Guinea,GNQ,0.0
+2052,Equatorial Guinea,GNQ,0.0
+2053,Equatorial Guinea,GNQ,0.0
+2054,Equatorial Guinea,GNQ,0.0
+2055,Equatorial Guinea,GNQ,0.0
 2021,Eritrea,ERI,0.0
 2022,Eritrea,ERI,0.0
 2023,Eritrea,ERI,0.0
@@ -1395,6 +1356,12 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2047,Eritrea,ERI,0.0
 2048,Eritrea,ERI,0.0
 2049,Eritrea,ERI,0.0
+2050,Eritrea,ERI,0.0
+2051,Eritrea,ERI,0.0
+2052,Eritrea,ERI,0.0
+2053,Eritrea,ERI,0.0
+2054,Eritrea,ERI,0.0
+2055,Eritrea,ERI,0.0
 2021,Estonia,EST,0.0
 2022,Estonia,EST,0.0
 2023,Estonia,EST,0.0
@@ -1535,33 +1502,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Finland,FIN,0.0
 2054,Finland,FIN,0.0
 2055,Finland,FIN,0.0
-2021,France,FRA,4910.416999999994
-2022,France,FRA,4910.416999999994
-2023,France,FRA,4910.416999999994
-2024,France,FRA,4910.416999999994
-2025,France,FRA,4910.416999999994
-2026,France,FRA,4910.416999999994
-2027,France,FRA,4910.416999999994
-2028,France,FRA,4910.416999999994
-2029,France,FRA,4910.416999999994
-2030,France,FRA,4910.416999999994
-2031,France,FRA,4910.416999999994
-2032,France,FRA,4910.416999999994
-2033,France,FRA,4910.416999999994
-2034,France,FRA,4909.036649999994
-2035,France,FRA,4909.036649999994
-2036,France,FRA,4897.936649999994
-2037,France,FRA,4859.094529999995
-2038,France,FRA,4838.330199999995
-2039,France,FRA,4795.382869999995
-2040,France,FRA,4702.148019999995
-2041,France,FRA,4491.955699999999
-2042,France,FRA,4215.612519999998
-2043,France,FRA,3756.2366899999984
-2044,France,FRA,3230.6395499999976
-2045,France,FRA,2625.644129999999
-2046,France,FRA,2113.0591799999993
-2047,France,FRA,1123.7725599999997
+2021,France,FRA,4.9104169999999945
+2022,France,FRA,4.9104169999999945
+2023,France,FRA,4.9104169999999945
+2024,France,FRA,4.9104169999999945
+2025,France,FRA,4.9104169999999945
+2026,France,FRA,4.9104169999999945
+2027,France,FRA,4.9104169999999945
+2028,France,FRA,4.9104169999999945
+2029,France,FRA,4.9104169999999945
+2030,France,FRA,4.9104169999999945
+2031,France,FRA,4.9104169999999945
+2032,France,FRA,4.9104169999999945
+2033,France,FRA,4.9104169999999945
+2034,France,FRA,4.909409389999993
+2035,France,FRA,4.905178109999993
+2036,France,FRA,4.905178109999993
+2037,France,FRA,4.8775201399999935
+2038,France,FRA,4.861488139999994
+2039,France,FRA,4.8272272499999955
+2040,France,FRA,4.705936549999995
+2041,France,FRA,4.452478449999998
+2042,France,FRA,4.046225309999998
+2043,France,FRA,3.721116869999997
+2044,France,FRA,3.1149549099999967
+2045,France,FRA,2.5830381499999997
+2046,France,FRA,1.7907402600000004
+2047,France,FRA,1.36876918
 2048,France,FRA,0.0
 2049,France,FRA,0.0
 2050,France,FRA,0.0
@@ -1570,33 +1537,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,France,FRA,0.0
 2054,France,FRA,0.0
 2055,France,FRA,0.0
-2021,French Guiana,GUF,5.0
-2022,French Guiana,GUF,5.0
-2023,French Guiana,GUF,5.0
-2024,French Guiana,GUF,5.0
-2025,French Guiana,GUF,5.0
-2026,French Guiana,GUF,5.0
-2027,French Guiana,GUF,5.0
-2028,French Guiana,GUF,5.0
-2029,French Guiana,GUF,5.0
-2030,French Guiana,GUF,5.0
-2031,French Guiana,GUF,5.0
-2032,French Guiana,GUF,5.0
-2033,French Guiana,GUF,5.0
-2034,French Guiana,GUF,5.0
-2035,French Guiana,GUF,5.0
-2036,French Guiana,GUF,5.0
-2037,French Guiana,GUF,5.0
-2038,French Guiana,GUF,5.0
-2039,French Guiana,GUF,5.0
-2040,French Guiana,GUF,5.0
-2041,French Guiana,GUF,0.0
-2042,French Guiana,GUF,0.0
-2043,French Guiana,GUF,0.0
-2044,French Guiana,GUF,0.0
-2045,French Guiana,GUF,0.0
-2046,French Guiana,GUF,0.0
-2047,French Guiana,GUF,0.0
+2021,French Guiana,GUF,0.005
+2022,French Guiana,GUF,0.005
+2023,French Guiana,GUF,0.005
+2024,French Guiana,GUF,0.005
+2025,French Guiana,GUF,0.005
+2026,French Guiana,GUF,0.005
+2027,French Guiana,GUF,0.005
+2028,French Guiana,GUF,0.005
+2029,French Guiana,GUF,0.005
+2030,French Guiana,GUF,0.005
+2031,French Guiana,GUF,0.005
+2032,French Guiana,GUF,0.005
+2033,French Guiana,GUF,0.005
+2034,French Guiana,GUF,0.005
+2035,French Guiana,GUF,0.005
+2036,French Guiana,GUF,0.005
+2037,French Guiana,GUF,0.005
+2038,French Guiana,GUF,0.005
+2039,French Guiana,GUF,0.005
+2040,French Guiana,GUF,0.005
+2041,French Guiana,GUF,0.005
+2042,French Guiana,GUF,0.005
+2043,French Guiana,GUF,0.005
+2044,French Guiana,GUF,0.005
+2045,French Guiana,GUF,0.005
+2046,French Guiana,GUF,0.005
+2047,French Guiana,GUF,0.005
 2048,French Guiana,GUF,0.0
 2049,French Guiana,GUF,0.0
 2050,French Guiana,GUF,0.0
@@ -1645,6 +1612,23 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2023,Gambia,GMB,0.0
 2024,Gambia,GMB,0.0
 2025,Gambia,GMB,0.0
+2026,Gambia,GMB,0.0
+2027,Gambia,GMB,0.0
+2028,Gambia,GMB,0.0
+2029,Gambia,GMB,0.0
+2030,Gambia,GMB,0.0
+2031,Gambia,GMB,0.0
+2032,Gambia,GMB,0.0
+2033,Gambia,GMB,0.0
+2034,Gambia,GMB,0.0
+2035,Gambia,GMB,0.0
+2036,Gambia,GMB,0.0
+2037,Gambia,GMB,0.0
+2038,Gambia,GMB,0.0
+2039,Gambia,GMB,0.0
+2040,Gambia,GMB,0.0
+2041,Gambia,GMB,0.0
+2042,Gambia,GMB,0.0
 2021,Georgia,GEO,0.0
 2022,Georgia,GEO,0.0
 2023,Georgia,GEO,0.0
@@ -1680,33 +1664,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Georgia,GEO,0.0
 2054,Georgia,GEO,0.0
 2055,Georgia,GEO,0.0
-2021,Germany,DEU,6770.562880000002
-2022,Germany,DEU,6770.562880000002
-2023,Germany,DEU,6770.562880000002
-2024,Germany,DEU,6770.562880000002
-2025,Germany,DEU,6770.562880000002
-2026,Germany,DEU,6770.562880000002
-2027,Germany,DEU,6770.562880000002
-2028,Germany,DEU,6770.562880000002
-2029,Germany,DEU,6770.562880000002
-2030,Germany,DEU,6770.562880000002
-2031,Germany,DEU,6770.562880000002
-2032,Germany,DEU,6770.562880000002
-2033,Germany,DEU,6770.562880000002
-2034,Germany,DEU,6764.862880000002
-2035,Germany,DEU,6764.862880000002
-2036,Germany,DEU,6764.862880000002
-2037,Germany,DEU,6762.862880000002
-2038,Germany,DEU,6755.762880000002
-2039,Germany,DEU,6662.862880000006
-2040,Germany,DEU,6579.062880000004
-2041,Germany,DEU,6424.7628800000075
-2042,Germany,DEU,5984.362880000002
-2043,Germany,DEU,4932.053620000001
-2044,Germany,DEU,4219.394459999999
-2045,Germany,DEU,3096.073059999999
-2046,Germany,DEU,2477.0730599999993
-2047,Germany,DEU,1795.5246699999989
+2021,Germany,DEU,6.770562880000004
+2022,Germany,DEU,6.770562880000004
+2023,Germany,DEU,6.770562880000004
+2024,Germany,DEU,6.770562880000004
+2025,Germany,DEU,6.770562880000004
+2026,Germany,DEU,6.770562880000004
+2027,Germany,DEU,6.770562880000004
+2028,Germany,DEU,6.770562880000004
+2029,Germany,DEU,6.770562880000004
+2030,Germany,DEU,6.770562880000004
+2031,Germany,DEU,6.770562880000004
+2032,Germany,DEU,6.770562880000004
+2033,Germany,DEU,6.770562880000004
+2034,Germany,DEU,6.732262880000004
+2035,Germany,DEU,6.732262880000004
+2036,Germany,DEU,6.732262880000004
+2037,Germany,DEU,6.732262880000004
+2038,Germany,DEU,6.716362880000005
+2039,Germany,DEU,6.609562880000002
+2040,Germany,DEU,6.4717628800000035
+2041,Germany,DEU,6.120406880000001
+2042,Germany,DEU,5.550306879999997
+2043,Germany,DEU,4.8341289499999975
+2044,Germany,DEU,4.090642859999997
+2045,Germany,DEU,2.9099793199999997
+2046,Germany,DEU,2.1357441200000005
+2047,Germany,DEU,1.4587000000000003
 2048,Germany,DEU,0.0
 2049,Germany,DEU,0.0
 2050,Germany,DEU,0.0
@@ -1715,30 +1699,30 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Germany,DEU,0.0
 2054,Germany,DEU,0.0
 2055,Germany,DEU,0.0
-2021,Ghana,GHA,20.0
-2022,Ghana,GHA,20.0
-2023,Ghana,GHA,20.0
-2024,Ghana,GHA,20.0
-2025,Ghana,GHA,20.0
-2026,Ghana,GHA,20.0
-2027,Ghana,GHA,20.0
-2028,Ghana,GHA,20.0
-2029,Ghana,GHA,20.0
-2030,Ghana,GHA,20.0
-2031,Ghana,GHA,20.0
-2032,Ghana,GHA,20.0
-2033,Ghana,GHA,20.0
-2034,Ghana,GHA,20.0
-2035,Ghana,GHA,20.0
-2036,Ghana,GHA,20.0
-2037,Ghana,GHA,20.0
-2038,Ghana,GHA,20.0
-2039,Ghana,GHA,20.0
-2040,Ghana,GHA,20.0
-2041,Ghana,GHA,20.0
-2042,Ghana,GHA,20.0
-2043,Ghana,GHA,20.0
-2044,Ghana,GHA,20.0
+2021,Ghana,GHA,0.02
+2022,Ghana,GHA,0.02
+2023,Ghana,GHA,0.02
+2024,Ghana,GHA,0.02
+2025,Ghana,GHA,0.02
+2026,Ghana,GHA,0.02
+2027,Ghana,GHA,0.02
+2028,Ghana,GHA,0.02
+2029,Ghana,GHA,0.02
+2030,Ghana,GHA,0.02
+2031,Ghana,GHA,0.02
+2032,Ghana,GHA,0.02
+2033,Ghana,GHA,0.02
+2034,Ghana,GHA,0.02
+2035,Ghana,GHA,0.02
+2036,Ghana,GHA,0.02
+2037,Ghana,GHA,0.02
+2038,Ghana,GHA,0.02
+2039,Ghana,GHA,0.02
+2040,Ghana,GHA,0.02
+2041,Ghana,GHA,0.02
+2042,Ghana,GHA,0.02
+2043,Ghana,GHA,0.02
+2044,Ghana,GHA,0.0
 2045,Ghana,GHA,0.0
 2046,Ghana,GHA,0.0
 2047,Ghana,GHA,0.0
@@ -1750,33 +1734,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Ghana,GHA,0.0
 2054,Ghana,GHA,0.0
 2055,Ghana,GHA,0.0
-2021,Greece,GRC,217.7
-2022,Greece,GRC,217.7
-2023,Greece,GRC,217.7
-2024,Greece,GRC,217.7
-2025,Greece,GRC,217.7
-2026,Greece,GRC,217.7
-2027,Greece,GRC,217.7
-2028,Greece,GRC,217.7
-2029,Greece,GRC,217.7
-2030,Greece,GRC,217.7
-2031,Greece,GRC,217.7
-2032,Greece,GRC,217.7
-2033,Greece,GRC,217.7
-2034,Greece,GRC,217.7
-2035,Greece,GRC,217.7
-2036,Greece,GRC,217.7
-2037,Greece,GRC,217.7
-2038,Greece,GRC,217.7
-2039,Greece,GRC,217.7
-2040,Greece,GRC,200.8
-2041,Greece,GRC,200.8
-2042,Greece,GRC,200.8
-2043,Greece,GRC,185.9
-2044,Greece,GRC,145.6
-2045,Greece,GRC,95.3
-2046,Greece,GRC,79.3
-2047,Greece,GRC,34.9
+2021,Greece,GRC,0.21770000000000006
+2022,Greece,GRC,0.21770000000000006
+2023,Greece,GRC,0.21770000000000006
+2024,Greece,GRC,0.21770000000000006
+2025,Greece,GRC,0.21770000000000006
+2026,Greece,GRC,0.21770000000000006
+2027,Greece,GRC,0.21770000000000006
+2028,Greece,GRC,0.21770000000000006
+2029,Greece,GRC,0.21770000000000006
+2030,Greece,GRC,0.21770000000000006
+2031,Greece,GRC,0.21770000000000006
+2032,Greece,GRC,0.21770000000000006
+2033,Greece,GRC,0.21770000000000006
+2034,Greece,GRC,0.21770000000000006
+2035,Greece,GRC,0.21770000000000006
+2036,Greece,GRC,0.21770000000000006
+2037,Greece,GRC,0.21770000000000006
+2038,Greece,GRC,0.21770000000000006
+2039,Greece,GRC,0.21770000000000006
+2040,Greece,GRC,0.2012
+2041,Greece,GRC,0.1952
+2042,Greece,GRC,0.1952
+2043,Greece,GRC,0.17790000000000006
+2044,Greece,GRC,0.13810000000000006
+2045,Greece,GRC,0.0955
+2046,Greece,GRC,0.08990000000000001
+2047,Greece,GRC,0.0538
 2048,Greece,GRC,0.0
 2049,Greece,GRC,0.0
 2050,Greece,GRC,0.0
@@ -1785,32 +1769,32 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Greece,GRC,0.0
 2054,Greece,GRC,0.0
 2055,Greece,GRC,0.0
-2021,Guatemala,GTM,115.0
-2022,Guatemala,GTM,115.0
-2023,Guatemala,GTM,115.0
-2024,Guatemala,GTM,115.0
-2025,Guatemala,GTM,115.0
-2026,Guatemala,GTM,115.0
-2027,Guatemala,GTM,115.0
-2028,Guatemala,GTM,115.0
-2029,Guatemala,GTM,115.0
-2030,Guatemala,GTM,115.0
-2031,Guatemala,GTM,115.0
-2032,Guatemala,GTM,115.0
-2033,Guatemala,GTM,115.0
-2034,Guatemala,GTM,115.0
-2035,Guatemala,GTM,115.0
-2036,Guatemala,GTM,115.0
-2037,Guatemala,GTM,115.0
-2038,Guatemala,GTM,115.0
-2039,Guatemala,GTM,115.0
-2040,Guatemala,GTM,115.0
-2041,Guatemala,GTM,115.0
-2042,Guatemala,GTM,115.0
-2043,Guatemala,GTM,85.0
-2044,Guatemala,GTM,80.0
-2045,Guatemala,GTM,0.0
-2046,Guatemala,GTM,0.0
+2021,Guatemala,GTM,0.115
+2022,Guatemala,GTM,0.115
+2023,Guatemala,GTM,0.115
+2024,Guatemala,GTM,0.115
+2025,Guatemala,GTM,0.115
+2026,Guatemala,GTM,0.115
+2027,Guatemala,GTM,0.115
+2028,Guatemala,GTM,0.115
+2029,Guatemala,GTM,0.115
+2030,Guatemala,GTM,0.115
+2031,Guatemala,GTM,0.115
+2032,Guatemala,GTM,0.115
+2033,Guatemala,GTM,0.115
+2034,Guatemala,GTM,0.115
+2035,Guatemala,GTM,0.115
+2036,Guatemala,GTM,0.115
+2037,Guatemala,GTM,0.115
+2038,Guatemala,GTM,0.115
+2039,Guatemala,GTM,0.115
+2040,Guatemala,GTM,0.115
+2041,Guatemala,GTM,0.115
+2042,Guatemala,GTM,0.115
+2043,Guatemala,GTM,0.115
+2044,Guatemala,GTM,0.11
+2045,Guatemala,GTM,0.03
+2046,Guatemala,GTM,0.03
 2047,Guatemala,GTM,0.0
 2048,Guatemala,GTM,0.0
 2049,Guatemala,GTM,0.0
@@ -1855,41 +1839,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Guinea,GIN,0.0
 2054,Guinea,GIN,0.0
 2055,Guinea,GIN,0.0
-2021,Guinea-Bissau,GNB,0.0
-2022,Guinea-Bissau,GNB,0.0
-2023,Guinea-Bissau,GNB,0.0
-2024,Guinea-Bissau,GNB,0.0
-2025,Guinea-Bissau,GNB,0.0
-2026,Guinea-Bissau,GNB,0.0
-2027,Guinea-Bissau,GNB,0.0
-2028,Guinea-Bissau,GNB,0.0
-2029,Guinea-Bissau,GNB,0.0
-2030,Guinea-Bissau,GNB,0.0
-2031,Guinea-Bissau,GNB,0.0
-2032,Guinea-Bissau,GNB,0.0
-2033,Guinea-Bissau,GNB,0.0
-2034,Guinea-Bissau,GNB,0.0
-2035,Guinea-Bissau,GNB,0.0
-2036,Guinea-Bissau,GNB,0.0
-2037,Guinea-Bissau,GNB,0.0
-2038,Guinea-Bissau,GNB,0.0
-2039,Guinea-Bissau,GNB,0.0
-2040,Guinea-Bissau,GNB,0.0
-2041,Guinea-Bissau,GNB,0.0
-2042,Guinea-Bissau,GNB,0.0
-2043,Guinea-Bissau,GNB,0.0
-2044,Guinea-Bissau,GNB,0.0
-2045,Guinea-Bissau,GNB,0.0
-2046,Guinea-Bissau,GNB,0.0
-2047,Guinea-Bissau,GNB,0.0
-2048,Guinea-Bissau,GNB,0.0
-2049,Guinea-Bissau,GNB,0.0
-2050,Guinea-Bissau,GNB,0.0
-2051,Guinea-Bissau,GNB,0.0
-2052,Guinea-Bissau,GNB,0.0
-2053,Guinea-Bissau,GNB,0.0
-2054,Guinea-Bissau,GNB,0.0
-2055,Guinea-Bissau,GNB,0.0
 2021,Guyana,GUY,0.0
 2022,Guyana,GUY,0.0
 2023,Guyana,GUY,0.0
@@ -1905,35 +1854,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2033,Guyana,GUY,0.0
 2034,Guyana,GUY,0.0
 2035,Guyana,GUY,0.0
-2036,Guyana,GUY,0.0
-2037,Guyana,GUY,0.0
-2021,Honduras,HND,604.45
-2022,Honduras,HND,604.45
-2023,Honduras,HND,604.45
-2024,Honduras,HND,604.45
-2025,Honduras,HND,604.45
-2026,Honduras,HND,604.45
-2027,Honduras,HND,604.45
-2028,Honduras,HND,604.45
-2029,Honduras,HND,604.45
-2030,Honduras,HND,604.45
-2031,Honduras,HND,604.45
-2032,Honduras,HND,604.45
-2033,Honduras,HND,604.45
-2034,Honduras,HND,604.45
-2035,Honduras,HND,604.45
-2036,Honduras,HND,604.45
-2037,Honduras,HND,604.45
-2038,Honduras,HND,604.45
-2039,Honduras,HND,604.45
-2040,Honduras,HND,604.45
-2041,Honduras,HND,598.45
-2042,Honduras,HND,598.45
-2043,Honduras,HND,598.45
-2044,Honduras,HND,563.45
-2045,Honduras,HND,242.9
-2046,Honduras,HND,111.9
-2047,Honduras,HND,50.9
+2021,Honduras,HND,0.60445
+2022,Honduras,HND,0.60445
+2023,Honduras,HND,0.60445
+2024,Honduras,HND,0.60445
+2025,Honduras,HND,0.60445
+2026,Honduras,HND,0.60445
+2027,Honduras,HND,0.60445
+2028,Honduras,HND,0.60445
+2029,Honduras,HND,0.60445
+2030,Honduras,HND,0.60445
+2031,Honduras,HND,0.60445
+2032,Honduras,HND,0.60445
+2033,Honduras,HND,0.60445
+2034,Honduras,HND,0.60445
+2035,Honduras,HND,0.60445
+2036,Honduras,HND,0.60445
+2037,Honduras,HND,0.60445
+2038,Honduras,HND,0.60445
+2039,Honduras,HND,0.60445
+2040,Honduras,HND,0.60445
+2041,Honduras,HND,0.52555
+2042,Honduras,HND,0.52555
+2043,Honduras,HND,0.52555
+2044,Honduras,HND,0.52555
+2045,Honduras,HND,0.19
+2046,Honduras,HND,0.1291
+2047,Honduras,HND,0.006
 2048,Honduras,HND,0.0
 2049,Honduras,HND,0.0
 2050,Honduras,HND,0.0
@@ -1942,32 +1889,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Honduras,HND,0.0
 2054,Honduras,HND,0.0
 2055,Honduras,HND,0.0
-2021,Hungary,HUN,84.6
-2022,Hungary,HUN,84.6
-2023,Hungary,HUN,84.6
-2024,Hungary,HUN,84.6
-2025,Hungary,HUN,84.6
-2026,Hungary,HUN,84.6
-2027,Hungary,HUN,84.6
-2028,Hungary,HUN,84.6
-2029,Hungary,HUN,84.6
-2030,Hungary,HUN,84.6
-2031,Hungary,HUN,84.6
-2032,Hungary,HUN,84.6
-2033,Hungary,HUN,84.6
-2034,Hungary,HUN,84.6
-2035,Hungary,HUN,84.6
-2036,Hungary,HUN,84.6
-2037,Hungary,HUN,84.6
-2038,Hungary,HUN,84.6
-2039,Hungary,HUN,84.6
-2040,Hungary,HUN,84.6
-2041,Hungary,HUN,84.6
-2042,Hungary,HUN,84.6
-2043,Hungary,HUN,64.6
-2044,Hungary,HUN,64.6
-2045,Hungary,HUN,28.0
-2046,Hungary,HUN,21.0
+2021,Hungary,HUN,0.0846
+2022,Hungary,HUN,0.0846
+2023,Hungary,HUN,0.0846
+2024,Hungary,HUN,0.0846
+2025,Hungary,HUN,0.0846
+2026,Hungary,HUN,0.0846
+2027,Hungary,HUN,0.0846
+2028,Hungary,HUN,0.0846
+2029,Hungary,HUN,0.0846
+2030,Hungary,HUN,0.0846
+2031,Hungary,HUN,0.0846
+2032,Hungary,HUN,0.0846
+2033,Hungary,HUN,0.0846
+2034,Hungary,HUN,0.0846
+2035,Hungary,HUN,0.0846
+2036,Hungary,HUN,0.0846
+2037,Hungary,HUN,0.0846
+2038,Hungary,HUN,0.0846
+2039,Hungary,HUN,0.0846
+2040,Hungary,HUN,0.0846
+2041,Hungary,HUN,0.0846
+2042,Hungary,HUN,0.0486
+2043,Hungary,HUN,0.041600000000000005
+2044,Hungary,HUN,0.041600000000000005
+2045,Hungary,HUN,0.041600000000000005
+2046,Hungary,HUN,0.041600000000000005
+2047,Hungary,HUN,0.041600000000000005
 2021,Iceland,ISL,0.0
 2022,Iceland,ISL,0.0
 2023,Iceland,ISL,0.0
@@ -2003,33 +1951,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Iceland,ISL,0.0
 2054,Iceland,ISL,0.0
 2055,Iceland,ISL,0.0
-2021,India,IND,25549.099999999995
-2022,India,IND,25549.099999999995
-2023,India,IND,25549.099999999995
-2024,India,IND,25549.099999999995
-2025,India,IND,25549.099999999995
-2026,India,IND,25549.099999999995
-2027,India,IND,25549.099999999995
-2028,India,IND,25549.099999999995
-2029,India,IND,25549.099999999995
-2030,India,IND,25549.099999999995
-2031,India,IND,25549.099999999995
-2032,India,IND,25549.099999999995
-2033,India,IND,25549.099999999995
-2034,India,IND,25549.099999999995
-2035,India,IND,25549.099999999995
-2036,India,IND,25549.099999999995
-2037,India,IND,25528.599999999995
-2038,India,IND,25508.599999999995
-2039,India,IND,25223.399999999994
-2040,India,IND,24686.3
-2041,India,IND,23331.1
-2042,India,IND,21472.6
-2043,India,IND,19819.4
-2044,India,IND,16236.300000000005
-2045,India,IND,12723.600000000004
-2046,India,IND,9652.000000000004
-2047,India,IND,6677.0999999999985
+2021,India,IND,25.5491
+2022,India,IND,25.5491
+2023,India,IND,25.5491
+2024,India,IND,25.5491
+2025,India,IND,25.5491
+2026,India,IND,25.5491
+2027,India,IND,25.5491
+2028,India,IND,25.5491
+2029,India,IND,25.5491
+2030,India,IND,25.5491
+2031,India,IND,25.5491
+2032,India,IND,25.5491
+2033,India,IND,25.5491
+2034,India,IND,25.5491
+2035,India,IND,25.5491
+2036,India,IND,25.5491
+2037,India,IND,25.519099999999995
+2038,India,IND,25.499099999999995
+2039,India,IND,25.129999999999995
+2040,India,IND,24.284000000000002
+2041,India,IND,23.4214
+2042,India,IND,21.5333
+2043,India,IND,19.9679
+2044,India,IND,15.8953
+2045,India,IND,12.440900000000005
+2046,India,IND,9.621300000000003
+2047,India,IND,6.9701
 2048,India,IND,0.0
 2049,India,IND,0.0
 2050,India,IND,0.0
@@ -2143,60 +2091,67 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Ireland,IRL,0.0
 2054,Ireland,IRL,0.0
 2055,Ireland,IRL,0.0
-2021,Israel,ISR,570.8
-2022,Israel,ISR,570.8
-2023,Israel,ISR,570.8
-2024,Israel,ISR,570.8
-2025,Israel,ISR,570.8
-2026,Israel,ISR,570.8
-2027,Israel,ISR,570.8
-2028,Israel,ISR,570.8
-2029,Israel,ISR,570.8
-2030,Israel,ISR,570.8
-2031,Israel,ISR,570.8
-2032,Israel,ISR,570.8
-2033,Israel,ISR,570.8
-2034,Israel,ISR,570.8
-2035,Israel,ISR,570.8
-2036,Israel,ISR,570.8
-2037,Israel,ISR,570.8
-2038,Israel,ISR,570.8
-2039,Israel,ISR,559.8999999999999
-2040,Israel,ISR,552.8999999999999
-2041,Israel,ISR,552.8999999999999
-2042,Israel,ISR,528.5999999999998
-2043,Israel,ISR,482.19999999999993
-2044,Israel,ISR,360.3
-2045,Israel,ISR,254.0
-2046,Israel,ISR,191.3
-2047,Israel,ISR,143.0
-2021,Italy,ITA,1952.6900000000005
-2022,Italy,ITA,1952.6900000000005
-2023,Italy,ITA,1952.6900000000005
-2024,Italy,ITA,1952.6900000000005
-2025,Italy,ITA,1952.6900000000005
-2026,Italy,ITA,1952.6900000000005
-2027,Italy,ITA,1952.6900000000005
-2028,Italy,ITA,1952.6900000000005
-2029,Italy,ITA,1952.6900000000005
-2030,Italy,ITA,1952.6900000000005
-2031,Italy,ITA,1952.6900000000005
-2032,Italy,ITA,1952.6900000000005
-2033,Italy,ITA,1952.6900000000005
-2034,Italy,ITA,1952.6900000000005
-2035,Italy,ITA,1952.6900000000005
-2036,Italy,ITA,1952.6900000000005
-2037,Italy,ITA,1952.6900000000005
-2038,Italy,ITA,1936.69
-2039,Italy,ITA,1924.99
-2040,Italy,ITA,1846.69
-2041,Italy,ITA,1716.6899999999996
-2042,Italy,ITA,1602.5899999999995
-2043,Italy,ITA,1340.3899999999996
-2044,Italy,ITA,1121.6899999999996
-2045,Italy,ITA,857.6899999999997
-2046,Italy,ITA,663.1899999999998
-2047,Italy,ITA,445.89
+2021,Israel,ISR,0.5708
+2022,Israel,ISR,0.5708
+2023,Israel,ISR,0.5708
+2024,Israel,ISR,0.5708
+2025,Israel,ISR,0.5708
+2026,Israel,ISR,0.5708
+2027,Israel,ISR,0.5708
+2028,Israel,ISR,0.5708
+2029,Israel,ISR,0.5708
+2030,Israel,ISR,0.5708
+2031,Israel,ISR,0.5708
+2032,Israel,ISR,0.5708
+2033,Israel,ISR,0.5708
+2034,Israel,ISR,0.5708
+2035,Israel,ISR,0.5708
+2036,Israel,ISR,0.5708
+2037,Israel,ISR,0.5708
+2038,Israel,ISR,0.5708
+2039,Israel,ISR,0.5598999999999998
+2040,Israel,ISR,0.5598999999999998
+2041,Israel,ISR,0.5598999999999998
+2042,Israel,ISR,0.5448999999999998
+2043,Israel,ISR,0.4787
+2044,Israel,ISR,0.3917
+2045,Israel,ISR,0.23880000000000004
+2046,Israel,ISR,0.17750000000000002
+2047,Israel,ISR,0.1519
+2048,Israel,ISR,0.0
+2049,Israel,ISR,0.0
+2050,Israel,ISR,0.0
+2051,Israel,ISR,0.0
+2052,Israel,ISR,0.0
+2053,Israel,ISR,0.0
+2054,Israel,ISR,0.0
+2021,Italy,ITA,1.9526900000000005
+2022,Italy,ITA,1.9526900000000005
+2023,Italy,ITA,1.9526900000000005
+2024,Italy,ITA,1.9526900000000005
+2025,Italy,ITA,1.9526900000000005
+2026,Italy,ITA,1.9526900000000005
+2027,Italy,ITA,1.9526900000000005
+2028,Italy,ITA,1.9526900000000005
+2029,Italy,ITA,1.9526900000000005
+2030,Italy,ITA,1.9526900000000005
+2031,Italy,ITA,1.9526900000000005
+2032,Italy,ITA,1.9526900000000005
+2033,Italy,ITA,1.9526900000000005
+2034,Italy,ITA,1.9526900000000005
+2035,Italy,ITA,1.9526900000000005
+2036,Italy,ITA,1.9526900000000005
+2037,Italy,ITA,1.9516900000000004
+2038,Italy,ITA,1.9206900000000002
+2039,Italy,ITA,1.89749
+2040,Italy,ITA,1.86819
+2041,Italy,ITA,1.7703899999999997
+2042,Italy,ITA,1.6593899999999997
+2043,Italy,ITA,1.4597899999999993
+2044,Italy,ITA,1.22179
+2045,Italy,ITA,0.9061899999999998
+2046,Italy,ITA,0.71849
+2047,Italy,ITA,0.43238999999999994
 2048,Italy,ITA,0.0
 2049,Italy,ITA,0.0
 2050,Italy,ITA,0.0
@@ -2205,33 +2160,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Italy,ITA,0.0
 2054,Italy,ITA,0.0
 2055,Italy,ITA,0.0
-2021,Jamaica,JAM,20.0
-2022,Jamaica,JAM,20.0
-2023,Jamaica,JAM,20.0
-2024,Jamaica,JAM,20.0
-2025,Jamaica,JAM,20.0
-2026,Jamaica,JAM,20.0
-2027,Jamaica,JAM,20.0
-2028,Jamaica,JAM,20.0
-2029,Jamaica,JAM,20.0
-2030,Jamaica,JAM,20.0
-2031,Jamaica,JAM,20.0
-2032,Jamaica,JAM,20.0
-2033,Jamaica,JAM,20.0
-2034,Jamaica,JAM,20.0
-2035,Jamaica,JAM,20.0
-2036,Jamaica,JAM,20.0
-2037,Jamaica,JAM,20.0
-2038,Jamaica,JAM,20.0
-2039,Jamaica,JAM,20.0
-2040,Jamaica,JAM,20.0
-2041,Jamaica,JAM,20.0
-2042,Jamaica,JAM,20.0
-2043,Jamaica,JAM,20.0
-2044,Jamaica,JAM,20.0
-2045,Jamaica,JAM,20.0
-2046,Jamaica,JAM,20.0
-2047,Jamaica,JAM,20.0
+2021,Jamaica,JAM,0.02
+2022,Jamaica,JAM,0.02
+2023,Jamaica,JAM,0.02
+2024,Jamaica,JAM,0.02
+2025,Jamaica,JAM,0.02
+2026,Jamaica,JAM,0.02
+2027,Jamaica,JAM,0.02
+2028,Jamaica,JAM,0.02
+2029,Jamaica,JAM,0.02
+2030,Jamaica,JAM,0.02
+2031,Jamaica,JAM,0.02
+2032,Jamaica,JAM,0.02
+2033,Jamaica,JAM,0.02
+2034,Jamaica,JAM,0.02
+2035,Jamaica,JAM,0.02
+2036,Jamaica,JAM,0.02
+2037,Jamaica,JAM,0.02
+2038,Jamaica,JAM,0.02
+2039,Jamaica,JAM,0.02
+2040,Jamaica,JAM,0.02
+2041,Jamaica,JAM,0.02
+2042,Jamaica,JAM,0.02
+2043,Jamaica,JAM,0.02
+2044,Jamaica,JAM,0.0
+2045,Jamaica,JAM,0.0
+2046,Jamaica,JAM,0.0
+2047,Jamaica,JAM,0.0
 2048,Jamaica,JAM,0.0
 2049,Jamaica,JAM,0.0
 2050,Jamaica,JAM,0.0
@@ -2240,33 +2195,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Jamaica,JAM,0.0
 2054,Jamaica,JAM,0.0
 2055,Jamaica,JAM,0.0
-2021,Japan,JPN,5686.5999999999985
-2022,Japan,JPN,5686.5999999999985
-2023,Japan,JPN,5686.5999999999985
-2024,Japan,JPN,5686.5999999999985
-2025,Japan,JPN,5686.5999999999985
-2026,Japan,JPN,5686.5999999999985
-2027,Japan,JPN,5686.5999999999985
-2028,Japan,JPN,5686.5999999999985
-2029,Japan,JPN,5686.5999999999985
-2030,Japan,JPN,5686.5999999999985
-2031,Japan,JPN,5686.5999999999985
-2032,Japan,JPN,5686.5999999999985
-2033,Japan,JPN,5686.5999999999985
-2034,Japan,JPN,5686.5999999999985
-2035,Japan,JPN,5686.5999999999985
-2036,Japan,JPN,5644.5999999999985
-2037,Japan,JPN,5644.5999999999985
-2038,Japan,JPN,5589.199999999999
-2039,Japan,JPN,5460.799999999998
-2040,Japan,JPN,5213.2
-2041,Japan,JPN,4968.8
-2042,Japan,JPN,4604.6
-2043,Japan,JPN,4069.7
-2044,Japan,JPN,3436.7000000000007
-2045,Japan,JPN,2614.4000000000005
-2046,Japan,JPN,1986.3
-2047,Japan,JPN,1134.6
+2021,Japan,JPN,5.6865999999999985
+2022,Japan,JPN,5.6865999999999985
+2023,Japan,JPN,5.6865999999999985
+2024,Japan,JPN,5.6865999999999985
+2025,Japan,JPN,5.6865999999999985
+2026,Japan,JPN,5.6865999999999985
+2027,Japan,JPN,5.6865999999999985
+2028,Japan,JPN,5.6865999999999985
+2029,Japan,JPN,5.6865999999999985
+2030,Japan,JPN,5.6865999999999985
+2031,Japan,JPN,5.6865999999999985
+2032,Japan,JPN,5.6865999999999985
+2033,Japan,JPN,5.6865999999999985
+2034,Japan,JPN,5.6865999999999985
+2035,Japan,JPN,5.6865999999999985
+2036,Japan,JPN,5.6636
+2037,Japan,JPN,5.6636
+2038,Japan,JPN,5.6441
+2039,Japan,JPN,5.605899999999999
+2040,Japan,JPN,5.504699999999999
+2041,Japan,JPN,5.0802000000000005
+2042,Japan,JPN,4.7669000000000015
+2043,Japan,JPN,4.304800000000001
+2044,Japan,JPN,3.6199
+2045,Japan,JPN,2.561500000000001
+2046,Japan,JPN,2.0175999999999994
+2047,Japan,JPN,1.267
 2048,Japan,JPN,0.0
 2049,Japan,JPN,0.0
 2050,Japan,JPN,0.0
@@ -2275,60 +2230,68 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Japan,JPN,0.0
 2054,Japan,JPN,0.0
 2055,Japan,JPN,0.0
-2021,Jordan,JOR,567.5
-2022,Jordan,JOR,567.5
-2023,Jordan,JOR,567.5
-2024,Jordan,JOR,567.5
-2025,Jordan,JOR,567.5
-2026,Jordan,JOR,567.5
-2027,Jordan,JOR,567.5
-2028,Jordan,JOR,567.5
-2029,Jordan,JOR,567.5
-2030,Jordan,JOR,567.5
-2031,Jordan,JOR,567.5
-2032,Jordan,JOR,567.5
-2033,Jordan,JOR,567.5
-2034,Jordan,JOR,567.5
-2035,Jordan,JOR,567.5
-2036,Jordan,JOR,567.5
-2037,Jordan,JOR,547.5
-2038,Jordan,JOR,547.5
-2039,Jordan,JOR,547.5
-2040,Jordan,JOR,547.5
-2041,Jordan,JOR,536.5
-2042,Jordan,JOR,536.5
-2043,Jordan,JOR,501.0
-2044,Jordan,JOR,491.0
-2045,Jordan,JOR,433.1
-2046,Jordan,JOR,307.1
-2047,Jordan,JOR,146.0
-2021,Kazakhstan,KAZ,270.0
-2022,Kazakhstan,KAZ,270.0
-2023,Kazakhstan,KAZ,270.0
-2024,Kazakhstan,KAZ,270.0
-2025,Kazakhstan,KAZ,270.0
-2026,Kazakhstan,KAZ,270.0
-2027,Kazakhstan,KAZ,270.0
-2028,Kazakhstan,KAZ,270.0
-2029,Kazakhstan,KAZ,270.0
-2030,Kazakhstan,KAZ,270.0
-2031,Kazakhstan,KAZ,270.0
-2032,Kazakhstan,KAZ,270.0
-2033,Kazakhstan,KAZ,270.0
-2034,Kazakhstan,KAZ,270.0
-2035,Kazakhstan,KAZ,270.0
-2036,Kazakhstan,KAZ,270.0
-2037,Kazakhstan,KAZ,270.0
-2038,Kazakhstan,KAZ,270.0
-2039,Kazakhstan,KAZ,270.0
-2040,Kazakhstan,KAZ,270.0
-2041,Kazakhstan,KAZ,270.0
-2042,Kazakhstan,KAZ,270.0
-2043,Kazakhstan,KAZ,170.0
-2044,Kazakhstan,KAZ,170.0
-2045,Kazakhstan,KAZ,120.0
-2046,Kazakhstan,KAZ,120.0
-2047,Kazakhstan,KAZ,40.0
+2021,Jordan,JOR,0.5675
+2022,Jordan,JOR,0.5675
+2023,Jordan,JOR,0.5675
+2024,Jordan,JOR,0.5675
+2025,Jordan,JOR,0.5675
+2026,Jordan,JOR,0.5675
+2027,Jordan,JOR,0.5675
+2028,Jordan,JOR,0.5675
+2029,Jordan,JOR,0.5675
+2030,Jordan,JOR,0.5675
+2031,Jordan,JOR,0.5675
+2032,Jordan,JOR,0.5675
+2033,Jordan,JOR,0.5675
+2034,Jordan,JOR,0.5675
+2035,Jordan,JOR,0.5675
+2036,Jordan,JOR,0.5675
+2037,Jordan,JOR,0.5475
+2038,Jordan,JOR,0.5475
+2039,Jordan,JOR,0.5475
+2040,Jordan,JOR,0.5475
+2041,Jordan,JOR,0.5475
+2042,Jordan,JOR,0.5475
+2043,Jordan,JOR,0.5075000000000001
+2044,Jordan,JOR,0.4871
+2045,Jordan,JOR,0.3844
+2046,Jordan,JOR,0.2459
+2047,Jordan,JOR,0.2259
+2048,Jordan,JOR,0.0
+2049,Jordan,JOR,0.0
+2050,Jordan,JOR,0.0
+2051,Jordan,JOR,0.0
+2052,Jordan,JOR,0.0
+2053,Jordan,JOR,0.0
+2054,Jordan,JOR,0.0
+2055,Jordan,JOR,0.0
+2021,Kazakhstan,KAZ,0.27
+2022,Kazakhstan,KAZ,0.27
+2023,Kazakhstan,KAZ,0.27
+2024,Kazakhstan,KAZ,0.27
+2025,Kazakhstan,KAZ,0.27
+2026,Kazakhstan,KAZ,0.27
+2027,Kazakhstan,KAZ,0.27
+2028,Kazakhstan,KAZ,0.27
+2029,Kazakhstan,KAZ,0.27
+2030,Kazakhstan,KAZ,0.27
+2031,Kazakhstan,KAZ,0.27
+2032,Kazakhstan,KAZ,0.27
+2033,Kazakhstan,KAZ,0.27
+2034,Kazakhstan,KAZ,0.27
+2035,Kazakhstan,KAZ,0.27
+2036,Kazakhstan,KAZ,0.27
+2037,Kazakhstan,KAZ,0.27
+2038,Kazakhstan,KAZ,0.27
+2039,Kazakhstan,KAZ,0.27
+2040,Kazakhstan,KAZ,0.27
+2041,Kazakhstan,KAZ,0.27
+2042,Kazakhstan,KAZ,0.27
+2043,Kazakhstan,KAZ,0.27
+2044,Kazakhstan,KAZ,0.27
+2045,Kazakhstan,KAZ,0.22
+2046,Kazakhstan,KAZ,0.22
+2047,Kazakhstan,KAZ,0.22
 2048,Kazakhstan,KAZ,0.0
 2049,Kazakhstan,KAZ,0.0
 2050,Kazakhstan,KAZ,0.0
@@ -2337,33 +2300,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Kazakhstan,KAZ,0.0
 2054,Kazakhstan,KAZ,0.0
 2055,Kazakhstan,KAZ,0.0
-2021,Kenya,KEN,55.7
-2022,Kenya,KEN,55.7
-2023,Kenya,KEN,55.7
-2024,Kenya,KEN,55.7
-2025,Kenya,KEN,55.7
-2026,Kenya,KEN,55.7
-2027,Kenya,KEN,55.7
-2028,Kenya,KEN,55.7
-2029,Kenya,KEN,55.7
-2030,Kenya,KEN,55.7
-2031,Kenya,KEN,55.7
-2032,Kenya,KEN,55.7
-2033,Kenya,KEN,55.7
-2034,Kenya,KEN,55.7
-2035,Kenya,KEN,55.7
-2036,Kenya,KEN,55.7
-2037,Kenya,KEN,55.7
-2038,Kenya,KEN,55.7
-2039,Kenya,KEN,55.7
-2040,Kenya,KEN,55.7
-2041,Kenya,KEN,55.7
-2042,Kenya,KEN,55.7
-2043,Kenya,KEN,55.7
-2044,Kenya,KEN,55.7
-2045,Kenya,KEN,55.7
-2046,Kenya,KEN,55.7
-2047,Kenya,KEN,55.7
+2021,Kenya,KEN,0.055700000000000006
+2022,Kenya,KEN,0.055700000000000006
+2023,Kenya,KEN,0.055700000000000006
+2024,Kenya,KEN,0.055700000000000006
+2025,Kenya,KEN,0.055700000000000006
+2026,Kenya,KEN,0.055700000000000006
+2027,Kenya,KEN,0.055700000000000006
+2028,Kenya,KEN,0.055700000000000006
+2029,Kenya,KEN,0.055700000000000006
+2030,Kenya,KEN,0.055700000000000006
+2031,Kenya,KEN,0.055700000000000006
+2032,Kenya,KEN,0.055700000000000006
+2033,Kenya,KEN,0.055700000000000006
+2034,Kenya,KEN,0.055700000000000006
+2035,Kenya,KEN,0.055700000000000006
+2036,Kenya,KEN,0.055700000000000006
+2037,Kenya,KEN,0.055700000000000006
+2038,Kenya,KEN,0.055700000000000006
+2039,Kenya,KEN,0.055700000000000006
+2040,Kenya,KEN,0.055700000000000006
+2041,Kenya,KEN,0.055700000000000006
+2042,Kenya,KEN,0.055700000000000006
+2043,Kenya,KEN,0.055700000000000006
+2044,Kenya,KEN,0.055700000000000006
+2045,Kenya,KEN,0.055700000000000006
+2046,Kenya,KEN,0.055700000000000006
+2047,Kenya,KEN,0.055700000000000006
 2048,Kenya,KEN,0.0
 2049,Kenya,KEN,0.0
 2050,Kenya,KEN,0.0
@@ -2372,32 +2335,32 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Kenya,KEN,0.0
 2054,Kenya,KEN,0.0
 2055,Kenya,KEN,0.0
-2021,Kuwait,KWT,10.0
-2022,Kuwait,KWT,10.0
-2023,Kuwait,KWT,10.0
-2024,Kuwait,KWT,10.0
-2025,Kuwait,KWT,10.0
-2026,Kuwait,KWT,10.0
-2027,Kuwait,KWT,10.0
-2028,Kuwait,KWT,10.0
-2029,Kuwait,KWT,10.0
-2030,Kuwait,KWT,10.0
-2031,Kuwait,KWT,10.0
-2032,Kuwait,KWT,10.0
-2033,Kuwait,KWT,10.0
-2034,Kuwait,KWT,10.0
-2035,Kuwait,KWT,10.0
-2036,Kuwait,KWT,10.0
-2037,Kuwait,KWT,10.0
-2038,Kuwait,KWT,10.0
-2039,Kuwait,KWT,10.0
-2040,Kuwait,KWT,10.0
-2041,Kuwait,KWT,10.0
-2042,Kuwait,KWT,10.0
-2043,Kuwait,KWT,10.0
-2044,Kuwait,KWT,10.0
-2045,Kuwait,KWT,10.0
-2046,Kuwait,KWT,10.0
+2021,Kuwait,KWT,0.01
+2022,Kuwait,KWT,0.01
+2023,Kuwait,KWT,0.01
+2024,Kuwait,KWT,0.01
+2025,Kuwait,KWT,0.01
+2026,Kuwait,KWT,0.01
+2027,Kuwait,KWT,0.01
+2028,Kuwait,KWT,0.01
+2029,Kuwait,KWT,0.01
+2030,Kuwait,KWT,0.01
+2031,Kuwait,KWT,0.01
+2032,Kuwait,KWT,0.01
+2033,Kuwait,KWT,0.01
+2034,Kuwait,KWT,0.01
+2035,Kuwait,KWT,0.01
+2036,Kuwait,KWT,0.01
+2037,Kuwait,KWT,0.01
+2038,Kuwait,KWT,0.01
+2039,Kuwait,KWT,0.01
+2040,Kuwait,KWT,0.01
+2041,Kuwait,KWT,0.01
+2042,Kuwait,KWT,0.01
+2043,Kuwait,KWT,0.01
+2044,Kuwait,KWT,0.01
+2045,Kuwait,KWT,0.01
+2046,Kuwait,KWT,0.01
 2021,Kyrgyzstan,KGZ,0.0
 2022,Kyrgyzstan,KGZ,0.0
 2023,Kyrgyzstan,KGZ,0.0
@@ -2544,6 +2507,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2044,Liberia,LBR,0.0
 2045,Liberia,LBR,0.0
 2046,Liberia,LBR,0.0
+2047,Liberia,LBR,0.0
+2048,Liberia,LBR,0.0
 2021,Libya,LBY,0.0
 2022,Libya,LBY,0.0
 2023,Libya,LBY,0.0
@@ -2596,6 +2561,9 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2050,Lithuania,LTU,0.0
 2051,Lithuania,LTU,0.0
 2052,Lithuania,LTU,0.0
+2053,Lithuania,LTU,0.0
+2054,Lithuania,LTU,0.0
+2055,Lithuania,LTU,0.0
 2021,Luxembourg,LUX,0.0
 2022,Luxembourg,LUX,0.0
 2023,Luxembourg,LUX,0.0
@@ -2631,33 +2599,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Luxembourg,LUX,0.0
 2054,Luxembourg,LUX,0.0
 2055,Luxembourg,LUX,0.0
-2021,Madagascar,MDG,25.0
-2022,Madagascar,MDG,25.0
-2023,Madagascar,MDG,25.0
-2024,Madagascar,MDG,25.0
-2025,Madagascar,MDG,25.0
-2026,Madagascar,MDG,25.0
-2027,Madagascar,MDG,25.0
-2028,Madagascar,MDG,25.0
-2029,Madagascar,MDG,25.0
-2030,Madagascar,MDG,25.0
-2031,Madagascar,MDG,25.0
-2032,Madagascar,MDG,25.0
-2033,Madagascar,MDG,25.0
-2034,Madagascar,MDG,25.0
-2035,Madagascar,MDG,25.0
-2036,Madagascar,MDG,25.0
-2037,Madagascar,MDG,25.0
-2038,Madagascar,MDG,25.0
-2039,Madagascar,MDG,25.0
-2040,Madagascar,MDG,25.0
-2041,Madagascar,MDG,25.0
-2042,Madagascar,MDG,25.0
-2043,Madagascar,MDG,25.0
-2044,Madagascar,MDG,25.0
-2045,Madagascar,MDG,25.0
-2046,Madagascar,MDG,25.0
-2047,Madagascar,MDG,25.0
+2021,Madagascar,MDG,0.025
+2022,Madagascar,MDG,0.025
+2023,Madagascar,MDG,0.025
+2024,Madagascar,MDG,0.025
+2025,Madagascar,MDG,0.025
+2026,Madagascar,MDG,0.025
+2027,Madagascar,MDG,0.025
+2028,Madagascar,MDG,0.025
+2029,Madagascar,MDG,0.025
+2030,Madagascar,MDG,0.025
+2031,Madagascar,MDG,0.025
+2032,Madagascar,MDG,0.025
+2033,Madagascar,MDG,0.025
+2034,Madagascar,MDG,0.025
+2035,Madagascar,MDG,0.025
+2036,Madagascar,MDG,0.025
+2037,Madagascar,MDG,0.025
+2038,Madagascar,MDG,0.025
+2039,Madagascar,MDG,0.025
+2040,Madagascar,MDG,0.025
+2041,Madagascar,MDG,0.025
+2042,Madagascar,MDG,0.025
+2043,Madagascar,MDG,0.025
+2044,Madagascar,MDG,0.025
+2045,Madagascar,MDG,0.025
+2046,Madagascar,MDG,0.0
+2047,Madagascar,MDG,0.0
 2048,Madagascar,MDG,0.0
 2049,Madagascar,MDG,0.0
 2050,Madagascar,MDG,0.0
@@ -2701,33 +2669,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Malawi,MWI,0.0
 2054,Malawi,MWI,0.0
 2055,Malawi,MWI,0.0
-2021,Malaysia,MYS,281.5
-2022,Malaysia,MYS,281.5
-2023,Malaysia,MYS,281.5
-2024,Malaysia,MYS,281.5
-2025,Malaysia,MYS,281.5
-2026,Malaysia,MYS,281.5
-2027,Malaysia,MYS,281.5
-2028,Malaysia,MYS,281.5
-2029,Malaysia,MYS,281.5
-2030,Malaysia,MYS,281.5
-2031,Malaysia,MYS,281.5
-2032,Malaysia,MYS,281.5
-2033,Malaysia,MYS,281.5
-2034,Malaysia,MYS,281.5
-2035,Malaysia,MYS,281.5
-2036,Malaysia,MYS,281.5
-2037,Malaysia,MYS,281.5
-2038,Malaysia,MYS,281.5
-2039,Malaysia,MYS,281.5
-2040,Malaysia,MYS,281.5
-2041,Malaysia,MYS,281.5
-2042,Malaysia,MYS,281.5
-2043,Malaysia,MYS,275.5
-2044,Malaysia,MYS,206.5
-2045,Malaysia,MYS,201.5
-2046,Malaysia,MYS,83.0
-2047,Malaysia,MYS,73.0
+2021,Malaysia,MYS,0.28150000000000003
+2022,Malaysia,MYS,0.28150000000000003
+2023,Malaysia,MYS,0.28150000000000003
+2024,Malaysia,MYS,0.28150000000000003
+2025,Malaysia,MYS,0.28150000000000003
+2026,Malaysia,MYS,0.28150000000000003
+2027,Malaysia,MYS,0.28150000000000003
+2028,Malaysia,MYS,0.28150000000000003
+2029,Malaysia,MYS,0.28150000000000003
+2030,Malaysia,MYS,0.28150000000000003
+2031,Malaysia,MYS,0.28150000000000003
+2032,Malaysia,MYS,0.28150000000000003
+2033,Malaysia,MYS,0.28150000000000003
+2034,Malaysia,MYS,0.28150000000000003
+2035,Malaysia,MYS,0.28150000000000003
+2036,Malaysia,MYS,0.28150000000000003
+2037,Malaysia,MYS,0.28150000000000003
+2038,Malaysia,MYS,0.28150000000000003
+2039,Malaysia,MYS,0.28150000000000003
+2040,Malaysia,MYS,0.28150000000000003
+2041,Malaysia,MYS,0.2665
+2042,Malaysia,MYS,0.2645
+2043,Malaysia,MYS,0.2565
+2044,Malaysia,MYS,0.2065
+2045,Malaysia,MYS,0.1565
+2046,Malaysia,MYS,0.0213
+2047,Malaysia,MYS,0.0213
 2048,Malaysia,MYS,0.0
 2049,Malaysia,MYS,0.0
 2050,Malaysia,MYS,0.0
@@ -2771,66 +2739,66 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Mali,MLI,0.0
 2054,Mali,MLI,0.0
 2055,Mali,MLI,0.0
-2021,Mauritania,MRT,33.0
-2022,Mauritania,MRT,33.0
-2023,Mauritania,MRT,33.0
-2024,Mauritania,MRT,33.0
-2025,Mauritania,MRT,33.0
-2026,Mauritania,MRT,33.0
-2027,Mauritania,MRT,33.0
-2028,Mauritania,MRT,33.0
-2029,Mauritania,MRT,33.0
-2030,Mauritania,MRT,33.0
-2031,Mauritania,MRT,33.0
-2032,Mauritania,MRT,33.0
-2033,Mauritania,MRT,33.0
-2034,Mauritania,MRT,33.0
-2035,Mauritania,MRT,33.0
-2036,Mauritania,MRT,33.0
-2037,Mauritania,MRT,33.0
-2038,Mauritania,MRT,33.0
-2039,Mauritania,MRT,33.0
-2040,Mauritania,MRT,33.0
-2041,Mauritania,MRT,33.0
-2042,Mauritania,MRT,33.0
-2043,Mauritania,MRT,33.0
-2044,Mauritania,MRT,33.0
-2045,Mauritania,MRT,33.0
-2046,Mauritania,MRT,33.0
-2047,Mauritania,MRT,33.0
+2021,Mauritania,MRT,0.033
+2022,Mauritania,MRT,0.033
+2023,Mauritania,MRT,0.033
+2024,Mauritania,MRT,0.033
+2025,Mauritania,MRT,0.033
+2026,Mauritania,MRT,0.033
+2027,Mauritania,MRT,0.033
+2028,Mauritania,MRT,0.033
+2029,Mauritania,MRT,0.033
+2030,Mauritania,MRT,0.033
+2031,Mauritania,MRT,0.033
+2032,Mauritania,MRT,0.033
+2033,Mauritania,MRT,0.033
+2034,Mauritania,MRT,0.033
+2035,Mauritania,MRT,0.033
+2036,Mauritania,MRT,0.033
+2037,Mauritania,MRT,0.033
+2038,Mauritania,MRT,0.033
+2039,Mauritania,MRT,0.033
+2040,Mauritania,MRT,0.033
+2041,Mauritania,MRT,0.033
+2042,Mauritania,MRT,0.033
+2043,Mauritania,MRT,0.033
+2044,Mauritania,MRT,0.033
+2045,Mauritania,MRT,0.033
+2046,Mauritania,MRT,0.033
+2047,Mauritania,MRT,0.003
 2048,Mauritania,MRT,0.0
 2049,Mauritania,MRT,0.0
 2050,Mauritania,MRT,0.0
 2051,Mauritania,MRT,0.0
 2052,Mauritania,MRT,0.0
 2053,Mauritania,MRT,0.0
-2021,Mauritius,MUS,111.9
-2022,Mauritius,MUS,111.9
-2023,Mauritius,MUS,111.9
-2024,Mauritius,MUS,111.9
-2025,Mauritius,MUS,111.9
-2026,Mauritius,MUS,111.9
-2027,Mauritius,MUS,111.9
-2028,Mauritius,MUS,111.9
-2029,Mauritius,MUS,111.9
-2030,Mauritius,MUS,111.9
-2031,Mauritius,MUS,111.9
-2032,Mauritius,MUS,111.9
-2033,Mauritius,MUS,111.9
-2034,Mauritius,MUS,111.9
-2035,Mauritius,MUS,111.9
-2036,Mauritius,MUS,111.9
-2037,Mauritius,MUS,111.9
-2038,Mauritius,MUS,111.9
-2039,Mauritius,MUS,111.9
-2040,Mauritius,MUS,111.9
-2041,Mauritius,MUS,111.9
-2042,Mauritius,MUS,111.9
-2043,Mauritius,MUS,111.9
-2044,Mauritius,MUS,83.6
-2045,Mauritius,MUS,58.0
-2046,Mauritius,MUS,14.2
-2047,Mauritius,MUS,14.2
+2021,Mauritius,MUS,0.1119
+2022,Mauritius,MUS,0.1119
+2023,Mauritius,MUS,0.1119
+2024,Mauritius,MUS,0.1119
+2025,Mauritius,MUS,0.1119
+2026,Mauritius,MUS,0.1119
+2027,Mauritius,MUS,0.1119
+2028,Mauritius,MUS,0.1119
+2029,Mauritius,MUS,0.1119
+2030,Mauritius,MUS,0.1119
+2031,Mauritius,MUS,0.1119
+2032,Mauritius,MUS,0.1119
+2033,Mauritius,MUS,0.1119
+2034,Mauritius,MUS,0.1119
+2035,Mauritius,MUS,0.1119
+2036,Mauritius,MUS,0.1119
+2037,Mauritius,MUS,0.1119
+2038,Mauritius,MUS,0.1119
+2039,Mauritius,MUS,0.1119
+2040,Mauritius,MUS,0.1119
+2041,Mauritius,MUS,0.0969
+2042,Mauritius,MUS,0.08270000000000001
+2043,Mauritius,MUS,0.08270000000000001
+2044,Mauritius,MUS,0.08270000000000001
+2045,Mauritius,MUS,0.0406
+2046,Mauritius,MUS,0.0406
+2047,Mauritius,MUS,0.0406
 2048,Mauritius,MUS,0.0
 2049,Mauritius,MUS,0.0
 2050,Mauritius,MUS,0.0
@@ -2839,33 +2807,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Mauritius,MUS,0.0
 2054,Mauritius,MUS,0.0
 2055,Mauritius,MUS,0.0
-2021,Mexico,MEX,2671.2
-2022,Mexico,MEX,2671.2
-2023,Mexico,MEX,2671.2
-2024,Mexico,MEX,2671.2
-2025,Mexico,MEX,2671.2
-2026,Mexico,MEX,2671.2
-2027,Mexico,MEX,2671.2
-2028,Mexico,MEX,2671.2
-2029,Mexico,MEX,2671.2
-2030,Mexico,MEX,2671.2
-2031,Mexico,MEX,2671.2
-2032,Mexico,MEX,2671.2
-2033,Mexico,MEX,2671.2
-2034,Mexico,MEX,2671.2
-2035,Mexico,MEX,2671.2
-2036,Mexico,MEX,2671.2
-2037,Mexico,MEX,2671.2
-2038,Mexico,MEX,2671.2
-2039,Mexico,MEX,2671.2
-2040,Mexico,MEX,2671.2
-2041,Mexico,MEX,2671.2
-2042,Mexico,MEX,2201.9
-2043,Mexico,MEX,2057.4
-2044,Mexico,MEX,1666.0
-2045,Mexico,MEX,1237.4
-2046,Mexico,MEX,882.8
-2047,Mexico,MEX,601.8
+2021,Mexico,MEX,2.6712
+2022,Mexico,MEX,2.6712
+2023,Mexico,MEX,2.6712
+2024,Mexico,MEX,2.6712
+2025,Mexico,MEX,2.6712
+2026,Mexico,MEX,2.6712
+2027,Mexico,MEX,2.6712
+2028,Mexico,MEX,2.6712
+2029,Mexico,MEX,2.6712
+2030,Mexico,MEX,2.6712
+2031,Mexico,MEX,2.6712
+2032,Mexico,MEX,2.6712
+2033,Mexico,MEX,2.6712
+2034,Mexico,MEX,2.6712
+2035,Mexico,MEX,2.6712
+2036,Mexico,MEX,2.6712
+2037,Mexico,MEX,2.6712
+2038,Mexico,MEX,2.6712
+2039,Mexico,MEX,2.6712
+2040,Mexico,MEX,2.6712
+2041,Mexico,MEX,2.3842
+2042,Mexico,MEX,2.1184000000000003
+2043,Mexico,MEX,1.5074
+2044,Mexico,MEX,1.3374
+2045,Mexico,MEX,1.1608
+2046,Mexico,MEX,0.7272000000000001
+2047,Mexico,MEX,0.5952000000000001
 2048,Mexico,MEX,0.0
 2049,Mexico,MEX,0.0
 2050,Mexico,MEX,0.0
@@ -2874,30 +2842,30 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Mexico,MEX,0.0
 2054,Mexico,MEX,0.0
 2055,Mexico,MEX,0.0
-2021,Mongolia,MNG,50.0
-2022,Mongolia,MNG,50.0
-2023,Mongolia,MNG,50.0
-2024,Mongolia,MNG,50.0
-2025,Mongolia,MNG,50.0
-2026,Mongolia,MNG,50.0
-2027,Mongolia,MNG,50.0
-2028,Mongolia,MNG,50.0
-2029,Mongolia,MNG,50.0
-2030,Mongolia,MNG,50.0
-2031,Mongolia,MNG,50.0
-2032,Mongolia,MNG,50.0
-2033,Mongolia,MNG,50.0
-2034,Mongolia,MNG,50.0
-2035,Mongolia,MNG,50.0
-2036,Mongolia,MNG,50.0
-2037,Mongolia,MNG,50.0
-2038,Mongolia,MNG,40.0
-2039,Mongolia,MNG,40.0
-2040,Mongolia,MNG,40.0
-2041,Mongolia,MNG,40.0
-2042,Mongolia,MNG,25.0
-2043,Mongolia,MNG,25.0
-2044,Mongolia,MNG,10.0
+2021,Mongolia,MNG,0.05
+2022,Mongolia,MNG,0.05
+2023,Mongolia,MNG,0.05
+2024,Mongolia,MNG,0.05
+2025,Mongolia,MNG,0.05
+2026,Mongolia,MNG,0.05
+2027,Mongolia,MNG,0.05
+2028,Mongolia,MNG,0.05
+2029,Mongolia,MNG,0.05
+2030,Mongolia,MNG,0.05
+2031,Mongolia,MNG,0.05
+2032,Mongolia,MNG,0.05
+2033,Mongolia,MNG,0.05
+2034,Mongolia,MNG,0.05
+2035,Mongolia,MNG,0.05
+2036,Mongolia,MNG,0.05
+2037,Mongolia,MNG,0.05
+2038,Mongolia,MNG,0.05
+2039,Mongolia,MNG,0.05
+2040,Mongolia,MNG,0.05
+2041,Mongolia,MNG,0.035
+2042,Mongolia,MNG,0.035
+2043,Mongolia,MNG,0.02
+2044,Mongolia,MNG,0.01
 2045,Mongolia,MNG,0.0
 2046,Mongolia,MNG,0.0
 2047,Mongolia,MNG,0.0
@@ -2944,33 +2912,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Montenegro,MNE,0.0
 2054,Montenegro,MNE,0.0
 2055,Montenegro,MNE,0.0
-2021,Morocco,MAR,533.0
-2022,Morocco,MAR,533.0
-2023,Morocco,MAR,533.0
-2024,Morocco,MAR,533.0
-2025,Morocco,MAR,533.0
-2026,Morocco,MAR,533.0
-2027,Morocco,MAR,533.0
-2028,Morocco,MAR,533.0
-2029,Morocco,MAR,533.0
-2030,Morocco,MAR,533.0
-2031,Morocco,MAR,533.0
-2032,Morocco,MAR,533.0
-2033,Morocco,MAR,533.0
-2034,Morocco,MAR,533.0
-2035,Morocco,MAR,533.0
-2036,Morocco,MAR,533.0
-2037,Morocco,MAR,533.0
-2038,Morocco,MAR,533.0
-2039,Morocco,MAR,533.0
-2040,Morocco,MAR,533.0
-2041,Morocco,MAR,533.0
-2042,Morocco,MAR,533.0
-2043,Morocco,MAR,533.0
-2044,Morocco,MAR,533.0
-2045,Morocco,MAR,513.0
-2046,Morocco,MAR,353.0
-2047,Morocco,MAR,203.0
+2021,Morocco,MAR,0.5329999999999999
+2022,Morocco,MAR,0.5329999999999999
+2023,Morocco,MAR,0.5329999999999999
+2024,Morocco,MAR,0.5329999999999999
+2025,Morocco,MAR,0.5329999999999999
+2026,Morocco,MAR,0.5329999999999999
+2027,Morocco,MAR,0.5329999999999999
+2028,Morocco,MAR,0.5329999999999999
+2029,Morocco,MAR,0.5329999999999999
+2030,Morocco,MAR,0.5329999999999999
+2031,Morocco,MAR,0.5329999999999999
+2032,Morocco,MAR,0.5329999999999999
+2033,Morocco,MAR,0.5329999999999999
+2034,Morocco,MAR,0.5329999999999999
+2035,Morocco,MAR,0.5329999999999999
+2036,Morocco,MAR,0.5329999999999999
+2037,Morocco,MAR,0.5329999999999999
+2038,Morocco,MAR,0.5329999999999999
+2039,Morocco,MAR,0.5329999999999999
+2040,Morocco,MAR,0.5329999999999999
+2041,Morocco,MAR,0.5329999999999999
+2042,Morocco,MAR,0.5329999999999999
+2043,Morocco,MAR,0.5329999999999999
+2044,Morocco,MAR,0.53
+2045,Morocco,MAR,0.53
+2046,Morocco,MAR,0.35000000000000003
+2047,Morocco,MAR,0.2
 2048,Morocco,MAR,0.0
 2049,Morocco,MAR,0.0
 2050,Morocco,MAR,0.0
@@ -3014,33 +2982,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Mozambique,MOZ,0.0
 2054,Mozambique,MOZ,0.0
 2055,Mozambique,MOZ,0.0
-2021,Myanmar,MMR,50.0
-2022,Myanmar,MMR,50.0
-2023,Myanmar,MMR,50.0
-2024,Myanmar,MMR,50.0
-2025,Myanmar,MMR,50.0
-2026,Myanmar,MMR,50.0
-2027,Myanmar,MMR,50.0
-2028,Myanmar,MMR,50.0
-2029,Myanmar,MMR,50.0
-2030,Myanmar,MMR,50.0
-2031,Myanmar,MMR,50.0
-2032,Myanmar,MMR,50.0
-2033,Myanmar,MMR,50.0
-2034,Myanmar,MMR,50.0
-2035,Myanmar,MMR,50.0
-2036,Myanmar,MMR,50.0
-2037,Myanmar,MMR,50.0
-2038,Myanmar,MMR,50.0
-2039,Myanmar,MMR,50.0
-2040,Myanmar,MMR,50.0
-2041,Myanmar,MMR,50.0
-2042,Myanmar,MMR,50.0
-2043,Myanmar,MMR,50.0
-2044,Myanmar,MMR,50.0
-2045,Myanmar,MMR,50.0
-2046,Myanmar,MMR,50.0
-2047,Myanmar,MMR,50.0
+2021,Myanmar,MMR,0.05
+2022,Myanmar,MMR,0.05
+2023,Myanmar,MMR,0.05
+2024,Myanmar,MMR,0.05
+2025,Myanmar,MMR,0.05
+2026,Myanmar,MMR,0.05
+2027,Myanmar,MMR,0.05
+2028,Myanmar,MMR,0.05
+2029,Myanmar,MMR,0.05
+2030,Myanmar,MMR,0.05
+2031,Myanmar,MMR,0.05
+2032,Myanmar,MMR,0.05
+2033,Myanmar,MMR,0.05
+2034,Myanmar,MMR,0.05
+2035,Myanmar,MMR,0.05
+2036,Myanmar,MMR,0.05
+2037,Myanmar,MMR,0.05
+2038,Myanmar,MMR,0.05
+2039,Myanmar,MMR,0.05
+2040,Myanmar,MMR,0.05
+2041,Myanmar,MMR,0.05
+2042,Myanmar,MMR,0.05
+2043,Myanmar,MMR,0.05
+2044,Myanmar,MMR,0.0
+2045,Myanmar,MMR,0.0
+2046,Myanmar,MMR,0.0
+2047,Myanmar,MMR,0.0
 2048,Myanmar,MMR,0.0
 2049,Myanmar,MMR,0.0
 2050,Myanmar,MMR,0.0
@@ -3049,62 +3017,67 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Myanmar,MMR,0.0
 2054,Myanmar,MMR,0.0
 2055,Myanmar,MMR,0.0
-2021,Namibia,NAM,82.6
-2022,Namibia,NAM,82.6
-2023,Namibia,NAM,82.6
-2024,Namibia,NAM,82.6
-2025,Namibia,NAM,82.6
-2026,Namibia,NAM,82.6
-2027,Namibia,NAM,82.6
-2028,Namibia,NAM,82.6
-2029,Namibia,NAM,82.6
-2030,Namibia,NAM,82.6
-2031,Namibia,NAM,82.6
-2032,Namibia,NAM,82.6
-2033,Namibia,NAM,82.6
-2034,Namibia,NAM,82.6
-2035,Namibia,NAM,82.6
-2036,Namibia,NAM,82.6
-2037,Namibia,NAM,82.6
-2038,Namibia,NAM,82.6
-2039,Namibia,NAM,82.6
-2040,Namibia,NAM,82.6
-2041,Namibia,NAM,82.6
-2042,Namibia,NAM,82.6
-2043,Namibia,NAM,73.1
-2044,Namibia,NAM,18.1
-2045,Namibia,NAM,13.1
-2046,Namibia,NAM,12.0
-2047,Namibia,NAM,5.0
+2021,Namibia,NAM,0.08259999999999999
+2022,Namibia,NAM,0.08259999999999999
+2023,Namibia,NAM,0.08259999999999999
+2024,Namibia,NAM,0.08259999999999999
+2025,Namibia,NAM,0.08259999999999999
+2026,Namibia,NAM,0.08259999999999999
+2027,Namibia,NAM,0.08259999999999999
+2028,Namibia,NAM,0.08259999999999999
+2029,Namibia,NAM,0.08259999999999999
+2030,Namibia,NAM,0.08259999999999999
+2031,Namibia,NAM,0.08259999999999999
+2032,Namibia,NAM,0.08259999999999999
+2033,Namibia,NAM,0.08259999999999999
+2034,Namibia,NAM,0.08259999999999999
+2035,Namibia,NAM,0.08259999999999999
+2036,Namibia,NAM,0.08259999999999999
+2037,Namibia,NAM,0.08259999999999999
+2038,Namibia,NAM,0.08259999999999999
+2039,Namibia,NAM,0.08259999999999999
+2040,Namibia,NAM,0.08259999999999999
+2041,Namibia,NAM,0.08259999999999999
+2042,Namibia,NAM,0.08259999999999999
+2043,Namibia,NAM,0.0711
+2044,Namibia,NAM,0.065
+2045,Namibia,NAM,0.06
+2046,Namibia,NAM,0.01
+2047,Namibia,NAM,0.005
 2048,Namibia,NAM,0.0
 2049,Namibia,NAM,0.0
 2050,Namibia,NAM,0.0
-2021,Nepal,NPL,30.0
-2022,Nepal,NPL,30.0
-2023,Nepal,NPL,30.0
-2024,Nepal,NPL,30.0
-2025,Nepal,NPL,30.0
-2026,Nepal,NPL,30.0
-2027,Nepal,NPL,30.0
-2028,Nepal,NPL,30.0
-2029,Nepal,NPL,30.0
-2030,Nepal,NPL,30.0
-2031,Nepal,NPL,30.0
-2032,Nepal,NPL,30.0
-2033,Nepal,NPL,30.0
-2034,Nepal,NPL,30.0
-2035,Nepal,NPL,30.0
-2036,Nepal,NPL,30.0
-2037,Nepal,NPL,30.0
-2038,Nepal,NPL,30.0
-2039,Nepal,NPL,25.0
-2040,Nepal,NPL,25.0
-2041,Nepal,NPL,25.0
-2042,Nepal,NPL,25.0
-2043,Nepal,NPL,25.0
-2044,Nepal,NPL,25.0
-2045,Nepal,NPL,25.0
-2046,Nepal,NPL,25.0
+2051,Namibia,NAM,0.0
+2052,Namibia,NAM,0.0
+2053,Namibia,NAM,0.0
+2054,Namibia,NAM,0.0
+2055,Namibia,NAM,0.0
+2021,Nepal,NPL,0.03
+2022,Nepal,NPL,0.03
+2023,Nepal,NPL,0.03
+2024,Nepal,NPL,0.03
+2025,Nepal,NPL,0.03
+2026,Nepal,NPL,0.03
+2027,Nepal,NPL,0.03
+2028,Nepal,NPL,0.03
+2029,Nepal,NPL,0.03
+2030,Nepal,NPL,0.03
+2031,Nepal,NPL,0.03
+2032,Nepal,NPL,0.03
+2033,Nepal,NPL,0.03
+2034,Nepal,NPL,0.03
+2035,Nepal,NPL,0.03
+2036,Nepal,NPL,0.03
+2037,Nepal,NPL,0.03
+2038,Nepal,NPL,0.03
+2039,Nepal,NPL,0.03
+2040,Nepal,NPL,0.03
+2041,Nepal,NPL,0.03
+2042,Nepal,NPL,0.03
+2043,Nepal,NPL,0.03
+2044,Nepal,NPL,0.025
+2045,Nepal,NPL,0.025
+2046,Nepal,NPL,0.025
 2047,Nepal,NPL,0.0
 2048,Nepal,NPL,0.0
 2049,Nepal,NPL,0.0
@@ -3114,33 +3087,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Nepal,NPL,0.0
 2054,Nepal,NPL,0.0
 2055,Nepal,NPL,0.0
-2021,Netherlands,NLD,245.1
-2022,Netherlands,NLD,245.1
-2023,Netherlands,NLD,245.1
-2024,Netherlands,NLD,245.1
-2025,Netherlands,NLD,245.1
-2026,Netherlands,NLD,245.1
-2027,Netherlands,NLD,245.1
-2028,Netherlands,NLD,245.1
-2029,Netherlands,NLD,245.1
-2030,Netherlands,NLD,245.1
-2031,Netherlands,NLD,245.1
-2032,Netherlands,NLD,245.1
-2033,Netherlands,NLD,245.1
-2034,Netherlands,NLD,245.1
-2035,Netherlands,NLD,245.1
-2036,Netherlands,NLD,245.1
-2037,Netherlands,NLD,245.1
-2038,Netherlands,NLD,245.1
-2039,Netherlands,NLD,245.1
-2040,Netherlands,NLD,245.1
-2041,Netherlands,NLD,245.1
-2042,Netherlands,NLD,215.1
-2043,Netherlands,NLD,176.6
-2044,Netherlands,NLD,135.6
-2045,Netherlands,NLD,87.6
-2046,Netherlands,NLD,87.6
-2047,Netherlands,NLD,69.5
+2021,Netherlands,NLD,0.2451
+2022,Netherlands,NLD,0.2451
+2023,Netherlands,NLD,0.2451
+2024,Netherlands,NLD,0.2451
+2025,Netherlands,NLD,0.2451
+2026,Netherlands,NLD,0.2451
+2027,Netherlands,NLD,0.2451
+2028,Netherlands,NLD,0.2451
+2029,Netherlands,NLD,0.2451
+2030,Netherlands,NLD,0.2451
+2031,Netherlands,NLD,0.2451
+2032,Netherlands,NLD,0.2451
+2033,Netherlands,NLD,0.2451
+2034,Netherlands,NLD,0.2451
+2035,Netherlands,NLD,0.2451
+2036,Netherlands,NLD,0.2451
+2037,Netherlands,NLD,0.2451
+2038,Netherlands,NLD,0.2451
+2039,Netherlands,NLD,0.2451
+2040,Netherlands,NLD,0.2451
+2041,Netherlands,NLD,0.2451
+2042,Netherlands,NLD,0.2012
+2043,Netherlands,NLD,0.1659
+2044,Netherlands,NLD,0.1054
+2045,Netherlands,NLD,0.07869999999999999
+2046,Netherlands,NLD,0.07869999999999999
+2047,Netherlands,NLD,0.0101
 2048,Netherlands,NLD,0.0
 2049,Netherlands,NLD,0.0
 2050,Netherlands,NLD,0.0
@@ -3184,29 +3157,29 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,New Zealand,NZL,0.0
 2054,New Zealand,NZL,0.0
 2055,New Zealand,NZL,0.0
-2021,Nicaragua,NIC,12.6
-2022,Nicaragua,NIC,12.6
-2023,Nicaragua,NIC,12.6
-2024,Nicaragua,NIC,12.6
-2025,Nicaragua,NIC,12.6
-2026,Nicaragua,NIC,12.6
-2027,Nicaragua,NIC,12.6
-2028,Nicaragua,NIC,12.6
-2029,Nicaragua,NIC,12.6
-2030,Nicaragua,NIC,12.6
-2031,Nicaragua,NIC,12.6
-2032,Nicaragua,NIC,12.6
-2033,Nicaragua,NIC,12.6
-2034,Nicaragua,NIC,12.6
-2035,Nicaragua,NIC,12.6
-2036,Nicaragua,NIC,12.6
-2037,Nicaragua,NIC,12.6
-2038,Nicaragua,NIC,12.6
-2039,Nicaragua,NIC,12.6
-2040,Nicaragua,NIC,12.6
-2041,Nicaragua,NIC,12.6
-2042,Nicaragua,NIC,12.6
-2043,Nicaragua,NIC,12.6
+2021,Nicaragua,NIC,0.0126
+2022,Nicaragua,NIC,0.0126
+2023,Nicaragua,NIC,0.0126
+2024,Nicaragua,NIC,0.0126
+2025,Nicaragua,NIC,0.0126
+2026,Nicaragua,NIC,0.0126
+2027,Nicaragua,NIC,0.0126
+2028,Nicaragua,NIC,0.0126
+2029,Nicaragua,NIC,0.0126
+2030,Nicaragua,NIC,0.0126
+2031,Nicaragua,NIC,0.0126
+2032,Nicaragua,NIC,0.0126
+2033,Nicaragua,NIC,0.0126
+2034,Nicaragua,NIC,0.0126
+2035,Nicaragua,NIC,0.0126
+2036,Nicaragua,NIC,0.0126
+2037,Nicaragua,NIC,0.0126
+2038,Nicaragua,NIC,0.0126
+2039,Nicaragua,NIC,0.0126
+2040,Nicaragua,NIC,0.0126
+2041,Nicaragua,NIC,0.0126
+2042,Nicaragua,NIC,0.0126
+2043,Nicaragua,NIC,0.0
 2044,Nicaragua,NIC,0.0
 2045,Nicaragua,NIC,0.0
 2046,Nicaragua,NIC,0.0
@@ -3219,31 +3192,31 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Nicaragua,NIC,0.0
 2054,Nicaragua,NIC,0.0
 2055,Nicaragua,NIC,0.0
-2021,Niger,NER,7.0
-2022,Niger,NER,7.0
-2023,Niger,NER,7.0
-2024,Niger,NER,7.0
-2025,Niger,NER,7.0
-2026,Niger,NER,7.0
-2027,Niger,NER,7.0
-2028,Niger,NER,7.0
-2029,Niger,NER,7.0
-2030,Niger,NER,7.0
-2031,Niger,NER,7.0
-2032,Niger,NER,7.0
-2033,Niger,NER,7.0
-2034,Niger,NER,7.0
-2035,Niger,NER,7.0
-2036,Niger,NER,7.0
-2037,Niger,NER,7.0
-2038,Niger,NER,7.0
-2039,Niger,NER,7.0
-2040,Niger,NER,7.0
-2041,Niger,NER,7.0
-2042,Niger,NER,7.0
-2043,Niger,NER,7.0
-2044,Niger,NER,7.0
-2045,Niger,NER,7.0
+2021,Niger,NER,0.006999999999999999
+2022,Niger,NER,0.006999999999999999
+2023,Niger,NER,0.006999999999999999
+2024,Niger,NER,0.006999999999999999
+2025,Niger,NER,0.006999999999999999
+2026,Niger,NER,0.006999999999999999
+2027,Niger,NER,0.006999999999999999
+2028,Niger,NER,0.006999999999999999
+2029,Niger,NER,0.006999999999999999
+2030,Niger,NER,0.006999999999999999
+2031,Niger,NER,0.006999999999999999
+2032,Niger,NER,0.006999999999999999
+2033,Niger,NER,0.006999999999999999
+2034,Niger,NER,0.006999999999999999
+2035,Niger,NER,0.006999999999999999
+2036,Niger,NER,0.006999999999999999
+2037,Niger,NER,0.006999999999999999
+2038,Niger,NER,0.006999999999999999
+2039,Niger,NER,0.006999999999999999
+2040,Niger,NER,0.006999999999999999
+2041,Niger,NER,0.006999999999999999
+2042,Niger,NER,0.006999999999999999
+2043,Niger,NER,0.006999999999999999
+2044,Niger,NER,0.006999999999999999
+2045,Niger,NER,0.006999999999999999
 2046,Niger,NER,0.0
 2047,Niger,NER,0.0
 2048,Niger,NER,0.0
@@ -3251,33 +3224,36 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2050,Niger,NER,0.0
 2051,Niger,NER,0.0
 2052,Niger,NER,0.0
-2021,Nigeria,NGA,10.0
-2022,Nigeria,NGA,10.0
-2023,Nigeria,NGA,10.0
-2024,Nigeria,NGA,10.0
-2025,Nigeria,NGA,10.0
-2026,Nigeria,NGA,10.0
-2027,Nigeria,NGA,10.0
-2028,Nigeria,NGA,10.0
-2029,Nigeria,NGA,10.0
-2030,Nigeria,NGA,10.0
-2031,Nigeria,NGA,10.0
-2032,Nigeria,NGA,10.0
-2033,Nigeria,NGA,10.0
-2034,Nigeria,NGA,10.0
-2035,Nigeria,NGA,10.0
-2036,Nigeria,NGA,10.0
-2037,Nigeria,NGA,10.0
-2038,Nigeria,NGA,10.0
-2039,Nigeria,NGA,10.0
-2040,Nigeria,NGA,10.0
-2041,Nigeria,NGA,10.0
-2042,Nigeria,NGA,10.0
-2043,Nigeria,NGA,0.0
-2044,Nigeria,NGA,0.0
-2045,Nigeria,NGA,0.0
-2046,Nigeria,NGA,0.0
-2047,Nigeria,NGA,0.0
+2053,Niger,NER,0.0
+2054,Niger,NER,0.0
+2055,Niger,NER,0.0
+2021,Nigeria,NGA,0.01
+2022,Nigeria,NGA,0.01
+2023,Nigeria,NGA,0.01
+2024,Nigeria,NGA,0.01
+2025,Nigeria,NGA,0.01
+2026,Nigeria,NGA,0.01
+2027,Nigeria,NGA,0.01
+2028,Nigeria,NGA,0.01
+2029,Nigeria,NGA,0.01
+2030,Nigeria,NGA,0.01
+2031,Nigeria,NGA,0.01
+2032,Nigeria,NGA,0.01
+2033,Nigeria,NGA,0.01
+2034,Nigeria,NGA,0.01
+2035,Nigeria,NGA,0.01
+2036,Nigeria,NGA,0.01
+2037,Nigeria,NGA,0.01
+2038,Nigeria,NGA,0.01
+2039,Nigeria,NGA,0.01
+2040,Nigeria,NGA,0.01
+2041,Nigeria,NGA,0.01
+2042,Nigeria,NGA,0.01
+2043,Nigeria,NGA,0.01
+2044,Nigeria,NGA,0.01
+2045,Nigeria,NGA,0.01
+2046,Nigeria,NGA,0.01
+2047,Nigeria,NGA,0.01
 2048,Nigeria,NGA,0.0
 2049,Nigeria,NGA,0.0
 2050,Nigeria,NGA,0.0
@@ -3321,60 +3297,55 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Norway,NOR,0.0
 2054,Norway,NOR,0.0
 2055,Norway,NOR,0.0
-2021,Oman,OMN,1138.8000000000004
-2022,Oman,OMN,1138.8000000000004
-2023,Oman,OMN,1138.8000000000004
-2024,Oman,OMN,1138.8000000000004
-2025,Oman,OMN,1138.8000000000004
-2026,Oman,OMN,1138.8000000000004
-2027,Oman,OMN,1138.8000000000004
-2028,Oman,OMN,1138.8000000000004
-2029,Oman,OMN,1138.8000000000004
-2030,Oman,OMN,1138.8000000000004
-2031,Oman,OMN,1138.8000000000004
-2032,Oman,OMN,1138.8000000000004
-2033,Oman,OMN,1138.8000000000004
-2034,Oman,OMN,1138.8000000000004
-2035,Oman,OMN,1138.8000000000004
-2036,Oman,OMN,1138.8000000000004
-2037,Oman,OMN,1138.8000000000004
-2038,Oman,OMN,1138.8000000000004
-2039,Oman,OMN,1025.4
-2040,Oman,OMN,1025.4
-2041,Oman,OMN,1025.4
-2042,Oman,OMN,1025.4
-2043,Oman,OMN,1025.4
-2044,Oman,OMN,1025.4
-2045,Oman,OMN,1021.0
-2046,Oman,OMN,1021.0
-2047,Oman,OMN,1021.0
-2021,Pakistan,PAK,678.4
-2022,Pakistan,PAK,678.4
-2023,Pakistan,PAK,678.4
-2024,Pakistan,PAK,678.4
-2025,Pakistan,PAK,678.4
-2026,Pakistan,PAK,678.4
-2027,Pakistan,PAK,678.4
-2028,Pakistan,PAK,678.4
-2029,Pakistan,PAK,678.4
-2030,Pakistan,PAK,678.4
-2031,Pakistan,PAK,678.4
-2032,Pakistan,PAK,678.4
-2033,Pakistan,PAK,678.4
-2034,Pakistan,PAK,678.4
-2035,Pakistan,PAK,678.4
-2036,Pakistan,PAK,678.4
-2037,Pakistan,PAK,678.4
-2038,Pakistan,PAK,678.4
-2039,Pakistan,PAK,678.4
-2040,Pakistan,PAK,678.4
-2041,Pakistan,PAK,666.4
-2042,Pakistan,PAK,666.4
-2043,Pakistan,PAK,666.4
-2044,Pakistan,PAK,666.4
-2045,Pakistan,PAK,266.4
-2046,Pakistan,PAK,148.0
-2047,Pakistan,PAK,148.0
+2021,Oman,OMN,1.1388000000000005
+2022,Oman,OMN,1.1388000000000005
+2023,Oman,OMN,1.1388000000000005
+2024,Oman,OMN,1.1388000000000005
+2025,Oman,OMN,1.1388000000000005
+2026,Oman,OMN,1.1388000000000005
+2027,Oman,OMN,1.1388000000000005
+2028,Oman,OMN,1.1388000000000005
+2029,Oman,OMN,1.1388000000000005
+2030,Oman,OMN,1.1388000000000005
+2031,Oman,OMN,1.1388000000000005
+2032,Oman,OMN,1.1388000000000005
+2033,Oman,OMN,1.1388000000000005
+2034,Oman,OMN,1.1388000000000005
+2035,Oman,OMN,1.1388000000000005
+2036,Oman,OMN,1.1388000000000005
+2037,Oman,OMN,1.1388000000000005
+2038,Oman,OMN,1.1388000000000005
+2039,Oman,OMN,1.1388000000000005
+2040,Oman,OMN,1.1388000000000005
+2041,Oman,OMN,1.1344
+2042,Oman,OMN,1.021
+2021,Pakistan,PAK,0.6784
+2022,Pakistan,PAK,0.6784
+2023,Pakistan,PAK,0.6784
+2024,Pakistan,PAK,0.6784
+2025,Pakistan,PAK,0.6784
+2026,Pakistan,PAK,0.6784
+2027,Pakistan,PAK,0.6784
+2028,Pakistan,PAK,0.6784
+2029,Pakistan,PAK,0.6784
+2030,Pakistan,PAK,0.6784
+2031,Pakistan,PAK,0.6784
+2032,Pakistan,PAK,0.6784
+2033,Pakistan,PAK,0.6784
+2034,Pakistan,PAK,0.6784
+2035,Pakistan,PAK,0.6784
+2036,Pakistan,PAK,0.6784
+2037,Pakistan,PAK,0.6784
+2038,Pakistan,PAK,0.6784
+2039,Pakistan,PAK,0.6784
+2040,Pakistan,PAK,0.6784
+2041,Pakistan,PAK,0.561
+2042,Pakistan,PAK,0.561
+2043,Pakistan,PAK,0.561
+2044,Pakistan,PAK,0.561
+2045,Pakistan,PAK,0.013
+2046,Pakistan,PAK,0.0
+2047,Pakistan,PAK,0.0
 2048,Pakistan,PAK,0.0
 2049,Pakistan,PAK,0.0
 2050,Pakistan,PAK,0.0
@@ -3383,33 +3354,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Pakistan,PAK,0.0
 2054,Pakistan,PAK,0.0
 2055,Pakistan,PAK,0.0
-2021,Panama,PAN,27.9
-2022,Panama,PAN,27.9
-2023,Panama,PAN,27.9
-2024,Panama,PAN,27.9
-2025,Panama,PAN,27.9
-2026,Panama,PAN,27.9
-2027,Panama,PAN,27.9
-2028,Panama,PAN,27.9
-2029,Panama,PAN,27.9
-2030,Panama,PAN,27.9
-2031,Panama,PAN,27.9
-2032,Panama,PAN,27.9
-2033,Panama,PAN,27.9
-2034,Panama,PAN,27.9
-2035,Panama,PAN,27.9
-2036,Panama,PAN,27.9
-2037,Panama,PAN,27.9
-2038,Panama,PAN,27.9
-2039,Panama,PAN,27.9
-2040,Panama,PAN,27.9
-2041,Panama,PAN,27.9
-2042,Panama,PAN,27.9
-2043,Panama,PAN,27.9
-2044,Panama,PAN,27.9
-2045,Panama,PAN,27.9
-2046,Panama,PAN,27.9
-2047,Panama,PAN,18.0
+2021,Panama,PAN,0.0279
+2022,Panama,PAN,0.0279
+2023,Panama,PAN,0.0279
+2024,Panama,PAN,0.0279
+2025,Panama,PAN,0.0279
+2026,Panama,PAN,0.0279
+2027,Panama,PAN,0.0279
+2028,Panama,PAN,0.0279
+2029,Panama,PAN,0.0279
+2030,Panama,PAN,0.0279
+2031,Panama,PAN,0.0279
+2032,Panama,PAN,0.0279
+2033,Panama,PAN,0.0279
+2034,Panama,PAN,0.0279
+2035,Panama,PAN,0.0279
+2036,Panama,PAN,0.0279
+2037,Panama,PAN,0.0279
+2038,Panama,PAN,0.0279
+2039,Panama,PAN,0.0279
+2040,Panama,PAN,0.0279
+2041,Panama,PAN,0.0279
+2042,Panama,PAN,0.0279
+2043,Panama,PAN,0.0279
+2044,Panama,PAN,0.0279
+2045,Panama,PAN,0.0279
+2046,Panama,PAN,0.0179
+2047,Panama,PAN,0.0179
 2048,Panama,PAN,0.0
 2049,Panama,PAN,0.0
 2050,Panama,PAN,0.0
@@ -3488,33 +3459,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Paraguay,PRY,0.0
 2054,Paraguay,PRY,0.0
 2055,Paraguay,PRY,0.0
-2021,Peru,PER,240.5
-2022,Peru,PER,240.5
-2023,Peru,PER,240.5
-2024,Peru,PER,240.5
-2025,Peru,PER,240.5
-2026,Peru,PER,240.5
-2027,Peru,PER,240.5
-2028,Peru,PER,240.5
-2029,Peru,PER,240.5
-2030,Peru,PER,240.5
-2031,Peru,PER,240.5
-2032,Peru,PER,240.5
-2033,Peru,PER,240.5
-2034,Peru,PER,240.5
-2035,Peru,PER,240.5
-2036,Peru,PER,240.5
-2037,Peru,PER,240.5
-2038,Peru,PER,240.5
-2039,Peru,PER,240.5
-2040,Peru,PER,240.5
-2041,Peru,PER,240.5
-2042,Peru,PER,220.5
-2043,Peru,PER,204.5
-2044,Peru,PER,184.5
-2045,Peru,PER,164.5
-2046,Peru,PER,164.5
-2047,Peru,PER,164.5
+2021,Peru,PER,0.2405
+2022,Peru,PER,0.2405
+2023,Peru,PER,0.2405
+2024,Peru,PER,0.2405
+2025,Peru,PER,0.2405
+2026,Peru,PER,0.2405
+2027,Peru,PER,0.2405
+2028,Peru,PER,0.2405
+2029,Peru,PER,0.2405
+2030,Peru,PER,0.2405
+2031,Peru,PER,0.2405
+2032,Peru,PER,0.2405
+2033,Peru,PER,0.2405
+2034,Peru,PER,0.2405
+2035,Peru,PER,0.2405
+2036,Peru,PER,0.2405
+2037,Peru,PER,0.2405
+2038,Peru,PER,0.2405
+2039,Peru,PER,0.2405
+2040,Peru,PER,0.2405
+2041,Peru,PER,0.2405
+2042,Peru,PER,0.2205
+2043,Peru,PER,0.2005
+2044,Peru,PER,0.2005
+2045,Peru,PER,0.055999999999999994
+2046,Peru,PER,0.055999999999999994
+2047,Peru,PER,0.055999999999999994
 2048,Peru,PER,0.0
 2049,Peru,PER,0.0
 2050,Peru,PER,0.0
@@ -3523,33 +3494,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Peru,PER,0.0
 2054,Peru,PER,0.0
 2055,Peru,PER,0.0
-2021,Philippines,PHL,1196.4
-2022,Philippines,PHL,1196.4
-2023,Philippines,PHL,1196.4
-2024,Philippines,PHL,1196.4
-2025,Philippines,PHL,1196.4
-2026,Philippines,PHL,1196.4
-2027,Philippines,PHL,1196.4
-2028,Philippines,PHL,1196.4
-2029,Philippines,PHL,1196.4
-2030,Philippines,PHL,1196.4
-2031,Philippines,PHL,1196.4
-2032,Philippines,PHL,1196.4
-2033,Philippines,PHL,1196.4
-2034,Philippines,PHL,1196.4
-2035,Philippines,PHL,1196.4
-2036,Philippines,PHL,1196.4
-2037,Philippines,PHL,1196.4
-2038,Philippines,PHL,1196.4
-2039,Philippines,PHL,1186.4
-2040,Philippines,PHL,1186.4
-2041,Philippines,PHL,1186.4
-2042,Philippines,PHL,1162.8
-2043,Philippines,PHL,1094.7
-2044,Philippines,PHL,1094.7
-2045,Philippines,PHL,1053.1
-2046,Philippines,PHL,417.1
-2047,Philippines,PHL,293.9
+2021,Philippines,PHL,1.1964
+2022,Philippines,PHL,1.1964
+2023,Philippines,PHL,1.1964
+2024,Philippines,PHL,1.1964
+2025,Philippines,PHL,1.1964
+2026,Philippines,PHL,1.1964
+2027,Philippines,PHL,1.1964
+2028,Philippines,PHL,1.1964
+2029,Philippines,PHL,1.1964
+2030,Philippines,PHL,1.1964
+2031,Philippines,PHL,1.1964
+2032,Philippines,PHL,1.1964
+2033,Philippines,PHL,1.1964
+2034,Philippines,PHL,1.1964
+2035,Philippines,PHL,1.1964
+2036,Philippines,PHL,1.1964
+2037,Philippines,PHL,1.1964
+2038,Philippines,PHL,1.1964
+2039,Philippines,PHL,1.1964
+2040,Philippines,PHL,1.1964
+2041,Philippines,PHL,1.1902
+2042,Philippines,PHL,1.1259
+2043,Philippines,PHL,1.0303000000000002
+2044,Philippines,PHL,1.0093
+2045,Philippines,PHL,1.0093
+2046,Philippines,PHL,0.2509
+2047,Philippines,PHL,0.0413
 2048,Philippines,PHL,0.0
 2049,Philippines,PHL,0.0
 2050,Philippines,PHL,0.0
@@ -3558,33 +3529,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Philippines,PHL,0.0
 2054,Philippines,PHL,0.0
 2055,Philippines,PHL,0.0
-2021,Poland,POL,17.0
-2022,Poland,POL,17.0
-2023,Poland,POL,17.0
-2024,Poland,POL,17.0
-2025,Poland,POL,17.0
-2026,Poland,POL,17.0
-2027,Poland,POL,17.0
-2028,Poland,POL,17.0
-2029,Poland,POL,17.0
-2030,Poland,POL,17.0
-2031,Poland,POL,17.0
-2032,Poland,POL,17.0
-2033,Poland,POL,17.0
-2034,Poland,POL,17.0
-2035,Poland,POL,17.0
-2036,Poland,POL,17.0
-2037,Poland,POL,17.0
-2038,Poland,POL,17.0
-2039,Poland,POL,17.0
-2040,Poland,POL,17.0
-2041,Poland,POL,16.0
-2042,Poland,POL,16.0
-2043,Poland,POL,16.0
-2044,Poland,POL,11.0
-2045,Poland,POL,1.0
-2046,Poland,POL,1.0
-2047,Poland,POL,1.0
+2021,Poland,POL,0.017
+2022,Poland,POL,0.017
+2023,Poland,POL,0.017
+2024,Poland,POL,0.017
+2025,Poland,POL,0.017
+2026,Poland,POL,0.017
+2027,Poland,POL,0.017
+2028,Poland,POL,0.017
+2029,Poland,POL,0.017
+2030,Poland,POL,0.017
+2031,Poland,POL,0.017
+2032,Poland,POL,0.017
+2033,Poland,POL,0.017
+2034,Poland,POL,0.017
+2035,Poland,POL,0.017
+2036,Poland,POL,0.017
+2037,Poland,POL,0.017
+2038,Poland,POL,0.017
+2039,Poland,POL,0.017
+2040,Poland,POL,0.017
+2041,Poland,POL,0.016
+2042,Poland,POL,0.016
+2043,Poland,POL,0.016
+2044,Poland,POL,0.011000000000000001
+2045,Poland,POL,0.001
+2046,Poland,POL,0.001
+2047,Poland,POL,0.001
 2048,Poland,POL,0.0
 2049,Poland,POL,0.0
 2050,Poland,POL,0.0
@@ -3593,33 +3564,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Poland,POL,0.0
 2054,Poland,POL,0.0
 2055,Poland,POL,0.0
-2021,Portugal,PRT,621.5840000000001
-2022,Portugal,PRT,621.5840000000001
-2023,Portugal,PRT,621.5840000000001
-2024,Portugal,PRT,621.5840000000001
-2025,Portugal,PRT,621.5840000000001
-2026,Portugal,PRT,621.5840000000001
-2027,Portugal,PRT,621.5840000000001
-2028,Portugal,PRT,621.5840000000001
-2029,Portugal,PRT,621.5840000000001
-2030,Portugal,PRT,621.5840000000001
-2031,Portugal,PRT,621.5840000000001
-2032,Portugal,PRT,621.5840000000001
-2033,Portugal,PRT,621.5840000000001
-2034,Portugal,PRT,621.5840000000001
-2035,Portugal,PRT,621.5840000000001
-2036,Portugal,PRT,621.5840000000001
-2037,Portugal,PRT,610.5840000000001
-2038,Portugal,PRT,560.384
-2039,Portugal,PRT,530.984
-2040,Portugal,PRT,514.0840000000002
-2041,Portugal,PRT,512.484
-2042,Portugal,PRT,473.18400000000014
-2043,Portugal,PRT,448.58400000000006
-2044,Portugal,PRT,301.5
-2045,Portugal,PRT,284.2000000000001
-2046,Portugal,PRT,277.00000000000006
-2047,Portugal,PRT,265.90000000000003
+2021,Portugal,PRT,0.6215839999999999
+2022,Portugal,PRT,0.6215839999999999
+2023,Portugal,PRT,0.6215839999999999
+2024,Portugal,PRT,0.6215839999999999
+2025,Portugal,PRT,0.6215839999999999
+2026,Portugal,PRT,0.6215839999999999
+2027,Portugal,PRT,0.6215839999999999
+2028,Portugal,PRT,0.6215839999999999
+2029,Portugal,PRT,0.6215839999999999
+2030,Portugal,PRT,0.6215839999999999
+2031,Portugal,PRT,0.6215839999999999
+2032,Portugal,PRT,0.6215839999999999
+2033,Portugal,PRT,0.6215839999999999
+2034,Portugal,PRT,0.6215839999999999
+2035,Portugal,PRT,0.6215839999999999
+2036,Portugal,PRT,0.6215839999999999
+2037,Portugal,PRT,0.6105839999999999
+2038,Portugal,PRT,0.560384
+2039,Portugal,PRT,0.530984
+2040,Portugal,PRT,0.5140840000000001
+2041,Portugal,PRT,0.512484
+2042,Portugal,PRT,0.4731840000000001
+2043,Portugal,PRT,0.239384
+2044,Portugal,PRT,0.0897
+2045,Portugal,PRT,0.0665
+2046,Portugal,PRT,0.0593
+2047,Portugal,PRT,0.0133
 2048,Portugal,PRT,0.0
 2049,Portugal,PRT,0.0
 2050,Portugal,PRT,0.0
@@ -3650,33 +3621,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2040,Qatar,QAT,0.0
 2041,Qatar,QAT,0.0
 2042,Qatar,QAT,0.0
-2021,Romania,ROU,471.9
-2022,Romania,ROU,471.9
-2023,Romania,ROU,471.9
-2024,Romania,ROU,471.9
-2025,Romania,ROU,471.9
-2026,Romania,ROU,471.9
-2027,Romania,ROU,471.9
-2028,Romania,ROU,471.9
-2029,Romania,ROU,471.9
-2030,Romania,ROU,471.9
-2031,Romania,ROU,471.9
-2032,Romania,ROU,471.9
-2033,Romania,ROU,471.9
-2034,Romania,ROU,471.9
-2035,Romania,ROU,471.9
-2036,Romania,ROU,471.9
-2037,Romania,ROU,456.9
-2038,Romania,ROU,450.9
-2039,Romania,ROU,446.6
-2040,Romania,ROU,391.6
-2041,Romania,ROU,373.1
-2042,Romania,ROU,326.3
-2043,Romania,ROU,309.1
-2044,Romania,ROU,291.5
-2045,Romania,ROU,207.1
-2046,Romania,ROU,173.6
-2047,Romania,ROU,148.6
+2021,Romania,ROU,0.4719
+2022,Romania,ROU,0.4719
+2023,Romania,ROU,0.4719
+2024,Romania,ROU,0.4719
+2025,Romania,ROU,0.4719
+2026,Romania,ROU,0.4719
+2027,Romania,ROU,0.4719
+2028,Romania,ROU,0.4719
+2029,Romania,ROU,0.4719
+2030,Romania,ROU,0.4719
+2031,Romania,ROU,0.4719
+2032,Romania,ROU,0.4719
+2033,Romania,ROU,0.4719
+2034,Romania,ROU,0.4719
+2035,Romania,ROU,0.4719
+2036,Romania,ROU,0.4719
+2037,Romania,ROU,0.4629
+2038,Romania,ROU,0.4629
+2039,Romania,ROU,0.4629
+2040,Romania,ROU,0.4629
+2041,Romania,ROU,0.4489
+2042,Romania,ROU,0.4234000000000001
+2043,Romania,ROU,0.2236
+2044,Romania,ROU,0.2146
+2045,Romania,ROU,0.16140000000000002
+2046,Romania,ROU,0.1225
+2047,Romania,ROU,0.1066
 2048,Romania,ROU,0.0
 2049,Romania,ROU,0.0
 2050,Romania,ROU,0.0
@@ -3685,30 +3656,30 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Romania,ROU,0.0
 2054,Romania,ROU,0.0
 2055,Romania,ROU,0.0
-2021,Rwanda,RWA,8.5
-2022,Rwanda,RWA,8.5
-2023,Rwanda,RWA,8.5
-2024,Rwanda,RWA,8.5
-2025,Rwanda,RWA,8.5
-2026,Rwanda,RWA,8.5
-2027,Rwanda,RWA,8.5
-2028,Rwanda,RWA,8.5
-2029,Rwanda,RWA,8.5
-2030,Rwanda,RWA,8.5
-2031,Rwanda,RWA,8.5
-2032,Rwanda,RWA,8.5
-2033,Rwanda,RWA,8.5
-2034,Rwanda,RWA,8.5
-2035,Rwanda,RWA,8.5
-2036,Rwanda,RWA,8.5
-2037,Rwanda,RWA,8.5
-2038,Rwanda,RWA,8.5
-2039,Rwanda,RWA,8.5
-2040,Rwanda,RWA,8.5
-2041,Rwanda,RWA,8.5
-2042,Rwanda,RWA,8.5
-2043,Rwanda,RWA,8.5
-2044,Rwanda,RWA,8.5
+2021,Rwanda,RWA,0.0085
+2022,Rwanda,RWA,0.0085
+2023,Rwanda,RWA,0.0085
+2024,Rwanda,RWA,0.0085
+2025,Rwanda,RWA,0.0085
+2026,Rwanda,RWA,0.0085
+2027,Rwanda,RWA,0.0085
+2028,Rwanda,RWA,0.0085
+2029,Rwanda,RWA,0.0085
+2030,Rwanda,RWA,0.0085
+2031,Rwanda,RWA,0.0085
+2032,Rwanda,RWA,0.0085
+2033,Rwanda,RWA,0.0085
+2034,Rwanda,RWA,0.0085
+2035,Rwanda,RWA,0.0085
+2036,Rwanda,RWA,0.0085
+2037,Rwanda,RWA,0.0085
+2038,Rwanda,RWA,0.0085
+2039,Rwanda,RWA,0.0085
+2040,Rwanda,RWA,0.0085
+2041,Rwanda,RWA,0.0085
+2042,Rwanda,RWA,0.0085
+2043,Rwanda,RWA,0.0085
+2044,Rwanda,RWA,0.0085
 2045,Rwanda,RWA,0.0
 2046,Rwanda,RWA,0.0
 2047,Rwanda,RWA,0.0
@@ -3720,58 +3691,56 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Rwanda,RWA,0.0
 2054,Rwanda,RWA,0.0
 2055,Rwanda,RWA,0.0
-2021,Saint Lucia,LCA,3.0
-2022,Saint Lucia,LCA,3.0
-2023,Saint Lucia,LCA,3.0
-2024,Saint Lucia,LCA,3.0
-2025,Saint Lucia,LCA,3.0
-2026,Saint Lucia,LCA,3.0
-2027,Saint Lucia,LCA,3.0
-2028,Saint Lucia,LCA,3.0
-2029,Saint Lucia,LCA,3.0
-2030,Saint Lucia,LCA,3.0
-2031,Saint Lucia,LCA,3.0
-2032,Saint Lucia,LCA,3.0
-2033,Saint Lucia,LCA,3.0
-2034,Saint Lucia,LCA,3.0
-2035,Saint Lucia,LCA,3.0
-2036,Saint Lucia,LCA,3.0
-2037,Saint Lucia,LCA,3.0
-2038,Saint Lucia,LCA,3.0
-2039,Saint Lucia,LCA,3.0
-2040,Saint Lucia,LCA,3.0
-2041,Saint Lucia,LCA,3.0
-2042,Saint Lucia,LCA,3.0
-2043,Saint Lucia,LCA,3.0
-2044,Saint Lucia,LCA,3.0
-2045,Saint Lucia,LCA,3.0
-2046,Saint Lucia,LCA,3.0
-2021,Saudi Arabia,SAU,137.0
-2022,Saudi Arabia,SAU,137.0
-2023,Saudi Arabia,SAU,137.0
-2024,Saudi Arabia,SAU,137.0
-2025,Saudi Arabia,SAU,137.0
-2026,Saudi Arabia,SAU,137.0
-2027,Saudi Arabia,SAU,137.0
-2028,Saudi Arabia,SAU,137.0
-2029,Saudi Arabia,SAU,137.0
-2030,Saudi Arabia,SAU,137.0
-2031,Saudi Arabia,SAU,137.0
-2032,Saudi Arabia,SAU,137.0
-2033,Saudi Arabia,SAU,137.0
-2034,Saudi Arabia,SAU,137.0
-2035,Saudi Arabia,SAU,137.0
-2036,Saudi Arabia,SAU,137.0
-2037,Saudi Arabia,SAU,137.0
-2038,Saudi Arabia,SAU,137.0
-2039,Saudi Arabia,SAU,137.0
-2040,Saudi Arabia,SAU,137.0
-2041,Saudi Arabia,SAU,137.0
-2042,Saudi Arabia,SAU,80.0
-2043,Saudi Arabia,SAU,80.0
-2044,Saudi Arabia,SAU,30.0
-2045,Saudi Arabia,SAU,20.0
-2046,Saudi Arabia,SAU,0.0
+2021,Saint Lucia,LCA,0.003
+2022,Saint Lucia,LCA,0.003
+2023,Saint Lucia,LCA,0.003
+2024,Saint Lucia,LCA,0.003
+2025,Saint Lucia,LCA,0.003
+2026,Saint Lucia,LCA,0.003
+2027,Saint Lucia,LCA,0.003
+2028,Saint Lucia,LCA,0.003
+2029,Saint Lucia,LCA,0.003
+2030,Saint Lucia,LCA,0.003
+2031,Saint Lucia,LCA,0.003
+2032,Saint Lucia,LCA,0.003
+2033,Saint Lucia,LCA,0.003
+2034,Saint Lucia,LCA,0.003
+2035,Saint Lucia,LCA,0.003
+2036,Saint Lucia,LCA,0.003
+2037,Saint Lucia,LCA,0.003
+2038,Saint Lucia,LCA,0.003
+2039,Saint Lucia,LCA,0.003
+2040,Saint Lucia,LCA,0.003
+2041,Saint Lucia,LCA,0.003
+2042,Saint Lucia,LCA,0.003
+2043,Saint Lucia,LCA,0.003
+2044,Saint Lucia,LCA,0.003
+2021,Saudi Arabia,SAU,0.13699999999999998
+2022,Saudi Arabia,SAU,0.13699999999999998
+2023,Saudi Arabia,SAU,0.13699999999999998
+2024,Saudi Arabia,SAU,0.13699999999999998
+2025,Saudi Arabia,SAU,0.13699999999999998
+2026,Saudi Arabia,SAU,0.13699999999999998
+2027,Saudi Arabia,SAU,0.13699999999999998
+2028,Saudi Arabia,SAU,0.13699999999999998
+2029,Saudi Arabia,SAU,0.13699999999999998
+2030,Saudi Arabia,SAU,0.13699999999999998
+2031,Saudi Arabia,SAU,0.13699999999999998
+2032,Saudi Arabia,SAU,0.13699999999999998
+2033,Saudi Arabia,SAU,0.13699999999999998
+2034,Saudi Arabia,SAU,0.13699999999999998
+2035,Saudi Arabia,SAU,0.13699999999999998
+2036,Saudi Arabia,SAU,0.13699999999999998
+2037,Saudi Arabia,SAU,0.13699999999999998
+2038,Saudi Arabia,SAU,0.13699999999999998
+2039,Saudi Arabia,SAU,0.13699999999999998
+2040,Saudi Arabia,SAU,0.13699999999999998
+2041,Saudi Arabia,SAU,0.13699999999999998
+2042,Saudi Arabia,SAU,0.12300000000000001
+2043,Saudi Arabia,SAU,0.113
+2044,Saudi Arabia,SAU,0.09300000000000001
+2045,Saudi Arabia,SAU,0.05
+2046,Saudi Arabia,SAU,0.05
 2047,Saudi Arabia,SAU,0.0
 2048,Saudi Arabia,SAU,0.0
 2049,Saudi Arabia,SAU,0.0
@@ -3781,33 +3750,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Saudi Arabia,SAU,0.0
 2054,Saudi Arabia,SAU,0.0
 2055,Saudi Arabia,SAU,0.0
-2021,Senegal,SEN,105.7
-2022,Senegal,SEN,105.7
-2023,Senegal,SEN,105.7
-2024,Senegal,SEN,105.7
-2025,Senegal,SEN,105.7
-2026,Senegal,SEN,105.7
-2027,Senegal,SEN,105.7
-2028,Senegal,SEN,105.7
-2029,Senegal,SEN,105.7
-2030,Senegal,SEN,105.7
-2031,Senegal,SEN,105.7
-2032,Senegal,SEN,105.7
-2033,Senegal,SEN,105.7
-2034,Senegal,SEN,105.7
-2035,Senegal,SEN,105.7
-2036,Senegal,SEN,105.7
-2037,Senegal,SEN,105.7
-2038,Senegal,SEN,105.7
-2039,Senegal,SEN,105.7
-2040,Senegal,SEN,105.7
-2041,Senegal,SEN,105.7
-2042,Senegal,SEN,105.7
-2043,Senegal,SEN,90.0
-2044,Senegal,SEN,55.6
-2045,Senegal,SEN,21.2
-2046,Senegal,SEN,21.2
-2047,Senegal,SEN,21.2
+2021,Senegal,SEN,0.1057
+2022,Senegal,SEN,0.1057
+2023,Senegal,SEN,0.1057
+2024,Senegal,SEN,0.1057
+2025,Senegal,SEN,0.1057
+2026,Senegal,SEN,0.1057
+2027,Senegal,SEN,0.1057
+2028,Senegal,SEN,0.1057
+2029,Senegal,SEN,0.1057
+2030,Senegal,SEN,0.1057
+2031,Senegal,SEN,0.1057
+2032,Senegal,SEN,0.1057
+2033,Senegal,SEN,0.1057
+2034,Senegal,SEN,0.1057
+2035,Senegal,SEN,0.1057
+2036,Senegal,SEN,0.1057
+2037,Senegal,SEN,0.1057
+2038,Senegal,SEN,0.1057
+2039,Senegal,SEN,0.1057
+2040,Senegal,SEN,0.1057
+2041,Senegal,SEN,0.1057
+2042,Senegal,SEN,0.1057
+2043,Senegal,SEN,0.0845
+2044,Senegal,SEN,0.0845
+2045,Senegal,SEN,0.0501
+2046,Senegal,SEN,0.0501
+2047,Senegal,SEN,0.0501
 2021,Serbia,SRB,0.0
 2022,Serbia,SRB,0.0
 2023,Serbia,SRB,0.0
@@ -3857,27 +3826,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2032,Sierra Leone,SLE,0.0
 2033,Sierra Leone,SLE,0.0
 2034,Sierra Leone,SLE,0.0
-2035,Sierra Leone,SLE,0.0
-2036,Sierra Leone,SLE,0.0
-2037,Sierra Leone,SLE,0.0
-2038,Sierra Leone,SLE,0.0
-2039,Sierra Leone,SLE,0.0
-2040,Sierra Leone,SLE,0.0
-2041,Sierra Leone,SLE,0.0
-2042,Sierra Leone,SLE,0.0
-2043,Sierra Leone,SLE,0.0
-2044,Sierra Leone,SLE,0.0
-2045,Sierra Leone,SLE,0.0
-2046,Sierra Leone,SLE,0.0
-2047,Sierra Leone,SLE,0.0
-2048,Sierra Leone,SLE,0.0
-2049,Sierra Leone,SLE,0.0
-2050,Sierra Leone,SLE,0.0
-2051,Sierra Leone,SLE,0.0
-2052,Sierra Leone,SLE,0.0
-2053,Sierra Leone,SLE,0.0
-2054,Sierra Leone,SLE,0.0
-2055,Sierra Leone,SLE,0.0
 2021,Singapore,SGP,0.0
 2022,Singapore,SGP,0.0
 2023,Singapore,SGP,0.0
@@ -3902,30 +3850,30 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2042,Singapore,SGP,0.0
 2043,Singapore,SGP,0.0
 2044,Singapore,SGP,0.0
-2021,Slovakia,SVK,24.0
-2022,Slovakia,SVK,24.0
-2023,Slovakia,SVK,24.0
-2024,Slovakia,SVK,24.0
-2025,Slovakia,SVK,24.0
-2026,Slovakia,SVK,24.0
-2027,Slovakia,SVK,24.0
-2028,Slovakia,SVK,24.0
-2029,Slovakia,SVK,24.0
-2030,Slovakia,SVK,24.0
-2031,Slovakia,SVK,24.0
-2032,Slovakia,SVK,24.0
-2033,Slovakia,SVK,24.0
-2034,Slovakia,SVK,24.0
-2035,Slovakia,SVK,24.0
-2036,Slovakia,SVK,24.0
-2037,Slovakia,SVK,24.0
-2038,Slovakia,SVK,24.0
-2039,Slovakia,SVK,24.0
-2040,Slovakia,SVK,24.0
-2041,Slovakia,SVK,24.0
-2042,Slovakia,SVK,18.0
-2043,Slovakia,SVK,18.0
-2044,Slovakia,SVK,0.0
+2021,Slovakia,SVK,0.024
+2022,Slovakia,SVK,0.024
+2023,Slovakia,SVK,0.024
+2024,Slovakia,SVK,0.024
+2025,Slovakia,SVK,0.024
+2026,Slovakia,SVK,0.024
+2027,Slovakia,SVK,0.024
+2028,Slovakia,SVK,0.024
+2029,Slovakia,SVK,0.024
+2030,Slovakia,SVK,0.024
+2031,Slovakia,SVK,0.024
+2032,Slovakia,SVK,0.024
+2033,Slovakia,SVK,0.024
+2034,Slovakia,SVK,0.024
+2035,Slovakia,SVK,0.024
+2036,Slovakia,SVK,0.024
+2037,Slovakia,SVK,0.024
+2038,Slovakia,SVK,0.024
+2039,Slovakia,SVK,0.024
+2040,Slovakia,SVK,0.024
+2041,Slovakia,SVK,0.024
+2042,Slovakia,SVK,0.024
+2043,Slovakia,SVK,0.018000000000000002
+2044,Slovakia,SVK,0.018000000000000002
 2045,Slovakia,SVK,0.0
 2046,Slovakia,SVK,0.0
 2047,Slovakia,SVK,0.0
@@ -3972,33 +3920,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Slovenia,SVN,0.0
 2054,Slovenia,SVN,0.0
 2055,Slovenia,SVN,0.0
-2021,South Africa,ZAF,2313.04
-2022,South Africa,ZAF,2313.04
-2023,South Africa,ZAF,2313.04
-2024,South Africa,ZAF,2313.04
-2025,South Africa,ZAF,2313.04
-2026,South Africa,ZAF,2313.04
-2027,South Africa,ZAF,2313.04
-2028,South Africa,ZAF,2313.04
-2029,South Africa,ZAF,2313.04
-2030,South Africa,ZAF,2313.04
-2031,South Africa,ZAF,2313.04
-2032,South Africa,ZAF,2313.04
-2033,South Africa,ZAF,2313.04
-2034,South Africa,ZAF,2313.04
-2035,South Africa,ZAF,2313.04
-2036,South Africa,ZAF,2313.04
-2037,South Africa,ZAF,2313.04
-2038,South Africa,ZAF,2313.04
-2039,South Africa,ZAF,2313.04
-2040,South Africa,ZAF,2313.04
-2041,South Africa,ZAF,2228.34
-2042,South Africa,ZAF,2118.34
-2043,South Africa,ZAF,2009.84
-2044,South Africa,ZAF,1128.9
-2045,South Africa,ZAF,948.9
-2046,South Africa,ZAF,344.4
-2047,South Africa,ZAF,148.0
+2021,South Africa,ZAF,2.31304
+2022,South Africa,ZAF,2.31304
+2023,South Africa,ZAF,2.31304
+2024,South Africa,ZAF,2.31304
+2025,South Africa,ZAF,2.31304
+2026,South Africa,ZAF,2.31304
+2027,South Africa,ZAF,2.31304
+2028,South Africa,ZAF,2.31304
+2029,South Africa,ZAF,2.31304
+2030,South Africa,ZAF,2.31304
+2031,South Africa,ZAF,2.31304
+2032,South Africa,ZAF,2.31304
+2033,South Africa,ZAF,2.31304
+2034,South Africa,ZAF,2.31304
+2035,South Africa,ZAF,2.31304
+2036,South Africa,ZAF,2.31304
+2037,South Africa,ZAF,2.31304
+2038,South Africa,ZAF,2.31304
+2039,South Africa,ZAF,2.31304
+2040,South Africa,ZAF,2.31304
+2041,South Africa,ZAF,2.2130400000000003
+2042,South Africa,ZAF,2.20304
+2043,South Africa,ZAF,2.10204
+2044,South Africa,ZAF,1.1235
+2045,South Africa,ZAF,0.9435
+2046,South Africa,ZAF,0.4941
+2047,South Africa,ZAF,0.203
 2048,South Africa,ZAF,0.0
 2049,South Africa,ZAF,0.0
 2050,South Africa,ZAF,0.0
@@ -4007,33 +3955,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,South Africa,ZAF,0.0
 2054,South Africa,ZAF,0.0
 2055,South Africa,ZAF,0.0
-2021,Spain,ESP,4901.313
-2022,Spain,ESP,4901.313
-2023,Spain,ESP,4901.313
-2024,Spain,ESP,4901.313
-2025,Spain,ESP,4901.313
-2026,Spain,ESP,4901.313
-2027,Spain,ESP,4901.313
-2028,Spain,ESP,4901.313
-2029,Spain,ESP,4901.313
-2030,Spain,ESP,4901.313
-2031,Spain,ESP,4901.313
-2032,Spain,ESP,4901.313
-2033,Spain,ESP,4901.313
-2034,Spain,ESP,4901.313
-2035,Spain,ESP,4901.313
-2036,Spain,ESP,4890.2930000000015
-2037,Spain,ESP,4850.993
-2038,Spain,ESP,4832.993
-2039,Spain,ESP,4568.093000000002
-2040,Spain,ESP,4206.893
-2041,Spain,ESP,3497.8900000000012
-2042,Spain,ESP,2525.2000000000007
-2043,Spain,ESP,2095.8
-2044,Spain,ESP,1866.4
-2045,Spain,ESP,1490.9
-2046,Spain,ESP,986.0
-2047,Spain,ESP,654.6
+2021,Spain,ESP,4.901313
+2022,Spain,ESP,4.901313
+2023,Spain,ESP,4.901313
+2024,Spain,ESP,4.901313
+2025,Spain,ESP,4.901313
+2026,Spain,ESP,4.901313
+2027,Spain,ESP,4.901313
+2028,Spain,ESP,4.901313
+2029,Spain,ESP,4.901313
+2030,Spain,ESP,4.901313
+2031,Spain,ESP,4.901313
+2032,Spain,ESP,4.901313
+2033,Spain,ESP,4.901313
+2034,Spain,ESP,4.901313
+2035,Spain,ESP,4.901313
+2036,Spain,ESP,4.8902930000000016
+2037,Spain,ESP,4.884193000000002
+2038,Spain,ESP,4.8754930000000005
+2039,Spain,ESP,4.651193000000001
+2040,Spain,ESP,4.2755930000000015
+2041,Spain,ESP,3.625090000000001
+2042,Spain,ESP,2.549700000000001
+2043,Spain,ESP,2.1049999999999995
+2044,Spain,ESP,1.7516999999999998
+2045,Spain,ESP,1.3688999999999998
+2046,Spain,ESP,1.2074
+2047,Spain,ESP,0.7572000000000001
 2048,Spain,ESP,0.0
 2049,Spain,ESP,0.0
 2050,Spain,ESP,0.0
@@ -4042,32 +3990,32 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Spain,ESP,0.0
 2054,Spain,ESP,0.0
 2055,Spain,ESP,0.0
-2021,Sri Lanka,LKA,44.4
-2022,Sri Lanka,LKA,44.4
-2023,Sri Lanka,LKA,44.4
-2024,Sri Lanka,LKA,44.4
-2025,Sri Lanka,LKA,44.4
-2026,Sri Lanka,LKA,44.4
-2027,Sri Lanka,LKA,44.4
-2028,Sri Lanka,LKA,44.4
-2029,Sri Lanka,LKA,44.4
-2030,Sri Lanka,LKA,44.4
-2031,Sri Lanka,LKA,44.4
-2032,Sri Lanka,LKA,44.4
-2033,Sri Lanka,LKA,44.4
-2034,Sri Lanka,LKA,44.4
-2035,Sri Lanka,LKA,44.4
-2036,Sri Lanka,LKA,44.4
-2037,Sri Lanka,LKA,44.4
-2038,Sri Lanka,LKA,44.4
-2039,Sri Lanka,LKA,44.4
-2040,Sri Lanka,LKA,44.4
-2041,Sri Lanka,LKA,44.4
-2042,Sri Lanka,LKA,44.4
-2043,Sri Lanka,LKA,44.4
-2044,Sri Lanka,LKA,44.4
-2045,Sri Lanka,LKA,10.0
-2046,Sri Lanka,LKA,10.0
+2021,Sri Lanka,LKA,0.0444
+2022,Sri Lanka,LKA,0.0444
+2023,Sri Lanka,LKA,0.0444
+2024,Sri Lanka,LKA,0.0444
+2025,Sri Lanka,LKA,0.0444
+2026,Sri Lanka,LKA,0.0444
+2027,Sri Lanka,LKA,0.0444
+2028,Sri Lanka,LKA,0.0444
+2029,Sri Lanka,LKA,0.0444
+2030,Sri Lanka,LKA,0.0444
+2031,Sri Lanka,LKA,0.0444
+2032,Sri Lanka,LKA,0.0444
+2033,Sri Lanka,LKA,0.0444
+2034,Sri Lanka,LKA,0.0444
+2035,Sri Lanka,LKA,0.0444
+2036,Sri Lanka,LKA,0.0444
+2037,Sri Lanka,LKA,0.0444
+2038,Sri Lanka,LKA,0.0444
+2039,Sri Lanka,LKA,0.0444
+2040,Sri Lanka,LKA,0.0444
+2041,Sri Lanka,LKA,0.0444
+2042,Sri Lanka,LKA,0.0444
+2043,Sri Lanka,LKA,0.0444
+2044,Sri Lanka,LKA,0.0344
+2045,Sri Lanka,LKA,0.0344
+2046,Sri Lanka,LKA,0.02
 2047,Sri Lanka,LKA,0.0
 2048,Sri Lanka,LKA,0.0
 2049,Sri Lanka,LKA,0.0
@@ -4112,32 +4060,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Sudan,SDN,0.0
 2054,Sudan,SDN,0.0
 2055,Sudan,SDN,0.0
-2021,Suriname,SUR,5.0
-2022,Suriname,SUR,5.0
-2023,Suriname,SUR,5.0
-2024,Suriname,SUR,5.0
-2025,Suriname,SUR,5.0
-2026,Suriname,SUR,5.0
-2027,Suriname,SUR,5.0
-2028,Suriname,SUR,5.0
-2029,Suriname,SUR,5.0
-2030,Suriname,SUR,5.0
-2031,Suriname,SUR,5.0
-2032,Suriname,SUR,5.0
-2033,Suriname,SUR,5.0
-2034,Suriname,SUR,5.0
-2035,Suriname,SUR,5.0
-2036,Suriname,SUR,5.0
-2037,Suriname,SUR,5.0
-2038,Suriname,SUR,5.0
-2039,Suriname,SUR,5.0
-2040,Suriname,SUR,5.0
-2041,Suriname,SUR,5.0
-2042,Suriname,SUR,5.0
-2043,Suriname,SUR,5.0
-2044,Suriname,SUR,5.0
-2045,Suriname,SUR,5.0
-2046,Suriname,SUR,5.0
+2021,Suriname,SUR,0.005
+2022,Suriname,SUR,0.005
+2023,Suriname,SUR,0.005
+2024,Suriname,SUR,0.005
+2025,Suriname,SUR,0.005
+2026,Suriname,SUR,0.005
+2027,Suriname,SUR,0.005
+2028,Suriname,SUR,0.005
+2029,Suriname,SUR,0.005
+2030,Suriname,SUR,0.005
+2031,Suriname,SUR,0.005
+2032,Suriname,SUR,0.005
+2033,Suriname,SUR,0.005
+2034,Suriname,SUR,0.005
+2035,Suriname,SUR,0.005
+2036,Suriname,SUR,0.005
+2037,Suriname,SUR,0.005
+2038,Suriname,SUR,0.005
+2039,Suriname,SUR,0.005
+2040,Suriname,SUR,0.005
+2041,Suriname,SUR,0.005
+2042,Suriname,SUR,0.005
+2043,Suriname,SUR,0.005
+2044,Suriname,SUR,0.005
+2045,Suriname,SUR,0.005
+2046,Suriname,SUR,0.005
+2047,Suriname,SUR,0.005
 2021,Sweden,SWE,0.0
 2022,Sweden,SWE,0.0
 2023,Sweden,SWE,0.0
@@ -4173,33 +4122,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Sweden,SWE,0.0
 2054,Sweden,SWE,0.0
 2055,Sweden,SWE,0.0
-2021,Switzerland,CHE,20.2
-2022,Switzerland,CHE,20.2
-2023,Switzerland,CHE,20.2
-2024,Switzerland,CHE,20.2
-2025,Switzerland,CHE,20.2
-2026,Switzerland,CHE,20.2
-2027,Switzerland,CHE,20.2
-2028,Switzerland,CHE,20.2
-2029,Switzerland,CHE,20.2
-2030,Switzerland,CHE,20.2
-2031,Switzerland,CHE,20.2
-2032,Switzerland,CHE,20.2
-2033,Switzerland,CHE,20.2
-2034,Switzerland,CHE,20.2
-2035,Switzerland,CHE,20.2
-2036,Switzerland,CHE,20.2
-2037,Switzerland,CHE,20.2
-2038,Switzerland,CHE,20.2
-2039,Switzerland,CHE,20.2
-2040,Switzerland,CHE,20.2
-2041,Switzerland,CHE,20.2
-2042,Switzerland,CHE,20.2
-2043,Switzerland,CHE,20.2
-2044,Switzerland,CHE,20.2
-2045,Switzerland,CHE,20.2
-2046,Switzerland,CHE,0.0
-2047,Switzerland,CHE,0.0
+2021,Switzerland,CHE,0.0202
+2022,Switzerland,CHE,0.0202
+2023,Switzerland,CHE,0.0202
+2024,Switzerland,CHE,0.0202
+2025,Switzerland,CHE,0.0202
+2026,Switzerland,CHE,0.0202
+2027,Switzerland,CHE,0.0202
+2028,Switzerland,CHE,0.0202
+2029,Switzerland,CHE,0.0202
+2030,Switzerland,CHE,0.0202
+2031,Switzerland,CHE,0.0202
+2032,Switzerland,CHE,0.0202
+2033,Switzerland,CHE,0.0202
+2034,Switzerland,CHE,0.0202
+2035,Switzerland,CHE,0.0202
+2036,Switzerland,CHE,0.0202
+2037,Switzerland,CHE,0.0202
+2038,Switzerland,CHE,0.0202
+2039,Switzerland,CHE,0.0202
+2040,Switzerland,CHE,0.0202
+2041,Switzerland,CHE,0.0202
+2042,Switzerland,CHE,0.0202
+2043,Switzerland,CHE,0.0202
+2044,Switzerland,CHE,0.0202
+2045,Switzerland,CHE,0.0202
+2046,Switzerland,CHE,0.0202
+2047,Switzerland,CHE,0.005200000000000001
 2048,Switzerland,CHE,0.0
 2049,Switzerland,CHE,0.0
 2050,Switzerland,CHE,0.0
@@ -4278,33 +4227,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Tajikistan,TJK,0.0
 2054,Tajikistan,TJK,0.0
 2055,Tajikistan,TJK,0.0
-2021,Thailand,THA,1348.7
-2022,Thailand,THA,1348.7
-2023,Thailand,THA,1348.7
-2024,Thailand,THA,1348.7
-2025,Thailand,THA,1348.7
-2026,Thailand,THA,1348.7
-2027,Thailand,THA,1348.7
-2028,Thailand,THA,1348.7
-2029,Thailand,THA,1348.7
-2030,Thailand,THA,1348.7
-2031,Thailand,THA,1348.7
-2032,Thailand,THA,1348.7
-2033,Thailand,THA,1348.7
-2034,Thailand,THA,1348.7
-2035,Thailand,THA,1348.7
-2036,Thailand,THA,1348.7
-2037,Thailand,THA,1324.9
-2038,Thailand,THA,1323.9
-2039,Thailand,THA,1321.8000000000004
-2040,Thailand,THA,1289.5
-2041,Thailand,THA,1242.6999999999996
-2042,Thailand,THA,1125.8000000000004
-2043,Thailand,THA,1074.5000000000002
-2044,Thailand,THA,938.1
-2045,Thailand,THA,792.7000000000003
-2046,Thailand,THA,636.6000000000001
-2047,Thailand,THA,484.3
+2021,Thailand,THA,1.3487
+2022,Thailand,THA,1.3487
+2023,Thailand,THA,1.3487
+2024,Thailand,THA,1.3487
+2025,Thailand,THA,1.3487
+2026,Thailand,THA,1.3487
+2027,Thailand,THA,1.3487
+2028,Thailand,THA,1.3487
+2029,Thailand,THA,1.3487
+2030,Thailand,THA,1.3487
+2031,Thailand,THA,1.3487
+2032,Thailand,THA,1.3487
+2033,Thailand,THA,1.3487
+2034,Thailand,THA,1.3487
+2035,Thailand,THA,1.3487
+2036,Thailand,THA,1.3487
+2037,Thailand,THA,1.3417
+2038,Thailand,THA,1.3407
+2039,Thailand,THA,1.3327
+2040,Thailand,THA,1.3231
+2041,Thailand,THA,1.2714
+2042,Thailand,THA,1.2129
+2043,Thailand,THA,1.0469000000000002
+2044,Thailand,THA,0.8489000000000002
+2045,Thailand,THA,0.5837000000000001
+2046,Thailand,THA,0.4916
+2047,Thailand,THA,0.4102
 2048,Thailand,THA,0.0
 2049,Thailand,THA,0.0
 2050,Thailand,THA,0.0
@@ -4361,22 +4310,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2031,Trinidad and Tobago,TTO,0.0
 2032,Trinidad and Tobago,TTO,0.0
 2033,Trinidad and Tobago,TTO,0.0
-2034,Trinidad and Tobago,TTO,0.0
-2035,Trinidad and Tobago,TTO,0.0
-2036,Trinidad and Tobago,TTO,0.0
-2037,Trinidad and Tobago,TTO,0.0
-2038,Trinidad and Tobago,TTO,0.0
-2039,Trinidad and Tobago,TTO,0.0
-2040,Trinidad and Tobago,TTO,0.0
-2041,Trinidad and Tobago,TTO,0.0
-2042,Trinidad and Tobago,TTO,0.0
-2043,Trinidad and Tobago,TTO,0.0
-2044,Trinidad and Tobago,TTO,0.0
-2045,Trinidad and Tobago,TTO,0.0
-2046,Trinidad and Tobago,TTO,0.0
-2047,Trinidad and Tobago,TTO,0.0
-2048,Trinidad and Tobago,TTO,0.0
-2049,Trinidad and Tobago,TTO,0.0
 2021,Tunisia,TUN,0.0
 2022,Tunisia,TUN,0.0
 2023,Tunisia,TUN,0.0
@@ -4438,33 +4371,42 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2044,Turkmenistan,TKM,0.0
 2045,Turkmenistan,TKM,0.0
 2046,Turkmenistan,TKM,0.0
-2021,Uganda,UGA,44.0
-2022,Uganda,UGA,44.0
-2023,Uganda,UGA,44.0
-2024,Uganda,UGA,44.0
-2025,Uganda,UGA,44.0
-2026,Uganda,UGA,44.0
-2027,Uganda,UGA,44.0
-2028,Uganda,UGA,44.0
-2029,Uganda,UGA,44.0
-2030,Uganda,UGA,44.0
-2031,Uganda,UGA,44.0
-2032,Uganda,UGA,44.0
-2033,Uganda,UGA,44.0
-2034,Uganda,UGA,44.0
-2035,Uganda,UGA,44.0
-2036,Uganda,UGA,44.0
-2037,Uganda,UGA,44.0
-2038,Uganda,UGA,44.0
-2039,Uganda,UGA,44.0
-2040,Uganda,UGA,44.0
-2041,Uganda,UGA,44.0
-2042,Uganda,UGA,44.0
-2043,Uganda,UGA,44.0
-2044,Uganda,UGA,34.0
-2045,Uganda,UGA,24.0
-2046,Uganda,UGA,24.0
-2047,Uganda,UGA,24.0
+2047,Turkmenistan,TKM,0.0
+2048,Turkmenistan,TKM,0.0
+2049,Turkmenistan,TKM,0.0
+2050,Turkmenistan,TKM,0.0
+2051,Turkmenistan,TKM,0.0
+2052,Turkmenistan,TKM,0.0
+2053,Turkmenistan,TKM,0.0
+2054,Turkmenistan,TKM,0.0
+2055,Turkmenistan,TKM,0.0
+2021,Uganda,UGA,0.044000000000000004
+2022,Uganda,UGA,0.044000000000000004
+2023,Uganda,UGA,0.044000000000000004
+2024,Uganda,UGA,0.044000000000000004
+2025,Uganda,UGA,0.044000000000000004
+2026,Uganda,UGA,0.044000000000000004
+2027,Uganda,UGA,0.044000000000000004
+2028,Uganda,UGA,0.044000000000000004
+2029,Uganda,UGA,0.044000000000000004
+2030,Uganda,UGA,0.044000000000000004
+2031,Uganda,UGA,0.044000000000000004
+2032,Uganda,UGA,0.044000000000000004
+2033,Uganda,UGA,0.044000000000000004
+2034,Uganda,UGA,0.044000000000000004
+2035,Uganda,UGA,0.044000000000000004
+2036,Uganda,UGA,0.044000000000000004
+2037,Uganda,UGA,0.044000000000000004
+2038,Uganda,UGA,0.044000000000000004
+2039,Uganda,UGA,0.044000000000000004
+2040,Uganda,UGA,0.044000000000000004
+2041,Uganda,UGA,0.044000000000000004
+2042,Uganda,UGA,0.044000000000000004
+2043,Uganda,UGA,0.034
+2044,Uganda,UGA,0.034
+2045,Uganda,UGA,0.034
+2046,Uganda,UGA,0.0
+2047,Uganda,UGA,0.0
 2048,Uganda,UGA,0.0
 2049,Uganda,UGA,0.0
 2050,Uganda,UGA,0.0
@@ -4473,33 +4415,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Uganda,UGA,0.0
 2054,Uganda,UGA,0.0
 2055,Uganda,UGA,0.0
-2021,Ukraine,UKR,715.8
-2022,Ukraine,UKR,715.8
-2023,Ukraine,UKR,715.8
-2024,Ukraine,UKR,715.8
-2025,Ukraine,UKR,715.8
-2026,Ukraine,UKR,715.8
-2027,Ukraine,UKR,715.8
-2028,Ukraine,UKR,715.8
-2029,Ukraine,UKR,715.8
-2030,Ukraine,UKR,715.8
-2031,Ukraine,UKR,715.8
-2032,Ukraine,UKR,715.8
-2033,Ukraine,UKR,715.8
-2034,Ukraine,UKR,715.8
-2035,Ukraine,UKR,715.8
-2036,Ukraine,UKR,715.8
-2037,Ukraine,UKR,715.8
-2038,Ukraine,UKR,715.8
-2039,Ukraine,UKR,715.8
-2040,Ukraine,UKR,705.0999999999998
-2041,Ukraine,UKR,705.0999999999998
-2042,Ukraine,UKR,701.0999999999998
-2043,Ukraine,UKR,665.9999999999999
-2044,Ukraine,UKR,562.3
-2045,Ukraine,UKR,407.6
-2046,Ukraine,UKR,324.4
-2047,Ukraine,UKR,290.3
+2021,Ukraine,UKR,0.7158
+2022,Ukraine,UKR,0.7158
+2023,Ukraine,UKR,0.7158
+2024,Ukraine,UKR,0.7158
+2025,Ukraine,UKR,0.7158
+2026,Ukraine,UKR,0.7158
+2027,Ukraine,UKR,0.7158
+2028,Ukraine,UKR,0.7158
+2029,Ukraine,UKR,0.7158
+2030,Ukraine,UKR,0.7158
+2031,Ukraine,UKR,0.7158
+2032,Ukraine,UKR,0.7158
+2033,Ukraine,UKR,0.7158
+2034,Ukraine,UKR,0.7158
+2035,Ukraine,UKR,0.7158
+2036,Ukraine,UKR,0.7158
+2037,Ukraine,UKR,0.7158
+2038,Ukraine,UKR,0.7158
+2039,Ukraine,UKR,0.7158
+2040,Ukraine,UKR,0.6723999999999999
+2041,Ukraine,UKR,0.6723999999999999
+2042,Ukraine,UKR,0.6523999999999999
+2043,Ukraine,UKR,0.5892
+2044,Ukraine,UKR,0.4932000000000001
+2045,Ukraine,UKR,0.3401
+2046,Ukraine,UKR,0.16770000000000002
+2047,Ukraine,UKR,0.14150000000000004
 2048,Ukraine,UKR,0.0
 2049,Ukraine,UKR,0.0
 2050,Ukraine,UKR,0.0
@@ -4508,95 +4450,92 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Ukraine,UKR,0.0
 2054,Ukraine,UKR,0.0
 2055,Ukraine,UKR,0.0
-2021,United Arab Emirates,ARE,840.0
-2022,United Arab Emirates,ARE,840.0
-2023,United Arab Emirates,ARE,840.0
-2024,United Arab Emirates,ARE,840.0
-2025,United Arab Emirates,ARE,840.0
-2026,United Arab Emirates,ARE,840.0
-2027,United Arab Emirates,ARE,840.0
-2028,United Arab Emirates,ARE,840.0
-2029,United Arab Emirates,ARE,840.0
-2030,United Arab Emirates,ARE,840.0
-2031,United Arab Emirates,ARE,840.0
-2032,United Arab Emirates,ARE,840.0
-2033,United Arab Emirates,ARE,840.0
-2034,United Arab Emirates,ARE,840.0
-2035,United Arab Emirates,ARE,840.0
-2036,United Arab Emirates,ARE,840.0
-2037,United Arab Emirates,ARE,840.0
-2038,United Arab Emirates,ARE,840.0
-2039,United Arab Emirates,ARE,840.0
-2040,United Arab Emirates,ARE,840.0
-2041,United Arab Emirates,ARE,840.0
-2042,United Arab Emirates,ARE,840.0
-2043,United Arab Emirates,ARE,720.0
-2044,United Arab Emirates,ARE,720.0
-2045,United Arab Emirates,ARE,720.0
-2046,United Arab Emirates,ARE,720.0
-2047,United Arab Emirates,ARE,500.0
-2021,United States of America,USA,37613.75000000003
-2022,United States of America,USA,37613.75000000003
-2023,United States of America,USA,37613.75000000003
-2024,United States of America,USA,37613.75000000003
-2025,United States of America,USA,37613.75000000003
-2026,United States of America,USA,37613.75000000003
-2027,United States of America,USA,37613.75000000003
-2028,United States of America,USA,37613.75000000003
-2029,United States of America,USA,37613.75000000003
-2030,United States of America,USA,37613.75000000003
-2031,United States of America,USA,37613.75000000003
-2032,United States of America,USA,37610.75000000003
-2033,United States of America,USA,37610.75000000003
-2034,United States of America,USA,37610.75000000003
-2035,United States of America,USA,37609.55000000003
-2036,United States of America,USA,37532.85000000003
-2037,United States of America,USA,37514.85000000003
-2038,United States of America,USA,37482.45000000002
-2039,United States of America,USA,37405.75000000002
-2040,United States of America,USA,37176.95000000001
-2041,United States of America,USA,36620.650000000016
-2042,United States of America,USA,35206.05000000002
-2043,United States of America,USA,30880.05000000001
-2044,United States of America,USA,27821.65000000001
-2045,United States of America,USA,24571.20000000002
-2046,United States of America,USA,18492.100000000013
-2047,United States of America,USA,11982.8
-2048,United States of America,USA,6565.799999999997
-2049,United States of America,USA,1955.1
+2021,United Arab Emirates,ARE,0.84
+2022,United Arab Emirates,ARE,0.84
+2023,United Arab Emirates,ARE,0.84
+2024,United Arab Emirates,ARE,0.84
+2025,United Arab Emirates,ARE,0.84
+2026,United Arab Emirates,ARE,0.84
+2027,United Arab Emirates,ARE,0.84
+2028,United Arab Emirates,ARE,0.84
+2029,United Arab Emirates,ARE,0.84
+2030,United Arab Emirates,ARE,0.84
+2031,United Arab Emirates,ARE,0.84
+2032,United Arab Emirates,ARE,0.84
+2033,United Arab Emirates,ARE,0.84
+2034,United Arab Emirates,ARE,0.84
+2035,United Arab Emirates,ARE,0.84
+2036,United Arab Emirates,ARE,0.84
+2037,United Arab Emirates,ARE,0.84
+2038,United Arab Emirates,ARE,0.84
+2039,United Arab Emirates,ARE,0.84
+2040,United Arab Emirates,ARE,0.84
+2041,United Arab Emirates,ARE,0.84
+2042,United Arab Emirates,ARE,0.84
+2043,United Arab Emirates,ARE,0.42
+2044,United Arab Emirates,ARE,0.42
+2021,United States of America,USA,37.61375000000003
+2022,United States of America,USA,37.61375000000003
+2023,United States of America,USA,37.61375000000003
+2024,United States of America,USA,37.61375000000003
+2025,United States of America,USA,37.61375000000003
+2026,United States of America,USA,37.61375000000003
+2027,United States of America,USA,37.61375000000003
+2028,United States of America,USA,37.61375000000003
+2029,United States of America,USA,37.61375000000003
+2030,United States of America,USA,37.61375000000003
+2031,United States of America,USA,37.61375000000003
+2032,United States of America,USA,37.61075000000003
+2033,United States of America,USA,37.61075000000003
+2034,United States of America,USA,37.61075000000003
+2035,United States of America,USA,37.609550000000034
+2036,United States of America,USA,37.60855000000004
+2037,United States of America,USA,37.51485000000003
+2038,United States of America,USA,37.489650000000026
+2039,United States of America,USA,37.39735000000002
+2040,United States of America,USA,37.175550000000015
+2041,United States of America,USA,36.65205000000001
+2042,United States of America,USA,35.11985000000001
+2043,United States of America,USA,30.876950000000008
+2044,United States of America,USA,27.81665000000001
+2045,United States of America,USA,24.726100000000013
+2046,United States of America,USA,18.486000000000008
+2047,United States of America,USA,11.9673
+2048,United States of America,USA,6.893999999999999
+2049,United States of America,USA,2.0551000000000004
 2050,United States of America,USA,0.0
 2051,United States of America,USA,0.0
 2052,United States of America,USA,0.0
 2053,United States of America,USA,0.0
 2054,United States of America,USA,0.0
 2055,United States of America,USA,0.0
-2021,Uruguay,URY,225.01
-2022,Uruguay,URY,225.01
-2023,Uruguay,URY,225.01
-2024,Uruguay,URY,225.01
-2025,Uruguay,URY,225.01
-2026,Uruguay,URY,225.01
-2027,Uruguay,URY,225.01
-2028,Uruguay,URY,225.01
-2029,Uruguay,URY,225.01
-2030,Uruguay,URY,225.01
-2031,Uruguay,URY,225.01
-2032,Uruguay,URY,225.01
-2033,Uruguay,URY,225.01
-2034,Uruguay,URY,225.01
-2035,Uruguay,URY,225.01
-2036,Uruguay,URY,225.01
-2037,Uruguay,URY,225.01
-2038,Uruguay,URY,225.01
-2039,Uruguay,URY,225.01
-2040,Uruguay,URY,225.01
-2041,Uruguay,URY,209.01
-2042,Uruguay,URY,209.01
-2043,Uruguay,URY,209.01
-2044,Uruguay,URY,197.75
-2045,Uruguay,URY,119.0
-2046,Uruguay,URY,79.5
-2047,Uruguay,URY,79.5
+2021,Uruguay,URY,0.22501
+2022,Uruguay,URY,0.22501
+2023,Uruguay,URY,0.22501
+2024,Uruguay,URY,0.22501
+2025,Uruguay,URY,0.22501
+2026,Uruguay,URY,0.22501
+2027,Uruguay,URY,0.22501
+2028,Uruguay,URY,0.22501
+2029,Uruguay,URY,0.22501
+2030,Uruguay,URY,0.22501
+2031,Uruguay,URY,0.22501
+2032,Uruguay,URY,0.22501
+2033,Uruguay,URY,0.22501
+2034,Uruguay,URY,0.22501
+2035,Uruguay,URY,0.22501
+2036,Uruguay,URY,0.22501
+2037,Uruguay,URY,0.22501
+2038,Uruguay,URY,0.22501
+2039,Uruguay,URY,0.21700999999999998
+2040,Uruguay,URY,0.21700999999999998
+2041,Uruguay,URY,0.16701
+2042,Uruguay,URY,0.16701
+2043,Uruguay,URY,0.15575
+2044,Uruguay,URY,0.11625
+2045,Uruguay,URY,0.08125
+2046,Uruguay,URY,0.06125
+2047,Uruguay,URY,0.06125
 2048,Uruguay,URY,0.0
 2049,Uruguay,URY,0.0
 2050,Uruguay,URY,0.0
@@ -4605,27 +4544,27 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Uruguay,URY,0.0
 2054,Uruguay,URY,0.0
 2055,Uruguay,URY,0.0
-2021,Uzbekistan,UZB,100.0
-2022,Uzbekistan,UZB,100.0
-2023,Uzbekistan,UZB,100.0
-2024,Uzbekistan,UZB,100.0
-2025,Uzbekistan,UZB,100.0
-2026,Uzbekistan,UZB,100.0
-2027,Uzbekistan,UZB,100.0
-2028,Uzbekistan,UZB,100.0
-2029,Uzbekistan,UZB,100.0
-2030,Uzbekistan,UZB,100.0
-2031,Uzbekistan,UZB,100.0
-2032,Uzbekistan,UZB,100.0
-2033,Uzbekistan,UZB,100.0
-2034,Uzbekistan,UZB,100.0
-2035,Uzbekistan,UZB,100.0
-2036,Uzbekistan,UZB,100.0
-2037,Uzbekistan,UZB,100.0
-2038,Uzbekistan,UZB,100.0
-2039,Uzbekistan,UZB,0.0
-2040,Uzbekistan,UZB,0.0
-2041,Uzbekistan,UZB,0.0
+2021,Uzbekistan,UZB,0.1
+2022,Uzbekistan,UZB,0.1
+2023,Uzbekistan,UZB,0.1
+2024,Uzbekistan,UZB,0.1
+2025,Uzbekistan,UZB,0.1
+2026,Uzbekistan,UZB,0.1
+2027,Uzbekistan,UZB,0.1
+2028,Uzbekistan,UZB,0.1
+2029,Uzbekistan,UZB,0.1
+2030,Uzbekistan,UZB,0.1
+2031,Uzbekistan,UZB,0.1
+2032,Uzbekistan,UZB,0.1
+2033,Uzbekistan,UZB,0.1
+2034,Uzbekistan,UZB,0.1
+2035,Uzbekistan,UZB,0.1
+2036,Uzbekistan,UZB,0.1
+2037,Uzbekistan,UZB,0.1
+2038,Uzbekistan,UZB,0.1
+2039,Uzbekistan,UZB,0.1
+2040,Uzbekistan,UZB,0.1
+2041,Uzbekistan,UZB,0.1
 2042,Uzbekistan,UZB,0.0
 2043,Uzbekistan,UZB,0.0
 2044,Uzbekistan,UZB,0.0
@@ -4640,22 +4579,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2053,Uzbekistan,UZB,0.0
 2054,Uzbekistan,UZB,0.0
 2055,Uzbekistan,UZB,0.0
-2021,Western Sahara,ESH,0.0
-2022,Western Sahara,ESH,0.0
-2023,Western Sahara,ESH,0.0
-2024,Western Sahara,ESH,0.0
-2025,Western Sahara,ESH,0.0
-2026,Western Sahara,ESH,0.0
-2027,Western Sahara,ESH,0.0
-2028,Western Sahara,ESH,0.0
-2029,Western Sahara,ESH,0.0
-2030,Western Sahara,ESH,0.0
-2031,Western Sahara,ESH,0.0
-2032,Western Sahara,ESH,0.0
-2033,Western Sahara,ESH,0.0
-2034,Western Sahara,ESH,0.0
-2035,Western Sahara,ESH,0.0
-2036,Western Sahara,ESH,0.0
 2021,Yemen,YEM,0.0
 2022,Yemen,YEM,0.0
 2023,Yemen,YEM,0.0
@@ -4683,33 +4606,41 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2045,Yemen,YEM,0.0
 2046,Yemen,YEM,0.0
 2047,Yemen,YEM,0.0
-2021,Zambia,ZMB,47.5
-2022,Zambia,ZMB,47.5
-2023,Zambia,ZMB,47.5
-2024,Zambia,ZMB,47.5
-2025,Zambia,ZMB,47.5
-2026,Zambia,ZMB,47.5
-2027,Zambia,ZMB,47.5
-2028,Zambia,ZMB,47.5
-2029,Zambia,ZMB,47.5
-2030,Zambia,ZMB,47.5
-2031,Zambia,ZMB,47.5
-2032,Zambia,ZMB,47.5
-2033,Zambia,ZMB,47.5
-2034,Zambia,ZMB,47.5
-2035,Zambia,ZMB,47.5
-2036,Zambia,ZMB,47.5
-2037,Zambia,ZMB,47.5
-2038,Zambia,ZMB,47.5
-2039,Zambia,ZMB,47.5
-2040,Zambia,ZMB,47.5
-2041,Zambia,ZMB,47.5
-2042,Zambia,ZMB,47.5
-2043,Zambia,ZMB,47.5
-2044,Zambia,ZMB,47.5
-2045,Zambia,ZMB,47.5
-2046,Zambia,ZMB,47.5
-2047,Zambia,ZMB,47.5
+2048,Yemen,YEM,0.0
+2049,Yemen,YEM,0.0
+2050,Yemen,YEM,0.0
+2051,Yemen,YEM,0.0
+2052,Yemen,YEM,0.0
+2053,Yemen,YEM,0.0
+2054,Yemen,YEM,0.0
+2055,Yemen,YEM,0.0
+2021,Zambia,ZMB,0.0475
+2022,Zambia,ZMB,0.0475
+2023,Zambia,ZMB,0.0475
+2024,Zambia,ZMB,0.0475
+2025,Zambia,ZMB,0.0475
+2026,Zambia,ZMB,0.0475
+2027,Zambia,ZMB,0.0475
+2028,Zambia,ZMB,0.0475
+2029,Zambia,ZMB,0.0475
+2030,Zambia,ZMB,0.0475
+2031,Zambia,ZMB,0.0475
+2032,Zambia,ZMB,0.0475
+2033,Zambia,ZMB,0.0475
+2034,Zambia,ZMB,0.0475
+2035,Zambia,ZMB,0.0475
+2036,Zambia,ZMB,0.0475
+2037,Zambia,ZMB,0.0475
+2038,Zambia,ZMB,0.0475
+2039,Zambia,ZMB,0.0475
+2040,Zambia,ZMB,0.0475
+2041,Zambia,ZMB,0.0475
+2042,Zambia,ZMB,0.0475
+2043,Zambia,ZMB,0.0475
+2044,Zambia,ZMB,0.0475
+2045,Zambia,ZMB,0.0475
+2046,Zambia,ZMB,0.0
+2047,Zambia,ZMB,0.0
 2048,Zambia,ZMB,0.0
 2049,Zambia,ZMB,0.0
 2050,Zambia,ZMB,0.0
@@ -4749,3 +4680,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2049,Zimbabwe,ZWE,0.0
 2050,Zimbabwe,ZWE,0.0
 2051,Zimbabwe,ZWE,0.0
+2052,Zimbabwe,ZWE,0.0
+2053,Zimbabwe,ZWE,0.0
+2054,Zimbabwe,ZWE,0.0
+2055,Zimbabwe,ZWE,0.0

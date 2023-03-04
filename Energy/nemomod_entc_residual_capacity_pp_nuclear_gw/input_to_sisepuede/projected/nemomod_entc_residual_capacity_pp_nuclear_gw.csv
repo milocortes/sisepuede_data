@@ -148,29 +148,29 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2031,Antarctica,ATA,0.0
 2032,Antarctica,ATA,0.0
 2033,Antarctica,ATA,0.0
-2021,Argentina,ARG,745.0
-2022,Argentina,ARG,745.0
-2023,Argentina,ARG,745.0
-2024,Argentina,ARG,745.0
-2025,Argentina,ARG,745.0
-2026,Argentina,ARG,745.0
-2027,Argentina,ARG,745.0
-2028,Argentina,ARG,745.0
-2029,Argentina,ARG,745.0
-2030,Argentina,ARG,745.0
-2031,Argentina,ARG,745.0
-2032,Argentina,ARG,745.0
-2033,Argentina,ARG,745.0
-2034,Argentina,ARG,745.0
-2035,Argentina,ARG,745.0
-2036,Argentina,ARG,745.0
-2037,Argentina,ARG,745.0
-2038,Argentina,ARG,745.0
-2039,Argentina,ARG,745.0
-2040,Argentina,ARG,745.0
-2041,Argentina,ARG,745.0
-2042,Argentina,ARG,745.0
-2043,Argentina,ARG,745.0
+2021,Argentina,ARG,0.745
+2022,Argentina,ARG,0.745
+2023,Argentina,ARG,0.745
+2024,Argentina,ARG,0.745
+2025,Argentina,ARG,0.745
+2026,Argentina,ARG,0.745
+2027,Argentina,ARG,0.745
+2028,Argentina,ARG,0.745
+2029,Argentina,ARG,0.745
+2030,Argentina,ARG,0.745
+2031,Argentina,ARG,0.745
+2032,Argentina,ARG,0.745
+2033,Argentina,ARG,0.745
+2034,Argentina,ARG,0.745
+2035,Argentina,ARG,0.745
+2036,Argentina,ARG,0.745
+2037,Argentina,ARG,0.745
+2038,Argentina,ARG,0.745
+2039,Argentina,ARG,0.745
+2040,Argentina,ARG,0.745
+2041,Argentina,ARG,0.745
+2042,Argentina,ARG,0.745
+2043,Argentina,ARG,0.745
 2044,Argentina,ARG,0.0
 2045,Argentina,ARG,0.0
 2046,Argentina,ARG,0.0
@@ -555,15 +555,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2053,Botswana,BWA,0.0
 2054,Botswana,BWA,0.0
 2055,Botswana,BWA,0.0
-2021,Brazil,BRA,1350.0
-2022,Brazil,BRA,1350.0
-2023,Brazil,BRA,1350.0
-2024,Brazil,BRA,1350.0
-2025,Brazil,BRA,1350.0
-2026,Brazil,BRA,1350.0
-2027,Brazil,BRA,1350.0
-2028,Brazil,BRA,1350.0
-2029,Brazil,BRA,1350.0
+2021,Brazil,BRA,1.35
+2022,Brazil,BRA,1.35
+2023,Brazil,BRA,1.35
+2024,Brazil,BRA,1.35
+2025,Brazil,BRA,1.35
+2026,Brazil,BRA,1.35
+2027,Brazil,BRA,1.35
+2028,Brazil,BRA,1.35
+2029,Brazil,BRA,1.35
 2030,Brazil,BRA,0.0
 2031,Brazil,BRA,0.0
 2032,Brazil,BRA,0.0
@@ -787,18 +787,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2053,Cameroon,CMR,0.0
 2054,Cameroon,CMR,0.0
 2055,Cameroon,CMR,0.0
-2021,Canada,CAN,3390.0
-2022,Canada,CAN,3390.0
-2023,Canada,CAN,3390.0
-2024,Canada,CAN,3390.0
-2025,Canada,CAN,3390.0
-2026,Canada,CAN,3390.0
-2027,Canada,CAN,3390.0
-2028,Canada,CAN,3390.0
-2029,Canada,CAN,0.0
-2030,Canada,CAN,0.0
-2031,Canada,CAN,0.0
-2032,Canada,CAN,0.0
+2021,Canada,CAN,6.96
+2022,Canada,CAN,6.96
+2023,Canada,CAN,6.96
+2024,Canada,CAN,6.96
+2025,Canada,CAN,6.96
+2026,Canada,CAN,6.96
+2027,Canada,CAN,6.96
+2028,Canada,CAN,6.96
+2029,Canada,CAN,3.74
+2030,Canada,CAN,3.74
+2031,Canada,CAN,3.74
+2032,Canada,CAN,3.74
 2033,Canada,CAN,0.0
 2034,Canada,CAN,0.0
 2035,Canada,CAN,0.0
@@ -822,41 +822,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2053,Canada,CAN,0.0
 2054,Canada,CAN,0.0
 2055,Canada,CAN,0.0
-2021,Central African Republic,CAF,0.0
-2022,Central African Republic,CAF,0.0
-2023,Central African Republic,CAF,0.0
-2024,Central African Republic,CAF,0.0
-2025,Central African Republic,CAF,0.0
-2026,Central African Republic,CAF,0.0
-2027,Central African Republic,CAF,0.0
-2028,Central African Republic,CAF,0.0
-2029,Central African Republic,CAF,0.0
-2030,Central African Republic,CAF,0.0
-2031,Central African Republic,CAF,0.0
-2032,Central African Republic,CAF,0.0
-2033,Central African Republic,CAF,0.0
-2034,Central African Republic,CAF,0.0
-2035,Central African Republic,CAF,0.0
-2036,Central African Republic,CAF,0.0
-2037,Central African Republic,CAF,0.0
-2038,Central African Republic,CAF,0.0
-2039,Central African Republic,CAF,0.0
-2040,Central African Republic,CAF,0.0
-2041,Central African Republic,CAF,0.0
-2042,Central African Republic,CAF,0.0
-2043,Central African Republic,CAF,0.0
-2044,Central African Republic,CAF,0.0
-2045,Central African Republic,CAF,0.0
-2046,Central African Republic,CAF,0.0
-2047,Central African Republic,CAF,0.0
-2048,Central African Republic,CAF,0.0
-2049,Central African Republic,CAF,0.0
-2050,Central African Republic,CAF,0.0
-2051,Central African Republic,CAF,0.0
-2052,Central African Republic,CAF,0.0
-2053,Central African Republic,CAF,0.0
-2054,Central African Republic,CAF,0.0
-2055,Central African Republic,CAF,0.0
 2021,Chile,CHL,0.0
 2022,Chile,CHL,0.0
 2023,Chile,CHL,0.0
@@ -892,17 +857,17 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2053,Chile,CHL,0.0
 2054,Chile,CHL,0.0
 2055,Chile,CHL,0.0
-2021,China,CHN,8125.0
-2022,China,CHN,4024.0
-2023,China,CHN,4024.0
-2024,China,CHN,2024.0
-2025,China,CHN,0.0
-2026,China,CHN,0.0
-2027,China,CHN,0.0
-2028,China,CHN,0.0
-2029,China,CHN,0.0
-2030,China,CHN,0.0
-2031,China,CHN,0.0
+2021,China,CHN,7.989
+2022,China,CHN,7.989
+2023,China,CHN,7.989
+2024,China,CHN,7.989
+2025,China,CHN,5.989
+2026,China,CHN,5.989
+2027,China,CHN,5.989
+2028,China,CHN,5.989
+2029,China,CHN,5.989
+2030,China,CHN,4.101
+2031,China,CHN,4.101
 2032,China,CHN,0.0
 2033,China,CHN,0.0
 2034,China,CHN,0.0
@@ -1117,20 +1082,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2033,Cyprus,CYP,0.0
 2034,Cyprus,CYP,0.0
 2035,Cyprus,CYP,0.0
-2036,Cyprus,CYP,0.0
-2037,Cyprus,CYP,0.0
-2038,Cyprus,CYP,0.0
-2039,Cyprus,CYP,0.0
-2040,Cyprus,CYP,0.0
-2041,Cyprus,CYP,0.0
-2042,Cyprus,CYP,0.0
-2043,Cyprus,CYP,0.0
-2044,Cyprus,CYP,0.0
-2045,Cyprus,CYP,0.0
-2046,Cyprus,CYP,0.0
-2047,Cyprus,CYP,0.0
-2048,Cyprus,CYP,0.0
-2049,Cyprus,CYP,0.0
 2021,Democratic Republic of the Congo,COD,0.0
 2022,Democratic Republic of the Congo,COD,0.0
 2023,Democratic Republic of the Congo,COD,0.0
@@ -1193,18 +1144,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2045,Denmark,DNK,0.0
 2046,Denmark,DNK,0.0
 2047,Denmark,DNK,0.0
-2048,Denmark,DNK,0.0
-2049,Denmark,DNK,0.0
-2050,Denmark,DNK,0.0
-2051,Denmark,DNK,0.0
-2052,Denmark,DNK,0.0
-2053,Denmark,DNK,0.0
-2054,Denmark,DNK,0.0
-2055,Denmark,DNK,0.0
 2021,Djibouti,DJI,0.0
 2022,Djibouti,DJI,0.0
 2023,Djibouti,DJI,0.0
 2024,Djibouti,DJI,0.0
+2025,Djibouti,DJI,0.0
+2026,Djibouti,DJI,0.0
+2027,Djibouti,DJI,0.0
+2028,Djibouti,DJI,0.0
 2021,Dominican Republic,DOM,0.0
 2022,Dominican Republic,DOM,0.0
 2023,Dominican Republic,DOM,0.0
@@ -1366,6 +1313,20 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2039,Equatorial Guinea,GNQ,0.0
 2040,Equatorial Guinea,GNQ,0.0
 2041,Equatorial Guinea,GNQ,0.0
+2042,Equatorial Guinea,GNQ,0.0
+2043,Equatorial Guinea,GNQ,0.0
+2044,Equatorial Guinea,GNQ,0.0
+2045,Equatorial Guinea,GNQ,0.0
+2046,Equatorial Guinea,GNQ,0.0
+2047,Equatorial Guinea,GNQ,0.0
+2048,Equatorial Guinea,GNQ,0.0
+2049,Equatorial Guinea,GNQ,0.0
+2050,Equatorial Guinea,GNQ,0.0
+2051,Equatorial Guinea,GNQ,0.0
+2052,Equatorial Guinea,GNQ,0.0
+2053,Equatorial Guinea,GNQ,0.0
+2054,Equatorial Guinea,GNQ,0.0
+2055,Equatorial Guinea,GNQ,0.0
 2021,Eritrea,ERI,0.0
 2022,Eritrea,ERI,0.0
 2023,Eritrea,ERI,0.0
@@ -1395,6 +1356,12 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2047,Eritrea,ERI,0.0
 2048,Eritrea,ERI,0.0
 2049,Eritrea,ERI,0.0
+2050,Eritrea,ERI,0.0
+2051,Eritrea,ERI,0.0
+2052,Eritrea,ERI,0.0
+2053,Eritrea,ERI,0.0
+2054,Eritrea,ERI,0.0
+2055,Eritrea,ERI,0.0
 2021,Estonia,EST,0.0
 2022,Estonia,EST,0.0
 2023,Estonia,EST,0.0
@@ -1500,16 +1467,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2053,Fiji,FJI,0.0
 2054,Fiji,FJI,0.0
 2055,Fiji,FJI,0.0
-2021,Finland,FIN,992.0
-2022,Finland,FIN,992.0
-2023,Finland,FIN,992.0
-2024,Finland,FIN,992.0
-2025,Finland,FIN,992.0
-2026,Finland,FIN,0.0
-2027,Finland,FIN,0.0
-2028,Finland,FIN,0.0
-2029,Finland,FIN,0.0
-2030,Finland,FIN,0.0
+2021,Finland,FIN,0.992
+2022,Finland,FIN,0.992
+2023,Finland,FIN,0.992
+2024,Finland,FIN,0.992
+2025,Finland,FIN,0.992
+2026,Finland,FIN,0.992
+2027,Finland,FIN,0.992
+2028,Finland,FIN,0.992
+2029,Finland,FIN,0.992
+2030,Finland,FIN,0.992
 2031,Finland,FIN,0.0
 2032,Finland,FIN,0.0
 2033,Finland,FIN,0.0
@@ -1535,31 +1502,31 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2053,Finland,FIN,0.0
 2054,Finland,FIN,0.0
 2055,Finland,FIN,0.0
-2021,France,FRA,12250.0
-2022,France,FRA,12250.0
-2023,France,FRA,12250.0
-2024,France,FRA,12250.0
-2025,France,FRA,12250.0
-2026,France,FRA,9630.0
-2027,France,FRA,7870.0
-2028,France,FRA,7870.0
-2029,France,FRA,7870.0
-2030,France,FRA,7870.0
-2031,France,FRA,7870.0
-2032,France,FRA,7870.0
-2033,France,FRA,2670.0
-2034,France,FRA,2670.0
-2035,France,FRA,2670.0
-2036,France,FRA,2670.0
-2037,France,FRA,2670.0
-2038,France,FRA,2670.0
-2039,France,FRA,2670.0
-2040,France,FRA,2670.0
-2041,France,FRA,2670.0
-2042,France,FRA,2670.0
-2043,France,FRA,2670.0
-2044,France,FRA,2670.0
-2045,France,FRA,2670.0
+2021,France,FRA,12.42
+2022,France,FRA,6.96
+2023,France,FRA,6.96
+2024,France,FRA,1.76
+2025,France,FRA,1.76
+2026,France,FRA,1.76
+2027,France,FRA,1.76
+2028,France,FRA,1.76
+2029,France,FRA,0.0
+2030,France,FRA,0.0
+2031,France,FRA,0.0
+2032,France,FRA,0.0
+2033,France,FRA,0.0
+2034,France,FRA,0.0
+2035,France,FRA,0.0
+2036,France,FRA,0.0
+2037,France,FRA,0.0
+2038,France,FRA,0.0
+2039,France,FRA,0.0
+2040,France,FRA,0.0
+2041,France,FRA,0.0
+2042,France,FRA,0.0
+2043,France,FRA,0.0
+2044,France,FRA,0.0
+2045,France,FRA,0.0
 2046,France,FRA,0.0
 2047,France,FRA,0.0
 2048,France,FRA,0.0
@@ -1645,6 +1612,23 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2023,Gambia,GMB,0.0
 2024,Gambia,GMB,0.0
 2025,Gambia,GMB,0.0
+2026,Gambia,GMB,0.0
+2027,Gambia,GMB,0.0
+2028,Gambia,GMB,0.0
+2029,Gambia,GMB,0.0
+2030,Gambia,GMB,0.0
+2031,Gambia,GMB,0.0
+2032,Gambia,GMB,0.0
+2033,Gambia,GMB,0.0
+2034,Gambia,GMB,0.0
+2035,Gambia,GMB,0.0
+2036,Gambia,GMB,0.0
+2037,Gambia,GMB,0.0
+2038,Gambia,GMB,0.0
+2039,Gambia,GMB,0.0
+2040,Gambia,GMB,0.0
+2041,Gambia,GMB,0.0
+2042,Gambia,GMB,0.0
 2021,Georgia,GEO,0.0
 2022,Georgia,GEO,0.0
 2023,Georgia,GEO,0.0
@@ -1855,41 +1839,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2053,Guinea,GIN,0.0
 2054,Guinea,GIN,0.0
 2055,Guinea,GIN,0.0
-2021,Guinea-Bissau,GNB,0.0
-2022,Guinea-Bissau,GNB,0.0
-2023,Guinea-Bissau,GNB,0.0
-2024,Guinea-Bissau,GNB,0.0
-2025,Guinea-Bissau,GNB,0.0
-2026,Guinea-Bissau,GNB,0.0
-2027,Guinea-Bissau,GNB,0.0
-2028,Guinea-Bissau,GNB,0.0
-2029,Guinea-Bissau,GNB,0.0
-2030,Guinea-Bissau,GNB,0.0
-2031,Guinea-Bissau,GNB,0.0
-2032,Guinea-Bissau,GNB,0.0
-2033,Guinea-Bissau,GNB,0.0
-2034,Guinea-Bissau,GNB,0.0
-2035,Guinea-Bissau,GNB,0.0
-2036,Guinea-Bissau,GNB,0.0
-2037,Guinea-Bissau,GNB,0.0
-2038,Guinea-Bissau,GNB,0.0
-2039,Guinea-Bissau,GNB,0.0
-2040,Guinea-Bissau,GNB,0.0
-2041,Guinea-Bissau,GNB,0.0
-2042,Guinea-Bissau,GNB,0.0
-2043,Guinea-Bissau,GNB,0.0
-2044,Guinea-Bissau,GNB,0.0
-2045,Guinea-Bissau,GNB,0.0
-2046,Guinea-Bissau,GNB,0.0
-2047,Guinea-Bissau,GNB,0.0
-2048,Guinea-Bissau,GNB,0.0
-2049,Guinea-Bissau,GNB,0.0
-2050,Guinea-Bissau,GNB,0.0
-2051,Guinea-Bissau,GNB,0.0
-2052,Guinea-Bissau,GNB,0.0
-2053,Guinea-Bissau,GNB,0.0
-2054,Guinea-Bissau,GNB,0.0
-2055,Guinea-Bissau,GNB,0.0
 2021,Guyana,GUY,0.0
 2022,Guyana,GUY,0.0
 2023,Guyana,GUY,0.0
@@ -1905,8 +1854,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2033,Guyana,GUY,0.0
 2034,Guyana,GUY,0.0
 2035,Guyana,GUY,0.0
-2036,Guyana,GUY,0.0
-2037,Guyana,GUY,0.0
 2021,Honduras,HND,0.0
 2022,Honduras,HND,0.0
 2023,Honduras,HND,0.0
@@ -1968,6 +1915,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2044,Hungary,HUN,0.0
 2045,Hungary,HUN,0.0
 2046,Hungary,HUN,0.0
+2047,Hungary,HUN,0.0
 2021,Iceland,ISL,0.0
 2022,Iceland,ISL,0.0
 2023,Iceland,ISL,0.0
@@ -2003,30 +1951,30 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2053,Iceland,ISL,0.0
 2054,Iceland,ISL,0.0
 2055,Iceland,ISL,0.0
-2021,India,IND,5800.0
-2022,India,IND,5800.0
-2023,India,IND,5360.0
-2024,India,IND,5360.0
-2025,India,IND,5360.0
-2026,India,IND,3960.0
-2027,India,IND,3960.0
-2028,India,IND,3960.0
-2029,India,IND,3960.0
-2030,India,IND,2880.0
-2031,India,IND,2880.0
-2032,India,IND,2880.0
-2033,India,IND,2880.0
-2034,India,IND,2000.0
-2035,India,IND,2000.0
-2036,India,IND,2000.0
-2037,India,IND,2000.0
-2038,India,IND,2000.0
-2039,India,IND,2000.0
-2040,India,IND,2000.0
-2041,India,IND,2000.0
-2042,India,IND,2000.0
-2043,India,IND,2000.0
-2044,India,IND,2000.0
+2021,India,IND,7.8
+2022,India,IND,7.8
+2023,India,IND,7.36
+2024,India,IND,7.36
+2025,India,IND,7.36
+2026,India,IND,3.96
+2027,India,IND,3.96
+2028,India,IND,3.96
+2029,India,IND,3.96
+2030,India,IND,2.88
+2031,India,IND,2.88
+2032,India,IND,2.88
+2033,India,IND,2.88
+2034,India,IND,2.0
+2035,India,IND,2.0
+2036,India,IND,2.0
+2037,India,IND,2.0
+2038,India,IND,2.0
+2039,India,IND,2.0
+2040,India,IND,2.0
+2041,India,IND,2.0
+2042,India,IND,2.0
+2043,India,IND,2.0
+2044,India,IND,2.0
 2045,India,IND,0.0
 2046,India,IND,0.0
 2047,India,IND,0.0
@@ -2170,6 +2118,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2045,Israel,ISR,0.0
 2046,Israel,ISR,0.0
 2047,Israel,ISR,0.0
+2048,Israel,ISR,0.0
+2049,Israel,ISR,0.0
+2050,Israel,ISR,0.0
+2051,Israel,ISR,0.0
+2052,Israel,ISR,0.0
+2053,Israel,ISR,0.0
+2054,Israel,ISR,0.0
 2021,Italy,ITA,0.0
 2022,Italy,ITA,0.0
 2023,Italy,ITA,0.0
@@ -2240,20 +2195,20 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2053,Jamaica,JAM,0.0
 2054,Jamaica,JAM,0.0
 2055,Jamaica,JAM,0.0
-2021,Japan,JPN,1160.0
-2022,Japan,JPN,1160.0
-2023,Japan,JPN,1160.0
-2024,Japan,JPN,1160.0
-2025,Japan,JPN,1160.0
-2026,Japan,JPN,0.0
-2027,Japan,JPN,0.0
-2028,Japan,JPN,0.0
-2029,Japan,JPN,0.0
-2030,Japan,JPN,0.0
-2031,Japan,JPN,0.0
-2032,Japan,JPN,0.0
-2033,Japan,JPN,0.0
-2034,Japan,JPN,0.0
+2021,Japan,JPN,9.552
+2022,Japan,JPN,9.552
+2023,Japan,JPN,9.552
+2024,Japan,JPN,7.53
+2025,Japan,JPN,7.53
+2026,Japan,JPN,5.53
+2027,Japan,JPN,5.53
+2028,Japan,JPN,5.53
+2029,Japan,JPN,5.53
+2030,Japan,JPN,4.71
+2031,Japan,JPN,4.71
+2032,Japan,JPN,4.71
+2033,Japan,JPN,4.71
+2034,Japan,JPN,4.71
 2035,Japan,JPN,0.0
 2036,Japan,JPN,0.0
 2037,Japan,JPN,0.0
@@ -2302,6 +2257,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2045,Jordan,JOR,0.0
 2046,Jordan,JOR,0.0
 2047,Jordan,JOR,0.0
+2048,Jordan,JOR,0.0
+2049,Jordan,JOR,0.0
+2050,Jordan,JOR,0.0
+2051,Jordan,JOR,0.0
+2052,Jordan,JOR,0.0
+2053,Jordan,JOR,0.0
+2054,Jordan,JOR,0.0
+2055,Jordan,JOR,0.0
 2021,Kazakhstan,KAZ,0.0
 2022,Kazakhstan,KAZ,0.0
 2023,Kazakhstan,KAZ,0.0
@@ -2544,6 +2507,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2044,Liberia,LBR,0.0
 2045,Liberia,LBR,0.0
 2046,Liberia,LBR,0.0
+2047,Liberia,LBR,0.0
+2048,Liberia,LBR,0.0
 2021,Libya,LBY,0.0
 2022,Libya,LBY,0.0
 2023,Libya,LBY,0.0
@@ -2596,6 +2561,9 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2050,Lithuania,LTU,0.0
 2051,Lithuania,LTU,0.0
 2052,Lithuania,LTU,0.0
+2053,Lithuania,LTU,0.0
+2054,Lithuania,LTU,0.0
+2055,Lithuania,LTU,0.0
 2021,Luxembourg,LUX,0.0
 2022,Luxembourg,LUX,0.0
 2023,Luxembourg,LUX,0.0
@@ -3079,6 +3047,11 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2048,Namibia,NAM,0.0
 2049,Namibia,NAM,0.0
 2050,Namibia,NAM,0.0
+2051,Namibia,NAM,0.0
+2052,Namibia,NAM,0.0
+2053,Namibia,NAM,0.0
+2054,Namibia,NAM,0.0
+2055,Namibia,NAM,0.0
 2021,Nepal,NPL,0.0
 2022,Nepal,NPL,0.0
 2023,Nepal,NPL,0.0
@@ -3251,6 +3224,9 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2050,Niger,NER,0.0
 2051,Niger,NER,0.0
 2052,Niger,NER,0.0
+2053,Niger,NER,0.0
+2054,Niger,NER,0.0
+2055,Niger,NER,0.0
 2021,Nigeria,NGA,0.0
 2022,Nigeria,NGA,0.0
 2023,Nigeria,NGA,0.0
@@ -3343,14 +3319,9 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2040,Oman,OMN,0.0
 2041,Oman,OMN,0.0
 2042,Oman,OMN,0.0
-2043,Oman,OMN,0.0
-2044,Oman,OMN,0.0
-2045,Oman,OMN,0.0
-2046,Oman,OMN,0.0
-2047,Oman,OMN,0.0
-2021,Pakistan,PAK,0.0
-2022,Pakistan,PAK,0.0
-2023,Pakistan,PAK,0.0
+2021,Pakistan,PAK,1.33
+2022,Pakistan,PAK,1.33
+2023,Pakistan,PAK,1.33
 2024,Pakistan,PAK,0.0
 2025,Pakistan,PAK,0.0
 2026,Pakistan,PAK,0.0
@@ -3744,8 +3715,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2042,Saint Lucia,LCA,0.0
 2043,Saint Lucia,LCA,0.0
 2044,Saint Lucia,LCA,0.0
-2045,Saint Lucia,LCA,0.0
-2046,Saint Lucia,LCA,0.0
 2021,Saudi Arabia,SAU,0.0
 2022,Saudi Arabia,SAU,0.0
 2023,Saudi Arabia,SAU,0.0
@@ -3857,27 +3826,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2032,Sierra Leone,SLE,0.0
 2033,Sierra Leone,SLE,0.0
 2034,Sierra Leone,SLE,0.0
-2035,Sierra Leone,SLE,0.0
-2036,Sierra Leone,SLE,0.0
-2037,Sierra Leone,SLE,0.0
-2038,Sierra Leone,SLE,0.0
-2039,Sierra Leone,SLE,0.0
-2040,Sierra Leone,SLE,0.0
-2041,Sierra Leone,SLE,0.0
-2042,Sierra Leone,SLE,0.0
-2043,Sierra Leone,SLE,0.0
-2044,Sierra Leone,SLE,0.0
-2045,Sierra Leone,SLE,0.0
-2046,Sierra Leone,SLE,0.0
-2047,Sierra Leone,SLE,0.0
-2048,Sierra Leone,SLE,0.0
-2049,Sierra Leone,SLE,0.0
-2050,Sierra Leone,SLE,0.0
-2051,Sierra Leone,SLE,0.0
-2052,Sierra Leone,SLE,0.0
-2053,Sierra Leone,SLE,0.0
-2054,Sierra Leone,SLE,0.0
-2055,Sierra Leone,SLE,0.0
 2021,Singapore,SGP,0.0
 2022,Singapore,SGP,0.0
 2023,Singapore,SGP,0.0
@@ -4138,10 +4086,11 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2044,Suriname,SUR,0.0
 2045,Suriname,SUR,0.0
 2046,Suriname,SUR,0.0
-2021,Sweden,SWE,3227.0
-2022,Sweden,SWE,3227.0
-2023,Sweden,SWE,3227.0
-2024,Sweden,SWE,3227.0
+2047,Suriname,SUR,0.0
+2021,Sweden,SWE,0.0
+2022,Sweden,SWE,0.0
+2023,Sweden,SWE,0.0
+2024,Sweden,SWE,0.0
 2025,Sweden,SWE,0.0
 2026,Sweden,SWE,0.0
 2027,Sweden,SWE,0.0
@@ -4361,22 +4310,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2031,Trinidad and Tobago,TTO,0.0
 2032,Trinidad and Tobago,TTO,0.0
 2033,Trinidad and Tobago,TTO,0.0
-2034,Trinidad and Tobago,TTO,0.0
-2035,Trinidad and Tobago,TTO,0.0
-2036,Trinidad and Tobago,TTO,0.0
-2037,Trinidad and Tobago,TTO,0.0
-2038,Trinidad and Tobago,TTO,0.0
-2039,Trinidad and Tobago,TTO,0.0
-2040,Trinidad and Tobago,TTO,0.0
-2041,Trinidad and Tobago,TTO,0.0
-2042,Trinidad and Tobago,TTO,0.0
-2043,Trinidad and Tobago,TTO,0.0
-2044,Trinidad and Tobago,TTO,0.0
-2045,Trinidad and Tobago,TTO,0.0
-2046,Trinidad and Tobago,TTO,0.0
-2047,Trinidad and Tobago,TTO,0.0
-2048,Trinidad and Tobago,TTO,0.0
-2049,Trinidad and Tobago,TTO,0.0
 2021,Tunisia,TUN,0.0
 2022,Tunisia,TUN,0.0
 2023,Tunisia,TUN,0.0
@@ -4438,6 +4371,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2044,Turkmenistan,TKM,0.0
 2045,Turkmenistan,TKM,0.0
 2046,Turkmenistan,TKM,0.0
+2047,Turkmenistan,TKM,0.0
+2048,Turkmenistan,TKM,0.0
+2049,Turkmenistan,TKM,0.0
+2050,Turkmenistan,TKM,0.0
+2051,Turkmenistan,TKM,0.0
+2052,Turkmenistan,TKM,0.0
+2053,Turkmenistan,TKM,0.0
+2054,Turkmenistan,TKM,0.0
+2055,Turkmenistan,TKM,0.0
 2021,Uganda,UGA,0.0
 2022,Uganda,UGA,0.0
 2023,Uganda,UGA,0.0
@@ -4532,24 +4474,21 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2042,United Arab Emirates,ARE,0.0
 2043,United Arab Emirates,ARE,0.0
 2044,United Arab Emirates,ARE,0.0
-2045,United Arab Emirates,ARE,0.0
-2046,United Arab Emirates,ARE,0.0
-2047,United Arab Emirates,ARE,0.0
-2021,United States of America,USA,2539.8
-2022,United States of America,USA,2539.8
-2023,United States of America,USA,2539.8
-2024,United States of America,USA,2539.8
-2025,United States of America,USA,2539.8
-2026,United States of America,USA,2539.8
-2027,United States of America,USA,2539.8
-2028,United States of America,USA,2539.8
-2029,United States of America,USA,2539.8
-2030,United States of America,USA,2539.8
-2031,United States of America,USA,2539.8
-2032,United States of America,USA,2539.8
-2033,United States of America,USA,2539.8
-2034,United States of America,USA,2539.8
-2035,United States of America,USA,2539.8
+2021,United States of America,USA,2.5398
+2022,United States of America,USA,2.5398
+2023,United States of America,USA,2.5398
+2024,United States of America,USA,2.5398
+2025,United States of America,USA,2.5398
+2026,United States of America,USA,2.5398
+2027,United States of America,USA,2.5398
+2028,United States of America,USA,2.5398
+2029,United States of America,USA,2.5398
+2030,United States of America,USA,2.5398
+2031,United States of America,USA,2.5398
+2032,United States of America,USA,2.5398
+2033,United States of America,USA,2.5398
+2034,United States of America,USA,2.5398
+2035,United States of America,USA,2.5398
 2036,United States of America,USA,0.0
 2037,United States of America,USA,0.0
 2038,United States of America,USA,0.0
@@ -4640,22 +4579,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2053,Uzbekistan,UZB,0.0
 2054,Uzbekistan,UZB,0.0
 2055,Uzbekistan,UZB,0.0
-2021,Western Sahara,ESH,0.0
-2022,Western Sahara,ESH,0.0
-2023,Western Sahara,ESH,0.0
-2024,Western Sahara,ESH,0.0
-2025,Western Sahara,ESH,0.0
-2026,Western Sahara,ESH,0.0
-2027,Western Sahara,ESH,0.0
-2028,Western Sahara,ESH,0.0
-2029,Western Sahara,ESH,0.0
-2030,Western Sahara,ESH,0.0
-2031,Western Sahara,ESH,0.0
-2032,Western Sahara,ESH,0.0
-2033,Western Sahara,ESH,0.0
-2034,Western Sahara,ESH,0.0
-2035,Western Sahara,ESH,0.0
-2036,Western Sahara,ESH,0.0
 2021,Yemen,YEM,0.0
 2022,Yemen,YEM,0.0
 2023,Yemen,YEM,0.0
@@ -4683,6 +4606,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2045,Yemen,YEM,0.0
 2046,Yemen,YEM,0.0
 2047,Yemen,YEM,0.0
+2048,Yemen,YEM,0.0
+2049,Yemen,YEM,0.0
+2050,Yemen,YEM,0.0
+2051,Yemen,YEM,0.0
+2052,Yemen,YEM,0.0
+2053,Yemen,YEM,0.0
+2054,Yemen,YEM,0.0
+2055,Yemen,YEM,0.0
 2021,Zambia,ZMB,0.0
 2022,Zambia,ZMB,0.0
 2023,Zambia,ZMB,0.0
@@ -4749,3 +4680,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2049,Zimbabwe,ZWE,0.0
 2050,Zimbabwe,ZWE,0.0
 2051,Zimbabwe,ZWE,0.0
+2052,Zimbabwe,ZWE,0.0
+2053,Zimbabwe,ZWE,0.0
+2054,Zimbabwe,ZWE,0.0
+2055,Zimbabwe,ZWE,0.0

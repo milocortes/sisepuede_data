@@ -94,54 +94,56 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Afghanistan,AFG,0.0
 2019,Afghanistan,AFG,0.0
 2020,Afghanistan,AFG,0.0
-1951,Albania,ALB,0.0
-1952,Albania,ALB,0.0
-1953,Albania,ALB,0.0
-1954,Albania,ALB,0.0
-1955,Albania,ALB,0.0
-1956,Albania,ALB,0.0
-1957,Albania,ALB,0.0
-1958,Albania,ALB,0.0
-1959,Albania,ALB,0.0
-1960,Albania,ALB,0.0
-1961,Albania,ALB,0.0
-1962,Albania,ALB,0.0
-1963,Albania,ALB,0.0
-1964,Albania,ALB,0.0
-1965,Albania,ALB,0.0
-1966,Albania,ALB,0.0
-1967,Albania,ALB,0.0
-1968,Albania,ALB,0.0
-1969,Albania,ALB,0.0
-1970,Albania,ALB,0.0
-1971,Albania,ALB,0.0
-1972,Albania,ALB,0.0
-1973,Albania,ALB,0.0
-1974,Albania,ALB,0.0
-1975,Albania,ALB,0.0
-1976,Albania,ALB,0.0
-1977,Albania,ALB,0.0
-1978,Albania,ALB,0.0
-1979,Albania,ALB,0.0
-1980,Albania,ALB,0.0
-1981,Albania,ALB,0.0
-1982,Albania,ALB,0.0
-1983,Albania,ALB,0.0
-1984,Albania,ALB,0.0
-1985,Albania,ALB,0.0
-1986,Albania,ALB,0.0
-1987,Albania,ALB,0.0
-1988,Albania,ALB,0.0
-1989,Albania,ALB,0.0
-1990,Albania,ALB,0.0
-1991,Albania,ALB,0.0
-1992,Albania,ALB,0.0
-1993,Albania,ALB,0.0
-1994,Albania,ALB,0.0
-1995,Albania,ALB,0.0
-1996,Albania,ALB,0.0
-1997,Albania,ALB,0.0
-1998,Albania,ALB,0.0
+1949,Albania,ALB,49.0
+1950,Albania,ALB,49.0
+1951,Albania,ALB,49.0
+1952,Albania,ALB,49.0
+1953,Albania,ALB,49.0
+1954,Albania,ALB,49.0
+1955,Albania,ALB,49.0
+1956,Albania,ALB,49.0
+1957,Albania,ALB,49.0
+1958,Albania,ALB,49.0
+1959,Albania,ALB,49.0
+1960,Albania,ALB,49.0
+1961,Albania,ALB,49.0
+1962,Albania,ALB,49.0
+1963,Albania,ALB,49.0
+1964,Albania,ALB,49.0
+1965,Albania,ALB,49.0
+1966,Albania,ALB,49.0
+1967,Albania,ALB,49.0
+1968,Albania,ALB,49.0
+1969,Albania,ALB,49.0
+1970,Albania,ALB,49.0
+1971,Albania,ALB,49.0
+1972,Albania,ALB,49.0
+1973,Albania,ALB,49.0
+1974,Albania,ALB,49.0
+1975,Albania,ALB,49.0
+1976,Albania,ALB,49.0
+1977,Albania,ALB,49.0
+1978,Albania,ALB,49.0
+1979,Albania,ALB,49.0
+1980,Albania,ALB,49.0
+1981,Albania,ALB,49.0
+1982,Albania,ALB,49.0
+1983,Albania,ALB,49.0
+1984,Albania,ALB,49.0
+1985,Albania,ALB,49.0
+1986,Albania,ALB,49.0
+1987,Albania,ALB,49.0
+1988,Albania,ALB,49.0
+1989,Albania,ALB,49.0
+1990,Albania,ALB,49.0
+1991,Albania,ALB,49.0
+1992,Albania,ALB,49.0
+1993,Albania,ALB,49.0
+1994,Albania,ALB,49.0
+1995,Albania,ALB,49.0
+1996,Albania,ALB,49.0
+1997,Albania,ALB,49.0
+1998,Albania,ALB,49.0
 1999,Albania,ALB,0.0
 2000,Albania,ALB,0.0
 2001,Albania,ALB,0.0
@@ -316,6 +318,46 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Angola,AGO,0.0
 2019,Angola,AGO,0.0
 2020,Angola,AGO,0.0
+1981,Antarctica,ATA,0.0
+1982,Antarctica,ATA,0.0
+1983,Antarctica,ATA,0.0
+1984,Antarctica,ATA,0.0
+1985,Antarctica,ATA,0.0
+1986,Antarctica,ATA,0.0
+1987,Antarctica,ATA,0.0
+1988,Antarctica,ATA,0.0
+1989,Antarctica,ATA,0.0
+1990,Antarctica,ATA,0.0
+1991,Antarctica,ATA,0.0
+1992,Antarctica,ATA,0.0
+1993,Antarctica,ATA,0.0
+1994,Antarctica,ATA,0.0
+1995,Antarctica,ATA,0.0
+1996,Antarctica,ATA,0.0
+1997,Antarctica,ATA,0.0
+1998,Antarctica,ATA,0.0
+1999,Antarctica,ATA,0.0
+2000,Antarctica,ATA,0.0
+2001,Antarctica,ATA,0.0
+2002,Antarctica,ATA,0.0
+2003,Antarctica,ATA,0.0
+2004,Antarctica,ATA,0.0
+2005,Antarctica,ATA,0.0
+2006,Antarctica,ATA,0.0
+2007,Antarctica,ATA,0.0
+2008,Antarctica,ATA,0.0
+2009,Antarctica,ATA,0.0
+2010,Antarctica,ATA,0.0
+2011,Antarctica,ATA,0.0
+2012,Antarctica,ATA,0.0
+2013,Antarctica,ATA,0.0
+2014,Antarctica,ATA,0.0
+2015,Antarctica,ATA,0.0
+2016,Antarctica,ATA,0.0
+2017,Antarctica,ATA,0.0
+2018,Antarctica,ATA,0.0
+2019,Antarctica,ATA,0.0
+2020,Antarctica,ATA,0.0
 1928,Argentina,ARG,0.0
 1929,Argentina,ARG,0.0
 1930,Argentina,ARG,0.0
@@ -409,14 +451,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Argentina,ARG,0.0
 2019,Argentina,ARG,0.0
 2020,Argentina,ARG,0.0
-1962,Armenia,ARM,0.0
-1963,Armenia,ARM,0.0
-1964,Armenia,ARM,0.0
-1965,Armenia,ARM,0.0
-1966,Armenia,ARM,0.0
-1967,Armenia,ARM,0.0
-1968,Armenia,ARM,0.0
-1969,Armenia,ARM,0.0
 1970,Armenia,ARM,0.0
 1971,Armenia,ARM,0.0
 1972,Armenia,ARM,0.0
@@ -569,11 +603,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Australia,AUS,0.0
 2019,Australia,AUS,0.0
 2020,Australia,AUS,0.0
-1920,Austria,AUT,0.0
-1921,Austria,AUT,0.0
-1922,Austria,AUT,0.0
-1923,Austria,AUT,0.0
-1924,Austria,AUT,0.0
 1925,Austria,AUT,0.0
 1926,Austria,AUT,0.0
 1927,Austria,AUT,0.0
@@ -738,8 +767,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Azerbaijan,AZE,0.0
 2019,Azerbaijan,AZE,0.0
 2020,Azerbaijan,AZE,0.0
-1983,Bahrain,BHR,0.0
-1984,Bahrain,BHR,0.0
 1985,Bahrain,BHR,0.0
 1986,Bahrain,BHR,0.0
 1987,Bahrain,BHR,0.0
@@ -835,8 +862,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Bangladesh,BGD,0.0
 2019,Bangladesh,BGD,0.0
 2020,Bangladesh,BGD,0.0
-1960,Belarus,BLR,0.0
-1961,Belarus,BLR,0.0
 1962,Belarus,BLR,0.0
 1963,Belarus,BLR,0.0
 1964,Belarus,BLR,0.0
@@ -896,6 +921,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Belarus,BLR,0.0
 2019,Belarus,BLR,0.0
 2020,Belarus,BLR,0.0
+1937,Belgium,BEL,0.0
 1938,Belgium,BEL,0.0
 1939,Belgium,BEL,0.0
 1940,Belgium,BEL,0.0
@@ -979,6 +1005,32 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Belgium,BEL,0.0
 2019,Belgium,BEL,0.0
 2020,Belgium,BEL,0.0
+1975,Benin,BEN,0.0
+1976,Benin,BEN,0.0
+1977,Benin,BEN,0.0
+1978,Benin,BEN,0.0
+1979,Benin,BEN,0.0
+1980,Benin,BEN,0.0
+1981,Benin,BEN,0.0
+1982,Benin,BEN,0.0
+1983,Benin,BEN,0.0
+1984,Benin,BEN,0.0
+1985,Benin,BEN,0.0
+1986,Benin,BEN,0.0
+1987,Benin,BEN,0.0
+1988,Benin,BEN,0.0
+1989,Benin,BEN,0.0
+1990,Benin,BEN,0.0
+1991,Benin,BEN,0.0
+1992,Benin,BEN,0.0
+1993,Benin,BEN,0.0
+1994,Benin,BEN,0.0
+1995,Benin,BEN,0.0
+1996,Benin,BEN,0.0
+1997,Benin,BEN,0.0
+1998,Benin,BEN,0.0
+1999,Benin,BEN,0.0
+2000,Benin,BEN,0.0
 2001,Benin,BEN,0.0
 2002,Benin,BEN,0.0
 2003,Benin,BEN,0.0
@@ -999,21 +1051,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Benin,BEN,0.0
 2019,Benin,BEN,0.0
 2020,Benin,BEN,0.0
-1938,Bhutan,BTN,0.0
-1939,Bhutan,BTN,0.0
-1940,Bhutan,BTN,0.0
-1941,Bhutan,BTN,0.0
-1942,Bhutan,BTN,0.0
-1943,Bhutan,BTN,0.0
-1944,Bhutan,BTN,0.0
-1945,Bhutan,BTN,0.0
-1946,Bhutan,BTN,0.0
-1947,Bhutan,BTN,0.0
-1948,Bhutan,BTN,0.0
-1949,Bhutan,BTN,0.0
-1950,Bhutan,BTN,0.0
-1951,Bhutan,BTN,0.0
-1952,Bhutan,BTN,0.0
 1953,Bhutan,BTN,0.0
 1954,Bhutan,BTN,0.0
 1955,Bhutan,BTN,0.0
@@ -1082,6 +1119,10 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Bhutan,BTN,0.0
 2019,Bhutan,BTN,0.0
 2020,Bhutan,BTN,0.0
+1920,Bosnia and Herzegovina,BIH,0.0
+1921,Bosnia and Herzegovina,BIH,0.0
+1922,Bosnia and Herzegovina,BIH,0.0
+1923,Bosnia and Herzegovina,BIH,0.0
 1924,Bosnia and Herzegovina,BIH,0.0
 1925,Bosnia and Herzegovina,BIH,0.0
 1926,Bosnia and Herzegovina,BIH,0.0
@@ -1179,6 +1220,46 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Bosnia and Herzegovina,BIH,0.0
 2019,Bosnia and Herzegovina,BIH,0.0
 2020,Bosnia and Herzegovina,BIH,0.0
+1978,Botswana,BWA,0.0
+1979,Botswana,BWA,0.0
+1980,Botswana,BWA,0.0
+1981,Botswana,BWA,0.0
+1982,Botswana,BWA,0.0
+1983,Botswana,BWA,0.0
+1984,Botswana,BWA,0.0
+1985,Botswana,BWA,0.0
+1986,Botswana,BWA,0.0
+1987,Botswana,BWA,0.0
+1988,Botswana,BWA,0.0
+1989,Botswana,BWA,0.0
+1990,Botswana,BWA,0.0
+1991,Botswana,BWA,0.0
+1992,Botswana,BWA,0.0
+1993,Botswana,BWA,0.0
+1994,Botswana,BWA,0.0
+1995,Botswana,BWA,0.0
+1996,Botswana,BWA,0.0
+1997,Botswana,BWA,0.0
+1998,Botswana,BWA,0.0
+1999,Botswana,BWA,0.0
+2000,Botswana,BWA,0.0
+2001,Botswana,BWA,0.0
+2002,Botswana,BWA,0.0
+2003,Botswana,BWA,0.0
+2004,Botswana,BWA,0.0
+2005,Botswana,BWA,0.0
+2006,Botswana,BWA,0.0
+2007,Botswana,BWA,0.0
+2008,Botswana,BWA,0.0
+2009,Botswana,BWA,0.0
+2010,Botswana,BWA,0.0
+2011,Botswana,BWA,0.0
+2012,Botswana,BWA,0.0
+2013,Botswana,BWA,0.0
+2014,Botswana,BWA,0.0
+2015,Botswana,BWA,0.0
+2016,Botswana,BWA,0.0
+2017,Botswana,BWA,0.0
 2018,Botswana,BWA,0.0
 2019,Botswana,BWA,0.0
 2020,Botswana,BWA,0.0
@@ -1283,6 +1364,32 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Brazil,BRA,0.0
 2019,Brazil,BRA,0.0
 2020,Brazil,BRA,0.0
+1960,Brunei Darussalam,BRN,0.0
+1961,Brunei Darussalam,BRN,0.0
+1962,Brunei Darussalam,BRN,0.0
+1963,Brunei Darussalam,BRN,0.0
+1964,Brunei Darussalam,BRN,0.0
+1965,Brunei Darussalam,BRN,0.0
+1966,Brunei Darussalam,BRN,0.0
+1967,Brunei Darussalam,BRN,0.0
+1968,Brunei Darussalam,BRN,0.0
+1969,Brunei Darussalam,BRN,0.0
+1970,Brunei Darussalam,BRN,0.0
+1971,Brunei Darussalam,BRN,0.0
+1972,Brunei Darussalam,BRN,0.0
+1973,Brunei Darussalam,BRN,0.0
+1974,Brunei Darussalam,BRN,0.0
+1975,Brunei Darussalam,BRN,0.0
+1976,Brunei Darussalam,BRN,0.0
+1977,Brunei Darussalam,BRN,0.0
+1978,Brunei Darussalam,BRN,0.0
+1979,Brunei Darussalam,BRN,0.0
+1980,Brunei Darussalam,BRN,0.0
+1981,Brunei Darussalam,BRN,0.0
+1982,Brunei Darussalam,BRN,0.0
+1983,Brunei Darussalam,BRN,0.0
+1984,Brunei Darussalam,BRN,0.0
+1995,Brunei Darussalam,BRN,0.0
 1996,Brunei Darussalam,BRN,0.0
 1997,Brunei Darussalam,BRN,0.0
 1998,Brunei Darussalam,BRN,0.0
@@ -1308,6 +1415,22 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Brunei Darussalam,BRN,0.0
 2019,Brunei Darussalam,BRN,0.0
 2020,Brunei Darussalam,BRN,0.0
+1924,Bulgaria,BGR,0.0
+1925,Bulgaria,BGR,0.0
+1926,Bulgaria,BGR,0.0
+1927,Bulgaria,BGR,0.0
+1928,Bulgaria,BGR,0.0
+1929,Bulgaria,BGR,0.0
+1930,Bulgaria,BGR,0.0
+1931,Bulgaria,BGR,0.0
+1932,Bulgaria,BGR,0.0
+1933,Bulgaria,BGR,0.0
+1934,Bulgaria,BGR,0.0
+1935,Bulgaria,BGR,0.0
+1936,Bulgaria,BGR,0.0
+1937,Bulgaria,BGR,0.0
+1938,Bulgaria,BGR,0.0
+1939,Bulgaria,BGR,0.0
 1940,Bulgaria,BGR,0.0
 1941,Bulgaria,BGR,0.0
 1942,Bulgaria,BGR,0.0
@@ -1389,58 +1512,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Bulgaria,BGR,0.0
 2019,Bulgaria,BGR,0.0
 2020,Bulgaria,BGR,0.0
-1920,Burkina Faso,BFA,0.0
-1921,Burkina Faso,BFA,0.0
-1922,Burkina Faso,BFA,0.0
-1923,Burkina Faso,BFA,0.0
-1924,Burkina Faso,BFA,0.0
-1925,Burkina Faso,BFA,0.0
-1926,Burkina Faso,BFA,0.0
-1927,Burkina Faso,BFA,0.0
-1928,Burkina Faso,BFA,0.0
-1929,Burkina Faso,BFA,0.0
-1930,Burkina Faso,BFA,0.0
-1931,Burkina Faso,BFA,0.0
-1932,Burkina Faso,BFA,0.0
-1933,Burkina Faso,BFA,0.0
-1934,Burkina Faso,BFA,0.0
-1935,Burkina Faso,BFA,0.0
-1936,Burkina Faso,BFA,0.0
-1937,Burkina Faso,BFA,0.0
-1938,Burkina Faso,BFA,0.0
-1939,Burkina Faso,BFA,0.0
-1940,Burkina Faso,BFA,0.0
-1941,Burkina Faso,BFA,0.0
-1942,Burkina Faso,BFA,0.0
-1943,Burkina Faso,BFA,0.0
-1944,Burkina Faso,BFA,0.0
-1945,Burkina Faso,BFA,0.0
-1946,Burkina Faso,BFA,0.0
-1947,Burkina Faso,BFA,0.0
-1948,Burkina Faso,BFA,0.0
-1949,Burkina Faso,BFA,0.0
-1950,Burkina Faso,BFA,0.0
-1951,Burkina Faso,BFA,0.0
-1952,Burkina Faso,BFA,0.0
-1953,Burkina Faso,BFA,0.0
-1954,Burkina Faso,BFA,0.0
-1955,Burkina Faso,BFA,0.0
-1956,Burkina Faso,BFA,0.0
-1957,Burkina Faso,BFA,0.0
-1958,Burkina Faso,BFA,0.0
-1959,Burkina Faso,BFA,0.0
-1960,Burkina Faso,BFA,0.0
-1961,Burkina Faso,BFA,0.0
-1962,Burkina Faso,BFA,0.0
-1963,Burkina Faso,BFA,0.0
-1964,Burkina Faso,BFA,0.0
-1965,Burkina Faso,BFA,0.0
-1966,Burkina Faso,BFA,0.0
-1967,Burkina Faso,BFA,0.0
-1968,Burkina Faso,BFA,0.0
-1969,Burkina Faso,BFA,0.0
-1970,Burkina Faso,BFA,0.0
-1971,Burkina Faso,BFA,0.0
 1972,Burkina Faso,BFA,0.0
 1973,Burkina Faso,BFA,0.0
 1974,Burkina Faso,BFA,0.0
@@ -1490,6 +1561,29 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Burkina Faso,BFA,0.0
 2019,Burkina Faso,BFA,0.0
 2020,Burkina Faso,BFA,0.0
+1954,Burundi,BDI,0.0
+1955,Burundi,BDI,0.0
+1956,Burundi,BDI,0.0
+1957,Burundi,BDI,0.0
+1958,Burundi,BDI,0.0
+1959,Burundi,BDI,0.0
+1960,Burundi,BDI,0.0
+1961,Burundi,BDI,0.0
+1962,Burundi,BDI,0.0
+1963,Burundi,BDI,0.0
+1964,Burundi,BDI,0.0
+1965,Burundi,BDI,0.0
+1966,Burundi,BDI,0.0
+1967,Burundi,BDI,0.0
+1968,Burundi,BDI,0.0
+1969,Burundi,BDI,0.0
+1970,Burundi,BDI,0.0
+1971,Burundi,BDI,0.0
+1972,Burundi,BDI,0.0
+1973,Burundi,BDI,0.0
+1974,Burundi,BDI,0.0
+1975,Burundi,BDI,0.0
+1976,Burundi,BDI,0.0
 1977,Burundi,BDI,0.0
 1978,Burundi,BDI,0.0
 1979,Burundi,BDI,0.0
@@ -1559,34 +1653,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Cambodia,KHM,0.0
 2019,Cambodia,KHM,0.0
 2020,Cambodia,KHM,0.0
-1936,Cameroon,CMR,0.0
-1937,Cameroon,CMR,0.0
-1938,Cameroon,CMR,0.0
-1939,Cameroon,CMR,0.0
-1940,Cameroon,CMR,0.0
-1941,Cameroon,CMR,0.0
-1942,Cameroon,CMR,0.0
-1943,Cameroon,CMR,0.0
-1944,Cameroon,CMR,0.0
-1945,Cameroon,CMR,0.0
-1946,Cameroon,CMR,0.0
-1947,Cameroon,CMR,0.0
-1948,Cameroon,CMR,0.0
-1949,Cameroon,CMR,0.0
-1950,Cameroon,CMR,0.0
-1951,Cameroon,CMR,0.0
-1952,Cameroon,CMR,0.0
-1953,Cameroon,CMR,0.0
-1954,Cameroon,CMR,0.0
-1955,Cameroon,CMR,0.0
-1956,Cameroon,CMR,0.0
-1957,Cameroon,CMR,0.0
-1958,Cameroon,CMR,0.0
-1959,Cameroon,CMR,0.0
-1960,Cameroon,CMR,0.0
-1961,Cameroon,CMR,0.0
-1962,Cameroon,CMR,0.0
-1963,Cameroon,CMR,0.0
 1964,Cameroon,CMR,0.0
 1965,Cameroon,CMR,0.0
 1966,Cameroon,CMR,0.0
@@ -1677,74 +1743,126 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 1950,Canada,CAN,0.0
 1951,Canada,CAN,0.0
 1952,Canada,CAN,0.0
-1953,Canada,CAN,3.0
-1954,Canada,CAN,3.0
-1955,Canada,CAN,3.0
-1956,Canada,CAN,3.0
-1957,Canada,CAN,3.0
-1958,Canada,CAN,3.0
-1959,Canada,CAN,3.0
-1960,Canada,CAN,3.0
-1961,Canada,CAN,3.0
-1962,Canada,CAN,3.0
-1963,Canada,CAN,3.0
-1964,Canada,CAN,3.0
-1965,Canada,CAN,3.0
-1966,Canada,CAN,3.0
-1967,Canada,CAN,3.0
-1968,Canada,CAN,3.0
-1969,Canada,CAN,3.0
-1970,Canada,CAN,3.0
-1971,Canada,CAN,3.0
-1972,Canada,CAN,3.0
-1973,Canada,CAN,3.0
-1974,Canada,CAN,3.0
-1975,Canada,CAN,3.0
-1976,Canada,CAN,3.0
-1977,Canada,CAN,3.0
-1978,Canada,CAN,3.0
-1979,Canada,CAN,3.0
-1980,Canada,CAN,3.0
-1981,Canada,CAN,3.0
-1982,Canada,CAN,3.0
-1983,Canada,CAN,3.0
-1984,Canada,CAN,3.0
-1985,Canada,CAN,3.0
-1986,Canada,CAN,3.0
-1987,Canada,CAN,3.0
-1988,Canada,CAN,3.0
-1989,Canada,CAN,3.0
-1990,Canada,CAN,3.0
-1991,Canada,CAN,3.0
-1992,Canada,CAN,3.0
-1993,Canada,CAN,3.0
-1994,Canada,CAN,3.0
-1995,Canada,CAN,3.0
-1996,Canada,CAN,3.0
-1997,Canada,CAN,3.0
-1998,Canada,CAN,3.0
+1953,Canada,CAN,0.0
+1954,Canada,CAN,0.0
+1955,Canada,CAN,0.0
+1956,Canada,CAN,0.0
+1957,Canada,CAN,0.0
+1958,Canada,CAN,0.0
+1959,Canada,CAN,0.0
+1960,Canada,CAN,0.0
+1961,Canada,CAN,0.0
+1962,Canada,CAN,0.0
+1963,Canada,CAN,0.0
+1964,Canada,CAN,0.0
+1965,Canada,CAN,0.0
+1966,Canada,CAN,0.0
+1967,Canada,CAN,0.0
+1968,Canada,CAN,0.0
+1969,Canada,CAN,0.0
+1970,Canada,CAN,0.0
+1971,Canada,CAN,0.0
+1972,Canada,CAN,0.0
+1973,Canada,CAN,0.0
+1974,Canada,CAN,0.0
+1975,Canada,CAN,5.5
+1976,Canada,CAN,5.5
+1977,Canada,CAN,5.5
+1978,Canada,CAN,5.5
+1979,Canada,CAN,5.5
+1980,Canada,CAN,5.5
+1981,Canada,CAN,8.5
+1982,Canada,CAN,8.5
+1983,Canada,CAN,8.5
+1984,Canada,CAN,8.5
+1985,Canada,CAN,8.5
+1986,Canada,CAN,8.5
+1987,Canada,CAN,8.5
+1988,Canada,CAN,8.5
+1989,Canada,CAN,8.5
+1990,Canada,CAN,8.5
+1991,Canada,CAN,8.5
+1992,Canada,CAN,8.5
+1993,Canada,CAN,8.5
+1994,Canada,CAN,8.5
+1995,Canada,CAN,8.5
+1996,Canada,CAN,8.5
+1997,Canada,CAN,8.5
+1998,Canada,CAN,8.5
 1999,Canada,CAN,8.5
 2000,Canada,CAN,8.5
 2001,Canada,CAN,8.5
 2002,Canada,CAN,8.5
-2003,Canada,CAN,5.5
-2004,Canada,CAN,5.5
-2005,Canada,CAN,5.5
-2006,Canada,CAN,5.5
-2007,Canada,CAN,5.5
-2008,Canada,CAN,5.5
-2009,Canada,CAN,5.5
-2010,Canada,CAN,5.5
-2011,Canada,CAN,5.5
-2012,Canada,CAN,5.5
-2013,Canada,CAN,5.5
-2014,Canada,CAN,5.5
-2015,Canada,CAN,5.5
-2016,Canada,CAN,5.5
-2017,Canada,CAN,5.5
-2018,Canada,CAN,5.5
-2019,Canada,CAN,5.5
-2020,Canada,CAN,5.5
+2003,Canada,CAN,8.5
+2004,Canada,CAN,8.5
+2005,Canada,CAN,8.5
+2006,Canada,CAN,8.5
+2007,Canada,CAN,8.5
+2008,Canada,CAN,8.5
+2009,Canada,CAN,8.5
+2010,Canada,CAN,8.5
+2011,Canada,CAN,8.5
+2012,Canada,CAN,8.5
+2013,Canada,CAN,8.5
+2014,Canada,CAN,8.5
+2015,Canada,CAN,8.5
+2016,Canada,CAN,8.5
+2017,Canada,CAN,8.5
+2018,Canada,CAN,8.5
+2019,Canada,CAN,8.5
+2020,Canada,CAN,8.5
+1920,Central African Republic,CAF,0.0
+1921,Central African Republic,CAF,0.0
+1922,Central African Republic,CAF,0.0
+1923,Central African Republic,CAF,0.0
+1924,Central African Republic,CAF,0.0
+1925,Central African Republic,CAF,0.0
+1926,Central African Republic,CAF,0.0
+1927,Central African Republic,CAF,0.0
+1928,Central African Republic,CAF,0.0
+1929,Central African Republic,CAF,0.0
+1930,Central African Republic,CAF,0.0
+1931,Central African Republic,CAF,0.0
+1932,Central African Republic,CAF,0.0
+1933,Central African Republic,CAF,0.0
+1934,Central African Republic,CAF,0.0
+1935,Central African Republic,CAF,0.0
+1936,Central African Republic,CAF,0.0
+1937,Central African Republic,CAF,0.0
+1938,Central African Republic,CAF,0.0
+1939,Central African Republic,CAF,0.0
+1940,Central African Republic,CAF,0.0
+1941,Central African Republic,CAF,0.0
+1942,Central African Republic,CAF,0.0
+1943,Central African Republic,CAF,0.0
+1944,Central African Republic,CAF,0.0
+1945,Central African Republic,CAF,0.0
+1946,Central African Republic,CAF,0.0
+1947,Central African Republic,CAF,0.0
+1948,Central African Republic,CAF,0.0
+1949,Central African Republic,CAF,0.0
+1950,Central African Republic,CAF,0.0
+1951,Central African Republic,CAF,0.0
+1952,Central African Republic,CAF,0.0
+1953,Central African Republic,CAF,0.0
+1954,Central African Republic,CAF,0.0
+1955,Central African Republic,CAF,0.0
+1956,Central African Republic,CAF,0.0
+1957,Central African Republic,CAF,0.0
+1958,Central African Republic,CAF,0.0
+1959,Central African Republic,CAF,0.0
+1960,Central African Republic,CAF,0.0
+1961,Central African Republic,CAF,0.0
+1962,Central African Republic,CAF,0.0
+1963,Central African Republic,CAF,0.0
+1964,Central African Republic,CAF,0.0
+1965,Central African Republic,CAF,0.0
+1966,Central African Republic,CAF,0.0
+1967,Central African Republic,CAF,0.0
+1968,Central African Republic,CAF,0.0
+1969,Central African Republic,CAF,0.0
+1970,Central African Republic,CAF,0.0
+1971,Central African Republic,CAF,0.0
 1972,Central African Republic,CAF,0.0
 1973,Central African Republic,CAF,0.0
 1974,Central African Republic,CAF,0.0
@@ -1793,7 +1911,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2017,Central African Republic,CAF,0.0
 2018,Central African Republic,CAF,0.0
 2019,Central African Republic,CAF,0.0
-2020,Central African Republic,CAF,0.0
 1920,Chile,CHL,0.0
 1921,Chile,CHL,0.0
 1922,Chile,CHL,0.0
@@ -1996,6 +2113,39 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,China,CHN,0.0
 2019,China,CHN,0.0
 2020,China,CHN,0.0
+1927,Colombia,COL,0.0
+1928,Colombia,COL,0.0
+1929,Colombia,COL,0.0
+1930,Colombia,COL,0.0
+1931,Colombia,COL,0.0
+1932,Colombia,COL,0.0
+1933,Colombia,COL,0.0
+1934,Colombia,COL,0.0
+1935,Colombia,COL,0.0
+1936,Colombia,COL,0.0
+1937,Colombia,COL,0.0
+1938,Colombia,COL,0.0
+1939,Colombia,COL,0.0
+1940,Colombia,COL,0.0
+1941,Colombia,COL,0.0
+1942,Colombia,COL,0.0
+1943,Colombia,COL,0.0
+1944,Colombia,COL,0.0
+1945,Colombia,COL,0.0
+1946,Colombia,COL,0.0
+1947,Colombia,COL,0.0
+1948,Colombia,COL,0.0
+1949,Colombia,COL,0.0
+1950,Colombia,COL,0.0
+1951,Colombia,COL,0.0
+1952,Colombia,COL,0.0
+1953,Colombia,COL,0.0
+1954,Colombia,COL,0.0
+1955,Colombia,COL,0.0
+1956,Colombia,COL,0.0
+1957,Colombia,COL,0.0
+1958,Colombia,COL,0.0
+1959,Colombia,COL,0.0
 1960,Colombia,COL,0.0
 1961,Colombia,COL,0.0
 1962,Colombia,COL,0.0
@@ -2057,62 +2207,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Colombia,COL,0.0
 2019,Colombia,COL,0.0
 2020,Colombia,COL,0.0
-1920,Congo,COG,0.0
-1921,Congo,COG,0.0
-1922,Congo,COG,0.0
-1923,Congo,COG,0.0
-1924,Congo,COG,0.0
-1925,Congo,COG,0.0
-1926,Congo,COG,0.0
-1927,Congo,COG,0.0
-1928,Congo,COG,0.0
-1929,Congo,COG,0.0
-1930,Congo,COG,0.0
-1931,Congo,COG,0.0
-1932,Congo,COG,0.0
-1933,Congo,COG,0.0
-1934,Congo,COG,0.0
-1935,Congo,COG,0.0
-1936,Congo,COG,0.0
-1937,Congo,COG,0.0
-1938,Congo,COG,0.0
-1939,Congo,COG,0.0
-1940,Congo,COG,0.0
-1941,Congo,COG,0.0
-1942,Congo,COG,0.0
-1943,Congo,COG,0.0
-1944,Congo,COG,0.0
-1945,Congo,COG,0.0
-1946,Congo,COG,0.0
-1947,Congo,COG,0.0
-1948,Congo,COG,0.0
-1949,Congo,COG,0.0
-1950,Congo,COG,0.0
-1951,Congo,COG,0.0
-1952,Congo,COG,0.0
-1953,Congo,COG,0.0
-1954,Congo,COG,0.0
-1955,Congo,COG,0.0
-1956,Congo,COG,0.0
-1957,Congo,COG,0.0
-1958,Congo,COG,0.0
-1959,Congo,COG,0.0
-1960,Congo,COG,0.0
-1961,Congo,COG,0.0
-1962,Congo,COG,0.0
-1963,Congo,COG,0.0
-1964,Congo,COG,0.0
-1965,Congo,COG,0.0
-1966,Congo,COG,0.0
-1967,Congo,COG,0.0
-1968,Congo,COG,0.0
-1969,Congo,COG,0.0
-1970,Congo,COG,0.0
-1971,Congo,COG,0.0
-1972,Congo,COG,0.0
-1973,Congo,COG,0.0
-1974,Congo,COG,0.0
-1975,Congo,COG,0.0
 1976,Congo,COG,0.0
 1977,Congo,COG,0.0
 1978,Congo,COG,0.0
@@ -2158,6 +2252,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Congo,COG,0.0
 2019,Congo,COG,0.0
 2020,Congo,COG,0.0
+1920,Costa Rica,CRI,0.0
+1921,Costa Rica,CRI,0.0
+1922,Costa Rica,CRI,0.0
+1923,Costa Rica,CRI,0.0
+1924,Costa Rica,CRI,0.0
+1925,Costa Rica,CRI,0.0
+1926,Costa Rica,CRI,0.0
+1927,Costa Rica,CRI,0.0
+1928,Costa Rica,CRI,0.0
 1929,Costa Rica,CRI,0.0
 1930,Costa Rica,CRI,0.0
 1931,Costa Rica,CRI,0.0
@@ -2250,6 +2353,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Costa Rica,CRI,0.0
 2019,Costa Rica,CRI,0.0
 2020,Costa Rica,CRI,0.0
+1925,Croatia,HRV,0.0
+1926,Croatia,HRV,0.0
+1927,Croatia,HRV,0.0
+1928,Croatia,HRV,0.0
+1929,Croatia,HRV,0.0
+1930,Croatia,HRV,0.0
+1931,Croatia,HRV,0.0
 1932,Croatia,HRV,0.0
 1933,Croatia,HRV,0.0
 1934,Croatia,HRV,0.0
@@ -2339,6 +2449,23 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Croatia,HRV,0.0
 2019,Croatia,HRV,0.0
 2020,Croatia,HRV,0.0
+1954,Cuba,CUB,0.0
+1955,Cuba,CUB,0.0
+1956,Cuba,CUB,0.0
+1957,Cuba,CUB,0.0
+1958,Cuba,CUB,0.0
+1959,Cuba,CUB,0.0
+1960,Cuba,CUB,0.0
+1961,Cuba,CUB,0.0
+1962,Cuba,CUB,0.0
+1963,Cuba,CUB,0.0
+1964,Cuba,CUB,0.0
+1965,Cuba,CUB,0.0
+1966,Cuba,CUB,0.0
+1967,Cuba,CUB,0.0
+1968,Cuba,CUB,0.0
+1969,Cuba,CUB,0.0
+1970,Cuba,CUB,0.0
 1971,Cuba,CUB,0.0
 1972,Cuba,CUB,0.0
 1973,Cuba,CUB,0.0
@@ -2389,6 +2516,9 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Cuba,CUB,0.0
 2019,Cuba,CUB,0.0
 2020,Cuba,CUB,0.0
+1976,Cyprus,CYP,0.0
+1977,Cyprus,CYP,0.0
+1978,Cyprus,CYP,0.0
 1979,Cyprus,CYP,0.0
 1980,Cyprus,CYP,0.0
 1981,Cyprus,CYP,0.0
@@ -2522,6 +2652,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Democratic Republic of the Congo,COD,0.0
 2019,Democratic Republic of the Congo,COD,0.0
 2020,Democratic Republic of the Congo,COD,0.0
+1961,Denmark,DNK,0.0
+1962,Denmark,DNK,0.0
+1963,Denmark,DNK,0.0
+1964,Denmark,DNK,0.0
+1965,Denmark,DNK,0.0
+1966,Denmark,DNK,0.0
+1967,Denmark,DNK,0.0
+1968,Denmark,DNK,0.0
+1969,Denmark,DNK,0.0
 1970,Denmark,DNK,0.0
 1971,Denmark,DNK,0.0
 1972,Denmark,DNK,0.0
@@ -2573,11 +2712,38 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Denmark,DNK,0.0
 2019,Denmark,DNK,0.0
 2020,Denmark,DNK,0.0
-1960,Dominican Republic,DOM,0.0
-1961,Dominican Republic,DOM,0.0
-1962,Dominican Republic,DOM,0.0
-1963,Dominican Republic,DOM,0.0
-1964,Dominican Republic,DOM,0.0
+1989,Djibouti,DJI,0.0
+1990,Djibouti,DJI,0.0
+1991,Djibouti,DJI,0.0
+1992,Djibouti,DJI,0.0
+1993,Djibouti,DJI,0.0
+1994,Djibouti,DJI,0.0
+1995,Djibouti,DJI,0.0
+1996,Djibouti,DJI,0.0
+1997,Djibouti,DJI,0.0
+1998,Djibouti,DJI,0.0
+1999,Djibouti,DJI,0.0
+2000,Djibouti,DJI,0.0
+2001,Djibouti,DJI,0.0
+2002,Djibouti,DJI,0.0
+2003,Djibouti,DJI,0.0
+2004,Djibouti,DJI,0.0
+2005,Djibouti,DJI,0.0
+2006,Djibouti,DJI,0.0
+2007,Djibouti,DJI,0.0
+2008,Djibouti,DJI,0.0
+2009,Djibouti,DJI,0.0
+2010,Djibouti,DJI,0.0
+2011,Djibouti,DJI,0.0
+2012,Djibouti,DJI,0.0
+2013,Djibouti,DJI,0.0
+2014,Djibouti,DJI,0.0
+2015,Djibouti,DJI,0.0
+2016,Djibouti,DJI,0.0
+2017,Djibouti,DJI,0.0
+2018,Djibouti,DJI,0.0
+2019,Djibouti,DJI,0.0
+2020,Djibouti,DJI,0.0
 1965,Dominican Republic,DOM,0.0
 1966,Dominican Republic,DOM,0.0
 1967,Dominican Republic,DOM,0.0
@@ -2634,42 +2800,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Dominican Republic,DOM,0.0
 2019,Dominican Republic,DOM,0.0
 2020,Dominican Republic,DOM,0.0
-1920,Ecuador,ECU,0.0
-1921,Ecuador,ECU,0.0
-1922,Ecuador,ECU,0.0
-1923,Ecuador,ECU,0.0
-1924,Ecuador,ECU,0.0
-1925,Ecuador,ECU,0.0
-1926,Ecuador,ECU,0.0
-1927,Ecuador,ECU,0.0
-1928,Ecuador,ECU,0.0
-1929,Ecuador,ECU,0.0
-1930,Ecuador,ECU,0.0
-1931,Ecuador,ECU,0.0
-1932,Ecuador,ECU,0.0
-1933,Ecuador,ECU,0.0
-1934,Ecuador,ECU,0.0
-1935,Ecuador,ECU,0.0
-1936,Ecuador,ECU,0.0
-1937,Ecuador,ECU,0.0
-1938,Ecuador,ECU,0.0
-1939,Ecuador,ECU,0.0
-1940,Ecuador,ECU,0.0
-1941,Ecuador,ECU,0.0
-1942,Ecuador,ECU,0.0
-1943,Ecuador,ECU,0.0
-1944,Ecuador,ECU,0.0
-1945,Ecuador,ECU,0.0
-1946,Ecuador,ECU,0.0
-1947,Ecuador,ECU,0.0
-1948,Ecuador,ECU,0.0
-1949,Ecuador,ECU,0.0
-1950,Ecuador,ECU,0.0
-1951,Ecuador,ECU,0.0
-1952,Ecuador,ECU,0.0
-1953,Ecuador,ECU,0.0
-1954,Ecuador,ECU,0.0
-1955,Ecuador,ECU,0.0
 1956,Ecuador,ECU,0.0
 1957,Ecuador,ECU,0.0
 1958,Ecuador,ECU,0.0
@@ -2735,11 +2865,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Ecuador,ECU,0.0
 2019,Ecuador,ECU,0.0
 2020,Ecuador,ECU,0.0
-1962,Egypt,EGY,0.0
-1963,Egypt,EGY,0.0
-1964,Egypt,EGY,0.0
-1965,Egypt,EGY,0.0
-1966,Egypt,EGY,0.0
 1967,Egypt,EGY,0.0
 1968,Egypt,EGY,0.0
 1969,Egypt,EGY,0.0
@@ -2794,25 +2919,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Egypt,EGY,0.0
 2019,Egypt,EGY,0.0
 2020,Egypt,EGY,0.0
-1920,El Salvador,SLV,0.0
-1921,El Salvador,SLV,0.0
-1922,El Salvador,SLV,0.0
-1923,El Salvador,SLV,0.0
-1924,El Salvador,SLV,0.0
-1925,El Salvador,SLV,0.0
-1926,El Salvador,SLV,0.0
-1927,El Salvador,SLV,0.0
-1928,El Salvador,SLV,0.0
-1929,El Salvador,SLV,0.0
-1930,El Salvador,SLV,0.0
-1931,El Salvador,SLV,0.0
-1932,El Salvador,SLV,0.0
-1933,El Salvador,SLV,0.0
-1934,El Salvador,SLV,0.0
-1935,El Salvador,SLV,0.0
-1936,El Salvador,SLV,0.0
-1937,El Salvador,SLV,0.0
-1938,El Salvador,SLV,0.0
 1939,El Salvador,SLV,0.0
 1940,El Salvador,SLV,0.0
 1941,El Salvador,SLV,0.0
@@ -2895,6 +3001,12 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,El Salvador,SLV,0.0
 2019,El Salvador,SLV,0.0
 2020,El Salvador,SLV,0.0
+1969,Equatorial Guinea,GNQ,0.0
+1970,Equatorial Guinea,GNQ,0.0
+1971,Equatorial Guinea,GNQ,0.0
+1972,Equatorial Guinea,GNQ,0.0
+1973,Equatorial Guinea,GNQ,0.0
+1974,Equatorial Guinea,GNQ,0.0
 1975,Equatorial Guinea,GNQ,0.0
 1976,Equatorial Guinea,GNQ,0.0
 1977,Equatorial Guinea,GNQ,0.0
@@ -2941,46 +3053,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Equatorial Guinea,GNQ,0.0
 2019,Equatorial Guinea,GNQ,0.0
 2020,Equatorial Guinea,GNQ,0.0
-1972,Eritrea,ERI,0.0
-1973,Eritrea,ERI,0.0
-1974,Eritrea,ERI,0.0
-1975,Eritrea,ERI,0.0
-1976,Eritrea,ERI,0.0
-1977,Eritrea,ERI,0.0
-1978,Eritrea,ERI,0.0
-1979,Eritrea,ERI,0.0
-1980,Eritrea,ERI,0.0
-1981,Eritrea,ERI,0.0
-1982,Eritrea,ERI,0.0
-1983,Eritrea,ERI,0.0
-1984,Eritrea,ERI,0.0
-1985,Eritrea,ERI,0.0
-1986,Eritrea,ERI,0.0
-1987,Eritrea,ERI,0.0
-1988,Eritrea,ERI,0.0
-1989,Eritrea,ERI,0.0
-1990,Eritrea,ERI,0.0
-1991,Eritrea,ERI,0.0
-1992,Eritrea,ERI,0.0
-1993,Eritrea,ERI,0.0
-1994,Eritrea,ERI,0.0
-1995,Eritrea,ERI,0.0
-1996,Eritrea,ERI,0.0
-1997,Eritrea,ERI,0.0
-1998,Eritrea,ERI,0.0
-1999,Eritrea,ERI,0.0
-2000,Eritrea,ERI,0.0
-2001,Eritrea,ERI,0.0
-2002,Eritrea,ERI,0.0
-2003,Eritrea,ERI,0.0
-2004,Eritrea,ERI,0.0
-2005,Eritrea,ERI,0.0
 2006,Eritrea,ERI,0.0
 2007,Eritrea,ERI,0.0
 2008,Eritrea,ERI,0.0
 2009,Eritrea,ERI,0.0
 2010,Eritrea,ERI,0.0
 2011,Eritrea,ERI,0.0
+2012,Eritrea,ERI,0.0
+2013,Eritrea,ERI,0.0
 2014,Eritrea,ERI,0.0
 2015,Eritrea,ERI,0.0
 2016,Eritrea,ERI,0.0
@@ -2988,11 +3068,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Eritrea,ERI,0.0
 2019,Eritrea,ERI,0.0
 2020,Eritrea,ERI,0.0
-1978,Estonia,EST,0.0
-1979,Estonia,EST,0.0
-1980,Estonia,EST,0.0
-1981,Estonia,EST,0.0
-1982,Estonia,EST,0.0
 1983,Estonia,EST,0.0
 1984,Estonia,EST,0.0
 1985,Estonia,EST,0.0
@@ -3092,6 +3167,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Ethiopia,ETH,0.0
 2019,Ethiopia,ETH,0.0
 2020,Ethiopia,ETH,0.0
+1973,Fiji,FJI,0.0
+1974,Fiji,FJI,0.0
+1975,Fiji,FJI,0.0
+1976,Fiji,FJI,0.0
+1977,Fiji,FJI,0.0
+1978,Fiji,FJI,0.0
+1979,Fiji,FJI,0.0
+1980,Fiji,FJI,0.0
+1981,Fiji,FJI,0.0
+1982,Fiji,FJI,0.0
 1983,Fiji,FJI,0.0
 1984,Fiji,FJI,0.0
 1985,Fiji,FJI,0.0
@@ -3193,9 +3278,9 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 1980,Finland,FIN,0.0
 1981,Finland,FIN,0.0
 1982,Finland,FIN,0.0
-1983,Finland,FIN,50.25
-1984,Finland,FIN,50.25
-1985,Finland,FIN,50.25
+1983,Finland,FIN,0.0
+1984,Finland,FIN,0.0
+1985,Finland,FIN,0.0
 1986,Finland,FIN,50.25
 1987,Finland,FIN,50.25
 1988,Finland,FIN,50.25
@@ -3214,7 +3299,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2001,Finland,FIN,50.25
 2002,Finland,FIN,50.25
 2003,Finland,FIN,50.25
-2004,Finland,FIN,70.25
+2004,Finland,FIN,50.25
 2005,Finland,FIN,70.25
 2006,Finland,FIN,70.25
 2007,Finland,FIN,70.25
@@ -3226,8 +3311,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2013,Finland,FIN,70.25
 2014,Finland,FIN,70.25
 2015,Finland,FIN,70.25
-2016,Finland,FIN,90.25
-2017,Finland,FIN,90.25
+2016,Finland,FIN,70.25
+2017,Finland,FIN,70.25
 2018,Finland,FIN,90.25
 2019,Finland,FIN,90.25
 2020,Finland,FIN,90.25
@@ -3332,6 +3417,32 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,France,FRA,0.0
 2019,France,FRA,0.0
 2020,France,FRA,0.0
+1968,French Guiana,GUF,0.0
+1969,French Guiana,GUF,0.0
+1970,French Guiana,GUF,0.0
+1971,French Guiana,GUF,0.0
+1972,French Guiana,GUF,0.0
+1973,French Guiana,GUF,0.0
+1974,French Guiana,GUF,0.0
+1975,French Guiana,GUF,0.0
+1976,French Guiana,GUF,0.0
+1977,French Guiana,GUF,0.0
+1978,French Guiana,GUF,0.0
+1979,French Guiana,GUF,0.0
+1980,French Guiana,GUF,0.0
+1981,French Guiana,GUF,0.0
+1982,French Guiana,GUF,0.0
+1983,French Guiana,GUF,0.0
+1984,French Guiana,GUF,0.0
+1985,French Guiana,GUF,0.0
+1986,French Guiana,GUF,0.0
+1987,French Guiana,GUF,0.0
+1988,French Guiana,GUF,0.0
+1989,French Guiana,GUF,0.0
+1990,French Guiana,GUF,0.0
+1991,French Guiana,GUF,0.0
+1992,French Guiana,GUF,0.0
+1993,French Guiana,GUF,0.0
 1994,French Guiana,GUF,0.0
 1995,French Guiana,GUF,0.0
 1996,French Guiana,GUF,0.0
@@ -3359,6 +3470,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,French Guiana,GUF,0.0
 2019,French Guiana,GUF,0.0
 2020,French Guiana,GUF,0.0
+1926,Gabon,GAB,0.0
+1927,Gabon,GAB,0.0
+1928,Gabon,GAB,0.0
+1929,Gabon,GAB,0.0
+1930,Gabon,GAB,0.0
+1931,Gabon,GAB,0.0
+1932,Gabon,GAB,0.0
+1933,Gabon,GAB,0.0
+1934,Gabon,GAB,0.0
+1935,Gabon,GAB,0.0
+1936,Gabon,GAB,0.0
+1937,Gabon,GAB,0.0
+1938,Gabon,GAB,0.0
+1939,Gabon,GAB,0.0
+1940,Gabon,GAB,0.0
+1941,Gabon,GAB,0.0
+1942,Gabon,GAB,0.0
+1943,Gabon,GAB,0.0
+1944,Gabon,GAB,0.0
+1945,Gabon,GAB,0.0
+1946,Gabon,GAB,0.0
+1947,Gabon,GAB,0.0
+1948,Gabon,GAB,0.0
+1949,Gabon,GAB,0.0
+1950,Gabon,GAB,0.0
+1951,Gabon,GAB,0.0
+1952,Gabon,GAB,0.0
 1953,Gabon,GAB,0.0
 1954,Gabon,GAB,0.0
 1955,Gabon,GAB,0.0
@@ -3427,6 +3565,52 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Gabon,GAB,0.0
 2019,Gabon,GAB,0.0
 2020,Gabon,GAB,0.0
+1975,Gambia,GMB,0.0
+1976,Gambia,GMB,0.0
+1977,Gambia,GMB,0.0
+1978,Gambia,GMB,0.0
+1979,Gambia,GMB,0.0
+1980,Gambia,GMB,0.0
+1981,Gambia,GMB,0.0
+1982,Gambia,GMB,0.0
+1983,Gambia,GMB,0.0
+1984,Gambia,GMB,0.0
+1985,Gambia,GMB,0.0
+1986,Gambia,GMB,0.0
+1987,Gambia,GMB,0.0
+1988,Gambia,GMB,0.0
+1989,Gambia,GMB,0.0
+1990,Gambia,GMB,0.0
+1991,Gambia,GMB,0.0
+1992,Gambia,GMB,0.0
+1993,Gambia,GMB,0.0
+1994,Gambia,GMB,0.0
+1995,Gambia,GMB,0.0
+1996,Gambia,GMB,0.0
+1997,Gambia,GMB,0.0
+1998,Gambia,GMB,0.0
+1999,Gambia,GMB,0.0
+2000,Gambia,GMB,0.0
+2001,Gambia,GMB,0.0
+2002,Gambia,GMB,0.0
+2003,Gambia,GMB,0.0
+2004,Gambia,GMB,0.0
+2005,Gambia,GMB,0.0
+2006,Gambia,GMB,0.0
+2007,Gambia,GMB,0.0
+2008,Gambia,GMB,0.0
+2009,Gambia,GMB,0.0
+2010,Gambia,GMB,0.0
+2011,Gambia,GMB,0.0
+2012,Gambia,GMB,0.0
+2013,Gambia,GMB,0.0
+2014,Gambia,GMB,0.0
+2015,Gambia,GMB,0.0
+2016,Gambia,GMB,0.0
+2017,Gambia,GMB,0.0
+2018,Gambia,GMB,0.0
+2019,Gambia,GMB,0.0
+2020,Gambia,GMB,0.0
 1920,Georgia,GEO,0.0
 1921,Georgia,GEO,0.0
 1922,Georgia,GEO,0.0
@@ -3565,70 +3749,70 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 1954,Germany,DEU,28.85
 1955,Germany,DEU,28.85
 1956,Germany,DEU,28.85
-1957,Germany,DEU,28.85
-1958,Germany,DEU,28.85
-1959,Germany,DEU,28.85
-1960,Germany,DEU,28.85
-1961,Germany,DEU,28.85
-1962,Germany,DEU,28.85
-1963,Germany,DEU,28.85
-1964,Germany,DEU,56.85
-1965,Germany,DEU,56.85
-1966,Germany,DEU,56.85
-1967,Germany,DEU,56.85
-1968,Germany,DEU,56.85
-1969,Germany,DEU,56.85
-1970,Germany,DEU,56.85
-1971,Germany,DEU,56.85
-1972,Germany,DEU,56.85
-1973,Germany,DEU,56.85
-1974,Germany,DEU,56.85
-1975,Germany,DEU,56.85
-1976,Germany,DEU,56.85
-1977,Germany,DEU,56.85
-1978,Germany,DEU,56.85
-1979,Germany,DEU,37.85
-1980,Germany,DEU,37.85
-1981,Germany,DEU,37.85
-1982,Germany,DEU,45.85
-1983,Germany,DEU,45.85
-1984,Germany,DEU,45.85
-1985,Germany,DEU,45.85
-1986,Germany,DEU,45.85
-1987,Germany,DEU,45.85
-1988,Germany,DEU,45.85
-1989,Germany,DEU,45.85
-1990,Germany,DEU,45.85
-1991,Germany,DEU,45.85
-1992,Germany,DEU,45.85
-1993,Germany,DEU,45.85
-1994,Germany,DEU,45.85
-1995,Germany,DEU,45.85
-1996,Germany,DEU,45.85
-1997,Germany,DEU,45.85
-1998,Germany,DEU,45.85
-1999,Germany,DEU,45.85
-2000,Germany,DEU,52.85
-2001,Germany,DEU,52.85
-2002,Germany,DEU,52.85
-2003,Germany,DEU,52.85
-2004,Germany,DEU,43.0
-2005,Germany,DEU,43.0
-2006,Germany,DEU,43.0
-2007,Germany,DEU,43.0
-2008,Germany,DEU,43.0
-2009,Germany,DEU,43.0
-2010,Germany,DEU,287.35
-2011,Germany,DEU,299.1
-2012,Germany,DEU,299.1
-2013,Germany,DEU,349.6
-2014,Germany,DEU,321.6
-2015,Germany,DEU,321.6
-2016,Germany,DEU,321.6
-2017,Germany,DEU,321.6
-2018,Germany,DEU,321.6
-2019,Germany,DEU,321.6
-2020,Germany,DEU,321.6
+1957,Germany,DEU,36.85
+1958,Germany,DEU,36.85
+1959,Germany,DEU,36.85
+1960,Germany,DEU,36.85
+1961,Germany,DEU,36.85
+1962,Germany,DEU,36.85
+1963,Germany,DEU,36.85
+1964,Germany,DEU,64.85
+1965,Germany,DEU,64.85
+1966,Germany,DEU,64.85
+1967,Germany,DEU,64.85
+1968,Germany,DEU,111.95
+1969,Germany,DEU,111.95
+1970,Germany,DEU,111.95
+1971,Germany,DEU,111.95
+1972,Germany,DEU,111.95
+1973,Germany,DEU,111.95
+1974,Germany,DEU,111.95
+1975,Germany,DEU,111.95
+1976,Germany,DEU,111.95
+1977,Germany,DEU,111.95
+1978,Germany,DEU,111.95
+1979,Germany,DEU,92.95
+1980,Germany,DEU,92.95
+1981,Germany,DEU,92.95
+1982,Germany,DEU,92.95
+1983,Germany,DEU,92.95
+1984,Germany,DEU,92.95
+1985,Germany,DEU,92.95
+1986,Germany,DEU,92.95
+1987,Germany,DEU,92.95
+1988,Germany,DEU,92.95
+1989,Germany,DEU,92.95
+1990,Germany,DEU,92.95
+1991,Germany,DEU,92.95
+1992,Germany,DEU,92.95
+1993,Germany,DEU,92.95
+1994,Germany,DEU,92.95
+1995,Germany,DEU,92.95
+1996,Germany,DEU,92.95
+1997,Germany,DEU,92.95
+1998,Germany,DEU,92.95
+1999,Germany,DEU,92.95
+2000,Germany,DEU,99.95
+2001,Germany,DEU,99.95
+2002,Germany,DEU,99.95
+2003,Germany,DEU,99.95
+2004,Germany,DEU,90.1
+2005,Germany,DEU,90.1
+2006,Germany,DEU,90.1
+2007,Germany,DEU,82.1
+2008,Germany,DEU,82.1
+2009,Germany,DEU,82.1
+2010,Germany,DEU,279.35
+2011,Germany,DEU,291.1
+2012,Germany,DEU,291.1
+2013,Germany,DEU,341.6
+2014,Germany,DEU,313.6
+2015,Germany,DEU,313.6
+2016,Germany,DEU,313.6
+2017,Germany,DEU,313.6
+2018,Germany,DEU,266.5
+2019,Germany,DEU,266.5
+2020,Germany,DEU,266.5
 1961,Ghana,GHA,0.0
 1962,Ghana,GHA,0.0
 1963,Ghana,GHA,0.0
@@ -3689,26 +3873,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Ghana,GHA,0.0
 2019,Ghana,GHA,0.0
 2020,Ghana,GHA,0.0
-1934,Greece,GRC,0.0
-1935,Greece,GRC,0.0
-1936,Greece,GRC,0.0
-1937,Greece,GRC,0.0
-1938,Greece,GRC,0.0
-1939,Greece,GRC,0.0
-1940,Greece,GRC,0.0
-1941,Greece,GRC,0.0
-1942,Greece,GRC,0.0
-1943,Greece,GRC,0.0
-1944,Greece,GRC,0.0
-1945,Greece,GRC,0.0
-1946,Greece,GRC,0.0
-1947,Greece,GRC,0.0
-1948,Greece,GRC,0.0
-1949,Greece,GRC,0.0
-1950,Greece,GRC,0.0
-1951,Greece,GRC,0.0
-1952,Greece,GRC,0.0
-1953,Greece,GRC,0.0
 1954,Greece,GRC,0.0
 1955,Greece,GRC,0.0
 1956,Greece,GRC,0.0
@@ -3877,30 +4041,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Guatemala,GTM,0.0
 2019,Guatemala,GTM,0.0
 2020,Guatemala,GTM,0.0
-1930,Guinea,GIN,0.0
-1931,Guinea,GIN,0.0
-1932,Guinea,GIN,0.0
-1933,Guinea,GIN,0.0
-1934,Guinea,GIN,0.0
-1935,Guinea,GIN,0.0
-1936,Guinea,GIN,0.0
-1937,Guinea,GIN,0.0
-1938,Guinea,GIN,0.0
-1939,Guinea,GIN,0.0
-1940,Guinea,GIN,0.0
-1941,Guinea,GIN,0.0
-1942,Guinea,GIN,0.0
-1943,Guinea,GIN,0.0
-1944,Guinea,GIN,0.0
-1945,Guinea,GIN,0.0
-1946,Guinea,GIN,0.0
-1947,Guinea,GIN,0.0
-1948,Guinea,GIN,0.0
-1949,Guinea,GIN,0.0
-1950,Guinea,GIN,0.0
-1951,Guinea,GIN,0.0
-1952,Guinea,GIN,0.0
-1953,Guinea,GIN,0.0
 1954,Guinea,GIN,0.0
 1955,Guinea,GIN,0.0
 1956,Guinea,GIN,0.0
@@ -3968,6 +4108,94 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Guinea,GIN,0.0
 2019,Guinea,GIN,0.0
 2020,Guinea,GIN,0.0
+1977,Guinea-Bissau,GNB,0.0
+1978,Guinea-Bissau,GNB,0.0
+1979,Guinea-Bissau,GNB,0.0
+1980,Guinea-Bissau,GNB,0.0
+1981,Guinea-Bissau,GNB,0.0
+1982,Guinea-Bissau,GNB,0.0
+1983,Guinea-Bissau,GNB,0.0
+1984,Guinea-Bissau,GNB,0.0
+1985,Guinea-Bissau,GNB,0.0
+1986,Guinea-Bissau,GNB,0.0
+1987,Guinea-Bissau,GNB,0.0
+1988,Guinea-Bissau,GNB,0.0
+1989,Guinea-Bissau,GNB,0.0
+1990,Guinea-Bissau,GNB,0.0
+1991,Guinea-Bissau,GNB,0.0
+1992,Guinea-Bissau,GNB,0.0
+1993,Guinea-Bissau,GNB,0.0
+1994,Guinea-Bissau,GNB,0.0
+1995,Guinea-Bissau,GNB,0.0
+1996,Guinea-Bissau,GNB,0.0
+1997,Guinea-Bissau,GNB,0.0
+1998,Guinea-Bissau,GNB,0.0
+1999,Guinea-Bissau,GNB,0.0
+2000,Guinea-Bissau,GNB,0.0
+2001,Guinea-Bissau,GNB,0.0
+2002,Guinea-Bissau,GNB,0.0
+2003,Guinea-Bissau,GNB,0.0
+2004,Guinea-Bissau,GNB,0.0
+2005,Guinea-Bissau,GNB,0.0
+2006,Guinea-Bissau,GNB,0.0
+2007,Guinea-Bissau,GNB,0.0
+2008,Guinea-Bissau,GNB,0.0
+2009,Guinea-Bissau,GNB,0.0
+2010,Guinea-Bissau,GNB,0.0
+2011,Guinea-Bissau,GNB,0.0
+2012,Guinea-Bissau,GNB,0.0
+2013,Guinea-Bissau,GNB,0.0
+2014,Guinea-Bissau,GNB,0.0
+2015,Guinea-Bissau,GNB,0.0
+2016,Guinea-Bissau,GNB,0.0
+1976,Guyana,GUY,0.0
+1977,Guyana,GUY,0.0
+1978,Guyana,GUY,0.0
+1979,Guyana,GUY,0.0
+1980,Guyana,GUY,0.0
+1981,Guyana,GUY,0.0
+1982,Guyana,GUY,0.0
+1983,Guyana,GUY,0.0
+1984,Guyana,GUY,0.0
+1985,Guyana,GUY,0.0
+1986,Guyana,GUY,0.0
+1987,Guyana,GUY,0.0
+1988,Guyana,GUY,0.0
+1989,Guyana,GUY,0.0
+1990,Guyana,GUY,0.0
+1991,Guyana,GUY,0.0
+1992,Guyana,GUY,0.0
+1993,Guyana,GUY,0.0
+1994,Guyana,GUY,0.0
+1995,Guyana,GUY,0.0
+1996,Guyana,GUY,0.0
+1997,Guyana,GUY,0.0
+1998,Guyana,GUY,0.0
+1999,Guyana,GUY,0.0
+2000,Guyana,GUY,0.0
+2001,Guyana,GUY,0.0
+2002,Guyana,GUY,0.0
+2003,Guyana,GUY,0.0
+2004,Guyana,GUY,0.0
+2005,Guyana,GUY,0.0
+2006,Guyana,GUY,0.0
+2007,Guyana,GUY,0.0
+2008,Guyana,GUY,0.0
+2009,Guyana,GUY,0.0
+2010,Guyana,GUY,0.0
+2011,Guyana,GUY,0.0
+2012,Guyana,GUY,0.0
+2013,Guyana,GUY,0.0
+2014,Guyana,GUY,0.0
+2015,Guyana,GUY,0.0
+2016,Guyana,GUY,0.0
+2017,Guyana,GUY,0.0
+2018,Guyana,GUY,0.0
+2019,Guyana,GUY,0.0
+2020,Guyana,GUY,0.0
+1939,Honduras,HND,0.0
+1940,Honduras,HND,0.0
+1941,Honduras,HND,0.0
 1942,Honduras,HND,0.0
 1943,Honduras,HND,0.0
 1944,Honduras,HND,0.0
@@ -4111,20 +4339,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Hungary,HUN,0.0
 2019,Hungary,HUN,0.0
 2020,Hungary,HUN,0.0
-1923,Iceland,ISL,0.0
-1924,Iceland,ISL,0.0
-1925,Iceland,ISL,0.0
-1926,Iceland,ISL,0.0
-1927,Iceland,ISL,0.0
-1928,Iceland,ISL,0.0
-1929,Iceland,ISL,0.0
-1930,Iceland,ISL,0.0
-1931,Iceland,ISL,0.0
-1932,Iceland,ISL,0.0
-1933,Iceland,ISL,0.0
-1934,Iceland,ISL,0.0
-1935,Iceland,ISL,0.0
-1936,Iceland,ISL,0.0
 1937,Iceland,ISL,0.0
 1938,Iceland,ISL,0.0
 1939,Iceland,ISL,0.0
@@ -4469,6 +4683,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Iraq,IRQ,0.0
 2019,Iraq,IRQ,0.0
 2020,Iraq,IRQ,0.0
+1956,Ireland,IRL,0.0
+1957,Ireland,IRL,0.0
+1958,Ireland,IRL,0.0
+1959,Ireland,IRL,0.0
+1960,Ireland,IRL,0.0
+1961,Ireland,IRL,0.0
+1962,Ireland,IRL,0.0
+1963,Ireland,IRL,0.0
+1964,Ireland,IRL,0.0
+1965,Ireland,IRL,0.0
+1966,Ireland,IRL,0.0
+1967,Ireland,IRL,0.0
 1968,Ireland,IRL,0.0
 1969,Ireland,IRL,0.0
 1970,Ireland,IRL,0.0
@@ -4598,91 +4824,91 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 1933,Italy,ITA,0.0
 1934,Italy,ITA,0.0
 1935,Italy,ITA,0.0
-1936,Italy,ITA,52.5
-1937,Italy,ITA,52.5
-1938,Italy,ITA,52.5
-1939,Italy,ITA,52.5
-1940,Italy,ITA,52.5
-1941,Italy,ITA,52.5
-1942,Italy,ITA,52.5
-1943,Italy,ITA,52.5
-1944,Italy,ITA,52.5
-1945,Italy,ITA,52.5
-1946,Italy,ITA,52.5
-1947,Italy,ITA,52.5
-1948,Italy,ITA,52.5
-1949,Italy,ITA,52.5
-1950,Italy,ITA,52.5
-1951,Italy,ITA,52.5
-1952,Italy,ITA,52.5
-1953,Italy,ITA,52.5
-1954,Italy,ITA,52.5
-1955,Italy,ITA,52.5
-1956,Italy,ITA,52.5
-1957,Italy,ITA,52.5
-1958,Italy,ITA,52.5
-1959,Italy,ITA,52.5
-1960,Italy,ITA,52.5
-1961,Italy,ITA,52.5
-1962,Italy,ITA,52.5
-1963,Italy,ITA,52.5
-1964,Italy,ITA,52.5
-1965,Italy,ITA,52.5
-1966,Italy,ITA,52.5
-1967,Italy,ITA,52.5
-1968,Italy,ITA,52.5
-1969,Italy,ITA,52.5
-1970,Italy,ITA,52.5
-1971,Italy,ITA,52.5
-1972,Italy,ITA,52.5
-1973,Italy,ITA,52.5
-1974,Italy,ITA,107.8
-1975,Italy,ITA,107.8
-1976,Italy,ITA,107.8
-1977,Italy,ITA,107.8
-1978,Italy,ITA,107.8
-1979,Italy,ITA,107.8
-1980,Italy,ITA,107.8
-1981,Italy,ITA,107.8
-1982,Italy,ITA,107.8
-1983,Italy,ITA,107.8
-1984,Italy,ITA,107.8
-1985,Italy,ITA,107.8
-1986,Italy,ITA,103.8
-1987,Italy,ITA,103.8
-1988,Italy,ITA,103.8
-1989,Italy,ITA,103.8
-1990,Italy,ITA,103.8
-1991,Italy,ITA,103.8
-1992,Italy,ITA,103.8
-1993,Italy,ITA,103.8
-1994,Italy,ITA,103.8
-1995,Italy,ITA,103.8
-1996,Italy,ITA,103.8
-1997,Italy,ITA,103.8
-1998,Italy,ITA,103.8
-1999,Italy,ITA,103.8
-2000,Italy,ITA,103.8
-2001,Italy,ITA,103.8
-2002,Italy,ITA,103.8
-2003,Italy,ITA,139.8
-2004,Italy,ITA,139.8
-2005,Italy,ITA,139.8
-2006,Italy,ITA,139.8
-2007,Italy,ITA,139.8
-2008,Italy,ITA,139.8
-2009,Italy,ITA,139.8
-2010,Italy,ITA,139.8
-2011,Italy,ITA,139.8
-2012,Italy,ITA,139.8
-2013,Italy,ITA,139.8
-2014,Italy,ITA,139.8
-2015,Italy,ITA,139.8
-2016,Italy,ITA,139.8
-2017,Italy,ITA,139.8
-2018,Italy,ITA,139.8
-2019,Italy,ITA,139.8
-2020,Italy,ITA,139.8
+1936,Italy,ITA,0.0
+1937,Italy,ITA,0.0
+1938,Italy,ITA,0.0
+1939,Italy,ITA,0.0
+1940,Italy,ITA,0.0
+1941,Italy,ITA,0.0
+1942,Italy,ITA,0.0
+1943,Italy,ITA,0.0
+1944,Italy,ITA,0.0
+1945,Italy,ITA,0.0
+1946,Italy,ITA,0.0
+1947,Italy,ITA,0.0
+1948,Italy,ITA,0.0
+1949,Italy,ITA,0.0
+1950,Italy,ITA,0.0
+1951,Italy,ITA,0.0
+1952,Italy,ITA,0.0
+1953,Italy,ITA,0.0
+1954,Italy,ITA,0.0
+1955,Italy,ITA,0.0
+1956,Italy,ITA,0.0
+1957,Italy,ITA,0.0
+1958,Italy,ITA,0.0
+1959,Italy,ITA,0.0
+1960,Italy,ITA,0.0
+1961,Italy,ITA,0.0
+1962,Italy,ITA,0.0
+1963,Italy,ITA,0.0
+1964,Italy,ITA,0.0
+1965,Italy,ITA,0.0
+1966,Italy,ITA,0.0
+1967,Italy,ITA,0.0
+1968,Italy,ITA,0.0
+1969,Italy,ITA,0.0
+1970,Italy,ITA,0.0
+1971,Italy,ITA,0.0
+1972,Italy,ITA,0.0
+1973,Italy,ITA,0.0
+1974,Italy,ITA,36.0
+1975,Italy,ITA,36.0
+1976,Italy,ITA,36.0
+1977,Italy,ITA,36.0
+1978,Italy,ITA,36.0
+1979,Italy,ITA,36.0
+1980,Italy,ITA,36.0
+1981,Italy,ITA,36.0
+1982,Italy,ITA,36.0
+1983,Italy,ITA,36.0
+1984,Italy,ITA,36.0
+1985,Italy,ITA,36.0
+1986,Italy,ITA,36.0
+1987,Italy,ITA,36.0
+1988,Italy,ITA,36.0
+1989,Italy,ITA,36.0
+1990,Italy,ITA,36.0
+1991,Italy,ITA,36.0
+1992,Italy,ITA,36.0
+1993,Italy,ITA,36.0
+1994,Italy,ITA,36.0
+1995,Italy,ITA,36.0
+1996,Italy,ITA,36.0
+1997,Italy,ITA,36.0
+1998,Italy,ITA,36.0
+1999,Italy,ITA,139.8
+2000,Italy,ITA,139.8
+2001,Italy,ITA,139.8
+2002,Italy,ITA,192.3
+2003,Italy,ITA,192.3
+2004,Italy,ITA,192.3
+2005,Italy,ITA,192.3
+2006,Italy,ITA,192.3
+2007,Italy,ITA,192.3
+2008,Italy,ITA,192.3
+2009,Italy,ITA,192.3
+2010,Italy,ITA,192.3
+2011,Italy,ITA,192.3
+2012,Italy,ITA,192.3
+2013,Italy,ITA,192.3
+2014,Italy,ITA,192.3
+2015,Italy,ITA,192.3
+2016,Italy,ITA,192.3
+2017,Italy,ITA,192.3
+2018,Italy,ITA,192.3
+2019,Italy,ITA,192.3
+2020,Italy,ITA,192.3
 1945,Jamaica,JAM,0.0
 1946,Jamaica,JAM,0.0
 1947,Jamaica,JAM,0.0
@@ -4860,12 +5086,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Japan,JPN,0.0
 2019,Japan,JPN,0.0
 2020,Japan,JPN,0.0
-1965,Jordan,JOR,0.0
-1966,Jordan,JOR,0.0
-1967,Jordan,JOR,0.0
-1968,Jordan,JOR,0.0
-1969,Jordan,JOR,0.0
-1970,Jordan,JOR,0.0
 1971,Jordan,JOR,0.0
 1972,Jordan,JOR,0.0
 1973,Jordan,JOR,0.0
@@ -4916,35 +5136,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Jordan,JOR,0.0
 2019,Jordan,JOR,0.0
 2020,Jordan,JOR,0.0
-1922,Kazakhstan,KAZ,0.0
-1923,Kazakhstan,KAZ,0.0
-1924,Kazakhstan,KAZ,0.0
-1925,Kazakhstan,KAZ,0.0
-1926,Kazakhstan,KAZ,0.0
-1927,Kazakhstan,KAZ,0.0
-1928,Kazakhstan,KAZ,0.0
-1929,Kazakhstan,KAZ,0.0
-1930,Kazakhstan,KAZ,0.0
-1931,Kazakhstan,KAZ,0.0
-1932,Kazakhstan,KAZ,0.0
-1933,Kazakhstan,KAZ,0.0
-1934,Kazakhstan,KAZ,0.0
-1935,Kazakhstan,KAZ,0.0
-1936,Kazakhstan,KAZ,0.0
-1937,Kazakhstan,KAZ,0.0
-1938,Kazakhstan,KAZ,0.0
-1939,Kazakhstan,KAZ,0.0
-1940,Kazakhstan,KAZ,0.0
-1941,Kazakhstan,KAZ,0.0
-1942,Kazakhstan,KAZ,0.0
-1943,Kazakhstan,KAZ,0.0
-1944,Kazakhstan,KAZ,0.0
-1945,Kazakhstan,KAZ,0.0
-1946,Kazakhstan,KAZ,0.0
-1947,Kazakhstan,KAZ,0.0
-1948,Kazakhstan,KAZ,0.0
-1949,Kazakhstan,KAZ,0.0
-1950,Kazakhstan,KAZ,0.0
 1951,Kazakhstan,KAZ,0.0
 1952,Kazakhstan,KAZ,0.0
 1953,Kazakhstan,KAZ,0.0
@@ -5068,36 +5259,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Kenya,KEN,0.0
 2019,Kenya,KEN,0.0
 2020,Kenya,KEN,0.0
-1974,Kuwait,KWT,0.0
-1975,Kuwait,KWT,0.0
-1976,Kuwait,KWT,0.0
-1977,Kuwait,KWT,0.0
-1978,Kuwait,KWT,0.0
-1979,Kuwait,KWT,0.0
-1980,Kuwait,KWT,0.0
-1981,Kuwait,KWT,0.0
-1982,Kuwait,KWT,0.0
-1983,Kuwait,KWT,0.0
-1984,Kuwait,KWT,0.0
-1985,Kuwait,KWT,0.0
-1986,Kuwait,KWT,0.0
-1987,Kuwait,KWT,0.0
-1988,Kuwait,KWT,0.0
-1989,Kuwait,KWT,0.0
-1990,Kuwait,KWT,0.0
-1991,Kuwait,KWT,0.0
-1992,Kuwait,KWT,0.0
-1993,Kuwait,KWT,0.0
-1994,Kuwait,KWT,0.0
-1995,Kuwait,KWT,0.0
-1996,Kuwait,KWT,0.0
-1997,Kuwait,KWT,0.0
-1998,Kuwait,KWT,0.0
-1999,Kuwait,KWT,0.0
-2000,Kuwait,KWT,0.0
-2001,Kuwait,KWT,0.0
-2002,Kuwait,KWT,0.0
-2003,Kuwait,KWT,0.0
 2004,Kuwait,KWT,0.0
 2005,Kuwait,KWT,0.0
 2006,Kuwait,KWT,0.0
@@ -5115,32 +5276,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Kuwait,KWT,0.0
 2019,Kuwait,KWT,0.0
 2020,Kuwait,KWT,0.0
-1925,Kyrgyzstan,KGZ,0.0
-1926,Kyrgyzstan,KGZ,0.0
-1927,Kyrgyzstan,KGZ,0.0
-1928,Kyrgyzstan,KGZ,0.0
-1929,Kyrgyzstan,KGZ,0.0
-1930,Kyrgyzstan,KGZ,0.0
-1931,Kyrgyzstan,KGZ,0.0
-1932,Kyrgyzstan,KGZ,0.0
-1933,Kyrgyzstan,KGZ,0.0
-1934,Kyrgyzstan,KGZ,0.0
-1935,Kyrgyzstan,KGZ,0.0
-1936,Kyrgyzstan,KGZ,0.0
-1937,Kyrgyzstan,KGZ,0.0
-1938,Kyrgyzstan,KGZ,0.0
-1939,Kyrgyzstan,KGZ,0.0
-1940,Kyrgyzstan,KGZ,0.0
-1941,Kyrgyzstan,KGZ,0.0
-1942,Kyrgyzstan,KGZ,0.0
-1943,Kyrgyzstan,KGZ,0.0
-1944,Kyrgyzstan,KGZ,0.0
-1945,Kyrgyzstan,KGZ,0.0
-1946,Kyrgyzstan,KGZ,0.0
-1947,Kyrgyzstan,KGZ,0.0
-1948,Kyrgyzstan,KGZ,0.0
-1949,Kyrgyzstan,KGZ,0.0
-1950,Kyrgyzstan,KGZ,0.0
 1951,Kyrgyzstan,KGZ,0.0
 1952,Kyrgyzstan,KGZ,0.0
 1953,Kyrgyzstan,KGZ,0.0
@@ -5211,6 +5346,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Kyrgyzstan,KGZ,0.0
 2019,Kyrgyzstan,KGZ,0.0
 2020,Kyrgyzstan,KGZ,0.0
+1920,Latvia,LVA,0.0
+1921,Latvia,LVA,0.0
+1922,Latvia,LVA,0.0
+1923,Latvia,LVA,0.0
+1924,Latvia,LVA,0.0
+1925,Latvia,LVA,0.0
+1926,Latvia,LVA,0.0
+1927,Latvia,LVA,0.0
+1928,Latvia,LVA,0.0
+1929,Latvia,LVA,0.0
 1930,Latvia,LVA,0.0
 1931,Latvia,LVA,0.0
 1932,Latvia,LVA,0.0
@@ -5302,6 +5447,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Latvia,LVA,0.0
 2019,Latvia,LVA,0.0
 2020,Latvia,LVA,0.0
+1971,Lebanon,LBN,0.0
+1972,Lebanon,LBN,0.0
+1973,Lebanon,LBN,0.0
+1974,Lebanon,LBN,0.0
+1975,Lebanon,LBN,0.0
+1976,Lebanon,LBN,0.0
+1977,Lebanon,LBN,0.0
+1978,Lebanon,LBN,0.0
+1979,Lebanon,LBN,0.0
+1980,Lebanon,LBN,0.0
+1981,Lebanon,LBN,0.0
+1982,Lebanon,LBN,0.0
+1983,Lebanon,LBN,0.0
+1984,Lebanon,LBN,0.0
+1985,Lebanon,LBN,0.0
+1986,Lebanon,LBN,0.0
+1987,Lebanon,LBN,0.0
+1988,Lebanon,LBN,0.0
+1989,Lebanon,LBN,0.0
+1990,Lebanon,LBN,0.0
+1991,Lebanon,LBN,0.0
+1992,Lebanon,LBN,0.0
+1993,Lebanon,LBN,0.0
+1994,Lebanon,LBN,0.0
+1995,Lebanon,LBN,0.0
+1996,Lebanon,LBN,0.0
+1997,Lebanon,LBN,0.0
 1998,Lebanon,LBN,0.0
 1999,Lebanon,LBN,0.0
 2000,Lebanon,LBN,0.0
@@ -5325,71 +5497,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Lebanon,LBN,0.0
 2019,Lebanon,LBN,0.0
 2020,Lebanon,LBN,0.0
-1933,Lesotho,LSO,0.0
-1934,Lesotho,LSO,0.0
-1935,Lesotho,LSO,0.0
-1936,Lesotho,LSO,0.0
-1937,Lesotho,LSO,0.0
-1938,Lesotho,LSO,0.0
-1939,Lesotho,LSO,0.0
-1940,Lesotho,LSO,0.0
-1941,Lesotho,LSO,0.0
-1942,Lesotho,LSO,0.0
-1943,Lesotho,LSO,0.0
-1944,Lesotho,LSO,0.0
-1945,Lesotho,LSO,0.0
-1946,Lesotho,LSO,0.0
-1947,Lesotho,LSO,0.0
-1948,Lesotho,LSO,0.0
-1949,Lesotho,LSO,0.0
-1950,Lesotho,LSO,0.0
-1951,Lesotho,LSO,0.0
-1952,Lesotho,LSO,0.0
-1953,Lesotho,LSO,0.0
-1954,Lesotho,LSO,0.0
-1955,Lesotho,LSO,0.0
-1956,Lesotho,LSO,0.0
-1957,Lesotho,LSO,0.0
-1958,Lesotho,LSO,0.0
-1959,Lesotho,LSO,0.0
-1960,Lesotho,LSO,0.0
-1961,Lesotho,LSO,0.0
-1962,Lesotho,LSO,0.0
-1963,Lesotho,LSO,0.0
-1964,Lesotho,LSO,0.0
-1965,Lesotho,LSO,0.0
-1966,Lesotho,LSO,0.0
-1967,Lesotho,LSO,0.0
-1968,Lesotho,LSO,0.0
-1969,Lesotho,LSO,0.0
-1970,Lesotho,LSO,0.0
-1971,Lesotho,LSO,0.0
-1972,Lesotho,LSO,0.0
-1973,Lesotho,LSO,0.0
-1974,Lesotho,LSO,0.0
-1975,Lesotho,LSO,0.0
-1976,Lesotho,LSO,0.0
-1977,Lesotho,LSO,0.0
-1978,Lesotho,LSO,0.0
-1979,Lesotho,LSO,0.0
-1980,Lesotho,LSO,0.0
-1981,Lesotho,LSO,0.0
-1982,Lesotho,LSO,0.0
-1983,Lesotho,LSO,0.0
-1984,Lesotho,LSO,0.0
-1985,Lesotho,LSO,0.0
-1986,Lesotho,LSO,0.0
-1987,Lesotho,LSO,0.0
-1988,Lesotho,LSO,0.0
-1989,Lesotho,LSO,0.0
-1990,Lesotho,LSO,0.0
-1991,Lesotho,LSO,0.0
-1992,Lesotho,LSO,0.0
-1993,Lesotho,LSO,0.0
-1994,Lesotho,LSO,0.0
-1995,Lesotho,LSO,0.0
-1996,Lesotho,LSO,0.0
-1997,Lesotho,LSO,0.0
 1998,Lesotho,LSO,0.0
 1999,Lesotho,LSO,0.0
 2000,Lesotho,LSO,0.0
@@ -5413,6 +5520,25 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Lesotho,LSO,0.0
 2019,Lesotho,LSO,0.0
 2020,Lesotho,LSO,0.0
+1949,Liberia,LBR,0.0
+1950,Liberia,LBR,0.0
+1951,Liberia,LBR,0.0
+1952,Liberia,LBR,0.0
+1953,Liberia,LBR,0.0
+1954,Liberia,LBR,0.0
+1955,Liberia,LBR,0.0
+1956,Liberia,LBR,0.0
+1957,Liberia,LBR,0.0
+1958,Liberia,LBR,0.0
+1959,Liberia,LBR,0.0
+1960,Liberia,LBR,0.0
+1961,Liberia,LBR,0.0
+1962,Liberia,LBR,0.0
+1963,Liberia,LBR,0.0
+1964,Liberia,LBR,0.0
+1965,Liberia,LBR,0.0
+1966,Liberia,LBR,0.0
+1967,Liberia,LBR,0.0
 1968,Liberia,LBR,0.0
 1969,Liberia,LBR,0.0
 1970,Liberia,LBR,0.0
@@ -5511,6 +5637,22 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Libya,LBY,0.0
 2019,Libya,LBY,0.0
 2020,Libya,LBY,0.0
+1940,Lithuania,LTU,0.0
+1941,Lithuania,LTU,0.0
+1942,Lithuania,LTU,0.0
+1943,Lithuania,LTU,0.0
+1944,Lithuania,LTU,0.0
+1945,Lithuania,LTU,0.0
+1946,Lithuania,LTU,0.0
+1947,Lithuania,LTU,0.0
+1948,Lithuania,LTU,0.0
+1949,Lithuania,LTU,0.0
+1950,Lithuania,LTU,0.0
+1951,Lithuania,LTU,0.0
+1952,Lithuania,LTU,0.0
+1953,Lithuania,LTU,0.0
+1954,Lithuania,LTU,0.0
+1955,Lithuania,LTU,0.0
 1956,Lithuania,LTU,0.0
 1957,Lithuania,LTU,0.0
 1958,Lithuania,LTU,0.0
@@ -5576,6 +5718,34 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Lithuania,LTU,0.0
 2019,Lithuania,LTU,0.0
 2020,Lithuania,LTU,0.0
+1965,Luxembourg,LUX,0.0
+1966,Luxembourg,LUX,0.0
+1967,Luxembourg,LUX,0.0
+1968,Luxembourg,LUX,0.0
+1969,Luxembourg,LUX,0.0
+1970,Luxembourg,LUX,0.0
+1971,Luxembourg,LUX,0.0
+1972,Luxembourg,LUX,0.0
+1973,Luxembourg,LUX,0.0
+1974,Luxembourg,LUX,0.0
+1975,Luxembourg,LUX,0.0
+1976,Luxembourg,LUX,0.0
+1977,Luxembourg,LUX,0.0
+1978,Luxembourg,LUX,0.0
+1979,Luxembourg,LUX,0.0
+1980,Luxembourg,LUX,0.0
+1981,Luxembourg,LUX,0.0
+1982,Luxembourg,LUX,0.0
+1983,Luxembourg,LUX,0.0
+1984,Luxembourg,LUX,0.0
+1985,Luxembourg,LUX,0.0
+1986,Luxembourg,LUX,0.0
+1987,Luxembourg,LUX,0.0
+1988,Luxembourg,LUX,0.0
+1989,Luxembourg,LUX,0.0
+1990,Luxembourg,LUX,0.0
+1991,Luxembourg,LUX,0.0
+1992,Luxembourg,LUX,0.0
 1993,Luxembourg,LUX,0.0
 1994,Luxembourg,LUX,0.0
 1995,Luxembourg,LUX,0.0
@@ -5604,12 +5774,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Luxembourg,LUX,0.0
 2019,Luxembourg,LUX,0.0
 2020,Luxembourg,LUX,0.0
-1958,Madagascar,MDG,0.0
-1959,Madagascar,MDG,0.0
-1960,Madagascar,MDG,0.0
-1961,Madagascar,MDG,0.0
-1962,Madagascar,MDG,0.0
-1963,Madagascar,MDG,0.0
 1964,Madagascar,MDG,0.0
 1965,Madagascar,MDG,0.0
 1966,Madagascar,MDG,0.0
@@ -5667,6 +5831,22 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Madagascar,MDG,0.0
 2019,Madagascar,MDG,0.0
 2020,Madagascar,MDG,0.0
+1956,Malawi,MWI,0.0
+1957,Malawi,MWI,0.0
+1958,Malawi,MWI,0.0
+1959,Malawi,MWI,0.0
+1960,Malawi,MWI,0.0
+1961,Malawi,MWI,0.0
+1962,Malawi,MWI,0.0
+1963,Malawi,MWI,0.0
+1964,Malawi,MWI,0.0
+1965,Malawi,MWI,0.0
+1966,Malawi,MWI,0.0
+1967,Malawi,MWI,0.0
+1968,Malawi,MWI,0.0
+1969,Malawi,MWI,0.0
+1970,Malawi,MWI,0.0
+1971,Malawi,MWI,0.0
 1972,Malawi,MWI,0.0
 1973,Malawi,MWI,0.0
 1974,Malawi,MWI,0.0
@@ -5716,14 +5896,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Malawi,MWI,0.0
 2019,Malawi,MWI,0.0
 2020,Malawi,MWI,0.0
-1926,Malaysia,MYS,0.0
-1927,Malaysia,MYS,0.0
-1928,Malaysia,MYS,0.0
-1929,Malaysia,MYS,0.0
-1930,Malaysia,MYS,0.0
-1931,Malaysia,MYS,0.0
-1932,Malaysia,MYS,0.0
-1933,Malaysia,MYS,0.0
 1934,Malaysia,MYS,0.0
 1935,Malaysia,MYS,0.0
 1936,Malaysia,MYS,0.0
@@ -5811,6 +5983,48 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Malaysia,MYS,0.0
 2019,Malaysia,MYS,0.0
 2020,Malaysia,MYS,0.0
+1920,Mali,MLI,0.0
+1921,Mali,MLI,0.0
+1922,Mali,MLI,0.0
+1923,Mali,MLI,0.0
+1924,Mali,MLI,0.0
+1925,Mali,MLI,0.0
+1926,Mali,MLI,0.0
+1927,Mali,MLI,0.0
+1928,Mali,MLI,0.0
+1929,Mali,MLI,0.0
+1930,Mali,MLI,0.0
+1931,Mali,MLI,0.0
+1932,Mali,MLI,0.0
+1933,Mali,MLI,0.0
+1934,Mali,MLI,0.0
+1935,Mali,MLI,0.0
+1936,Mali,MLI,0.0
+1937,Mali,MLI,0.0
+1938,Mali,MLI,0.0
+1939,Mali,MLI,0.0
+1940,Mali,MLI,0.0
+1941,Mali,MLI,0.0
+1942,Mali,MLI,0.0
+1943,Mali,MLI,0.0
+1944,Mali,MLI,0.0
+1945,Mali,MLI,0.0
+1946,Mali,MLI,0.0
+1947,Mali,MLI,0.0
+1948,Mali,MLI,0.0
+1949,Mali,MLI,0.0
+1950,Mali,MLI,0.0
+1951,Mali,MLI,0.0
+1952,Mali,MLI,0.0
+1953,Mali,MLI,0.0
+1954,Mali,MLI,0.0
+1955,Mali,MLI,0.0
+1956,Mali,MLI,0.0
+1957,Mali,MLI,0.0
+1958,Mali,MLI,0.0
+1959,Mali,MLI,0.0
+1960,Mali,MLI,0.0
+1961,Mali,MLI,0.0
 1962,Mali,MLI,0.0
 1963,Mali,MLI,0.0
 1964,Mali,MLI,0.0
@@ -5870,6 +6084,35 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Mali,MLI,0.0
 2019,Mali,MLI,0.0
 2020,Mali,MLI,0.0
+1977,Mauritania,MRT,0.0
+1978,Mauritania,MRT,0.0
+1979,Mauritania,MRT,0.0
+1980,Mauritania,MRT,0.0
+1981,Mauritania,MRT,0.0
+1982,Mauritania,MRT,0.0
+1983,Mauritania,MRT,0.0
+1984,Mauritania,MRT,0.0
+1985,Mauritania,MRT,0.0
+1986,Mauritania,MRT,0.0
+1987,Mauritania,MRT,0.0
+1988,Mauritania,MRT,0.0
+1989,Mauritania,MRT,0.0
+1990,Mauritania,MRT,0.0
+1991,Mauritania,MRT,0.0
+1992,Mauritania,MRT,0.0
+1993,Mauritania,MRT,0.0
+1994,Mauritania,MRT,0.0
+1995,Mauritania,MRT,0.0
+1996,Mauritania,MRT,0.0
+1997,Mauritania,MRT,0.0
+1998,Mauritania,MRT,0.0
+1999,Mauritania,MRT,0.0
+2000,Mauritania,MRT,0.0
+2001,Mauritania,MRT,0.0
+2002,Mauritania,MRT,0.0
+2003,Mauritania,MRT,0.0
+2004,Mauritania,MRT,0.0
+2005,Mauritania,MRT,0.0
 2006,Mauritania,MRT,0.0
 2007,Mauritania,MRT,0.0
 2008,Mauritania,MRT,0.0
@@ -5885,6 +6128,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Mauritania,MRT,0.0
 2019,Mauritania,MRT,0.0
 2020,Mauritania,MRT,0.0
+1942,Mauritius,MUS,0.0
+1943,Mauritius,MUS,0.0
 1944,Mauritius,MUS,0.0
 1945,Mauritius,MUS,0.0
 1946,Mauritius,MUS,0.0
@@ -6102,54 +6347,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Mongolia,MNG,0.0
 2019,Mongolia,MNG,0.0
 2020,Mongolia,MNG,0.0
-1946,Montenegro,MNE,0.0
-1947,Montenegro,MNE,0.0
-1948,Montenegro,MNE,0.0
-1949,Montenegro,MNE,0.0
-1950,Montenegro,MNE,0.0
-1951,Montenegro,MNE,0.0
-1952,Montenegro,MNE,0.0
-1953,Montenegro,MNE,0.0
-1954,Montenegro,MNE,0.0
-1955,Montenegro,MNE,0.0
-1956,Montenegro,MNE,0.0
-1957,Montenegro,MNE,0.0
-1958,Montenegro,MNE,0.0
-1959,Montenegro,MNE,0.0
-1960,Montenegro,MNE,0.0
-1961,Montenegro,MNE,0.0
-1962,Montenegro,MNE,0.0
-1963,Montenegro,MNE,0.0
-1964,Montenegro,MNE,0.0
-1965,Montenegro,MNE,0.0
-1966,Montenegro,MNE,0.0
-1967,Montenegro,MNE,0.0
-1968,Montenegro,MNE,0.0
-1969,Montenegro,MNE,0.0
-1970,Montenegro,MNE,0.0
-1971,Montenegro,MNE,0.0
-1972,Montenegro,MNE,0.0
-1973,Montenegro,MNE,0.0
-1974,Montenegro,MNE,0.0
-1975,Montenegro,MNE,0.0
-1976,Montenegro,MNE,0.0
-1977,Montenegro,MNE,0.0
-1978,Montenegro,MNE,0.0
-1979,Montenegro,MNE,0.0
-1980,Montenegro,MNE,0.0
-1981,Montenegro,MNE,0.0
-1982,Montenegro,MNE,0.0
-1983,Montenegro,MNE,0.0
-1984,Montenegro,MNE,0.0
-1985,Montenegro,MNE,0.0
-1986,Montenegro,MNE,0.0
-1987,Montenegro,MNE,0.0
-1988,Montenegro,MNE,0.0
-1989,Montenegro,MNE,0.0
-1990,Montenegro,MNE,0.0
-1991,Montenegro,MNE,0.0
-1992,Montenegro,MNE,0.0
-1993,Montenegro,MNE,0.0
 1994,Montenegro,MNE,0.0
 1995,Montenegro,MNE,0.0
 1996,Montenegro,MNE,0.0
@@ -6322,14 +6519,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Mozambique,MOZ,0.0
 2019,Mozambique,MOZ,0.0
 2020,Mozambique,MOZ,0.0
-1966,Myanmar,MMR,0.0
-1967,Myanmar,MMR,0.0
-1968,Myanmar,MMR,0.0
-1969,Myanmar,MMR,0.0
-1970,Myanmar,MMR,0.0
-1971,Myanmar,MMR,0.0
-1972,Myanmar,MMR,0.0
-1973,Myanmar,MMR,0.0
 1974,Myanmar,MMR,0.0
 1975,Myanmar,MMR,0.0
 1976,Myanmar,MMR,0.0
@@ -6377,22 +6566,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Myanmar,MMR,0.0
 2019,Myanmar,MMR,0.0
 2020,Myanmar,MMR,0.0
-1967,Namibia,NAM,0.0
-1968,Namibia,NAM,0.0
-1969,Namibia,NAM,0.0
-1970,Namibia,NAM,0.0
-1971,Namibia,NAM,0.0
-1972,Namibia,NAM,0.0
-1973,Namibia,NAM,0.0
-1974,Namibia,NAM,0.0
-1975,Namibia,NAM,0.0
-1976,Namibia,NAM,0.0
-1977,Namibia,NAM,0.0
-1978,Namibia,NAM,0.0
-1979,Namibia,NAM,0.0
-1980,Namibia,NAM,0.0
-1981,Namibia,NAM,0.0
-1982,Namibia,NAM,0.0
 1983,Namibia,NAM,0.0
 1984,Namibia,NAM,0.0
 1985,Namibia,NAM,0.0
@@ -6532,6 +6705,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Nepal,NPL,0.0
 2019,Nepal,NPL,0.0
 2020,Nepal,NPL,0.0
+1966,Netherlands,NLD,0.0
+1967,Netherlands,NLD,0.0
+1968,Netherlands,NLD,0.0
+1969,Netherlands,NLD,0.0
+1970,Netherlands,NLD,0.0
+1971,Netherlands,NLD,0.0
+1972,Netherlands,NLD,0.0
 1973,Netherlands,NLD,0.0
 1974,Netherlands,NLD,0.0
 1975,Netherlands,NLD,0.0
@@ -6681,6 +6861,23 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,New Zealand,NZL,0.0
 2019,New Zealand,NZL,0.0
 2020,New Zealand,NZL,0.0
+1920,Nicaragua,NIC,0.0
+1921,Nicaragua,NIC,0.0
+1922,Nicaragua,NIC,0.0
+1923,Nicaragua,NIC,0.0
+1924,Nicaragua,NIC,0.0
+1925,Nicaragua,NIC,0.0
+1926,Nicaragua,NIC,0.0
+1927,Nicaragua,NIC,0.0
+1928,Nicaragua,NIC,0.0
+1929,Nicaragua,NIC,0.0
+1930,Nicaragua,NIC,0.0
+1931,Nicaragua,NIC,0.0
+1932,Nicaragua,NIC,0.0
+1933,Nicaragua,NIC,0.0
+1934,Nicaragua,NIC,0.0
+1935,Nicaragua,NIC,0.0
+1936,Nicaragua,NIC,0.0
 1937,Nicaragua,NIC,0.0
 1938,Nicaragua,NIC,0.0
 1939,Nicaragua,NIC,0.0
@@ -6765,6 +6962,20 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Nicaragua,NIC,0.0
 2019,Nicaragua,NIC,0.0
 2020,Nicaragua,NIC,0.0
+1962,Niger,NER,0.0
+1963,Niger,NER,0.0
+1964,Niger,NER,0.0
+1965,Niger,NER,0.0
+1966,Niger,NER,0.0
+1967,Niger,NER,0.0
+1968,Niger,NER,0.0
+1969,Niger,NER,0.0
+1970,Niger,NER,0.0
+1971,Niger,NER,0.0
+1972,Niger,NER,0.0
+1973,Niger,NER,0.0
+1974,Niger,NER,0.0
+1975,Niger,NER,0.0
 1976,Niger,NER,0.0
 1977,Niger,NER,0.0
 1978,Niger,NER,0.0
@@ -6810,39 +7021,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Niger,NER,0.0
 2019,Niger,NER,0.0
 2020,Niger,NER,0.0
-1920,Nigeria,NGA,0.0
-1921,Nigeria,NGA,0.0
-1922,Nigeria,NGA,0.0
-1923,Nigeria,NGA,0.0
-1924,Nigeria,NGA,0.0
-1925,Nigeria,NGA,0.0
-1926,Nigeria,NGA,0.0
-1927,Nigeria,NGA,0.0
-1928,Nigeria,NGA,0.0
-1929,Nigeria,NGA,0.0
-1930,Nigeria,NGA,0.0
-1931,Nigeria,NGA,0.0
-1932,Nigeria,NGA,0.0
-1933,Nigeria,NGA,0.0
-1934,Nigeria,NGA,0.0
-1935,Nigeria,NGA,0.0
-1936,Nigeria,NGA,0.0
-1937,Nigeria,NGA,0.0
-1938,Nigeria,NGA,0.0
-1939,Nigeria,NGA,0.0
-1940,Nigeria,NGA,0.0
-1941,Nigeria,NGA,0.0
-1942,Nigeria,NGA,0.0
-1943,Nigeria,NGA,0.0
-1944,Nigeria,NGA,0.0
-1945,Nigeria,NGA,0.0
-1946,Nigeria,NGA,0.0
-1947,Nigeria,NGA,0.0
-1948,Nigeria,NGA,0.0
-1949,Nigeria,NGA,0.0
-1950,Nigeria,NGA,0.0
-1951,Nigeria,NGA,0.0
-1952,Nigeria,NGA,0.0
 1953,Nigeria,NGA,0.0
 1954,Nigeria,NGA,0.0
 1955,Nigeria,NGA,0.0
@@ -7057,6 +7235,11 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Oman,OMN,0.0
 2019,Oman,OMN,0.0
 2020,Oman,OMN,0.0
+1948,Pakistan,PAK,0.0
+1949,Pakistan,PAK,0.0
+1950,Pakistan,PAK,0.0
+1951,Pakistan,PAK,0.0
+1952,Pakistan,PAK,0.0
 1953,Pakistan,PAK,0.0
 1954,Pakistan,PAK,0.0
 1955,Pakistan,PAK,0.0
@@ -7125,6 +7308,22 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Pakistan,PAK,0.0
 2019,Pakistan,PAK,0.0
 2020,Pakistan,PAK,0.0
+1920,Panama,PAN,0.0
+1921,Panama,PAN,0.0
+1922,Panama,PAN,0.0
+1923,Panama,PAN,0.0
+1924,Panama,PAN,0.0
+1925,Panama,PAN,0.0
+1926,Panama,PAN,0.0
+1927,Panama,PAN,0.0
+1928,Panama,PAN,0.0
+1929,Panama,PAN,0.0
+1930,Panama,PAN,0.0
+1931,Panama,PAN,0.0
+1932,Panama,PAN,0.0
+1933,Panama,PAN,0.0
+1934,Panama,PAN,0.0
+1935,Panama,PAN,0.0
 1936,Panama,PAN,0.0
 1937,Panama,PAN,0.0
 1938,Panama,PAN,0.0
@@ -7351,22 +7550,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Paraguay,PRY,0.0
 2019,Paraguay,PRY,0.0
 2020,Paraguay,PRY,0.0
-1921,Peru,PER,0.0
-1922,Peru,PER,0.0
-1923,Peru,PER,0.0
-1924,Peru,PER,0.0
-1925,Peru,PER,0.0
-1926,Peru,PER,0.0
-1927,Peru,PER,0.0
-1928,Peru,PER,0.0
-1929,Peru,PER,0.0
-1930,Peru,PER,0.0
-1931,Peru,PER,0.0
-1932,Peru,PER,0.0
-1933,Peru,PER,0.0
-1934,Peru,PER,0.0
-1935,Peru,PER,0.0
-1936,Peru,PER,0.0
 1937,Peru,PER,0.0
 1938,Peru,PER,0.0
 1939,Peru,PER,0.0
@@ -7451,11 +7634,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Peru,PER,0.0
 2019,Peru,PER,0.0
 2020,Peru,PER,0.0
-1920,Philippines,PHL,0.0
-1921,Philippines,PHL,0.0
-1922,Philippines,PHL,0.0
-1923,Philippines,PHL,0.0
-1924,Philippines,PHL,0.0
 1925,Philippines,PHL,0.0
 1926,Philippines,PHL,0.0
 1927,Philippines,PHL,0.0
@@ -7754,6 +7932,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Portugal,PRT,0.0
 2019,Portugal,PRT,0.0
 2020,Portugal,PRT,0.0
+1970,Qatar,QAT,0.0
+1971,Qatar,QAT,0.0
 1972,Qatar,QAT,0.0
 1973,Qatar,QAT,0.0
 1974,Qatar,QAT,0.0
@@ -7803,6 +7983,28 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Qatar,QAT,0.0
 2019,Qatar,QAT,0.0
 2020,Qatar,QAT,0.0
+1920,Romania,ROU,0.0
+1921,Romania,ROU,0.0
+1922,Romania,ROU,0.0
+1923,Romania,ROU,0.0
+1924,Romania,ROU,0.0
+1925,Romania,ROU,0.0
+1926,Romania,ROU,0.0
+1927,Romania,ROU,0.0
+1928,Romania,ROU,0.0
+1929,Romania,ROU,0.0
+1930,Romania,ROU,0.0
+1931,Romania,ROU,0.0
+1932,Romania,ROU,0.0
+1933,Romania,ROU,0.0
+1934,Romania,ROU,0.0
+1935,Romania,ROU,0.0
+1936,Romania,ROU,0.0
+1937,Romania,ROU,0.0
+1938,Romania,ROU,0.0
+1939,Romania,ROU,0.0
+1940,Romania,ROU,0.0
+1941,Romania,ROU,0.0
 1942,Romania,ROU,0.0
 1943,Romania,ROU,0.0
 1944,Romania,ROU,0.0
@@ -7945,10 +8147,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Rwanda,RWA,0.0
 2019,Rwanda,RWA,0.0
 2020,Rwanda,RWA,0.0
-2011,Saint Lucia,LCA,0.0
-2012,Saint Lucia,LCA,0.0
-2013,Saint Lucia,LCA,0.0
-2014,Saint Lucia,LCA,0.0
 2015,Saint Lucia,LCA,0.0
 2016,Saint Lucia,LCA,0.0
 2017,Saint Lucia,LCA,0.0
@@ -8004,6 +8202,32 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Saudi Arabia,SAU,0.0
 2019,Saudi Arabia,SAU,0.0
 2020,Saudi Arabia,SAU,0.0
+1935,Senegal,SEN,0.0
+1936,Senegal,SEN,0.0
+1937,Senegal,SEN,0.0
+1938,Senegal,SEN,0.0
+1939,Senegal,SEN,0.0
+1940,Senegal,SEN,0.0
+1941,Senegal,SEN,0.0
+1942,Senegal,SEN,0.0
+1943,Senegal,SEN,0.0
+1944,Senegal,SEN,0.0
+1945,Senegal,SEN,0.0
+1946,Senegal,SEN,0.0
+1947,Senegal,SEN,0.0
+1948,Senegal,SEN,0.0
+1949,Senegal,SEN,0.0
+1950,Senegal,SEN,0.0
+1951,Senegal,SEN,0.0
+1952,Senegal,SEN,0.0
+1953,Senegal,SEN,0.0
+1954,Senegal,SEN,0.0
+1955,Senegal,SEN,0.0
+1956,Senegal,SEN,0.0
+1957,Senegal,SEN,0.0
+1958,Senegal,SEN,0.0
+1959,Senegal,SEN,0.0
+1960,Senegal,SEN,0.0
 1961,Senegal,SEN,0.0
 1962,Senegal,SEN,0.0
 1963,Senegal,SEN,0.0
@@ -8064,44 +8288,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Senegal,SEN,0.0
 2019,Senegal,SEN,0.0
 2020,Senegal,SEN,0.0
-1923,Serbia,SRB,0.0
-1924,Serbia,SRB,0.0
-1925,Serbia,SRB,0.0
-1926,Serbia,SRB,0.0
-1927,Serbia,SRB,0.0
-1928,Serbia,SRB,0.0
-1929,Serbia,SRB,0.0
-1930,Serbia,SRB,0.0
-1931,Serbia,SRB,0.0
-1932,Serbia,SRB,0.0
-1933,Serbia,SRB,0.0
-1934,Serbia,SRB,0.0
-1935,Serbia,SRB,0.0
-1936,Serbia,SRB,0.0
-1937,Serbia,SRB,0.0
-1938,Serbia,SRB,0.0
-1939,Serbia,SRB,0.0
-1940,Serbia,SRB,0.0
-1941,Serbia,SRB,0.0
-1942,Serbia,SRB,0.0
-1943,Serbia,SRB,0.0
-1944,Serbia,SRB,0.0
-1945,Serbia,SRB,0.0
-1946,Serbia,SRB,0.0
-1947,Serbia,SRB,0.0
-1948,Serbia,SRB,0.0
-1949,Serbia,SRB,0.0
-1950,Serbia,SRB,0.0
-1951,Serbia,SRB,0.0
-1952,Serbia,SRB,0.0
-1953,Serbia,SRB,0.0
-1954,Serbia,SRB,0.0
-1955,Serbia,SRB,0.0
-1956,Serbia,SRB,0.0
-1957,Serbia,SRB,0.0
-1958,Serbia,SRB,0.0
-1959,Serbia,SRB,0.0
-1960,Serbia,SRB,0.0
 1961,Serbia,SRB,0.0
 1962,Serbia,SRB,0.0
 1963,Serbia,SRB,0.0
@@ -8162,6 +8348,49 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Serbia,SRB,0.0
 2019,Serbia,SRB,0.0
 2020,Serbia,SRB,0.0
+1935,Sierra Leone,SLE,0.0
+1936,Sierra Leone,SLE,0.0
+1937,Sierra Leone,SLE,0.0
+1938,Sierra Leone,SLE,0.0
+1939,Sierra Leone,SLE,0.0
+1940,Sierra Leone,SLE,0.0
+1941,Sierra Leone,SLE,0.0
+1942,Sierra Leone,SLE,0.0
+1943,Sierra Leone,SLE,0.0
+1944,Sierra Leone,SLE,0.0
+1945,Sierra Leone,SLE,0.0
+1946,Sierra Leone,SLE,0.0
+1947,Sierra Leone,SLE,0.0
+1948,Sierra Leone,SLE,0.0
+1949,Sierra Leone,SLE,0.0
+1950,Sierra Leone,SLE,0.0
+1951,Sierra Leone,SLE,0.0
+1952,Sierra Leone,SLE,0.0
+1953,Sierra Leone,SLE,0.0
+1954,Sierra Leone,SLE,0.0
+1955,Sierra Leone,SLE,0.0
+1956,Sierra Leone,SLE,0.0
+1957,Sierra Leone,SLE,0.0
+1958,Sierra Leone,SLE,0.0
+1959,Sierra Leone,SLE,0.0
+1960,Sierra Leone,SLE,0.0
+1961,Sierra Leone,SLE,0.0
+1962,Sierra Leone,SLE,0.0
+1963,Sierra Leone,SLE,0.0
+1964,Sierra Leone,SLE,0.0
+1965,Sierra Leone,SLE,0.0
+1966,Sierra Leone,SLE,0.0
+1967,Sierra Leone,SLE,0.0
+1968,Sierra Leone,SLE,0.0
+1969,Sierra Leone,SLE,0.0
+1970,Sierra Leone,SLE,0.0
+1971,Sierra Leone,SLE,0.0
+1972,Sierra Leone,SLE,0.0
+1973,Sierra Leone,SLE,0.0
+1974,Sierra Leone,SLE,0.0
+1975,Sierra Leone,SLE,0.0
+1976,Sierra Leone,SLE,0.0
+1977,Sierra Leone,SLE,0.0
 1978,Sierra Leone,SLE,0.0
 1979,Sierra Leone,SLE,0.0
 1980,Sierra Leone,SLE,0.0
@@ -8205,17 +8434,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Sierra Leone,SLE,0.0
 2019,Sierra Leone,SLE,0.0
 2020,Sierra Leone,SLE,0.0
-1963,Singapore,SGP,0.0
-1964,Singapore,SGP,0.0
-1965,Singapore,SGP,0.0
-1966,Singapore,SGP,0.0
-1967,Singapore,SGP,0.0
-1968,Singapore,SGP,0.0
-1969,Singapore,SGP,0.0
-1970,Singapore,SGP,0.0
-1971,Singapore,SGP,0.0
-1972,Singapore,SGP,0.0
-1973,Singapore,SGP,0.0
 1974,Singapore,SGP,0.0
 1975,Singapore,SGP,0.0
 1976,Singapore,SGP,0.0
@@ -8364,15 +8582,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Slovakia,SVK,0.0
 2019,Slovakia,SVK,0.0
 2020,Slovakia,SVK,0.0
-1920,Slovenia,SVN,0.0
-1921,Slovenia,SVN,0.0
-1922,Slovenia,SVN,0.0
-1923,Slovenia,SVN,0.0
-1924,Slovenia,SVN,0.0
-1925,Slovenia,SVN,0.0
-1926,Slovenia,SVN,0.0
-1927,Slovenia,SVN,0.0
-1928,Slovenia,SVN,0.0
 1929,Slovenia,SVN,0.0
 1930,Slovenia,SVN,0.0
 1931,Slovenia,SVN,0.0
@@ -8632,16 +8841,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Spain,ESP,0.0
 2019,Spain,ESP,0.0
 2020,Spain,ESP,0.0
-1923,Sri Lanka,LKA,0.0
-1924,Sri Lanka,LKA,0.0
-1925,Sri Lanka,LKA,0.0
-1926,Sri Lanka,LKA,0.0
-1927,Sri Lanka,LKA,0.0
-1928,Sri Lanka,LKA,0.0
-1929,Sri Lanka,LKA,0.0
-1930,Sri Lanka,LKA,0.0
-1931,Sri Lanka,LKA,0.0
-1932,Sri Lanka,LKA,0.0
 1933,Sri Lanka,LKA,0.0
 1934,Sri Lanka,LKA,0.0
 1935,Sri Lanka,LKA,0.0
@@ -8730,6 +8929,29 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Sri Lanka,LKA,0.0
 2019,Sri Lanka,LKA,0.0
 2020,Sri Lanka,LKA,0.0
+1920,Sudan,SDN,0.0
+1921,Sudan,SDN,0.0
+1922,Sudan,SDN,0.0
+1923,Sudan,SDN,0.0
+1924,Sudan,SDN,0.0
+1925,Sudan,SDN,0.0
+1926,Sudan,SDN,0.0
+1927,Sudan,SDN,0.0
+1928,Sudan,SDN,0.0
+1929,Sudan,SDN,0.0
+1930,Sudan,SDN,0.0
+1931,Sudan,SDN,0.0
+1932,Sudan,SDN,0.0
+1933,Sudan,SDN,0.0
+1934,Sudan,SDN,0.0
+1935,Sudan,SDN,0.0
+1936,Sudan,SDN,0.0
+1937,Sudan,SDN,0.0
+1938,Sudan,SDN,0.0
+1939,Sudan,SDN,0.0
+1940,Sudan,SDN,0.0
+1941,Sudan,SDN,0.0
+1942,Sudan,SDN,0.0
 1943,Sudan,SDN,0.0
 1944,Sudan,SDN,0.0
 1945,Sudan,SDN,0.0
@@ -8808,12 +9030,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Sudan,SDN,0.0
 2019,Sudan,SDN,0.0
 2020,Sudan,SDN,0.0
-2012,Suriname,SUR,0.0
-2013,Suriname,SUR,0.0
-2014,Suriname,SUR,0.0
-2015,Suriname,SUR,0.0
-2016,Suriname,SUR,0.0
-2017,Suriname,SUR,0.0
 2018,Suriname,SUR,0.0
 2019,Suriname,SUR,0.0
 2020,Suriname,SUR,0.0
@@ -9019,22 +9235,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Switzerland,CHE,0.0
 2019,Switzerland,CHE,0.0
 2020,Switzerland,CHE,0.0
-1920,Syrian Arab Republic,SYR,0.0
-1921,Syrian Arab Republic,SYR,0.0
-1922,Syrian Arab Republic,SYR,0.0
-1923,Syrian Arab Republic,SYR,0.0
-1924,Syrian Arab Republic,SYR,0.0
-1925,Syrian Arab Republic,SYR,0.0
-1926,Syrian Arab Republic,SYR,0.0
-1927,Syrian Arab Republic,SYR,0.0
-1928,Syrian Arab Republic,SYR,0.0
-1929,Syrian Arab Republic,SYR,0.0
-1930,Syrian Arab Republic,SYR,0.0
-1931,Syrian Arab Republic,SYR,0.0
-1932,Syrian Arab Republic,SYR,0.0
-1933,Syrian Arab Republic,SYR,0.0
-1934,Syrian Arab Republic,SYR,0.0
-1935,Syrian Arab Republic,SYR,0.0
 1936,Syrian Arab Republic,SYR,0.0
 1937,Syrian Arab Republic,SYR,0.0
 1938,Syrian Arab Republic,SYR,0.0
@@ -9120,39 +9320,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Syrian Arab Republic,SYR,0.0
 2019,Syrian Arab Republic,SYR,0.0
 2020,Syrian Arab Republic,SYR,0.0
-1936,Tajikistan,TJK,0.0
-1937,Tajikistan,TJK,0.0
-1938,Tajikistan,TJK,0.0
-1939,Tajikistan,TJK,0.0
-1940,Tajikistan,TJK,0.0
-1941,Tajikistan,TJK,0.0
-1942,Tajikistan,TJK,0.0
-1943,Tajikistan,TJK,0.0
-1944,Tajikistan,TJK,0.0
-1945,Tajikistan,TJK,0.0
-1946,Tajikistan,TJK,0.0
-1947,Tajikistan,TJK,0.0
-1948,Tajikistan,TJK,0.0
-1949,Tajikistan,TJK,0.0
-1950,Tajikistan,TJK,0.0
-1951,Tajikistan,TJK,0.0
-1952,Tajikistan,TJK,0.0
-1953,Tajikistan,TJK,0.0
-1954,Tajikistan,TJK,0.0
-1955,Tajikistan,TJK,0.0
-1956,Tajikistan,TJK,0.0
-1957,Tajikistan,TJK,0.0
-1958,Tajikistan,TJK,0.0
-1959,Tajikistan,TJK,0.0
-1960,Tajikistan,TJK,0.0
-1961,Tajikistan,TJK,0.0
-1962,Tajikistan,TJK,0.0
-1963,Tajikistan,TJK,0.0
-1964,Tajikistan,TJK,0.0
-1965,Tajikistan,TJK,0.0
-1966,Tajikistan,TJK,0.0
-1967,Tajikistan,TJK,0.0
-1968,Tajikistan,TJK,0.0
 1969,Tajikistan,TJK,0.0
 1970,Tajikistan,TJK,0.0
 1971,Tajikistan,TJK,0.0
@@ -9205,6 +9372,17 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Tajikistan,TJK,0.0
 2019,Tajikistan,TJK,0.0
 2020,Tajikistan,TJK,0.0
+1955,Thailand,THA,0.0
+1956,Thailand,THA,0.0
+1957,Thailand,THA,0.0
+1958,Thailand,THA,0.0
+1959,Thailand,THA,0.0
+1960,Thailand,THA,0.0
+1961,Thailand,THA,0.0
+1962,Thailand,THA,0.0
+1963,Thailand,THA,0.0
+1964,Thailand,THA,0.0
+1965,Thailand,THA,0.0
 1966,Thailand,THA,0.0
 1967,Thailand,THA,0.0
 1968,Thailand,THA,0.0
@@ -9260,56 +9438,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Thailand,THA,0.0
 2019,Thailand,THA,0.0
 2020,Thailand,THA,0.0
-1941,Togo,TGO,0.0
-1942,Togo,TGO,0.0
-1943,Togo,TGO,0.0
-1944,Togo,TGO,0.0
-1945,Togo,TGO,0.0
-1946,Togo,TGO,0.0
-1947,Togo,TGO,0.0
-1948,Togo,TGO,0.0
-1949,Togo,TGO,0.0
-1950,Togo,TGO,0.0
-1951,Togo,TGO,0.0
-1952,Togo,TGO,0.0
-1953,Togo,TGO,0.0
-1954,Togo,TGO,0.0
-1955,Togo,TGO,0.0
-1956,Togo,TGO,0.0
-1957,Togo,TGO,0.0
-1958,Togo,TGO,0.0
-1959,Togo,TGO,0.0
-1960,Togo,TGO,0.0
-1961,Togo,TGO,0.0
-1962,Togo,TGO,0.0
-1963,Togo,TGO,0.0
-1964,Togo,TGO,0.0
-1965,Togo,TGO,0.0
-1966,Togo,TGO,0.0
-1967,Togo,TGO,0.0
-1968,Togo,TGO,0.0
-1969,Togo,TGO,0.0
-1970,Togo,TGO,0.0
-1971,Togo,TGO,0.0
-1972,Togo,TGO,0.0
-1973,Togo,TGO,0.0
-1974,Togo,TGO,0.0
-1975,Togo,TGO,0.0
-1976,Togo,TGO,0.0
-1977,Togo,TGO,0.0
-1978,Togo,TGO,0.0
-1979,Togo,TGO,0.0
-1980,Togo,TGO,0.0
-1981,Togo,TGO,0.0
-1982,Togo,TGO,0.0
-1983,Togo,TGO,0.0
-1984,Togo,TGO,0.0
-1985,Togo,TGO,0.0
-1986,Togo,TGO,0.0
-1987,Togo,TGO,0.0
-1988,Togo,TGO,0.0
-1989,Togo,TGO,0.0
-1990,Togo,TGO,0.0
 1991,Togo,TGO,0.0
 1992,Togo,TGO,0.0
 1993,Togo,TGO,0.0
@@ -9451,6 +9579,12 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Tunisia,TUN,0.0
 2019,Tunisia,TUN,0.0
 2020,Tunisia,TUN,0.0
+1968,Turkmenistan,TKM,0.0
+1969,Turkmenistan,TKM,0.0
+1970,Turkmenistan,TKM,0.0
+1971,Turkmenistan,TKM,0.0
+1972,Turkmenistan,TKM,0.0
+1973,Turkmenistan,TKM,0.0
 1974,Turkmenistan,TKM,0.0
 1975,Turkmenistan,TKM,0.0
 1976,Turkmenistan,TKM,0.0
@@ -9498,9 +9632,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Turkmenistan,TKM,0.0
 2019,Turkmenistan,TKM,0.0
 2020,Turkmenistan,TKM,0.0
-1959,Uganda,UGA,0.0
-1960,Uganda,UGA,0.0
-1961,Uganda,UGA,0.0
 1962,Uganda,UGA,0.0
 1963,Uganda,UGA,0.0
 1964,Uganda,UGA,0.0
@@ -9560,6 +9691,11 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Uganda,UGA,0.0
 2019,Uganda,UGA,0.0
 2020,Uganda,UGA,0.0
+1933,Ukraine,UKR,0.0
+1934,Ukraine,UKR,0.0
+1935,Ukraine,UKR,0.0
+1936,Ukraine,UKR,0.0
+1937,Ukraine,UKR,0.0
 1938,Ukraine,UKR,0.0
 1939,Ukraine,UKR,0.0
 1940,Ukraine,UKR,0.0
@@ -9788,32 +9924,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,United States of America,USA,43.9
 2019,United States of America,USA,43.9
 2020,United States of America,USA,43.9
-1920,Uruguay,URY,0.0
-1921,Uruguay,URY,0.0
-1922,Uruguay,URY,0.0
-1923,Uruguay,URY,0.0
-1924,Uruguay,URY,0.0
-1925,Uruguay,URY,0.0
-1926,Uruguay,URY,0.0
-1927,Uruguay,URY,0.0
-1928,Uruguay,URY,0.0
-1929,Uruguay,URY,0.0
-1930,Uruguay,URY,0.0
-1931,Uruguay,URY,0.0
-1932,Uruguay,URY,0.0
-1933,Uruguay,URY,0.0
-1934,Uruguay,URY,0.0
-1935,Uruguay,URY,0.0
-1936,Uruguay,URY,0.0
-1937,Uruguay,URY,0.0
-1938,Uruguay,URY,0.0
-1939,Uruguay,URY,0.0
-1940,Uruguay,URY,0.0
-1941,Uruguay,URY,0.0
-1942,Uruguay,URY,0.0
-1943,Uruguay,URY,0.0
-1944,Uruguay,URY,0.0
-1945,Uruguay,URY,0.0
 1946,Uruguay,URY,0.0
 1947,Uruguay,URY,0.0
 1948,Uruguay,URY,0.0
@@ -9961,6 +10071,46 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Uzbekistan,UZB,0.0
 2019,Uzbekistan,UZB,0.0
 2020,Uzbekistan,UZB,0.0
+1972,Western Sahara,ESH,0.0
+1973,Western Sahara,ESH,0.0
+1974,Western Sahara,ESH,0.0
+1975,Western Sahara,ESH,0.0
+1976,Western Sahara,ESH,0.0
+1977,Western Sahara,ESH,0.0
+1978,Western Sahara,ESH,0.0
+1979,Western Sahara,ESH,0.0
+1980,Western Sahara,ESH,0.0
+1981,Western Sahara,ESH,0.0
+1982,Western Sahara,ESH,0.0
+1983,Western Sahara,ESH,0.0
+1984,Western Sahara,ESH,0.0
+1985,Western Sahara,ESH,0.0
+1986,Western Sahara,ESH,0.0
+1987,Western Sahara,ESH,0.0
+1988,Western Sahara,ESH,0.0
+1989,Western Sahara,ESH,0.0
+1990,Western Sahara,ESH,0.0
+1991,Western Sahara,ESH,0.0
+1992,Western Sahara,ESH,0.0
+1993,Western Sahara,ESH,0.0
+1994,Western Sahara,ESH,0.0
+1995,Western Sahara,ESH,0.0
+1996,Western Sahara,ESH,0.0
+1997,Western Sahara,ESH,0.0
+1998,Western Sahara,ESH,0.0
+1999,Western Sahara,ESH,0.0
+2000,Western Sahara,ESH,0.0
+2001,Western Sahara,ESH,0.0
+2002,Western Sahara,ESH,0.0
+2003,Western Sahara,ESH,0.0
+2004,Western Sahara,ESH,0.0
+2005,Western Sahara,ESH,0.0
+2006,Western Sahara,ESH,0.0
+2007,Western Sahara,ESH,0.0
+2008,Western Sahara,ESH,0.0
+2009,Western Sahara,ESH,0.0
+2010,Western Sahara,ESH,0.0
+2011,Western Sahara,ESH,0.0
 1974,Yemen,YEM,0.0
 1975,Yemen,YEM,0.0
 1976,Yemen,YEM,0.0
@@ -10008,6 +10158,19 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Yemen,YEM,0.0
 2019,Yemen,YEM,0.0
 2020,Yemen,YEM,0.0
+1949,Zambia,ZMB,0.0
+1950,Zambia,ZMB,0.0
+1951,Zambia,ZMB,0.0
+1952,Zambia,ZMB,0.0
+1953,Zambia,ZMB,0.0
+1954,Zambia,ZMB,0.0
+1955,Zambia,ZMB,0.0
+1956,Zambia,ZMB,0.0
+1957,Zambia,ZMB,0.0
+1958,Zambia,ZMB,0.0
+1959,Zambia,ZMB,0.0
+1960,Zambia,ZMB,0.0
+1961,Zambia,ZMB,0.0
 1962,Zambia,ZMB,0.0
 1963,Zambia,ZMB,0.0
 1964,Zambia,ZMB,0.0
@@ -10067,6 +10230,20 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_biogas_gw
 2018,Zambia,ZMB,0.0
 2019,Zambia,ZMB,0.0
 2020,Zambia,ZMB,0.0
+1968,Zimbabwe,ZWE,0.0
+1969,Zimbabwe,ZWE,0.0
+1970,Zimbabwe,ZWE,0.0
+1971,Zimbabwe,ZWE,0.0
+1972,Zimbabwe,ZWE,0.0
+1973,Zimbabwe,ZWE,0.0
+1974,Zimbabwe,ZWE,0.0
+1975,Zimbabwe,ZWE,0.0
+1976,Zimbabwe,ZWE,0.0
+1977,Zimbabwe,ZWE,0.0
+1978,Zimbabwe,ZWE,0.0
+1979,Zimbabwe,ZWE,0.0
+1980,Zimbabwe,ZWE,0.0
+1981,Zimbabwe,ZWE,0.0
 1982,Zimbabwe,ZWE,0.0
 1983,Zimbabwe,ZWE,0.0
 1984,Zimbabwe,ZWE,0.0

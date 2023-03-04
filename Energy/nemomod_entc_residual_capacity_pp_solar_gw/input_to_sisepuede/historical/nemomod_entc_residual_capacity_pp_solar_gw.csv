@@ -87,13 +87,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2011,Afghanistan,AFG,0.0
 2012,Afghanistan,AFG,0.0
 2013,Afghanistan,AFG,0.0
-2014,Afghanistan,AFG,10.0
-2015,Afghanistan,AFG,20.0
-2016,Afghanistan,AFG,20.0
-2017,Afghanistan,AFG,20.0
-2018,Afghanistan,AFG,20.0
-2019,Afghanistan,AFG,20.0
-2020,Afghanistan,AFG,20.0
+2014,Afghanistan,AFG,0.01
+2015,Afghanistan,AFG,0.02
+2016,Afghanistan,AFG,0.02
+2017,Afghanistan,AFG,0.02
+2018,Afghanistan,AFG,0.02
+2019,Afghanistan,AFG,0.02
+2020,Afghanistan,AFG,0.02
 1949,Albania,ALB,0.0
 1950,Albania,ALB,0.0
 1951,Albania,ALB,0.0
@@ -225,16 +225,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2008,Algeria,DZA,0.0
 2009,Algeria,DZA,0.0
 2010,Algeria,DZA,0.0
-2011,Algeria,DZA,29.0
-2012,Algeria,DZA,29.0
-2013,Algeria,DZA,49.0
-2014,Algeria,DZA,96.0
-2015,Algeria,DZA,288.7000000000001
-2016,Algeria,DZA,373.7
-2017,Algeria,DZA,379.7
-2018,Algeria,DZA,670.8
-2019,Algeria,DZA,670.8
-2020,Algeria,DZA,670.8
+2011,Algeria,DZA,0.028999999999999998
+2012,Algeria,DZA,0.028999999999999998
+2013,Algeria,DZA,0.049
+2014,Algeria,DZA,0.096
+2015,Algeria,DZA,0.2887000000000001
+2016,Algeria,DZA,0.3737
+2017,Algeria,DZA,0.3797
+2018,Algeria,DZA,0.6708
+2019,Algeria,DZA,0.6708
+2020,Algeria,DZA,0.6708
 1938,Angola,AGO,0.0
 1939,Angola,AGO,0.0
 1940,Angola,AGO,0.0
@@ -442,15 +442,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2009,Argentina,ARG,0.0
 2010,Argentina,ARG,0.0
 2011,Argentina,ARG,0.0
-2012,Argentina,ARG,22.5
-2013,Argentina,ARG,102.5
-2014,Argentina,ARG,102.5
-2015,Argentina,ARG,214.5
-2016,Argentina,ARG,215.7
-2017,Argentina,ARG,215.7
-2018,Argentina,ARG,515.7
-2019,Argentina,ARG,515.7
-2020,Argentina,ARG,515.7
+2012,Argentina,ARG,0.0225
+2013,Argentina,ARG,0.1025
+2014,Argentina,ARG,0.1025
+2015,Argentina,ARG,0.2145
+2016,Argentina,ARG,0.2157
+2017,Argentina,ARG,0.2157
+2018,Argentina,ARG,0.5157
+2019,Argentina,ARG,0.5157
+2020,Argentina,ARG,0.5157
 1970,Armenia,ARM,0.0
 1971,Armenia,ARM,0.0
 1972,Armenia,ARM,0.0
@@ -591,18 +591,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2006,Australia,AUS,0.0
 2007,Australia,AUS,0.0
 2008,Australia,AUS,0.0
-2009,Australia,AUS,55.0
-2010,Australia,AUS,238.5
-2011,Australia,AUS,300.8
-2012,Australia,AUS,720.8
-2013,Australia,AUS,880.7
-2014,Australia,AUS,1692.07
-2015,Australia,AUS,1959.97
-2016,Australia,AUS,2759.4700000000007
-2017,Australia,AUS,3485.07
-2018,Australia,AUS,4159.67
-2019,Australia,AUS,4159.67
-2020,Australia,AUS,4159.67
+2009,Australia,AUS,0.055
+2010,Australia,AUS,0.2385
+2011,Australia,AUS,0.3008
+2012,Australia,AUS,0.7208
+2013,Australia,AUS,0.8807
+2014,Australia,AUS,1.69207
+2015,Australia,AUS,1.95997
+2016,Australia,AUS,2.7594700000000003
+2017,Australia,AUS,3.5000700000000005
+2018,Australia,AUS,4.159669999999999
+2019,Australia,AUS,4.159669999999999
+2020,Australia,AUS,4.159669999999999
 1925,Austria,AUT,0.0
 1926,Austria,AUT,0.0
 1927,Austria,AUT,0.0
@@ -799,10 +799,10 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2014,Bahrain,BHR,0.0
 2015,Bahrain,BHR,0.0
 2016,Bahrain,BHR,0.0
-2017,Bahrain,BHR,5.0
-2018,Bahrain,BHR,5.0
-2019,Bahrain,BHR,5.0
-2020,Bahrain,BHR,5.0
+2017,Bahrain,BHR,0.005
+2018,Bahrain,BHR,0.005
+2019,Bahrain,BHR,0.005
+2020,Bahrain,BHR,0.005
 1962,Bangladesh,BGD,0.0
 1963,Bangladesh,BGD,0.0
 1964,Bangladesh,BGD,0.0
@@ -857,12 +857,11 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2013,Bangladesh,BGD,0.0
 2014,Bangladesh,BGD,0.0
 2015,Bangladesh,BGD,0.0
-2016,Bangladesh,BGD,28.0
-2017,Bangladesh,BGD,28.0
-2018,Bangladesh,BGD,33.0
-2019,Bangladesh,BGD,33.0
-2020,Bangladesh,BGD,33.0
-1961,Belarus,BLR,0.0
+2016,Bangladesh,BGD,0.027999999999999997
+2017,Bangladesh,BGD,0.027999999999999997
+2018,Bangladesh,BGD,0.033
+2019,Bangladesh,BGD,0.033
+2020,Bangladesh,BGD,0.033
 1962,Belarus,BLR,0.0
 1963,Belarus,BLR,0.0
 1964,Belarus,BLR,0.0
@@ -912,16 +911,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2008,Belarus,BLR,0.0
 2009,Belarus,BLR,0.0
 2010,Belarus,BLR,0.0
-2011,Belarus,BLR,55.0
-2012,Belarus,BLR,73.7
-2013,Belarus,BLR,85.0
-2014,Belarus,BLR,123.9
-2015,Belarus,BLR,123.9
-2016,Belarus,BLR,123.9
-2017,Belarus,BLR,232.9
-2018,Belarus,BLR,232.9
-2019,Belarus,BLR,232.9
-2020,Belarus,BLR,232.9
+2011,Belarus,BLR,0.055
+2012,Belarus,BLR,0.0737
+2013,Belarus,BLR,0.085
+2014,Belarus,BLR,0.1239
+2015,Belarus,BLR,0.1239
+2016,Belarus,BLR,0.1239
+2017,Belarus,BLR,0.2329
+2018,Belarus,BLR,0.2329
+2019,Belarus,BLR,0.2329
+2020,Belarus,BLR,0.2329
 1937,Belgium,BEL,0.0
 1938,Belgium,BEL,0.0
 1939,Belgium,BEL,0.0
@@ -997,16 +996,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2009,Belgium,BEL,0.0
 2010,Belgium,BEL,0.0
 2011,Belgium,BEL,0.0
-2012,Belgium,BEL,3.7
-2013,Belgium,BEL,3.7
-2014,Belgium,BEL,3.7
-2015,Belgium,BEL,3.7
-2016,Belgium,BEL,3.7
-2017,Belgium,BEL,116.2
-2018,Belgium,BEL,116.2
-2019,Belgium,BEL,116.2
-2020,Belgium,BEL,116.2
-1974,Benin,BEN,0.0
+2012,Belgium,BEL,0.0037
+2013,Belgium,BEL,0.0037
+2014,Belgium,BEL,0.0037
+2015,Belgium,BEL,0.0037
+2016,Belgium,BEL,0.0037
+2017,Belgium,BEL,0.1162
+2018,Belgium,BEL,0.1162
+2019,Belgium,BEL,0.1162
+2020,Belgium,BEL,0.1162
 1975,Benin,BEN,0.0
 1976,Benin,BEN,0.0
 1977,Benin,BEN,0.0
@@ -1352,21 +1350,20 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2004,Brazil,BRA,0.0
 2005,Brazil,BRA,0.0
 2006,Brazil,BRA,0.0
-2007,Brazil,BRA,147.3
-2008,Brazil,BRA,147.3
-2009,Brazil,BRA,147.3
-2010,Brazil,BRA,147.3
-2011,Brazil,BRA,148.3
-2012,Brazil,BRA,188.3
-2013,Brazil,BRA,354.48199999999997
-2014,Brazil,BRA,910.96863
-2015,Brazil,BRA,1240.96863
-2016,Brazil,BRA,1420.6686300000001
-2017,Brazil,BRA,1591.6686300000001
-2018,Brazil,BRA,1954.6686300000001
-2019,Brazil,BRA,1954.6686300000001
-2020,Brazil,BRA,1954.6686300000001
-1959,Brunei Darussalam,BRN,0.0
+2007,Brazil,BRA,0.1473
+2008,Brazil,BRA,0.1473
+2009,Brazil,BRA,0.1473
+2010,Brazil,BRA,0.1473
+2011,Brazil,BRA,0.14830000000000002
+2012,Brazil,BRA,0.1883
+2013,Brazil,BRA,0.204482
+2014,Brazil,BRA,0.91096863
+2015,Brazil,BRA,1.24096863
+2016,Brazil,BRA,1.42066863
+2017,Brazil,BRA,1.59166863
+2018,Brazil,BRA,1.95466863
+2019,Brazil,BRA,1.95466863
+2020,Brazil,BRA,1.95466863
 1960,Brunei Darussalam,BRN,0.0
 1961,Brunei Darussalam,BRN,0.0
 1962,Brunei Darussalam,BRN,0.0
@@ -1391,7 +1388,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 1981,Brunei Darussalam,BRN,0.0
 1982,Brunei Darussalam,BRN,0.0
 1983,Brunei Darussalam,BRN,0.0
-1994,Brunei Darussalam,BRN,0.0
+1984,Brunei Darussalam,BRN,0.0
 1995,Brunei Darussalam,BRN,0.0
 1996,Brunei Darussalam,BRN,0.0
 1997,Brunei Darussalam,BRN,0.0
@@ -1505,16 +1502,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2008,Bulgaria,BGR,0.0
 2009,Bulgaria,BGR,0.0
 2010,Bulgaria,BGR,0.0
-2011,Bulgaria,BGR,10.8
-2012,Bulgaria,BGR,24.8
-2013,Bulgaria,BGR,24.8
-2014,Bulgaria,BGR,34.3
-2015,Bulgaria,BGR,101.9
-2016,Bulgaria,BGR,127.9
-2017,Bulgaria,BGR,143.9
-2018,Bulgaria,BGR,279.2
-2019,Bulgaria,BGR,279.2
-2020,Bulgaria,BGR,279.2
+2011,Bulgaria,BGR,0.0108
+2012,Bulgaria,BGR,0.024800000000000003
+2013,Bulgaria,BGR,0.024800000000000003
+2014,Bulgaria,BGR,0.0343
+2015,Bulgaria,BGR,0.1019
+2016,Bulgaria,BGR,0.1279
+2017,Bulgaria,BGR,0.1439
+2018,Bulgaria,BGR,0.2792
+2019,Bulgaria,BGR,0.2792
+2020,Bulgaria,BGR,0.2792
 1972,Burkina Faso,BFA,0.0
 1973,Burkina Faso,BFA,0.0
 1974,Burkina Faso,BFA,0.0
@@ -1555,15 +1552,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2009,Burkina Faso,BFA,0.0
 2010,Burkina Faso,BFA,0.0
 2011,Burkina Faso,BFA,0.0
-2012,Burkina Faso,BFA,33.0
-2013,Burkina Faso,BFA,33.0
-2014,Burkina Faso,BFA,33.0
-2015,Burkina Faso,BFA,33.0
-2016,Burkina Faso,BFA,33.0
-2017,Burkina Faso,BFA,33.0
-2018,Burkina Faso,BFA,52.9
-2019,Burkina Faso,BFA,52.9
-2020,Burkina Faso,BFA,52.9
+2012,Burkina Faso,BFA,0.033
+2013,Burkina Faso,BFA,0.033
+2014,Burkina Faso,BFA,0.033
+2015,Burkina Faso,BFA,0.033
+2016,Burkina Faso,BFA,0.033
+2017,Burkina Faso,BFA,0.033
+2018,Burkina Faso,BFA,0.0529
+2019,Burkina Faso,BFA,0.0529
+2020,Burkina Faso,BFA,0.0529
 1954,Burundi,BDI,0.0
 1955,Burundi,BDI,0.0
 1956,Burundi,BDI,0.0
@@ -1623,14 +1620,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2010,Burundi,BDI,0.0
 2011,Burundi,BDI,0.0
 2012,Burundi,BDI,0.0
-2013,Burundi,BDI,7.6
-2014,Burundi,BDI,7.6
-2015,Burundi,BDI,7.6
-2016,Burundi,BDI,7.6
-2017,Burundi,BDI,7.6
-2018,Burundi,BDI,7.6
-2019,Burundi,BDI,7.6
-2020,Burundi,BDI,7.6
+2013,Burundi,BDI,0.0076
+2014,Burundi,BDI,0.0076
+2015,Burundi,BDI,0.0076
+2016,Burundi,BDI,0.0076
+2017,Burundi,BDI,0.0076
+2018,Burundi,BDI,0.0076
+2019,Burundi,BDI,0.0076
+2020,Burundi,BDI,0.0076
 1996,Cambodia,KHM,0.0
 1997,Cambodia,KHM,0.0
 1998,Cambodia,KHM,0.0
@@ -1646,16 +1643,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2008,Cambodia,KHM,0.0
 2009,Cambodia,KHM,0.0
 2010,Cambodia,KHM,0.0
-2011,Cambodia,KHM,9.8
-2012,Cambodia,KHM,19.8
-2013,Cambodia,KHM,19.8
-2014,Cambodia,KHM,19.8
-2015,Cambodia,KHM,22.8
-2016,Cambodia,KHM,22.8
-2017,Cambodia,KHM,22.8
-2018,Cambodia,KHM,22.8
-2019,Cambodia,KHM,22.8
-2020,Cambodia,KHM,22.8
+2011,Cambodia,KHM,0.0098
+2012,Cambodia,KHM,0.0198
+2013,Cambodia,KHM,0.0198
+2014,Cambodia,KHM,0.0198
+2015,Cambodia,KHM,0.0228
+2016,Cambodia,KHM,0.0228
+2017,Cambodia,KHM,0.0228
+2018,Cambodia,KHM,0.0228
+2019,Cambodia,KHM,0.0228
+2020,Cambodia,KHM,0.0228
 1964,Cameroon,CMR,0.0
 1965,Cameroon,CMR,0.0
 1966,Cameroon,CMR,0.0
@@ -1802,18 +1799,23 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2006,Canada,CAN,0.0
 2007,Canada,CAN,0.0
 2008,Canada,CAN,0.0
-2009,Canada,CAN,20.0
-2010,Canada,CAN,46.5
-2011,Canada,CAN,172.4
-2012,Canada,CAN,270.9
-2013,Canada,CAN,524.4000000000002
-2014,Canada,CAN,647.4000000000002
-2015,Canada,CAN,944.5
-2016,Canada,CAN,1213.5
-2017,Canada,CAN,1318.6
-2018,Canada,CAN,1826.6
-2019,Canada,CAN,1826.6
-2020,Canada,CAN,1826.6
+2009,Canada,CAN,0.044000000000000004
+2010,Canada,CAN,0.0775
+2011,Canada,CAN,0.15769999999999998
+2012,Canada,CAN,0.25420000000000004
+2013,Canada,CAN,0.3677
+2014,Canada,CAN,0.5127
+2015,Canada,CAN,0.755
+2016,Canada,CAN,1.1186
+2017,Canada,CAN,1.2711
+2018,Canada,CAN,1.8266
+2019,Canada,CAN,1.8266
+2020,Canada,CAN,1.8266
+1920,Central African Republic,CAF,0.0
+1921,Central African Republic,CAF,0.0
+1922,Central African Republic,CAF,0.0
+1923,Central African Republic,CAF,0.0
+1924,Central African Republic,CAF,0.0
 1925,Central African Republic,CAF,0.0
 1926,Central African Republic,CAF,0.0
 1927,Central African Republic,CAF,0.0
@@ -1909,7 +1911,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2017,Central African Republic,CAF,0.0
 2018,Central African Republic,CAF,0.0
 2019,Central African Republic,CAF,0.0
-2020,Central African Republic,CAF,0.0
 1920,Chile,CHL,0.0
 1921,Chile,CHL,0.0
 1922,Chile,CHL,0.0
@@ -1999,18 +2000,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2006,Chile,CHL,0.0
 2007,Chile,CHL,0.0
 2008,Chile,CHL,0.0
-2009,Chile,CHL,151.4
-2010,Chile,CHL,178.4
-2011,Chile,CHL,431.80000000000007
-2012,Chile,CHL,913.44
-2013,Chile,CHL,1166.2400000000002
-2014,Chile,CHL,1663.49
-2015,Chile,CHL,2219.37
-2016,Chile,CHL,2671.29
-2017,Chile,CHL,3187.1900000000005
-2018,Chile,CHL,3953.75
-2019,Chile,CHL,3953.75
-2020,Chile,CHL,3953.75
+2009,Chile,CHL,0.002
+2010,Chile,CHL,0.04
+2011,Chile,CHL,0.429
+2012,Chile,CHL,0.57811
+2013,Chile,CHL,1.1358100000000002
+2014,Chile,CHL,1.3028100000000002
+2015,Chile,CHL,2.17633
+2016,Chile,CHL,2.74065
+2017,Chile,CHL,3.27315
+2018,Chile,CHL,3.95375
+2019,Chile,CHL,3.95375
+2020,Chile,CHL,3.95375
 1920,China,CHN,0.0
 1921,China,CHN,0.0
 1922,China,CHN,0.0
@@ -2097,21 +2098,37 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2003,China,CHN,0.0
 2004,China,CHN,0.0
 2005,China,CHN,0.0
-2006,China,CHN,50.0
-2007,China,CHN,145.0
-2008,China,CHN,256.0
-2009,China,CHN,952.6
-2010,China,CHN,1749.9
-2011,China,CHN,4555.18
-2012,China,CHN,8437.779999999999
-2013,China,CHN,13988.68
-2014,China,CHN,19463.38
-2015,China,CHN,25355.62
-2016,China,CHN,33015.22
-2017,China,CHN,40339.72
-2018,China,CHN,54801.81999999999
-2019,China,CHN,54801.81999999999
-2020,China,CHN,54801.81999999999
+2006,China,CHN,0.0
+2007,China,CHN,0.06
+2008,China,CHN,0.23
+2009,China,CHN,0.942
+2010,China,CHN,2.34252
+2011,China,CHN,5.42732
+2012,China,CHN,9.46702
+2013,China,CHN,14.769720000000001
+2014,China,CHN,20.314619999999994
+2015,China,CHN,27.16212
+2016,China,CHN,36.31180000000001
+2017,China,CHN,42.9702
+2018,China,CHN,54.80181999999999
+2019,China,CHN,54.80181999999999
+2020,China,CHN,54.80181999999999
+1927,Colombia,COL,0.0
+1928,Colombia,COL,0.0
+1929,Colombia,COL,0.0
+1930,Colombia,COL,0.0
+1931,Colombia,COL,0.0
+1932,Colombia,COL,0.0
+1933,Colombia,COL,0.0
+1934,Colombia,COL,0.0
+1935,Colombia,COL,0.0
+1936,Colombia,COL,0.0
+1937,Colombia,COL,0.0
+1938,Colombia,COL,0.0
+1939,Colombia,COL,0.0
+1940,Colombia,COL,0.0
+1941,Colombia,COL,0.0
+1942,Colombia,COL,0.0
 1943,Colombia,COL,0.0
 1944,Colombia,COL,0.0
 1945,Colombia,COL,0.0
@@ -2182,51 +2199,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2010,Colombia,COL,0.0
 2011,Colombia,COL,0.0
 2012,Colombia,COL,0.0
-2013,Colombia,COL,9.8
-2014,Colombia,COL,9.8
-2015,Colombia,COL,96.0
-2016,Colombia,COL,96.0
-2017,Colombia,COL,96.0
-2018,Colombia,COL,96.0
-2019,Colombia,COL,96.0
-2020,Colombia,COL,96.0
-1939,Congo,COG,0.0
-1940,Congo,COG,0.0
-1941,Congo,COG,0.0
-1942,Congo,COG,0.0
-1943,Congo,COG,0.0
-1944,Congo,COG,0.0
-1945,Congo,COG,0.0
-1946,Congo,COG,0.0
-1947,Congo,COG,0.0
-1948,Congo,COG,0.0
-1949,Congo,COG,0.0
-1950,Congo,COG,0.0
-1951,Congo,COG,0.0
-1952,Congo,COG,0.0
-1953,Congo,COG,0.0
-1954,Congo,COG,0.0
-1955,Congo,COG,0.0
-1956,Congo,COG,0.0
-1957,Congo,COG,0.0
-1958,Congo,COG,0.0
-1959,Congo,COG,0.0
-1960,Congo,COG,0.0
-1961,Congo,COG,0.0
-1962,Congo,COG,0.0
-1963,Congo,COG,0.0
-1964,Congo,COG,0.0
-1965,Congo,COG,0.0
-1966,Congo,COG,0.0
-1967,Congo,COG,0.0
-1968,Congo,COG,0.0
-1969,Congo,COG,0.0
-1970,Congo,COG,0.0
-1971,Congo,COG,0.0
-1972,Congo,COG,0.0
-1973,Congo,COG,0.0
-1974,Congo,COG,0.0
-1975,Congo,COG,0.0
+2013,Colombia,COL,0.0
+2014,Colombia,COL,0.0
+2015,Colombia,COL,0.0098
+2016,Colombia,COL,0.0098
+2017,Colombia,COL,0.0098
+2018,Colombia,COL,0.096
+2019,Colombia,COL,0.096
+2020,Colombia,COL,0.096
 1976,Congo,COG,0.0
 1977,Congo,COG,0.0
 1978,Congo,COG,0.0
@@ -2367,12 +2347,12 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2012,Costa Rica,CRI,0.0
 2013,Costa Rica,CRI,0.0
 2014,Costa Rica,CRI,0.0
-2015,Costa Rica,CRI,5.0
-2016,Costa Rica,CRI,5.0
-2017,Costa Rica,CRI,5.0
-2018,Costa Rica,CRI,5.0
-2019,Costa Rica,CRI,5.0
-2020,Costa Rica,CRI,5.0
+2015,Costa Rica,CRI,0.0
+2016,Costa Rica,CRI,0.0
+2017,Costa Rica,CRI,0.0
+2018,Costa Rica,CRI,0.005
+2019,Costa Rica,CRI,0.005
+2020,Costa Rica,CRI,0.005
 1925,Croatia,HRV,0.0
 1926,Croatia,HRV,0.0
 1927,Croatia,HRV,0.0
@@ -2469,6 +2449,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Croatia,HRV,0.0
 2019,Croatia,HRV,0.0
 2020,Croatia,HRV,0.0
+1954,Cuba,CUB,0.0
+1955,Cuba,CUB,0.0
 1956,Cuba,CUB,0.0
 1957,Cuba,CUB,0.0
 1958,Cuba,CUB,0.0
@@ -2523,17 +2505,36 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2007,Cuba,CUB,0.0
 2008,Cuba,CUB,0.0
 2009,Cuba,CUB,0.0
-2010,Cuba,CUB,5.0
-2011,Cuba,CUB,5.0
-2012,Cuba,CUB,5.0
-2013,Cuba,CUB,9.0
-2014,Cuba,CUB,9.0
-2015,Cuba,CUB,9.0
-2016,Cuba,CUB,9.0
-2017,Cuba,CUB,9.0
-2018,Cuba,CUB,9.0
-2019,Cuba,CUB,9.0
-2020,Cuba,CUB,9.0
+2010,Cuba,CUB,0.0
+2011,Cuba,CUB,0.0
+2012,Cuba,CUB,0.0
+2013,Cuba,CUB,0.0
+2014,Cuba,CUB,0.0
+2015,Cuba,CUB,0.0
+2016,Cuba,CUB,0.0
+2017,Cuba,CUB,0.005
+2018,Cuba,CUB,0.009000000000000001
+2019,Cuba,CUB,0.009000000000000001
+2020,Cuba,CUB,0.009000000000000001
+1976,Cyprus,CYP,0.0
+1977,Cyprus,CYP,0.0
+1978,Cyprus,CYP,0.0
+1979,Cyprus,CYP,0.0
+1980,Cyprus,CYP,0.0
+1981,Cyprus,CYP,0.0
+1982,Cyprus,CYP,0.0
+1983,Cyprus,CYP,0.0
+1984,Cyprus,CYP,0.0
+1985,Cyprus,CYP,0.0
+1986,Cyprus,CYP,0.0
+1987,Cyprus,CYP,0.0
+1988,Cyprus,CYP,0.0
+1989,Cyprus,CYP,0.0
+1990,Cyprus,CYP,0.0
+1991,Cyprus,CYP,0.0
+1992,Cyprus,CYP,0.0
+1993,Cyprus,CYP,0.0
+1994,Cyprus,CYP,0.0
 1995,Cyprus,CYP,0.0
 1996,Cyprus,CYP,0.0
 1997,Cyprus,CYP,0.0
@@ -2651,6 +2652,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Democratic Republic of the Congo,COD,0.0
 2019,Democratic Republic of the Congo,COD,0.0
 2020,Democratic Republic of the Congo,COD,0.0
+1961,Denmark,DNK,0.0
+1962,Denmark,DNK,0.0
+1963,Denmark,DNK,0.0
+1964,Denmark,DNK,0.0
+1965,Denmark,DNK,0.0
+1966,Denmark,DNK,0.0
+1967,Denmark,DNK,0.0
+1968,Denmark,DNK,0.0
+1969,Denmark,DNK,0.0
 1970,Denmark,DNK,0.0
 1971,Denmark,DNK,0.0
 1972,Denmark,DNK,0.0
@@ -2690,22 +2700,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2006,Denmark,DNK,0.0
 2007,Denmark,DNK,0.0
 2008,Denmark,DNK,0.0
-2009,Denmark,DNK,0.0
-2010,Denmark,DNK,10.0
-2011,Denmark,DNK,70.4
-2012,Denmark,DNK,80.4
-2013,Denmark,DNK,92.5
-2014,Denmark,DNK,92.5
-2015,Denmark,DNK,92.5
-2016,Denmark,DNK,153.5
-2017,Denmark,DNK,180.1
-2018,Denmark,DNK,251.1
-2019,Denmark,DNK,251.1
-2020,Denmark,DNK,251.1
-1985,Djibouti,DJI,0.0
-1986,Djibouti,DJI,0.0
-1987,Djibouti,DJI,0.0
-1988,Djibouti,DJI,0.0
+2009,Denmark,DNK,0.01
+2010,Denmark,DNK,0.01
+2011,Denmark,DNK,0.01
+2012,Denmark,DNK,0.01
+2013,Denmark,DNK,0.0221
+2014,Denmark,DNK,0.0925
+2015,Denmark,DNK,0.0925
+2016,Denmark,DNK,0.1701
+2017,Denmark,DNK,0.1801
+2018,Denmark,DNK,0.2511
+2019,Denmark,DNK,0.2511
+2020,Denmark,DNK,0.2511
 1989,Djibouti,DJI,0.0
 1990,Djibouti,DJI,0.0
 1991,Djibouti,DJI,0.0
@@ -2738,43 +2744,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Djibouti,DJI,0.0
 2019,Djibouti,DJI,0.0
 2020,Djibouti,DJI,0.0
-1928,Dominican Republic,DOM,0.0
-1929,Dominican Republic,DOM,0.0
-1930,Dominican Republic,DOM,0.0
-1931,Dominican Republic,DOM,0.0
-1932,Dominican Republic,DOM,0.0
-1933,Dominican Republic,DOM,0.0
-1934,Dominican Republic,DOM,0.0
-1935,Dominican Republic,DOM,0.0
-1936,Dominican Republic,DOM,0.0
-1937,Dominican Republic,DOM,0.0
-1938,Dominican Republic,DOM,0.0
-1939,Dominican Republic,DOM,0.0
-1940,Dominican Republic,DOM,0.0
-1941,Dominican Republic,DOM,0.0
-1942,Dominican Republic,DOM,0.0
-1943,Dominican Republic,DOM,0.0
-1944,Dominican Republic,DOM,0.0
-1945,Dominican Republic,DOM,0.0
-1946,Dominican Republic,DOM,0.0
-1947,Dominican Republic,DOM,0.0
-1948,Dominican Republic,DOM,0.0
-1949,Dominican Republic,DOM,0.0
-1950,Dominican Republic,DOM,0.0
-1951,Dominican Republic,DOM,0.0
-1952,Dominican Republic,DOM,0.0
-1953,Dominican Republic,DOM,0.0
-1954,Dominican Republic,DOM,0.0
-1955,Dominican Republic,DOM,0.0
-1956,Dominican Republic,DOM,0.0
-1957,Dominican Republic,DOM,0.0
-1958,Dominican Republic,DOM,0.0
-1959,Dominican Republic,DOM,0.0
-1960,Dominican Republic,DOM,0.0
-1961,Dominican Republic,DOM,0.0
-1962,Dominican Republic,DOM,0.0
-1963,Dominican Republic,DOM,0.0
-1964,Dominican Republic,DOM,0.0
 1965,Dominican Republic,DOM,0.0
 1966,Dominican Republic,DOM,0.0
 1967,Dominican Republic,DOM,0.0
@@ -2823,14 +2792,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2010,Dominican Republic,DOM,0.0
 2011,Dominican Republic,DOM,0.0
 2012,Dominican Republic,DOM,0.0
-2013,Dominican Republic,DOM,30.0
-2014,Dominican Republic,DOM,113.0
-2015,Dominican Republic,DOM,113.0
-2016,Dominican Republic,DOM,113.0
-2017,Dominican Republic,DOM,113.0
-2018,Dominican Republic,DOM,113.0
-2019,Dominican Republic,DOM,113.0
-2020,Dominican Republic,DOM,113.0
+2013,Dominican Republic,DOM,0.0
+2014,Dominican Republic,DOM,0.025
+2015,Dominican Republic,DOM,0.055
+2016,Dominican Republic,DOM,0.113
+2017,Dominican Republic,DOM,0.113
+2018,Dominican Republic,DOM,0.113
+2019,Dominican Republic,DOM,0.113
+2020,Dominican Republic,DOM,0.113
 1956,Ecuador,ECU,0.0
 1957,Ecuador,ECU,0.0
 1958,Ecuador,ECU,0.0
@@ -2887,15 +2856,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2009,Ecuador,ECU,0.0
 2010,Ecuador,ECU,0.0
 2011,Ecuador,ECU,0.0
-2012,Ecuador,ECU,0.0
-2013,Ecuador,ECU,0.0
-2014,Ecuador,ECU,20.0
-2015,Ecuador,ECU,20.0
-2016,Ecuador,ECU,20.0
-2017,Ecuador,ECU,20.0
-2018,Ecuador,ECU,50.0
-2019,Ecuador,ECU,50.0
-2020,Ecuador,ECU,50.0
+2012,Ecuador,ECU,0.03
+2013,Ecuador,ECU,0.03
+2014,Ecuador,ECU,0.03
+2015,Ecuador,ECU,0.03
+2016,Ecuador,ECU,0.03
+2017,Ecuador,ECU,0.03
+2018,Ecuador,ECU,0.05
+2019,Ecuador,ECU,0.05
+2020,Ecuador,ECU,0.05
 1967,Egypt,EGY,0.0
 1968,Egypt,EGY,0.0
 1969,Egypt,EGY,0.0
@@ -2938,18 +2907,27 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2006,Egypt,EGY,0.0
 2007,Egypt,EGY,0.0
 2008,Egypt,EGY,0.0
-2009,Egypt,EGY,20.0
-2010,Egypt,EGY,20.0
-2011,Egypt,EGY,25.0
-2012,Egypt,EGY,45.0
-2013,Egypt,EGY,99.5
-2014,Egypt,EGY,199.5
-2015,Egypt,EGY,549.5
-2016,Egypt,EGY,574.5
-2017,Egypt,EGY,659.5
-2018,Egypt,EGY,759.5
-2019,Egypt,EGY,759.5
-2020,Egypt,EGY,759.5
+2009,Egypt,EGY,0.01
+2010,Egypt,EGY,0.01
+2011,Egypt,EGY,0.0145
+2012,Egypt,EGY,0.0395
+2013,Egypt,EGY,0.0445
+2014,Egypt,EGY,0.1445
+2015,Egypt,EGY,0.4945
+2016,Egypt,EGY,0.5445
+2017,Egypt,EGY,0.6145
+2018,Egypt,EGY,0.7595000000000001
+2019,Egypt,EGY,0.7595000000000001
+2020,Egypt,EGY,0.7595000000000001
+1939,El Salvador,SLV,0.0
+1940,El Salvador,SLV,0.0
+1941,El Salvador,SLV,0.0
+1942,El Salvador,SLV,0.0
+1943,El Salvador,SLV,0.0
+1944,El Salvador,SLV,0.0
+1945,El Salvador,SLV,0.0
+1946,El Salvador,SLV,0.0
+1947,El Salvador,SLV,0.0
 1948,El Salvador,SLV,0.0
 1949,El Salvador,SLV,0.0
 1950,El Salvador,SLV,0.0
@@ -3012,44 +2990,17 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2007,El Salvador,SLV,0.0
 2008,El Salvador,SLV,0.0
 2009,El Salvador,SLV,0.0
-2010,El Salvador,SLV,10.0
-2011,El Salvador,SLV,10.0
-2012,El Salvador,SLV,45.0
-2013,El Salvador,SLV,63.0
-2014,El Salvador,SLV,63.0
-2015,El Salvador,SLV,63.0
-2016,El Salvador,SLV,63.0
-2017,El Salvador,SLV,184.0
-2018,El Salvador,SLV,270.0
-2019,El Salvador,SLV,270.0
-2020,El Salvador,SLV,270.0
-1942,Equatorial Guinea,GNQ,0.0
-1943,Equatorial Guinea,GNQ,0.0
-1944,Equatorial Guinea,GNQ,0.0
-1945,Equatorial Guinea,GNQ,0.0
-1946,Equatorial Guinea,GNQ,0.0
-1947,Equatorial Guinea,GNQ,0.0
-1948,Equatorial Guinea,GNQ,0.0
-1949,Equatorial Guinea,GNQ,0.0
-1950,Equatorial Guinea,GNQ,0.0
-1951,Equatorial Guinea,GNQ,0.0
-1952,Equatorial Guinea,GNQ,0.0
-1953,Equatorial Guinea,GNQ,0.0
-1954,Equatorial Guinea,GNQ,0.0
-1955,Equatorial Guinea,GNQ,0.0
-1956,Equatorial Guinea,GNQ,0.0
-1957,Equatorial Guinea,GNQ,0.0
-1958,Equatorial Guinea,GNQ,0.0
-1959,Equatorial Guinea,GNQ,0.0
-1960,Equatorial Guinea,GNQ,0.0
-1961,Equatorial Guinea,GNQ,0.0
-1962,Equatorial Guinea,GNQ,0.0
-1963,Equatorial Guinea,GNQ,0.0
-1964,Equatorial Guinea,GNQ,0.0
-1965,Equatorial Guinea,GNQ,0.0
-1966,Equatorial Guinea,GNQ,0.0
-1967,Equatorial Guinea,GNQ,0.0
-1968,Equatorial Guinea,GNQ,0.0
+2010,El Salvador,SLV,0.01
+2011,El Salvador,SLV,0.01
+2012,El Salvador,SLV,0.038
+2013,El Salvador,SLV,0.139
+2014,El Salvador,SLV,0.24
+2015,El Salvador,SLV,0.24
+2016,El Salvador,SLV,0.24
+2017,El Salvador,SLV,0.24
+2018,El Salvador,SLV,0.27
+2019,El Salvador,SLV,0.27
+2020,El Salvador,SLV,0.27
 1969,Equatorial Guinea,GNQ,0.0
 1970,Equatorial Guinea,GNQ,0.0
 1971,Equatorial Guinea,GNQ,0.0
@@ -3102,24 +3053,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Equatorial Guinea,GNQ,0.0
 2019,Equatorial Guinea,GNQ,0.0
 2020,Equatorial Guinea,GNQ,0.0
-1988,Eritrea,ERI,0.0
-1989,Eritrea,ERI,0.0
-1990,Eritrea,ERI,0.0
-1991,Eritrea,ERI,0.0
-1992,Eritrea,ERI,0.0
-1993,Eritrea,ERI,0.0
-1994,Eritrea,ERI,0.0
-1995,Eritrea,ERI,0.0
-1996,Eritrea,ERI,0.0
-1997,Eritrea,ERI,0.0
-1998,Eritrea,ERI,0.0
-1999,Eritrea,ERI,0.0
-2000,Eritrea,ERI,0.0
-2001,Eritrea,ERI,0.0
-2002,Eritrea,ERI,0.0
-2003,Eritrea,ERI,0.0
-2004,Eritrea,ERI,0.0
-2005,Eritrea,ERI,0.0
 2006,Eritrea,ERI,0.0
 2007,Eritrea,ERI,0.0
 2008,Eritrea,ERI,0.0
@@ -3135,8 +3068,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Eritrea,ERI,0.0
 2019,Eritrea,ERI,0.0
 2020,Eritrea,ERI,0.0
-1981,Estonia,EST,0.0
-1982,Estonia,EST,0.0
 1983,Estonia,EST,0.0
 1984,Estonia,EST,0.0
 1985,Estonia,EST,0.0
@@ -3469,23 +3400,44 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2001,France,FRA,0.0
 2002,France,FRA,0.0
 2003,France,FRA,0.0
-2004,France,FRA,1.38035
-2005,France,FRA,1.38035
-2006,France,FRA,12.48035
-2007,France,FRA,51.32247
-2008,France,FRA,72.08680000000003
-2009,France,FRA,115.03413
-2010,France,FRA,208.26898
-2011,France,FRA,418.4613
-2012,France,FRA,694.8044800000001
-2013,France,FRA,1154.1803099999995
-2014,France,FRA,1679.7774499999994
-2015,France,FRA,2284.7728700000007
-2016,France,FRA,2797.357820000001
-2017,France,FRA,3786.6444399999987
-2018,France,FRA,4910.416999999994
-2019,France,FRA,4910.416999999994
-2020,France,FRA,4910.416999999994
+2004,France,FRA,0.00100761
+2005,France,FRA,0.00523889
+2006,France,FRA,0.00523889
+2007,France,FRA,0.03289686
+2008,France,FRA,0.048928860000000005
+2009,France,FRA,0.08318974999999999
+2010,France,FRA,0.20448045
+2011,France,FRA,0.4579385500000001
+2012,France,FRA,0.8641916899999992
+2013,France,FRA,1.1893001299999992
+2014,France,FRA,1.7954620899999991
+2015,France,FRA,2.32737885
+2016,France,FRA,3.1196767400000014
+2017,France,FRA,3.54164782
+2018,France,FRA,4.9104169999999945
+2019,France,FRA,4.9104169999999945
+2020,France,FRA,4.9104169999999945
+1968,French Guiana,GUF,0.0
+1969,French Guiana,GUF,0.0
+1970,French Guiana,GUF,0.0
+1971,French Guiana,GUF,0.0
+1972,French Guiana,GUF,0.0
+1973,French Guiana,GUF,0.0
+1974,French Guiana,GUF,0.0
+1975,French Guiana,GUF,0.0
+1976,French Guiana,GUF,0.0
+1977,French Guiana,GUF,0.0
+1978,French Guiana,GUF,0.0
+1979,French Guiana,GUF,0.0
+1980,French Guiana,GUF,0.0
+1981,French Guiana,GUF,0.0
+1982,French Guiana,GUF,0.0
+1983,French Guiana,GUF,0.0
+1984,French Guiana,GUF,0.0
+1985,French Guiana,GUF,0.0
+1986,French Guiana,GUF,0.0
+1987,French Guiana,GUF,0.0
+1988,French Guiana,GUF,0.0
 1989,French Guiana,GUF,0.0
 1990,French Guiana,GUF,0.0
 1991,French Guiana,GUF,0.0
@@ -3508,16 +3460,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2008,French Guiana,GUF,0.0
 2009,French Guiana,GUF,0.0
 2010,French Guiana,GUF,0.0
-2011,French Guiana,GUF,5.0
-2012,French Guiana,GUF,5.0
-2013,French Guiana,GUF,5.0
-2014,French Guiana,GUF,5.0
-2015,French Guiana,GUF,5.0
-2016,French Guiana,GUF,5.0
-2017,French Guiana,GUF,5.0
-2018,French Guiana,GUF,5.0
-2019,French Guiana,GUF,5.0
-2020,French Guiana,GUF,5.0
+2011,French Guiana,GUF,0.0
+2012,French Guiana,GUF,0.0
+2013,French Guiana,GUF,0.0
+2014,French Guiana,GUF,0.0
+2015,French Guiana,GUF,0.0
+2016,French Guiana,GUF,0.0
+2017,French Guiana,GUF,0.0
+2018,French Guiana,GUF,0.005
+2019,French Guiana,GUF,0.005
+2020,French Guiana,GUF,0.005
 1926,Gabon,GAB,0.0
 1927,Gabon,GAB,0.0
 1928,Gabon,GAB,0.0
@@ -3613,11 +3565,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Gabon,GAB,0.0
 2019,Gabon,GAB,0.0
 2020,Gabon,GAB,0.0
-1970,Gambia,GMB,0.0
-1971,Gambia,GMB,0.0
-1972,Gambia,GMB,0.0
-1973,Gambia,GMB,0.0
-1974,Gambia,GMB,0.0
 1975,Gambia,GMB,0.0
 1976,Gambia,GMB,0.0
 1977,Gambia,GMB,0.0
@@ -3664,6 +3611,19 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Gambia,GMB,0.0
 2019,Gambia,GMB,0.0
 2020,Gambia,GMB,0.0
+1920,Georgia,GEO,0.0
+1921,Georgia,GEO,0.0
+1922,Georgia,GEO,0.0
+1923,Georgia,GEO,0.0
+1924,Georgia,GEO,0.0
+1925,Georgia,GEO,0.0
+1926,Georgia,GEO,0.0
+1927,Georgia,GEO,0.0
+1928,Georgia,GEO,0.0
+1929,Georgia,GEO,0.0
+1930,Georgia,GEO,0.0
+1931,Georgia,GEO,0.0
+1932,Georgia,GEO,0.0
 1933,Georgia,GEO,0.0
 1934,Georgia,GEO,0.0
 1935,Georgia,GEO,0.0
@@ -3836,23 +3796,23 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2001,Germany,DEU,0.0
 2002,Germany,DEU,0.0
 2003,Germany,DEU,0.0
-2004,Germany,DEU,5.7
-2005,Germany,DEU,5.7
-2006,Germany,DEU,5.7
-2007,Germany,DEU,7.7
-2008,Germany,DEU,14.8
-2009,Germany,DEU,107.7
-2010,Germany,DEU,191.5
-2011,Germany,DEU,345.79999999999984
-2012,Germany,DEU,786.2000000000003
-2013,Germany,DEU,1838.5092600000007
-2014,Germany,DEU,2551.1684199999986
-2015,Germany,DEU,3674.489819999997
-2016,Germany,DEU,4293.489819999997
-2017,Germany,DEU,4975.038209999997
-2018,Germany,DEU,6770.562880000002
-2019,Germany,DEU,6770.562880000002
-2020,Germany,DEU,6770.562880000002
+2004,Germany,DEU,0.0383
+2005,Germany,DEU,0.0383
+2006,Germany,DEU,0.0383
+2007,Germany,DEU,0.0383
+2008,Germany,DEU,0.054200000000000005
+2009,Germany,DEU,0.161
+2010,Germany,DEU,0.2988
+2011,Germany,DEU,0.6501560000000001
+2012,Germany,DEU,1.2202560000000002
+2013,Germany,DEU,1.9364339299999995
+2014,Germany,DEU,2.679920019999999
+2015,Germany,DEU,3.860583559999997
+2016,Germany,DEU,4.634818759999998
+2017,Germany,DEU,5.31186288
+2018,Germany,DEU,6.770562880000004
+2019,Germany,DEU,6.770562880000004
+2020,Germany,DEU,6.770562880000004
 1961,Ghana,GHA,0.0
 1962,Ghana,GHA,0.0
 1963,Ghana,GHA,0.0
@@ -3906,13 +3866,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2011,Ghana,GHA,0.0
 2012,Ghana,GHA,0.0
 2013,Ghana,GHA,0.0
-2014,Ghana,GHA,0.0
-2015,Ghana,GHA,20.0
-2016,Ghana,GHA,20.0
-2017,Ghana,GHA,20.0
-2018,Ghana,GHA,20.0
-2019,Ghana,GHA,20.0
-2020,Ghana,GHA,20.0
+2014,Ghana,GHA,0.02
+2015,Ghana,GHA,0.02
+2016,Ghana,GHA,0.02
+2017,Ghana,GHA,0.02
+2018,Ghana,GHA,0.02
+2019,Ghana,GHA,0.02
+2020,Ghana,GHA,0.02
 1954,Greece,GRC,0.0
 1955,Greece,GRC,0.0
 1956,Greece,GRC,0.0
@@ -3969,17 +3929,17 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2007,Greece,GRC,0.0
 2008,Greece,GRC,0.0
 2009,Greece,GRC,0.0
-2010,Greece,GRC,16.9
-2011,Greece,GRC,16.9
-2012,Greece,GRC,16.9
-2013,Greece,GRC,31.8
-2014,Greece,GRC,72.1
-2015,Greece,GRC,122.4
-2016,Greece,GRC,138.4
-2017,Greece,GRC,182.8
-2018,Greece,GRC,217.7
-2019,Greece,GRC,217.7
-2020,Greece,GRC,217.7
+2010,Greece,GRC,0.0165
+2011,Greece,GRC,0.0225
+2012,Greece,GRC,0.0225
+2013,Greece,GRC,0.0398
+2014,Greece,GRC,0.07959999999999999
+2015,Greece,GRC,0.1222
+2016,Greece,GRC,0.12780000000000002
+2017,Greece,GRC,0.16390000000000002
+2018,Greece,GRC,0.21770000000000006
+2019,Greece,GRC,0.21770000000000006
+2020,Greece,GRC,0.21770000000000006
 1920,Guatemala,GTM,0.0
 1921,Guatemala,GTM,0.0
 1922,Guatemala,GTM,0.0
@@ -4073,26 +4033,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2010,Guatemala,GTM,0.0
 2011,Guatemala,GTM,0.0
 2012,Guatemala,GTM,0.0
-2013,Guatemala,GTM,30.0
-2014,Guatemala,GTM,35.0
-2015,Guatemala,GTM,115.0
-2016,Guatemala,GTM,115.0
-2017,Guatemala,GTM,115.0
-2018,Guatemala,GTM,115.0
-2019,Guatemala,GTM,115.0
-2020,Guatemala,GTM,115.0
-1942,Guinea,GIN,0.0
-1943,Guinea,GIN,0.0
-1944,Guinea,GIN,0.0
-1945,Guinea,GIN,0.0
-1946,Guinea,GIN,0.0
-1947,Guinea,GIN,0.0
-1948,Guinea,GIN,0.0
-1949,Guinea,GIN,0.0
-1950,Guinea,GIN,0.0
-1951,Guinea,GIN,0.0
-1952,Guinea,GIN,0.0
-1953,Guinea,GIN,0.0
+2013,Guatemala,GTM,0.0
+2014,Guatemala,GTM,0.005
+2015,Guatemala,GTM,0.085
+2016,Guatemala,GTM,0.085
+2017,Guatemala,GTM,0.115
+2018,Guatemala,GTM,0.115
+2019,Guatemala,GTM,0.115
+2020,Guatemala,GTM,0.115
 1954,Guinea,GIN,0.0
 1955,Guinea,GIN,0.0
 1956,Guinea,GIN,0.0
@@ -4160,10 +4108,47 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Guinea,GIN,0.0
 2019,Guinea,GIN,0.0
 2020,Guinea,GIN,0.0
-2017,Guinea-Bissau,GNB,0.0
-2018,Guinea-Bissau,GNB,0.0
-2019,Guinea-Bissau,GNB,0.0
-2020,Guinea-Bissau,GNB,0.0
+1977,Guinea-Bissau,GNB,0.0
+1978,Guinea-Bissau,GNB,0.0
+1979,Guinea-Bissau,GNB,0.0
+1980,Guinea-Bissau,GNB,0.0
+1981,Guinea-Bissau,GNB,0.0
+1982,Guinea-Bissau,GNB,0.0
+1983,Guinea-Bissau,GNB,0.0
+1984,Guinea-Bissau,GNB,0.0
+1985,Guinea-Bissau,GNB,0.0
+1986,Guinea-Bissau,GNB,0.0
+1987,Guinea-Bissau,GNB,0.0
+1988,Guinea-Bissau,GNB,0.0
+1989,Guinea-Bissau,GNB,0.0
+1990,Guinea-Bissau,GNB,0.0
+1991,Guinea-Bissau,GNB,0.0
+1992,Guinea-Bissau,GNB,0.0
+1993,Guinea-Bissau,GNB,0.0
+1994,Guinea-Bissau,GNB,0.0
+1995,Guinea-Bissau,GNB,0.0
+1996,Guinea-Bissau,GNB,0.0
+1997,Guinea-Bissau,GNB,0.0
+1998,Guinea-Bissau,GNB,0.0
+1999,Guinea-Bissau,GNB,0.0
+2000,Guinea-Bissau,GNB,0.0
+2001,Guinea-Bissau,GNB,0.0
+2002,Guinea-Bissau,GNB,0.0
+2003,Guinea-Bissau,GNB,0.0
+2004,Guinea-Bissau,GNB,0.0
+2005,Guinea-Bissau,GNB,0.0
+2006,Guinea-Bissau,GNB,0.0
+2007,Guinea-Bissau,GNB,0.0
+2008,Guinea-Bissau,GNB,0.0
+2009,Guinea-Bissau,GNB,0.0
+2010,Guinea-Bissau,GNB,0.0
+2011,Guinea-Bissau,GNB,0.0
+2012,Guinea-Bissau,GNB,0.0
+2013,Guinea-Bissau,GNB,0.0
+2014,Guinea-Bissau,GNB,0.0
+2015,Guinea-Bissau,GNB,0.0
+2016,Guinea-Bissau,GNB,0.0
+1976,Guyana,GUY,0.0
 1977,Guyana,GUY,0.0
 1978,Guyana,GUY,0.0
 1979,Guyana,GUY,0.0
@@ -4208,16 +4193,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Guyana,GUY,0.0
 2019,Guyana,GUY,0.0
 2020,Guyana,GUY,0.0
-1929,Honduras,HND,0.0
-1930,Honduras,HND,0.0
-1931,Honduras,HND,0.0
-1932,Honduras,HND,0.0
-1933,Honduras,HND,0.0
-1934,Honduras,HND,0.0
-1935,Honduras,HND,0.0
-1936,Honduras,HND,0.0
-1937,Honduras,HND,0.0
-1938,Honduras,HND,0.0
 1939,Honduras,HND,0.0
 1940,Honduras,HND,0.0
 1941,Honduras,HND,0.0
@@ -4290,16 +4265,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2008,Honduras,HND,0.0
 2009,Honduras,HND,0.0
 2010,Honduras,HND,0.0
-2011,Honduras,HND,6.0
-2012,Honduras,HND,6.0
-2013,Honduras,HND,6.0
-2014,Honduras,HND,41.0
-2015,Honduras,HND,361.55
-2016,Honduras,HND,492.55
-2017,Honduras,HND,553.55
-2018,Honduras,HND,604.45
-2019,Honduras,HND,604.45
-2020,Honduras,HND,604.45
+2011,Honduras,HND,0.07890000000000001
+2012,Honduras,HND,0.07890000000000001
+2013,Honduras,HND,0.07890000000000001
+2014,Honduras,HND,0.07890000000000001
+2015,Honduras,HND,0.41445
+2016,Honduras,HND,0.47535
+2017,Honduras,HND,0.59845
+2018,Honduras,HND,0.60445
+2019,Honduras,HND,0.60445
+2020,Honduras,HND,0.60445
 1957,Hungary,HUN,0.0
 1958,Hungary,HUN,0.0
 1959,Hungary,HUN,0.0
@@ -4355,15 +4330,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2009,Hungary,HUN,0.0
 2010,Hungary,HUN,0.0
 2011,Hungary,HUN,0.0
-2012,Hungary,HUN,0.0
-2013,Hungary,HUN,20.0
-2014,Hungary,HUN,20.0
-2015,Hungary,HUN,56.6
-2016,Hungary,HUN,63.6
-2017,Hungary,HUN,84.6
-2018,Hungary,HUN,84.6
-2019,Hungary,HUN,84.6
-2020,Hungary,HUN,84.6
+2012,Hungary,HUN,0.036000000000000004
+2013,Hungary,HUN,0.043
+2014,Hungary,HUN,0.043
+2015,Hungary,HUN,0.043
+2016,Hungary,HUN,0.043
+2017,Hungary,HUN,0.043
+2018,Hungary,HUN,0.0846
+2019,Hungary,HUN,0.0846
+2020,Hungary,HUN,0.0846
 1937,Iceland,ISL,0.0
 1938,Iceland,ISL,0.0
 1939,Iceland,ISL,0.0
@@ -4528,20 +4503,20 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2004,India,IND,0.0
 2005,India,IND,0.0
 2006,India,IND,0.0
-2007,India,IND,20.5
-2008,India,IND,40.5
-2009,India,IND,325.7
-2010,India,IND,862.8000000000002
-2011,India,IND,2218.0
-2012,India,IND,4076.5
-2013,India,IND,5729.700000000002
-2014,India,IND,9312.8
-2015,India,IND,12825.500000000002
-2016,India,IND,15897.100000000002
-2017,India,IND,18872.0
-2018,India,IND,25549.099999999995
-2019,India,IND,25549.099999999995
-2020,India,IND,25549.099999999995
+2007,India,IND,0.03
+2008,India,IND,0.05
+2009,India,IND,0.4191
+2010,India,IND,1.2651
+2011,India,IND,2.1277
+2012,India,IND,4.0158
+2013,India,IND,5.5812
+2014,India,IND,9.653800000000004
+2015,India,IND,13.108200000000005
+2016,India,IND,15.9278
+2017,India,IND,18.579000000000004
+2018,India,IND,25.5491
+2019,India,IND,25.5491
+2020,India,IND,25.5491
 1920,Indonesia,IDN,0.0
 1921,Indonesia,IDN,0.0
 1922,Indonesia,IDN,0.0
@@ -4708,19 +4683,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Iraq,IRQ,0.0
 2019,Iraq,IRQ,0.0
 2020,Iraq,IRQ,0.0
-1943,Ireland,IRL,0.0
-1944,Ireland,IRL,0.0
-1945,Ireland,IRL,0.0
-1946,Ireland,IRL,0.0
-1947,Ireland,IRL,0.0
-1948,Ireland,IRL,0.0
-1949,Ireland,IRL,0.0
-1950,Ireland,IRL,0.0
-1951,Ireland,IRL,0.0
-1952,Ireland,IRL,0.0
-1953,Ireland,IRL,0.0
-1954,Ireland,IRL,0.0
-1955,Ireland,IRL,0.0
 1956,Ireland,IRL,0.0
 1957,Ireland,IRL,0.0
 1958,Ireland,IRL,0.0
@@ -4834,18 +4796,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2006,Israel,ISR,0.0
 2007,Israel,ISR,0.0
 2008,Israel,ISR,0.0
-2009,Israel,ISR,10.9
-2010,Israel,ISR,17.9
-2011,Israel,ISR,17.9
-2012,Israel,ISR,42.2
-2013,Israel,ISR,88.6
-2014,Israel,ISR,210.50000000000003
-2015,Israel,ISR,316.8
-2016,Israel,ISR,379.5
-2017,Israel,ISR,427.8
-2018,Israel,ISR,570.8
-2019,Israel,ISR,570.8
-2020,Israel,ISR,570.8
+2009,Israel,ISR,0.0109
+2010,Israel,ISR,0.0109
+2011,Israel,ISR,0.0109
+2012,Israel,ISR,0.0259
+2013,Israel,ISR,0.09210000000000003
+2014,Israel,ISR,0.17910000000000004
+2015,Israel,ISR,0.332
+2016,Israel,ISR,0.3933
+2017,Israel,ISR,0.4189
+2018,Israel,ISR,0.5708
+2019,Israel,ISR,0.5708
+2020,Israel,ISR,0.5708
 1920,Italy,ITA,0.0
 1921,Italy,ITA,0.0
 1922,Italy,ITA,0.0
@@ -4933,22 +4895,20 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2004,Italy,ITA,0.0
 2005,Italy,ITA,0.0
 2006,Italy,ITA,0.0
-2007,Italy,ITA,0.0
-2008,Italy,ITA,16.0
-2009,Italy,ITA,27.7
-2010,Italy,ITA,106.0
-2011,Italy,ITA,236.0
-2012,Italy,ITA,350.1
-2013,Italy,ITA,612.3000000000002
-2014,Italy,ITA,831.0
-2015,Italy,ITA,1095.0
-2016,Italy,ITA,1289.4999999999998
-2017,Italy,ITA,1506.7999999999995
-2018,Italy,ITA,1952.6900000000005
-2019,Italy,ITA,1952.6900000000005
-2020,Italy,ITA,1952.6900000000005
-1943,Jamaica,JAM,0.0
-1944,Jamaica,JAM,0.0
+2007,Italy,ITA,0.001
+2008,Italy,ITA,0.032
+2009,Italy,ITA,0.0552
+2010,Italy,ITA,0.08449999999999999
+2011,Italy,ITA,0.1823
+2012,Italy,ITA,0.2933
+2013,Italy,ITA,0.4928999999999999
+2014,Italy,ITA,0.7308999999999999
+2015,Italy,ITA,1.0464999999999998
+2016,Italy,ITA,1.2341999999999995
+2017,Italy,ITA,1.5202999999999995
+2018,Italy,ITA,1.9526900000000005
+2019,Italy,ITA,1.9526900000000005
+2020,Italy,ITA,1.9526900000000005
 1945,Jamaica,JAM,0.0
 1946,Jamaica,JAM,0.0
 1947,Jamaica,JAM,0.0
@@ -5018,13 +4978,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2011,Jamaica,JAM,0.0
 2012,Jamaica,JAM,0.0
 2013,Jamaica,JAM,0.0
-2014,Jamaica,JAM,0.0
-2015,Jamaica,JAM,0.0
-2016,Jamaica,JAM,0.0
-2017,Jamaica,JAM,0.0
-2018,Jamaica,JAM,20.0
-2019,Jamaica,JAM,20.0
-2020,Jamaica,JAM,20.0
+2014,Jamaica,JAM,0.02
+2015,Jamaica,JAM,0.02
+2016,Jamaica,JAM,0.02
+2017,Jamaica,JAM,0.02
+2018,Jamaica,JAM,0.02
+2019,Jamaica,JAM,0.02
+2020,Jamaica,JAM,0.02
 1920,Japan,JPN,0.0
 1921,Japan,JPN,0.0
 1922,Japan,JPN,0.0
@@ -5111,22 +5071,21 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2003,Japan,JPN,0.0
 2004,Japan,JPN,0.0
 2005,Japan,JPN,0.0
-2006,Japan,JPN,42.0
-2007,Japan,JPN,42.0
-2008,Japan,JPN,97.4
-2009,Japan,JPN,225.8
-2010,Japan,JPN,473.4
-2011,Japan,JPN,717.7999999999997
-2012,Japan,JPN,1082.0
-2013,Japan,JPN,1616.9000000000005
-2014,Japan,JPN,2249.9000000000005
-2015,Japan,JPN,3072.200000000001
-2016,Japan,JPN,3700.3
-2017,Japan,JPN,4552.000000000002
-2018,Japan,JPN,5686.5999999999985
-2019,Japan,JPN,5686.5999999999985
-2020,Japan,JPN,5686.5999999999985
-1970,Jordan,JOR,0.0
+2006,Japan,JPN,0.023
+2007,Japan,JPN,0.023
+2008,Japan,JPN,0.0425
+2009,Japan,JPN,0.0807
+2010,Japan,JPN,0.1819
+2011,Japan,JPN,0.6063999999999999
+2012,Japan,JPN,0.9197
+2013,Japan,JPN,1.3818
+2014,Japan,JPN,2.0667
+2015,Japan,JPN,3.125100000000001
+2016,Japan,JPN,3.669000000000001
+2017,Japan,JPN,4.419600000000002
+2018,Japan,JPN,5.6865999999999985
+2019,Japan,JPN,5.6865999999999985
+2020,Japan,JPN,5.6865999999999985
 1971,Jordan,JOR,0.0
 1972,Jordan,JOR,0.0
 1973,Jordan,JOR,0.0
@@ -5163,22 +5122,20 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2004,Jordan,JOR,0.0
 2005,Jordan,JOR,0.0
 2006,Jordan,JOR,0.0
-2007,Jordan,JOR,20.0
-2008,Jordan,JOR,20.0
-2009,Jordan,JOR,20.0
-2010,Jordan,JOR,20.0
-2011,Jordan,JOR,31.0
-2012,Jordan,JOR,31.0
-2013,Jordan,JOR,66.5
-2014,Jordan,JOR,76.5
-2015,Jordan,JOR,134.4
-2016,Jordan,JOR,260.4
-2017,Jordan,JOR,421.5
-2018,Jordan,JOR,567.5
-2019,Jordan,JOR,567.5
-2020,Jordan,JOR,567.5
-1949,Kazakhstan,KAZ,0.0
-1950,Kazakhstan,KAZ,0.0
+2007,Jordan,JOR,0.02
+2008,Jordan,JOR,0.02
+2009,Jordan,JOR,0.02
+2010,Jordan,JOR,0.02
+2011,Jordan,JOR,0.02
+2012,Jordan,JOR,0.02
+2013,Jordan,JOR,0.06
+2014,Jordan,JOR,0.08040000000000001
+2015,Jordan,JOR,0.1831
+2016,Jordan,JOR,0.32160000000000005
+2017,Jordan,JOR,0.3416
+2018,Jordan,JOR,0.5675
+2019,Jordan,JOR,0.5675
+2020,Jordan,JOR,0.5675
 1951,Kazakhstan,KAZ,0.0
 1952,Kazakhstan,KAZ,0.0
 1953,Kazakhstan,KAZ,0.0
@@ -5241,14 +5198,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2010,Kazakhstan,KAZ,0.0
 2011,Kazakhstan,KAZ,0.0
 2012,Kazakhstan,KAZ,0.0
-2013,Kazakhstan,KAZ,100.0
-2014,Kazakhstan,KAZ,100.0
-2015,Kazakhstan,KAZ,150.0
-2016,Kazakhstan,KAZ,150.0
-2017,Kazakhstan,KAZ,230.0
-2018,Kazakhstan,KAZ,270.0
-2019,Kazakhstan,KAZ,270.0
-2020,Kazakhstan,KAZ,270.0
+2013,Kazakhstan,KAZ,0.0
+2014,Kazakhstan,KAZ,0.0
+2015,Kazakhstan,KAZ,0.05
+2016,Kazakhstan,KAZ,0.05
+2017,Kazakhstan,KAZ,0.05
+2018,Kazakhstan,KAZ,0.27
+2019,Kazakhstan,KAZ,0.27
+2020,Kazakhstan,KAZ,0.27
 1968,Kenya,KEN,0.0
 1969,Kenya,KEN,0.0
 1970,Kenya,KEN,0.0
@@ -5299,28 +5256,9 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2015,Kenya,KEN,0.0
 2016,Kenya,KEN,0.0
 2017,Kenya,KEN,0.0
-2018,Kenya,KEN,55.7
-2019,Kenya,KEN,55.7
-2020,Kenya,KEN,55.7
-1985,Kuwait,KWT,0.0
-1986,Kuwait,KWT,0.0
-1987,Kuwait,KWT,0.0
-1988,Kuwait,KWT,0.0
-1989,Kuwait,KWT,0.0
-1990,Kuwait,KWT,0.0
-1991,Kuwait,KWT,0.0
-1992,Kuwait,KWT,0.0
-1993,Kuwait,KWT,0.0
-1994,Kuwait,KWT,0.0
-1995,Kuwait,KWT,0.0
-1996,Kuwait,KWT,0.0
-1997,Kuwait,KWT,0.0
-1998,Kuwait,KWT,0.0
-1999,Kuwait,KWT,0.0
-2000,Kuwait,KWT,0.0
-2001,Kuwait,KWT,0.0
-2002,Kuwait,KWT,0.0
-2003,Kuwait,KWT,0.0
+2018,Kenya,KEN,0.055700000000000006
+2019,Kenya,KEN,0.055700000000000006
+2020,Kenya,KEN,0.055700000000000006
 2004,Kuwait,KWT,0.0
 2005,Kuwait,KWT,0.0
 2006,Kuwait,KWT,0.0
@@ -5334,15 +5272,10 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2014,Kuwait,KWT,0.0
 2015,Kuwait,KWT,0.0
 2016,Kuwait,KWT,0.0
-2017,Kuwait,KWT,10.0
-2018,Kuwait,KWT,10.0
-2019,Kuwait,KWT,10.0
-2020,Kuwait,KWT,10.0
-1946,Kyrgyzstan,KGZ,0.0
-1947,Kyrgyzstan,KGZ,0.0
-1948,Kyrgyzstan,KGZ,0.0
-1949,Kyrgyzstan,KGZ,0.0
-1950,Kyrgyzstan,KGZ,0.0
+2017,Kuwait,KWT,0.01
+2018,Kuwait,KWT,0.01
+2019,Kuwait,KWT,0.01
+2020,Kuwait,KWT,0.01
 1951,Kyrgyzstan,KGZ,0.0
 1952,Kyrgyzstan,KGZ,0.0
 1953,Kyrgyzstan,KGZ,0.0
@@ -5564,26 +5497,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Lebanon,LBN,0.0
 2019,Lebanon,LBN,0.0
 2020,Lebanon,LBN,0.0
-1978,Lesotho,LSO,0.0
-1979,Lesotho,LSO,0.0
-1980,Lesotho,LSO,0.0
-1981,Lesotho,LSO,0.0
-1982,Lesotho,LSO,0.0
-1983,Lesotho,LSO,0.0
-1984,Lesotho,LSO,0.0
-1985,Lesotho,LSO,0.0
-1986,Lesotho,LSO,0.0
-1987,Lesotho,LSO,0.0
-1988,Lesotho,LSO,0.0
-1989,Lesotho,LSO,0.0
-1990,Lesotho,LSO,0.0
-1991,Lesotho,LSO,0.0
-1992,Lesotho,LSO,0.0
-1993,Lesotho,LSO,0.0
-1994,Lesotho,LSO,0.0
-1995,Lesotho,LSO,0.0
-1996,Lesotho,LSO,0.0
-1997,Lesotho,LSO,0.0
 1998,Lesotho,LSO,0.0
 1999,Lesotho,LSO,0.0
 2000,Lesotho,LSO,0.0
@@ -5607,21 +5520,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Lesotho,LSO,0.0
 2019,Lesotho,LSO,0.0
 2020,Lesotho,LSO,0.0
-1934,Liberia,LBR,0.0
-1935,Liberia,LBR,0.0
-1936,Liberia,LBR,0.0
-1937,Liberia,LBR,0.0
-1938,Liberia,LBR,0.0
-1939,Liberia,LBR,0.0
-1940,Liberia,LBR,0.0
-1941,Liberia,LBR,0.0
-1942,Liberia,LBR,0.0
-1943,Liberia,LBR,0.0
-1944,Liberia,LBR,0.0
-1945,Liberia,LBR,0.0
-1946,Liberia,LBR,0.0
-1947,Liberia,LBR,0.0
-1948,Liberia,LBR,0.0
 1949,Liberia,LBR,0.0
 1950,Liberia,LBR,0.0
 1951,Liberia,LBR,0.0
@@ -5739,6 +5637,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Libya,LBY,0.0
 2019,Libya,LBY,0.0
 2020,Libya,LBY,0.0
+1940,Lithuania,LTU,0.0
+1941,Lithuania,LTU,0.0
+1942,Lithuania,LTU,0.0
+1943,Lithuania,LTU,0.0
+1944,Lithuania,LTU,0.0
+1945,Lithuania,LTU,0.0
+1946,Lithuania,LTU,0.0
+1947,Lithuania,LTU,0.0
+1948,Lithuania,LTU,0.0
 1949,Lithuania,LTU,0.0
 1950,Lithuania,LTU,0.0
 1951,Lithuania,LTU,0.0
@@ -5811,6 +5718,28 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Lithuania,LTU,0.0
 2019,Lithuania,LTU,0.0
 2020,Lithuania,LTU,0.0
+1965,Luxembourg,LUX,0.0
+1966,Luxembourg,LUX,0.0
+1967,Luxembourg,LUX,0.0
+1968,Luxembourg,LUX,0.0
+1969,Luxembourg,LUX,0.0
+1970,Luxembourg,LUX,0.0
+1971,Luxembourg,LUX,0.0
+1972,Luxembourg,LUX,0.0
+1973,Luxembourg,LUX,0.0
+1974,Luxembourg,LUX,0.0
+1975,Luxembourg,LUX,0.0
+1976,Luxembourg,LUX,0.0
+1977,Luxembourg,LUX,0.0
+1978,Luxembourg,LUX,0.0
+1979,Luxembourg,LUX,0.0
+1980,Luxembourg,LUX,0.0
+1981,Luxembourg,LUX,0.0
+1982,Luxembourg,LUX,0.0
+1983,Luxembourg,LUX,0.0
+1984,Luxembourg,LUX,0.0
+1985,Luxembourg,LUX,0.0
+1986,Luxembourg,LUX,0.0
 1987,Luxembourg,LUX,0.0
 1988,Luxembourg,LUX,0.0
 1989,Luxembourg,LUX,0.0
@@ -5845,9 +5774,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Luxembourg,LUX,0.0
 2019,Luxembourg,LUX,0.0
 2020,Luxembourg,LUX,0.0
-1961,Madagascar,MDG,0.0
-1962,Madagascar,MDG,0.0
-1963,Madagascar,MDG,0.0
 1964,Madagascar,MDG,0.0
 1965,Madagascar,MDG,0.0
 1966,Madagascar,MDG,0.0
@@ -5900,47 +5826,11 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2013,Madagascar,MDG,0.0
 2014,Madagascar,MDG,0.0
 2015,Madagascar,MDG,0.0
-2016,Madagascar,MDG,0.0
-2017,Madagascar,MDG,0.0
-2018,Madagascar,MDG,25.0
-2019,Madagascar,MDG,25.0
-2020,Madagascar,MDG,25.0
-1920,Malawi,MWI,0.0
-1921,Malawi,MWI,0.0
-1922,Malawi,MWI,0.0
-1923,Malawi,MWI,0.0
-1924,Malawi,MWI,0.0
-1925,Malawi,MWI,0.0
-1926,Malawi,MWI,0.0
-1927,Malawi,MWI,0.0
-1928,Malawi,MWI,0.0
-1929,Malawi,MWI,0.0
-1930,Malawi,MWI,0.0
-1931,Malawi,MWI,0.0
-1932,Malawi,MWI,0.0
-1933,Malawi,MWI,0.0
-1934,Malawi,MWI,0.0
-1935,Malawi,MWI,0.0
-1936,Malawi,MWI,0.0
-1937,Malawi,MWI,0.0
-1938,Malawi,MWI,0.0
-1939,Malawi,MWI,0.0
-1940,Malawi,MWI,0.0
-1941,Malawi,MWI,0.0
-1942,Malawi,MWI,0.0
-1943,Malawi,MWI,0.0
-1944,Malawi,MWI,0.0
-1945,Malawi,MWI,0.0
-1946,Malawi,MWI,0.0
-1947,Malawi,MWI,0.0
-1948,Malawi,MWI,0.0
-1949,Malawi,MWI,0.0
-1950,Malawi,MWI,0.0
-1951,Malawi,MWI,0.0
-1952,Malawi,MWI,0.0
-1953,Malawi,MWI,0.0
-1954,Malawi,MWI,0.0
-1955,Malawi,MWI,0.0
+2016,Madagascar,MDG,0.025
+2017,Madagascar,MDG,0.025
+2018,Madagascar,MDG,0.025
+2019,Madagascar,MDG,0.025
+2020,Madagascar,MDG,0.025
 1956,Malawi,MWI,0.0
 1957,Malawi,MWI,0.0
 1958,Malawi,MWI,0.0
@@ -6006,20 +5896,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Malawi,MWI,0.0
 2019,Malawi,MWI,0.0
 2020,Malawi,MWI,0.0
-1920,Malaysia,MYS,0.0
-1921,Malaysia,MYS,0.0
-1922,Malaysia,MYS,0.0
-1923,Malaysia,MYS,0.0
-1924,Malaysia,MYS,0.0
-1925,Malaysia,MYS,0.0
-1926,Malaysia,MYS,0.0
-1927,Malaysia,MYS,0.0
-1928,Malaysia,MYS,0.0
-1929,Malaysia,MYS,0.0
-1930,Malaysia,MYS,0.0
-1931,Malaysia,MYS,0.0
-1932,Malaysia,MYS,0.0
-1933,Malaysia,MYS,0.0
 1934,Malaysia,MYS,0.0
 1935,Malaysia,MYS,0.0
 1936,Malaysia,MYS,0.0
@@ -6097,16 +5973,31 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2008,Malaysia,MYS,0.0
 2009,Malaysia,MYS,0.0
 2010,Malaysia,MYS,0.0
-2011,Malaysia,MYS,0.0
-2012,Malaysia,MYS,0.0
-2013,Malaysia,MYS,6.0
-2014,Malaysia,MYS,75.0
-2015,Malaysia,MYS,80.0
-2016,Malaysia,MYS,198.5
-2017,Malaysia,MYS,208.5
-2018,Malaysia,MYS,281.5
-2019,Malaysia,MYS,281.5
-2020,Malaysia,MYS,281.5
+2011,Malaysia,MYS,0.015
+2012,Malaysia,MYS,0.017
+2013,Malaysia,MYS,0.025
+2014,Malaysia,MYS,0.075
+2015,Malaysia,MYS,0.125
+2016,Malaysia,MYS,0.2602
+2017,Malaysia,MYS,0.2602
+2018,Malaysia,MYS,0.28150000000000003
+2019,Malaysia,MYS,0.28150000000000003
+2020,Malaysia,MYS,0.28150000000000003
+1920,Mali,MLI,0.0
+1921,Mali,MLI,0.0
+1922,Mali,MLI,0.0
+1923,Mali,MLI,0.0
+1924,Mali,MLI,0.0
+1925,Mali,MLI,0.0
+1926,Mali,MLI,0.0
+1927,Mali,MLI,0.0
+1928,Mali,MLI,0.0
+1929,Mali,MLI,0.0
+1930,Mali,MLI,0.0
+1931,Mali,MLI,0.0
+1932,Mali,MLI,0.0
+1933,Mali,MLI,0.0
+1934,Mali,MLI,0.0
 1935,Mali,MLI,0.0
 1936,Mali,MLI,0.0
 1937,Mali,MLI,0.0
@@ -6193,30 +6084,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Mali,MLI,0.0
 2019,Mali,MLI,0.0
 2020,Mali,MLI,0.0
-1953,Mauritania,MRT,0.0
-1954,Mauritania,MRT,0.0
-1955,Mauritania,MRT,0.0
-1956,Mauritania,MRT,0.0
-1957,Mauritania,MRT,0.0
-1958,Mauritania,MRT,0.0
-1959,Mauritania,MRT,0.0
-1960,Mauritania,MRT,0.0
-1961,Mauritania,MRT,0.0
-1962,Mauritania,MRT,0.0
-1963,Mauritania,MRT,0.0
-1964,Mauritania,MRT,0.0
-1965,Mauritania,MRT,0.0
-1966,Mauritania,MRT,0.0
-1967,Mauritania,MRT,0.0
-1968,Mauritania,MRT,0.0
-1969,Mauritania,MRT,0.0
-1970,Mauritania,MRT,0.0
-1971,Mauritania,MRT,0.0
-1972,Mauritania,MRT,0.0
-1973,Mauritania,MRT,0.0
-1974,Mauritania,MRT,0.0
-1975,Mauritania,MRT,0.0
-1976,Mauritania,MRT,0.0
 1977,Mauritania,MRT,0.0
 1978,Mauritania,MRT,0.0
 1979,Mauritania,MRT,0.0
@@ -6257,19 +6124,10 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2014,Mauritania,MRT,0.0
 2015,Mauritania,MRT,0.0
 2016,Mauritania,MRT,0.0
-2017,Mauritania,MRT,0.0
-2018,Mauritania,MRT,33.0
-2019,Mauritania,MRT,33.0
-2020,Mauritania,MRT,33.0
-1933,Mauritius,MUS,0.0
-1934,Mauritius,MUS,0.0
-1935,Mauritius,MUS,0.0
-1936,Mauritius,MUS,0.0
-1937,Mauritius,MUS,0.0
-1938,Mauritius,MUS,0.0
-1939,Mauritius,MUS,0.0
-1940,Mauritius,MUS,0.0
-1941,Mauritius,MUS,0.0
+2017,Mauritania,MRT,0.03
+2018,Mauritania,MRT,0.033
+2019,Mauritania,MRT,0.033
+2020,Mauritania,MRT,0.033
 1942,Mauritius,MUS,0.0
 1943,Mauritius,MUS,0.0
 1944,Mauritius,MUS,0.0
@@ -6339,16 +6197,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2008,Mauritius,MUS,0.0
 2009,Mauritius,MUS,0.0
 2010,Mauritius,MUS,0.0
-2011,Mauritius,MUS,0.0
-2012,Mauritius,MUS,0.0
-2013,Mauritius,MUS,0.0
-2014,Mauritius,MUS,28.3
-2015,Mauritius,MUS,53.90000000000001
-2016,Mauritius,MUS,97.7
-2017,Mauritius,MUS,97.7
-2018,Mauritius,MUS,111.9
-2019,Mauritius,MUS,111.9
-2020,Mauritius,MUS,111.9
+2011,Mauritius,MUS,0.015
+2012,Mauritius,MUS,0.0292
+2013,Mauritius,MUS,0.0292
+2014,Mauritius,MUS,0.0292
+2015,Mauritius,MUS,0.0713
+2016,Mauritius,MUS,0.0713
+2017,Mauritius,MUS,0.0713
+2018,Mauritius,MUS,0.1119
+2019,Mauritius,MUS,0.1119
+2020,Mauritius,MUS,0.1119
 1920,Mexico,MEX,0.0
 1921,Mexico,MEX,0.0
 1922,Mexico,MEX,0.0
@@ -6440,16 +6298,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2008,Mexico,MEX,0.0
 2009,Mexico,MEX,0.0
 2010,Mexico,MEX,0.0
-2011,Mexico,MEX,0.0
-2012,Mexico,MEX,469.3
-2013,Mexico,MEX,613.8
-2014,Mexico,MEX,1005.2
-2015,Mexico,MEX,1433.8
-2016,Mexico,MEX,1788.4
-2017,Mexico,MEX,2069.4
-2018,Mexico,MEX,2671.2
-2019,Mexico,MEX,2671.2
-2020,Mexico,MEX,2671.2
+2011,Mexico,MEX,0.28700000000000003
+2012,Mexico,MEX,0.5528
+2013,Mexico,MEX,1.1638
+2014,Mexico,MEX,1.3338
+2015,Mexico,MEX,1.5104000000000002
+2016,Mexico,MEX,1.944
+2017,Mexico,MEX,2.076
+2018,Mexico,MEX,2.6712
+2019,Mexico,MEX,2.6712
+2020,Mexico,MEX,2.6712
 1982,Mongolia,MNG,0.0
 1983,Mongolia,MNG,0.0
 1984,Mongolia,MNG,0.0
@@ -6476,91 +6334,19 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2005,Mongolia,MNG,0.0
 2006,Mongolia,MNG,0.0
 2007,Mongolia,MNG,0.0
-2008,Mongolia,MNG,10.0
-2009,Mongolia,MNG,10.0
-2010,Mongolia,MNG,10.0
-2011,Mongolia,MNG,10.0
-2012,Mongolia,MNG,25.0
-2013,Mongolia,MNG,25.0
-2014,Mongolia,MNG,40.0
-2015,Mongolia,MNG,50.0
-2016,Mongolia,MNG,50.0
-2017,Mongolia,MNG,50.0
-2018,Mongolia,MNG,50.0
-2019,Mongolia,MNG,50.0
-2020,Mongolia,MNG,50.0
-1922,Montenegro,MNE,0.0
-1923,Montenegro,MNE,0.0
-1924,Montenegro,MNE,0.0
-1925,Montenegro,MNE,0.0
-1926,Montenegro,MNE,0.0
-1927,Montenegro,MNE,0.0
-1928,Montenegro,MNE,0.0
-1929,Montenegro,MNE,0.0
-1930,Montenegro,MNE,0.0
-1931,Montenegro,MNE,0.0
-1932,Montenegro,MNE,0.0
-1933,Montenegro,MNE,0.0
-1934,Montenegro,MNE,0.0
-1935,Montenegro,MNE,0.0
-1936,Montenegro,MNE,0.0
-1937,Montenegro,MNE,0.0
-1938,Montenegro,MNE,0.0
-1939,Montenegro,MNE,0.0
-1940,Montenegro,MNE,0.0
-1941,Montenegro,MNE,0.0
-1942,Montenegro,MNE,0.0
-1943,Montenegro,MNE,0.0
-1944,Montenegro,MNE,0.0
-1945,Montenegro,MNE,0.0
-1946,Montenegro,MNE,0.0
-1947,Montenegro,MNE,0.0
-1948,Montenegro,MNE,0.0
-1949,Montenegro,MNE,0.0
-1950,Montenegro,MNE,0.0
-1951,Montenegro,MNE,0.0
-1952,Montenegro,MNE,0.0
-1953,Montenegro,MNE,0.0
-1954,Montenegro,MNE,0.0
-1955,Montenegro,MNE,0.0
-1956,Montenegro,MNE,0.0
-1957,Montenegro,MNE,0.0
-1958,Montenegro,MNE,0.0
-1959,Montenegro,MNE,0.0
-1960,Montenegro,MNE,0.0
-1961,Montenegro,MNE,0.0
-1962,Montenegro,MNE,0.0
-1963,Montenegro,MNE,0.0
-1964,Montenegro,MNE,0.0
-1965,Montenegro,MNE,0.0
-1966,Montenegro,MNE,0.0
-1967,Montenegro,MNE,0.0
-1968,Montenegro,MNE,0.0
-1969,Montenegro,MNE,0.0
-1970,Montenegro,MNE,0.0
-1971,Montenegro,MNE,0.0
-1972,Montenegro,MNE,0.0
-1973,Montenegro,MNE,0.0
-1974,Montenegro,MNE,0.0
-1975,Montenegro,MNE,0.0
-1976,Montenegro,MNE,0.0
-1977,Montenegro,MNE,0.0
-1978,Montenegro,MNE,0.0
-1979,Montenegro,MNE,0.0
-1980,Montenegro,MNE,0.0
-1981,Montenegro,MNE,0.0
-1982,Montenegro,MNE,0.0
-1983,Montenegro,MNE,0.0
-1984,Montenegro,MNE,0.0
-1985,Montenegro,MNE,0.0
-1986,Montenegro,MNE,0.0
-1987,Montenegro,MNE,0.0
-1988,Montenegro,MNE,0.0
-1989,Montenegro,MNE,0.0
-1990,Montenegro,MNE,0.0
-1991,Montenegro,MNE,0.0
-1992,Montenegro,MNE,0.0
-1993,Montenegro,MNE,0.0
+2008,Mongolia,MNG,0.0
+2009,Mongolia,MNG,0.0
+2010,Mongolia,MNG,0.0
+2011,Mongolia,MNG,0.015
+2012,Mongolia,MNG,0.015
+2013,Mongolia,MNG,0.03
+2014,Mongolia,MNG,0.04
+2015,Mongolia,MNG,0.05
+2016,Mongolia,MNG,0.05
+2017,Mongolia,MNG,0.05
+2018,Mongolia,MNG,0.05
+2019,Mongolia,MNG,0.05
+2020,Mongolia,MNG,0.05
 1994,Montenegro,MNE,0.0
 1995,Montenegro,MNE,0.0
 1996,Montenegro,MNE,0.0
@@ -6664,13 +6450,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2011,Morocco,MAR,0.0
 2012,Morocco,MAR,0.0
 2013,Morocco,MAR,0.0
-2014,Morocco,MAR,0.0
-2015,Morocco,MAR,20.0
-2016,Morocco,MAR,180.0
-2017,Morocco,MAR,330.0
-2018,Morocco,MAR,533.0
-2019,Morocco,MAR,533.0
-2020,Morocco,MAR,533.0
+2014,Morocco,MAR,0.003
+2015,Morocco,MAR,0.003
+2016,Morocco,MAR,0.183
+2017,Morocco,MAR,0.33299999999999996
+2018,Morocco,MAR,0.5329999999999999
+2019,Morocco,MAR,0.5329999999999999
+2020,Morocco,MAR,0.5329999999999999
 1959,Mozambique,MOZ,0.0
 1960,Mozambique,MOZ,0.0
 1961,Mozambique,MOZ,0.0
@@ -6773,45 +6559,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2011,Myanmar,MMR,0.0
 2012,Myanmar,MMR,0.0
 2013,Myanmar,MMR,0.0
-2014,Myanmar,MMR,0.0
-2015,Myanmar,MMR,0.0
-2016,Myanmar,MMR,0.0
-2017,Myanmar,MMR,0.0
-2018,Myanmar,MMR,50.0
-2019,Myanmar,MMR,50.0
-2020,Myanmar,MMR,50.0
-1951,Namibia,NAM,0.0
-1952,Namibia,NAM,0.0
-1953,Namibia,NAM,0.0
-1954,Namibia,NAM,0.0
-1955,Namibia,NAM,0.0
-1956,Namibia,NAM,0.0
-1957,Namibia,NAM,0.0
-1958,Namibia,NAM,0.0
-1959,Namibia,NAM,0.0
-1960,Namibia,NAM,0.0
-1961,Namibia,NAM,0.0
-1962,Namibia,NAM,0.0
-1963,Namibia,NAM,0.0
-1964,Namibia,NAM,0.0
-1965,Namibia,NAM,0.0
-1966,Namibia,NAM,0.0
-1967,Namibia,NAM,0.0
-1968,Namibia,NAM,0.0
-1969,Namibia,NAM,0.0
-1970,Namibia,NAM,0.0
-1971,Namibia,NAM,0.0
-1972,Namibia,NAM,0.0
-1973,Namibia,NAM,0.0
-1974,Namibia,NAM,0.0
-1975,Namibia,NAM,0.0
-1976,Namibia,NAM,0.0
-1977,Namibia,NAM,0.0
-1978,Namibia,NAM,0.0
-1979,Namibia,NAM,0.0
-1980,Namibia,NAM,0.0
-1981,Namibia,NAM,0.0
-1982,Namibia,NAM,0.0
+2014,Myanmar,MMR,0.05
+2015,Myanmar,MMR,0.05
+2016,Myanmar,MMR,0.05
+2017,Myanmar,MMR,0.05
+2018,Myanmar,MMR,0.05
+2019,Myanmar,MMR,0.05
+2020,Myanmar,MMR,0.05
 1983,Namibia,NAM,0.0
 1984,Namibia,NAM,0.0
 1985,Namibia,NAM,0.0
@@ -6842,14 +6596,37 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2010,Namibia,NAM,0.0
 2011,Namibia,NAM,0.0
 2012,Namibia,NAM,0.0
-2013,Namibia,NAM,9.5
-2014,Namibia,NAM,64.5
-2015,Namibia,NAM,69.5
-2016,Namibia,NAM,70.6
-2017,Namibia,NAM,77.6
-2018,Namibia,NAM,82.6
-2019,Namibia,NAM,82.6
-2020,Namibia,NAM,82.6
+2013,Namibia,NAM,0.0115
+2014,Namibia,NAM,0.0176
+2015,Namibia,NAM,0.0226
+2016,Namibia,NAM,0.0726
+2017,Namibia,NAM,0.0776
+2018,Namibia,NAM,0.08259999999999999
+2019,Namibia,NAM,0.08259999999999999
+2020,Namibia,NAM,0.08259999999999999
+1920,Nepal,NPL,0.0
+1921,Nepal,NPL,0.0
+1922,Nepal,NPL,0.0
+1923,Nepal,NPL,0.0
+1924,Nepal,NPL,0.0
+1925,Nepal,NPL,0.0
+1926,Nepal,NPL,0.0
+1927,Nepal,NPL,0.0
+1928,Nepal,NPL,0.0
+1929,Nepal,NPL,0.0
+1930,Nepal,NPL,0.0
+1931,Nepal,NPL,0.0
+1932,Nepal,NPL,0.0
+1933,Nepal,NPL,0.0
+1934,Nepal,NPL,0.0
+1935,Nepal,NPL,0.0
+1936,Nepal,NPL,0.0
+1937,Nepal,NPL,0.0
+1938,Nepal,NPL,0.0
+1939,Nepal,NPL,0.0
+1940,Nepal,NPL,0.0
+1941,Nepal,NPL,0.0
+1942,Nepal,NPL,0.0
 1943,Nepal,NPL,0.0
 1944,Nepal,NPL,0.0
 1945,Nepal,NPL,0.0
@@ -6916,19 +6693,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2006,Nepal,NPL,0.0
 2007,Nepal,NPL,0.0
 2008,Nepal,NPL,0.0
-2009,Nepal,NPL,5.0
-2010,Nepal,NPL,5.0
-2011,Nepal,NPL,5.0
-2012,Nepal,NPL,5.0
-2013,Nepal,NPL,5.0
-2014,Nepal,NPL,5.0
-2015,Nepal,NPL,5.0
-2016,Nepal,NPL,5.0
-2017,Nepal,NPL,30.0
-2018,Nepal,NPL,30.0
-2019,Nepal,NPL,30.0
-2020,Nepal,NPL,30.0
-1965,Netherlands,NLD,0.0
+2009,Nepal,NPL,0.0
+2010,Nepal,NPL,0.0
+2011,Nepal,NPL,0.0
+2012,Nepal,NPL,0.0
+2013,Nepal,NPL,0.0
+2014,Nepal,NPL,0.005
+2015,Nepal,NPL,0.005
+2016,Nepal,NPL,0.005
+2017,Nepal,NPL,0.03
+2018,Nepal,NPL,0.03
+2019,Nepal,NPL,0.03
+2020,Nepal,NPL,0.03
 1966,Netherlands,NLD,0.0
 1967,Netherlands,NLD,0.0
 1968,Netherlands,NLD,0.0
@@ -6975,15 +6751,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2009,Netherlands,NLD,0.0
 2010,Netherlands,NLD,0.0
 2011,Netherlands,NLD,0.0
-2012,Netherlands,NLD,30.0
-2013,Netherlands,NLD,68.5
-2014,Netherlands,NLD,109.5
-2015,Netherlands,NLD,157.5
-2016,Netherlands,NLD,157.5
-2017,Netherlands,NLD,175.6
-2018,Netherlands,NLD,245.1
-2019,Netherlands,NLD,245.1
-2020,Netherlands,NLD,245.1
+2012,Netherlands,NLD,0.0439
+2013,Netherlands,NLD,0.0792
+2014,Netherlands,NLD,0.1397
+2015,Netherlands,NLD,0.16640000000000002
+2016,Netherlands,NLD,0.16640000000000002
+2017,Netherlands,NLD,0.235
+2018,Netherlands,NLD,0.2451
+2019,Netherlands,NLD,0.2451
+2020,Netherlands,NLD,0.2451
 1920,New Zealand,NZL,0.0
 1921,New Zealand,NZL,0.0
 1922,New Zealand,NZL,0.0
@@ -7085,6 +6861,41 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,New Zealand,NZL,0.0
 2019,New Zealand,NZL,0.0
 2020,New Zealand,NZL,0.0
+1920,Nicaragua,NIC,0.0
+1921,Nicaragua,NIC,0.0
+1922,Nicaragua,NIC,0.0
+1923,Nicaragua,NIC,0.0
+1924,Nicaragua,NIC,0.0
+1925,Nicaragua,NIC,0.0
+1926,Nicaragua,NIC,0.0
+1927,Nicaragua,NIC,0.0
+1928,Nicaragua,NIC,0.0
+1929,Nicaragua,NIC,0.0
+1930,Nicaragua,NIC,0.0
+1931,Nicaragua,NIC,0.0
+1932,Nicaragua,NIC,0.0
+1933,Nicaragua,NIC,0.0
+1934,Nicaragua,NIC,0.0
+1935,Nicaragua,NIC,0.0
+1936,Nicaragua,NIC,0.0
+1937,Nicaragua,NIC,0.0
+1938,Nicaragua,NIC,0.0
+1939,Nicaragua,NIC,0.0
+1940,Nicaragua,NIC,0.0
+1941,Nicaragua,NIC,0.0
+1942,Nicaragua,NIC,0.0
+1943,Nicaragua,NIC,0.0
+1944,Nicaragua,NIC,0.0
+1945,Nicaragua,NIC,0.0
+1946,Nicaragua,NIC,0.0
+1947,Nicaragua,NIC,0.0
+1948,Nicaragua,NIC,0.0
+1949,Nicaragua,NIC,0.0
+1950,Nicaragua,NIC,0.0
+1951,Nicaragua,NIC,0.0
+1952,Nicaragua,NIC,0.0
+1953,Nicaragua,NIC,0.0
+1954,Nicaragua,NIC,0.0
 1955,Nicaragua,NIC,0.0
 1956,Nicaragua,NIC,0.0
 1957,Nicaragua,NIC,0.0
@@ -7143,14 +6954,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2010,Nicaragua,NIC,0.0
 2011,Nicaragua,NIC,0.0
 2012,Nicaragua,NIC,0.0
-2013,Nicaragua,NIC,0.0
-2014,Nicaragua,NIC,12.6
-2015,Nicaragua,NIC,12.6
-2016,Nicaragua,NIC,12.6
-2017,Nicaragua,NIC,12.6
-2018,Nicaragua,NIC,12.6
-2019,Nicaragua,NIC,12.6
-2020,Nicaragua,NIC,12.6
+2013,Nicaragua,NIC,0.0126
+2014,Nicaragua,NIC,0.0126
+2015,Nicaragua,NIC,0.0126
+2016,Nicaragua,NIC,0.0126
+2017,Nicaragua,NIC,0.0126
+2018,Nicaragua,NIC,0.0126
+2019,Nicaragua,NIC,0.0126
+2020,Nicaragua,NIC,0.0126
 1962,Niger,NER,0.0
 1963,Niger,NER,0.0
 1964,Niger,NER,0.0
@@ -7205,32 +7016,11 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2013,Niger,NER,0.0
 2014,Niger,NER,0.0
 2015,Niger,NER,0.0
-2016,Niger,NER,7.0
-2017,Niger,NER,7.0
-2018,Niger,NER,7.0
-2019,Niger,NER,7.0
-2020,Niger,NER,7.0
-1932,Nigeria,NGA,0.0
-1933,Nigeria,NGA,0.0
-1934,Nigeria,NGA,0.0
-1935,Nigeria,NGA,0.0
-1936,Nigeria,NGA,0.0
-1937,Nigeria,NGA,0.0
-1938,Nigeria,NGA,0.0
-1939,Nigeria,NGA,0.0
-1940,Nigeria,NGA,0.0
-1941,Nigeria,NGA,0.0
-1942,Nigeria,NGA,0.0
-1943,Nigeria,NGA,0.0
-1944,Nigeria,NGA,0.0
-1945,Nigeria,NGA,0.0
-1946,Nigeria,NGA,0.0
-1947,Nigeria,NGA,0.0
-1948,Nigeria,NGA,0.0
-1949,Nigeria,NGA,0.0
-1950,Nigeria,NGA,0.0
-1951,Nigeria,NGA,0.0
-1952,Nigeria,NGA,0.0
+2016,Niger,NER,0.006999999999999999
+2017,Niger,NER,0.006999999999999999
+2018,Niger,NER,0.006999999999999999
+2019,Niger,NER,0.006999999999999999
+2020,Niger,NER,0.006999999999999999
 1953,Nigeria,NGA,0.0
 1954,Nigeria,NGA,0.0
 1955,Nigeria,NGA,0.0
@@ -7291,14 +7081,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2010,Nigeria,NGA,0.0
 2011,Nigeria,NGA,0.0
 2012,Nigeria,NGA,0.0
-2013,Nigeria,NGA,10.0
-2014,Nigeria,NGA,10.0
-2015,Nigeria,NGA,10.0
-2016,Nigeria,NGA,10.0
-2017,Nigeria,NGA,10.0
-2018,Nigeria,NGA,10.0
-2019,Nigeria,NGA,10.0
-2020,Nigeria,NGA,10.0
+2013,Nigeria,NGA,0.0
+2014,Nigeria,NGA,0.0
+2015,Nigeria,NGA,0.0
+2016,Nigeria,NGA,0.0
+2017,Nigeria,NGA,0.0
+2018,Nigeria,NGA,0.01
+2019,Nigeria,NGA,0.01
+2020,Nigeria,NGA,0.01
 1920,Norway,NOR,0.0
 1921,Norway,NOR,0.0
 1922,Norway,NOR,0.0
@@ -7433,36 +7223,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2006,Oman,OMN,0.0
 2007,Oman,OMN,0.0
 2008,Oman,OMN,0.0
-2009,Oman,OMN,113.4
-2010,Oman,OMN,113.4
-2011,Oman,OMN,113.4
-2012,Oman,OMN,113.4
-2013,Oman,OMN,113.4
-2014,Oman,OMN,113.4
-2015,Oman,OMN,117.8
-2016,Oman,OMN,117.8
-2017,Oman,OMN,117.8
-2018,Oman,OMN,1138.8000000000004
-2019,Oman,OMN,1138.8000000000004
-2020,Oman,OMN,1138.8000000000004
-1930,Pakistan,PAK,0.0
-1931,Pakistan,PAK,0.0
-1932,Pakistan,PAK,0.0
-1933,Pakistan,PAK,0.0
-1934,Pakistan,PAK,0.0
-1935,Pakistan,PAK,0.0
-1936,Pakistan,PAK,0.0
-1937,Pakistan,PAK,0.0
-1938,Pakistan,PAK,0.0
-1939,Pakistan,PAK,0.0
-1940,Pakistan,PAK,0.0
-1941,Pakistan,PAK,0.0
-1942,Pakistan,PAK,0.0
-1943,Pakistan,PAK,0.0
-1944,Pakistan,PAK,0.0
-1945,Pakistan,PAK,0.0
-1946,Pakistan,PAK,0.0
-1947,Pakistan,PAK,0.0
+2009,Oman,OMN,0.0
+2010,Oman,OMN,0.0
+2011,Oman,OMN,0.0044
+2012,Oman,OMN,0.11780000000000003
+2013,Oman,OMN,1.1388000000000005
+2014,Oman,OMN,1.1388000000000005
+2015,Oman,OMN,1.1388000000000005
+2016,Oman,OMN,1.1388000000000005
+2017,Oman,OMN,1.1388000000000005
+2018,Oman,OMN,1.1388000000000005
+2019,Oman,OMN,1.1388000000000005
+2020,Oman,OMN,1.1388000000000005
 1948,Pakistan,PAK,0.0
 1949,Pakistan,PAK,0.0
 1950,Pakistan,PAK,0.0
@@ -7526,16 +7298,30 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2008,Pakistan,PAK,0.0
 2009,Pakistan,PAK,0.0
 2010,Pakistan,PAK,0.0
-2011,Pakistan,PAK,12.0
-2012,Pakistan,PAK,12.0
-2013,Pakistan,PAK,12.0
-2014,Pakistan,PAK,12.0
-2015,Pakistan,PAK,412.0
-2016,Pakistan,PAK,530.4
-2017,Pakistan,PAK,530.4
-2018,Pakistan,PAK,678.4
-2019,Pakistan,PAK,678.4
-2020,Pakistan,PAK,678.4
+2011,Pakistan,PAK,0.1174
+2012,Pakistan,PAK,0.1174
+2013,Pakistan,PAK,0.1174
+2014,Pakistan,PAK,0.1174
+2015,Pakistan,PAK,0.6654
+2016,Pakistan,PAK,0.6784
+2017,Pakistan,PAK,0.6784
+2018,Pakistan,PAK,0.6784
+2019,Pakistan,PAK,0.6784
+2020,Pakistan,PAK,0.6784
+1920,Panama,PAN,0.0
+1921,Panama,PAN,0.0
+1922,Panama,PAN,0.0
+1923,Panama,PAN,0.0
+1924,Panama,PAN,0.0
+1925,Panama,PAN,0.0
+1926,Panama,PAN,0.0
+1927,Panama,PAN,0.0
+1928,Panama,PAN,0.0
+1929,Panama,PAN,0.0
+1930,Panama,PAN,0.0
+1931,Panama,PAN,0.0
+1932,Panama,PAN,0.0
+1933,Panama,PAN,0.0
 1934,Panama,PAN,0.0
 1935,Panama,PAN,0.0
 1936,Panama,PAN,0.0
@@ -7618,11 +7404,41 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2013,Panama,PAN,0.0
 2014,Panama,PAN,0.0
 2015,Panama,PAN,0.0
-2016,Panama,PAN,0.0
-2017,Panama,PAN,9.9
-2018,Panama,PAN,27.9
-2019,Panama,PAN,27.9
-2020,Panama,PAN,27.9
+2016,Panama,PAN,0.01
+2017,Panama,PAN,0.01
+2018,Panama,PAN,0.0279
+2019,Panama,PAN,0.0279
+2020,Panama,PAN,0.0279
+1920,Papua New Guinea,PNG,0.0
+1921,Papua New Guinea,PNG,0.0
+1922,Papua New Guinea,PNG,0.0
+1923,Papua New Guinea,PNG,0.0
+1924,Papua New Guinea,PNG,0.0
+1925,Papua New Guinea,PNG,0.0
+1926,Papua New Guinea,PNG,0.0
+1927,Papua New Guinea,PNG,0.0
+1928,Papua New Guinea,PNG,0.0
+1929,Papua New Guinea,PNG,0.0
+1930,Papua New Guinea,PNG,0.0
+1931,Papua New Guinea,PNG,0.0
+1932,Papua New Guinea,PNG,0.0
+1933,Papua New Guinea,PNG,0.0
+1934,Papua New Guinea,PNG,0.0
+1935,Papua New Guinea,PNG,0.0
+1936,Papua New Guinea,PNG,0.0
+1937,Papua New Guinea,PNG,0.0
+1938,Papua New Guinea,PNG,0.0
+1939,Papua New Guinea,PNG,0.0
+1940,Papua New Guinea,PNG,0.0
+1941,Papua New Guinea,PNG,0.0
+1942,Papua New Guinea,PNG,0.0
+1943,Papua New Guinea,PNG,0.0
+1944,Papua New Guinea,PNG,0.0
+1945,Papua New Guinea,PNG,0.0
+1946,Papua New Guinea,PNG,0.0
+1947,Papua New Guinea,PNG,0.0
+1948,Papua New Guinea,PNG,0.0
+1949,Papua New Guinea,PNG,0.0
 1950,Papua New Guinea,PNG,0.0
 1951,Papua New Guinea,PNG,0.0
 1952,Papua New Guinea,PNG,0.0
@@ -7734,18 +7550,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Paraguay,PRY,0.0
 2019,Paraguay,PRY,0.0
 2020,Paraguay,PRY,0.0
-1925,Peru,PER,0.0
-1926,Peru,PER,0.0
-1927,Peru,PER,0.0
-1928,Peru,PER,0.0
-1929,Peru,PER,0.0
-1930,Peru,PER,0.0
-1931,Peru,PER,0.0
-1932,Peru,PER,0.0
-1933,Peru,PER,0.0
-1934,Peru,PER,0.0
-1935,Peru,PER,0.0
-1936,Peru,PER,0.0
 1937,Peru,PER,0.0
 1938,Peru,PER,0.0
 1939,Peru,PER,0.0
@@ -7821,18 +7625,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2009,Peru,PER,0.0
 2010,Peru,PER,0.0
 2011,Peru,PER,0.0
-2012,Peru,PER,20.0
-2013,Peru,PER,36.0
-2014,Peru,PER,56.0
-2015,Peru,PER,76.0
-2016,Peru,PER,76.0
-2017,Peru,PER,76.0
-2018,Peru,PER,240.5
-2019,Peru,PER,240.5
-2020,Peru,PER,240.5
-1922,Philippines,PHL,0.0
-1923,Philippines,PHL,0.0
-1924,Philippines,PHL,0.0
+2012,Peru,PER,0.02
+2013,Peru,PER,0.04
+2014,Peru,PER,0.04
+2015,Peru,PER,0.1845
+2016,Peru,PER,0.1845
+2017,Peru,PER,0.1845
+2018,Peru,PER,0.2405
+2019,Peru,PER,0.2405
+2020,Peru,PER,0.2405
 1925,Philippines,PHL,0.0
 1926,Philippines,PHL,0.0
 1927,Philippines,PHL,0.0
@@ -7917,18 +7718,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2006,Philippines,PHL,0.0
 2007,Philippines,PHL,0.0
 2008,Philippines,PHL,0.0
-2009,Philippines,PHL,10.0
-2010,Philippines,PHL,10.0
-2011,Philippines,PHL,10.0
-2012,Philippines,PHL,33.6
-2013,Philippines,PHL,101.7
-2014,Philippines,PHL,101.7
-2015,Philippines,PHL,143.3
-2016,Philippines,PHL,779.3000000000002
-2017,Philippines,PHL,902.5
-2018,Philippines,PHL,1196.4
-2019,Philippines,PHL,1196.4
-2020,Philippines,PHL,1196.4
+2009,Philippines,PHL,0.0
+2010,Philippines,PHL,0.0
+2011,Philippines,PHL,0.006200000000000001
+2012,Philippines,PHL,0.07050000000000001
+2013,Philippines,PHL,0.1661
+2014,Philippines,PHL,0.1871
+2015,Philippines,PHL,0.1871
+2016,Philippines,PHL,0.9455
+2017,Philippines,PHL,1.1551
+2018,Philippines,PHL,1.1964
+2019,Philippines,PHL,1.1964
+2020,Philippines,PHL,1.1964
 1920,Poland,POL,0.0
 1921,Poland,POL,0.0
 1922,Poland,POL,0.0
@@ -8020,16 +7821,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2008,Poland,POL,0.0
 2009,Poland,POL,0.0
 2010,Poland,POL,0.0
-2011,Poland,POL,1.0
-2012,Poland,POL,1.0
-2013,Poland,POL,1.0
-2014,Poland,POL,6.0
-2015,Poland,POL,16.0
-2016,Poland,POL,16.0
-2017,Poland,POL,16.0
-2018,Poland,POL,17.0
-2019,Poland,POL,17.0
-2020,Poland,POL,17.0
+2011,Poland,POL,0.001
+2012,Poland,POL,0.001
+2013,Poland,POL,0.001
+2014,Poland,POL,0.006
+2015,Poland,POL,0.016
+2016,Poland,POL,0.016
+2017,Poland,POL,0.016
+2018,Poland,POL,0.017
+2019,Poland,POL,0.017
+2020,Poland,POL,0.017
 1920,Portugal,PRT,0.0
 1921,Portugal,PRT,0.0
 1922,Portugal,PRT,0.0
@@ -8117,21 +7918,20 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2004,Portugal,PRT,0.0
 2005,Portugal,PRT,0.0
 2006,Portugal,PRT,0.0
-2007,Portugal,PRT,11.0
-2008,Portugal,PRT,61.2
-2009,Portugal,PRT,90.6
-2010,Portugal,PRT,107.5
-2011,Portugal,PRT,109.1
-2012,Portugal,PRT,148.4
-2013,Portugal,PRT,172.99999999999997
-2014,Portugal,PRT,320.08399999999995
-2015,Portugal,PRT,337.384
-2016,Portugal,PRT,344.58399999999995
-2017,Portugal,PRT,355.684
-2018,Portugal,PRT,621.5840000000001
-2019,Portugal,PRT,621.5840000000001
-2020,Portugal,PRT,621.5840000000001
-1969,Qatar,QAT,0.0
+2007,Portugal,PRT,0.011000000000000001
+2008,Portugal,PRT,0.0612
+2009,Portugal,PRT,0.0906
+2010,Portugal,PRT,0.1075
+2011,Portugal,PRT,0.1091
+2012,Portugal,PRT,0.1484
+2013,Portugal,PRT,0.3822
+2014,Portugal,PRT,0.5318839999999999
+2015,Portugal,PRT,0.5550839999999999
+2016,Portugal,PRT,0.562284
+2017,Portugal,PRT,0.608284
+2018,Portugal,PRT,0.6215839999999999
+2019,Portugal,PRT,0.6215839999999999
+2020,Portugal,PRT,0.6215839999999999
 1970,Qatar,QAT,0.0
 1971,Qatar,QAT,0.0
 1972,Qatar,QAT,0.0
@@ -8183,6 +7983,50 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Qatar,QAT,0.0
 2019,Qatar,QAT,0.0
 2020,Qatar,QAT,0.0
+1920,Romania,ROU,0.0
+1921,Romania,ROU,0.0
+1922,Romania,ROU,0.0
+1923,Romania,ROU,0.0
+1924,Romania,ROU,0.0
+1925,Romania,ROU,0.0
+1926,Romania,ROU,0.0
+1927,Romania,ROU,0.0
+1928,Romania,ROU,0.0
+1929,Romania,ROU,0.0
+1930,Romania,ROU,0.0
+1931,Romania,ROU,0.0
+1932,Romania,ROU,0.0
+1933,Romania,ROU,0.0
+1934,Romania,ROU,0.0
+1935,Romania,ROU,0.0
+1936,Romania,ROU,0.0
+1937,Romania,ROU,0.0
+1938,Romania,ROU,0.0
+1939,Romania,ROU,0.0
+1940,Romania,ROU,0.0
+1941,Romania,ROU,0.0
+1942,Romania,ROU,0.0
+1943,Romania,ROU,0.0
+1944,Romania,ROU,0.0
+1945,Romania,ROU,0.0
+1946,Romania,ROU,0.0
+1947,Romania,ROU,0.0
+1948,Romania,ROU,0.0
+1949,Romania,ROU,0.0
+1950,Romania,ROU,0.0
+1951,Romania,ROU,0.0
+1952,Romania,ROU,0.0
+1953,Romania,ROU,0.0
+1954,Romania,ROU,0.0
+1955,Romania,ROU,0.0
+1956,Romania,ROU,0.0
+1957,Romania,ROU,0.0
+1958,Romania,ROU,0.0
+1959,Romania,ROU,0.0
+1960,Romania,ROU,0.0
+1961,Romania,ROU,0.0
+1962,Romania,ROU,0.0
+1963,Romania,ROU,0.0
 1964,Romania,ROU,0.0
 1965,Romania,ROU,0.0
 1966,Romania,ROU,0.0
@@ -8226,20 +8070,20 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2004,Romania,ROU,0.0
 2005,Romania,ROU,0.0
 2006,Romania,ROU,0.0
-2007,Romania,ROU,15.0
-2008,Romania,ROU,21.0
-2009,Romania,ROU,25.3
-2010,Romania,ROU,80.3
-2011,Romania,ROU,98.8
-2012,Romania,ROU,145.6
-2013,Romania,ROU,162.79999999999995
-2014,Romania,ROU,180.4
-2015,Romania,ROU,264.79999999999995
-2016,Romania,ROU,298.3
-2017,Romania,ROU,323.3
-2018,Romania,ROU,471.9
-2019,Romania,ROU,471.9
-2020,Romania,ROU,471.9
+2007,Romania,ROU,0.009000000000000001
+2008,Romania,ROU,0.009000000000000001
+2009,Romania,ROU,0.009000000000000001
+2010,Romania,ROU,0.009000000000000001
+2011,Romania,ROU,0.023
+2012,Romania,ROU,0.0485
+2013,Romania,ROU,0.2483
+2014,Romania,ROU,0.2573
+2015,Romania,ROU,0.3105
+2016,Romania,ROU,0.34940000000000004
+2017,Romania,ROU,0.3653
+2018,Romania,ROU,0.4719
+2019,Romania,ROU,0.4719
+2020,Romania,ROU,0.4719
 1958,Rwanda,RWA,0.0
 1959,Rwanda,RWA,0.0
 1960,Rwanda,RWA,0.0
@@ -8297,16 +8141,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2012,Rwanda,RWA,0.0
 2013,Rwanda,RWA,0.0
 2014,Rwanda,RWA,0.0
-2015,Rwanda,RWA,8.5
-2016,Rwanda,RWA,8.5
-2017,Rwanda,RWA,8.5
-2018,Rwanda,RWA,8.5
-2019,Rwanda,RWA,8.5
-2020,Rwanda,RWA,8.5
-2017,Saint Lucia,LCA,3.0
-2018,Saint Lucia,LCA,3.0
-2019,Saint Lucia,LCA,3.0
-2020,Saint Lucia,LCA,3.0
+2015,Rwanda,RWA,0.0085
+2016,Rwanda,RWA,0.0085
+2017,Rwanda,RWA,0.0085
+2018,Rwanda,RWA,0.0085
+2019,Rwanda,RWA,0.0085
+2020,Rwanda,RWA,0.0085
+2015,Saint Lucia,LCA,0.003
+2016,Saint Lucia,LCA,0.003
+2017,Saint Lucia,LCA,0.003
+2018,Saint Lucia,LCA,0.003
+2019,Saint Lucia,LCA,0.003
+2020,Saint Lucia,LCA,0.003
 1972,Saudi Arabia,SAU,0.0
 1973,Saudi Arabia,SAU,0.0
 1974,Saudi Arabia,SAU,0.0
@@ -8347,15 +8193,27 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2009,Saudi Arabia,SAU,0.0
 2010,Saudi Arabia,SAU,0.0
 2011,Saudi Arabia,SAU,0.0
-2012,Saudi Arabia,SAU,57.0
-2013,Saudi Arabia,SAU,57.0
-2014,Saudi Arabia,SAU,107.0
-2015,Saudi Arabia,SAU,117.0
-2016,Saudi Arabia,SAU,137.0
-2017,Saudi Arabia,SAU,137.0
-2018,Saudi Arabia,SAU,137.0
-2019,Saudi Arabia,SAU,137.0
-2020,Saudi Arabia,SAU,137.0
+2012,Saudi Arabia,SAU,0.013999999999999999
+2013,Saudi Arabia,SAU,0.024
+2014,Saudi Arabia,SAU,0.044000000000000004
+2015,Saudi Arabia,SAU,0.08700000000000001
+2016,Saudi Arabia,SAU,0.08700000000000001
+2017,Saudi Arabia,SAU,0.13699999999999998
+2018,Saudi Arabia,SAU,0.13699999999999998
+2019,Saudi Arabia,SAU,0.13699999999999998
+2020,Saudi Arabia,SAU,0.13699999999999998
+1935,Senegal,SEN,0.0
+1936,Senegal,SEN,0.0
+1937,Senegal,SEN,0.0
+1938,Senegal,SEN,0.0
+1939,Senegal,SEN,0.0
+1940,Senegal,SEN,0.0
+1941,Senegal,SEN,0.0
+1942,Senegal,SEN,0.0
+1943,Senegal,SEN,0.0
+1944,Senegal,SEN,0.0
+1945,Senegal,SEN,0.0
+1946,Senegal,SEN,0.0
 1947,Senegal,SEN,0.0
 1948,Senegal,SEN,0.0
 1949,Senegal,SEN,0.0
@@ -8422,40 +8280,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2010,Senegal,SEN,0.0
 2011,Senegal,SEN,0.0
 2012,Senegal,SEN,0.0
-2013,Senegal,SEN,15.7
-2014,Senegal,SEN,50.1
-2015,Senegal,SEN,84.5
-2016,Senegal,SEN,84.5
-2017,Senegal,SEN,84.5
-2018,Senegal,SEN,105.7
-2019,Senegal,SEN,105.7
-2020,Senegal,SEN,105.7
-1935,Serbia,SRB,0.0
-1936,Serbia,SRB,0.0
-1937,Serbia,SRB,0.0
-1938,Serbia,SRB,0.0
-1939,Serbia,SRB,0.0
-1940,Serbia,SRB,0.0
-1941,Serbia,SRB,0.0
-1942,Serbia,SRB,0.0
-1943,Serbia,SRB,0.0
-1944,Serbia,SRB,0.0
-1945,Serbia,SRB,0.0
-1946,Serbia,SRB,0.0
-1947,Serbia,SRB,0.0
-1948,Serbia,SRB,0.0
-1949,Serbia,SRB,0.0
-1950,Serbia,SRB,0.0
-1951,Serbia,SRB,0.0
-1952,Serbia,SRB,0.0
-1953,Serbia,SRB,0.0
-1954,Serbia,SRB,0.0
-1955,Serbia,SRB,0.0
-1956,Serbia,SRB,0.0
-1957,Serbia,SRB,0.0
-1958,Serbia,SRB,0.0
-1959,Serbia,SRB,0.0
-1960,Serbia,SRB,0.0
+2013,Senegal,SEN,0.0212
+2014,Senegal,SEN,0.0212
+2015,Senegal,SEN,0.0556
+2016,Senegal,SEN,0.0556
+2017,Senegal,SEN,0.0556
+2018,Senegal,SEN,0.1057
+2019,Senegal,SEN,0.1057
+2020,Senegal,SEN,0.1057
 1961,Serbia,SRB,0.0
 1962,Serbia,SRB,0.0
 1963,Serbia,SRB,0.0
@@ -8516,6 +8348,34 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Serbia,SRB,0.0
 2019,Serbia,SRB,0.0
 2020,Serbia,SRB,0.0
+1935,Sierra Leone,SLE,0.0
+1936,Sierra Leone,SLE,0.0
+1937,Sierra Leone,SLE,0.0
+1938,Sierra Leone,SLE,0.0
+1939,Sierra Leone,SLE,0.0
+1940,Sierra Leone,SLE,0.0
+1941,Sierra Leone,SLE,0.0
+1942,Sierra Leone,SLE,0.0
+1943,Sierra Leone,SLE,0.0
+1944,Sierra Leone,SLE,0.0
+1945,Sierra Leone,SLE,0.0
+1946,Sierra Leone,SLE,0.0
+1947,Sierra Leone,SLE,0.0
+1948,Sierra Leone,SLE,0.0
+1949,Sierra Leone,SLE,0.0
+1950,Sierra Leone,SLE,0.0
+1951,Sierra Leone,SLE,0.0
+1952,Sierra Leone,SLE,0.0
+1953,Sierra Leone,SLE,0.0
+1954,Sierra Leone,SLE,0.0
+1955,Sierra Leone,SLE,0.0
+1956,Sierra Leone,SLE,0.0
+1957,Sierra Leone,SLE,0.0
+1958,Sierra Leone,SLE,0.0
+1959,Sierra Leone,SLE,0.0
+1960,Sierra Leone,SLE,0.0
+1961,Sierra Leone,SLE,0.0
+1962,Sierra Leone,SLE,0.0
 1963,Sierra Leone,SLE,0.0
 1964,Sierra Leone,SLE,0.0
 1965,Sierra Leone,SLE,0.0
@@ -8574,7 +8434,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Sierra Leone,SLE,0.0
 2019,Sierra Leone,SLE,0.0
 2020,Sierra Leone,SLE,0.0
-1973,Singapore,SGP,0.0
 1974,Singapore,SGP,0.0
 1975,Singapore,SGP,0.0
 1976,Singapore,SGP,0.0
@@ -8714,15 +8573,28 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2009,Slovakia,SVK,0.0
 2010,Slovakia,SVK,0.0
 2011,Slovakia,SVK,0.0
-2012,Slovakia,SVK,6.0
-2013,Slovakia,SVK,6.0
-2014,Slovakia,SVK,24.0
-2015,Slovakia,SVK,24.0
-2016,Slovakia,SVK,24.0
-2017,Slovakia,SVK,24.0
-2018,Slovakia,SVK,24.0
-2019,Slovakia,SVK,24.0
-2020,Slovakia,SVK,24.0
+2012,Slovakia,SVK,0.0
+2013,Slovakia,SVK,0.006
+2014,Slovakia,SVK,0.006
+2015,Slovakia,SVK,0.024
+2016,Slovakia,SVK,0.024
+2017,Slovakia,SVK,0.024
+2018,Slovakia,SVK,0.024
+2019,Slovakia,SVK,0.024
+2020,Slovakia,SVK,0.024
+1929,Slovenia,SVN,0.0
+1930,Slovenia,SVN,0.0
+1931,Slovenia,SVN,0.0
+1932,Slovenia,SVN,0.0
+1933,Slovenia,SVN,0.0
+1934,Slovenia,SVN,0.0
+1935,Slovenia,SVN,0.0
+1936,Slovenia,SVN,0.0
+1937,Slovenia,SVN,0.0
+1938,Slovenia,SVN,0.0
+1939,Slovenia,SVN,0.0
+1940,Slovenia,SVN,0.0
+1941,Slovenia,SVN,0.0
 1942,Slovenia,SVN,0.0
 1943,Slovenia,SVN,0.0
 1944,Slovenia,SVN,0.0
@@ -8861,16 +8733,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2008,South Africa,ZAF,0.0
 2009,South Africa,ZAF,0.0
 2010,South Africa,ZAF,0.0
-2011,South Africa,ZAF,84.7
-2012,South Africa,ZAF,194.7
-2013,South Africa,ZAF,303.2
-2014,South Africa,ZAF,1184.14
-2015,South Africa,ZAF,1364.14
-2016,South Africa,ZAF,1968.64
-2017,South Africa,ZAF,2165.04
-2018,South Africa,ZAF,2313.04
-2019,South Africa,ZAF,2313.04
-2020,South Africa,ZAF,2313.04
+2011,South Africa,ZAF,0.1
+2012,South Africa,ZAF,0.11
+2013,South Africa,ZAF,0.21100000000000002
+2014,South Africa,ZAF,1.18954
+2015,South Africa,ZAF,1.36954
+2016,South Africa,ZAF,1.81894
+2017,South Africa,ZAF,2.11004
+2018,South Africa,ZAF,2.31304
+2019,South Africa,ZAF,2.31304
+2020,South Africa,ZAF,2.31304
 1923,Spain,ESP,0.0
 1924,Spain,ESP,0.0
 1925,Spain,ESP,0.0
@@ -8954,21 +8826,21 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2003,Spain,ESP,0.0
 2004,Spain,ESP,0.0
 2005,Spain,ESP,0.0
-2006,Spain,ESP,11.02
-2007,Spain,ESP,50.31999999999999
-2008,Spain,ESP,68.32
-2009,Spain,ESP,333.22
-2010,Spain,ESP,694.4199999999997
-2011,Spain,ESP,1403.4229999999998
-2012,Spain,ESP,2376.1130000000007
-2013,Spain,ESP,2805.5130000000013
-2014,Spain,ESP,3034.9130000000014
-2015,Spain,ESP,3410.413000000002
-2016,Spain,ESP,3915.313000000001
-2017,Spain,ESP,4246.713000000002
-2018,Spain,ESP,4901.313
-2019,Spain,ESP,4901.313
-2020,Spain,ESP,4901.313
+2006,Spain,ESP,0.01102
+2007,Spain,ESP,0.017119999999999996
+2008,Spain,ESP,0.02582
+2009,Spain,ESP,0.25012
+2010,Spain,ESP,0.6257199999999999
+2011,Spain,ESP,1.2762229999999999
+2012,Spain,ESP,2.3516130000000004
+2013,Spain,ESP,2.7963130000000014
+2014,Spain,ESP,3.1496130000000013
+2015,Spain,ESP,3.5324130000000014
+2016,Spain,ESP,3.693913000000002
+2017,Spain,ESP,4.144113000000003
+2018,Spain,ESP,4.901313
+2019,Spain,ESP,4.901313
+2020,Spain,ESP,4.901313
 1933,Sri Lanka,LKA,0.0
 1934,Sri Lanka,LKA,0.0
 1935,Sri Lanka,LKA,0.0
@@ -9050,13 +8922,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2011,Sri Lanka,LKA,0.0
 2012,Sri Lanka,LKA,0.0
 2013,Sri Lanka,LKA,0.0
-2014,Sri Lanka,LKA,0.0
-2015,Sri Lanka,LKA,34.4
-2016,Sri Lanka,LKA,34.4
-2017,Sri Lanka,LKA,44.4
-2018,Sri Lanka,LKA,44.4
-2019,Sri Lanka,LKA,44.4
-2020,Sri Lanka,LKA,44.4
+2014,Sri Lanka,LKA,0.01
+2015,Sri Lanka,LKA,0.01
+2016,Sri Lanka,LKA,0.0244
+2017,Sri Lanka,LKA,0.0444
+2018,Sri Lanka,LKA,0.0444
+2019,Sri Lanka,LKA,0.0444
+2020,Sri Lanka,LKA,0.0444
 1920,Sudan,SDN,0.0
 1921,Sudan,SDN,0.0
 1922,Sudan,SDN,0.0
@@ -9158,10 +9030,9 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Sudan,SDN,0.0
 2019,Sudan,SDN,0.0
 2020,Sudan,SDN,0.0
-2017,Suriname,SUR,5.0
-2018,Suriname,SUR,5.0
-2019,Suriname,SUR,5.0
-2020,Suriname,SUR,5.0
+2018,Suriname,SUR,0.005
+2019,Suriname,SUR,0.005
+2020,Suriname,SUR,0.005
 1920,Sweden,SWE,0.0
 1921,Sweden,SWE,0.0
 1922,Sweden,SWE,0.0
@@ -9359,11 +9230,20 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2013,Switzerland,CHE,0.0
 2014,Switzerland,CHE,0.0
 2015,Switzerland,CHE,0.0
-2016,Switzerland,CHE,20.2
-2017,Switzerland,CHE,20.2
-2018,Switzerland,CHE,20.2
-2019,Switzerland,CHE,20.2
-2020,Switzerland,CHE,20.2
+2016,Switzerland,CHE,0.0
+2017,Switzerland,CHE,0.015
+2018,Switzerland,CHE,0.0202
+2019,Switzerland,CHE,0.0202
+2020,Switzerland,CHE,0.0202
+1936,Syrian Arab Republic,SYR,0.0
+1937,Syrian Arab Republic,SYR,0.0
+1938,Syrian Arab Republic,SYR,0.0
+1939,Syrian Arab Republic,SYR,0.0
+1940,Syrian Arab Republic,SYR,0.0
+1941,Syrian Arab Republic,SYR,0.0
+1942,Syrian Arab Republic,SYR,0.0
+1943,Syrian Arab Republic,SYR,0.0
+1944,Syrian Arab Republic,SYR,0.0
 1945,Syrian Arab Republic,SYR,0.0
 1946,Syrian Arab Republic,SYR,0.0
 1947,Syrian Arab Republic,SYR,0.0
@@ -9440,40 +9320,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Syrian Arab Republic,SYR,0.0
 2019,Syrian Arab Republic,SYR,0.0
 2020,Syrian Arab Republic,SYR,0.0
-1935,Tajikistan,TJK,0.0
-1936,Tajikistan,TJK,0.0
-1937,Tajikistan,TJK,0.0
-1938,Tajikistan,TJK,0.0
-1939,Tajikistan,TJK,0.0
-1940,Tajikistan,TJK,0.0
-1941,Tajikistan,TJK,0.0
-1942,Tajikistan,TJK,0.0
-1943,Tajikistan,TJK,0.0
-1944,Tajikistan,TJK,0.0
-1945,Tajikistan,TJK,0.0
-1946,Tajikistan,TJK,0.0
-1947,Tajikistan,TJK,0.0
-1948,Tajikistan,TJK,0.0
-1949,Tajikistan,TJK,0.0
-1950,Tajikistan,TJK,0.0
-1951,Tajikistan,TJK,0.0
-1952,Tajikistan,TJK,0.0
-1953,Tajikistan,TJK,0.0
-1954,Tajikistan,TJK,0.0
-1955,Tajikistan,TJK,0.0
-1956,Tajikistan,TJK,0.0
-1957,Tajikistan,TJK,0.0
-1958,Tajikistan,TJK,0.0
-1959,Tajikistan,TJK,0.0
-1960,Tajikistan,TJK,0.0
-1961,Tajikistan,TJK,0.0
-1962,Tajikistan,TJK,0.0
-1963,Tajikistan,TJK,0.0
-1964,Tajikistan,TJK,0.0
-1965,Tajikistan,TJK,0.0
-1966,Tajikistan,TJK,0.0
-1967,Tajikistan,TJK,0.0
-1968,Tajikistan,TJK,0.0
 1969,Tajikistan,TJK,0.0
 1970,Tajikistan,TJK,0.0
 1971,Tajikistan,TJK,0.0
@@ -9526,32 +9372,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Tajikistan,TJK,0.0
 2019,Tajikistan,TJK,0.0
 2020,Tajikistan,TJK,0.0
-1929,Thailand,THA,0.0
-1930,Thailand,THA,0.0
-1931,Thailand,THA,0.0
-1932,Thailand,THA,0.0
-1933,Thailand,THA,0.0
-1934,Thailand,THA,0.0
-1935,Thailand,THA,0.0
-1936,Thailand,THA,0.0
-1937,Thailand,THA,0.0
-1938,Thailand,THA,0.0
-1939,Thailand,THA,0.0
-1940,Thailand,THA,0.0
-1941,Thailand,THA,0.0
-1942,Thailand,THA,0.0
-1943,Thailand,THA,0.0
-1944,Thailand,THA,0.0
-1945,Thailand,THA,0.0
-1946,Thailand,THA,0.0
-1947,Thailand,THA,0.0
-1948,Thailand,THA,0.0
-1949,Thailand,THA,0.0
-1950,Thailand,THA,0.0
-1951,Thailand,THA,0.0
-1952,Thailand,THA,0.0
-1953,Thailand,THA,0.0
-1954,Thailand,THA,0.0
 1955,Thailand,THA,0.0
 1956,Thailand,THA,0.0
 1957,Thailand,THA,0.0
@@ -9604,46 +9424,20 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2004,Thailand,THA,0.0
 2005,Thailand,THA,0.0
 2006,Thailand,THA,0.0
-2007,Thailand,THA,23.8
-2008,Thailand,THA,24.8
-2009,Thailand,THA,26.9
-2010,Thailand,THA,59.2
-2011,Thailand,THA,106.0
-2012,Thailand,THA,222.9
-2013,Thailand,THA,274.20000000000005
-2014,Thailand,THA,410.60000000000014
-2015,Thailand,THA,556.0
-2016,Thailand,THA,712.1000000000001
-2017,Thailand,THA,864.4
-2018,Thailand,THA,1348.7
-2019,Thailand,THA,1348.7
-2020,Thailand,THA,1348.7
-1965,Togo,TGO,0.0
-1966,Togo,TGO,0.0
-1967,Togo,TGO,0.0
-1968,Togo,TGO,0.0
-1969,Togo,TGO,0.0
-1970,Togo,TGO,0.0
-1971,Togo,TGO,0.0
-1972,Togo,TGO,0.0
-1973,Togo,TGO,0.0
-1974,Togo,TGO,0.0
-1975,Togo,TGO,0.0
-1976,Togo,TGO,0.0
-1977,Togo,TGO,0.0
-1978,Togo,TGO,0.0
-1979,Togo,TGO,0.0
-1980,Togo,TGO,0.0
-1981,Togo,TGO,0.0
-1982,Togo,TGO,0.0
-1983,Togo,TGO,0.0
-1984,Togo,TGO,0.0
-1985,Togo,TGO,0.0
-1986,Togo,TGO,0.0
-1987,Togo,TGO,0.0
-1988,Togo,TGO,0.0
-1989,Togo,TGO,0.0
-1990,Togo,TGO,0.0
+2007,Thailand,THA,0.006999999999999999
+2008,Thailand,THA,0.008
+2009,Thailand,THA,0.016
+2010,Thailand,THA,0.0256
+2011,Thailand,THA,0.0773
+2012,Thailand,THA,0.1358
+2013,Thailand,THA,0.3018
+2014,Thailand,THA,0.4998
+2015,Thailand,THA,0.765
+2016,Thailand,THA,0.8571000000000001
+2017,Thailand,THA,0.9385
+2018,Thailand,THA,1.3487
+2019,Thailand,THA,1.3487
+2020,Thailand,THA,1.3487
 1991,Togo,TGO,0.0
 1992,Togo,TGO,0.0
 1993,Togo,TGO,0.0
@@ -9674,6 +9468,22 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Togo,TGO,0.0
 2019,Togo,TGO,0.0
 2020,Togo,TGO,0.0
+1975,Trinidad and Tobago,TTO,0.0
+1976,Trinidad and Tobago,TTO,0.0
+1977,Trinidad and Tobago,TTO,0.0
+1978,Trinidad and Tobago,TTO,0.0
+1979,Trinidad and Tobago,TTO,0.0
+1980,Trinidad and Tobago,TTO,0.0
+1981,Trinidad and Tobago,TTO,0.0
+1982,Trinidad and Tobago,TTO,0.0
+1983,Trinidad and Tobago,TTO,0.0
+1984,Trinidad and Tobago,TTO,0.0
+1985,Trinidad and Tobago,TTO,0.0
+1986,Trinidad and Tobago,TTO,0.0
+1987,Trinidad and Tobago,TTO,0.0
+1988,Trinidad and Tobago,TTO,0.0
+1989,Trinidad and Tobago,TTO,0.0
+1990,Trinidad and Tobago,TTO,0.0
 1991,Trinidad and Tobago,TTO,0.0
 1992,Trinidad and Tobago,TTO,0.0
 1993,Trinidad and Tobago,TTO,0.0
@@ -9769,6 +9579,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Tunisia,TUN,0.0
 2019,Tunisia,TUN,0.0
 2020,Tunisia,TUN,0.0
+1968,Turkmenistan,TKM,0.0
 1969,Turkmenistan,TKM,0.0
 1970,Turkmenistan,TKM,0.0
 1971,Turkmenistan,TKM,0.0
@@ -9821,36 +9632,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Turkmenistan,TKM,0.0
 2019,Turkmenistan,TKM,0.0
 2020,Turkmenistan,TKM,0.0
-1932,Uganda,UGA,0.0
-1933,Uganda,UGA,0.0
-1934,Uganda,UGA,0.0
-1935,Uganda,UGA,0.0
-1936,Uganda,UGA,0.0
-1937,Uganda,UGA,0.0
-1938,Uganda,UGA,0.0
-1939,Uganda,UGA,0.0
-1940,Uganda,UGA,0.0
-1941,Uganda,UGA,0.0
-1942,Uganda,UGA,0.0
-1943,Uganda,UGA,0.0
-1944,Uganda,UGA,0.0
-1945,Uganda,UGA,0.0
-1946,Uganda,UGA,0.0
-1947,Uganda,UGA,0.0
-1948,Uganda,UGA,0.0
-1949,Uganda,UGA,0.0
-1950,Uganda,UGA,0.0
-1951,Uganda,UGA,0.0
-1952,Uganda,UGA,0.0
-1953,Uganda,UGA,0.0
-1954,Uganda,UGA,0.0
-1955,Uganda,UGA,0.0
-1956,Uganda,UGA,0.0
-1957,Uganda,UGA,0.0
-1958,Uganda,UGA,0.0
-1959,Uganda,UGA,0.0
-1960,Uganda,UGA,0.0
-1961,Uganda,UGA,0.0
 1962,Uganda,UGA,0.0
 1963,Uganda,UGA,0.0
 1964,Uganda,UGA,0.0
@@ -9902,14 +9683,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2010,Uganda,UGA,0.0
 2011,Uganda,UGA,0.0
 2012,Uganda,UGA,0.0
-2013,Uganda,UGA,0.0
-2014,Uganda,UGA,10.0
-2015,Uganda,UGA,20.0
-2016,Uganda,UGA,20.0
-2017,Uganda,UGA,20.0
-2018,Uganda,UGA,44.0
-2019,Uganda,UGA,44.0
-2020,Uganda,UGA,44.0
+2013,Uganda,UGA,0.01
+2014,Uganda,UGA,0.01
+2015,Uganda,UGA,0.01
+2016,Uganda,UGA,0.044000000000000004
+2017,Uganda,UGA,0.044000000000000004
+2018,Uganda,UGA,0.044000000000000004
+2019,Uganda,UGA,0.044000000000000004
+2020,Uganda,UGA,0.044000000000000004
 1933,Ukraine,UKR,0.0
 1934,Ukraine,UKR,0.0
 1935,Ukraine,UKR,0.0
@@ -9987,17 +9768,17 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2007,Ukraine,UKR,0.0
 2008,Ukraine,UKR,0.0
 2009,Ukraine,UKR,0.0
-2010,Ukraine,UKR,10.7
-2011,Ukraine,UKR,10.7
-2012,Ukraine,UKR,14.7
-2013,Ukraine,UKR,49.8
-2014,Ukraine,UKR,153.5
-2015,Ukraine,UKR,308.2
-2016,Ukraine,UKR,391.40000000000015
-2017,Ukraine,UKR,425.5
-2018,Ukraine,UKR,715.8
-2019,Ukraine,UKR,715.8
-2020,Ukraine,UKR,715.8
+2010,Ukraine,UKR,0.0434
+2011,Ukraine,UKR,0.0434
+2012,Ukraine,UKR,0.0634
+2013,Ukraine,UKR,0.1266
+2014,Ukraine,UKR,0.2226
+2015,Ukraine,UKR,0.3757
+2016,Ukraine,UKR,0.5481
+2017,Ukraine,UKR,0.5742999999999999
+2018,Ukraine,UKR,0.7158
+2019,Ukraine,UKR,0.7158
+2020,Ukraine,UKR,0.7158
 1977,United Arab Emirates,ARE,0.0
 1978,United Arab Emirates,ARE,0.0
 1979,United Arab Emirates,ARE,0.0
@@ -10034,14 +9815,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2010,United Arab Emirates,ARE,0.0
 2011,United Arab Emirates,ARE,0.0
 2012,United Arab Emirates,ARE,0.0
-2013,United Arab Emirates,ARE,120.0
-2014,United Arab Emirates,ARE,120.0
-2015,United Arab Emirates,ARE,120.0
-2016,United Arab Emirates,ARE,120.0
-2017,United Arab Emirates,ARE,340.0
-2018,United Arab Emirates,ARE,840.0
-2019,United Arab Emirates,ARE,840.0
-2020,United Arab Emirates,ARE,840.0
+2013,United Arab Emirates,ARE,0.42
+2014,United Arab Emirates,ARE,0.42
+2015,United Arab Emirates,ARE,0.84
+2016,United Arab Emirates,ARE,0.84
+2017,United Arab Emirates,ARE,0.84
+2018,United Arab Emirates,ARE,0.84
+2019,United Arab Emirates,ARE,0.84
+2020,United Arab Emirates,ARE,0.84
 1920,United States of America,USA,0.0
 1921,United States of America,USA,0.0
 1922,United States of America,USA,0.0
@@ -10109,40 +9890,62 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 1984,United States of America,USA,0.0
 1985,United States of America,USA,0.0
 1986,United States of America,USA,0.0
-1987,United States of America,USA,102.6
-1988,United States of America,USA,102.6
-1989,United States of America,USA,172.60000000000005
-1990,United States of America,USA,356.6
-1991,United States of America,USA,356.6
-1992,United States of America,USA,356.6
-1993,United States of America,USA,356.6
-1994,United States of America,USA,356.6
-1995,United States of America,USA,356.6
-1996,United States of America,USA,356.6
-1997,United States of America,USA,356.6
-1998,United States of America,USA,356.6
-1999,United States of America,USA,356.6
-2000,United States of America,USA,356.6
-2001,United States of America,USA,356.6
-2002,United States of America,USA,359.6
-2003,United States of America,USA,359.6
-2004,United States of America,USA,359.6
-2005,United States of America,USA,360.8
-2006,United States of America,USA,437.5
-2007,United States of America,USA,455.5
-2008,United States of America,USA,487.89999999999986
-2009,United States of America,USA,564.6000000000001
-2010,United States of America,USA,793.4000000000002
-2011,United States of America,USA,1349.7000000000005
-2012,United States of America,USA,2764.2999999999993
-2013,United States of America,USA,7090.300000000001
-2014,United States of America,USA,10148.700000000004
-2015,United States of America,USA,13399.150000000005
-2016,United States of America,USA,19478.25000000002
-2017,United States of America,USA,25884.95
-2018,United States of America,USA,31301.950000000004
-2019,United States of America,USA,35842.650000000016
-2020,United States of America,USA,37613.75000000003
+1987,United States of America,USA,0.1026
+1988,United States of America,USA,0.1026
+1989,United States of America,USA,0.17260000000000006
+1990,United States of America,USA,0.35660000000000003
+1991,United States of America,USA,0.35660000000000003
+1992,United States of America,USA,0.35660000000000003
+1993,United States of America,USA,0.35660000000000003
+1994,United States of America,USA,0.35660000000000003
+1995,United States of America,USA,0.35660000000000003
+1996,United States of America,USA,0.35660000000000003
+1997,United States of America,USA,0.35660000000000003
+1998,United States of America,USA,0.35660000000000003
+1999,United States of America,USA,0.35660000000000003
+2000,United States of America,USA,0.35660000000000003
+2001,United States of America,USA,0.35660000000000003
+2002,United States of America,USA,0.35960000000000003
+2003,United States of America,USA,0.35960000000000003
+2004,United States of America,USA,0.35960000000000003
+2005,United States of America,USA,0.3608
+2006,United States of America,USA,0.3618
+2007,United States of America,USA,0.4555
+2008,United States of America,USA,0.4807
+2009,United States of America,USA,0.5730000000000002
+2010,United States of America,USA,0.7948000000000002
+2011,United States of America,USA,1.3183000000000005
+2012,United States of America,USA,2.8505
+2013,United States of America,USA,7.093400000000003
+2014,United States of America,USA,10.153700000000002
+2015,United States of America,USA,13.244250000000005
+2016,United States of America,USA,19.48435000000002
+2017,United States of America,USA,25.900450000000006
+2018,United States of America,USA,30.973750000000006
+2019,United States of America,USA,35.74265000000001
+2020,United States of America,USA,37.61375000000003
+1946,Uruguay,URY,0.0
+1947,Uruguay,URY,0.0
+1948,Uruguay,URY,0.0
+1949,Uruguay,URY,0.0
+1950,Uruguay,URY,0.0
+1951,Uruguay,URY,0.0
+1952,Uruguay,URY,0.0
+1953,Uruguay,URY,0.0
+1954,Uruguay,URY,0.0
+1955,Uruguay,URY,0.0
+1956,Uruguay,URY,0.0
+1957,Uruguay,URY,0.0
+1958,Uruguay,URY,0.0
+1959,Uruguay,URY,0.0
+1960,Uruguay,URY,0.0
+1961,Uruguay,URY,0.0
+1962,Uruguay,URY,0.0
+1963,Uruguay,URY,0.0
+1964,Uruguay,URY,0.0
+1965,Uruguay,URY,0.0
+1966,Uruguay,URY,0.0
+1967,Uruguay,URY,0.0
 1968,Uruguay,URY,0.0
 1969,Uruguay,URY,0.0
 1970,Uruguay,URY,0.0
@@ -10184,47 +9987,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2006,Uruguay,URY,0.0
 2007,Uruguay,URY,0.0
 2008,Uruguay,URY,0.0
-2009,Uruguay,URY,0.0
-2010,Uruguay,URY,0.0
-2011,Uruguay,URY,16.0
-2012,Uruguay,URY,16.0
-2013,Uruguay,URY,16.0
-2014,Uruguay,URY,27.26
-2015,Uruguay,URY,106.01
-2016,Uruguay,URY,145.51
-2017,Uruguay,URY,145.51
-2018,Uruguay,URY,225.01
-2019,Uruguay,URY,225.01
-2020,Uruguay,URY,225.01
-1920,Uzbekistan,UZB,0.0
-1921,Uzbekistan,UZB,0.0
-1922,Uzbekistan,UZB,0.0
-1923,Uzbekistan,UZB,0.0
-1924,Uzbekistan,UZB,0.0
-1925,Uzbekistan,UZB,0.0
-1926,Uzbekistan,UZB,0.0
-1927,Uzbekistan,UZB,0.0
-1928,Uzbekistan,UZB,0.0
-1929,Uzbekistan,UZB,0.0
-1930,Uzbekistan,UZB,0.0
-1931,Uzbekistan,UZB,0.0
-1932,Uzbekistan,UZB,0.0
-1933,Uzbekistan,UZB,0.0
-1934,Uzbekistan,UZB,0.0
-1935,Uzbekistan,UZB,0.0
-1936,Uzbekistan,UZB,0.0
-1937,Uzbekistan,UZB,0.0
-1938,Uzbekistan,UZB,0.0
-1939,Uzbekistan,UZB,0.0
-1940,Uzbekistan,UZB,0.0
-1941,Uzbekistan,UZB,0.0
-1942,Uzbekistan,UZB,0.0
-1943,Uzbekistan,UZB,0.0
-1944,Uzbekistan,UZB,0.0
-1945,Uzbekistan,UZB,0.0
-1946,Uzbekistan,UZB,0.0
-1947,Uzbekistan,UZB,0.0
-1948,Uzbekistan,UZB,0.0
+2009,Uruguay,URY,0.008
+2010,Uruguay,URY,0.008
+2011,Uruguay,URY,0.057999999999999996
+2012,Uruguay,URY,0.057999999999999996
+2013,Uruguay,URY,0.06925999999999999
+2014,Uruguay,URY,0.10876
+2015,Uruguay,URY,0.14376
+2016,Uruguay,URY,0.16376
+2017,Uruguay,URY,0.16376
+2018,Uruguay,URY,0.22501
+2019,Uruguay,URY,0.22501
+2020,Uruguay,URY,0.22501
 1949,Uzbekistan,UZB,0.0
 1950,Uzbekistan,UZB,0.0
 1951,Uzbekistan,UZB,0.0
@@ -10285,18 +10059,43 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2006,Uzbekistan,UZB,0.0
 2007,Uzbekistan,UZB,0.0
 2008,Uzbekistan,UZB,0.0
-2009,Uzbekistan,UZB,100.0
-2010,Uzbekistan,UZB,100.0
-2011,Uzbekistan,UZB,100.0
-2012,Uzbekistan,UZB,100.0
-2013,Uzbekistan,UZB,100.0
-2014,Uzbekistan,UZB,100.0
-2015,Uzbekistan,UZB,100.0
-2016,Uzbekistan,UZB,100.0
-2017,Uzbekistan,UZB,100.0
-2018,Uzbekistan,UZB,100.0
-2019,Uzbekistan,UZB,100.0
-2020,Uzbekistan,UZB,100.0
+2009,Uzbekistan,UZB,0.0
+2010,Uzbekistan,UZB,0.0
+2011,Uzbekistan,UZB,0.0
+2012,Uzbekistan,UZB,0.1
+2013,Uzbekistan,UZB,0.1
+2014,Uzbekistan,UZB,0.1
+2015,Uzbekistan,UZB,0.1
+2016,Uzbekistan,UZB,0.1
+2017,Uzbekistan,UZB,0.1
+2018,Uzbekistan,UZB,0.1
+2019,Uzbekistan,UZB,0.1
+2020,Uzbekistan,UZB,0.1
+1972,Western Sahara,ESH,0.0
+1973,Western Sahara,ESH,0.0
+1974,Western Sahara,ESH,0.0
+1975,Western Sahara,ESH,0.0
+1976,Western Sahara,ESH,0.0
+1977,Western Sahara,ESH,0.0
+1978,Western Sahara,ESH,0.0
+1979,Western Sahara,ESH,0.0
+1980,Western Sahara,ESH,0.0
+1981,Western Sahara,ESH,0.0
+1982,Western Sahara,ESH,0.0
+1983,Western Sahara,ESH,0.0
+1984,Western Sahara,ESH,0.0
+1985,Western Sahara,ESH,0.0
+1986,Western Sahara,ESH,0.0
+1987,Western Sahara,ESH,0.0
+1988,Western Sahara,ESH,0.0
+1989,Western Sahara,ESH,0.0
+1990,Western Sahara,ESH,0.0
+1991,Western Sahara,ESH,0.0
+1992,Western Sahara,ESH,0.0
+1993,Western Sahara,ESH,0.0
+1994,Western Sahara,ESH,0.0
+1995,Western Sahara,ESH,0.0
+1996,Western Sahara,ESH,0.0
 1997,Western Sahara,ESH,0.0
 1998,Western Sahara,ESH,0.0
 1999,Western Sahara,ESH,0.0
@@ -10312,15 +10111,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2009,Western Sahara,ESH,0.0
 2010,Western Sahara,ESH,0.0
 2011,Western Sahara,ESH,0.0
-2012,Western Sahara,ESH,0.0
-2013,Western Sahara,ESH,0.0
-2014,Western Sahara,ESH,0.0
-2015,Western Sahara,ESH,0.0
-2016,Western Sahara,ESH,0.0
-2017,Western Sahara,ESH,0.0
-2018,Western Sahara,ESH,0.0
-2019,Western Sahara,ESH,0.0
-2020,Western Sahara,ESH,0.0
 1974,Yemen,YEM,0.0
 1975,Yemen,YEM,0.0
 1976,Yemen,YEM,0.0
@@ -10368,6 +10158,28 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2018,Yemen,YEM,0.0
 2019,Yemen,YEM,0.0
 2020,Yemen,YEM,0.0
+1949,Zambia,ZMB,0.0
+1950,Zambia,ZMB,0.0
+1951,Zambia,ZMB,0.0
+1952,Zambia,ZMB,0.0
+1953,Zambia,ZMB,0.0
+1954,Zambia,ZMB,0.0
+1955,Zambia,ZMB,0.0
+1956,Zambia,ZMB,0.0
+1957,Zambia,ZMB,0.0
+1958,Zambia,ZMB,0.0
+1959,Zambia,ZMB,0.0
+1960,Zambia,ZMB,0.0
+1961,Zambia,ZMB,0.0
+1962,Zambia,ZMB,0.0
+1963,Zambia,ZMB,0.0
+1964,Zambia,ZMB,0.0
+1965,Zambia,ZMB,0.0
+1966,Zambia,ZMB,0.0
+1967,Zambia,ZMB,0.0
+1968,Zambia,ZMB,0.0
+1969,Zambia,ZMB,0.0
+1970,Zambia,ZMB,0.0
 1971,Zambia,ZMB,0.0
 1972,Zambia,ZMB,0.0
 1973,Zambia,ZMB,0.0
@@ -10413,38 +10225,11 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_solar_gw
 2013,Zambia,ZMB,0.0
 2014,Zambia,ZMB,0.0
 2015,Zambia,ZMB,0.0
-2016,Zambia,ZMB,0.0
-2017,Zambia,ZMB,0.0
-2018,Zambia,ZMB,47.5
-2019,Zambia,ZMB,47.5
-2020,Zambia,ZMB,47.5
-1941,Zimbabwe,ZWE,0.0
-1942,Zimbabwe,ZWE,0.0
-1943,Zimbabwe,ZWE,0.0
-1944,Zimbabwe,ZWE,0.0
-1945,Zimbabwe,ZWE,0.0
-1946,Zimbabwe,ZWE,0.0
-1947,Zimbabwe,ZWE,0.0
-1948,Zimbabwe,ZWE,0.0
-1949,Zimbabwe,ZWE,0.0
-1950,Zimbabwe,ZWE,0.0
-1951,Zimbabwe,ZWE,0.0
-1952,Zimbabwe,ZWE,0.0
-1953,Zimbabwe,ZWE,0.0
-1954,Zimbabwe,ZWE,0.0
-1955,Zimbabwe,ZWE,0.0
-1956,Zimbabwe,ZWE,0.0
-1957,Zimbabwe,ZWE,0.0
-1958,Zimbabwe,ZWE,0.0
-1959,Zimbabwe,ZWE,0.0
-1960,Zimbabwe,ZWE,0.0
-1961,Zimbabwe,ZWE,0.0
-1962,Zimbabwe,ZWE,0.0
-1963,Zimbabwe,ZWE,0.0
-1964,Zimbabwe,ZWE,0.0
-1965,Zimbabwe,ZWE,0.0
-1966,Zimbabwe,ZWE,0.0
-1967,Zimbabwe,ZWE,0.0
+2016,Zambia,ZMB,0.0475
+2017,Zambia,ZMB,0.0475
+2018,Zambia,ZMB,0.0475
+2019,Zambia,ZMB,0.0475
+2020,Zambia,ZMB,0.0475
 1968,Zimbabwe,ZWE,0.0
 1969,Zimbabwe,ZWE,0.0
 1970,Zimbabwe,ZWE,0.0

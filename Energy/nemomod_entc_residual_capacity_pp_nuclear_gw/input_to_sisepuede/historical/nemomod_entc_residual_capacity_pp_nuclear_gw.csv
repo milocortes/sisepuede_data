@@ -404,53 +404,53 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1971,Argentina,ARG,0.0
 1972,Argentina,ARG,0.0
 1973,Argentina,ARG,0.0
-1974,Argentina,ARG,370.0
-1975,Argentina,ARG,370.0
-1976,Argentina,ARG,370.0
-1977,Argentina,ARG,370.0
-1978,Argentina,ARG,370.0
-1979,Argentina,ARG,370.0
-1980,Argentina,ARG,370.0
-1981,Argentina,ARG,370.0
-1982,Argentina,ARG,370.0
-1983,Argentina,ARG,370.0
-1984,Argentina,ARG,1018.0
-1985,Argentina,ARG,1018.0
-1986,Argentina,ARG,1018.0
-1987,Argentina,ARG,1018.0
-1988,Argentina,ARG,1018.0
-1989,Argentina,ARG,1018.0
-1990,Argentina,ARG,1018.0
-1991,Argentina,ARG,1018.0
-1992,Argentina,ARG,1018.0
-1993,Argentina,ARG,1018.0
-1994,Argentina,ARG,1018.0
-1995,Argentina,ARG,1018.0
-1996,Argentina,ARG,1018.0
-1997,Argentina,ARG,1018.0
-1998,Argentina,ARG,1018.0
-1999,Argentina,ARG,1018.0
-2000,Argentina,ARG,1018.0
-2001,Argentina,ARG,1018.0
-2002,Argentina,ARG,1018.0
-2003,Argentina,ARG,1018.0
-2004,Argentina,ARG,648.0
-2005,Argentina,ARG,648.0
-2006,Argentina,ARG,648.0
-2007,Argentina,ARG,648.0
-2008,Argentina,ARG,648.0
-2009,Argentina,ARG,648.0
-2010,Argentina,ARG,648.0
-2011,Argentina,ARG,648.0
-2012,Argentina,ARG,648.0
-2013,Argentina,ARG,648.0
-2014,Argentina,ARG,745.0
-2015,Argentina,ARG,745.0
-2016,Argentina,ARG,745.0
-2017,Argentina,ARG,745.0
-2018,Argentina,ARG,745.0
-2019,Argentina,ARG,745.0
-2020,Argentina,ARG,745.0
+1974,Argentina,ARG,0.37
+1975,Argentina,ARG,0.37
+1976,Argentina,ARG,0.37
+1977,Argentina,ARG,0.37
+1978,Argentina,ARG,0.37
+1979,Argentina,ARG,0.37
+1980,Argentina,ARG,0.37
+1981,Argentina,ARG,0.37
+1982,Argentina,ARG,0.37
+1983,Argentina,ARG,0.37
+1984,Argentina,ARG,1.018
+1985,Argentina,ARG,1.018
+1986,Argentina,ARG,1.018
+1987,Argentina,ARG,1.018
+1988,Argentina,ARG,1.018
+1989,Argentina,ARG,1.018
+1990,Argentina,ARG,1.018
+1991,Argentina,ARG,1.018
+1992,Argentina,ARG,1.018
+1993,Argentina,ARG,1.018
+1994,Argentina,ARG,1.018
+1995,Argentina,ARG,1.018
+1996,Argentina,ARG,1.018
+1997,Argentina,ARG,1.018
+1998,Argentina,ARG,1.018
+1999,Argentina,ARG,1.018
+2000,Argentina,ARG,1.018
+2001,Argentina,ARG,1.018
+2002,Argentina,ARG,1.018
+2003,Argentina,ARG,1.018
+2004,Argentina,ARG,0.648
+2005,Argentina,ARG,0.648
+2006,Argentina,ARG,0.648
+2007,Argentina,ARG,0.648
+2008,Argentina,ARG,0.648
+2009,Argentina,ARG,0.648
+2010,Argentina,ARG,0.648
+2011,Argentina,ARG,0.648
+2012,Argentina,ARG,0.648
+2013,Argentina,ARG,0.648
+2014,Argentina,ARG,0.745
+2015,Argentina,ARG,0.745
+2016,Argentina,ARG,0.745
+2017,Argentina,ARG,0.745
+2018,Argentina,ARG,0.745
+2019,Argentina,ARG,0.745
+2020,Argentina,ARG,0.745
 1970,Armenia,ARM,0.0
 1971,Armenia,ARM,0.0
 1972,Armenia,ARM,0.0
@@ -461,36 +461,36 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1977,Armenia,ARM,0.0
 1978,Armenia,ARM,0.0
 1979,Armenia,ARM,0.0
-1980,Armenia,ARM,375.0
-1981,Armenia,ARM,375.0
-1982,Armenia,ARM,375.0
-1983,Armenia,ARM,375.0
-1984,Armenia,ARM,375.0
-1985,Armenia,ARM,375.0
-1986,Armenia,ARM,375.0
-1987,Armenia,ARM,375.0
-1988,Armenia,ARM,375.0
-1989,Armenia,ARM,375.0
-1990,Armenia,ARM,375.0
-1991,Armenia,ARM,375.0
-1992,Armenia,ARM,375.0
-1993,Armenia,ARM,375.0
-1994,Armenia,ARM,375.0
-1995,Armenia,ARM,375.0
-1996,Armenia,ARM,375.0
-1997,Armenia,ARM,375.0
-1998,Armenia,ARM,375.0
-1999,Armenia,ARM,375.0
-2000,Armenia,ARM,375.0
-2001,Armenia,ARM,375.0
-2002,Armenia,ARM,375.0
-2003,Armenia,ARM,375.0
-2004,Armenia,ARM,375.0
-2005,Armenia,ARM,375.0
-2006,Armenia,ARM,375.0
-2007,Armenia,ARM,375.0
-2008,Armenia,ARM,375.0
-2009,Armenia,ARM,375.0
+1980,Armenia,ARM,0.375
+1981,Armenia,ARM,0.375
+1982,Armenia,ARM,0.375
+1983,Armenia,ARM,0.375
+1984,Armenia,ARM,0.375
+1985,Armenia,ARM,0.375
+1986,Armenia,ARM,0.375
+1987,Armenia,ARM,0.375
+1988,Armenia,ARM,0.375
+1989,Armenia,ARM,0.375
+1990,Armenia,ARM,0.375
+1991,Armenia,ARM,0.375
+1992,Armenia,ARM,0.375
+1993,Armenia,ARM,0.375
+1994,Armenia,ARM,0.375
+1995,Armenia,ARM,0.375
+1996,Armenia,ARM,0.375
+1997,Armenia,ARM,0.375
+1998,Armenia,ARM,0.375
+1999,Armenia,ARM,0.375
+2000,Armenia,ARM,0.375
+2001,Armenia,ARM,0.375
+2002,Armenia,ARM,0.375
+2003,Armenia,ARM,0.375
+2004,Armenia,ARM,0.375
+2005,Armenia,ARM,0.375
+2006,Armenia,ARM,0.375
+2007,Armenia,ARM,0.375
+2008,Armenia,ARM,0.375
+2009,Armenia,ARM,0.375
 2010,Armenia,ARM,0.0
 2011,Armenia,ARM,0.0
 2012,Armenia,ARM,0.0
@@ -862,7 +862,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Bangladesh,BGD,0.0
 2019,Bangladesh,BGD,0.0
 2020,Bangladesh,BGD,0.0
-1961,Belarus,BLR,0.0
 1962,Belarus,BLR,0.0
 1963,Belarus,BLR,0.0
 1964,Belarus,BLR,0.0
@@ -960,53 +959,52 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1972,Belgium,BEL,0.0
 1973,Belgium,BEL,0.0
 1974,Belgium,BEL,0.0
-1975,Belgium,BEL,962.0
-1976,Belgium,BEL,962.0
-1977,Belgium,BEL,962.0
-1978,Belgium,BEL,962.0
-1979,Belgium,BEL,962.0
-1980,Belgium,BEL,962.0
-1981,Belgium,BEL,962.0
-1982,Belgium,BEL,962.0
-1983,Belgium,BEL,962.0
-1984,Belgium,BEL,962.0
-1985,Belgium,BEL,5925.8
-1986,Belgium,BEL,5925.8
-1987,Belgium,BEL,5925.8
-1988,Belgium,BEL,5925.8
-1989,Belgium,BEL,5925.8
-1990,Belgium,BEL,5925.8
-1991,Belgium,BEL,5925.8
-1992,Belgium,BEL,5925.8
-1993,Belgium,BEL,5925.8
-1994,Belgium,BEL,5925.8
-1995,Belgium,BEL,5925.8
-1996,Belgium,BEL,5925.8
-1997,Belgium,BEL,5925.8
-1998,Belgium,BEL,5925.8
-1999,Belgium,BEL,5925.8
-2000,Belgium,BEL,5925.8
-2001,Belgium,BEL,5925.8
-2002,Belgium,BEL,5925.8
-2003,Belgium,BEL,5925.8
-2004,Belgium,BEL,5925.8
-2005,Belgium,BEL,4963.8
-2006,Belgium,BEL,4963.8
-2007,Belgium,BEL,4963.8
-2008,Belgium,BEL,4963.8
-2009,Belgium,BEL,4963.8
-2010,Belgium,BEL,4963.8
-2011,Belgium,BEL,4963.8
-2012,Belgium,BEL,4963.8
-2013,Belgium,BEL,4963.8
-2014,Belgium,BEL,4963.8
+1975,Belgium,BEL,0.9620000000000001
+1976,Belgium,BEL,0.9620000000000001
+1977,Belgium,BEL,0.9620000000000001
+1978,Belgium,BEL,0.9620000000000001
+1979,Belgium,BEL,0.9620000000000001
+1980,Belgium,BEL,0.9620000000000001
+1981,Belgium,BEL,0.9620000000000001
+1982,Belgium,BEL,0.9620000000000001
+1983,Belgium,BEL,0.9620000000000001
+1984,Belgium,BEL,0.9620000000000001
+1985,Belgium,BEL,5.9258000000000015
+1986,Belgium,BEL,5.9258000000000015
+1987,Belgium,BEL,5.9258000000000015
+1988,Belgium,BEL,5.9258000000000015
+1989,Belgium,BEL,5.9258000000000015
+1990,Belgium,BEL,5.9258000000000015
+1991,Belgium,BEL,5.9258000000000015
+1992,Belgium,BEL,5.9258000000000015
+1993,Belgium,BEL,5.9258000000000015
+1994,Belgium,BEL,5.9258000000000015
+1995,Belgium,BEL,5.9258000000000015
+1996,Belgium,BEL,5.9258000000000015
+1997,Belgium,BEL,5.9258000000000015
+1998,Belgium,BEL,5.9258000000000015
+1999,Belgium,BEL,5.9258000000000015
+2000,Belgium,BEL,5.9258000000000015
+2001,Belgium,BEL,5.9258000000000015
+2002,Belgium,BEL,5.9258000000000015
+2003,Belgium,BEL,5.9258000000000015
+2004,Belgium,BEL,5.9258000000000015
+2005,Belgium,BEL,4.9638
+2006,Belgium,BEL,4.9638
+2007,Belgium,BEL,4.9638
+2008,Belgium,BEL,4.9638
+2009,Belgium,BEL,4.9638
+2010,Belgium,BEL,4.9638
+2011,Belgium,BEL,4.9638
+2012,Belgium,BEL,4.9638
+2013,Belgium,BEL,4.9638
+2014,Belgium,BEL,4.9638
 2015,Belgium,BEL,0.0
 2016,Belgium,BEL,0.0
 2017,Belgium,BEL,0.0
 2018,Belgium,BEL,0.0
 2019,Belgium,BEL,0.0
 2020,Belgium,BEL,0.0
-1974,Benin,BEN,0.0
 1975,Benin,BEN,0.0
 1976,Benin,BEN,0.0
 1977,Benin,BEN,0.0
@@ -1330,43 +1328,42 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1982,Brazil,BRA,0.0
 1983,Brazil,BRA,0.0
 1984,Brazil,BRA,0.0
-1985,Brazil,BRA,640.0
-1986,Brazil,BRA,640.0
-1987,Brazil,BRA,640.0
-1988,Brazil,BRA,640.0
-1989,Brazil,BRA,640.0
-1990,Brazil,BRA,640.0
-1991,Brazil,BRA,640.0
-1992,Brazil,BRA,640.0
-1993,Brazil,BRA,640.0
-1994,Brazil,BRA,640.0
-1995,Brazil,BRA,640.0
-1996,Brazil,BRA,640.0
-1997,Brazil,BRA,640.0
-1998,Brazil,BRA,640.0
-1999,Brazil,BRA,640.0
-2000,Brazil,BRA,1990.0
-2001,Brazil,BRA,1990.0
-2002,Brazil,BRA,1990.0
-2003,Brazil,BRA,1990.0
-2004,Brazil,BRA,1990.0
-2005,Brazil,BRA,1990.0
-2006,Brazil,BRA,1990.0
-2007,Brazil,BRA,1990.0
-2008,Brazil,BRA,1990.0
-2009,Brazil,BRA,1990.0
-2010,Brazil,BRA,1990.0
-2011,Brazil,BRA,1990.0
-2012,Brazil,BRA,1990.0
-2013,Brazil,BRA,1990.0
-2014,Brazil,BRA,1990.0
-2015,Brazil,BRA,1350.0
-2016,Brazil,BRA,1350.0
-2017,Brazil,BRA,1350.0
-2018,Brazil,BRA,1350.0
-2019,Brazil,BRA,1350.0
-2020,Brazil,BRA,1350.0
-1959,Brunei Darussalam,BRN,0.0
+1985,Brazil,BRA,0.64
+1986,Brazil,BRA,0.64
+1987,Brazil,BRA,0.64
+1988,Brazil,BRA,0.64
+1989,Brazil,BRA,0.64
+1990,Brazil,BRA,0.64
+1991,Brazil,BRA,0.64
+1992,Brazil,BRA,0.64
+1993,Brazil,BRA,0.64
+1994,Brazil,BRA,0.64
+1995,Brazil,BRA,0.64
+1996,Brazil,BRA,0.64
+1997,Brazil,BRA,0.64
+1998,Brazil,BRA,0.64
+1999,Brazil,BRA,0.64
+2000,Brazil,BRA,1.99
+2001,Brazil,BRA,1.99
+2002,Brazil,BRA,1.99
+2003,Brazil,BRA,1.99
+2004,Brazil,BRA,1.99
+2005,Brazil,BRA,1.99
+2006,Brazil,BRA,1.99
+2007,Brazil,BRA,1.99
+2008,Brazil,BRA,1.99
+2009,Brazil,BRA,1.99
+2010,Brazil,BRA,1.99
+2011,Brazil,BRA,1.99
+2012,Brazil,BRA,1.99
+2013,Brazil,BRA,1.99
+2014,Brazil,BRA,1.99
+2015,Brazil,BRA,1.35
+2016,Brazil,BRA,1.35
+2017,Brazil,BRA,1.35
+2018,Brazil,BRA,1.35
+2019,Brazil,BRA,1.35
+2020,Brazil,BRA,1.35
 1960,Brunei Darussalam,BRN,0.0
 1961,Brunei Darussalam,BRN,0.0
 1962,Brunei Darussalam,BRN,0.0
@@ -1391,7 +1388,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1981,Brunei Darussalam,BRN,0.0
 1982,Brunei Darussalam,BRN,0.0
 1983,Brunei Darussalam,BRN,0.0
-1994,Brunei Darussalam,BRN,0.0
+1984,Brunei Darussalam,BRN,0.0
 1995,Brunei Darussalam,BRN,0.0
 1996,Brunei Darussalam,BRN,0.0
 1997,Brunei Darussalam,BRN,0.0
@@ -1475,36 +1472,36 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1978,Bulgaria,BGR,0.0
 1979,Bulgaria,BGR,0.0
 1980,Bulgaria,BGR,0.0
-1981,Bulgaria,BGR,2000.0
-1982,Bulgaria,BGR,2000.0
-1983,Bulgaria,BGR,2000.0
-1984,Bulgaria,BGR,2000.0
-1985,Bulgaria,BGR,2000.0
-1986,Bulgaria,BGR,2000.0
-1987,Bulgaria,BGR,2000.0
-1988,Bulgaria,BGR,2000.0
-1989,Bulgaria,BGR,2000.0
-1990,Bulgaria,BGR,2000.0
-1991,Bulgaria,BGR,2000.0
-1992,Bulgaria,BGR,2000.0
-1993,Bulgaria,BGR,2000.0
-1994,Bulgaria,BGR,2000.0
-1995,Bulgaria,BGR,2000.0
-1996,Bulgaria,BGR,2000.0
-1997,Bulgaria,BGR,2000.0
-1998,Bulgaria,BGR,2000.0
-1999,Bulgaria,BGR,2000.0
-2000,Bulgaria,BGR,2000.0
-2001,Bulgaria,BGR,2000.0
-2002,Bulgaria,BGR,2000.0
-2003,Bulgaria,BGR,2000.0
-2004,Bulgaria,BGR,2000.0
-2005,Bulgaria,BGR,2000.0
-2006,Bulgaria,BGR,2000.0
-2007,Bulgaria,BGR,2000.0
-2008,Bulgaria,BGR,2000.0
-2009,Bulgaria,BGR,2000.0
-2010,Bulgaria,BGR,2000.0
+1981,Bulgaria,BGR,2.0
+1982,Bulgaria,BGR,2.0
+1983,Bulgaria,BGR,2.0
+1984,Bulgaria,BGR,2.0
+1985,Bulgaria,BGR,2.0
+1986,Bulgaria,BGR,2.0
+1987,Bulgaria,BGR,2.0
+1988,Bulgaria,BGR,2.0
+1989,Bulgaria,BGR,2.0
+1990,Bulgaria,BGR,2.0
+1991,Bulgaria,BGR,2.0
+1992,Bulgaria,BGR,2.0
+1993,Bulgaria,BGR,2.0
+1994,Bulgaria,BGR,2.0
+1995,Bulgaria,BGR,2.0
+1996,Bulgaria,BGR,2.0
+1997,Bulgaria,BGR,2.0
+1998,Bulgaria,BGR,2.0
+1999,Bulgaria,BGR,2.0
+2000,Bulgaria,BGR,2.0
+2001,Bulgaria,BGR,2.0
+2002,Bulgaria,BGR,2.0
+2003,Bulgaria,BGR,2.0
+2004,Bulgaria,BGR,2.0
+2005,Bulgaria,BGR,2.0
+2006,Bulgaria,BGR,2.0
+2007,Bulgaria,BGR,2.0
+2008,Bulgaria,BGR,2.0
+2009,Bulgaria,BGR,2.0
+2010,Bulgaria,BGR,2.0
 2011,Bulgaria,BGR,0.0
 2012,Bulgaria,BGR,0.0
 2013,Bulgaria,BGR,0.0
@@ -1758,62 +1755,67 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1962,Canada,CAN,0.0
 1963,Canada,CAN,0.0
 1964,Canada,CAN,0.0
-1965,Canada,CAN,1084.0
-1966,Canada,CAN,1084.0
-1967,Canada,CAN,1084.0
-1968,Canada,CAN,1084.0
-1969,Canada,CAN,1084.0
-1970,Canada,CAN,1084.0
-1971,Canada,CAN,1084.0
-1972,Canada,CAN,1744.0
-1973,Canada,CAN,1744.0
-1974,Canada,CAN,1744.0
-1975,Canada,CAN,1744.0
-1976,Canada,CAN,1744.0
-1977,Canada,CAN,1744.0
-1978,Canada,CAN,1744.0
-1979,Canada,CAN,1744.0
-1980,Canada,CAN,1744.0
-1981,Canada,CAN,1744.0
-1982,Canada,CAN,1744.0
-1983,Canada,CAN,1744.0
-1984,Canada,CAN,3904.0
-1985,Canada,CAN,3904.0
-1986,Canada,CAN,7644.0
-1987,Canada,CAN,7644.0
-1988,Canada,CAN,7644.0
-1989,Canada,CAN,7644.0
-1990,Canada,CAN,7644.0
-1991,Canada,CAN,10864.0
-1992,Canada,CAN,10864.0
-1993,Canada,CAN,10864.0
-1994,Canada,CAN,10864.0
-1995,Canada,CAN,9780.0
-1996,Canada,CAN,9780.0
-1997,Canada,CAN,9780.0
-1998,Canada,CAN,9780.0
-1999,Canada,CAN,13170.0
-2000,Canada,CAN,13170.0
-2001,Canada,CAN,13170.0
-2002,Canada,CAN,12510.0
-2003,Canada,CAN,12510.0
-2004,Canada,CAN,12510.0
-2005,Canada,CAN,12510.0
-2006,Canada,CAN,12510.0
-2007,Canada,CAN,12510.0
-2008,Canada,CAN,12510.0
-2009,Canada,CAN,12510.0
-2010,Canada,CAN,12510.0
-2011,Canada,CAN,12510.0
-2012,Canada,CAN,12510.0
-2013,Canada,CAN,12510.0
-2014,Canada,CAN,10350.0
-2015,Canada,CAN,10350.0
-2016,Canada,CAN,6610.0
-2017,Canada,CAN,6610.0
-2018,Canada,CAN,6610.0
-2019,Canada,CAN,6610.0
-2020,Canada,CAN,6610.0
+1965,Canada,CAN,0.0
+1966,Canada,CAN,0.0
+1967,Canada,CAN,0.0
+1968,Canada,CAN,0.0
+1969,Canada,CAN,2.16
+1970,Canada,CAN,2.16
+1971,Canada,CAN,2.16
+1972,Canada,CAN,5.55
+1973,Canada,CAN,5.55
+1974,Canada,CAN,5.55
+1975,Canada,CAN,5.55
+1976,Canada,CAN,5.55
+1977,Canada,CAN,6.21
+1978,Canada,CAN,6.21
+1979,Canada,CAN,6.21
+1980,Canada,CAN,6.21
+1981,Canada,CAN,6.21
+1982,Canada,CAN,6.21
+1983,Canada,CAN,6.21
+1984,Canada,CAN,7.294
+1985,Canada,CAN,7.294
+1986,Canada,CAN,7.294
+1987,Canada,CAN,7.294
+1988,Canada,CAN,7.294
+1989,Canada,CAN,7.294
+1990,Canada,CAN,7.294
+1991,Canada,CAN,7.294
+1992,Canada,CAN,7.294
+1993,Canada,CAN,7.294
+1994,Canada,CAN,7.294
+1995,Canada,CAN,7.294
+1996,Canada,CAN,7.294
+1997,Canada,CAN,7.294
+1998,Canada,CAN,7.294
+1999,Canada,CAN,8.354000000000001
+2000,Canada,CAN,8.354000000000001
+2001,Canada,CAN,8.354000000000001
+2002,Canada,CAN,4.9639999999999995
+2003,Canada,CAN,8.704
+2004,Canada,CAN,8.704
+2005,Canada,CAN,8.704
+2006,Canada,CAN,8.704
+2007,Canada,CAN,8.044
+2008,Canada,CAN,8.044
+2009,Canada,CAN,8.044
+2010,Canada,CAN,8.044
+2011,Canada,CAN,8.044
+2012,Canada,CAN,8.044
+2013,Canada,CAN,8.044
+2014,Canada,CAN,6.96
+2015,Canada,CAN,6.96
+2016,Canada,CAN,6.96
+2017,Canada,CAN,6.96
+2018,Canada,CAN,6.96
+2019,Canada,CAN,6.96
+2020,Canada,CAN,6.96
+1920,Central African Republic,CAF,0.0
+1921,Central African Republic,CAF,0.0
+1922,Central African Republic,CAF,0.0
+1923,Central African Republic,CAF,0.0
+1924,Central African Republic,CAF,0.0
 1925,Central African Republic,CAF,0.0
 1926,Central African Republic,CAF,0.0
 1927,Central African Republic,CAF,0.0
@@ -1909,7 +1911,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2017,Central African Republic,CAF,0.0
 2018,Central African Republic,CAF,0.0
 2019,Central African Republic,CAF,0.0
-2020,Central African Republic,CAF,0.0
 1920,Chile,CHL,0.0
 1921,Chile,CHL,0.0
 1922,Chile,CHL,0.0
@@ -2058,60 +2059,76 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1964,China,CHN,0.0
 1965,China,CHN,0.0
 1966,China,CHN,0.0
-1967,China,CHN,4000.0
-1968,China,CHN,4000.0
-1969,China,CHN,4000.0
-1970,China,CHN,4000.0
-1971,China,CHN,4000.0
-1972,China,CHN,4000.0
-1973,China,CHN,4000.0
-1974,China,CHN,4000.0
-1975,China,CHN,4000.0
-1976,China,CHN,8183.0
-1977,China,CHN,10071.0
-1978,China,CHN,10071.0
-1979,China,CHN,10091.0
-1980,China,CHN,10091.0
-1981,China,CHN,10091.0
-1982,China,CHN,18005.0
-1983,China,CHN,24057.0
-1984,China,CHN,24057.0
-1985,China,CHN,24057.0
-1986,China,CHN,24057.0
-1987,China,CHN,24057.0
-1988,China,CHN,24057.0
-1989,China,CHN,24057.0
-1990,China,CHN,24057.0
-1991,China,CHN,25277.0
-1992,China,CHN,29378.0
-1993,China,CHN,29378.0
-1994,China,CHN,31378.0
-1995,China,CHN,33402.0
-1996,China,CHN,33402.0
-1997,China,CHN,29402.0
-1998,China,CHN,29402.0
-1999,China,CHN,29402.0
-2000,China,CHN,29402.0
-2001,China,CHN,29402.0
-2002,China,CHN,29402.0
-2003,China,CHN,29402.0
-2004,China,CHN,29402.0
-2005,China,CHN,29402.0
-2006,China,CHN,25219.0
-2007,China,CHN,23331.0
-2008,China,CHN,23331.0
-2009,China,CHN,23311.0
-2010,China,CHN,23311.0
-2011,China,CHN,23311.0
-2012,China,CHN,15397.0
-2013,China,CHN,9345.0
-2014,China,CHN,9345.0
-2015,China,CHN,9345.0
-2016,China,CHN,9345.0
-2017,China,CHN,9345.0
-2018,China,CHN,9345.0
-2019,China,CHN,9345.0
-2020,China,CHN,9345.0
+1967,China,CHN,0.0
+1968,China,CHN,0.0
+1969,China,CHN,0.0
+1970,China,CHN,0.0
+1971,China,CHN,3.9139999999999997
+1972,China,CHN,3.9139999999999997
+1973,China,CHN,3.9139999999999997
+1974,China,CHN,3.9139999999999997
+1975,China,CHN,3.9139999999999997
+1976,China,CHN,3.9139999999999997
+1977,China,CHN,14.120999999999999
+1978,China,CHN,14.120999999999999
+1979,China,CHN,15.341
+1980,China,CHN,15.341
+1981,China,CHN,15.341
+1982,China,CHN,15.341
+1983,China,CHN,15.341
+1984,China,CHN,15.360999999999999
+1985,China,CHN,15.360999999999999
+1986,China,CHN,15.360999999999999
+1987,China,CHN,19.433
+1988,China,CHN,19.433
+1989,China,CHN,19.433
+1990,China,CHN,23.433000000000003
+1991,China,CHN,25.413
+1992,China,CHN,25.413
+1993,China,CHN,25.413
+1994,China,CHN,25.413
+1995,China,CHN,27.413
+1996,China,CHN,27.413
+1997,China,CHN,27.413
+1998,China,CHN,27.413
+1999,China,CHN,27.413
+2000,China,CHN,29.301
+2001,China,CHN,25.386999999999997
+2002,China,CHN,29.488000000000003
+2003,China,CHN,29.488000000000003
+2004,China,CHN,29.488000000000003
+2005,China,CHN,29.488000000000003
+2006,China,CHN,29.488000000000003
+2007,China,CHN,19.281
+2008,China,CHN,19.281
+2009,China,CHN,18.061
+2010,China,CHN,18.061
+2011,China,CHN,18.061
+2012,China,CHN,18.061
+2013,China,CHN,18.061
+2014,China,CHN,18.041
+2015,China,CHN,18.041
+2016,China,CHN,18.041
+2017,China,CHN,13.969000000000001
+2018,China,CHN,13.969000000000001
+2019,China,CHN,13.969000000000001
+2020,China,CHN,9.969
+1927,Colombia,COL,0.0
+1928,Colombia,COL,0.0
+1929,Colombia,COL,0.0
+1930,Colombia,COL,0.0
+1931,Colombia,COL,0.0
+1932,Colombia,COL,0.0
+1933,Colombia,COL,0.0
+1934,Colombia,COL,0.0
+1935,Colombia,COL,0.0
+1936,Colombia,COL,0.0
+1937,Colombia,COL,0.0
+1938,Colombia,COL,0.0
+1939,Colombia,COL,0.0
+1940,Colombia,COL,0.0
+1941,Colombia,COL,0.0
+1942,Colombia,COL,0.0
 1943,Colombia,COL,0.0
 1944,Colombia,COL,0.0
 1945,Colombia,COL,0.0
@@ -2190,43 +2207,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Colombia,COL,0.0
 2019,Colombia,COL,0.0
 2020,Colombia,COL,0.0
-1939,Congo,COG,0.0
-1940,Congo,COG,0.0
-1941,Congo,COG,0.0
-1942,Congo,COG,0.0
-1943,Congo,COG,0.0
-1944,Congo,COG,0.0
-1945,Congo,COG,0.0
-1946,Congo,COG,0.0
-1947,Congo,COG,0.0
-1948,Congo,COG,0.0
-1949,Congo,COG,0.0
-1950,Congo,COG,0.0
-1951,Congo,COG,0.0
-1952,Congo,COG,0.0
-1953,Congo,COG,0.0
-1954,Congo,COG,0.0
-1955,Congo,COG,0.0
-1956,Congo,COG,0.0
-1957,Congo,COG,0.0
-1958,Congo,COG,0.0
-1959,Congo,COG,0.0
-1960,Congo,COG,0.0
-1961,Congo,COG,0.0
-1962,Congo,COG,0.0
-1963,Congo,COG,0.0
-1964,Congo,COG,0.0
-1965,Congo,COG,0.0
-1966,Congo,COG,0.0
-1967,Congo,COG,0.0
-1968,Congo,COG,0.0
-1969,Congo,COG,0.0
-1970,Congo,COG,0.0
-1971,Congo,COG,0.0
-1972,Congo,COG,0.0
-1973,Congo,COG,0.0
-1974,Congo,COG,0.0
-1975,Congo,COG,0.0
 1976,Congo,COG,0.0
 1977,Congo,COG,0.0
 1978,Congo,COG,0.0
@@ -2469,6 +2449,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Croatia,HRV,0.0
 2019,Croatia,HRV,0.0
 2020,Croatia,HRV,0.0
+1954,Cuba,CUB,0.0
+1955,Cuba,CUB,0.0
 1956,Cuba,CUB,0.0
 1957,Cuba,CUB,0.0
 1958,Cuba,CUB,0.0
@@ -2534,6 +2516,25 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Cuba,CUB,0.0
 2019,Cuba,CUB,0.0
 2020,Cuba,CUB,0.0
+1976,Cyprus,CYP,0.0
+1977,Cyprus,CYP,0.0
+1978,Cyprus,CYP,0.0
+1979,Cyprus,CYP,0.0
+1980,Cyprus,CYP,0.0
+1981,Cyprus,CYP,0.0
+1982,Cyprus,CYP,0.0
+1983,Cyprus,CYP,0.0
+1984,Cyprus,CYP,0.0
+1985,Cyprus,CYP,0.0
+1986,Cyprus,CYP,0.0
+1987,Cyprus,CYP,0.0
+1988,Cyprus,CYP,0.0
+1989,Cyprus,CYP,0.0
+1990,Cyprus,CYP,0.0
+1991,Cyprus,CYP,0.0
+1992,Cyprus,CYP,0.0
+1993,Cyprus,CYP,0.0
+1994,Cyprus,CYP,0.0
 1995,Cyprus,CYP,0.0
 1996,Cyprus,CYP,0.0
 1997,Cyprus,CYP,0.0
@@ -2651,6 +2652,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Democratic Republic of the Congo,COD,0.0
 2019,Democratic Republic of the Congo,COD,0.0
 2020,Democratic Republic of the Congo,COD,0.0
+1961,Denmark,DNK,0.0
+1962,Denmark,DNK,0.0
+1963,Denmark,DNK,0.0
+1964,Denmark,DNK,0.0
+1965,Denmark,DNK,0.0
+1966,Denmark,DNK,0.0
+1967,Denmark,DNK,0.0
+1968,Denmark,DNK,0.0
+1969,Denmark,DNK,0.0
 1970,Denmark,DNK,0.0
 1971,Denmark,DNK,0.0
 1972,Denmark,DNK,0.0
@@ -2702,10 +2712,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Denmark,DNK,0.0
 2019,Denmark,DNK,0.0
 2020,Denmark,DNK,0.0
-1985,Djibouti,DJI,0.0
-1986,Djibouti,DJI,0.0
-1987,Djibouti,DJI,0.0
-1988,Djibouti,DJI,0.0
 1989,Djibouti,DJI,0.0
 1990,Djibouti,DJI,0.0
 1991,Djibouti,DJI,0.0
@@ -2738,43 +2744,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Djibouti,DJI,0.0
 2019,Djibouti,DJI,0.0
 2020,Djibouti,DJI,0.0
-1928,Dominican Republic,DOM,0.0
-1929,Dominican Republic,DOM,0.0
-1930,Dominican Republic,DOM,0.0
-1931,Dominican Republic,DOM,0.0
-1932,Dominican Republic,DOM,0.0
-1933,Dominican Republic,DOM,0.0
-1934,Dominican Republic,DOM,0.0
-1935,Dominican Republic,DOM,0.0
-1936,Dominican Republic,DOM,0.0
-1937,Dominican Republic,DOM,0.0
-1938,Dominican Republic,DOM,0.0
-1939,Dominican Republic,DOM,0.0
-1940,Dominican Republic,DOM,0.0
-1941,Dominican Republic,DOM,0.0
-1942,Dominican Republic,DOM,0.0
-1943,Dominican Republic,DOM,0.0
-1944,Dominican Republic,DOM,0.0
-1945,Dominican Republic,DOM,0.0
-1946,Dominican Republic,DOM,0.0
-1947,Dominican Republic,DOM,0.0
-1948,Dominican Republic,DOM,0.0
-1949,Dominican Republic,DOM,0.0
-1950,Dominican Republic,DOM,0.0
-1951,Dominican Republic,DOM,0.0
-1952,Dominican Republic,DOM,0.0
-1953,Dominican Republic,DOM,0.0
-1954,Dominican Republic,DOM,0.0
-1955,Dominican Republic,DOM,0.0
-1956,Dominican Republic,DOM,0.0
-1957,Dominican Republic,DOM,0.0
-1958,Dominican Republic,DOM,0.0
-1959,Dominican Republic,DOM,0.0
-1960,Dominican Republic,DOM,0.0
-1961,Dominican Republic,DOM,0.0
-1962,Dominican Republic,DOM,0.0
-1963,Dominican Republic,DOM,0.0
-1964,Dominican Republic,DOM,0.0
 1965,Dominican Republic,DOM,0.0
 1966,Dominican Republic,DOM,0.0
 1967,Dominican Republic,DOM,0.0
@@ -2950,6 +2919,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Egypt,EGY,0.0
 2019,Egypt,EGY,0.0
 2020,Egypt,EGY,0.0
+1939,El Salvador,SLV,0.0
+1940,El Salvador,SLV,0.0
+1941,El Salvador,SLV,0.0
+1942,El Salvador,SLV,0.0
+1943,El Salvador,SLV,0.0
+1944,El Salvador,SLV,0.0
+1945,El Salvador,SLV,0.0
+1946,El Salvador,SLV,0.0
+1947,El Salvador,SLV,0.0
 1948,El Salvador,SLV,0.0
 1949,El Salvador,SLV,0.0
 1950,El Salvador,SLV,0.0
@@ -3023,33 +3001,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,El Salvador,SLV,0.0
 2019,El Salvador,SLV,0.0
 2020,El Salvador,SLV,0.0
-1942,Equatorial Guinea,GNQ,0.0
-1943,Equatorial Guinea,GNQ,0.0
-1944,Equatorial Guinea,GNQ,0.0
-1945,Equatorial Guinea,GNQ,0.0
-1946,Equatorial Guinea,GNQ,0.0
-1947,Equatorial Guinea,GNQ,0.0
-1948,Equatorial Guinea,GNQ,0.0
-1949,Equatorial Guinea,GNQ,0.0
-1950,Equatorial Guinea,GNQ,0.0
-1951,Equatorial Guinea,GNQ,0.0
-1952,Equatorial Guinea,GNQ,0.0
-1953,Equatorial Guinea,GNQ,0.0
-1954,Equatorial Guinea,GNQ,0.0
-1955,Equatorial Guinea,GNQ,0.0
-1956,Equatorial Guinea,GNQ,0.0
-1957,Equatorial Guinea,GNQ,0.0
-1958,Equatorial Guinea,GNQ,0.0
-1959,Equatorial Guinea,GNQ,0.0
-1960,Equatorial Guinea,GNQ,0.0
-1961,Equatorial Guinea,GNQ,0.0
-1962,Equatorial Guinea,GNQ,0.0
-1963,Equatorial Guinea,GNQ,0.0
-1964,Equatorial Guinea,GNQ,0.0
-1965,Equatorial Guinea,GNQ,0.0
-1966,Equatorial Guinea,GNQ,0.0
-1967,Equatorial Guinea,GNQ,0.0
-1968,Equatorial Guinea,GNQ,0.0
 1969,Equatorial Guinea,GNQ,0.0
 1970,Equatorial Guinea,GNQ,0.0
 1971,Equatorial Guinea,GNQ,0.0
@@ -3102,24 +3053,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Equatorial Guinea,GNQ,0.0
 2019,Equatorial Guinea,GNQ,0.0
 2020,Equatorial Guinea,GNQ,0.0
-1988,Eritrea,ERI,0.0
-1989,Eritrea,ERI,0.0
-1990,Eritrea,ERI,0.0
-1991,Eritrea,ERI,0.0
-1992,Eritrea,ERI,0.0
-1993,Eritrea,ERI,0.0
-1994,Eritrea,ERI,0.0
-1995,Eritrea,ERI,0.0
-1996,Eritrea,ERI,0.0
-1997,Eritrea,ERI,0.0
-1998,Eritrea,ERI,0.0
-1999,Eritrea,ERI,0.0
-2000,Eritrea,ERI,0.0
-2001,Eritrea,ERI,0.0
-2002,Eritrea,ERI,0.0
-2003,Eritrea,ERI,0.0
-2004,Eritrea,ERI,0.0
-2005,Eritrea,ERI,0.0
 2006,Eritrea,ERI,0.0
 2007,Eritrea,ERI,0.0
 2008,Eritrea,ERI,0.0
@@ -3135,8 +3068,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Eritrea,ERI,0.0
 2019,Eritrea,ERI,0.0
 2020,Eritrea,ERI,0.0
-1981,Estonia,EST,0.0
-1982,Estonia,EST,0.0
 1983,Estonia,EST,0.0
 1984,Estonia,EST,0.0
 1985,Estonia,EST,0.0
@@ -3351,40 +3282,40 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1984,Finland,FIN,0.0
 1985,Finland,FIN,0.0
 1986,Finland,FIN,0.0
-1987,Finland,FIN,1760.0
-1988,Finland,FIN,1760.0
-1989,Finland,FIN,1760.0
-1990,Finland,FIN,1760.0
-1991,Finland,FIN,1760.0
-1992,Finland,FIN,1760.0
-1993,Finland,FIN,1760.0
-1994,Finland,FIN,1760.0
-1995,Finland,FIN,1760.0
-1996,Finland,FIN,2752.0
-1997,Finland,FIN,2752.0
-1998,Finland,FIN,2752.0
-1999,Finland,FIN,2752.0
-2000,Finland,FIN,2752.0
-2001,Finland,FIN,2752.0
-2002,Finland,FIN,2752.0
-2003,Finland,FIN,2752.0
-2004,Finland,FIN,2752.0
-2005,Finland,FIN,2752.0
-2006,Finland,FIN,2752.0
-2007,Finland,FIN,2752.0
-2008,Finland,FIN,2752.0
-2009,Finland,FIN,2752.0
-2010,Finland,FIN,2752.0
-2011,Finland,FIN,2752.0
-2012,Finland,FIN,2752.0
-2013,Finland,FIN,2752.0
-2014,Finland,FIN,2752.0
-2015,Finland,FIN,2752.0
-2016,Finland,FIN,2752.0
-2017,Finland,FIN,992.0
-2018,Finland,FIN,992.0
-2019,Finland,FIN,992.0
-2020,Finland,FIN,992.0
+1987,Finland,FIN,0.0
+1988,Finland,FIN,0.0
+1989,Finland,FIN,1.76
+1990,Finland,FIN,1.76
+1991,Finland,FIN,1.76
+1992,Finland,FIN,1.76
+1993,Finland,FIN,1.76
+1994,Finland,FIN,1.76
+1995,Finland,FIN,1.76
+1996,Finland,FIN,1.76
+1997,Finland,FIN,1.76
+1998,Finland,FIN,1.76
+1999,Finland,FIN,1.76
+2000,Finland,FIN,1.76
+2001,Finland,FIN,2.752
+2002,Finland,FIN,2.752
+2003,Finland,FIN,2.752
+2004,Finland,FIN,2.752
+2005,Finland,FIN,2.752
+2006,Finland,FIN,2.752
+2007,Finland,FIN,2.752
+2008,Finland,FIN,2.752
+2009,Finland,FIN,2.752
+2010,Finland,FIN,2.752
+2011,Finland,FIN,2.752
+2012,Finland,FIN,2.752
+2013,Finland,FIN,2.752
+2014,Finland,FIN,2.752
+2015,Finland,FIN,2.752
+2016,Finland,FIN,2.752
+2017,Finland,FIN,2.752
+2018,Finland,FIN,2.752
+2019,Finland,FIN,0.992
+2020,Finland,FIN,0.992
 1920,France,FRA,0.0
 1921,France,FRA,0.0
 1922,France,FRA,0.0
@@ -3425,67 +3356,88 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1957,France,FRA,0.0
 1958,France,FRA,0.0
 1959,France,FRA,0.0
-1960,France,FRA,0.0
-1961,France,FRA,0.0
-1962,France,FRA,0.0
-1963,France,FRA,0.0
-1964,France,FRA,0.0
-1965,France,FRA,0.0
-1966,France,FRA,0.0
-1967,France,FRA,0.0
-1968,France,FRA,5320.0
-1969,France,FRA,5320.0
-1970,France,FRA,5320.0
-1971,France,FRA,8980.0
-1972,France,FRA,8980.0
-1973,France,FRA,8980.0
-1974,France,FRA,8980.0
-1975,France,FRA,12540.0
-1976,France,FRA,12540.0
-1977,France,FRA,12540.0
-1978,France,FRA,12540.0
-1979,France,FRA,16160.0
-1980,France,FRA,21620.0
-1981,France,FRA,21620.0
-1982,France,FRA,21620.0
-1983,France,FRA,24610.0
-1984,France,FRA,27270.0
-1985,France,FRA,29930.0
-1986,France,FRA,36590.0
-1987,France,FRA,40230.0
-1988,France,FRA,45640.0
-1989,France,FRA,45640.0
-1990,France,FRA,45640.0
-1991,France,FRA,50880.0
-1992,France,FRA,50880.0
-1993,France,FRA,50880.0
-1994,France,FRA,50880.0
-1995,France,FRA,50880.0
-1996,France,FRA,53500.0
-1997,France,FRA,55260.0
-1998,France,FRA,49940.0
-1999,France,FRA,49940.0
-2000,France,FRA,49940.0
-2001,France,FRA,46280.0
-2002,France,FRA,46280.0
-2003,France,FRA,51480.0
-2004,France,FRA,51480.0
-2005,France,FRA,47920.0
-2006,France,FRA,47920.0
-2007,France,FRA,47920.0
-2008,France,FRA,47920.0
-2009,France,FRA,44300.0
-2010,France,FRA,38840.0
-2011,France,FRA,38840.0
-2012,France,FRA,38840.0
-2013,France,FRA,35850.0
-2014,France,FRA,33190.0
-2015,France,FRA,30530.0
-2016,France,FRA,26540.0
-2017,France,FRA,22900.0
-2018,France,FRA,17490.0
-2019,France,FRA,17490.0
-2020,France,FRA,17490.0
+1960,France,FRA,2.66
+1961,France,FRA,2.66
+1962,France,FRA,2.66
+1963,France,FRA,2.66
+1964,France,FRA,2.66
+1965,France,FRA,6.22
+1966,France,FRA,6.22
+1967,France,FRA,6.22
+1968,France,FRA,6.22
+1969,France,FRA,6.22
+1970,France,FRA,8.84
+1971,France,FRA,11.51
+1972,France,FRA,14.5
+1973,France,FRA,18.16
+1974,France,FRA,18.16
+1975,France,FRA,18.16
+1976,France,FRA,18.16
+1977,France,FRA,21.16
+1978,France,FRA,21.16
+1979,France,FRA,21.16
+1980,France,FRA,28.23
+1981,France,FRA,30.89
+1982,France,FRA,30.89
+1983,France,FRA,38.09
+1984,France,FRA,41.73
+1985,France,FRA,47.05
+1986,France,FRA,47.05
+1987,France,FRA,47.05
+1988,France,FRA,47.05
+1989,France,FRA,47.05
+1990,France,FRA,48.05
+1991,France,FRA,48.05
+1992,France,FRA,53.51
+1993,France,FRA,53.51
+1994,France,FRA,58.71
+1995,France,FRA,55.15
+1996,France,FRA,55.15
+1997,France,FRA,55.15
+1998,France,FRA,55.15
+1999,France,FRA,56.91
+2000,France,FRA,54.29
+2001,France,FRA,51.62000000000001
+2002,France,FRA,48.63
+2003,France,FRA,44.97
+2004,France,FRA,44.97
+2005,France,FRA,44.97
+2006,France,FRA,44.97
+2007,France,FRA,41.97
+2008,France,FRA,41.97
+2009,France,FRA,41.97
+2010,France,FRA,34.9
+2011,France,FRA,32.24
+2012,France,FRA,32.24
+2013,France,FRA,25.04
+2014,France,FRA,21.4
+2015,France,FRA,16.080000000000002
+2016,France,FRA,16.080000000000002
+2017,France,FRA,16.080000000000002
+2018,France,FRA,16.080000000000002
+2019,France,FRA,16.080000000000002
+2020,France,FRA,12.42
+1968,French Guiana,GUF,0.0
+1969,French Guiana,GUF,0.0
+1970,French Guiana,GUF,0.0
+1971,French Guiana,GUF,0.0
+1972,French Guiana,GUF,0.0
+1973,French Guiana,GUF,0.0
+1974,French Guiana,GUF,0.0
+1975,French Guiana,GUF,0.0
+1976,French Guiana,GUF,0.0
+1977,French Guiana,GUF,0.0
+1978,French Guiana,GUF,0.0
+1979,French Guiana,GUF,0.0
+1980,French Guiana,GUF,0.0
+1981,French Guiana,GUF,0.0
+1982,French Guiana,GUF,0.0
+1983,French Guiana,GUF,0.0
+1984,French Guiana,GUF,0.0
+1985,French Guiana,GUF,0.0
+1986,French Guiana,GUF,0.0
+1987,French Guiana,GUF,0.0
+1988,French Guiana,GUF,0.0
 1989,French Guiana,GUF,0.0
 1990,French Guiana,GUF,0.0
 1991,French Guiana,GUF,0.0
@@ -3613,11 +3565,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Gabon,GAB,0.0
 2019,Gabon,GAB,0.0
 2020,Gabon,GAB,0.0
-1970,Gambia,GMB,0.0
-1971,Gambia,GMB,0.0
-1972,Gambia,GMB,0.0
-1973,Gambia,GMB,0.0
-1974,Gambia,GMB,0.0
 1975,Gambia,GMB,0.0
 1976,Gambia,GMB,0.0
 1977,Gambia,GMB,0.0
@@ -3664,6 +3611,19 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Gambia,GMB,0.0
 2019,Gambia,GMB,0.0
 2020,Gambia,GMB,0.0
+1920,Georgia,GEO,0.0
+1921,Georgia,GEO,0.0
+1922,Georgia,GEO,0.0
+1923,Georgia,GEO,0.0
+1924,Georgia,GEO,0.0
+1925,Georgia,GEO,0.0
+1926,Georgia,GEO,0.0
+1927,Georgia,GEO,0.0
+1928,Georgia,GEO,0.0
+1929,Georgia,GEO,0.0
+1930,Georgia,GEO,0.0
+1931,Georgia,GEO,0.0
+1932,Georgia,GEO,0.0
 1933,Georgia,GEO,0.0
 1934,Georgia,GEO,0.0
 1935,Georgia,GEO,0.0
@@ -3816,41 +3776,41 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1981,Germany,DEU,0.0
 1982,Germany,DEU,0.0
 1983,Germany,DEU,0.0
-1984,Germany,DEU,4040.0
-1985,Germany,DEU,5400.0
-1986,Germany,DEU,6880.0
-1987,Germany,DEU,6880.0
-1988,Germany,DEU,9771.0
-1989,Germany,DEU,11171.0
-1990,Germany,DEU,11171.0
-1991,Germany,DEU,11171.0
-1992,Germany,DEU,11171.0
-1993,Germany,DEU,11171.0
-1994,Germany,DEU,11171.0
-1995,Germany,DEU,11171.0
-1996,Germany,DEU,11171.0
-1997,Germany,DEU,11171.0
-1998,Germany,DEU,11171.0
-1999,Germany,DEU,11171.0
-2000,Germany,DEU,11171.0
-2001,Germany,DEU,11171.0
-2002,Germany,DEU,11171.0
-2003,Germany,DEU,11171.0
-2004,Germany,DEU,11171.0
-2005,Germany,DEU,11171.0
-2006,Germany,DEU,11171.0
-2007,Germany,DEU,11171.0
-2008,Germany,DEU,11171.0
-2009,Germany,DEU,11171.0
-2010,Germany,DEU,11171.0
-2011,Germany,DEU,11171.0
-2012,Germany,DEU,11171.0
-2013,Germany,DEU,11171.0
-2014,Germany,DEU,7131.0
-2015,Germany,DEU,5771.0
-2016,Germany,DEU,4291.0
-2017,Germany,DEU,4291.0
-2018,Germany,DEU,1400.0
+1984,Germany,DEU,4.04
+1985,Germany,DEU,5.4
+1986,Germany,DEU,6.88
+1987,Germany,DEU,6.88
+1988,Germany,DEU,9.771
+1989,Germany,DEU,11.171
+1990,Germany,DEU,11.171
+1991,Germany,DEU,11.171
+1992,Germany,DEU,11.171
+1993,Germany,DEU,11.171
+1994,Germany,DEU,11.171
+1995,Germany,DEU,11.171
+1996,Germany,DEU,11.171
+1997,Germany,DEU,11.171
+1998,Germany,DEU,11.171
+1999,Germany,DEU,11.171
+2000,Germany,DEU,11.171
+2001,Germany,DEU,11.171
+2002,Germany,DEU,11.171
+2003,Germany,DEU,11.171
+2004,Germany,DEU,11.171
+2005,Germany,DEU,11.171
+2006,Germany,DEU,11.171
+2007,Germany,DEU,11.171
+2008,Germany,DEU,11.171
+2009,Germany,DEU,11.171
+2010,Germany,DEU,11.171
+2011,Germany,DEU,11.171
+2012,Germany,DEU,11.171
+2013,Germany,DEU,11.171
+2014,Germany,DEU,7.131
+2015,Germany,DEU,5.771
+2016,Germany,DEU,4.291
+2017,Germany,DEU,4.291
+2018,Germany,DEU,1.4
 2019,Germany,DEU,0.0
 2020,Germany,DEU,0.0
 1961,Ghana,GHA,0.0
@@ -4081,18 +4041,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Guatemala,GTM,0.0
 2019,Guatemala,GTM,0.0
 2020,Guatemala,GTM,0.0
-1942,Guinea,GIN,0.0
-1943,Guinea,GIN,0.0
-1944,Guinea,GIN,0.0
-1945,Guinea,GIN,0.0
-1946,Guinea,GIN,0.0
-1947,Guinea,GIN,0.0
-1948,Guinea,GIN,0.0
-1949,Guinea,GIN,0.0
-1950,Guinea,GIN,0.0
-1951,Guinea,GIN,0.0
-1952,Guinea,GIN,0.0
-1953,Guinea,GIN,0.0
 1954,Guinea,GIN,0.0
 1955,Guinea,GIN,0.0
 1956,Guinea,GIN,0.0
@@ -4160,10 +4108,47 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Guinea,GIN,0.0
 2019,Guinea,GIN,0.0
 2020,Guinea,GIN,0.0
-2017,Guinea-Bissau,GNB,0.0
-2018,Guinea-Bissau,GNB,0.0
-2019,Guinea-Bissau,GNB,0.0
-2020,Guinea-Bissau,GNB,0.0
+1977,Guinea-Bissau,GNB,0.0
+1978,Guinea-Bissau,GNB,0.0
+1979,Guinea-Bissau,GNB,0.0
+1980,Guinea-Bissau,GNB,0.0
+1981,Guinea-Bissau,GNB,0.0
+1982,Guinea-Bissau,GNB,0.0
+1983,Guinea-Bissau,GNB,0.0
+1984,Guinea-Bissau,GNB,0.0
+1985,Guinea-Bissau,GNB,0.0
+1986,Guinea-Bissau,GNB,0.0
+1987,Guinea-Bissau,GNB,0.0
+1988,Guinea-Bissau,GNB,0.0
+1989,Guinea-Bissau,GNB,0.0
+1990,Guinea-Bissau,GNB,0.0
+1991,Guinea-Bissau,GNB,0.0
+1992,Guinea-Bissau,GNB,0.0
+1993,Guinea-Bissau,GNB,0.0
+1994,Guinea-Bissau,GNB,0.0
+1995,Guinea-Bissau,GNB,0.0
+1996,Guinea-Bissau,GNB,0.0
+1997,Guinea-Bissau,GNB,0.0
+1998,Guinea-Bissau,GNB,0.0
+1999,Guinea-Bissau,GNB,0.0
+2000,Guinea-Bissau,GNB,0.0
+2001,Guinea-Bissau,GNB,0.0
+2002,Guinea-Bissau,GNB,0.0
+2003,Guinea-Bissau,GNB,0.0
+2004,Guinea-Bissau,GNB,0.0
+2005,Guinea-Bissau,GNB,0.0
+2006,Guinea-Bissau,GNB,0.0
+2007,Guinea-Bissau,GNB,0.0
+2008,Guinea-Bissau,GNB,0.0
+2009,Guinea-Bissau,GNB,0.0
+2010,Guinea-Bissau,GNB,0.0
+2011,Guinea-Bissau,GNB,0.0
+2012,Guinea-Bissau,GNB,0.0
+2013,Guinea-Bissau,GNB,0.0
+2014,Guinea-Bissau,GNB,0.0
+2015,Guinea-Bissau,GNB,0.0
+2016,Guinea-Bissau,GNB,0.0
+1976,Guyana,GUY,0.0
 1977,Guyana,GUY,0.0
 1978,Guyana,GUY,0.0
 1979,Guyana,GUY,0.0
@@ -4208,16 +4193,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Guyana,GUY,0.0
 2019,Guyana,GUY,0.0
 2020,Guyana,GUY,0.0
-1929,Honduras,HND,0.0
-1930,Honduras,HND,0.0
-1931,Honduras,HND,0.0
-1932,Honduras,HND,0.0
-1933,Honduras,HND,0.0
-1934,Honduras,HND,0.0
-1935,Honduras,HND,0.0
-1936,Honduras,HND,0.0
-1937,Honduras,HND,0.0
-1938,Honduras,HND,0.0
 1939,Honduras,HND,0.0
 1940,Honduras,HND,0.0
 1941,Honduras,HND,0.0
@@ -4305,55 +4280,55 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1959,Hungary,HUN,0.0
 1960,Hungary,HUN,0.0
 1961,Hungary,HUN,0.0
-1962,Hungary,HUN,1886.8
-1963,Hungary,HUN,1886.8
-1964,Hungary,HUN,1886.8
-1965,Hungary,HUN,1886.8
-1966,Hungary,HUN,1886.8
-1967,Hungary,HUN,1886.8
-1968,Hungary,HUN,1886.8
-1969,Hungary,HUN,1886.8
-1970,Hungary,HUN,1886.8
-1971,Hungary,HUN,1886.8
-1972,Hungary,HUN,1886.8
-1973,Hungary,HUN,1886.8
-1974,Hungary,HUN,1886.8
-1975,Hungary,HUN,1886.8
-1976,Hungary,HUN,1886.8
-1977,Hungary,HUN,1886.8
-1978,Hungary,HUN,1886.8
-1979,Hungary,HUN,1886.8
-1980,Hungary,HUN,1886.8
-1981,Hungary,HUN,1886.8
-1982,Hungary,HUN,1886.8
-1983,Hungary,HUN,1886.8
-1984,Hungary,HUN,1886.8
-1985,Hungary,HUN,1886.8
-1986,Hungary,HUN,1886.8
-1987,Hungary,HUN,1886.8
-1988,Hungary,HUN,1886.8
-1989,Hungary,HUN,1886.8
-1990,Hungary,HUN,1886.8
-1991,Hungary,HUN,1886.8
-1992,Hungary,HUN,0.0
-1993,Hungary,HUN,0.0
-1994,Hungary,HUN,0.0
-1995,Hungary,HUN,0.0
-1996,Hungary,HUN,0.0
-1997,Hungary,HUN,0.0
-1998,Hungary,HUN,0.0
-1999,Hungary,HUN,0.0
-2000,Hungary,HUN,0.0
-2001,Hungary,HUN,0.0
-2002,Hungary,HUN,0.0
-2003,Hungary,HUN,0.0
-2004,Hungary,HUN,0.0
-2005,Hungary,HUN,0.0
-2006,Hungary,HUN,0.0
-2007,Hungary,HUN,0.0
-2008,Hungary,HUN,0.0
-2009,Hungary,HUN,0.0
-2010,Hungary,HUN,0.0
+1962,Hungary,HUN,0.0
+1963,Hungary,HUN,0.0
+1964,Hungary,HUN,0.0
+1965,Hungary,HUN,0.0
+1966,Hungary,HUN,0.0
+1967,Hungary,HUN,0.0
+1968,Hungary,HUN,0.0
+1969,Hungary,HUN,0.0
+1970,Hungary,HUN,0.0
+1971,Hungary,HUN,0.0
+1972,Hungary,HUN,0.0
+1973,Hungary,HUN,0.0
+1974,Hungary,HUN,0.0
+1975,Hungary,HUN,0.0
+1976,Hungary,HUN,0.0
+1977,Hungary,HUN,0.0
+1978,Hungary,HUN,0.0
+1979,Hungary,HUN,0.0
+1980,Hungary,HUN,0.0
+1981,Hungary,HUN,1.8868
+1982,Hungary,HUN,1.8868
+1983,Hungary,HUN,1.8868
+1984,Hungary,HUN,1.8868
+1985,Hungary,HUN,1.8868
+1986,Hungary,HUN,1.8868
+1987,Hungary,HUN,1.8868
+1988,Hungary,HUN,1.8868
+1989,Hungary,HUN,1.8868
+1990,Hungary,HUN,1.8868
+1991,Hungary,HUN,1.8868
+1992,Hungary,HUN,1.8868
+1993,Hungary,HUN,1.8868
+1994,Hungary,HUN,1.8868
+1995,Hungary,HUN,1.8868
+1996,Hungary,HUN,1.8868
+1997,Hungary,HUN,1.8868
+1998,Hungary,HUN,1.8868
+1999,Hungary,HUN,1.8868
+2000,Hungary,HUN,1.8868
+2001,Hungary,HUN,1.8868
+2002,Hungary,HUN,1.8868
+2003,Hungary,HUN,1.8868
+2004,Hungary,HUN,1.8868
+2005,Hungary,HUN,1.8868
+2006,Hungary,HUN,1.8868
+2007,Hungary,HUN,1.8868
+2008,Hungary,HUN,1.8868
+2009,Hungary,HUN,1.8868
+2010,Hungary,HUN,1.8868
 2011,Hungary,HUN,0.0
 2012,Hungary,HUN,0.0
 2013,Hungary,HUN,0.0
@@ -4493,55 +4468,55 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1969,India,IND,0.0
 1970,India,IND,0.0
 1971,India,IND,0.0
-1972,India,IND,100.0
-1973,India,IND,100.0
-1974,India,IND,2100.0
-1975,India,IND,2100.0
-1976,India,IND,2100.0
-1977,India,IND,2100.0
-1978,India,IND,2100.0
-1979,India,IND,2100.0
-1980,India,IND,2100.0
-1981,India,IND,2100.0
-1982,India,IND,2100.0
-1983,India,IND,2100.0
-1984,India,IND,2540.0
-1985,India,IND,2540.0
-1986,India,IND,2540.0
-1987,India,IND,2540.0
-1988,India,IND,2540.0
-1989,India,IND,2540.0
-1990,India,IND,2980.0
-1991,India,IND,2980.0
-1992,India,IND,2980.0
-1993,India,IND,3420.0
-1994,India,IND,3420.0
-1995,India,IND,3420.0
-1996,India,IND,4820.0
-1997,India,IND,4820.0
-1998,India,IND,4820.0
-1999,India,IND,4820.0
-2000,India,IND,5900.0
-2001,India,IND,5900.0
-2002,India,IND,5800.0
-2003,India,IND,5800.0
-2004,India,IND,4680.0
-2005,India,IND,4680.0
-2006,India,IND,4680.0
-2007,India,IND,4680.0
-2008,India,IND,4680.0
-2009,India,IND,4680.0
-2010,India,IND,4680.0
-2011,India,IND,4680.0
-2012,India,IND,4680.0
-2013,India,IND,4680.0
-2014,India,IND,4240.0
-2015,India,IND,6240.0
-2016,India,IND,6240.0
-2017,India,IND,6240.0
-2018,India,IND,6240.0
-2019,India,IND,6240.0
-2020,India,IND,5800.0
+1972,India,IND,0.1
+1973,India,IND,0.1
+1974,India,IND,0.1
+1975,India,IND,0.1
+1976,India,IND,0.1
+1977,India,IND,0.1
+1978,India,IND,0.1
+1979,India,IND,0.1
+1980,India,IND,0.1
+1981,India,IND,0.1
+1982,India,IND,0.1
+1983,India,IND,0.1
+1984,India,IND,0.54
+1985,India,IND,0.54
+1986,India,IND,0.54
+1987,India,IND,0.54
+1988,India,IND,0.54
+1989,India,IND,0.54
+1990,India,IND,0.98
+1991,India,IND,0.98
+1992,India,IND,0.98
+1993,India,IND,1.42
+1994,India,IND,1.42
+1995,India,IND,1.42
+1996,India,IND,4.82
+1997,India,IND,4.82
+1998,India,IND,4.82
+1999,India,IND,4.82
+2000,India,IND,5.9
+2001,India,IND,5.9
+2002,India,IND,5.8
+2003,India,IND,5.8
+2004,India,IND,6.68
+2005,India,IND,6.68
+2006,India,IND,6.68
+2007,India,IND,6.68
+2008,India,IND,6.68
+2009,India,IND,6.68
+2010,India,IND,6.68
+2011,India,IND,6.68
+2012,India,IND,6.68
+2013,India,IND,6.68
+2014,India,IND,6.24
+2015,India,IND,8.24
+2016,India,IND,8.24
+2017,India,IND,8.24
+2018,India,IND,8.24
+2019,India,IND,8.24
+2020,India,IND,7.8
 1920,Indonesia,IDN,0.0
 1921,Indonesia,IDN,0.0
 1922,Indonesia,IDN,0.0
@@ -4708,19 +4683,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Iraq,IRQ,0.0
 2019,Iraq,IRQ,0.0
 2020,Iraq,IRQ,0.0
-1943,Ireland,IRL,0.0
-1944,Ireland,IRL,0.0
-1945,Ireland,IRL,0.0
-1946,Ireland,IRL,0.0
-1947,Ireland,IRL,0.0
-1948,Ireland,IRL,0.0
-1949,Ireland,IRL,0.0
-1950,Ireland,IRL,0.0
-1951,Ireland,IRL,0.0
-1952,Ireland,IRL,0.0
-1953,Ireland,IRL,0.0
-1954,Ireland,IRL,0.0
-1955,Ireland,IRL,0.0
 1956,Ireland,IRL,0.0
 1957,Ireland,IRL,0.0
 1958,Ireland,IRL,0.0
@@ -4947,8 +4909,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Italy,ITA,0.0
 2019,Italy,ITA,0.0
 2020,Italy,ITA,0.0
-1943,Jamaica,JAM,0.0
-1944,Jamaica,JAM,0.0
 1945,Jamaica,JAM,0.0
 1946,Jamaica,JAM,0.0
 1947,Jamaica,JAM,0.0
@@ -5073,60 +5033,59 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1965,Japan,JPN,0.0
 1966,Japan,JPN,0.0
 1967,Japan,JPN,0.0
-1968,Japan,JPN,6490.0
-1969,Japan,JPN,6490.0
-1970,Japan,JPN,7590.0
-1971,Japan,JPN,7590.0
-1972,Japan,JPN,15802.0
-1973,Japan,JPN,15802.0
-1974,Japan,JPN,20202.0
-1975,Japan,JPN,22202.0
-1976,Japan,JPN,22202.0
-1977,Japan,JPN,22202.0
-1978,Japan,JPN,22202.0
-1979,Japan,JPN,23022.0
-1980,Japan,JPN,25196.0
-1981,Japan,JPN,25196.0
-1982,Japan,JPN,28674.0
-1983,Japan,JPN,35683.0
-1984,Japan,JPN,35683.0
-1985,Japan,JPN,35683.0
-1986,Japan,JPN,40277.0
-1987,Japan,JPN,40277.0
-1988,Japan,JPN,40277.0
-1989,Japan,JPN,40277.0
-1990,Japan,JPN,40277.0
-1991,Japan,JPN,41377.0
-1992,Japan,JPN,41377.0
-1993,Japan,JPN,41377.0
-1994,Japan,JPN,41377.0
-1995,Japan,JPN,41377.0
-1996,Japan,JPN,42537.0
-1997,Japan,JPN,42537.0
-1998,Japan,JPN,36047.0
-1999,Japan,JPN,36047.0
-2000,Japan,JPN,34947.0
-2001,Japan,JPN,34947.0
-2002,Japan,JPN,26735.0
-2003,Japan,JPN,26735.0
-2004,Japan,JPN,22335.0
-2005,Japan,JPN,20335.0
-2006,Japan,JPN,20335.0
-2007,Japan,JPN,20335.0
-2008,Japan,JPN,20335.0
-2009,Japan,JPN,19515.0
-2010,Japan,JPN,17341.0
-2011,Japan,JPN,17341.0
-2012,Japan,JPN,13863.0
-2013,Japan,JPN,6854.0
-2014,Japan,JPN,6854.0
-2015,Japan,JPN,6854.0
-2016,Japan,JPN,2260.0
-2017,Japan,JPN,2260.0
-2018,Japan,JPN,2260.0
-2019,Japan,JPN,2260.0
-2020,Japan,JPN,2260.0
-1970,Jordan,JOR,0.0
+1968,Japan,JPN,0.0
+1969,Japan,JPN,0.0
+1970,Japan,JPN,0.0
+1971,Japan,JPN,0.0
+1972,Japan,JPN,0.0
+1973,Japan,JPN,8.212
+1974,Japan,JPN,8.212
+1975,Japan,JPN,8.212
+1976,Japan,JPN,13.609000000000002
+1977,Japan,JPN,13.609000000000002
+1978,Japan,JPN,18.009
+1979,Japan,JPN,20.915
+1980,Japan,JPN,23.089
+1981,Japan,JPN,23.089
+1982,Japan,JPN,23.089
+1983,Japan,JPN,23.089
+1984,Japan,JPN,23.089
+1985,Japan,JPN,23.915
+1986,Japan,JPN,23.915
+1987,Japan,JPN,23.915
+1988,Japan,JPN,28.493
+1989,Japan,JPN,29.593000000000004
+1990,Japan,JPN,29.593000000000004
+1991,Japan,JPN,32.985
+1992,Japan,JPN,32.985
+1993,Japan,JPN,32.985
+1994,Japan,JPN,35.007
+1995,Japan,JPN,35.007
+1996,Japan,JPN,37.007
+1997,Japan,JPN,37.007
+1998,Japan,JPN,37.007
+1999,Japan,JPN,37.007
+2000,Japan,JPN,37.827
+2001,Japan,JPN,37.827
+2002,Japan,JPN,37.827
+2003,Japan,JPN,29.615
+2004,Japan,JPN,29.615
+2005,Japan,JPN,34.325
+2006,Japan,JPN,28.928
+2007,Japan,JPN,28.928
+2008,Japan,JPN,24.528
+2009,Japan,JPN,21.622
+2010,Japan,JPN,19.448
+2011,Japan,JPN,19.448
+2012,Japan,JPN,19.448
+2013,Japan,JPN,19.448
+2014,Japan,JPN,19.448
+2015,Japan,JPN,18.622
+2016,Japan,JPN,18.622
+2017,Japan,JPN,18.622
+2018,Japan,JPN,14.044
+2019,Japan,JPN,12.944
+2020,Japan,JPN,12.944
 1971,Jordan,JOR,0.0
 1972,Jordan,JOR,0.0
 1973,Jordan,JOR,0.0
@@ -5177,8 +5136,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Jordan,JOR,0.0
 2019,Jordan,JOR,0.0
 2020,Jordan,JOR,0.0
-1949,Kazakhstan,KAZ,0.0
-1950,Kazakhstan,KAZ,0.0
 1951,Kazakhstan,KAZ,0.0
 1952,Kazakhstan,KAZ,0.0
 1953,Kazakhstan,KAZ,0.0
@@ -5302,25 +5259,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Kenya,KEN,0.0
 2019,Kenya,KEN,0.0
 2020,Kenya,KEN,0.0
-1985,Kuwait,KWT,0.0
-1986,Kuwait,KWT,0.0
-1987,Kuwait,KWT,0.0
-1988,Kuwait,KWT,0.0
-1989,Kuwait,KWT,0.0
-1990,Kuwait,KWT,0.0
-1991,Kuwait,KWT,0.0
-1992,Kuwait,KWT,0.0
-1993,Kuwait,KWT,0.0
-1994,Kuwait,KWT,0.0
-1995,Kuwait,KWT,0.0
-1996,Kuwait,KWT,0.0
-1997,Kuwait,KWT,0.0
-1998,Kuwait,KWT,0.0
-1999,Kuwait,KWT,0.0
-2000,Kuwait,KWT,0.0
-2001,Kuwait,KWT,0.0
-2002,Kuwait,KWT,0.0
-2003,Kuwait,KWT,0.0
 2004,Kuwait,KWT,0.0
 2005,Kuwait,KWT,0.0
 2006,Kuwait,KWT,0.0
@@ -5338,11 +5276,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Kuwait,KWT,0.0
 2019,Kuwait,KWT,0.0
 2020,Kuwait,KWT,0.0
-1946,Kyrgyzstan,KGZ,0.0
-1947,Kyrgyzstan,KGZ,0.0
-1948,Kyrgyzstan,KGZ,0.0
-1949,Kyrgyzstan,KGZ,0.0
-1950,Kyrgyzstan,KGZ,0.0
 1951,Kyrgyzstan,KGZ,0.0
 1952,Kyrgyzstan,KGZ,0.0
 1953,Kyrgyzstan,KGZ,0.0
@@ -5564,26 +5497,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Lebanon,LBN,0.0
 2019,Lebanon,LBN,0.0
 2020,Lebanon,LBN,0.0
-1978,Lesotho,LSO,0.0
-1979,Lesotho,LSO,0.0
-1980,Lesotho,LSO,0.0
-1981,Lesotho,LSO,0.0
-1982,Lesotho,LSO,0.0
-1983,Lesotho,LSO,0.0
-1984,Lesotho,LSO,0.0
-1985,Lesotho,LSO,0.0
-1986,Lesotho,LSO,0.0
-1987,Lesotho,LSO,0.0
-1988,Lesotho,LSO,0.0
-1989,Lesotho,LSO,0.0
-1990,Lesotho,LSO,0.0
-1991,Lesotho,LSO,0.0
-1992,Lesotho,LSO,0.0
-1993,Lesotho,LSO,0.0
-1994,Lesotho,LSO,0.0
-1995,Lesotho,LSO,0.0
-1996,Lesotho,LSO,0.0
-1997,Lesotho,LSO,0.0
 1998,Lesotho,LSO,0.0
 1999,Lesotho,LSO,0.0
 2000,Lesotho,LSO,0.0
@@ -5607,21 +5520,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Lesotho,LSO,0.0
 2019,Lesotho,LSO,0.0
 2020,Lesotho,LSO,0.0
-1934,Liberia,LBR,0.0
-1935,Liberia,LBR,0.0
-1936,Liberia,LBR,0.0
-1937,Liberia,LBR,0.0
-1938,Liberia,LBR,0.0
-1939,Liberia,LBR,0.0
-1940,Liberia,LBR,0.0
-1941,Liberia,LBR,0.0
-1942,Liberia,LBR,0.0
-1943,Liberia,LBR,0.0
-1944,Liberia,LBR,0.0
-1945,Liberia,LBR,0.0
-1946,Liberia,LBR,0.0
-1947,Liberia,LBR,0.0
-1948,Liberia,LBR,0.0
 1949,Liberia,LBR,0.0
 1950,Liberia,LBR,0.0
 1951,Liberia,LBR,0.0
@@ -5739,6 +5637,15 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Libya,LBY,0.0
 2019,Libya,LBY,0.0
 2020,Libya,LBY,0.0
+1940,Lithuania,LTU,0.0
+1941,Lithuania,LTU,0.0
+1942,Lithuania,LTU,0.0
+1943,Lithuania,LTU,0.0
+1944,Lithuania,LTU,0.0
+1945,Lithuania,LTU,0.0
+1946,Lithuania,LTU,0.0
+1947,Lithuania,LTU,0.0
+1948,Lithuania,LTU,0.0
 1949,Lithuania,LTU,0.0
 1950,Lithuania,LTU,0.0
 1951,Lithuania,LTU,0.0
@@ -5811,6 +5718,28 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Lithuania,LTU,0.0
 2019,Lithuania,LTU,0.0
 2020,Lithuania,LTU,0.0
+1965,Luxembourg,LUX,0.0
+1966,Luxembourg,LUX,0.0
+1967,Luxembourg,LUX,0.0
+1968,Luxembourg,LUX,0.0
+1969,Luxembourg,LUX,0.0
+1970,Luxembourg,LUX,0.0
+1971,Luxembourg,LUX,0.0
+1972,Luxembourg,LUX,0.0
+1973,Luxembourg,LUX,0.0
+1974,Luxembourg,LUX,0.0
+1975,Luxembourg,LUX,0.0
+1976,Luxembourg,LUX,0.0
+1977,Luxembourg,LUX,0.0
+1978,Luxembourg,LUX,0.0
+1979,Luxembourg,LUX,0.0
+1980,Luxembourg,LUX,0.0
+1981,Luxembourg,LUX,0.0
+1982,Luxembourg,LUX,0.0
+1983,Luxembourg,LUX,0.0
+1984,Luxembourg,LUX,0.0
+1985,Luxembourg,LUX,0.0
+1986,Luxembourg,LUX,0.0
 1987,Luxembourg,LUX,0.0
 1988,Luxembourg,LUX,0.0
 1989,Luxembourg,LUX,0.0
@@ -5845,9 +5774,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Luxembourg,LUX,0.0
 2019,Luxembourg,LUX,0.0
 2020,Luxembourg,LUX,0.0
-1961,Madagascar,MDG,0.0
-1962,Madagascar,MDG,0.0
-1963,Madagascar,MDG,0.0
 1964,Madagascar,MDG,0.0
 1965,Madagascar,MDG,0.0
 1966,Madagascar,MDG,0.0
@@ -5905,42 +5831,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Madagascar,MDG,0.0
 2019,Madagascar,MDG,0.0
 2020,Madagascar,MDG,0.0
-1920,Malawi,MWI,0.0
-1921,Malawi,MWI,0.0
-1922,Malawi,MWI,0.0
-1923,Malawi,MWI,0.0
-1924,Malawi,MWI,0.0
-1925,Malawi,MWI,0.0
-1926,Malawi,MWI,0.0
-1927,Malawi,MWI,0.0
-1928,Malawi,MWI,0.0
-1929,Malawi,MWI,0.0
-1930,Malawi,MWI,0.0
-1931,Malawi,MWI,0.0
-1932,Malawi,MWI,0.0
-1933,Malawi,MWI,0.0
-1934,Malawi,MWI,0.0
-1935,Malawi,MWI,0.0
-1936,Malawi,MWI,0.0
-1937,Malawi,MWI,0.0
-1938,Malawi,MWI,0.0
-1939,Malawi,MWI,0.0
-1940,Malawi,MWI,0.0
-1941,Malawi,MWI,0.0
-1942,Malawi,MWI,0.0
-1943,Malawi,MWI,0.0
-1944,Malawi,MWI,0.0
-1945,Malawi,MWI,0.0
-1946,Malawi,MWI,0.0
-1947,Malawi,MWI,0.0
-1948,Malawi,MWI,0.0
-1949,Malawi,MWI,0.0
-1950,Malawi,MWI,0.0
-1951,Malawi,MWI,0.0
-1952,Malawi,MWI,0.0
-1953,Malawi,MWI,0.0
-1954,Malawi,MWI,0.0
-1955,Malawi,MWI,0.0
 1956,Malawi,MWI,0.0
 1957,Malawi,MWI,0.0
 1958,Malawi,MWI,0.0
@@ -6006,20 +5896,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Malawi,MWI,0.0
 2019,Malawi,MWI,0.0
 2020,Malawi,MWI,0.0
-1920,Malaysia,MYS,0.0
-1921,Malaysia,MYS,0.0
-1922,Malaysia,MYS,0.0
-1923,Malaysia,MYS,0.0
-1924,Malaysia,MYS,0.0
-1925,Malaysia,MYS,0.0
-1926,Malaysia,MYS,0.0
-1927,Malaysia,MYS,0.0
-1928,Malaysia,MYS,0.0
-1929,Malaysia,MYS,0.0
-1930,Malaysia,MYS,0.0
-1931,Malaysia,MYS,0.0
-1932,Malaysia,MYS,0.0
-1933,Malaysia,MYS,0.0
 1934,Malaysia,MYS,0.0
 1935,Malaysia,MYS,0.0
 1936,Malaysia,MYS,0.0
@@ -6107,6 +5983,21 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Malaysia,MYS,0.0
 2019,Malaysia,MYS,0.0
 2020,Malaysia,MYS,0.0
+1920,Mali,MLI,0.0
+1921,Mali,MLI,0.0
+1922,Mali,MLI,0.0
+1923,Mali,MLI,0.0
+1924,Mali,MLI,0.0
+1925,Mali,MLI,0.0
+1926,Mali,MLI,0.0
+1927,Mali,MLI,0.0
+1928,Mali,MLI,0.0
+1929,Mali,MLI,0.0
+1930,Mali,MLI,0.0
+1931,Mali,MLI,0.0
+1932,Mali,MLI,0.0
+1933,Mali,MLI,0.0
+1934,Mali,MLI,0.0
 1935,Mali,MLI,0.0
 1936,Mali,MLI,0.0
 1937,Mali,MLI,0.0
@@ -6193,30 +6084,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Mali,MLI,0.0
 2019,Mali,MLI,0.0
 2020,Mali,MLI,0.0
-1953,Mauritania,MRT,0.0
-1954,Mauritania,MRT,0.0
-1955,Mauritania,MRT,0.0
-1956,Mauritania,MRT,0.0
-1957,Mauritania,MRT,0.0
-1958,Mauritania,MRT,0.0
-1959,Mauritania,MRT,0.0
-1960,Mauritania,MRT,0.0
-1961,Mauritania,MRT,0.0
-1962,Mauritania,MRT,0.0
-1963,Mauritania,MRT,0.0
-1964,Mauritania,MRT,0.0
-1965,Mauritania,MRT,0.0
-1966,Mauritania,MRT,0.0
-1967,Mauritania,MRT,0.0
-1968,Mauritania,MRT,0.0
-1969,Mauritania,MRT,0.0
-1970,Mauritania,MRT,0.0
-1971,Mauritania,MRT,0.0
-1972,Mauritania,MRT,0.0
-1973,Mauritania,MRT,0.0
-1974,Mauritania,MRT,0.0
-1975,Mauritania,MRT,0.0
-1976,Mauritania,MRT,0.0
 1977,Mauritania,MRT,0.0
 1978,Mauritania,MRT,0.0
 1979,Mauritania,MRT,0.0
@@ -6261,15 +6128,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Mauritania,MRT,0.0
 2019,Mauritania,MRT,0.0
 2020,Mauritania,MRT,0.0
-1933,Mauritius,MUS,0.0
-1934,Mauritius,MUS,0.0
-1935,Mauritius,MUS,0.0
-1936,Mauritius,MUS,0.0
-1937,Mauritius,MUS,0.0
-1938,Mauritius,MUS,0.0
-1939,Mauritius,MUS,0.0
-1940,Mauritius,MUS,0.0
-1941,Mauritius,MUS,0.0
 1942,Mauritius,MUS,0.0
 1943,Mauritius,MUS,0.0
 1944,Mauritius,MUS,0.0
@@ -6412,36 +6270,36 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1980,Mexico,MEX,0.0
 1981,Mexico,MEX,0.0
 1982,Mexico,MEX,0.0
-1983,Mexico,MEX,1510.0
-1984,Mexico,MEX,1510.0
-1985,Mexico,MEX,1510.0
-1986,Mexico,MEX,1510.0
-1987,Mexico,MEX,1510.0
-1988,Mexico,MEX,1510.0
-1989,Mexico,MEX,1510.0
-1990,Mexico,MEX,1510.0
-1991,Mexico,MEX,1510.0
-1992,Mexico,MEX,1510.0
-1993,Mexico,MEX,1510.0
-1994,Mexico,MEX,1510.0
-1995,Mexico,MEX,1510.0
-1996,Mexico,MEX,1510.0
-1997,Mexico,MEX,1510.0
-1998,Mexico,MEX,1510.0
-1999,Mexico,MEX,1510.0
-2000,Mexico,MEX,1510.0
-2001,Mexico,MEX,1510.0
-2002,Mexico,MEX,1510.0
-2003,Mexico,MEX,1510.0
-2004,Mexico,MEX,1510.0
-2005,Mexico,MEX,1510.0
-2006,Mexico,MEX,1510.0
-2007,Mexico,MEX,1510.0
-2008,Mexico,MEX,1510.0
-2009,Mexico,MEX,1510.0
-2010,Mexico,MEX,1510.0
-2011,Mexico,MEX,1510.0
-2012,Mexico,MEX,1510.0
+1983,Mexico,MEX,1.51
+1984,Mexico,MEX,1.51
+1985,Mexico,MEX,1.51
+1986,Mexico,MEX,1.51
+1987,Mexico,MEX,1.51
+1988,Mexico,MEX,1.51
+1989,Mexico,MEX,1.51
+1990,Mexico,MEX,1.51
+1991,Mexico,MEX,1.51
+1992,Mexico,MEX,1.51
+1993,Mexico,MEX,1.51
+1994,Mexico,MEX,1.51
+1995,Mexico,MEX,1.51
+1996,Mexico,MEX,1.51
+1997,Mexico,MEX,1.51
+1998,Mexico,MEX,1.51
+1999,Mexico,MEX,1.51
+2000,Mexico,MEX,1.51
+2001,Mexico,MEX,1.51
+2002,Mexico,MEX,1.51
+2003,Mexico,MEX,1.51
+2004,Mexico,MEX,1.51
+2005,Mexico,MEX,1.51
+2006,Mexico,MEX,1.51
+2007,Mexico,MEX,1.51
+2008,Mexico,MEX,1.51
+2009,Mexico,MEX,1.51
+2010,Mexico,MEX,1.51
+2011,Mexico,MEX,1.51
+2012,Mexico,MEX,1.51
 2013,Mexico,MEX,0.0
 2014,Mexico,MEX,0.0
 2015,Mexico,MEX,0.0
@@ -6489,78 +6347,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Mongolia,MNG,0.0
 2019,Mongolia,MNG,0.0
 2020,Mongolia,MNG,0.0
-1922,Montenegro,MNE,0.0
-1923,Montenegro,MNE,0.0
-1924,Montenegro,MNE,0.0
-1925,Montenegro,MNE,0.0
-1926,Montenegro,MNE,0.0
-1927,Montenegro,MNE,0.0
-1928,Montenegro,MNE,0.0
-1929,Montenegro,MNE,0.0
-1930,Montenegro,MNE,0.0
-1931,Montenegro,MNE,0.0
-1932,Montenegro,MNE,0.0
-1933,Montenegro,MNE,0.0
-1934,Montenegro,MNE,0.0
-1935,Montenegro,MNE,0.0
-1936,Montenegro,MNE,0.0
-1937,Montenegro,MNE,0.0
-1938,Montenegro,MNE,0.0
-1939,Montenegro,MNE,0.0
-1940,Montenegro,MNE,0.0
-1941,Montenegro,MNE,0.0
-1942,Montenegro,MNE,0.0
-1943,Montenegro,MNE,0.0
-1944,Montenegro,MNE,0.0
-1945,Montenegro,MNE,0.0
-1946,Montenegro,MNE,0.0
-1947,Montenegro,MNE,0.0
-1948,Montenegro,MNE,0.0
-1949,Montenegro,MNE,0.0
-1950,Montenegro,MNE,0.0
-1951,Montenegro,MNE,0.0
-1952,Montenegro,MNE,0.0
-1953,Montenegro,MNE,0.0
-1954,Montenegro,MNE,0.0
-1955,Montenegro,MNE,0.0
-1956,Montenegro,MNE,0.0
-1957,Montenegro,MNE,0.0
-1958,Montenegro,MNE,0.0
-1959,Montenegro,MNE,0.0
-1960,Montenegro,MNE,0.0
-1961,Montenegro,MNE,0.0
-1962,Montenegro,MNE,0.0
-1963,Montenegro,MNE,0.0
-1964,Montenegro,MNE,0.0
-1965,Montenegro,MNE,0.0
-1966,Montenegro,MNE,0.0
-1967,Montenegro,MNE,0.0
-1968,Montenegro,MNE,0.0
-1969,Montenegro,MNE,0.0
-1970,Montenegro,MNE,0.0
-1971,Montenegro,MNE,0.0
-1972,Montenegro,MNE,0.0
-1973,Montenegro,MNE,0.0
-1974,Montenegro,MNE,0.0
-1975,Montenegro,MNE,0.0
-1976,Montenegro,MNE,0.0
-1977,Montenegro,MNE,0.0
-1978,Montenegro,MNE,0.0
-1979,Montenegro,MNE,0.0
-1980,Montenegro,MNE,0.0
-1981,Montenegro,MNE,0.0
-1982,Montenegro,MNE,0.0
-1983,Montenegro,MNE,0.0
-1984,Montenegro,MNE,0.0
-1985,Montenegro,MNE,0.0
-1986,Montenegro,MNE,0.0
-1987,Montenegro,MNE,0.0
-1988,Montenegro,MNE,0.0
-1989,Montenegro,MNE,0.0
-1990,Montenegro,MNE,0.0
-1991,Montenegro,MNE,0.0
-1992,Montenegro,MNE,0.0
-1993,Montenegro,MNE,0.0
 1994,Montenegro,MNE,0.0
 1995,Montenegro,MNE,0.0
 1996,Montenegro,MNE,0.0
@@ -6780,38 +6566,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Myanmar,MMR,0.0
 2019,Myanmar,MMR,0.0
 2020,Myanmar,MMR,0.0
-1951,Namibia,NAM,0.0
-1952,Namibia,NAM,0.0
-1953,Namibia,NAM,0.0
-1954,Namibia,NAM,0.0
-1955,Namibia,NAM,0.0
-1956,Namibia,NAM,0.0
-1957,Namibia,NAM,0.0
-1958,Namibia,NAM,0.0
-1959,Namibia,NAM,0.0
-1960,Namibia,NAM,0.0
-1961,Namibia,NAM,0.0
-1962,Namibia,NAM,0.0
-1963,Namibia,NAM,0.0
-1964,Namibia,NAM,0.0
-1965,Namibia,NAM,0.0
-1966,Namibia,NAM,0.0
-1967,Namibia,NAM,0.0
-1968,Namibia,NAM,0.0
-1969,Namibia,NAM,0.0
-1970,Namibia,NAM,0.0
-1971,Namibia,NAM,0.0
-1972,Namibia,NAM,0.0
-1973,Namibia,NAM,0.0
-1974,Namibia,NAM,0.0
-1975,Namibia,NAM,0.0
-1976,Namibia,NAM,0.0
-1977,Namibia,NAM,0.0
-1978,Namibia,NAM,0.0
-1979,Namibia,NAM,0.0
-1980,Namibia,NAM,0.0
-1981,Namibia,NAM,0.0
-1982,Namibia,NAM,0.0
 1983,Namibia,NAM,0.0
 1984,Namibia,NAM,0.0
 1985,Namibia,NAM,0.0
@@ -6850,6 +6604,29 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Namibia,NAM,0.0
 2019,Namibia,NAM,0.0
 2020,Namibia,NAM,0.0
+1920,Nepal,NPL,0.0
+1921,Nepal,NPL,0.0
+1922,Nepal,NPL,0.0
+1923,Nepal,NPL,0.0
+1924,Nepal,NPL,0.0
+1925,Nepal,NPL,0.0
+1926,Nepal,NPL,0.0
+1927,Nepal,NPL,0.0
+1928,Nepal,NPL,0.0
+1929,Nepal,NPL,0.0
+1930,Nepal,NPL,0.0
+1931,Nepal,NPL,0.0
+1932,Nepal,NPL,0.0
+1933,Nepal,NPL,0.0
+1934,Nepal,NPL,0.0
+1935,Nepal,NPL,0.0
+1936,Nepal,NPL,0.0
+1937,Nepal,NPL,0.0
+1938,Nepal,NPL,0.0
+1939,Nepal,NPL,0.0
+1940,Nepal,NPL,0.0
+1941,Nepal,NPL,0.0
+1942,Nepal,NPL,0.0
 1943,Nepal,NPL,0.0
 1944,Nepal,NPL,0.0
 1945,Nepal,NPL,0.0
@@ -6928,7 +6705,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Nepal,NPL,0.0
 2019,Nepal,NPL,0.0
 2020,Nepal,NPL,0.0
-1965,Netherlands,NLD,0.0
 1966,Netherlands,NLD,0.0
 1967,Netherlands,NLD,0.0
 1968,Netherlands,NLD,0.0
@@ -6936,36 +6712,36 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1970,Netherlands,NLD,0.0
 1971,Netherlands,NLD,0.0
 1972,Netherlands,NLD,0.0
-1973,Netherlands,NLD,485.0
-1974,Netherlands,NLD,485.0
-1975,Netherlands,NLD,485.0
-1976,Netherlands,NLD,485.0
-1977,Netherlands,NLD,485.0
-1978,Netherlands,NLD,485.0
-1979,Netherlands,NLD,485.0
-1980,Netherlands,NLD,485.0
-1981,Netherlands,NLD,485.0
-1982,Netherlands,NLD,485.0
-1983,Netherlands,NLD,485.0
-1984,Netherlands,NLD,485.0
-1985,Netherlands,NLD,485.0
-1986,Netherlands,NLD,485.0
-1987,Netherlands,NLD,485.0
-1988,Netherlands,NLD,485.0
-1989,Netherlands,NLD,485.0
-1990,Netherlands,NLD,485.0
-1991,Netherlands,NLD,485.0
-1992,Netherlands,NLD,485.0
-1993,Netherlands,NLD,485.0
-1994,Netherlands,NLD,485.0
-1995,Netherlands,NLD,485.0
-1996,Netherlands,NLD,485.0
-1997,Netherlands,NLD,485.0
-1998,Netherlands,NLD,485.0
-1999,Netherlands,NLD,485.0
-2000,Netherlands,NLD,485.0
-2001,Netherlands,NLD,485.0
-2002,Netherlands,NLD,485.0
+1973,Netherlands,NLD,0.485
+1974,Netherlands,NLD,0.485
+1975,Netherlands,NLD,0.485
+1976,Netherlands,NLD,0.485
+1977,Netherlands,NLD,0.485
+1978,Netherlands,NLD,0.485
+1979,Netherlands,NLD,0.485
+1980,Netherlands,NLD,0.485
+1981,Netherlands,NLD,0.485
+1982,Netherlands,NLD,0.485
+1983,Netherlands,NLD,0.485
+1984,Netherlands,NLD,0.485
+1985,Netherlands,NLD,0.485
+1986,Netherlands,NLD,0.485
+1987,Netherlands,NLD,0.485
+1988,Netherlands,NLD,0.485
+1989,Netherlands,NLD,0.485
+1990,Netherlands,NLD,0.485
+1991,Netherlands,NLD,0.485
+1992,Netherlands,NLD,0.485
+1993,Netherlands,NLD,0.485
+1994,Netherlands,NLD,0.485
+1995,Netherlands,NLD,0.485
+1996,Netherlands,NLD,0.485
+1997,Netherlands,NLD,0.485
+1998,Netherlands,NLD,0.485
+1999,Netherlands,NLD,0.485
+2000,Netherlands,NLD,0.485
+2001,Netherlands,NLD,0.485
+2002,Netherlands,NLD,0.485
 2003,Netherlands,NLD,0.0
 2004,Netherlands,NLD,0.0
 2005,Netherlands,NLD,0.0
@@ -7085,6 +6861,41 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,New Zealand,NZL,0.0
 2019,New Zealand,NZL,0.0
 2020,New Zealand,NZL,0.0
+1920,Nicaragua,NIC,0.0
+1921,Nicaragua,NIC,0.0
+1922,Nicaragua,NIC,0.0
+1923,Nicaragua,NIC,0.0
+1924,Nicaragua,NIC,0.0
+1925,Nicaragua,NIC,0.0
+1926,Nicaragua,NIC,0.0
+1927,Nicaragua,NIC,0.0
+1928,Nicaragua,NIC,0.0
+1929,Nicaragua,NIC,0.0
+1930,Nicaragua,NIC,0.0
+1931,Nicaragua,NIC,0.0
+1932,Nicaragua,NIC,0.0
+1933,Nicaragua,NIC,0.0
+1934,Nicaragua,NIC,0.0
+1935,Nicaragua,NIC,0.0
+1936,Nicaragua,NIC,0.0
+1937,Nicaragua,NIC,0.0
+1938,Nicaragua,NIC,0.0
+1939,Nicaragua,NIC,0.0
+1940,Nicaragua,NIC,0.0
+1941,Nicaragua,NIC,0.0
+1942,Nicaragua,NIC,0.0
+1943,Nicaragua,NIC,0.0
+1944,Nicaragua,NIC,0.0
+1945,Nicaragua,NIC,0.0
+1946,Nicaragua,NIC,0.0
+1947,Nicaragua,NIC,0.0
+1948,Nicaragua,NIC,0.0
+1949,Nicaragua,NIC,0.0
+1950,Nicaragua,NIC,0.0
+1951,Nicaragua,NIC,0.0
+1952,Nicaragua,NIC,0.0
+1953,Nicaragua,NIC,0.0
+1954,Nicaragua,NIC,0.0
 1955,Nicaragua,NIC,0.0
 1956,Nicaragua,NIC,0.0
 1957,Nicaragua,NIC,0.0
@@ -7210,27 +7021,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Niger,NER,0.0
 2019,Niger,NER,0.0
 2020,Niger,NER,0.0
-1932,Nigeria,NGA,0.0
-1933,Nigeria,NGA,0.0
-1934,Nigeria,NGA,0.0
-1935,Nigeria,NGA,0.0
-1936,Nigeria,NGA,0.0
-1937,Nigeria,NGA,0.0
-1938,Nigeria,NGA,0.0
-1939,Nigeria,NGA,0.0
-1940,Nigeria,NGA,0.0
-1941,Nigeria,NGA,0.0
-1942,Nigeria,NGA,0.0
-1943,Nigeria,NGA,0.0
-1944,Nigeria,NGA,0.0
-1945,Nigeria,NGA,0.0
-1946,Nigeria,NGA,0.0
-1947,Nigeria,NGA,0.0
-1948,Nigeria,NGA,0.0
-1949,Nigeria,NGA,0.0
-1950,Nigeria,NGA,0.0
-1951,Nigeria,NGA,0.0
-1952,Nigeria,NGA,0.0
 1953,Nigeria,NGA,0.0
 1954,Nigeria,NGA,0.0
 1955,Nigeria,NGA,0.0
@@ -7445,24 +7235,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Oman,OMN,0.0
 2019,Oman,OMN,0.0
 2020,Oman,OMN,0.0
-1930,Pakistan,PAK,0.0
-1931,Pakistan,PAK,0.0
-1932,Pakistan,PAK,0.0
-1933,Pakistan,PAK,0.0
-1934,Pakistan,PAK,0.0
-1935,Pakistan,PAK,0.0
-1936,Pakistan,PAK,0.0
-1937,Pakistan,PAK,0.0
-1938,Pakistan,PAK,0.0
-1939,Pakistan,PAK,0.0
-1940,Pakistan,PAK,0.0
-1941,Pakistan,PAK,0.0
-1942,Pakistan,PAK,0.0
-1943,Pakistan,PAK,0.0
-1944,Pakistan,PAK,0.0
-1945,Pakistan,PAK,0.0
-1946,Pakistan,PAK,0.0
-1947,Pakistan,PAK,0.0
 1948,Pakistan,PAK,0.0
 1949,Pakistan,PAK,0.0
 1950,Pakistan,PAK,0.0
@@ -7486,56 +7258,70 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1968,Pakistan,PAK,0.0
 1969,Pakistan,PAK,0.0
 1970,Pakistan,PAK,0.0
-1971,Pakistan,PAK,137.0
-1972,Pakistan,PAK,137.0
-1973,Pakistan,PAK,1467.0
-1974,Pakistan,PAK,1467.0
-1975,Pakistan,PAK,1467.0
-1976,Pakistan,PAK,1467.0
-1977,Pakistan,PAK,1467.0
-1978,Pakistan,PAK,1467.0
-1979,Pakistan,PAK,1467.0
-1980,Pakistan,PAK,1467.0
-1981,Pakistan,PAK,1467.0
-1982,Pakistan,PAK,1467.0
-1983,Pakistan,PAK,1467.0
-1984,Pakistan,PAK,1467.0
-1985,Pakistan,PAK,1467.0
-1986,Pakistan,PAK,1467.0
-1987,Pakistan,PAK,1467.0
-1988,Pakistan,PAK,1467.0
-1989,Pakistan,PAK,1467.0
-1990,Pakistan,PAK,1467.0
-1991,Pakistan,PAK,1467.0
-1992,Pakistan,PAK,1467.0
-1993,Pakistan,PAK,1467.0
-1994,Pakistan,PAK,1467.0
-1995,Pakistan,PAK,1467.0
-1996,Pakistan,PAK,1467.0
-1997,Pakistan,PAK,1467.0
-1998,Pakistan,PAK,1467.0
-1999,Pakistan,PAK,1467.0
-2000,Pakistan,PAK,1467.0
-2001,Pakistan,PAK,1330.0
-2002,Pakistan,PAK,1330.0
-2003,Pakistan,PAK,0.0
-2004,Pakistan,PAK,0.0
-2005,Pakistan,PAK,0.0
-2006,Pakistan,PAK,0.0
-2007,Pakistan,PAK,0.0
-2008,Pakistan,PAK,0.0
-2009,Pakistan,PAK,0.0
-2010,Pakistan,PAK,0.0
-2011,Pakistan,PAK,0.0
-2012,Pakistan,PAK,0.0
-2013,Pakistan,PAK,0.0
-2014,Pakistan,PAK,0.0
-2015,Pakistan,PAK,0.0
-2016,Pakistan,PAK,0.0
-2017,Pakistan,PAK,0.0
-2018,Pakistan,PAK,0.0
-2019,Pakistan,PAK,0.0
-2020,Pakistan,PAK,0.0
+1971,Pakistan,PAK,0.13699999999999998
+1972,Pakistan,PAK,0.13699999999999998
+1973,Pakistan,PAK,0.13699999999999998
+1974,Pakistan,PAK,0.13699999999999998
+1975,Pakistan,PAK,0.13699999999999998
+1976,Pakistan,PAK,0.13699999999999998
+1977,Pakistan,PAK,0.13699999999999998
+1978,Pakistan,PAK,0.13699999999999998
+1979,Pakistan,PAK,0.13699999999999998
+1980,Pakistan,PAK,0.13699999999999998
+1981,Pakistan,PAK,0.13699999999999998
+1982,Pakistan,PAK,0.13699999999999998
+1983,Pakistan,PAK,0.13699999999999998
+1984,Pakistan,PAK,0.13699999999999998
+1985,Pakistan,PAK,0.13699999999999998
+1986,Pakistan,PAK,0.13699999999999998
+1987,Pakistan,PAK,0.13699999999999998
+1988,Pakistan,PAK,0.13699999999999998
+1989,Pakistan,PAK,0.13699999999999998
+1990,Pakistan,PAK,0.13699999999999998
+1991,Pakistan,PAK,0.13699999999999998
+1992,Pakistan,PAK,0.13699999999999998
+1993,Pakistan,PAK,0.13699999999999998
+1994,Pakistan,PAK,1.4669999999999999
+1995,Pakistan,PAK,1.4669999999999999
+1996,Pakistan,PAK,1.4669999999999999
+1997,Pakistan,PAK,1.4669999999999999
+1998,Pakistan,PAK,1.4669999999999999
+1999,Pakistan,PAK,1.4669999999999999
+2000,Pakistan,PAK,1.4669999999999999
+2001,Pakistan,PAK,1.33
+2002,Pakistan,PAK,1.33
+2003,Pakistan,PAK,1.33
+2004,Pakistan,PAK,1.33
+2005,Pakistan,PAK,1.33
+2006,Pakistan,PAK,1.33
+2007,Pakistan,PAK,1.33
+2008,Pakistan,PAK,1.33
+2009,Pakistan,PAK,1.33
+2010,Pakistan,PAK,1.33
+2011,Pakistan,PAK,1.33
+2012,Pakistan,PAK,1.33
+2013,Pakistan,PAK,1.33
+2014,Pakistan,PAK,1.33
+2015,Pakistan,PAK,1.33
+2016,Pakistan,PAK,1.33
+2017,Pakistan,PAK,1.33
+2018,Pakistan,PAK,1.33
+2019,Pakistan,PAK,1.33
+2020,Pakistan,PAK,1.33
+1920,Panama,PAN,0.0
+1921,Panama,PAN,0.0
+1922,Panama,PAN,0.0
+1923,Panama,PAN,0.0
+1924,Panama,PAN,0.0
+1925,Panama,PAN,0.0
+1926,Panama,PAN,0.0
+1927,Panama,PAN,0.0
+1928,Panama,PAN,0.0
+1929,Panama,PAN,0.0
+1930,Panama,PAN,0.0
+1931,Panama,PAN,0.0
+1932,Panama,PAN,0.0
+1933,Panama,PAN,0.0
 1934,Panama,PAN,0.0
 1935,Panama,PAN,0.0
 1936,Panama,PAN,0.0
@@ -7623,6 +7409,36 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Panama,PAN,0.0
 2019,Panama,PAN,0.0
 2020,Panama,PAN,0.0
+1920,Papua New Guinea,PNG,0.0
+1921,Papua New Guinea,PNG,0.0
+1922,Papua New Guinea,PNG,0.0
+1923,Papua New Guinea,PNG,0.0
+1924,Papua New Guinea,PNG,0.0
+1925,Papua New Guinea,PNG,0.0
+1926,Papua New Guinea,PNG,0.0
+1927,Papua New Guinea,PNG,0.0
+1928,Papua New Guinea,PNG,0.0
+1929,Papua New Guinea,PNG,0.0
+1930,Papua New Guinea,PNG,0.0
+1931,Papua New Guinea,PNG,0.0
+1932,Papua New Guinea,PNG,0.0
+1933,Papua New Guinea,PNG,0.0
+1934,Papua New Guinea,PNG,0.0
+1935,Papua New Guinea,PNG,0.0
+1936,Papua New Guinea,PNG,0.0
+1937,Papua New Guinea,PNG,0.0
+1938,Papua New Guinea,PNG,0.0
+1939,Papua New Guinea,PNG,0.0
+1940,Papua New Guinea,PNG,0.0
+1941,Papua New Guinea,PNG,0.0
+1942,Papua New Guinea,PNG,0.0
+1943,Papua New Guinea,PNG,0.0
+1944,Papua New Guinea,PNG,0.0
+1945,Papua New Guinea,PNG,0.0
+1946,Papua New Guinea,PNG,0.0
+1947,Papua New Guinea,PNG,0.0
+1948,Papua New Guinea,PNG,0.0
+1949,Papua New Guinea,PNG,0.0
 1950,Papua New Guinea,PNG,0.0
 1951,Papua New Guinea,PNG,0.0
 1952,Papua New Guinea,PNG,0.0
@@ -7734,18 +7550,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Paraguay,PRY,0.0
 2019,Paraguay,PRY,0.0
 2020,Paraguay,PRY,0.0
-1925,Peru,PER,0.0
-1926,Peru,PER,0.0
-1927,Peru,PER,0.0
-1928,Peru,PER,0.0
-1929,Peru,PER,0.0
-1930,Peru,PER,0.0
-1931,Peru,PER,0.0
-1932,Peru,PER,0.0
-1933,Peru,PER,0.0
-1934,Peru,PER,0.0
-1935,Peru,PER,0.0
-1936,Peru,PER,0.0
 1937,Peru,PER,0.0
 1938,Peru,PER,0.0
 1939,Peru,PER,0.0
@@ -7830,9 +7634,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Peru,PER,0.0
 2019,Peru,PER,0.0
 2020,Peru,PER,0.0
-1922,Philippines,PHL,0.0
-1923,Philippines,PHL,0.0
-1924,Philippines,PHL,0.0
 1925,Philippines,PHL,0.0
 1926,Philippines,PHL,0.0
 1927,Philippines,PHL,0.0
@@ -8131,7 +7932,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Portugal,PRT,0.0
 2019,Portugal,PRT,0.0
 2020,Portugal,PRT,0.0
-1969,Qatar,QAT,0.0
 1970,Qatar,QAT,0.0
 1971,Qatar,QAT,0.0
 1972,Qatar,QAT,0.0
@@ -8183,6 +7983,50 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Qatar,QAT,0.0
 2019,Qatar,QAT,0.0
 2020,Qatar,QAT,0.0
+1920,Romania,ROU,0.0
+1921,Romania,ROU,0.0
+1922,Romania,ROU,0.0
+1923,Romania,ROU,0.0
+1924,Romania,ROU,0.0
+1925,Romania,ROU,0.0
+1926,Romania,ROU,0.0
+1927,Romania,ROU,0.0
+1928,Romania,ROU,0.0
+1929,Romania,ROU,0.0
+1930,Romania,ROU,0.0
+1931,Romania,ROU,0.0
+1932,Romania,ROU,0.0
+1933,Romania,ROU,0.0
+1934,Romania,ROU,0.0
+1935,Romania,ROU,0.0
+1936,Romania,ROU,0.0
+1937,Romania,ROU,0.0
+1938,Romania,ROU,0.0
+1939,Romania,ROU,0.0
+1940,Romania,ROU,0.0
+1941,Romania,ROU,0.0
+1942,Romania,ROU,0.0
+1943,Romania,ROU,0.0
+1944,Romania,ROU,0.0
+1945,Romania,ROU,0.0
+1946,Romania,ROU,0.0
+1947,Romania,ROU,0.0
+1948,Romania,ROU,0.0
+1949,Romania,ROU,0.0
+1950,Romania,ROU,0.0
+1951,Romania,ROU,0.0
+1952,Romania,ROU,0.0
+1953,Romania,ROU,0.0
+1954,Romania,ROU,0.0
+1955,Romania,ROU,0.0
+1956,Romania,ROU,0.0
+1957,Romania,ROU,0.0
+1958,Romania,ROU,0.0
+1959,Romania,ROU,0.0
+1960,Romania,ROU,0.0
+1961,Romania,ROU,0.0
+1962,Romania,ROU,0.0
+1963,Romania,ROU,0.0
 1964,Romania,ROU,0.0
 1965,Romania,ROU,0.0
 1966,Romania,ROU,0.0
@@ -8194,42 +8038,42 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1972,Romania,ROU,0.0
 1973,Romania,ROU,0.0
 1974,Romania,ROU,0.0
-1975,Romania,ROU,1298.0
-1976,Romania,ROU,1298.0
-1977,Romania,ROU,1298.0
-1978,Romania,ROU,1298.0
-1979,Romania,ROU,1298.0
-1980,Romania,ROU,1298.0
-1981,Romania,ROU,1298.0
-1982,Romania,ROU,1298.0
-1983,Romania,ROU,1298.0
-1984,Romania,ROU,1298.0
-1985,Romania,ROU,1298.0
-1986,Romania,ROU,1298.0
-1987,Romania,ROU,1298.0
-1988,Romania,ROU,1298.0
-1989,Romania,ROU,1298.0
-1990,Romania,ROU,1298.0
-1991,Romania,ROU,1298.0
-1992,Romania,ROU,1298.0
-1993,Romania,ROU,1298.0
-1994,Romania,ROU,1298.0
-1995,Romania,ROU,1298.0
-1996,Romania,ROU,1298.0
-1997,Romania,ROU,1298.0
-1998,Romania,ROU,1298.0
-1999,Romania,ROU,1298.0
-2000,Romania,ROU,1298.0
-2001,Romania,ROU,1298.0
-2002,Romania,ROU,1298.0
-2003,Romania,ROU,1298.0
-2004,Romania,ROU,1298.0
-2005,Romania,ROU,0.0
-2006,Romania,ROU,0.0
-2007,Romania,ROU,0.0
-2008,Romania,ROU,0.0
-2009,Romania,ROU,0.0
-2010,Romania,ROU,0.0
+1975,Romania,ROU,0.0
+1976,Romania,ROU,0.0
+1977,Romania,ROU,0.0
+1978,Romania,ROU,0.0
+1979,Romania,ROU,0.0
+1980,Romania,ROU,0.0
+1981,Romania,ROU,1.298
+1982,Romania,ROU,1.298
+1983,Romania,ROU,1.298
+1984,Romania,ROU,1.298
+1985,Romania,ROU,1.298
+1986,Romania,ROU,1.298
+1987,Romania,ROU,1.298
+1988,Romania,ROU,1.298
+1989,Romania,ROU,1.298
+1990,Romania,ROU,1.298
+1991,Romania,ROU,1.298
+1992,Romania,ROU,1.298
+1993,Romania,ROU,1.298
+1994,Romania,ROU,1.298
+1995,Romania,ROU,1.298
+1996,Romania,ROU,1.298
+1997,Romania,ROU,1.298
+1998,Romania,ROU,1.298
+1999,Romania,ROU,1.298
+2000,Romania,ROU,1.298
+2001,Romania,ROU,1.298
+2002,Romania,ROU,1.298
+2003,Romania,ROU,1.298
+2004,Romania,ROU,1.298
+2005,Romania,ROU,1.298
+2006,Romania,ROU,1.298
+2007,Romania,ROU,1.298
+2008,Romania,ROU,1.298
+2009,Romania,ROU,1.298
+2010,Romania,ROU,1.298
 2011,Romania,ROU,0.0
 2012,Romania,ROU,0.0
 2013,Romania,ROU,0.0
@@ -8303,6 +8147,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Rwanda,RWA,0.0
 2019,Rwanda,RWA,0.0
 2020,Rwanda,RWA,0.0
+2015,Saint Lucia,LCA,0.0
+2016,Saint Lucia,LCA,0.0
 2017,Saint Lucia,LCA,0.0
 2018,Saint Lucia,LCA,0.0
 2019,Saint Lucia,LCA,0.0
@@ -8356,6 +8202,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Saudi Arabia,SAU,0.0
 2019,Saudi Arabia,SAU,0.0
 2020,Saudi Arabia,SAU,0.0
+1935,Senegal,SEN,0.0
+1936,Senegal,SEN,0.0
+1937,Senegal,SEN,0.0
+1938,Senegal,SEN,0.0
+1939,Senegal,SEN,0.0
+1940,Senegal,SEN,0.0
+1941,Senegal,SEN,0.0
+1942,Senegal,SEN,0.0
+1943,Senegal,SEN,0.0
+1944,Senegal,SEN,0.0
+1945,Senegal,SEN,0.0
+1946,Senegal,SEN,0.0
 1947,Senegal,SEN,0.0
 1948,Senegal,SEN,0.0
 1949,Senegal,SEN,0.0
@@ -8430,32 +8288,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Senegal,SEN,0.0
 2019,Senegal,SEN,0.0
 2020,Senegal,SEN,0.0
-1935,Serbia,SRB,0.0
-1936,Serbia,SRB,0.0
-1937,Serbia,SRB,0.0
-1938,Serbia,SRB,0.0
-1939,Serbia,SRB,0.0
-1940,Serbia,SRB,0.0
-1941,Serbia,SRB,0.0
-1942,Serbia,SRB,0.0
-1943,Serbia,SRB,0.0
-1944,Serbia,SRB,0.0
-1945,Serbia,SRB,0.0
-1946,Serbia,SRB,0.0
-1947,Serbia,SRB,0.0
-1948,Serbia,SRB,0.0
-1949,Serbia,SRB,0.0
-1950,Serbia,SRB,0.0
-1951,Serbia,SRB,0.0
-1952,Serbia,SRB,0.0
-1953,Serbia,SRB,0.0
-1954,Serbia,SRB,0.0
-1955,Serbia,SRB,0.0
-1956,Serbia,SRB,0.0
-1957,Serbia,SRB,0.0
-1958,Serbia,SRB,0.0
-1959,Serbia,SRB,0.0
-1960,Serbia,SRB,0.0
 1961,Serbia,SRB,0.0
 1962,Serbia,SRB,0.0
 1963,Serbia,SRB,0.0
@@ -8516,6 +8348,34 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Serbia,SRB,0.0
 2019,Serbia,SRB,0.0
 2020,Serbia,SRB,0.0
+1935,Sierra Leone,SLE,0.0
+1936,Sierra Leone,SLE,0.0
+1937,Sierra Leone,SLE,0.0
+1938,Sierra Leone,SLE,0.0
+1939,Sierra Leone,SLE,0.0
+1940,Sierra Leone,SLE,0.0
+1941,Sierra Leone,SLE,0.0
+1942,Sierra Leone,SLE,0.0
+1943,Sierra Leone,SLE,0.0
+1944,Sierra Leone,SLE,0.0
+1945,Sierra Leone,SLE,0.0
+1946,Sierra Leone,SLE,0.0
+1947,Sierra Leone,SLE,0.0
+1948,Sierra Leone,SLE,0.0
+1949,Sierra Leone,SLE,0.0
+1950,Sierra Leone,SLE,0.0
+1951,Sierra Leone,SLE,0.0
+1952,Sierra Leone,SLE,0.0
+1953,Sierra Leone,SLE,0.0
+1954,Sierra Leone,SLE,0.0
+1955,Sierra Leone,SLE,0.0
+1956,Sierra Leone,SLE,0.0
+1957,Sierra Leone,SLE,0.0
+1958,Sierra Leone,SLE,0.0
+1959,Sierra Leone,SLE,0.0
+1960,Sierra Leone,SLE,0.0
+1961,Sierra Leone,SLE,0.0
+1962,Sierra Leone,SLE,0.0
 1963,Sierra Leone,SLE,0.0
 1964,Sierra Leone,SLE,0.0
 1965,Sierra Leone,SLE,0.0
@@ -8574,7 +8434,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Sierra Leone,SLE,0.0
 2019,Sierra Leone,SLE,0.0
 2020,Sierra Leone,SLE,0.0
-1973,Singapore,SGP,0.0
 1974,Singapore,SGP,0.0
 1975,Singapore,SGP,0.0
 1976,Singapore,SGP,0.0
@@ -8682,47 +8541,60 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1977,Slovakia,SVK,0.0
 1978,Slovakia,SVK,0.0
 1979,Slovakia,SVK,0.0
-1980,Slovakia,SVK,0.0
-1981,Slovakia,SVK,0.0
-1982,Slovakia,SVK,0.0
-1983,Slovakia,SVK,880.0
-1984,Slovakia,SVK,880.0
-1985,Slovakia,SVK,880.0
-1986,Slovakia,SVK,880.0
-1987,Slovakia,SVK,880.0
-1988,Slovakia,SVK,880.0
-1989,Slovakia,SVK,880.0
-1990,Slovakia,SVK,880.0
-1991,Slovakia,SVK,1760.0
-1992,Slovakia,SVK,1760.0
-1993,Slovakia,SVK,1760.0
-1994,Slovakia,SVK,1760.0
-1995,Slovakia,SVK,1760.0
-1996,Slovakia,SVK,1760.0
-1997,Slovakia,SVK,1760.0
-1998,Slovakia,SVK,1760.0
-1999,Slovakia,SVK,1760.0
-2000,Slovakia,SVK,1760.0
-2001,Slovakia,SVK,1760.0
-2002,Slovakia,SVK,1760.0
-2003,Slovakia,SVK,1760.0
-2004,Slovakia,SVK,1760.0
-2005,Slovakia,SVK,1760.0
-2006,Slovakia,SVK,1760.0
-2007,Slovakia,SVK,1760.0
-2008,Slovakia,SVK,1760.0
-2009,Slovakia,SVK,1760.0
-2010,Slovakia,SVK,1760.0
-2011,Slovakia,SVK,1760.0
-2012,Slovakia,SVK,1760.0
-2013,Slovakia,SVK,880.0
-2014,Slovakia,SVK,880.0
-2015,Slovakia,SVK,880.0
-2016,Slovakia,SVK,880.0
-2017,Slovakia,SVK,880.0
-2018,Slovakia,SVK,880.0
-2019,Slovakia,SVK,880.0
-2020,Slovakia,SVK,880.0
+1980,Slovakia,SVK,0.88
+1981,Slovakia,SVK,0.88
+1982,Slovakia,SVK,0.88
+1983,Slovakia,SVK,0.88
+1984,Slovakia,SVK,0.88
+1985,Slovakia,SVK,0.88
+1986,Slovakia,SVK,0.88
+1987,Slovakia,SVK,0.88
+1988,Slovakia,SVK,0.88
+1989,Slovakia,SVK,0.88
+1990,Slovakia,SVK,0.88
+1991,Slovakia,SVK,1.76
+1992,Slovakia,SVK,1.76
+1993,Slovakia,SVK,1.76
+1994,Slovakia,SVK,1.76
+1995,Slovakia,SVK,1.76
+1996,Slovakia,SVK,1.76
+1997,Slovakia,SVK,1.76
+1998,Slovakia,SVK,1.76
+1999,Slovakia,SVK,1.76
+2000,Slovakia,SVK,1.76
+2001,Slovakia,SVK,1.76
+2002,Slovakia,SVK,1.76
+2003,Slovakia,SVK,1.76
+2004,Slovakia,SVK,1.76
+2005,Slovakia,SVK,1.76
+2006,Slovakia,SVK,1.76
+2007,Slovakia,SVK,1.76
+2008,Slovakia,SVK,1.76
+2009,Slovakia,SVK,1.76
+2010,Slovakia,SVK,0.88
+2011,Slovakia,SVK,0.88
+2012,Slovakia,SVK,0.88
+2013,Slovakia,SVK,0.88
+2014,Slovakia,SVK,0.88
+2015,Slovakia,SVK,0.88
+2016,Slovakia,SVK,0.88
+2017,Slovakia,SVK,0.88
+2018,Slovakia,SVK,0.88
+2019,Slovakia,SVK,0.88
+2020,Slovakia,SVK,0.88
+1929,Slovenia,SVN,0.0
+1930,Slovenia,SVN,0.0
+1931,Slovenia,SVN,0.0
+1932,Slovenia,SVN,0.0
+1933,Slovenia,SVN,0.0
+1934,Slovenia,SVN,0.0
+1935,Slovenia,SVN,0.0
+1936,Slovenia,SVN,0.0
+1937,Slovenia,SVN,0.0
+1938,Slovenia,SVN,0.0
+1939,Slovenia,SVN,0.0
+1940,Slovenia,SVN,0.0
+1941,Slovenia,SVN,0.0
 1942,Slovenia,SVN,0.0
 1943,Slovenia,SVN,0.0
 1944,Slovenia,SVN,0.0
@@ -8753,43 +8625,43 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1969,Slovenia,SVN,0.0
 1970,Slovenia,SVN,0.0
 1971,Slovenia,SVN,0.0
-1972,Slovenia,SVN,696.0
-1973,Slovenia,SVN,696.0
-1974,Slovenia,SVN,696.0
-1975,Slovenia,SVN,696.0
-1976,Slovenia,SVN,696.0
-1977,Slovenia,SVN,696.0
-1978,Slovenia,SVN,696.0
-1979,Slovenia,SVN,696.0
-1980,Slovenia,SVN,696.0
-1981,Slovenia,SVN,696.0
-1982,Slovenia,SVN,696.0
-1983,Slovenia,SVN,696.0
-1984,Slovenia,SVN,696.0
-1985,Slovenia,SVN,696.0
-1986,Slovenia,SVN,696.0
-1987,Slovenia,SVN,696.0
-1988,Slovenia,SVN,696.0
-1989,Slovenia,SVN,696.0
-1990,Slovenia,SVN,696.0
-1991,Slovenia,SVN,696.0
-1992,Slovenia,SVN,696.0
-1993,Slovenia,SVN,696.0
-1994,Slovenia,SVN,696.0
-1995,Slovenia,SVN,696.0
-1996,Slovenia,SVN,696.0
-1997,Slovenia,SVN,696.0
-1998,Slovenia,SVN,696.0
-1999,Slovenia,SVN,696.0
-2000,Slovenia,SVN,696.0
-2001,Slovenia,SVN,696.0
-2002,Slovenia,SVN,0.0
-2003,Slovenia,SVN,0.0
-2004,Slovenia,SVN,0.0
-2005,Slovenia,SVN,0.0
-2006,Slovenia,SVN,0.0
-2007,Slovenia,SVN,0.0
-2008,Slovenia,SVN,0.0
+1972,Slovenia,SVN,0.0
+1973,Slovenia,SVN,0.0
+1974,Slovenia,SVN,0.0
+1975,Slovenia,SVN,0.0
+1976,Slovenia,SVN,0.0
+1977,Slovenia,SVN,0.0
+1978,Slovenia,SVN,0.0
+1979,Slovenia,SVN,0.6960000000000001
+1980,Slovenia,SVN,0.6960000000000001
+1981,Slovenia,SVN,0.6960000000000001
+1982,Slovenia,SVN,0.6960000000000001
+1983,Slovenia,SVN,0.6960000000000001
+1984,Slovenia,SVN,0.6960000000000001
+1985,Slovenia,SVN,0.6960000000000001
+1986,Slovenia,SVN,0.6960000000000001
+1987,Slovenia,SVN,0.6960000000000001
+1988,Slovenia,SVN,0.6960000000000001
+1989,Slovenia,SVN,0.6960000000000001
+1990,Slovenia,SVN,0.6960000000000001
+1991,Slovenia,SVN,0.6960000000000001
+1992,Slovenia,SVN,0.6960000000000001
+1993,Slovenia,SVN,0.6960000000000001
+1994,Slovenia,SVN,0.6960000000000001
+1995,Slovenia,SVN,0.6960000000000001
+1996,Slovenia,SVN,0.6960000000000001
+1997,Slovenia,SVN,0.6960000000000001
+1998,Slovenia,SVN,0.6960000000000001
+1999,Slovenia,SVN,0.6960000000000001
+2000,Slovenia,SVN,0.6960000000000001
+2001,Slovenia,SVN,0.6960000000000001
+2002,Slovenia,SVN,0.6960000000000001
+2003,Slovenia,SVN,0.6960000000000001
+2004,Slovenia,SVN,0.6960000000000001
+2005,Slovenia,SVN,0.6960000000000001
+2006,Slovenia,SVN,0.6960000000000001
+2007,Slovenia,SVN,0.6960000000000001
+2008,Slovenia,SVN,0.6960000000000001
 2009,Slovenia,SVN,0.0
 2010,Slovenia,SVN,0.0
 2011,Slovenia,SVN,0.0
@@ -8834,36 +8706,36 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1981,South Africa,ZAF,0.0
 1982,South Africa,ZAF,0.0
 1983,South Africa,ZAF,0.0
-1984,South Africa,ZAF,1800.0
-1985,South Africa,ZAF,1800.0
-1986,South Africa,ZAF,1800.0
-1987,South Africa,ZAF,1800.0
-1988,South Africa,ZAF,1800.0
-1989,South Africa,ZAF,1800.0
-1990,South Africa,ZAF,1800.0
-1991,South Africa,ZAF,1800.0
-1992,South Africa,ZAF,1800.0
-1993,South Africa,ZAF,1800.0
-1994,South Africa,ZAF,1800.0
-1995,South Africa,ZAF,1800.0
-1996,South Africa,ZAF,1800.0
-1997,South Africa,ZAF,1800.0
-1998,South Africa,ZAF,1800.0
-1999,South Africa,ZAF,1800.0
-2000,South Africa,ZAF,1800.0
-2001,South Africa,ZAF,1800.0
-2002,South Africa,ZAF,1800.0
-2003,South Africa,ZAF,1800.0
-2004,South Africa,ZAF,1800.0
-2005,South Africa,ZAF,1800.0
-2006,South Africa,ZAF,1800.0
-2007,South Africa,ZAF,1800.0
-2008,South Africa,ZAF,1800.0
-2009,South Africa,ZAF,1800.0
-2010,South Africa,ZAF,1800.0
-2011,South Africa,ZAF,1800.0
-2012,South Africa,ZAF,1800.0
-2013,South Africa,ZAF,1800.0
+1984,South Africa,ZAF,1.8
+1985,South Africa,ZAF,1.8
+1986,South Africa,ZAF,1.8
+1987,South Africa,ZAF,1.8
+1988,South Africa,ZAF,1.8
+1989,South Africa,ZAF,1.8
+1990,South Africa,ZAF,1.8
+1991,South Africa,ZAF,1.8
+1992,South Africa,ZAF,1.8
+1993,South Africa,ZAF,1.8
+1994,South Africa,ZAF,1.8
+1995,South Africa,ZAF,1.8
+1996,South Africa,ZAF,1.8
+1997,South Africa,ZAF,1.8
+1998,South Africa,ZAF,1.8
+1999,South Africa,ZAF,1.8
+2000,South Africa,ZAF,1.8
+2001,South Africa,ZAF,1.8
+2002,South Africa,ZAF,1.8
+2003,South Africa,ZAF,1.8
+2004,South Africa,ZAF,1.8
+2005,South Africa,ZAF,1.8
+2006,South Africa,ZAF,1.8
+2007,South Africa,ZAF,1.8
+2008,South Africa,ZAF,1.8
+2009,South Africa,ZAF,1.8
+2010,South Africa,ZAF,1.8
+2011,South Africa,ZAF,1.8
+2012,South Africa,ZAF,1.8
+2013,South Africa,ZAF,1.8
 2014,South Africa,ZAF,0.0
 2015,South Africa,ZAF,0.0
 2016,South Africa,ZAF,0.0
@@ -8931,41 +8803,41 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1980,Spain,ESP,0.0
 1981,Spain,ESP,0.0
 1982,Spain,ESP,0.0
-1983,Spain,ESP,1990.5
-1984,Spain,ESP,4007.4
-1985,Spain,ESP,5071.34
-1986,Spain,ESP,5071.34
-1987,Spain,ESP,6116.65
-1988,Spain,ESP,7120.06
-1989,Spain,ESP,7120.06
-1990,Spain,ESP,7120.06
-1991,Spain,ESP,7120.06
-1992,Spain,ESP,7120.06
-1993,Spain,ESP,7120.06
-1994,Spain,ESP,7120.06
-1995,Spain,ESP,7120.06
-1996,Spain,ESP,7120.06
-1997,Spain,ESP,7120.06
-1998,Spain,ESP,7120.06
-1999,Spain,ESP,7120.06
-2000,Spain,ESP,7120.06
-2001,Spain,ESP,7120.06
-2002,Spain,ESP,7120.06
-2003,Spain,ESP,7120.06
-2004,Spain,ESP,7120.06
-2005,Spain,ESP,7120.06
-2006,Spain,ESP,7120.06
-2007,Spain,ESP,7120.06
-2008,Spain,ESP,7120.06
-2009,Spain,ESP,7120.06
-2010,Spain,ESP,7120.06
-2011,Spain,ESP,7120.06
-2012,Spain,ESP,7120.06
-2013,Spain,ESP,5129.56
-2014,Spain,ESP,3112.66
-2015,Spain,ESP,2048.72
-2016,Spain,ESP,2048.72
-2017,Spain,ESP,1003.41
+1983,Spain,ESP,1.9905
+1984,Spain,ESP,4.0074000000000005
+1985,Spain,ESP,5.07134
+1986,Spain,ESP,5.07134
+1987,Spain,ESP,6.11665
+1988,Spain,ESP,7.1200600000000005
+1989,Spain,ESP,7.1200600000000005
+1990,Spain,ESP,7.1200600000000005
+1991,Spain,ESP,7.1200600000000005
+1992,Spain,ESP,7.1200600000000005
+1993,Spain,ESP,7.1200600000000005
+1994,Spain,ESP,7.1200600000000005
+1995,Spain,ESP,7.1200600000000005
+1996,Spain,ESP,7.1200600000000005
+1997,Spain,ESP,7.1200600000000005
+1998,Spain,ESP,7.1200600000000005
+1999,Spain,ESP,7.1200600000000005
+2000,Spain,ESP,7.1200600000000005
+2001,Spain,ESP,7.1200600000000005
+2002,Spain,ESP,7.1200600000000005
+2003,Spain,ESP,7.1200600000000005
+2004,Spain,ESP,7.1200600000000005
+2005,Spain,ESP,7.1200600000000005
+2006,Spain,ESP,7.1200600000000005
+2007,Spain,ESP,7.1200600000000005
+2008,Spain,ESP,7.1200600000000005
+2009,Spain,ESP,7.1200600000000005
+2010,Spain,ESP,7.1200600000000005
+2011,Spain,ESP,7.1200600000000005
+2012,Spain,ESP,7.1200600000000005
+2013,Spain,ESP,5.12956
+2014,Spain,ESP,3.11266
+2015,Spain,ESP,2.04872
+2016,Spain,ESP,2.04872
+2017,Spain,ESP,1.0034100000000001
 2018,Spain,ESP,0.0
 2019,Spain,ESP,0.0
 2020,Spain,ESP,0.0
@@ -9158,7 +9030,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Sudan,SDN,0.0
 2019,Sudan,SDN,0.0
 2020,Sudan,SDN,0.0
-2017,Suriname,SUR,0.0
 2018,Suriname,SUR,0.0
 2019,Suriname,SUR,0.0
 2020,Suriname,SUR,0.0
@@ -9218,51 +9089,51 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1973,Sweden,SWE,0.0
 1974,Sweden,SWE,0.0
 1975,Sweden,SWE,0.0
-1976,Sweden,SWE,3932.0
-1977,Sweden,SWE,3932.0
-1978,Sweden,SWE,3932.0
-1979,Sweden,SWE,3932.0
-1980,Sweden,SWE,3932.0
-1981,Sweden,SWE,3932.0
-1982,Sweden,SWE,3932.0
-1983,Sweden,SWE,3932.0
-1984,Sweden,SWE,6535.0
-1985,Sweden,SWE,6535.0
-1986,Sweden,SWE,6535.0
-1987,Sweden,SWE,6535.0
-1988,Sweden,SWE,6535.0
-1989,Sweden,SWE,6535.0
-1990,Sweden,SWE,6535.0
-1991,Sweden,SWE,6535.0
-1992,Sweden,SWE,6535.0
-1993,Sweden,SWE,6535.0
-1994,Sweden,SWE,6535.0
-1995,Sweden,SWE,9762.0
-1996,Sweden,SWE,9762.0
-1997,Sweden,SWE,9762.0
-1998,Sweden,SWE,9762.0
-1999,Sweden,SWE,9762.0
-2000,Sweden,SWE,9762.0
-2001,Sweden,SWE,9762.0
-2002,Sweden,SWE,9762.0
-2003,Sweden,SWE,9762.0
-2004,Sweden,SWE,9762.0
-2005,Sweden,SWE,9762.0
-2006,Sweden,SWE,5830.0
-2007,Sweden,SWE,5830.0
-2008,Sweden,SWE,5830.0
-2009,Sweden,SWE,5830.0
-2010,Sweden,SWE,5830.0
-2011,Sweden,SWE,5830.0
-2012,Sweden,SWE,5830.0
-2013,Sweden,SWE,5830.0
-2014,Sweden,SWE,3227.0
-2015,Sweden,SWE,3227.0
-2016,Sweden,SWE,3227.0
-2017,Sweden,SWE,3227.0
-2018,Sweden,SWE,3227.0
-2019,Sweden,SWE,3227.0
-2020,Sweden,SWE,3227.0
+1976,Sweden,SWE,0.0
+1977,Sweden,SWE,0.0
+1978,Sweden,SWE,0.0
+1979,Sweden,SWE,2.603
+1980,Sweden,SWE,2.603
+1981,Sweden,SWE,2.603
+1982,Sweden,SWE,2.603
+1983,Sweden,SWE,2.603
+1984,Sweden,SWE,2.603
+1985,Sweden,SWE,2.603
+1986,Sweden,SWE,2.603
+1987,Sweden,SWE,2.603
+1988,Sweden,SWE,2.603
+1989,Sweden,SWE,2.603
+1990,Sweden,SWE,2.603
+1991,Sweden,SWE,9.762
+1992,Sweden,SWE,9.762
+1993,Sweden,SWE,9.762
+1994,Sweden,SWE,9.762
+1995,Sweden,SWE,9.762
+1996,Sweden,SWE,9.762
+1997,Sweden,SWE,9.762
+1998,Sweden,SWE,9.762
+1999,Sweden,SWE,9.762
+2000,Sweden,SWE,9.762
+2001,Sweden,SWE,9.762
+2002,Sweden,SWE,9.762
+2003,Sweden,SWE,9.762
+2004,Sweden,SWE,9.762
+2005,Sweden,SWE,9.762
+2006,Sweden,SWE,9.762
+2007,Sweden,SWE,9.762
+2008,Sweden,SWE,9.762
+2009,Sweden,SWE,7.159
+2010,Sweden,SWE,7.159
+2011,Sweden,SWE,7.159
+2012,Sweden,SWE,7.159
+2013,Sweden,SWE,7.159
+2014,Sweden,SWE,7.159
+2015,Sweden,SWE,7.159
+2016,Sweden,SWE,7.159
+2017,Sweden,SWE,7.159
+2018,Sweden,SWE,7.159
+2019,Sweden,SWE,7.159
+2020,Sweden,SWE,7.159
 1920,Switzerland,CHE,0.0
 1921,Switzerland,CHE,0.0
 1922,Switzerland,CHE,0.0
@@ -9315,55 +9186,64 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1969,Switzerland,CHE,0.0
 1970,Switzerland,CHE,0.0
 1971,Switzerland,CHE,0.0
-1972,Switzerland,CHE,390.0
-1973,Switzerland,CHE,390.0
-1974,Switzerland,CHE,390.0
-1975,Switzerland,CHE,390.0
-1976,Switzerland,CHE,390.0
-1977,Switzerland,CHE,390.0
-1978,Switzerland,CHE,390.0
-1979,Switzerland,CHE,1425.0
-1980,Switzerland,CHE,1425.0
-1981,Switzerland,CHE,1425.0
-1982,Switzerland,CHE,1425.0
-1983,Switzerland,CHE,1425.0
-1984,Switzerland,CHE,2670.0
-1985,Switzerland,CHE,2670.0
-1986,Switzerland,CHE,2670.0
-1987,Switzerland,CHE,3430.0
-1988,Switzerland,CHE,3430.0
-1989,Switzerland,CHE,3430.0
-1990,Switzerland,CHE,3430.0
-1991,Switzerland,CHE,3430.0
-1992,Switzerland,CHE,3430.0
-1993,Switzerland,CHE,3430.0
-1994,Switzerland,CHE,3430.0
-1995,Switzerland,CHE,3430.0
-1996,Switzerland,CHE,3430.0
-1997,Switzerland,CHE,3430.0
-1998,Switzerland,CHE,3430.0
-1999,Switzerland,CHE,3430.0
-2000,Switzerland,CHE,3430.0
-2001,Switzerland,CHE,3430.0
-2002,Switzerland,CHE,3040.0
-2003,Switzerland,CHE,3040.0
-2004,Switzerland,CHE,3040.0
-2005,Switzerland,CHE,3040.0
-2006,Switzerland,CHE,3040.0
-2007,Switzerland,CHE,3040.0
-2008,Switzerland,CHE,3040.0
-2009,Switzerland,CHE,2005.0
-2010,Switzerland,CHE,2005.0
-2011,Switzerland,CHE,2005.0
-2012,Switzerland,CHE,2005.0
-2013,Switzerland,CHE,2005.0
-2014,Switzerland,CHE,760.0
-2015,Switzerland,CHE,760.0
-2016,Switzerland,CHE,760.0
-2017,Switzerland,CHE,0.0
-2018,Switzerland,CHE,0.0
-2019,Switzerland,CHE,0.0
-2020,Switzerland,CHE,0.0
+1972,Switzerland,CHE,0.39
+1973,Switzerland,CHE,0.39
+1974,Switzerland,CHE,0.39
+1975,Switzerland,CHE,0.39
+1976,Switzerland,CHE,0.39
+1977,Switzerland,CHE,0.39
+1978,Switzerland,CHE,0.39
+1979,Switzerland,CHE,1.425
+1980,Switzerland,CHE,1.425
+1981,Switzerland,CHE,1.425
+1982,Switzerland,CHE,1.425
+1983,Switzerland,CHE,1.425
+1984,Switzerland,CHE,2.67
+1985,Switzerland,CHE,2.67
+1986,Switzerland,CHE,2.67
+1987,Switzerland,CHE,2.67
+1988,Switzerland,CHE,2.67
+1989,Switzerland,CHE,2.67
+1990,Switzerland,CHE,2.67
+1991,Switzerland,CHE,3.43
+1992,Switzerland,CHE,3.43
+1993,Switzerland,CHE,3.43
+1994,Switzerland,CHE,3.43
+1995,Switzerland,CHE,3.43
+1996,Switzerland,CHE,3.43
+1997,Switzerland,CHE,3.43
+1998,Switzerland,CHE,3.43
+1999,Switzerland,CHE,3.43
+2000,Switzerland,CHE,3.43
+2001,Switzerland,CHE,3.43
+2002,Switzerland,CHE,3.04
+2003,Switzerland,CHE,3.04
+2004,Switzerland,CHE,3.04
+2005,Switzerland,CHE,3.04
+2006,Switzerland,CHE,3.04
+2007,Switzerland,CHE,3.04
+2008,Switzerland,CHE,3.04
+2009,Switzerland,CHE,2.005
+2010,Switzerland,CHE,2.005
+2011,Switzerland,CHE,2.005
+2012,Switzerland,CHE,2.005
+2013,Switzerland,CHE,2.005
+2014,Switzerland,CHE,0.76
+2015,Switzerland,CHE,0.76
+2016,Switzerland,CHE,0.76
+2017,Switzerland,CHE,0.76
+2018,Switzerland,CHE,0.76
+2019,Switzerland,CHE,0.76
+2020,Switzerland,CHE,0.76
+1936,Syrian Arab Republic,SYR,0.0
+1937,Syrian Arab Republic,SYR,0.0
+1938,Syrian Arab Republic,SYR,0.0
+1939,Syrian Arab Republic,SYR,0.0
+1940,Syrian Arab Republic,SYR,0.0
+1941,Syrian Arab Republic,SYR,0.0
+1942,Syrian Arab Republic,SYR,0.0
+1943,Syrian Arab Republic,SYR,0.0
+1944,Syrian Arab Republic,SYR,0.0
 1945,Syrian Arab Republic,SYR,0.0
 1946,Syrian Arab Republic,SYR,0.0
 1947,Syrian Arab Republic,SYR,0.0
@@ -9440,40 +9320,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Syrian Arab Republic,SYR,0.0
 2019,Syrian Arab Republic,SYR,0.0
 2020,Syrian Arab Republic,SYR,0.0
-1935,Tajikistan,TJK,0.0
-1936,Tajikistan,TJK,0.0
-1937,Tajikistan,TJK,0.0
-1938,Tajikistan,TJK,0.0
-1939,Tajikistan,TJK,0.0
-1940,Tajikistan,TJK,0.0
-1941,Tajikistan,TJK,0.0
-1942,Tajikistan,TJK,0.0
-1943,Tajikistan,TJK,0.0
-1944,Tajikistan,TJK,0.0
-1945,Tajikistan,TJK,0.0
-1946,Tajikistan,TJK,0.0
-1947,Tajikistan,TJK,0.0
-1948,Tajikistan,TJK,0.0
-1949,Tajikistan,TJK,0.0
-1950,Tajikistan,TJK,0.0
-1951,Tajikistan,TJK,0.0
-1952,Tajikistan,TJK,0.0
-1953,Tajikistan,TJK,0.0
-1954,Tajikistan,TJK,0.0
-1955,Tajikistan,TJK,0.0
-1956,Tajikistan,TJK,0.0
-1957,Tajikistan,TJK,0.0
-1958,Tajikistan,TJK,0.0
-1959,Tajikistan,TJK,0.0
-1960,Tajikistan,TJK,0.0
-1961,Tajikistan,TJK,0.0
-1962,Tajikistan,TJK,0.0
-1963,Tajikistan,TJK,0.0
-1964,Tajikistan,TJK,0.0
-1965,Tajikistan,TJK,0.0
-1966,Tajikistan,TJK,0.0
-1967,Tajikistan,TJK,0.0
-1968,Tajikistan,TJK,0.0
 1969,Tajikistan,TJK,0.0
 1970,Tajikistan,TJK,0.0
 1971,Tajikistan,TJK,0.0
@@ -9526,32 +9372,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Tajikistan,TJK,0.0
 2019,Tajikistan,TJK,0.0
 2020,Tajikistan,TJK,0.0
-1929,Thailand,THA,0.0
-1930,Thailand,THA,0.0
-1931,Thailand,THA,0.0
-1932,Thailand,THA,0.0
-1933,Thailand,THA,0.0
-1934,Thailand,THA,0.0
-1935,Thailand,THA,0.0
-1936,Thailand,THA,0.0
-1937,Thailand,THA,0.0
-1938,Thailand,THA,0.0
-1939,Thailand,THA,0.0
-1940,Thailand,THA,0.0
-1941,Thailand,THA,0.0
-1942,Thailand,THA,0.0
-1943,Thailand,THA,0.0
-1944,Thailand,THA,0.0
-1945,Thailand,THA,0.0
-1946,Thailand,THA,0.0
-1947,Thailand,THA,0.0
-1948,Thailand,THA,0.0
-1949,Thailand,THA,0.0
-1950,Thailand,THA,0.0
-1951,Thailand,THA,0.0
-1952,Thailand,THA,0.0
-1953,Thailand,THA,0.0
-1954,Thailand,THA,0.0
 1955,Thailand,THA,0.0
 1956,Thailand,THA,0.0
 1957,Thailand,THA,0.0
@@ -9618,32 +9438,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Thailand,THA,0.0
 2019,Thailand,THA,0.0
 2020,Thailand,THA,0.0
-1965,Togo,TGO,0.0
-1966,Togo,TGO,0.0
-1967,Togo,TGO,0.0
-1968,Togo,TGO,0.0
-1969,Togo,TGO,0.0
-1970,Togo,TGO,0.0
-1971,Togo,TGO,0.0
-1972,Togo,TGO,0.0
-1973,Togo,TGO,0.0
-1974,Togo,TGO,0.0
-1975,Togo,TGO,0.0
-1976,Togo,TGO,0.0
-1977,Togo,TGO,0.0
-1978,Togo,TGO,0.0
-1979,Togo,TGO,0.0
-1980,Togo,TGO,0.0
-1981,Togo,TGO,0.0
-1982,Togo,TGO,0.0
-1983,Togo,TGO,0.0
-1984,Togo,TGO,0.0
-1985,Togo,TGO,0.0
-1986,Togo,TGO,0.0
-1987,Togo,TGO,0.0
-1988,Togo,TGO,0.0
-1989,Togo,TGO,0.0
-1990,Togo,TGO,0.0
 1991,Togo,TGO,0.0
 1992,Togo,TGO,0.0
 1993,Togo,TGO,0.0
@@ -9674,6 +9468,22 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Togo,TGO,0.0
 2019,Togo,TGO,0.0
 2020,Togo,TGO,0.0
+1975,Trinidad and Tobago,TTO,0.0
+1976,Trinidad and Tobago,TTO,0.0
+1977,Trinidad and Tobago,TTO,0.0
+1978,Trinidad and Tobago,TTO,0.0
+1979,Trinidad and Tobago,TTO,0.0
+1980,Trinidad and Tobago,TTO,0.0
+1981,Trinidad and Tobago,TTO,0.0
+1982,Trinidad and Tobago,TTO,0.0
+1983,Trinidad and Tobago,TTO,0.0
+1984,Trinidad and Tobago,TTO,0.0
+1985,Trinidad and Tobago,TTO,0.0
+1986,Trinidad and Tobago,TTO,0.0
+1987,Trinidad and Tobago,TTO,0.0
+1988,Trinidad and Tobago,TTO,0.0
+1989,Trinidad and Tobago,TTO,0.0
+1990,Trinidad and Tobago,TTO,0.0
 1991,Trinidad and Tobago,TTO,0.0
 1992,Trinidad and Tobago,TTO,0.0
 1993,Trinidad and Tobago,TTO,0.0
@@ -9769,6 +9579,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Tunisia,TUN,0.0
 2019,Tunisia,TUN,0.0
 2020,Tunisia,TUN,0.0
+1968,Turkmenistan,TKM,0.0
 1969,Turkmenistan,TKM,0.0
 1970,Turkmenistan,TKM,0.0
 1971,Turkmenistan,TKM,0.0
@@ -9821,36 +9632,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Turkmenistan,TKM,0.0
 2019,Turkmenistan,TKM,0.0
 2020,Turkmenistan,TKM,0.0
-1932,Uganda,UGA,0.0
-1933,Uganda,UGA,0.0
-1934,Uganda,UGA,0.0
-1935,Uganda,UGA,0.0
-1936,Uganda,UGA,0.0
-1937,Uganda,UGA,0.0
-1938,Uganda,UGA,0.0
-1939,Uganda,UGA,0.0
-1940,Uganda,UGA,0.0
-1941,Uganda,UGA,0.0
-1942,Uganda,UGA,0.0
-1943,Uganda,UGA,0.0
-1944,Uganda,UGA,0.0
-1945,Uganda,UGA,0.0
-1946,Uganda,UGA,0.0
-1947,Uganda,UGA,0.0
-1948,Uganda,UGA,0.0
-1949,Uganda,UGA,0.0
-1950,Uganda,UGA,0.0
-1951,Uganda,UGA,0.0
-1952,Uganda,UGA,0.0
-1953,Uganda,UGA,0.0
-1954,Uganda,UGA,0.0
-1955,Uganda,UGA,0.0
-1956,Uganda,UGA,0.0
-1957,Uganda,UGA,0.0
-1958,Uganda,UGA,0.0
-1959,Uganda,UGA,0.0
-1960,Uganda,UGA,0.0
-1961,Uganda,UGA,0.0
 1962,Uganda,UGA,0.0
 1963,Uganda,UGA,0.0
 1964,Uganda,UGA,0.0
@@ -9935,67 +9716,67 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1955,Ukraine,UKR,0.0
 1956,Ukraine,UKR,0.0
 1957,Ukraine,UKR,0.0
-1958,Ukraine,UKR,3000.0
-1959,Ukraine,UKR,3000.0
-1960,Ukraine,UKR,3000.0
-1961,Ukraine,UKR,3000.0
-1962,Ukraine,UKR,3000.0
-1963,Ukraine,UKR,3000.0
-1964,Ukraine,UKR,3000.0
-1965,Ukraine,UKR,3000.0
-1966,Ukraine,UKR,3000.0
-1967,Ukraine,UKR,3000.0
-1968,Ukraine,UKR,3000.0
-1969,Ukraine,UKR,3000.0
-1970,Ukraine,UKR,3000.0
-1971,Ukraine,UKR,3000.0
-1972,Ukraine,UKR,5835.0
-1973,Ukraine,UKR,5835.0
-1974,Ukraine,UKR,5835.0
-1975,Ukraine,UKR,5835.0
-1976,Ukraine,UKR,5835.0
-1977,Ukraine,UKR,5835.0
-1978,Ukraine,UKR,5835.0
-1979,Ukraine,UKR,5835.0
-1980,Ukraine,UKR,5835.0
-1981,Ukraine,UKR,5835.0
-1982,Ukraine,UKR,5835.0
-1983,Ukraine,UKR,5835.0
-1984,Ukraine,UKR,5835.0
-1985,Ukraine,UKR,5835.0
-1986,Ukraine,UKR,11835.0
-1987,Ukraine,UKR,11835.0
-1988,Ukraine,UKR,8835.0
-1989,Ukraine,UKR,10835.0
-1990,Ukraine,UKR,10835.0
-1991,Ukraine,UKR,10835.0
-1992,Ukraine,UKR,10835.0
-1993,Ukraine,UKR,10835.0
-1994,Ukraine,UKR,10835.0
-1995,Ukraine,UKR,10835.0
-1996,Ukraine,UKR,10835.0
-1997,Ukraine,UKR,10835.0
-1998,Ukraine,UKR,10835.0
-1999,Ukraine,UKR,10835.0
-2000,Ukraine,UKR,10835.0
-2001,Ukraine,UKR,10835.0
-2002,Ukraine,UKR,8000.0
-2003,Ukraine,UKR,8000.0
-2004,Ukraine,UKR,8000.0
-2005,Ukraine,UKR,8000.0
-2006,Ukraine,UKR,8000.0
-2007,Ukraine,UKR,8000.0
-2008,Ukraine,UKR,8000.0
-2009,Ukraine,UKR,8000.0
-2010,Ukraine,UKR,8000.0
-2011,Ukraine,UKR,8000.0
-2012,Ukraine,UKR,8000.0
-2013,Ukraine,UKR,8000.0
-2014,Ukraine,UKR,8000.0
-2015,Ukraine,UKR,8000.0
-2016,Ukraine,UKR,2000.0
-2017,Ukraine,UKR,2000.0
-2018,Ukraine,UKR,2000.0
+1958,Ukraine,UKR,0.0
+1959,Ukraine,UKR,2.835
+1960,Ukraine,UKR,2.835
+1961,Ukraine,UKR,2.835
+1962,Ukraine,UKR,2.835
+1963,Ukraine,UKR,2.835
+1964,Ukraine,UKR,2.835
+1965,Ukraine,UKR,2.835
+1966,Ukraine,UKR,2.835
+1967,Ukraine,UKR,2.835
+1968,Ukraine,UKR,2.835
+1969,Ukraine,UKR,2.835
+1970,Ukraine,UKR,5.835
+1971,Ukraine,UKR,5.835
+1972,Ukraine,UKR,5.835
+1973,Ukraine,UKR,5.835
+1974,Ukraine,UKR,5.835
+1975,Ukraine,UKR,5.835
+1976,Ukraine,UKR,5.835
+1977,Ukraine,UKR,5.835
+1978,Ukraine,UKR,5.835
+1979,Ukraine,UKR,5.835
+1980,Ukraine,UKR,11.835
+1981,Ukraine,UKR,11.835
+1982,Ukraine,UKR,11.835
+1983,Ukraine,UKR,11.835
+1984,Ukraine,UKR,13.835
+1985,Ukraine,UKR,13.835
+1986,Ukraine,UKR,13.835
+1987,Ukraine,UKR,13.835
+1988,Ukraine,UKR,13.835
+1989,Ukraine,UKR,11.0
+1990,Ukraine,UKR,11.0
+1991,Ukraine,UKR,11.0
+1992,Ukraine,UKR,11.0
+1993,Ukraine,UKR,11.0
+1994,Ukraine,UKR,11.0
+1995,Ukraine,UKR,11.0
+1996,Ukraine,UKR,11.0
+1997,Ukraine,UKR,11.0
+1998,Ukraine,UKR,11.0
+1999,Ukraine,UKR,11.0
+2000,Ukraine,UKR,8.0
+2001,Ukraine,UKR,8.0
+2002,Ukraine,UKR,8.0
+2003,Ukraine,UKR,8.0
+2004,Ukraine,UKR,8.0
+2005,Ukraine,UKR,8.0
+2006,Ukraine,UKR,8.0
+2007,Ukraine,UKR,8.0
+2008,Ukraine,UKR,8.0
+2009,Ukraine,UKR,8.0
+2010,Ukraine,UKR,2.0
+2011,Ukraine,UKR,2.0
+2012,Ukraine,UKR,2.0
+2013,Ukraine,UKR,2.0
+2014,Ukraine,UKR,0.0
+2015,Ukraine,UKR,0.0
+2016,Ukraine,UKR,0.0
+2017,Ukraine,UKR,0.0
+2018,Ukraine,UKR,0.0
 2019,Ukraine,UKR,0.0
 2020,Ukraine,UKR,0.0
 1977,United Arab Emirates,ARE,0.0
@@ -10092,57 +9873,79 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 1967,United States of America,USA,0.0
 1968,United States of America,USA,0.0
 1969,United States of America,USA,0.0
-1970,United States of America,USA,2632.6
-1971,United States of America,USA,5397.2
-1972,United States of America,USA,6209.0
-1973,United States of America,USA,11221.6
-1974,United States of America,USA,18751.9
-1975,United States of America,USA,22925.4
-1976,United States of America,USA,30959.6
-1977,United States of America,USA,35577.8
-1978,United States of America,USA,37959.6
-1979,United States of America,USA,43856.4
-1980,United States of America,USA,43856.4
-1981,United States of America,USA,52208.2
-1982,United States of America,USA,54648.8
-1983,United States of America,USA,54648.8
-1984,United States of America,USA,60550.4
-1985,United States of America,USA,71626.9
-1986,United States of America,USA,81893.90000000001
-1987,United States of America,USA,88155.9
-1988,United States of America,USA,98021.30000000002
-1989,United States of America,USA,98021.30000000002
-1990,United States of America,USA,99263.30000000002
-1991,United States of America,USA,101693.30000000002
-1992,United States of America,USA,101693.30000000002
-1993,United States of America,USA,101693.30000000002
-1994,United States of America,USA,101693.30000000002
-1995,United States of America,USA,101693.30000000002
-1996,United States of America,USA,101693.30000000002
-1997,United States of America,USA,101693.30000000002
-1998,United States of America,USA,101693.30000000002
-1999,United States of America,USA,101693.30000000002
-2000,United States of America,USA,99060.7
-2001,United States of America,USA,96296.10000000002
-2002,United States of America,USA,95484.30000000002
-2003,United States of America,USA,90471.7
-2004,United States of America,USA,82941.40000000001
-2005,United States of America,USA,78767.90000000001
-2006,United States of America,USA,73273.5
-2007,United States of America,USA,68655.3
-2008,United States of America,USA,66273.5
-2009,United States of America,USA,60376.7
-2010,United States of America,USA,60376.7
-2011,United States of America,USA,52024.9
-2012,United States of America,USA,49584.3
-2013,United States of America,USA,49584.3
-2014,United States of America,USA,43682.7
-2015,United States of America,USA,32606.2
-2016,United States of America,USA,22339.2
-2017,United States of America,USA,16077.2
-2018,United States of America,USA,6211.8
-2019,United States of America,USA,6211.8
-2020,United States of America,USA,4969.8
+1970,United States of America,USA,2.6326
+1971,United States of America,USA,5.3972
+1972,United States of America,USA,6.2090000000000005
+1973,United States of America,USA,11.2216
+1974,United States of America,USA,18.7519
+1975,United States of America,USA,22.9254
+1976,United States of America,USA,30.9596
+1977,United States of America,USA,35.5778
+1978,United States of America,USA,37.9596
+1979,United States of America,USA,43.8564
+1980,United States of America,USA,43.8564
+1981,United States of America,USA,52.20820000000001
+1982,United States of America,USA,54.6488
+1983,United States of America,USA,54.6488
+1984,United States of America,USA,60.5504
+1985,United States of America,USA,71.62689999999998
+1986,United States of America,USA,80.6032
+1987,United States of America,USA,88.1559
+1988,United States of America,USA,98.02130000000002
+1989,United States of America,USA,98.02130000000002
+1990,United States of America,USA,99.26330000000002
+1991,United States of America,USA,101.69330000000002
+1992,United States of America,USA,101.69330000000002
+1993,United States of America,USA,101.69330000000002
+1994,United States of America,USA,101.69330000000002
+1995,United States of America,USA,101.69330000000002
+1996,United States of America,USA,101.69330000000002
+1997,United States of America,USA,101.69330000000002
+1998,United States of America,USA,101.69330000000002
+1999,United States of America,USA,101.69330000000002
+2000,United States of America,USA,99.0607
+2001,United States of America,USA,96.29610000000002
+2002,United States of America,USA,95.48430000000002
+2003,United States of America,USA,90.4717
+2004,United States of America,USA,82.94140000000002
+2005,United States of America,USA,78.76790000000003
+2006,United States of America,USA,73.2735
+2007,United States of America,USA,68.65530000000001
+2008,United States of America,USA,66.2735
+2009,United States of America,USA,60.3767
+2010,United States of America,USA,60.3767
+2011,United States of America,USA,52.0249
+2012,United States of America,USA,49.584300000000006
+2013,United States of America,USA,49.584300000000006
+2014,United States of America,USA,43.6827
+2015,United States of America,USA,32.6062
+2016,United States of America,USA,23.629900000000006
+2017,United States of America,USA,16.0772
+2018,United States of America,USA,6.2118
+2019,United States of America,USA,6.2118
+2020,United States of America,USA,4.9698
+1946,Uruguay,URY,0.0
+1947,Uruguay,URY,0.0
+1948,Uruguay,URY,0.0
+1949,Uruguay,URY,0.0
+1950,Uruguay,URY,0.0
+1951,Uruguay,URY,0.0
+1952,Uruguay,URY,0.0
+1953,Uruguay,URY,0.0
+1954,Uruguay,URY,0.0
+1955,Uruguay,URY,0.0
+1956,Uruguay,URY,0.0
+1957,Uruguay,URY,0.0
+1958,Uruguay,URY,0.0
+1959,Uruguay,URY,0.0
+1960,Uruguay,URY,0.0
+1961,Uruguay,URY,0.0
+1962,Uruguay,URY,0.0
+1963,Uruguay,URY,0.0
+1964,Uruguay,URY,0.0
+1965,Uruguay,URY,0.0
+1966,Uruguay,URY,0.0
+1967,Uruguay,URY,0.0
 1968,Uruguay,URY,0.0
 1969,Uruguay,URY,0.0
 1970,Uruguay,URY,0.0
@@ -10196,35 +9999,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Uruguay,URY,0.0
 2019,Uruguay,URY,0.0
 2020,Uruguay,URY,0.0
-1920,Uzbekistan,UZB,0.0
-1921,Uzbekistan,UZB,0.0
-1922,Uzbekistan,UZB,0.0
-1923,Uzbekistan,UZB,0.0
-1924,Uzbekistan,UZB,0.0
-1925,Uzbekistan,UZB,0.0
-1926,Uzbekistan,UZB,0.0
-1927,Uzbekistan,UZB,0.0
-1928,Uzbekistan,UZB,0.0
-1929,Uzbekistan,UZB,0.0
-1930,Uzbekistan,UZB,0.0
-1931,Uzbekistan,UZB,0.0
-1932,Uzbekistan,UZB,0.0
-1933,Uzbekistan,UZB,0.0
-1934,Uzbekistan,UZB,0.0
-1935,Uzbekistan,UZB,0.0
-1936,Uzbekistan,UZB,0.0
-1937,Uzbekistan,UZB,0.0
-1938,Uzbekistan,UZB,0.0
-1939,Uzbekistan,UZB,0.0
-1940,Uzbekistan,UZB,0.0
-1941,Uzbekistan,UZB,0.0
-1942,Uzbekistan,UZB,0.0
-1943,Uzbekistan,UZB,0.0
-1944,Uzbekistan,UZB,0.0
-1945,Uzbekistan,UZB,0.0
-1946,Uzbekistan,UZB,0.0
-1947,Uzbekistan,UZB,0.0
-1948,Uzbekistan,UZB,0.0
 1949,Uzbekistan,UZB,0.0
 1950,Uzbekistan,UZB,0.0
 1951,Uzbekistan,UZB,0.0
@@ -10297,6 +10071,31 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Uzbekistan,UZB,0.0
 2019,Uzbekistan,UZB,0.0
 2020,Uzbekistan,UZB,0.0
+1972,Western Sahara,ESH,0.0
+1973,Western Sahara,ESH,0.0
+1974,Western Sahara,ESH,0.0
+1975,Western Sahara,ESH,0.0
+1976,Western Sahara,ESH,0.0
+1977,Western Sahara,ESH,0.0
+1978,Western Sahara,ESH,0.0
+1979,Western Sahara,ESH,0.0
+1980,Western Sahara,ESH,0.0
+1981,Western Sahara,ESH,0.0
+1982,Western Sahara,ESH,0.0
+1983,Western Sahara,ESH,0.0
+1984,Western Sahara,ESH,0.0
+1985,Western Sahara,ESH,0.0
+1986,Western Sahara,ESH,0.0
+1987,Western Sahara,ESH,0.0
+1988,Western Sahara,ESH,0.0
+1989,Western Sahara,ESH,0.0
+1990,Western Sahara,ESH,0.0
+1991,Western Sahara,ESH,0.0
+1992,Western Sahara,ESH,0.0
+1993,Western Sahara,ESH,0.0
+1994,Western Sahara,ESH,0.0
+1995,Western Sahara,ESH,0.0
+1996,Western Sahara,ESH,0.0
 1997,Western Sahara,ESH,0.0
 1998,Western Sahara,ESH,0.0
 1999,Western Sahara,ESH,0.0
@@ -10312,15 +10111,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2009,Western Sahara,ESH,0.0
 2010,Western Sahara,ESH,0.0
 2011,Western Sahara,ESH,0.0
-2012,Western Sahara,ESH,0.0
-2013,Western Sahara,ESH,0.0
-2014,Western Sahara,ESH,0.0
-2015,Western Sahara,ESH,0.0
-2016,Western Sahara,ESH,0.0
-2017,Western Sahara,ESH,0.0
-2018,Western Sahara,ESH,0.0
-2019,Western Sahara,ESH,0.0
-2020,Western Sahara,ESH,0.0
 1974,Yemen,YEM,0.0
 1975,Yemen,YEM,0.0
 1976,Yemen,YEM,0.0
@@ -10368,6 +10158,28 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Yemen,YEM,0.0
 2019,Yemen,YEM,0.0
 2020,Yemen,YEM,0.0
+1949,Zambia,ZMB,0.0
+1950,Zambia,ZMB,0.0
+1951,Zambia,ZMB,0.0
+1952,Zambia,ZMB,0.0
+1953,Zambia,ZMB,0.0
+1954,Zambia,ZMB,0.0
+1955,Zambia,ZMB,0.0
+1956,Zambia,ZMB,0.0
+1957,Zambia,ZMB,0.0
+1958,Zambia,ZMB,0.0
+1959,Zambia,ZMB,0.0
+1960,Zambia,ZMB,0.0
+1961,Zambia,ZMB,0.0
+1962,Zambia,ZMB,0.0
+1963,Zambia,ZMB,0.0
+1964,Zambia,ZMB,0.0
+1965,Zambia,ZMB,0.0
+1966,Zambia,ZMB,0.0
+1967,Zambia,ZMB,0.0
+1968,Zambia,ZMB,0.0
+1969,Zambia,ZMB,0.0
+1970,Zambia,ZMB,0.0
 1971,Zambia,ZMB,0.0
 1972,Zambia,ZMB,0.0
 1973,Zambia,ZMB,0.0
@@ -10418,33 +10230,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_nuclear_gw
 2018,Zambia,ZMB,0.0
 2019,Zambia,ZMB,0.0
 2020,Zambia,ZMB,0.0
-1941,Zimbabwe,ZWE,0.0
-1942,Zimbabwe,ZWE,0.0
-1943,Zimbabwe,ZWE,0.0
-1944,Zimbabwe,ZWE,0.0
-1945,Zimbabwe,ZWE,0.0
-1946,Zimbabwe,ZWE,0.0
-1947,Zimbabwe,ZWE,0.0
-1948,Zimbabwe,ZWE,0.0
-1949,Zimbabwe,ZWE,0.0
-1950,Zimbabwe,ZWE,0.0
-1951,Zimbabwe,ZWE,0.0
-1952,Zimbabwe,ZWE,0.0
-1953,Zimbabwe,ZWE,0.0
-1954,Zimbabwe,ZWE,0.0
-1955,Zimbabwe,ZWE,0.0
-1956,Zimbabwe,ZWE,0.0
-1957,Zimbabwe,ZWE,0.0
-1958,Zimbabwe,ZWE,0.0
-1959,Zimbabwe,ZWE,0.0
-1960,Zimbabwe,ZWE,0.0
-1961,Zimbabwe,ZWE,0.0
-1962,Zimbabwe,ZWE,0.0
-1963,Zimbabwe,ZWE,0.0
-1964,Zimbabwe,ZWE,0.0
-1965,Zimbabwe,ZWE,0.0
-1966,Zimbabwe,ZWE,0.0
-1967,Zimbabwe,ZWE,0.0
 1968,Zimbabwe,ZWE,0.0
 1969,Zimbabwe,ZWE,0.0
 1970,Zimbabwe,ZWE,0.0
