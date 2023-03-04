@@ -26,14 +26,19 @@ wbal = wbal.rename(columns =
 # (Production + Imports = Domestic_Demand + Exports)
 
 wbal_process = wbal.query("FLOW=='Production' and UNIT=='TJ'")[["COUNTRY", "TIME"]].reset_index(drop = True)
-wbal_process["Production"] = wbal.query("FLOW=='Production' and UNIT=='TJ'")[variable_to_process].reset_index(drop = True)
+wbal_process["Total final consumption"] = wbal.query("FLOW=='Total final consumption' and UNIT=='TJ'")[variable_to_process].reset_index(drop = True)
 wbal_process["Imports"] = wbal.query("FLOW=='Imports' and UNIT=='TJ'")[variable_to_process].reset_index(drop = True)
 wbal_process["Exports"] = wbal.query("FLOW=='Exports' and UNIT=='TJ'")[variable_to_process].reset_index(drop = True)
 
-for colvar in ["Production", "Imports", "Exports"]:
+for colvar in ["Total final consumption", "Imports", "Exports"]:
     wbal_process[colvar] = wbal_process[colvar].apply(lambda x: float(str(x).replace("..","0").replace('c',"0").replace("x","0")))*factor
 
-wbal_process["domestic_demand"] = wbal_process["Production"] + wbal_process["Imports"] - wbal_process["Exports"]
+## Nos quedamos sólo con los Total final consumption distintos a cero
+wbal_process = wbal_process[wbal_process["Total final consumption"]!=0.0]
+
+wbal_process["domestic_demand"] = wbal_process["Total final consumption"] + wbal_process["Imports"] - wbal_process["Exports"]
+
+
 wbal_process[sisepuede_name] = wbal_process["Imports"]/wbal_process["domestic_demand"]
 
 wbal_process = wbal_process.dropna().reset_index(drop = True)
