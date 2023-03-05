@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import os 
 
-# Get ocean GW
-variable_to_process = "ocean"
+# Get biogas GW
+variable_to_process = "biogas"
 sisepuede_name = f"nemomod_entc_residual_capacity_pp_{variable_to_process}_gw"
 
 print(f"Processing {sisepuede_name} variable")
@@ -17,7 +17,6 @@ relative_path_power_plants_file = os.path.join(relative_path, "global_power_plan
 # Read source 
 power_plants = pd.read_csv(relative_path_power_plants_file)
 power_plants["commissioning_year"] = power_plants["commissioning_year"].fillna(2010)  
-
 
 # Get countries ISO 3 codes
 relative_path_iso3_file = os.path.join(relative_path, "iso3_all_countries.csv")

@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import os 
 
-# Get nuclear GW
-variable_to_process = "nuclear"
+# Get biogas GW
+variable_to_process = "biogas"
 sisepuede_name = f"nemomod_entc_residual_capacity_pp_{variable_to_process}_gw"
 
 print(f"Processing {sisepuede_name} variable")
@@ -17,7 +17,6 @@ relative_path_power_plants_file = os.path.join(relative_path, "global_power_plan
 # Read source 
 power_plants = pd.read_csv(relative_path_power_plants_file)
 power_plants["commissioning_year"] = power_plants["commissioning_year"].fillna(2010)  
-
 
 # Get countries ISO 3 codes
 relative_path_iso3_file = os.path.join(relative_path, "iso3_all_countries.csv")
@@ -65,8 +64,6 @@ power_plants = power_plants[~power_plants["commissioning_year"].isna()]
 power_plants["commissioning_year"] = power_plants["commissioning_year"].astype("int")
 
 # Rename 'United States of America' --> United States
-remueve = ['Congo', 'Brunei Darussalam', 'Kosovo', 'Slovakia', 'Palestine', 'Antarctica','Kyrgyzstan','Macedonia', 'Montenegro', 'Serbia','Cote DIvoire']
-power_plants = power_plants[~power_plants["country_long"].isin(remueve)]
 power_plants.loc[power_plants["country_long"]=='United States of America',"country_long"] = "United States"
 power_plants.loc[power_plants["country_long"]=='North Korea',"country_long"] = 'Korea, Dem. Rep.'
 power_plants.loc[power_plants["country_long"]=='South Korea',"country_long"] = 'Korea, Rep.'

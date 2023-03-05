@@ -38,6 +38,24 @@ if sisepuede_name in ['nemomod_entc_residual_capacity_pp_biogas_gw', 'nemomod_en
 
 pp_plants = pp_plants[["Year", "Nation", "iso_code3", sisepuede_name]]
 
+# Variables de sisepuede que nos faltan
+sisepuede_paises = pd.read_html("https://sisepuede.readthedocs.io/en/latest/general_data.html")[-1]
+sisepuede_faltantes = list(set(sisepuede_paises["Category Name"]).symmetric_difference(set(pp_plants.Nation).intersection(sisepuede_paises["Category Name"])))
+
+# Obtenemos el promedio de la región
+sisepuede_si_tengo = sisepuede_paises[~sisepuede_paises["Category Name"].isin(sisepuede_faltantes)]["Category Name"].to_list()
+
+region_mean = pp_plants[pp_plants.Nation.isin(sisepuede_si_tengo)][["Year", "iso_code3",sisepuede_name]].groupby("Year").mean()[sisepuede_name].values
+years = pp_plants[pp_plants.Nation.isin(sisepuede_si_tengo)][["Year", "iso_code3",sisepuede_name]].groupby("Year").mean().index.values
+
+iso3_m49_correspondence["Nation"] = iso3_m49_correspondence["Nation"].replace({"Venezuela (Bolivarian Republic of)" : "Venezuela", 'Bolivia (Plurinational State of)' : "Bolivia"})
+
+for faltantes_country in sisepuede_faltantes:
+    pais_nombre_faltante,pais_iso_code3_faltante = iso3_m49_correspondence.loc[iso3_m49_correspondence["Nation"]==faltantes_country].to_numpy()[0]  
+
+    df_partial = pd.DataFrame({"Year" : years, "Nation" : [pais_nombre_faltante]*len(years), "iso_code3" : [pais_iso_code3_faltante]*len(years), sisepuede_name : region_mean})
+    pp_plants = pd.concat([pp_plants, df_partial], ignore_index = True)
+    
 # Historical data <= 2020
 # Projected data > 2020
 
