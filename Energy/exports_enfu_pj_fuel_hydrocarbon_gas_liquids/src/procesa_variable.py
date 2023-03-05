@@ -38,6 +38,10 @@ wbal_process = wbal_process.dropna().reset_index(drop = True)
 relative_path_iso3_file = os.path.join(relative_path, "iso3_all_countries.csv")
 iso3_countries = pd.read_csv(relative_path_iso3_file)
 
+wbal_process["COUNTRY"] = wbal_process["COUNTRY"].replace({'Bolivarian Republic of Venezuela': "Venezuela",
+                                                            'Plurinational State of Bolivia' : "Bolivia"})
+
+
 wbal_process = wbal_process[wbal_process["COUNTRY"].isin(iso3_countries["Category Name"])]
 wbal_process = wbal_process.query("COUNTRY !='World'")
 
