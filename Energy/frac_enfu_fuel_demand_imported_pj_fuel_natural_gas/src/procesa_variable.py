@@ -27,28 +27,30 @@ wbal = wbal.rename(columns =
 
 wbal_process = wbal.query("FLOW=='Production' and UNIT=='TJ'")[["COUNTRY", "TIME"]].reset_index(drop = True)
 wbal_process["Total final consumption"] = wbal.query("FLOW=='Total final consumption' and UNIT=='TJ'")[variable_to_process].reset_index(drop = True)
+wbal_process["Production"] = wbal.query("FLOW=='Production' and UNIT=='TJ'")[variable_to_process].reset_index(drop = True)
 wbal_process["Imports"] = wbal.query("FLOW=='Imports' and UNIT=='TJ'")[variable_to_process].reset_index(drop = True)
 wbal_process["Exports"] = wbal.query("FLOW=='Exports' and UNIT=='TJ'")[variable_to_process].reset_index(drop = True)
 
-for colvar in ["Total final consumption", "Imports", "Exports"]:
+for colvar in ["Total final consumption", "Production","Imports", "Exports"]:
     wbal_process[colvar] = wbal_process[colvar].apply(lambda x: float(str(x).replace("..","0").replace('c',"0").replace("x","0")))*factor
 
-## Nos quedamos sólo con los Total final consumption distintos a cero
-wbal_process = wbal_process[wbal_process["Total final consumption"]!=0.0]
-
-wbal_process["domestic_demand"] = wbal_process["Total final consumption"] + wbal_process["Imports"] - wbal_process["Exports"]
-
+wbal_process["domestic_demand"] = wbal_process["Total final consumption"] + wbal_process["Production"] - wbal_process["Exports"] + wbal_process["Imports"]
 
 wbal_process[sisepuede_name] = wbal_process["Imports"]/wbal_process["domestic_demand"]
 
+## Nos quedamos sólo con los Total final consumption distintos a cero
 wbal_process = wbal_process.dropna().reset_index(drop = True)
 
 # Get countries ISO 3 codes
 relative_path_iso3_file = os.path.join(relative_path, "iso3_all_countries.csv")
 iso3_countries = pd.read_csv(relative_path_iso3_file)
 
+wbal_process["COUNTRY"] = wbal_process["COUNTRY"].replace({'Bolivarian Republic of Venezuela': "Venezuela",
+                                                            'Plurinational State of Bolivia' : "Bolivia"})
+
 wbal_process = wbal_process[wbal_process["COUNTRY"].isin(iso3_countries["Category Name"])]
 wbal_process = wbal_process.query("COUNTRY !='World'")
+
 
 
 # Merge with  ISO 3 codes
@@ -64,6 +66,7 @@ wbal_process = wbal_process.rename(columns = {"REGION" : "Nation",
 
 # Get countries without values
 latam_countries = set(iso3_countries["REGION"][:26])
+
 non_values = latam_countries.symmetric_difference(latam_countries.intersection(wbal_process["Nation"]))
  
 # Impute values with the Costa Rica values
@@ -94,22 +97,30 @@ relative_path_to_save_historical_file = os.path.join(relative_path_to_save_histo
 
 wbal_var_to_proc_all[["Year", "Nation","iso_code3",sisepuede_name]].to_csv(relative_path_to_save_historical_file, index = False)
 
-## Get the last one historical year
-last_one_year = int(max(wbal_var_to_proc_all["Year"]))
-loy_wbal_var_to_proc_all = wbal_var_to_proc_all.query(f"Year=={last_one_year-1}").reset_index(drop=True)
+## Get the last one historical year for each country
+acumula_df_todos = []
 
-## Project with the last value to 2050
+for country in wbal_var_to_proc_all.Nation.unique():
+    
+    last_one_year = int(max(wbal_var_to_proc_all.query(f"Nation=='{country}'")["Year"]))
+    loy_wbal_var_to_proc_all = wbal_var_to_proc_all.query(f"Nation=='{country}' and Year=={last_one_year-1}").reset_index(drop=True)
 
-acumula_df = []
+    ## Project with the last value to 2050
 
-for i in range(last_one_year, 2050):
-    last_one_year += 1
-    new_loy_df = loy_wbal_var_to_proc_all.copy()
-    new_loy_df["Year"] = last_one_year
-    acumula_df.append(new_loy_df)
+    acumula_df = []
 
-df_project = pd.concat(acumula_df, ignore_index = True)
-df_project.sort_values(["Nation","Year"], inplace = True)
+    for i in range(last_one_year, 2050):
+        last_one_year += 1
+        new_loy_df = loy_wbal_var_to_proc_all.copy()
+        new_loy_df["Year"] = last_one_year
+        acumula_df.append(new_loy_df)
+
+    df_project = pd.concat(acumula_df, ignore_index = True)
+
+    acumula_df_todos.append(df_project)
+
+acumula_df_todos = pd.concat(acumula_df_todos, ignore_index = True)
+acumula_df_todos.sort_values(["Nation","Year"], inplace = True)
 
 ## Save projected data
 
@@ -117,4 +128,4 @@ relative_path_to_save_projected = os.path.normpath(dir_path + "/../input_to_sise
 
 relative_path_to_save_projected_file = os.path.join(relative_path_to_save_projected, f"{sisepuede_name}.csv")
 
-df_project[["Year", "Nation","iso_code3",sisepuede_name]].to_csv(relative_path_to_save_projected_file, index = False)
+acumula_df_todos[["Year", "Nation","iso_code3",sisepuede_name]].to_csv(relative_path_to_save_projected_file, index = False)

@@ -45,6 +45,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,albania,ALB,0.32643267674794935
 2015,albania,ALB,0.25575432139732723
 2016,albania,ALB,0.0
+2017,albania,ALB,1.0
 1971,algeria,DZA,0.000679925208227095
 1972,algeria,DZA,0.0006220839813374805
 1973,algeria,DZA,0.0005468215994531784
@@ -210,6 +211,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,armenia,ARM,0.029993128259024213
 2015,armenia,ARM,0.024949184966721136
 2016,armenia,ARM,0.04025208375686115
+2017,armenia,ARM,0.18130132659507264
 1960,australia,AUS,0.0
 1961,australia,AUS,0.0
 1962,australia,AUS,0.0
@@ -324,6 +326,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,austria,AUT,0.2557268148431807
 2015,austria,AUT,0.2676177193466491
 2016,austria,AUT,0.24543738525586326
+2017,austria,AUT,0.5627169353293158
 1990,azerbaijan,AZE,0.08375718781955087
 1991,azerbaijan,AZE,0.07483271522654383
 1992,azerbaijan,AZE,0.05356992400114588
@@ -351,6 +354,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,azerbaijan,AZE,0.007071395728623297
 2015,azerbaijan,AZE,0.0060057741890660946
 2016,azerbaijan,AZE,0.0060488927575574275
+2017,azerbaijan,AZE,0.07767571884984026
 1971,bahamas,BHS,0.0
 1972,bahamas,BHS,0.0
 1973,bahamas,BHS,0.0
@@ -562,6 +566,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,belarus,BLR,0.18361199861484082
 2015,belarus,BLR,0.1570177068297772
 2016,belarus,BLR,0.16205164737310776
+2017,belarus,BLR,0.6375591016548463
 1960,belgium,BEL,0.0330546418128655
 1961,belgium,BEL,0.026576635069038654
 1962,belgium,BEL,0.018719854510951213
@@ -619,6 +624,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,belgium,BEL,0.20340389342349538
 2015,belgium,BEL,0.2192949783325156
 2016,belgium,BEL,0.13955697877520776
+2017,belgium,BEL,0.6346524197055352
 1971,belize,BLZ,0.0
 1972,belize,BLZ,0.0
 1973,belize,BLZ,0.0
@@ -724,39 +730,39 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 1981,bolivia,BOL,0.0
 1982,bolivia,BOL,0.0
 1983,bolivia,BOL,0.0
-1984,bolivia,BOL,0.0006846635367762128
-1985,bolivia,BOL,0.00042408821034775233
-1986,bolivia,BOL,0.05854950675922543
-1987,bolivia,BOL,0.0836098208360982
-1988,bolivia,BOL,0.08087270341207349
-1989,bolivia,BOL,0.06970207982012366
-1990,bolivia,BOL,0.07772214333756819
-1991,bolivia,BOL,0.0513499595379975
-1992,bolivia,BOL,0.00917224268851966
-1993,bolivia,BOL,0.01896342286408422
-1994,bolivia,BOL,0.0
-1995,bolivia,BOL,0.03852556480380499
-1996,bolivia,BOL,0.04871675763558239
-1997,bolivia,BOL,0.021193438291313444
-1998,bolivia,BOL,0.014477438444467928
-1999,bolivia,BOL,0.00019969047975637762
-2000,bolivia,BOL,0.0034988263430621373
-2001,bolivia,BOL,0.019601173519282283
-2002,bolivia,BOL,0.008550800629209857
-2003,bolivia,BOL,0.027022841656987998
-2004,bolivia,BOL,0.02642195166272942
-2005,bolivia,BOL,0.010800414262464862
-2006,bolivia,BOL,0.018562770562770562
-2007,bolivia,BOL,0.023973501246228518
-2008,bolivia,BOL,0.011085124787748694
-2009,bolivia,BOL,0.017575033114722322
-2010,bolivia,BOL,0.018491819720428758
-2011,bolivia,BOL,0.03051446367610948
-2012,bolivia,BOL,0.04257121079524603
-2013,bolivia,BOL,0.0524914207275223
-2014,bolivia,BOL,0.07213201320132014
-2015,bolivia,BOL,0.050621971978525596
-2016,bolivia,BOL,0.07173548004741209
+1984,bolivia,BOL,0.0
+1985,bolivia,BOL,0.0
+1986,bolivia,BOL,0.0
+1987,bolivia,BOL,0.0
+1988,bolivia,BOL,0.0
+1989,bolivia,BOL,0.00516795865633075
+1990,bolivia,BOL,0.006132147784761613
+1991,bolivia,BOL,0.006115773005262409
+1992,bolivia,BOL,0.0072668550666128385
+1993,bolivia,BOL,0.0070748963161746765
+1994,bolivia,BOL,0.0076378748736381
+1995,bolivia,BOL,0.004908103592314118
+1996,bolivia,BOL,0.004572874100019459
+1997,bolivia,BOL,0.004525706010137582
+1998,bolivia,BOL,0.004591055942866859
+1999,bolivia,BOL,0.004364341711791805
+2000,bolivia,BOL,0.004618937644341801
+2001,bolivia,BOL,0.0024898848428260194
+2002,bolivia,BOL,0.0023882379282035974
+2003,bolivia,BOL,0.002342263211828429
+2004,bolivia,BOL,0.0
+2005,bolivia,BOL,0.0
+2006,bolivia,BOL,0.0
+2007,bolivia,BOL,0.0
+2008,bolivia,BOL,0.0
+2009,bolivia,BOL,0.0
+2010,bolivia,BOL,0.0
+2011,bolivia,BOL,0.0
+2012,bolivia,BOL,0.0
+2013,bolivia,BOL,0.0
+2014,bolivia,BOL,0.0
+2015,bolivia,BOL,0.0
+2016,bolivia,BOL,0.0
 1990,bosnia and herzegovina,BIH,0.0
 1991,bosnia and herzegovina,BIH,0.06578065968221644
 1992,bosnia and herzegovina,BIH,0.046370745676836654
@@ -784,6 +790,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,bosnia and herzegovina,BIH,0.16012322581552701
 2015,bosnia and herzegovina,BIH,0.18838013893018352
 2016,bosnia and herzegovina,BIH,0.14676061178896718
+2017,bosnia and herzegovina,BIH,0.39213516064976073
 1981,botswana,BWA,0.01934443847393874
 1982,botswana,BWA,0.1264466352336048
 1983,botswana,BWA,0.20862006519377038
@@ -866,6 +873,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,brazil,BRA,0.06318884892273252
 2015,brazil,BRA,0.06579531179848046
 2016,brazil,BRA,0.07751826065382887
+2017,brazil,BRA,0.9957424887501705
 1971,bulgaria,BGR,0.013867706482602474
 1972,bulgaria,BGR,0.04985647799793774
 1973,bulgaria,BGR,0.13593872923318986
@@ -912,6 +920,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,bulgaria,BGR,0.09436756494294732
 2015,bulgaria,BGR,0.0896795818390643
 2016,bulgaria,BGR,0.10286997535374261
+2017,bulgaria,BGR,0.28745017774426374
 1995,cambodia,KHM,0.0
 1996,cambodia,KHM,0.0
 1997,cambodia,KHM,0.0
@@ -1037,6 +1046,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,canada,CAN,0.02218913483596479
 2015,canada,CAN,0.015895335887260203
 2016,canada,CAN,0.016687080979209293
+2017,canada,CAN,0.11995989448751077
 1971,chile,CHL,0.0002746390458254865
 1972,chile,CHL,0.0002598849081121218
 1973,chile,CHL,0.00041845779282535095
@@ -1083,6 +1093,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,chile,CHL,0.0
 2015,chile,CHL,0.0
 2016,chile,CHL,0.0
+2017,chile,CHL,0.051094890510948905
 1971,colombia,COL,0.0
 1972,colombia,COL,0.0
 1973,colombia,COL,0.0
@@ -1202,6 +1213,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,croatia,HRV,0.33351752044476934
 2015,croatia,HRV,0.37734601535863366
 2016,croatia,HRV,0.3586881398974557
+2017,croatia,HRV,0.6997777671191264
 1971,cuba,CUB,0.0
 1972,cuba,CUB,0.0
 1973,cuba,CUB,0.0
@@ -1340,6 +1352,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,czech republic,CZE,0.12697774441823337
 2015,czech republic,CZE,0.16236176791814594
 2016,czech republic,CZE,0.14596691600468353
+2017,czech republic,CZE,0.34904246354156615
 1960,denmark,DNK,0.07462920409442239
 1961,denmark,DNK,0.15284552845528454
 1962,denmark,DNK,0.1478076379066478
@@ -1397,6 +1410,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,denmark,DNK,0.23820364022795704
 2015,denmark,DNK,0.2780893883435704
 2016,denmark,DNK,0.2671972880818333
+2017,denmark,DNK,0.5881816132183846
 1971,dominican_republic,DOM,0.0
 1972,dominican_republic,DOM,0.0
 1973,dominican_republic,DOM,0.0
@@ -1587,6 +1601,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,estonia,EST,0.21787383177570094
 2015,estonia,EST,0.2918469613834738
 2016,estonia,EST,0.21691963007260415
+2017,estonia,EST,0.3126475291251047
 1960,finland,FIN,0.05077299154334038
 1961,finland,FIN,0.01913571325336031
 1962,finland,FIN,0.009408282459895875
@@ -1644,6 +1659,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,finland,FIN,0.20706707952925152
 2015,finland,FIN,0.20427903926551358
 2016,finland,FIN,0.20839049524028946
+2017,finland,FIN,0.9258585741588
 1960,france,FRA,0.027921976457515887
 1961,france,FRA,0.029335429008987224
 1962,france,FRA,0.023145970084608433
@@ -1701,6 +1717,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,france,FRA,0.015521081300719513
 2015,france,FRA,0.019205617937811503
 2016,france,FRA,0.038006220945405476
+2017,france,FRA,0.2564663023679417
 1971,gabon,GAB,0.0
 1972,gabon,GAB,0.0
 1973,gabon,GAB,0.0
@@ -1774,6 +1791,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,georgia,GEO,0.07587399629400865
 2015,georgia,GEO,0.062040735809044734
 2016,georgia,GEO,0.1004852023777017
+2017,georgia,GEO,0.6507018992568125
 1960,germany,DEU,0.05719019535765848
 1961,germany,DEU,0.05488982798821433
 1962,germany,DEU,0.04738427315997187
@@ -1831,6 +1849,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,germany,DEU,0.06442900619831418
 2015,germany,DEU,0.05809475843814931
 2016,germany,DEU,0.045371519705970385
+2017,germany,DEU,0.2573307642903019
 1971,ghana,GHA,0.0
 1972,ghana,GHA,0.0
 1973,ghana,GHA,0.0
@@ -1980,6 +1999,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,greece,GRC,0.1587353370213123
 2015,greece,GRC,0.17494342800007018
 2016,greece,GRC,0.153084038592106
+2017,greece,GRC,0.7795706957517805
 1971,guatemala,GTM,0.0
 1972,guatemala,GTM,0.0
 1973,guatemala,GTM,0.0
@@ -2216,6 +2236,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,hungary,HUN,0.32062814809282175
 2015,hungary,HUN,0.3190876350540216
 2016,hungary,HUN,0.2976514533906307
+2017,hungary,HUN,0.740878150168875
 1960,iceland,ISL,0.0
 1961,iceland,ISL,0.0
 1962,iceland,ISL,0.0
@@ -2468,6 +2489,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,ireland,IRL,0.10302112379385744
 2015,ireland,IRL,0.06278745644599303
 2016,ireland,IRL,0.03107996947502998
+2017,ireland,IRL,0.3833969465648855
 1971,israel,ISR,0.0
 1972,israel,ISR,0.0
 1973,israel,ISR,0.0
@@ -2514,6 +2536,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,israel,ISR,0.0
 2015,israel,ISR,0.0
 2016,israel,ISR,0.0
+2017,israel,ISR,0.0
 1960,italy,ITA,0.004991047710437317
 1961,italy,ITA,0.00871647353908328
 1962,italy,ITA,0.02535271965092875
@@ -2571,6 +2594,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,italy,ITA,0.14111172788056958
 2015,italy,ITA,0.14833265942300852
 2016,italy,ITA,0.12875972311838868
+2017,italy,ITA,0.8931083144403831
 1971,jamaica,JAM,0.0
 1972,jamaica,JAM,0.0
 1973,jamaica,JAM,0.0
@@ -2866,6 +2890,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,latvia,LVA,0.35731013716962196
 2015,latvia,LVA,0.34668477861810704
 2016,latvia,LVA,0.31963293979182755
+2017,latvia,LVA,0.49610908106645013
 1971,lebanon,LBN,0.0
 1972,lebanon,LBN,0.0
 1973,lebanon,LBN,0.0
@@ -3042,6 +3067,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,luxembourg,LUX,0.45769181597355396
 2015,luxembourg,LUX,0.4800482389245557
 2016,luxembourg,LUX,0.4977784943924899
+2017,luxembourg,LUX,0.8449179616016873
 1971,malaysia,MYS,0.0
 1972,malaysia,MYS,0.0
 1973,malaysia,MYS,0.0
@@ -3134,6 +3160,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,malta,MLT,0.0
 2015,malta,MLT,0.3326902841108383
 2016,malta,MLT,0.41908396946564885
+2017,malta,MLT,0.9612980053587378
 1971,mauritius,MUS,0.0
 1972,mauritius,MUS,0.0
 1973,mauritius,MUS,0.0
@@ -3226,6 +3253,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,mexico,MEX,0.008264257357145404
 2015,mexico,MEX,0.0063116823502409915
 2016,mexico,MEX,0.008128962679613654
+2017,mexico,MEX,0.5438966146930748
 1985,mongolia,MNG,0.060449808008776744
 1986,mongolia,MNG,0.03237149653531906
 1987,mongolia,MNG,0.025622775800711744
@@ -3304,6 +3332,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,morocco,MAR,0.172800212706059
 2015,morocco,MAR,0.14579375901506256
 2016,morocco,MAR,0.1449529131424482
+2017,morocco,MAR,0.9740944213676359
 1971,mozambique,MOZ,0.004273504273504274
 1972,mozambique,MOZ,0.038078500292911543
 1973,mozambique,MOZ,0.22343876723438766
@@ -3525,6 +3554,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,netherlands,NLD,0.21555687987621855
 2015,netherlands,NLD,0.19732635758096304
 2016,netherlands,NLD,0.16255572618549025
+2017,netherlands,NLD,0.5423341114599265
 1960,new zealand,NZL,0.0
 1961,new zealand,NZL,0.0
 1962,new zealand,NZL,0.0
@@ -3748,6 +3778,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,norway,NOR,0.0463751702357829
 2015,norway,NOR,0.05247680804317432
 2016,norway,NOR,0.04055502129413381
+2017,norway,NOR,0.22316094810186923
 1971,oman,OMN,0.0
 1972,oman,OMN,0.0
 1973,oman,OMN,0.0
@@ -4081,6 +4112,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,poland,POL,0.08993562156353972
 2015,poland,POL,0.09205330220795642
 2016,poland,POL,0.08822686057774685
+2017,poland,POL,0.5471494995304519
 1960,portugal,PRT,0.00040342914775592535
 1961,portugal,PRT,0.0036393412792284597
 1962,portugal,PRT,0.02122950819672131
@@ -4138,6 +4170,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,portugal,PRT,0.12327705560202051
 2015,portugal,PRT,0.1352922017494882
 2016,portugal,PRT,0.07608521470791574
+2017,portugal,PRT,0.40202003812923376
 1971,qatar,QAT,0.0
 1972,qatar,QAT,0.0
 1973,qatar,QAT,0.0
@@ -4230,6 +4263,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,romania,ROM,0.05143557084843279
 2015,romania,ROM,0.07646911396834555
 2016,romania,ROM,0.07376140488570587
+2017,romania,ROM,0.3850400830370354
 1990,russian federation,RUS,0.038715263550280855
 1991,russian federation,RUS,0.03926833324784372
 1992,russian federation,RUS,0.03346549872671017
@@ -4257,6 +4291,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,russian federation,RUS,0.008724601121101913
 2015,russian federation,RUS,0.008768059855044112
 2016,russian federation,RUS,0.004171900591351851
+2017,russian federation,RUS,0.2737334076701344
 1971,saudi arabia,SAU,0.0
 1972,saudi arabia,SAU,0.0
 1973,saudi arabia,SAU,0.0
@@ -4441,6 +4476,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,slovak republic,SVK,0.26466218285338383
 2015,slovak republic,SVK,0.28854498428916486
 2016,slovak republic,SVK,0.271305218370667
+2017,slovak republic,SVK,0.5539220532695311
 1990,slovenia,SVN,0.1256125083870443
 1991,slovenia,SVN,0.08645283815150875
 1992,slovenia,SVN,0.030057627376811964
@@ -4468,6 +4504,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,slovenia,SVN,0.2441587583563181
 2015,slovenia,SVN,0.2924713025670505
 2016,slovenia,SVN,0.2703489416753513
+2017,slovenia,SVN,0.4862894160799858
 1971,south africa,ZAF,0.0
 1972,south africa,ZAF,0.0
 1973,south africa,ZAF,0.0
@@ -4571,6 +4608,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,spain,ESP,0.04828908069210426
 2015,spain,ESP,0.05706630319692973
 2016,spain,ESP,0.08134787434431495
+2017,spain,ESP,0.6195771066795124
 1971,sri lanka,LKA,0.0
 1972,sri lanka,LKA,0.0
 1973,sri lanka,LKA,0.0
@@ -4737,6 +4775,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,sweden,SWE,0.08368841935673349
 2015,sweden,SWE,0.05597154748999612
 2016,sweden,SWE,0.08514015937811414
+2017,sweden,SWE,0.2780493822351207
 1960,switzerland,CHE,0.06211606800797918
 1961,switzerland,CHE,0.09719557449937385
 1962,switzerland,CHE,0.1256316106757275
@@ -4794,6 +4833,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,switzerland,CHE,0.2377340410018772
 2015,switzerland,CHE,0.26726131267123887
 2016,switzerland,CHE,0.27833749435937205
+2017,switzerland,CHE,0.541146331015849
 1971,syrian arab republic,SYR,0.0
 1972,syrian arab republic,SYR,0.0
 1973,syrian arab republic,SYR,0.0
@@ -4913,6 +4953,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,thailand,THA,0.06357437320127564
 2015,thailand,THA,0.07195870798826251
 2016,thailand,THA,0.09201326888837606
+2017,thailand,THA,0.9562568726632945
 1971,togo,TGO,0.0
 1972,togo,TGO,0.0
 1973,togo,TGO,0.23294509151414308
@@ -5108,6 +5149,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,turkey,TUR,0.03680417725033679
 2015,turkey,TUR,0.03169632722355473
 2016,turkey,TUR,0.026801592006097046
+2017,turkey,TUR,0.45234367805506953
 1990,turkmenistan,TKM,0.07119948685054522
 1991,turkmenistan,TKM,0.0717005076142132
 1992,turkmenistan,TKM,0.09514741310083745
@@ -5162,6 +5204,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,ukraine,UKR,0.0006488292686883105
 2015,ukraine,UKR,0.0179545838933941
 2016,ukraine,UKR,0.0006340863776728344
+2017,ukraine,UKR,0.009476676845319575
 1971,united arab emirates,ARE,0.0
 1972,united arab emirates,ARE,0.0
 1973,united arab emirates,ARE,0.0
@@ -5265,6 +5308,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,united kingdom,GBR,0.07067052458578887
 2015,united kingdom,GBR,0.06924582190568689
 2016,united kingdom,GBR,0.06047148589857067
+2017,united kingdom,GBR,0.848606463083037
 1960,united states,USA,0.007668881062910197
 1961,united states,USA,0.005814073246184538
 1962,united states,USA,0.0028088430593580377
@@ -5322,6 +5366,7 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 2014,united states,USA,0.01719182853951238
 2015,united states,USA,0.019600558816981976
 2016,united states,USA,0.017907779267845387
+2017,united states,USA,0.8579617603308783
 1971,uruguay,URY,0.017902813299232736
 1972,uruguay,URY,0.017317246273953157
 1973,uruguay,URY,0.014332151300236406
@@ -5408,39 +5453,39 @@ Year,Nation,iso_code3,frac_enfu_fuel_demand_imported_pj_fuel_electricity
 1981,venezuela,VEN,0.0
 1982,venezuela,VEN,0.0
 1983,venezuela,VEN,0.0
-1984,venezuela,VEN,0.0006846635367762128
-1985,venezuela,VEN,0.00042408821034775233
-1986,venezuela,VEN,0.05854950675922543
-1987,venezuela,VEN,0.0836098208360982
-1988,venezuela,VEN,0.08087270341207349
-1989,venezuela,VEN,0.06970207982012366
-1990,venezuela,VEN,0.07772214333756819
-1991,venezuela,VEN,0.0513499595379975
-1992,venezuela,VEN,0.00917224268851966
-1993,venezuela,VEN,0.01896342286408422
+1984,venezuela,VEN,0.0
+1985,venezuela,VEN,0.0
+1986,venezuela,VEN,0.0
+1987,venezuela,VEN,0.0
+1988,venezuela,VEN,0.0
+1989,venezuela,VEN,0.0
+1990,venezuela,VEN,0.0
+1991,venezuela,VEN,0.0
+1992,venezuela,VEN,0.0
+1993,venezuela,VEN,0.0
 1994,venezuela,VEN,0.0
-1995,venezuela,VEN,0.03852556480380499
-1996,venezuela,VEN,0.04871675763558239
-1997,venezuela,VEN,0.021193438291313444
-1998,venezuela,VEN,0.014477438444467928
-1999,venezuela,VEN,0.00019969047975637762
-2000,venezuela,VEN,0.0034988263430621373
-2001,venezuela,VEN,0.019601173519282283
-2002,venezuela,VEN,0.008550800629209857
-2003,venezuela,VEN,0.027022841656987998
-2004,venezuela,VEN,0.02642195166272942
-2005,venezuela,VEN,0.010800414262464862
-2006,venezuela,VEN,0.018562770562770562
-2007,venezuela,VEN,0.023973501246228518
-2008,venezuela,VEN,0.011085124787748694
-2009,venezuela,VEN,0.017575033114722322
-2010,venezuela,VEN,0.018491819720428758
-2011,venezuela,VEN,0.03051446367610948
-2012,venezuela,VEN,0.04257121079524603
-2013,venezuela,VEN,0.0524914207275223
-2014,venezuela,VEN,0.07213201320132014
-2015,venezuela,VEN,0.050621971978525596
-2016,venezuela,VEN,0.07173548004741209
+1995,venezuela,VEN,0.0
+1996,venezuela,VEN,3.4516424887328527e-05
+1997,venezuela,VEN,0.0
+1998,venezuela,VEN,0.0012061475834644704
+1999,venezuela,VEN,0.00023744960132211939
+2000,venezuela,VEN,0.00022831988529208963
+2001,venezuela,VEN,0.0028377336256271177
+2002,venezuela,VEN,0.008419264218547613
+2003,venezuela,VEN,0.0005567785648818344
+2004,venezuela,VEN,0.012232931317636822
+2005,venezuela,VEN,0.0
+2006,venezuela,VEN,0.0
+2007,venezuela,VEN,0.0
+2008,venezuela,VEN,0.0012958170179260572
+2009,venezuela,VEN,0.00317999592308215
+2010,venezuela,VEN,0.0
+2011,venezuela,VEN,0.0029239766081871343
+2012,venezuela,VEN,0.005432749291824781
+2013,venezuela,VEN,0.007301651239777262
+2014,venezuela,VEN,0.0
+2015,venezuela,VEN,0.0
+2016,venezuela,VEN,0.0
 1971,zambia,ZMB,0.4402342647473892
 1972,zambia,ZMB,0.26621876069839095
 1973,zambia,ZMB,0.2898561811505508
