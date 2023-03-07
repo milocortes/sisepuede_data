@@ -69,22 +69,31 @@ latam_countries = set(iso3_countries["REGION"][:26])
 
 non_values = latam_countries.symmetric_difference(latam_countries.intersection(wbal_process["Nation"]))
  
-# Impute values with the Costa Rica values
+# Impute values with the mean of the region values
+
+paises_si_tenemos_dato = latam_countries.intersection(wbal_process["Nation"])
+
 save_df = []
-impute_country_base = wbal_process.query(f"Nation == 'costa_rica'").reset_index(drop = True)
+
+year_imputa = wbal_process[wbal_process["Nation"].isin(paises_si_tenemos_dato)][["Year",sisepuede_name]].groupby("Year").mean()[sisepuede_name].index 
+valor_imputa = wbal_process[wbal_process["Nation"].isin(paises_si_tenemos_dato)][["Year",sisepuede_name]].groupby("Year").mean()[sisepuede_name].values
 
 for country in non_values:
-    impute_country = impute_country_base.copy()
-    impute_country["Nation"]= country
     ISO3 , Code = iso3_countries.loc[iso3_countries["REGION"]==country, ["ISO3","Code"]].values[0]
-    impute_country["iso_code3"]= ISO3
-    impute_country["Code"]= Code
-    impute_country["sisepuede_name"] = 0 
+    save_df.append(
+        pd.DataFrame(
+            { "Nation" : [country]*len(year_imputa),
+              "iso_code3" : [ISO3]*len(year_imputa),
+              "Year" : year_imputa,
+              sisepuede_name : valor_imputa
+            
+            }
+        )
+    )
 
-    save_df.append(impute_country)
+save_df = pd.concat(save_df, ignore_index = True)
 
-
-wbal_var_to_proc_all = pd.concat([wbal_process]+save_df, ignore_index = True)
+wbal_var_to_proc_all = pd.concat([wbal_process, save_df], ignore_index = True)
 wbal_var_to_proc_all.sort_values(["Nation","Year"], inplace = True)
 
 ## Save historical data
