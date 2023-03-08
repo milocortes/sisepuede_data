@@ -27,7 +27,7 @@ iso3_m49_correspondence = pd.read_html("https://unstats.un.org/unsd/methodology/
 
 iso3_m49_correspondence.rename(columns = {"Country or Area" : "Nation", "ISO-alpha3 code" : "iso_code3"}, inplace = True)
 iso3_m49_correspondence = iso3_m49_correspondence[["Nation", "iso_code3"]]
-
+iso3_m49_correspondence["Nation"] = iso3_m49_correspondence["Nation"].replace({"Türkiye" : "Turkey"})
 # Merge iso code 3
 pp_plants = pp_plants.merge(right = iso3_m49_correspondence, how = "inner", on = "Nation")
 
