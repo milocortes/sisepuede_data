@@ -318,46 +318,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Angola,AGO,0.0
 2019,Angola,AGO,0.0
 2020,Angola,AGO,0.0
-1981,Antarctica,ATA,0.0
-1982,Antarctica,ATA,0.0
-1983,Antarctica,ATA,0.0
-1984,Antarctica,ATA,0.0
-1985,Antarctica,ATA,0.0
-1986,Antarctica,ATA,0.0
-1987,Antarctica,ATA,0.0
-1988,Antarctica,ATA,0.0
-1989,Antarctica,ATA,0.0
-1990,Antarctica,ATA,0.0
-1991,Antarctica,ATA,0.0
-1992,Antarctica,ATA,0.0
-1993,Antarctica,ATA,0.0
-1994,Antarctica,ATA,0.0
-1995,Antarctica,ATA,0.0
-1996,Antarctica,ATA,0.0
-1997,Antarctica,ATA,0.0
-1998,Antarctica,ATA,0.0
-1999,Antarctica,ATA,0.0
-2000,Antarctica,ATA,0.0
-2001,Antarctica,ATA,0.0
-2002,Antarctica,ATA,0.0
-2003,Antarctica,ATA,0.0
-2004,Antarctica,ATA,0.0
-2005,Antarctica,ATA,0.0
-2006,Antarctica,ATA,0.0
-2007,Antarctica,ATA,0.0
-2008,Antarctica,ATA,0.0
-2009,Antarctica,ATA,0.0
-2010,Antarctica,ATA,0.0
-2011,Antarctica,ATA,0.0
-2012,Antarctica,ATA,0.0
-2013,Antarctica,ATA,0.0
-2014,Antarctica,ATA,0.0
-2015,Antarctica,ATA,0.0
-2016,Antarctica,ATA,0.0
-2017,Antarctica,ATA,0.0
-2018,Antarctica,ATA,0.0
-2019,Antarctica,ATA,0.0
-2020,Antarctica,ATA,0.0
 1928,Argentina,ARG,0.0
 1929,Argentina,ARG,0.0
 1930,Argentina,ARG,0.0
@@ -545,19 +505,19 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1960,Australia,AUS,2.204
 1961,Australia,AUS,2.204
 1962,Australia,AUS,2.204
-1963,Australia,AUS,4.3839999999999995
-1964,Australia,AUS,4.3839999999999995
-1965,Australia,AUS,4.3839999999999995
-1966,Australia,AUS,4.3839999999999995
-1967,Australia,AUS,4.3839999999999995
-1968,Australia,AUS,4.3839999999999995
-1969,Australia,AUS,4.3839999999999995
-1970,Australia,AUS,4.3839999999999995
-1971,Australia,AUS,4.3839999999999995
-1972,Australia,AUS,4.3839999999999995
-1973,Australia,AUS,4.3839999999999995
-1974,Australia,AUS,4.3839999999999995
-1975,Australia,AUS,4.3839999999999995
+1963,Australia,AUS,4.384
+1964,Australia,AUS,4.384
+1965,Australia,AUS,4.384
+1966,Australia,AUS,4.384
+1967,Australia,AUS,4.384
+1968,Australia,AUS,4.384
+1969,Australia,AUS,4.384
+1970,Australia,AUS,4.384
+1971,Australia,AUS,4.384
+1972,Australia,AUS,4.384
+1973,Australia,AUS,4.384
+1974,Australia,AUS,4.384
+1975,Australia,AUS,4.384
 1976,Australia,AUS,4.504
 1977,Australia,AUS,4.504
 1978,Australia,AUS,4.504
@@ -578,13 +538,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1993,Australia,AUS,10.207
 1994,Australia,AUS,11.207
 1995,Australia,AUS,11.207
-1996,Australia,AUS,11.357
-1997,Australia,AUS,11.357
+1996,Australia,AUS,11.357000000000001
+1997,Australia,AUS,11.357000000000001
 1998,Australia,AUS,10.613
-1999,Australia,AUS,10.777999999999999
-2000,Australia,AUS,10.777999999999999
-2001,Australia,AUS,10.777999999999999
-2002,Australia,AUS,10.777999999999999
+1999,Australia,AUS,10.778
+2000,Australia,AUS,10.778
+2001,Australia,AUS,10.778
+2002,Australia,AUS,10.778
 2003,Australia,AUS,13.488
 2004,Australia,AUS,13.488
 2005,Australia,AUS,14.304
@@ -600,9 +560,9 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2015,Australia,AUS,17.299
 2016,Australia,AUS,17.299
 2017,Australia,AUS,17.489
-2018,Australia,AUS,21.159000000000002
-2019,Australia,AUS,21.159000000000002
-2020,Australia,AUS,21.159000000000002
+2018,Australia,AUS,21.159
+2019,Australia,AUS,21.159
+2020,Australia,AUS,21.159
 1925,Austria,AUT,0.0
 1926,Austria,AUT,0.0
 1927,Austria,AUT,0.0
@@ -767,42 +727,107 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Azerbaijan,AZE,0.0
 2019,Azerbaijan,AZE,0.0
 2020,Azerbaijan,AZE,0.0
-1985,Bahrain,BHR,0.0
-1986,Bahrain,BHR,0.0
-1987,Bahrain,BHR,0.0
-1988,Bahrain,BHR,0.0
-1989,Bahrain,BHR,0.0
-1990,Bahrain,BHR,0.0
-1991,Bahrain,BHR,0.0
-1992,Bahrain,BHR,0.0
-1993,Bahrain,BHR,0.0
-1994,Bahrain,BHR,0.0
-1995,Bahrain,BHR,0.0
-1996,Bahrain,BHR,0.0
-1997,Bahrain,BHR,0.0
-1998,Bahrain,BHR,0.0
-1999,Bahrain,BHR,0.0
-2000,Bahrain,BHR,0.0
-2001,Bahrain,BHR,0.0
-2002,Bahrain,BHR,0.0
-2003,Bahrain,BHR,0.0
-2004,Bahrain,BHR,0.0
-2005,Bahrain,BHR,0.0
-2006,Bahrain,BHR,0.0
-2007,Bahrain,BHR,0.0
-2008,Bahrain,BHR,0.0
-2009,Bahrain,BHR,0.0
-2010,Bahrain,BHR,0.0
-2011,Bahrain,BHR,0.0
-2012,Bahrain,BHR,0.0
-2013,Bahrain,BHR,0.0
-2014,Bahrain,BHR,0.0
-2015,Bahrain,BHR,0.0
-2016,Bahrain,BHR,0.0
-2017,Bahrain,BHR,0.0
-2018,Bahrain,BHR,0.0
-2019,Bahrain,BHR,0.0
-2020,Bahrain,BHR,0.0
+1920,Bahamas,BHS,0.0
+1921,Bahamas,BHS,0.0
+1922,Bahamas,BHS,0.0
+1923,Bahamas,BHS,0.0
+1924,Bahamas,BHS,0.0
+1925,Bahamas,BHS,0.0
+1926,Bahamas,BHS,0.0
+1927,Bahamas,BHS,0.0
+1928,Bahamas,BHS,0.0
+1929,Bahamas,BHS,0.0
+1930,Bahamas,BHS,0.0
+1931,Bahamas,BHS,0.0
+1932,Bahamas,BHS,0.0
+1933,Bahamas,BHS,0.0
+1934,Bahamas,BHS,0.0
+1935,Bahamas,BHS,0.0
+1936,Bahamas,BHS,0.0
+1937,Bahamas,BHS,0.0
+1938,Bahamas,BHS,0.0
+1939,Bahamas,BHS,0.0
+1940,Bahamas,BHS,0.0
+1941,Bahamas,BHS,0.0
+1942,Bahamas,BHS,0.0
+1943,Bahamas,BHS,0.0
+1944,Bahamas,BHS,0.0
+1945,Bahamas,BHS,0.0
+1946,Bahamas,BHS,0.0
+1947,Bahamas,BHS,0.0
+1948,Bahamas,BHS,0.0
+1949,Bahamas,BHS,0.0
+1950,Bahamas,BHS,0.0
+1951,Bahamas,BHS,0.0
+1952,Bahamas,BHS,0.0
+1953,Bahamas,BHS,0.0
+1954,Bahamas,BHS,0.0
+1955,Bahamas,BHS,0.0
+1956,Bahamas,BHS,0.0
+1957,Bahamas,BHS,0.0
+1958,Bahamas,BHS,0.0
+1959,Bahamas,BHS,0.0
+1960,Bahamas,BHS,0.0
+1961,Bahamas,BHS,0.0
+1962,Bahamas,BHS,0.01506666666666667
+1963,Bahamas,BHS,0.0164
+1964,Bahamas,BHS,0.0164
+1965,Bahamas,BHS,0.1069375
+1966,Bahamas,BHS,0.1069375
+1967,Bahamas,BHS,0.1069375
+1968,Bahamas,BHS,0.1198125
+1969,Bahamas,BHS,0.1198125
+1970,Bahamas,BHS,0.1198125
+1971,Bahamas,BHS,0.14951875
+1972,Bahamas,BHS,0.14951875
+1973,Bahamas,BHS,0.14951875
+1974,Bahamas,BHS,0.17739375000000002
+1975,Bahamas,BHS,0.18048823529411767
+1976,Bahamas,BHS,0.17046111111111112
+1977,Bahamas,BHS,0.17046111111111112
+1978,Bahamas,BHS,0.17046111111111112
+1979,Bahamas,BHS,0.1850166666666667
+1980,Bahamas,BHS,0.18740555555555555
+1981,Bahamas,BHS,0.1775421052631579
+1982,Bahamas,BHS,0.1775421052631579
+1983,Bahamas,BHS,0.2818684210526316
+1984,Bahamas,BHS,0.2818684210526316
+1985,Bahamas,BHS,0.2993421052631579
+1986,Bahamas,BHS,0.31302631578947365
+1987,Bahamas,BHS,0.3312368421052631
+1988,Bahamas,BHS,0.3943947368421053
+1989,Bahamas,BHS,0.3943947368421053
+1990,Bahamas,BHS,0.4270263157894737
+1991,Bahamas,BHS,0.4521842105263158
+1992,Bahamas,BHS,0.4521842105263158
+1993,Bahamas,BHS,0.4729315789473684
+1994,Bahamas,BHS,0.479878947368421
+1995,Bahamas,BHS,0.4808526315789473
+1996,Bahamas,BHS,0.4821368421052631
+1997,Bahamas,BHS,0.5412421052631577
+1998,Bahamas,BHS,0.7465105263157895
+1999,Bahamas,BHS,0.7465105263157895
+2000,Bahamas,BHS,0.7806263157894736
+2001,Bahamas,BHS,0.7997789473684209
+2002,Bahamas,BHS,0.8051942105263158
+2003,Bahamas,BHS,0.8789415789473685
+2004,Bahamas,BHS,0.8789415789473685
+2005,Bahamas,BHS,0.8789415789473685
+2006,Bahamas,BHS,0.8789415789473685
+2007,Bahamas,BHS,0.8844075789473685
+2008,Bahamas,BHS,0.9242648842105264
+2009,Bahamas,BHS,0.9282227789473688
+2010,Bahamas,BHS,0.9286859368421054
+2011,Bahamas,BHS,0.9471069894736844
+2012,Bahamas,BHS,0.9395806736842104
+2013,Bahamas,BHS,0.9962821473684212
+2014,Bahamas,BHS,0.9962821473684212
+2015,Bahamas,BHS,0.9202821473684212
+2016,Bahamas,BHS,0.9447032000000002
+2017,Bahamas,BHS,0.9447032000000002
+2018,Bahamas,BHS,0.92365748
+2019,Bahamas,BHS,0.92365748
+2020,Bahamas,BHS,0.92365748
 1962,Bangladesh,BGD,0.0
 1963,Bangladesh,BGD,0.0
 1964,Bangladesh,BGD,0.0
@@ -862,65 +887,107 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Bangladesh,BGD,0.25
 2019,Bangladesh,BGD,0.25
 2020,Bangladesh,BGD,0.25
-1962,Belarus,BLR,0.0
-1963,Belarus,BLR,0.0
-1964,Belarus,BLR,0.0
-1965,Belarus,BLR,0.0
-1966,Belarus,BLR,0.0
-1967,Belarus,BLR,0.0
-1968,Belarus,BLR,0.0
-1969,Belarus,BLR,0.0
-1970,Belarus,BLR,0.0
-1971,Belarus,BLR,0.0
-1972,Belarus,BLR,0.0
-1973,Belarus,BLR,0.0
-1974,Belarus,BLR,0.0
-1975,Belarus,BLR,0.0
-1976,Belarus,BLR,0.0
-1977,Belarus,BLR,0.0
-1978,Belarus,BLR,0.0
-1979,Belarus,BLR,0.0
-1980,Belarus,BLR,0.0
-1981,Belarus,BLR,0.0
-1982,Belarus,BLR,0.0
-1983,Belarus,BLR,0.0
-1984,Belarus,BLR,0.0
-1985,Belarus,BLR,0.0
-1986,Belarus,BLR,0.0
-1987,Belarus,BLR,0.0
-1988,Belarus,BLR,0.0
-1989,Belarus,BLR,0.0
-1990,Belarus,BLR,0.0
-1991,Belarus,BLR,0.0
-1992,Belarus,BLR,0.0
-1993,Belarus,BLR,0.0
-1994,Belarus,BLR,0.0
-1995,Belarus,BLR,0.0
-1996,Belarus,BLR,0.0
-1997,Belarus,BLR,0.0
-1998,Belarus,BLR,0.0
-1999,Belarus,BLR,0.0
-2000,Belarus,BLR,0.0
-2001,Belarus,BLR,0.0
-2002,Belarus,BLR,0.0
-2003,Belarus,BLR,0.0
-2004,Belarus,BLR,0.0
-2005,Belarus,BLR,0.0
-2006,Belarus,BLR,0.0
-2007,Belarus,BLR,0.0
-2008,Belarus,BLR,0.0
-2009,Belarus,BLR,0.0
-2010,Belarus,BLR,0.0
-2011,Belarus,BLR,0.0
-2012,Belarus,BLR,0.0
-2013,Belarus,BLR,0.0
-2014,Belarus,BLR,0.0
-2015,Belarus,BLR,0.0
-2016,Belarus,BLR,0.0
-2017,Belarus,BLR,0.0
-2018,Belarus,BLR,0.0
-2019,Belarus,BLR,0.0
-2020,Belarus,BLR,0.0
+1920,Barbados,BRB,0.0
+1921,Barbados,BRB,0.0
+1922,Barbados,BRB,0.0
+1923,Barbados,BRB,0.0
+1924,Barbados,BRB,0.0
+1925,Barbados,BRB,0.0
+1926,Barbados,BRB,0.0
+1927,Barbados,BRB,0.0
+1928,Barbados,BRB,0.0
+1929,Barbados,BRB,0.0
+1930,Barbados,BRB,0.0
+1931,Barbados,BRB,0.0
+1932,Barbados,BRB,0.0
+1933,Barbados,BRB,0.0
+1934,Barbados,BRB,0.0
+1935,Barbados,BRB,0.0
+1936,Barbados,BRB,0.0
+1937,Barbados,BRB,0.0
+1938,Barbados,BRB,0.0
+1939,Barbados,BRB,0.0
+1940,Barbados,BRB,0.0
+1941,Barbados,BRB,0.0
+1942,Barbados,BRB,0.0
+1943,Barbados,BRB,0.0
+1944,Barbados,BRB,0.0
+1945,Barbados,BRB,0.0
+1946,Barbados,BRB,0.0
+1947,Barbados,BRB,0.0
+1948,Barbados,BRB,0.0
+1949,Barbados,BRB,0.0
+1950,Barbados,BRB,0.0
+1951,Barbados,BRB,0.0
+1952,Barbados,BRB,0.0
+1953,Barbados,BRB,0.0
+1954,Barbados,BRB,0.0
+1955,Barbados,BRB,0.0
+1956,Barbados,BRB,0.0
+1957,Barbados,BRB,0.0
+1958,Barbados,BRB,0.0
+1959,Barbados,BRB,0.0
+1960,Barbados,BRB,0.0
+1961,Barbados,BRB,0.0
+1962,Barbados,BRB,0.01506666666666667
+1963,Barbados,BRB,0.0164
+1964,Barbados,BRB,0.0164
+1965,Barbados,BRB,0.1069375
+1966,Barbados,BRB,0.1069375
+1967,Barbados,BRB,0.1069375
+1968,Barbados,BRB,0.1198125
+1969,Barbados,BRB,0.1198125
+1970,Barbados,BRB,0.1198125
+1971,Barbados,BRB,0.14951875
+1972,Barbados,BRB,0.14951875
+1973,Barbados,BRB,0.14951875
+1974,Barbados,BRB,0.17739375000000002
+1975,Barbados,BRB,0.18048823529411767
+1976,Barbados,BRB,0.17046111111111112
+1977,Barbados,BRB,0.17046111111111112
+1978,Barbados,BRB,0.17046111111111112
+1979,Barbados,BRB,0.1850166666666667
+1980,Barbados,BRB,0.18740555555555555
+1981,Barbados,BRB,0.1775421052631579
+1982,Barbados,BRB,0.1775421052631579
+1983,Barbados,BRB,0.2818684210526316
+1984,Barbados,BRB,0.2818684210526316
+1985,Barbados,BRB,0.2993421052631579
+1986,Barbados,BRB,0.31302631578947365
+1987,Barbados,BRB,0.3312368421052631
+1988,Barbados,BRB,0.3943947368421053
+1989,Barbados,BRB,0.3943947368421053
+1990,Barbados,BRB,0.4270263157894737
+1991,Barbados,BRB,0.4521842105263158
+1992,Barbados,BRB,0.4521842105263158
+1993,Barbados,BRB,0.4729315789473684
+1994,Barbados,BRB,0.479878947368421
+1995,Barbados,BRB,0.4808526315789473
+1996,Barbados,BRB,0.4821368421052631
+1997,Barbados,BRB,0.5412421052631577
+1998,Barbados,BRB,0.7465105263157895
+1999,Barbados,BRB,0.7465105263157895
+2000,Barbados,BRB,0.7806263157894736
+2001,Barbados,BRB,0.7997789473684209
+2002,Barbados,BRB,0.8051942105263158
+2003,Barbados,BRB,0.8789415789473685
+2004,Barbados,BRB,0.8789415789473685
+2005,Barbados,BRB,0.8789415789473685
+2006,Barbados,BRB,0.8789415789473685
+2007,Barbados,BRB,0.8844075789473685
+2008,Barbados,BRB,0.9242648842105264
+2009,Barbados,BRB,0.9282227789473688
+2010,Barbados,BRB,0.9286859368421054
+2011,Barbados,BRB,0.9471069894736844
+2012,Barbados,BRB,0.9395806736842104
+2013,Barbados,BRB,0.9962821473684212
+2014,Barbados,BRB,0.9962821473684212
+2015,Barbados,BRB,0.9202821473684212
+2016,Barbados,BRB,0.9447032000000002
+2017,Barbados,BRB,0.9447032000000002
+2018,Barbados,BRB,0.92365748
+2019,Barbados,BRB,0.92365748
+2020,Barbados,BRB,0.92365748
 1937,Belgium,BEL,0.0
 1938,Belgium,BEL,0.0
 1939,Belgium,BEL,0.0
@@ -1005,52 +1072,107 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Belgium,BEL,0.0
 2019,Belgium,BEL,0.0
 2020,Belgium,BEL,0.0
-1975,Benin,BEN,0.0
-1976,Benin,BEN,0.0
-1977,Benin,BEN,0.0
-1978,Benin,BEN,0.0
-1979,Benin,BEN,0.0
-1980,Benin,BEN,0.0
-1981,Benin,BEN,0.0
-1982,Benin,BEN,0.0
-1983,Benin,BEN,0.0
-1984,Benin,BEN,0.0
-1985,Benin,BEN,0.0
-1986,Benin,BEN,0.0
-1987,Benin,BEN,0.0
-1988,Benin,BEN,0.0
-1989,Benin,BEN,0.0
-1990,Benin,BEN,0.0
-1991,Benin,BEN,0.0
-1992,Benin,BEN,0.0
-1993,Benin,BEN,0.0
-1994,Benin,BEN,0.0
-1995,Benin,BEN,0.0
-1996,Benin,BEN,0.0
-1997,Benin,BEN,0.0
-1998,Benin,BEN,0.0
-1999,Benin,BEN,0.0
-2000,Benin,BEN,0.0
-2001,Benin,BEN,0.0
-2002,Benin,BEN,0.0
-2003,Benin,BEN,0.0
-2004,Benin,BEN,0.0
-2005,Benin,BEN,0.0
-2006,Benin,BEN,0.0
-2007,Benin,BEN,0.0
-2008,Benin,BEN,0.0
-2009,Benin,BEN,0.0
-2010,Benin,BEN,0.0
-2011,Benin,BEN,0.0
-2012,Benin,BEN,0.0
-2013,Benin,BEN,0.0
-2014,Benin,BEN,0.0
-2015,Benin,BEN,0.0
-2016,Benin,BEN,0.0
-2017,Benin,BEN,0.0
-2018,Benin,BEN,0.0
-2019,Benin,BEN,0.0
-2020,Benin,BEN,0.0
+1920,Belize,BLZ,0.0
+1921,Belize,BLZ,0.0
+1922,Belize,BLZ,0.0
+1923,Belize,BLZ,0.0
+1924,Belize,BLZ,0.0
+1925,Belize,BLZ,0.0
+1926,Belize,BLZ,0.0
+1927,Belize,BLZ,0.0
+1928,Belize,BLZ,0.0
+1929,Belize,BLZ,0.0
+1930,Belize,BLZ,0.0
+1931,Belize,BLZ,0.0
+1932,Belize,BLZ,0.0
+1933,Belize,BLZ,0.0
+1934,Belize,BLZ,0.0
+1935,Belize,BLZ,0.0
+1936,Belize,BLZ,0.0
+1937,Belize,BLZ,0.0
+1938,Belize,BLZ,0.0
+1939,Belize,BLZ,0.0
+1940,Belize,BLZ,0.0
+1941,Belize,BLZ,0.0
+1942,Belize,BLZ,0.0
+1943,Belize,BLZ,0.0
+1944,Belize,BLZ,0.0
+1945,Belize,BLZ,0.0
+1946,Belize,BLZ,0.0
+1947,Belize,BLZ,0.0
+1948,Belize,BLZ,0.0
+1949,Belize,BLZ,0.0
+1950,Belize,BLZ,0.0
+1951,Belize,BLZ,0.0
+1952,Belize,BLZ,0.0
+1953,Belize,BLZ,0.0
+1954,Belize,BLZ,0.0
+1955,Belize,BLZ,0.0
+1956,Belize,BLZ,0.0
+1957,Belize,BLZ,0.0
+1958,Belize,BLZ,0.0
+1959,Belize,BLZ,0.0
+1960,Belize,BLZ,0.0
+1961,Belize,BLZ,0.0
+1962,Belize,BLZ,0.01506666666666667
+1963,Belize,BLZ,0.0164
+1964,Belize,BLZ,0.0164
+1965,Belize,BLZ,0.1069375
+1966,Belize,BLZ,0.1069375
+1967,Belize,BLZ,0.1069375
+1968,Belize,BLZ,0.1198125
+1969,Belize,BLZ,0.1198125
+1970,Belize,BLZ,0.1198125
+1971,Belize,BLZ,0.14951875
+1972,Belize,BLZ,0.14951875
+1973,Belize,BLZ,0.14951875
+1974,Belize,BLZ,0.17739375000000002
+1975,Belize,BLZ,0.18048823529411767
+1976,Belize,BLZ,0.17046111111111112
+1977,Belize,BLZ,0.17046111111111112
+1978,Belize,BLZ,0.17046111111111112
+1979,Belize,BLZ,0.1850166666666667
+1980,Belize,BLZ,0.18740555555555555
+1981,Belize,BLZ,0.1775421052631579
+1982,Belize,BLZ,0.1775421052631579
+1983,Belize,BLZ,0.2818684210526316
+1984,Belize,BLZ,0.2818684210526316
+1985,Belize,BLZ,0.2993421052631579
+1986,Belize,BLZ,0.31302631578947365
+1987,Belize,BLZ,0.3312368421052631
+1988,Belize,BLZ,0.3943947368421053
+1989,Belize,BLZ,0.3943947368421053
+1990,Belize,BLZ,0.4270263157894737
+1991,Belize,BLZ,0.4521842105263158
+1992,Belize,BLZ,0.4521842105263158
+1993,Belize,BLZ,0.4729315789473684
+1994,Belize,BLZ,0.479878947368421
+1995,Belize,BLZ,0.4808526315789473
+1996,Belize,BLZ,0.4821368421052631
+1997,Belize,BLZ,0.5412421052631577
+1998,Belize,BLZ,0.7465105263157895
+1999,Belize,BLZ,0.7465105263157895
+2000,Belize,BLZ,0.7806263157894736
+2001,Belize,BLZ,0.7997789473684209
+2002,Belize,BLZ,0.8051942105263158
+2003,Belize,BLZ,0.8789415789473685
+2004,Belize,BLZ,0.8789415789473685
+2005,Belize,BLZ,0.8789415789473685
+2006,Belize,BLZ,0.8789415789473685
+2007,Belize,BLZ,0.8844075789473685
+2008,Belize,BLZ,0.9242648842105264
+2009,Belize,BLZ,0.9282227789473688
+2010,Belize,BLZ,0.9286859368421054
+2011,Belize,BLZ,0.9471069894736844
+2012,Belize,BLZ,0.9395806736842104
+2013,Belize,BLZ,0.9962821473684212
+2014,Belize,BLZ,0.9962821473684212
+2015,Belize,BLZ,0.9202821473684212
+2016,Belize,BLZ,0.9447032000000002
+2017,Belize,BLZ,0.9447032000000002
+2018,Belize,BLZ,0.92365748
+2019,Belize,BLZ,0.92365748
+2020,Belize,BLZ,0.92365748
 1953,Bhutan,BTN,0.0
 1954,Bhutan,BTN,0.0
 1955,Bhutan,BTN,0.0
@@ -1119,6 +1241,107 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Bhutan,BTN,0.0
 2019,Bhutan,BTN,0.0
 2020,Bhutan,BTN,0.0
+1920,Bolivia,BOL,0.0
+1921,Bolivia,BOL,0.0
+1922,Bolivia,BOL,0.0
+1923,Bolivia,BOL,0.0
+1924,Bolivia,BOL,0.0
+1925,Bolivia,BOL,0.0
+1926,Bolivia,BOL,0.0
+1927,Bolivia,BOL,0.0
+1928,Bolivia,BOL,0.0
+1929,Bolivia,BOL,0.0
+1930,Bolivia,BOL,0.0
+1931,Bolivia,BOL,0.0
+1932,Bolivia,BOL,0.0
+1933,Bolivia,BOL,0.0
+1934,Bolivia,BOL,0.0
+1935,Bolivia,BOL,0.0
+1936,Bolivia,BOL,0.0
+1937,Bolivia,BOL,0.0
+1938,Bolivia,BOL,0.0
+1939,Bolivia,BOL,0.0
+1940,Bolivia,BOL,0.0
+1941,Bolivia,BOL,0.0
+1942,Bolivia,BOL,0.0
+1943,Bolivia,BOL,0.0
+1944,Bolivia,BOL,0.0
+1945,Bolivia,BOL,0.0
+1946,Bolivia,BOL,0.0
+1947,Bolivia,BOL,0.0
+1948,Bolivia,BOL,0.0
+1949,Bolivia,BOL,0.0
+1950,Bolivia,BOL,0.0
+1951,Bolivia,BOL,0.0
+1952,Bolivia,BOL,0.0
+1953,Bolivia,BOL,0.0
+1954,Bolivia,BOL,0.0
+1955,Bolivia,BOL,0.0
+1956,Bolivia,BOL,0.0
+1957,Bolivia,BOL,0.0
+1958,Bolivia,BOL,0.0
+1959,Bolivia,BOL,0.0
+1960,Bolivia,BOL,0.0
+1961,Bolivia,BOL,0.0
+1962,Bolivia,BOL,0.01506666666666667
+1963,Bolivia,BOL,0.0164
+1964,Bolivia,BOL,0.0164
+1965,Bolivia,BOL,0.1069375
+1966,Bolivia,BOL,0.1069375
+1967,Bolivia,BOL,0.1069375
+1968,Bolivia,BOL,0.1198125
+1969,Bolivia,BOL,0.1198125
+1970,Bolivia,BOL,0.1198125
+1971,Bolivia,BOL,0.14951875
+1972,Bolivia,BOL,0.14951875
+1973,Bolivia,BOL,0.14951875
+1974,Bolivia,BOL,0.17739375000000002
+1975,Bolivia,BOL,0.18048823529411767
+1976,Bolivia,BOL,0.17046111111111112
+1977,Bolivia,BOL,0.17046111111111112
+1978,Bolivia,BOL,0.17046111111111112
+1979,Bolivia,BOL,0.1850166666666667
+1980,Bolivia,BOL,0.18740555555555555
+1981,Bolivia,BOL,0.1775421052631579
+1982,Bolivia,BOL,0.1775421052631579
+1983,Bolivia,BOL,0.2818684210526316
+1984,Bolivia,BOL,0.2818684210526316
+1985,Bolivia,BOL,0.2993421052631579
+1986,Bolivia,BOL,0.31302631578947365
+1987,Bolivia,BOL,0.3312368421052631
+1988,Bolivia,BOL,0.3943947368421053
+1989,Bolivia,BOL,0.3943947368421053
+1990,Bolivia,BOL,0.4270263157894737
+1991,Bolivia,BOL,0.4521842105263158
+1992,Bolivia,BOL,0.4521842105263158
+1993,Bolivia,BOL,0.4729315789473684
+1994,Bolivia,BOL,0.479878947368421
+1995,Bolivia,BOL,0.4808526315789473
+1996,Bolivia,BOL,0.4821368421052631
+1997,Bolivia,BOL,0.5412421052631577
+1998,Bolivia,BOL,0.7465105263157895
+1999,Bolivia,BOL,0.7465105263157895
+2000,Bolivia,BOL,0.7806263157894736
+2001,Bolivia,BOL,0.7997789473684209
+2002,Bolivia,BOL,0.8051942105263158
+2003,Bolivia,BOL,0.8789415789473685
+2004,Bolivia,BOL,0.8789415789473685
+2005,Bolivia,BOL,0.8789415789473685
+2006,Bolivia,BOL,0.8789415789473685
+2007,Bolivia,BOL,0.8844075789473685
+2008,Bolivia,BOL,0.9242648842105264
+2009,Bolivia,BOL,0.9282227789473688
+2010,Bolivia,BOL,0.9286859368421054
+2011,Bolivia,BOL,0.9471069894736844
+2012,Bolivia,BOL,0.9395806736842104
+2013,Bolivia,BOL,0.9962821473684212
+2014,Bolivia,BOL,0.9962821473684212
+2015,Bolivia,BOL,0.9202821473684212
+2016,Bolivia,BOL,0.9447032000000002
+2017,Bolivia,BOL,0.9447032000000002
+2018,Bolivia,BOL,0.92365748
+2019,Bolivia,BOL,0.92365748
+2020,Bolivia,BOL,0.92365748
 1920,Bosnia and Herzegovina,BIH,0.0
 1921,Bosnia and Herzegovina,BIH,0.0
 1922,Bosnia and Herzegovina,BIH,0.0
@@ -1354,8 +1577,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2008,Brazil,BRA,1.607844
 2009,Brazil,BRA,1.6830440000000002
 2010,Brazil,BRA,1.691844
-2011,Brazil,BRA,2.0418439999999998
-2012,Brazil,BRA,2.0418439999999998
+2011,Brazil,BRA,2.041844
+2012,Brazil,BRA,2.041844
 2013,Brazil,BRA,2.7469810000000003
 2014,Brazil,BRA,2.7469810000000003
 2015,Brazil,BRA,2.535981
@@ -1364,57 +1587,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Brazil,BRA,2.540881
 2019,Brazil,BRA,2.540881
 2020,Brazil,BRA,2.540881
-1960,Brunei Darussalam,BRN,0.0
-1961,Brunei Darussalam,BRN,0.0
-1962,Brunei Darussalam,BRN,0.0
-1963,Brunei Darussalam,BRN,0.0
-1964,Brunei Darussalam,BRN,0.0
-1965,Brunei Darussalam,BRN,0.0
-1966,Brunei Darussalam,BRN,0.0
-1967,Brunei Darussalam,BRN,0.0
-1968,Brunei Darussalam,BRN,0.0
-1969,Brunei Darussalam,BRN,0.0
-1970,Brunei Darussalam,BRN,0.0
-1971,Brunei Darussalam,BRN,0.0
-1972,Brunei Darussalam,BRN,0.0
-1973,Brunei Darussalam,BRN,0.0
-1974,Brunei Darussalam,BRN,0.0
-1975,Brunei Darussalam,BRN,0.0
-1976,Brunei Darussalam,BRN,0.0
-1977,Brunei Darussalam,BRN,0.0
-1978,Brunei Darussalam,BRN,0.0
-1979,Brunei Darussalam,BRN,0.0
-1980,Brunei Darussalam,BRN,0.0
-1981,Brunei Darussalam,BRN,0.0
-1982,Brunei Darussalam,BRN,0.0
-1983,Brunei Darussalam,BRN,0.0
-1984,Brunei Darussalam,BRN,0.0
-1995,Brunei Darussalam,BRN,0.0
-1996,Brunei Darussalam,BRN,0.0
-1997,Brunei Darussalam,BRN,0.0
-1998,Brunei Darussalam,BRN,0.0
-1999,Brunei Darussalam,BRN,0.0
-2000,Brunei Darussalam,BRN,0.0
-2001,Brunei Darussalam,BRN,0.0
-2002,Brunei Darussalam,BRN,0.0
-2003,Brunei Darussalam,BRN,0.0
-2004,Brunei Darussalam,BRN,0.0
-2005,Brunei Darussalam,BRN,0.0
-2006,Brunei Darussalam,BRN,0.0
-2007,Brunei Darussalam,BRN,0.0
-2008,Brunei Darussalam,BRN,0.0
-2009,Brunei Darussalam,BRN,0.0
-2010,Brunei Darussalam,BRN,0.0
-2011,Brunei Darussalam,BRN,0.0
-2012,Brunei Darussalam,BRN,0.0
-2013,Brunei Darussalam,BRN,0.0
-2014,Brunei Darussalam,BRN,0.0
-2015,Brunei Darussalam,BRN,0.0
-2016,Brunei Darussalam,BRN,0.0
-2017,Brunei Darussalam,BRN,0.0
-2018,Brunei Darussalam,BRN,0.0
-2019,Brunei Darussalam,BRN,0.0
-2020,Brunei Darussalam,BRN,0.0
 1924,Bulgaria,BGR,0.0
 1925,Bulgaria,BGR,0.0
 1926,Bulgaria,BGR,0.0
@@ -1502,16 +1674,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2008,Bulgaria,BGR,3.91
 2009,Bulgaria,BGR,4.0840000000000005
 2010,Bulgaria,BGR,4.0840000000000005
-2011,Bulgaria,BGR,4.513999999999999
-2012,Bulgaria,BGR,4.513999999999999
-2013,Bulgaria,BGR,4.513999999999999
-2014,Bulgaria,BGR,4.513999999999999
+2011,Bulgaria,BGR,4.5139999999999985
+2012,Bulgaria,BGR,4.5139999999999985
+2013,Bulgaria,BGR,4.5139999999999985
+2014,Bulgaria,BGR,4.5139999999999985
 2015,Bulgaria,BGR,4.3340000000000005
 2016,Bulgaria,BGR,4.3340000000000005
 2017,Bulgaria,BGR,4.3340000000000005
 2018,Bulgaria,BGR,4.3340000000000005
 2019,Bulgaria,BGR,4.3340000000000005
-2020,Bulgaria,BGR,4.2139999999999995
+2020,Bulgaria,BGR,4.214
 1972,Burkina Faso,BFA,0.0
 1973,Burkina Faso,BFA,0.0
 1974,Burkina Faso,BFA,0.0
@@ -1628,31 +1800,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Burundi,BDI,0.0
 2019,Burundi,BDI,0.0
 2020,Burundi,BDI,0.0
-1996,Cambodia,KHM,0.0
-1997,Cambodia,KHM,0.0
-1998,Cambodia,KHM,0.0
-1999,Cambodia,KHM,0.0
-2000,Cambodia,KHM,0.0
-2001,Cambodia,KHM,0.0
-2002,Cambodia,KHM,0.0
-2003,Cambodia,KHM,0.0
-2004,Cambodia,KHM,0.0
-2005,Cambodia,KHM,0.0
-2006,Cambodia,KHM,0.0
-2007,Cambodia,KHM,0.0
-2008,Cambodia,KHM,0.0
-2009,Cambodia,KHM,0.0
-2010,Cambodia,KHM,0.0
-2011,Cambodia,KHM,0.0
-2012,Cambodia,KHM,0.0
-2013,Cambodia,KHM,0.0
-2014,Cambodia,KHM,0.1
-2015,Cambodia,KHM,0.505
-2016,Cambodia,KHM,0.505
-2017,Cambodia,KHM,0.505
-2018,Cambodia,KHM,0.505
-2019,Cambodia,KHM,0.505
-2020,Cambodia,KHM,0.505
 1964,Cameroon,CMR,0.0
 1965,Cameroon,CMR,0.0
 1966,Cameroon,CMR,0.0
@@ -1790,16 +1937,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1997,Canada,CAN,4.4030000000000005
 1998,Canada,CAN,4.4030000000000005
 1999,Canada,CAN,4.4030000000000005
-2000,Canada,CAN,5.218999999999999
-2001,Canada,CAN,5.218999999999999
-2002,Canada,CAN,5.218999999999999
-2003,Canada,CAN,5.372999999999999
+2000,Canada,CAN,5.2189999999999985
+2001,Canada,CAN,5.2189999999999985
+2002,Canada,CAN,5.2189999999999985
+2003,Canada,CAN,5.372999999999998
 2004,Canada,CAN,6.7490000000000006
 2005,Canada,CAN,6.7490000000000006
 2006,Canada,CAN,6.7490000000000006
 2007,Canada,CAN,6.7490000000000006
 2008,Canada,CAN,6.651
-2009,Canada,CAN,7.3229999999999995
+2009,Canada,CAN,7.322999999999999
 2010,Canada,CAN,8.576
 2011,Canada,CAN,8.883000000000003
 2012,Canada,CAN,8.883000000000003
@@ -1811,106 +1958,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Canada,CAN,9.674
 2019,Canada,CAN,9.674
 2020,Canada,CAN,9.674
-1920,Central African Republic,CAF,0.0
-1921,Central African Republic,CAF,0.0
-1922,Central African Republic,CAF,0.0
-1923,Central African Republic,CAF,0.0
-1924,Central African Republic,CAF,0.0
-1925,Central African Republic,CAF,0.0
-1926,Central African Republic,CAF,0.0
-1927,Central African Republic,CAF,0.0
-1928,Central African Republic,CAF,0.0
-1929,Central African Republic,CAF,0.0
-1930,Central African Republic,CAF,0.0
-1931,Central African Republic,CAF,0.0
-1932,Central African Republic,CAF,0.0
-1933,Central African Republic,CAF,0.0
-1934,Central African Republic,CAF,0.0
-1935,Central African Republic,CAF,0.0
-1936,Central African Republic,CAF,0.0
-1937,Central African Republic,CAF,0.0
-1938,Central African Republic,CAF,0.0
-1939,Central African Republic,CAF,0.0
-1940,Central African Republic,CAF,0.0
-1941,Central African Republic,CAF,0.0
-1942,Central African Republic,CAF,0.0
-1943,Central African Republic,CAF,0.0
-1944,Central African Republic,CAF,0.0
-1945,Central African Republic,CAF,0.0
-1946,Central African Republic,CAF,0.0
-1947,Central African Republic,CAF,0.0
-1948,Central African Republic,CAF,0.0
-1949,Central African Republic,CAF,0.0
-1950,Central African Republic,CAF,0.0
-1951,Central African Republic,CAF,0.0
-1952,Central African Republic,CAF,0.0
-1953,Central African Republic,CAF,0.0
-1954,Central African Republic,CAF,0.0
-1955,Central African Republic,CAF,0.0
-1956,Central African Republic,CAF,0.0
-1957,Central African Republic,CAF,0.0
-1958,Central African Republic,CAF,0.0
-1959,Central African Republic,CAF,0.0
-1960,Central African Republic,CAF,0.0
-1961,Central African Republic,CAF,0.0
-1962,Central African Republic,CAF,0.0
-1963,Central African Republic,CAF,0.0
-1964,Central African Republic,CAF,0.0
-1965,Central African Republic,CAF,0.0
-1966,Central African Republic,CAF,0.0
-1967,Central African Republic,CAF,0.0
-1968,Central African Republic,CAF,0.0
-1969,Central African Republic,CAF,0.0
-1970,Central African Republic,CAF,0.0
-1971,Central African Republic,CAF,0.0
-1972,Central African Republic,CAF,0.0
-1973,Central African Republic,CAF,0.0
-1974,Central African Republic,CAF,0.0
-1975,Central African Republic,CAF,0.0
-1976,Central African Republic,CAF,0.0
-1977,Central African Republic,CAF,0.0
-1978,Central African Republic,CAF,0.0
-1979,Central African Republic,CAF,0.0
-1980,Central African Republic,CAF,0.0
-1981,Central African Republic,CAF,0.0
-1982,Central African Republic,CAF,0.0
-1983,Central African Republic,CAF,0.0
-1984,Central African Republic,CAF,0.0
-1985,Central African Republic,CAF,0.0
-1986,Central African Republic,CAF,0.0
-1987,Central African Republic,CAF,0.0
-1988,Central African Republic,CAF,0.0
-1989,Central African Republic,CAF,0.0
-1990,Central African Republic,CAF,0.0
-1991,Central African Republic,CAF,0.0
-1992,Central African Republic,CAF,0.0
-1993,Central African Republic,CAF,0.0
-1994,Central African Republic,CAF,0.0
-1995,Central African Republic,CAF,0.0
-1996,Central African Republic,CAF,0.0
-1997,Central African Republic,CAF,0.0
-1998,Central African Republic,CAF,0.0
-1999,Central African Republic,CAF,0.0
-2000,Central African Republic,CAF,0.0
-2001,Central African Republic,CAF,0.0
-2002,Central African Republic,CAF,0.0
-2003,Central African Republic,CAF,0.0
-2004,Central African Republic,CAF,0.0
-2005,Central African Republic,CAF,0.0
-2006,Central African Republic,CAF,0.0
-2007,Central African Republic,CAF,0.0
-2008,Central African Republic,CAF,0.0
-2009,Central African Republic,CAF,0.0
-2010,Central African Republic,CAF,0.0
-2011,Central African Republic,CAF,0.0
-2012,Central African Republic,CAF,0.0
-2013,Central African Republic,CAF,0.0
-2014,Central African Republic,CAF,0.0
-2015,Central African Republic,CAF,0.0
-2016,Central African Republic,CAF,0.0
-2017,Central African Republic,CAF,0.0
-2018,Central African Republic,CAF,0.0
-2019,Central African Republic,CAF,0.0
 1920,Chile,CHL,0.0
 1921,Chile,CHL,0.0
 1922,Chile,CHL,0.0
@@ -2079,18 +2126,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1984,China,CHN,5.44
 1985,China,CHN,5.64
 1986,China,CHN,13.158
-1987,China,CHN,14.902999999999999
+1987,China,CHN,14.903
 1988,China,CHN,18.253
 1989,China,CHN,22.573
 1990,China,CHN,25.303
-1991,China,CHN,27.828000000000003
+1991,China,CHN,27.828000000000007
 1992,China,CHN,35.668
 1993,China,CHN,36.168
 1994,China,CHN,44.808
 1995,China,CHN,52.765
 1996,China,CHN,64.975
 1997,China,CHN,73.185
-1998,China,CHN,97.09200000000001
+1998,China,CHN,97.092
 1999,China,CHN,109.272
 2000,China,CHN,133.833
 2001,China,CHN,160.191
@@ -2107,7 +2154,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2012,China,CHN,753.427
 2013,China,CHN,801.967
 2014,China,CHN,838.572
-2015,China,CHN,889.5120000000002
+2015,China,CHN,889.5120000000003
 2016,China,CHN,931.482
 2017,China,CHN,944.512
 2018,China,CHN,953.378
@@ -2173,19 +2220,19 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1984,Colombia,COL,0.23
 1985,Colombia,COL,0.56
 1986,Colombia,COL,0.56
-1987,Colombia,COL,0.9059999999999999
-1988,Colombia,COL,0.9059999999999999
-1989,Colombia,COL,0.9059999999999999
-1990,Colombia,COL,0.9059999999999999
-1991,Colombia,COL,0.9059999999999999
-1992,Colombia,COL,0.9059999999999999
-1993,Colombia,COL,0.9059999999999999
-1994,Colombia,COL,0.9059999999999999
-1995,Colombia,COL,0.9059999999999999
-1996,Colombia,COL,0.9059999999999999
-1997,Colombia,COL,0.9059999999999999
-1998,Colombia,COL,0.9059999999999999
-1999,Colombia,COL,0.9059999999999999
+1987,Colombia,COL,0.906
+1988,Colombia,COL,0.906
+1989,Colombia,COL,0.906
+1990,Colombia,COL,0.906
+1991,Colombia,COL,0.906
+1992,Colombia,COL,0.906
+1993,Colombia,COL,0.906
+1994,Colombia,COL,0.906
+1995,Colombia,COL,0.906
+1996,Colombia,COL,0.906
+1997,Colombia,COL,0.906
+1998,Colombia,COL,0.906
+1999,Colombia,COL,0.906
 2000,Colombia,COL,1.229
 2001,Colombia,COL,1.229
 2002,Colombia,COL,1.229
@@ -2516,51 +2563,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Cuba,CUB,0.0
 2019,Cuba,CUB,0.0
 2020,Cuba,CUB,0.0
-1976,Cyprus,CYP,0.0
-1977,Cyprus,CYP,0.0
-1978,Cyprus,CYP,0.0
-1979,Cyprus,CYP,0.0
-1980,Cyprus,CYP,0.0
-1981,Cyprus,CYP,0.0
-1982,Cyprus,CYP,0.0
-1983,Cyprus,CYP,0.0
-1984,Cyprus,CYP,0.0
-1985,Cyprus,CYP,0.0
-1986,Cyprus,CYP,0.0
-1987,Cyprus,CYP,0.0
-1988,Cyprus,CYP,0.0
-1989,Cyprus,CYP,0.0
-1990,Cyprus,CYP,0.0
-1991,Cyprus,CYP,0.0
-1992,Cyprus,CYP,0.0
-1993,Cyprus,CYP,0.0
-1994,Cyprus,CYP,0.0
-1995,Cyprus,CYP,0.0
-1996,Cyprus,CYP,0.0
-1997,Cyprus,CYP,0.0
-1998,Cyprus,CYP,0.0
-1999,Cyprus,CYP,0.0
-2000,Cyprus,CYP,0.0
-2001,Cyprus,CYP,0.0
-2002,Cyprus,CYP,0.0
-2003,Cyprus,CYP,0.0
-2004,Cyprus,CYP,0.0
-2005,Cyprus,CYP,0.0
-2006,Cyprus,CYP,0.0
-2007,Cyprus,CYP,0.0
-2008,Cyprus,CYP,0.0
-2009,Cyprus,CYP,0.0
-2010,Cyprus,CYP,0.0
-2011,Cyprus,CYP,0.0
-2012,Cyprus,CYP,0.0
-2013,Cyprus,CYP,0.0
-2014,Cyprus,CYP,0.0
-2015,Cyprus,CYP,0.0
-2016,Cyprus,CYP,0.0
-2017,Cyprus,CYP,0.0
-2018,Cyprus,CYP,0.0
-2019,Cyprus,CYP,0.0
-2020,Cyprus,CYP,0.0
 1930,Democratic Republic of the Congo,COD,0.0
 1931,Democratic Republic of the Congo,COD,0.0
 1932,Democratic Republic of the Congo,COD,0.0
@@ -2652,98 +2654,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Democratic Republic of the Congo,COD,0.0
 2019,Democratic Republic of the Congo,COD,0.0
 2020,Democratic Republic of the Congo,COD,0.0
-1961,Denmark,DNK,0.8150000000000001
-1962,Denmark,DNK,0.8150000000000001
-1963,Denmark,DNK,0.8150000000000001
-1964,Denmark,DNK,0.8150000000000001
-1965,Denmark,DNK,0.8150000000000001
-1966,Denmark,DNK,0.8150000000000001
-1967,Denmark,DNK,0.8150000000000001
-1968,Denmark,DNK,0.8150000000000001
-1969,Denmark,DNK,0.867
-1970,Denmark,DNK,1.131
-1971,Denmark,DNK,1.131
-1972,Denmark,DNK,1.131
-1973,Denmark,DNK,1.131
-1974,Denmark,DNK,1.861
-1975,Denmark,DNK,2.648
-1976,Denmark,DNK,2.648
-1977,Denmark,DNK,2.648
-1978,Denmark,DNK,2.648
-1979,Denmark,DNK,3.2739999999999996
-1980,Denmark,DNK,3.2739999999999996
-1981,Denmark,DNK,3.2739999999999996
-1982,Denmark,DNK,3.6039999999999996
-1983,Denmark,DNK,3.6039999999999996
-1984,Denmark,DNK,3.966
-1985,Denmark,DNK,3.966
-1986,Denmark,DNK,3.966
-1987,Denmark,DNK,3.966
-1988,Denmark,DNK,3.966
-1989,Denmark,DNK,4.6819999999999995
-1990,Denmark,DNK,4.6819999999999995
-1991,Denmark,DNK,4.6819999999999995
-1992,Denmark,DNK,5.0889999999999995
-1993,Denmark,DNK,5.0889999999999995
-1994,Denmark,DNK,5.0889999999999995
-1995,Denmark,DNK,5.0889999999999995
-1996,Denmark,DNK,5.0889999999999995
-1997,Denmark,DNK,5.0889999999999995
-1998,Denmark,DNK,5.0889999999999995
-1999,Denmark,DNK,5.0889999999999995
-2000,Denmark,DNK,5.0889999999999995
-2001,Denmark,DNK,5.0889999999999995
-2002,Denmark,DNK,5.0889999999999995
-2003,Denmark,DNK,5.0889999999999995
-2004,Denmark,DNK,5.0889999999999995
-2005,Denmark,DNK,5.0889999999999995
-2006,Denmark,DNK,5.0889999999999995
-2007,Denmark,DNK,5.0889999999999995
-2008,Denmark,DNK,5.0889999999999995
-2009,Denmark,DNK,5.0889999999999995
-2010,Denmark,DNK,5.0889999999999995
-2011,Denmark,DNK,4.274
-2012,Denmark,DNK,4.274
-2013,Denmark,DNK,4.274
-2014,Denmark,DNK,4.274
-2015,Denmark,DNK,4.274
-2016,Denmark,DNK,4.274
-2017,Denmark,DNK,4.274
-2018,Denmark,DNK,4.274
-2019,Denmark,DNK,4.2219999999999995
-2020,Denmark,DNK,3.958
-1989,Djibouti,DJI,0.0
-1990,Djibouti,DJI,0.0
-1991,Djibouti,DJI,0.0
-1992,Djibouti,DJI,0.0
-1993,Djibouti,DJI,0.0
-1994,Djibouti,DJI,0.0
-1995,Djibouti,DJI,0.0
-1996,Djibouti,DJI,0.0
-1997,Djibouti,DJI,0.0
-1998,Djibouti,DJI,0.0
-1999,Djibouti,DJI,0.0
-2000,Djibouti,DJI,0.0
-2001,Djibouti,DJI,0.0
-2002,Djibouti,DJI,0.0
-2003,Djibouti,DJI,0.0
-2004,Djibouti,DJI,0.0
-2005,Djibouti,DJI,0.0
-2006,Djibouti,DJI,0.0
-2007,Djibouti,DJI,0.0
-2008,Djibouti,DJI,0.0
-2009,Djibouti,DJI,0.0
-2010,Djibouti,DJI,0.0
-2011,Djibouti,DJI,0.0
-2012,Djibouti,DJI,0.0
-2013,Djibouti,DJI,0.0
-2014,Djibouti,DJI,0.0
-2015,Djibouti,DJI,0.0
-2016,Djibouti,DJI,0.0
-2017,Djibouti,DJI,0.0
-2018,Djibouti,DJI,0.0
-2019,Djibouti,DJI,0.0
-2020,Djibouti,DJI,0.0
 1965,Dominican Republic,DOM,0.0
 1966,Dominican Republic,DOM,0.0
 1967,Dominican Republic,DOM,0.0
@@ -3053,21 +2963,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Equatorial Guinea,GNQ,0.0
 2019,Equatorial Guinea,GNQ,0.0
 2020,Equatorial Guinea,GNQ,0.0
-2006,Eritrea,ERI,0.0
-2007,Eritrea,ERI,0.0
-2008,Eritrea,ERI,0.0
-2009,Eritrea,ERI,0.0
-2010,Eritrea,ERI,0.0
-2011,Eritrea,ERI,0.0
-2012,Eritrea,ERI,0.0
-2013,Eritrea,ERI,0.0
-2014,Eritrea,ERI,0.0
-2015,Eritrea,ERI,0.0
-2016,Eritrea,ERI,0.0
-2017,Eritrea,ERI,0.0
-2018,Eritrea,ERI,0.0
-2019,Eritrea,ERI,0.0
-2020,Eritrea,ERI,0.0
 1983,Estonia,EST,0.0
 1984,Estonia,EST,0.0
 1985,Estonia,EST,0.0
@@ -3565,52 +3460,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Gabon,GAB,0.0
 2019,Gabon,GAB,0.0
 2020,Gabon,GAB,0.0
-1975,Gambia,GMB,0.0
-1976,Gambia,GMB,0.0
-1977,Gambia,GMB,0.0
-1978,Gambia,GMB,0.0
-1979,Gambia,GMB,0.0
-1980,Gambia,GMB,0.0
-1981,Gambia,GMB,0.0
-1982,Gambia,GMB,0.0
-1983,Gambia,GMB,0.0
-1984,Gambia,GMB,0.0
-1985,Gambia,GMB,0.0
-1986,Gambia,GMB,0.0
-1987,Gambia,GMB,0.0
-1988,Gambia,GMB,0.0
-1989,Gambia,GMB,0.0
-1990,Gambia,GMB,0.0
-1991,Gambia,GMB,0.0
-1992,Gambia,GMB,0.0
-1993,Gambia,GMB,0.0
-1994,Gambia,GMB,0.0
-1995,Gambia,GMB,0.0
-1996,Gambia,GMB,0.0
-1997,Gambia,GMB,0.0
-1998,Gambia,GMB,0.0
-1999,Gambia,GMB,0.0
-2000,Gambia,GMB,0.0
-2001,Gambia,GMB,0.0
-2002,Gambia,GMB,0.0
-2003,Gambia,GMB,0.0
-2004,Gambia,GMB,0.0
-2005,Gambia,GMB,0.0
-2006,Gambia,GMB,0.0
-2007,Gambia,GMB,0.0
-2008,Gambia,GMB,0.0
-2009,Gambia,GMB,0.0
-2010,Gambia,GMB,0.0
-2011,Gambia,GMB,0.0
-2012,Gambia,GMB,0.0
-2013,Gambia,GMB,0.0
-2014,Gambia,GMB,0.0
-2015,Gambia,GMB,0.0
-2016,Gambia,GMB,0.0
-2017,Gambia,GMB,0.0
-2018,Gambia,GMB,0.0
-2019,Gambia,GMB,0.0
-2020,Gambia,GMB,0.0
 1920,Georgia,GEO,0.0
 1921,Georgia,GEO,0.0
 1922,Georgia,GEO,0.0
@@ -3749,8 +3598,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1954,Germany,DEU,0.08600000000000001
 1955,Germany,DEU,0.08600000000000001
 1956,Germany,DEU,0.08600000000000001
-1957,Germany,DEU,0.11199999999999999
-1958,Germany,DEU,0.11199999999999999
+1957,Germany,DEU,0.112
+1958,Germany,DEU,0.112
 1959,Germany,DEU,0.23
 1960,Germany,DEU,0.23
 1961,Germany,DEU,0.49
@@ -4108,91 +3957,107 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Guinea,GIN,0.0
 2019,Guinea,GIN,0.0
 2020,Guinea,GIN,0.0
-1977,Guinea-Bissau,GNB,0.0
-1978,Guinea-Bissau,GNB,0.0
-1979,Guinea-Bissau,GNB,0.0
-1980,Guinea-Bissau,GNB,0.0
-1981,Guinea-Bissau,GNB,0.0
-1982,Guinea-Bissau,GNB,0.0
-1983,Guinea-Bissau,GNB,0.0
-1984,Guinea-Bissau,GNB,0.0
-1985,Guinea-Bissau,GNB,0.0
-1986,Guinea-Bissau,GNB,0.0
-1987,Guinea-Bissau,GNB,0.0
-1988,Guinea-Bissau,GNB,0.0
-1989,Guinea-Bissau,GNB,0.0
-1990,Guinea-Bissau,GNB,0.0
-1991,Guinea-Bissau,GNB,0.0
-1992,Guinea-Bissau,GNB,0.0
-1993,Guinea-Bissau,GNB,0.0
-1994,Guinea-Bissau,GNB,0.0
-1995,Guinea-Bissau,GNB,0.0
-1996,Guinea-Bissau,GNB,0.0
-1997,Guinea-Bissau,GNB,0.0
-1998,Guinea-Bissau,GNB,0.0
-1999,Guinea-Bissau,GNB,0.0
-2000,Guinea-Bissau,GNB,0.0
-2001,Guinea-Bissau,GNB,0.0
-2002,Guinea-Bissau,GNB,0.0
-2003,Guinea-Bissau,GNB,0.0
-2004,Guinea-Bissau,GNB,0.0
-2005,Guinea-Bissau,GNB,0.0
-2006,Guinea-Bissau,GNB,0.0
-2007,Guinea-Bissau,GNB,0.0
-2008,Guinea-Bissau,GNB,0.0
-2009,Guinea-Bissau,GNB,0.0
-2010,Guinea-Bissau,GNB,0.0
-2011,Guinea-Bissau,GNB,0.0
-2012,Guinea-Bissau,GNB,0.0
-2013,Guinea-Bissau,GNB,0.0
-2014,Guinea-Bissau,GNB,0.0
-2015,Guinea-Bissau,GNB,0.0
-2016,Guinea-Bissau,GNB,0.0
-1976,Guyana,GUY,0.0
-1977,Guyana,GUY,0.0
-1978,Guyana,GUY,0.0
-1979,Guyana,GUY,0.0
-1980,Guyana,GUY,0.0
-1981,Guyana,GUY,0.0
-1982,Guyana,GUY,0.0
-1983,Guyana,GUY,0.0
-1984,Guyana,GUY,0.0
-1985,Guyana,GUY,0.0
-1986,Guyana,GUY,0.0
-1987,Guyana,GUY,0.0
-1988,Guyana,GUY,0.0
-1989,Guyana,GUY,0.0
-1990,Guyana,GUY,0.0
-1991,Guyana,GUY,0.0
-1992,Guyana,GUY,0.0
-1993,Guyana,GUY,0.0
-1994,Guyana,GUY,0.0
-1995,Guyana,GUY,0.0
-1996,Guyana,GUY,0.0
-1997,Guyana,GUY,0.0
-1998,Guyana,GUY,0.0
-1999,Guyana,GUY,0.0
-2000,Guyana,GUY,0.0
-2001,Guyana,GUY,0.0
-2002,Guyana,GUY,0.0
-2003,Guyana,GUY,0.0
-2004,Guyana,GUY,0.0
-2005,Guyana,GUY,0.0
-2006,Guyana,GUY,0.0
-2007,Guyana,GUY,0.0
-2008,Guyana,GUY,0.0
-2009,Guyana,GUY,0.0
-2010,Guyana,GUY,0.0
-2011,Guyana,GUY,0.0
-2012,Guyana,GUY,0.0
-2013,Guyana,GUY,0.0
-2014,Guyana,GUY,0.0
-2015,Guyana,GUY,0.0
-2016,Guyana,GUY,0.0
-2017,Guyana,GUY,0.0
-2018,Guyana,GUY,0.0
-2019,Guyana,GUY,0.0
-2020,Guyana,GUY,0.0
+1920,Haiti,HTI,0.0
+1921,Haiti,HTI,0.0
+1922,Haiti,HTI,0.0
+1923,Haiti,HTI,0.0
+1924,Haiti,HTI,0.0
+1925,Haiti,HTI,0.0
+1926,Haiti,HTI,0.0
+1927,Haiti,HTI,0.0
+1928,Haiti,HTI,0.0
+1929,Haiti,HTI,0.0
+1930,Haiti,HTI,0.0
+1931,Haiti,HTI,0.0
+1932,Haiti,HTI,0.0
+1933,Haiti,HTI,0.0
+1934,Haiti,HTI,0.0
+1935,Haiti,HTI,0.0
+1936,Haiti,HTI,0.0
+1937,Haiti,HTI,0.0
+1938,Haiti,HTI,0.0
+1939,Haiti,HTI,0.0
+1940,Haiti,HTI,0.0
+1941,Haiti,HTI,0.0
+1942,Haiti,HTI,0.0
+1943,Haiti,HTI,0.0
+1944,Haiti,HTI,0.0
+1945,Haiti,HTI,0.0
+1946,Haiti,HTI,0.0
+1947,Haiti,HTI,0.0
+1948,Haiti,HTI,0.0
+1949,Haiti,HTI,0.0
+1950,Haiti,HTI,0.0
+1951,Haiti,HTI,0.0
+1952,Haiti,HTI,0.0
+1953,Haiti,HTI,0.0
+1954,Haiti,HTI,0.0
+1955,Haiti,HTI,0.0
+1956,Haiti,HTI,0.0
+1957,Haiti,HTI,0.0
+1958,Haiti,HTI,0.0
+1959,Haiti,HTI,0.0
+1960,Haiti,HTI,0.0
+1961,Haiti,HTI,0.0
+1962,Haiti,HTI,0.01506666666666667
+1963,Haiti,HTI,0.0164
+1964,Haiti,HTI,0.0164
+1965,Haiti,HTI,0.1069375
+1966,Haiti,HTI,0.1069375
+1967,Haiti,HTI,0.1069375
+1968,Haiti,HTI,0.1198125
+1969,Haiti,HTI,0.1198125
+1970,Haiti,HTI,0.1198125
+1971,Haiti,HTI,0.14951875
+1972,Haiti,HTI,0.14951875
+1973,Haiti,HTI,0.14951875
+1974,Haiti,HTI,0.17739375000000002
+1975,Haiti,HTI,0.18048823529411767
+1976,Haiti,HTI,0.17046111111111112
+1977,Haiti,HTI,0.17046111111111112
+1978,Haiti,HTI,0.17046111111111112
+1979,Haiti,HTI,0.1850166666666667
+1980,Haiti,HTI,0.18740555555555555
+1981,Haiti,HTI,0.1775421052631579
+1982,Haiti,HTI,0.1775421052631579
+1983,Haiti,HTI,0.2818684210526316
+1984,Haiti,HTI,0.2818684210526316
+1985,Haiti,HTI,0.2993421052631579
+1986,Haiti,HTI,0.31302631578947365
+1987,Haiti,HTI,0.3312368421052631
+1988,Haiti,HTI,0.3943947368421053
+1989,Haiti,HTI,0.3943947368421053
+1990,Haiti,HTI,0.4270263157894737
+1991,Haiti,HTI,0.4521842105263158
+1992,Haiti,HTI,0.4521842105263158
+1993,Haiti,HTI,0.4729315789473684
+1994,Haiti,HTI,0.479878947368421
+1995,Haiti,HTI,0.4808526315789473
+1996,Haiti,HTI,0.4821368421052631
+1997,Haiti,HTI,0.5412421052631577
+1998,Haiti,HTI,0.7465105263157895
+1999,Haiti,HTI,0.7465105263157895
+2000,Haiti,HTI,0.7806263157894736
+2001,Haiti,HTI,0.7997789473684209
+2002,Haiti,HTI,0.8051942105263158
+2003,Haiti,HTI,0.8789415789473685
+2004,Haiti,HTI,0.8789415789473685
+2005,Haiti,HTI,0.8789415789473685
+2006,Haiti,HTI,0.8789415789473685
+2007,Haiti,HTI,0.8844075789473685
+2008,Haiti,HTI,0.9242648842105264
+2009,Haiti,HTI,0.9282227789473688
+2010,Haiti,HTI,0.9286859368421054
+2011,Haiti,HTI,0.9471069894736844
+2012,Haiti,HTI,0.9395806736842104
+2013,Haiti,HTI,0.9962821473684212
+2014,Haiti,HTI,0.9962821473684212
+2015,Haiti,HTI,0.9202821473684212
+2016,Haiti,HTI,0.9447032000000002
+2017,Haiti,HTI,0.9447032000000002
+2018,Haiti,HTI,0.92365748
+2019,Haiti,HTI,0.92365748
+2020,Haiti,HTI,0.92365748
 1939,Honduras,HND,0.0
 1940,Honduras,HND,0.0
 1941,Honduras,HND,0.0
@@ -4275,70 +4140,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Honduras,HND,0.0
 2019,Honduras,HND,0.0
 2020,Honduras,HND,0.0
-1957,Hungary,HUN,0.06
-1958,Hungary,HUN,0.06
-1959,Hungary,HUN,0.06
-1960,Hungary,HUN,0.06
-1961,Hungary,HUN,0.06
-1962,Hungary,HUN,0.31
-1963,Hungary,HUN,0.31
-1964,Hungary,HUN,0.31
-1965,Hungary,HUN,0.31
-1966,Hungary,HUN,0.31
-1967,Hungary,HUN,0.31
-1968,Hungary,HUN,0.31
-1969,Hungary,HUN,0.31
-1970,Hungary,HUN,0.31
-1971,Hungary,HUN,0.31
-1972,Hungary,HUN,0.31
-1973,Hungary,HUN,0.31
-1974,Hungary,HUN,0.31
-1975,Hungary,HUN,0.31
-1976,Hungary,HUN,0.31
-1977,Hungary,HUN,0.31
-1978,Hungary,HUN,0.31
-1979,Hungary,HUN,0.31
-1980,Hungary,HUN,0.31
-1981,Hungary,HUN,0.31
-1982,Hungary,HUN,0.31
-1983,Hungary,HUN,1.194
-1984,Hungary,HUN,1.194
-1985,Hungary,HUN,1.194
-1986,Hungary,HUN,1.194
-1987,Hungary,HUN,1.194
-1988,Hungary,HUN,1.194
-1989,Hungary,HUN,1.194
-1990,Hungary,HUN,1.194
-1991,Hungary,HUN,1.194
-1992,Hungary,HUN,1.194
-1993,Hungary,HUN,1.194
-1994,Hungary,HUN,1.194
-1995,Hungary,HUN,1.194
-1996,Hungary,HUN,1.194
-1997,Hungary,HUN,1.194
-1998,Hungary,HUN,1.194
-1999,Hungary,HUN,1.194
-2000,Hungary,HUN,1.194
-2001,Hungary,HUN,1.194
-2002,Hungary,HUN,1.194
-2003,Hungary,HUN,1.194
-2004,Hungary,HUN,1.194
-2005,Hungary,HUN,1.194
-2006,Hungary,HUN,1.194
-2007,Hungary,HUN,1.134
-2008,Hungary,HUN,1.134
-2009,Hungary,HUN,1.134
-2010,Hungary,HUN,1.134
-2011,Hungary,HUN,1.134
-2012,Hungary,HUN,0.884
-2013,Hungary,HUN,0.884
-2014,Hungary,HUN,0.884
-2015,Hungary,HUN,0.884
-2016,Hungary,HUN,0.884
-2017,Hungary,HUN,0.884
-2018,Hungary,HUN,0.884
-2019,Hungary,HUN,0.884
-2020,Hungary,HUN,0.884
 1937,Iceland,ISL,0.0
 1938,Iceland,ISL,0.0
 1939,Iceland,ISL,0.0
@@ -4487,14 +4288,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1988,India,IND,14.214900000000002
 1989,India,IND,16.954900000000002
 1990,India,IND,20.738170000000004
-1991,India,IND,24.708170000000006
+1991,India,IND,24.70817000000001
 1992,India,IND,25.51817
 1993,India,IND,28.95317
-1994,India,IND,29.373170000000002
+1994,India,IND,29.37317
 1995,India,IND,35.61667
-1996,India,IND,37.637170000000005
+1996,India,IND,37.63717000000001
 1997,India,IND,37.73617
-1998,India,IND,38.074670000000005
+1998,India,IND,38.07467000000001
 1999,India,IND,41.336270000000006
 2000,India,IND,48.79877000000001
 2001,India,IND,55.70877000000001
@@ -4507,7 +4308,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2008,India,IND,84.80676999999999
 2009,India,IND,89.90677
 2010,India,IND,106.80277
-2011,India,IND,113.15577
+2011,India,IND,113.15576999999999
 2012,India,IND,127.49252
 2013,India,IND,143.56571999999997
 2014,India,IND,159.26371999999995
@@ -4576,7 +4377,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1976,Indonesia,IDN,2.545
 1977,Indonesia,IDN,2.545
 1978,Indonesia,IDN,2.572
-1979,Indonesia,IDN,3.1719999999999997
+1979,Indonesia,IDN,3.172
 1980,Indonesia,IDN,8.527000000000001
 1981,Indonesia,IDN,8.532
 1982,Indonesia,IDN,8.566
@@ -4614,7 +4415,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2014,Indonesia,IDN,18.255
 2015,Indonesia,IDN,19.673
 2016,Indonesia,IDN,23.853
-2017,Indonesia,IDN,26.528
+2017,Indonesia,IDN,26.528000000000002
 2018,Indonesia,IDN,27.128
 2019,Indonesia,IDN,27.128
 2020,Indonesia,IDN,27.128
@@ -4878,8 +4679,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1987,Italy,ITA,3.252
 1988,Italy,ITA,3.252
 1989,Italy,ITA,3.252
-1990,Italy,ITA,3.4019999999999997
-1991,Italy,ITA,3.4019999999999997
+1990,Italy,ITA,3.402
+1991,Italy,ITA,3.402
 1992,Italy,ITA,6.682
 1993,Italy,ITA,6.682
 1994,Italy,ITA,6.682
@@ -4905,7 +4706,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2014,Italy,ITA,9.012
 2015,Italy,ITA,9.012
 2016,Italy,ITA,9.012
-2017,Italy,ITA,7.712000000000001
+2017,Italy,ITA,7.7120000000000015
 2018,Italy,ITA,7.376
 2019,Italy,ITA,7.376
 2020,Italy,ITA,7.376
@@ -5033,13 +4834,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1965,Japan,JPN,0.0
 1966,Japan,JPN,0.0
 1967,Japan,JPN,0.0
-1968,Japan,JPN,0.9059999999999999
+1968,Japan,JPN,0.906
 1969,Japan,JPN,1.256
 1970,Japan,JPN,1.256
 1971,Japan,JPN,1.256
-1972,Japan,JPN,2.756
-1973,Japan,JPN,2.756
-1974,Japan,JPN,2.756
+1972,Japan,JPN,2.7560000000000002
+1973,Japan,JPN,2.7560000000000002
+1974,Japan,JPN,2.7560000000000002
 1975,Japan,JPN,2.931
 1976,Japan,JPN,2.931
 1977,Japan,JPN,2.931
@@ -5056,14 +4857,14 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1988,Japan,JPN,9.664
 1989,Japan,JPN,10.364
 1990,Japan,JPN,10.364
-1991,Japan,JPN,12.014
-1992,Japan,JPN,12.104
-1993,Japan,JPN,12.104
+1991,Japan,JPN,12.014000000000001
+1992,Japan,JPN,12.104000000000001
+1993,Japan,JPN,12.104000000000001
 1994,Japan,JPN,17.616
 1995,Japan,JPN,17.616
 1996,Japan,JPN,19.297
-1997,Japan,JPN,24.596999999999998
-1998,Japan,JPN,27.886999999999997
+1997,Japan,JPN,24.597
+1998,Japan,JPN,27.887
 1999,Japan,JPN,29.482
 2000,Japan,JPN,32.58
 2001,Japan,JPN,32.58
@@ -5073,16 +4874,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2005,Japan,JPN,35.179
 2006,Japan,JPN,36.379
 2007,Japan,JPN,38.945
-2008,Japan,JPN,41.013000000000005
-2009,Japan,JPN,41.013000000000005
-2010,Japan,JPN,41.013000000000005
-2011,Japan,JPN,41.013000000000005
-2012,Japan,JPN,41.013000000000005
-2013,Japan,JPN,41.013000000000005
-2014,Japan,JPN,41.013000000000005
-2015,Japan,JPN,41.013000000000005
-2016,Japan,JPN,41.013000000000005
-2017,Japan,JPN,41.513000000000005
+2008,Japan,JPN,41.01300000000001
+2009,Japan,JPN,41.01300000000001
+2010,Japan,JPN,41.01300000000001
+2011,Japan,JPN,41.01300000000001
+2012,Japan,JPN,41.01300000000001
+2013,Japan,JPN,41.01300000000001
+2014,Japan,JPN,41.01300000000001
+2015,Japan,JPN,41.01300000000001
+2016,Japan,JPN,41.01300000000001
+2017,Japan,JPN,41.51300000000001
 2018,Japan,JPN,40.607
 2019,Japan,JPN,40.257
 2020,Japan,JPN,40.257
@@ -5141,13 +4942,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1953,Kazakhstan,KAZ,0.0
 1954,Kazakhstan,KAZ,0.0
 1955,Kazakhstan,KAZ,0.0
-1956,Kazakhstan,KAZ,0.059
-1957,Kazakhstan,KAZ,0.059
-1958,Kazakhstan,KAZ,0.059
+1956,Kazakhstan,KAZ,0.059000000000000004
+1957,Kazakhstan,KAZ,0.059000000000000004
+1958,Kazakhstan,KAZ,0.059000000000000004
 1959,Kazakhstan,KAZ,0.914
 1960,Kazakhstan,KAZ,0.914
-1961,Kazakhstan,KAZ,0.9890000000000001
-1962,Kazakhstan,KAZ,0.9890000000000001
+1961,Kazakhstan,KAZ,0.989
+1962,Kazakhstan,KAZ,0.989
 1963,Kazakhstan,KAZ,1.089
 1964,Kazakhstan,KAZ,1.089
 1965,Kazakhstan,KAZ,1.49
@@ -5161,8 +4962,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1973,Kazakhstan,KAZ,3.94
 1974,Kazakhstan,KAZ,3.94
 1975,Kazakhstan,KAZ,4.607
-1976,Kazakhstan,KAZ,5.0969999999999995
-1977,Kazakhstan,KAZ,5.0969999999999995
+1976,Kazakhstan,KAZ,5.097
+1977,Kazakhstan,KAZ,5.097
 1978,Kazakhstan,KAZ,5.405
 1979,Kazakhstan,KAZ,5.405
 1980,Kazakhstan,KAZ,5.405
@@ -5191,13 +4992,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2003,Kazakhstan,KAZ,14.613
 2004,Kazakhstan,KAZ,15.868
 2005,Kazakhstan,KAZ,15.868
-2006,Kazakhstan,KAZ,15.809
-2007,Kazakhstan,KAZ,15.809
-2008,Kazakhstan,KAZ,15.809
+2006,Kazakhstan,KAZ,15.809000000000001
+2007,Kazakhstan,KAZ,15.809000000000001
+2008,Kazakhstan,KAZ,15.809000000000001
 2009,Kazakhstan,KAZ,14.954
 2010,Kazakhstan,KAZ,14.954
-2011,Kazakhstan,KAZ,14.879000000000001
-2012,Kazakhstan,KAZ,14.879000000000001
+2011,Kazakhstan,KAZ,14.879
+2012,Kazakhstan,KAZ,14.879
 2013,Kazakhstan,KAZ,14.779000000000002
 2014,Kazakhstan,KAZ,14.779000000000002
 2015,Kazakhstan,KAZ,14.378
@@ -5259,23 +5060,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Kenya,KEN,0.0
 2019,Kenya,KEN,0.0
 2020,Kenya,KEN,0.0
-2004,Kuwait,KWT,0.0
-2005,Kuwait,KWT,0.0
-2006,Kuwait,KWT,0.0
-2007,Kuwait,KWT,0.0
-2008,Kuwait,KWT,0.0
-2009,Kuwait,KWT,0.0
-2010,Kuwait,KWT,0.0
-2011,Kuwait,KWT,0.0
-2012,Kuwait,KWT,0.0
-2013,Kuwait,KWT,0.0
-2014,Kuwait,KWT,0.0
-2015,Kuwait,KWT,0.0
-2016,Kuwait,KWT,0.0
-2017,Kuwait,KWT,0.0
-2018,Kuwait,KWT,0.0
-2019,Kuwait,KWT,0.0
-2020,Kuwait,KWT,0.0
 1951,Kyrgyzstan,KGZ,0.0
 1952,Kyrgyzstan,KGZ,0.0
 1953,Kyrgyzstan,KGZ,0.0
@@ -5447,196 +5231,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Latvia,LVA,0.0
 2019,Latvia,LVA,0.0
 2020,Latvia,LVA,0.0
-1971,Lebanon,LBN,0.0
-1972,Lebanon,LBN,0.0
-1973,Lebanon,LBN,0.0
-1974,Lebanon,LBN,0.0
-1975,Lebanon,LBN,0.0
-1976,Lebanon,LBN,0.0
-1977,Lebanon,LBN,0.0
-1978,Lebanon,LBN,0.0
-1979,Lebanon,LBN,0.0
-1980,Lebanon,LBN,0.0
-1981,Lebanon,LBN,0.0
-1982,Lebanon,LBN,0.0
-1983,Lebanon,LBN,0.0
-1984,Lebanon,LBN,0.0
-1985,Lebanon,LBN,0.0
-1986,Lebanon,LBN,0.0
-1987,Lebanon,LBN,0.0
-1988,Lebanon,LBN,0.0
-1989,Lebanon,LBN,0.0
-1990,Lebanon,LBN,0.0
-1991,Lebanon,LBN,0.0
-1992,Lebanon,LBN,0.0
-1993,Lebanon,LBN,0.0
-1994,Lebanon,LBN,0.0
-1995,Lebanon,LBN,0.0
-1996,Lebanon,LBN,0.0
-1997,Lebanon,LBN,0.0
-1998,Lebanon,LBN,0.0
-1999,Lebanon,LBN,0.0
-2000,Lebanon,LBN,0.0
-2001,Lebanon,LBN,0.0
-2002,Lebanon,LBN,0.0
-2003,Lebanon,LBN,0.0
-2004,Lebanon,LBN,0.0
-2005,Lebanon,LBN,0.0
-2006,Lebanon,LBN,0.0
-2007,Lebanon,LBN,0.0
-2008,Lebanon,LBN,0.0
-2009,Lebanon,LBN,0.0
-2010,Lebanon,LBN,0.0
-2011,Lebanon,LBN,0.0
-2012,Lebanon,LBN,0.0
-2013,Lebanon,LBN,0.0
-2014,Lebanon,LBN,0.0
-2015,Lebanon,LBN,0.0
-2016,Lebanon,LBN,0.0
-2017,Lebanon,LBN,0.0
-2018,Lebanon,LBN,0.0
-2019,Lebanon,LBN,0.0
-2020,Lebanon,LBN,0.0
-1998,Lesotho,LSO,0.0
-1999,Lesotho,LSO,0.0
-2000,Lesotho,LSO,0.0
-2001,Lesotho,LSO,0.0
-2002,Lesotho,LSO,0.0
-2003,Lesotho,LSO,0.0
-2004,Lesotho,LSO,0.0
-2005,Lesotho,LSO,0.0
-2006,Lesotho,LSO,0.0
-2007,Lesotho,LSO,0.0
-2008,Lesotho,LSO,0.0
-2009,Lesotho,LSO,0.0
-2010,Lesotho,LSO,0.0
-2011,Lesotho,LSO,0.0
-2012,Lesotho,LSO,0.0
-2013,Lesotho,LSO,0.0
-2014,Lesotho,LSO,0.0
-2015,Lesotho,LSO,0.0
-2016,Lesotho,LSO,0.0
-2017,Lesotho,LSO,0.0
-2018,Lesotho,LSO,0.0
-2019,Lesotho,LSO,0.0
-2020,Lesotho,LSO,0.0
-1949,Liberia,LBR,0.0
-1950,Liberia,LBR,0.0
-1951,Liberia,LBR,0.0
-1952,Liberia,LBR,0.0
-1953,Liberia,LBR,0.0
-1954,Liberia,LBR,0.0
-1955,Liberia,LBR,0.0
-1956,Liberia,LBR,0.0
-1957,Liberia,LBR,0.0
-1958,Liberia,LBR,0.0
-1959,Liberia,LBR,0.0
-1960,Liberia,LBR,0.0
-1961,Liberia,LBR,0.0
-1962,Liberia,LBR,0.0
-1963,Liberia,LBR,0.0
-1964,Liberia,LBR,0.0
-1965,Liberia,LBR,0.0
-1966,Liberia,LBR,0.0
-1967,Liberia,LBR,0.0
-1968,Liberia,LBR,0.0
-1969,Liberia,LBR,0.0
-1970,Liberia,LBR,0.0
-1971,Liberia,LBR,0.0
-1972,Liberia,LBR,0.0
-1973,Liberia,LBR,0.0
-1974,Liberia,LBR,0.0
-1975,Liberia,LBR,0.0
-1976,Liberia,LBR,0.0
-1977,Liberia,LBR,0.0
-1978,Liberia,LBR,0.0
-1979,Liberia,LBR,0.0
-1980,Liberia,LBR,0.0
-1981,Liberia,LBR,0.0
-1982,Liberia,LBR,0.0
-1983,Liberia,LBR,0.0
-1984,Liberia,LBR,0.0
-1985,Liberia,LBR,0.0
-1986,Liberia,LBR,0.0
-1987,Liberia,LBR,0.0
-1988,Liberia,LBR,0.0
-1989,Liberia,LBR,0.0
-1990,Liberia,LBR,0.0
-1991,Liberia,LBR,0.0
-1992,Liberia,LBR,0.0
-1993,Liberia,LBR,0.0
-1994,Liberia,LBR,0.0
-1995,Liberia,LBR,0.0
-1996,Liberia,LBR,0.0
-1997,Liberia,LBR,0.0
-1998,Liberia,LBR,0.0
-1999,Liberia,LBR,0.0
-2000,Liberia,LBR,0.0
-2001,Liberia,LBR,0.0
-2002,Liberia,LBR,0.0
-2003,Liberia,LBR,0.0
-2004,Liberia,LBR,0.0
-2005,Liberia,LBR,0.0
-2006,Liberia,LBR,0.0
-2007,Liberia,LBR,0.0
-2008,Liberia,LBR,0.0
-2009,Liberia,LBR,0.0
-2010,Liberia,LBR,0.0
-2011,Liberia,LBR,0.0
-2012,Liberia,LBR,0.0
-2013,Liberia,LBR,0.0
-2014,Liberia,LBR,0.0
-2015,Liberia,LBR,0.0
-2016,Liberia,LBR,0.0
-2017,Liberia,LBR,0.0
-2018,Liberia,LBR,0.0
-2019,Liberia,LBR,0.0
-2020,Liberia,LBR,0.0
-1976,Libya,LBY,0.0
-1977,Libya,LBY,0.0
-1978,Libya,LBY,0.0
-1979,Libya,LBY,0.0
-1980,Libya,LBY,0.0
-1981,Libya,LBY,0.0
-1982,Libya,LBY,0.0
-1983,Libya,LBY,0.0
-1984,Libya,LBY,0.0
-1985,Libya,LBY,0.0
-1986,Libya,LBY,0.0
-1987,Libya,LBY,0.0
-1988,Libya,LBY,0.0
-1989,Libya,LBY,0.0
-1990,Libya,LBY,0.0
-1991,Libya,LBY,0.0
-1992,Libya,LBY,0.0
-1993,Libya,LBY,0.0
-1994,Libya,LBY,0.0
-1995,Libya,LBY,0.0
-1996,Libya,LBY,0.0
-1997,Libya,LBY,0.0
-1998,Libya,LBY,0.0
-1999,Libya,LBY,0.0
-2000,Libya,LBY,0.0
-2001,Libya,LBY,0.0
-2002,Libya,LBY,0.0
-2003,Libya,LBY,0.0
-2004,Libya,LBY,0.0
-2005,Libya,LBY,0.0
-2006,Libya,LBY,0.0
-2007,Libya,LBY,0.0
-2008,Libya,LBY,0.0
-2009,Libya,LBY,0.0
-2010,Libya,LBY,0.0
-2011,Libya,LBY,0.0
-2012,Libya,LBY,0.0
-2013,Libya,LBY,0.0
-2014,Libya,LBY,0.0
-2015,Libya,LBY,0.0
-2016,Libya,LBY,0.0
-2017,Libya,LBY,0.0
-2018,Libya,LBY,0.0
-2019,Libya,LBY,0.0
-2020,Libya,LBY,0.0
 1940,Lithuania,LTU,0.0
 1941,Lithuania,LTU,0.0
 1942,Lithuania,LTU,0.0
@@ -5978,11 +5572,11 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2013,Malaysia,MYS,10.904000000000002
 2014,Malaysia,MYS,10.904000000000002
 2015,Malaysia,MYS,10.904000000000002
-2016,Malaysia,MYS,13.004000000000001
-2017,Malaysia,MYS,13.004000000000001
-2018,Malaysia,MYS,13.004000000000001
-2019,Malaysia,MYS,13.004000000000001
-2020,Malaysia,MYS,13.004000000000001
+2016,Malaysia,MYS,13.004
+2017,Malaysia,MYS,13.004
+2018,Malaysia,MYS,13.004
+2019,Malaysia,MYS,13.004
+2020,Malaysia,MYS,13.004
 1920,Mali,MLI,0.0
 1921,Mali,MLI,0.0
 1922,Mali,MLI,0.0
@@ -6347,33 +5941,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Mongolia,MNG,0.804
 2019,Mongolia,MNG,0.804
 2020,Mongolia,MNG,0.804
-1994,Montenegro,MNE,0.2185
-1995,Montenegro,MNE,0.2185
-1996,Montenegro,MNE,0.2185
-1997,Montenegro,MNE,0.2185
-1998,Montenegro,MNE,0.2185
-1999,Montenegro,MNE,0.2185
-2000,Montenegro,MNE,0.2185
-2001,Montenegro,MNE,0.2185
-2002,Montenegro,MNE,0.2185
-2003,Montenegro,MNE,0.2185
-2004,Montenegro,MNE,0.2185
-2005,Montenegro,MNE,0.2185
-2006,Montenegro,MNE,0.2185
-2007,Montenegro,MNE,0.2185
-2008,Montenegro,MNE,0.2185
-2009,Montenegro,MNE,0.2185
-2010,Montenegro,MNE,0.2185
-2011,Montenegro,MNE,0.2185
-2012,Montenegro,MNE,0.2185
-2013,Montenegro,MNE,0.2185
-2014,Montenegro,MNE,0.2185
-2015,Montenegro,MNE,0.2185
-2016,Montenegro,MNE,0.2185
-2017,Montenegro,MNE,0.2185
-2018,Montenegro,MNE,0.2185
-2019,Montenegro,MNE,0.2185
-2020,Montenegro,MNE,0.2185
 1938,Morocco,MAR,0.0
 1939,Morocco,MAR,0.0
 1940,Morocco,MAR,0.0
@@ -7190,51 +6757,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Norway,NOR,0.0
 2019,Norway,NOR,0.0
 2020,Norway,NOR,0.0
-1976,Oman,OMN,0.0
-1977,Oman,OMN,0.0
-1978,Oman,OMN,0.0
-1979,Oman,OMN,0.0
-1980,Oman,OMN,0.0
-1981,Oman,OMN,0.0
-1982,Oman,OMN,0.0
-1983,Oman,OMN,0.0
-1984,Oman,OMN,0.0
-1985,Oman,OMN,0.0
-1986,Oman,OMN,0.0
-1987,Oman,OMN,0.0
-1988,Oman,OMN,0.0
-1989,Oman,OMN,0.0
-1990,Oman,OMN,0.0
-1991,Oman,OMN,0.0
-1992,Oman,OMN,0.0
-1993,Oman,OMN,0.0
-1994,Oman,OMN,0.0
-1995,Oman,OMN,0.0
-1996,Oman,OMN,0.0
-1997,Oman,OMN,0.0
-1998,Oman,OMN,0.0
-1999,Oman,OMN,0.0
-2000,Oman,OMN,0.0
-2001,Oman,OMN,0.0
-2002,Oman,OMN,0.0
-2003,Oman,OMN,0.0
-2004,Oman,OMN,0.0
-2005,Oman,OMN,0.0
-2006,Oman,OMN,0.0
-2007,Oman,OMN,0.0
-2008,Oman,OMN,0.0
-2009,Oman,OMN,0.0
-2010,Oman,OMN,0.0
-2011,Oman,OMN,0.0
-2012,Oman,OMN,0.0
-2013,Oman,OMN,0.0
-2014,Oman,OMN,0.0
-2015,Oman,OMN,0.0
-2016,Oman,OMN,0.0
-2017,Oman,OMN,0.0
-2018,Oman,OMN,0.0
-2019,Oman,OMN,0.0
-2020,Oman,OMN,0.0
 1948,Pakistan,PAK,0.0
 1949,Pakistan,PAK,0.0
 1950,Pakistan,PAK,0.0
@@ -7708,7 +7230,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1996,Philippines,PHL,0.0
 1997,Philippines,PHL,0.0
 1998,Philippines,PHL,0.6900000000000001
-1999,Philippines,PHL,1.908
+1999,Philippines,PHL,1.9080000000000001
 2000,Philippines,PHL,2.3480000000000003
 2001,Philippines,PHL,2.6590000000000003
 2002,Philippines,PHL,2.6590000000000003
@@ -7716,11 +7238,11 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2004,Philippines,PHL,4.127
 2005,Philippines,PHL,4.127
 2006,Philippines,PHL,4.359
-2007,Philippines,PHL,5.2589999999999995
-2008,Philippines,PHL,5.2589999999999995
-2009,Philippines,PHL,5.2589999999999995
-2010,Philippines,PHL,5.2589999999999995
-2011,Philippines,PHL,5.2589999999999995
+2007,Philippines,PHL,5.259
+2008,Philippines,PHL,5.259
+2009,Philippines,PHL,5.259
+2010,Philippines,PHL,5.259
+2011,Philippines,PHL,5.259
 2012,Philippines,PHL,5.3478
 2013,Philippines,PHL,5.9478
 2014,Philippines,PHL,6.0546000000000015
@@ -7772,18 +7294,18 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1959,Poland,POL,0.49
 1960,Poland,POL,0.49
 1961,Poland,POL,1.244
-1962,Poland,POL,1.277
-1963,Poland,POL,1.277
-1964,Poland,POL,1.277
-1965,Poland,POL,1.3519999999999999
+1962,Poland,POL,1.2770000000000001
+1963,Poland,POL,1.2770000000000001
+1964,Poland,POL,1.2770000000000001
+1965,Poland,POL,1.352
 1966,Poland,POL,1.39
 1967,Poland,POL,2.964
 1968,Poland,POL,2.964
 1969,Poland,POL,2.964
-1970,Poland,POL,3.1719999999999997
+1970,Poland,POL,3.172
 1971,Poland,POL,3.272
-1972,Poland,POL,3.953
-1973,Poland,POL,4.0169999999999995
+1972,Poland,POL,3.9530000000000003
+1973,Poland,POL,4.017
 1974,Poland,POL,4.122
 1975,Poland,POL,4.122
 1976,Poland,POL,4.122
@@ -7792,9 +7314,9 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1979,Poland,POL,5.251
 1980,Poland,POL,5.33
 1981,Poland,POL,5.546
-1982,Poland,POL,5.537999999999999
-1983,Poland,POL,5.537999999999999
-1984,Poland,POL,6.2379999999999995
+1982,Poland,POL,5.5379999999999985
+1983,Poland,POL,5.5379999999999985
+1984,Poland,POL,6.238
 1985,Poland,POL,8.147
 1986,Poland,POL,8.593
 1987,Poland,POL,8.782
@@ -7805,13 +7327,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1992,Poland,POL,17.797
 1993,Poland,POL,19.572
 1994,Poland,POL,19.577
-1995,Poland,POL,21.069000000000003
+1995,Poland,POL,21.069000000000006
 1996,Poland,POL,21.274
 1997,Poland,POL,21.362
 1998,Poland,POL,21.405
 1999,Poland,POL,21.405
-2000,Poland,POL,21.386999999999997
-2001,Poland,POL,21.805999999999997
+2000,Poland,POL,21.387
+2001,Poland,POL,21.806
 2002,Poland,POL,22.475
 2003,Poland,POL,22.61
 2004,Poland,POL,22.485
@@ -7819,7 +7341,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2006,Poland,POL,22.485
 2007,Poland,POL,22.25
 2008,Poland,POL,22.834
-2009,Poland,POL,24.179
+2009,Poland,POL,24.179000000000002
 2010,Poland,POL,24.247
 2011,Poland,POL,24.855
 2012,Poland,POL,24.822
@@ -7828,8 +7350,8 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2015,Poland,POL,25.076
 2016,Poland,POL,25.038
 2017,Poland,POL,26.0
-2018,Poland,POL,27.958
-2019,Poland,POL,27.958
+2018,Poland,POL,27.958000000000002
+2019,Poland,POL,27.958000000000002
 2020,Poland,POL,27.741
 1920,Portugal,PRT,0.0
 1921,Portugal,PRT,0.0
@@ -7905,84 +7427,33 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1991,Portugal,PRT,1.296
 1992,Portugal,PRT,1.296
 1993,Portugal,PRT,1.296
-1994,Portugal,PRT,1.9780000000000002
-1995,Portugal,PRT,1.9780000000000002
-1996,Portugal,PRT,1.9780000000000002
-1997,Portugal,PRT,1.9780000000000002
-1998,Portugal,PRT,1.9780000000000002
-1999,Portugal,PRT,1.9780000000000002
-2000,Portugal,PRT,1.9780000000000002
-2001,Portugal,PRT,1.9780000000000002
-2002,Portugal,PRT,1.9780000000000002
-2003,Portugal,PRT,1.9780000000000002
-2004,Portugal,PRT,1.9780000000000002
-2005,Portugal,PRT,1.9780000000000002
-2006,Portugal,PRT,1.9780000000000002
-2007,Portugal,PRT,1.9780000000000002
-2008,Portugal,PRT,1.9780000000000002
-2009,Portugal,PRT,1.9780000000000002
-2010,Portugal,PRT,1.9780000000000002
-2011,Portugal,PRT,1.9780000000000002
-2012,Portugal,PRT,1.9780000000000002
-2013,Portugal,PRT,1.9780000000000002
-2014,Portugal,PRT,1.9780000000000002
-2015,Portugal,PRT,1.9780000000000002
-2016,Portugal,PRT,1.9780000000000002
-2017,Portugal,PRT,1.9780000000000002
-2018,Portugal,PRT,1.9780000000000002
-2019,Portugal,PRT,1.9780000000000002
-2020,Portugal,PRT,1.9780000000000002
-1970,Qatar,QAT,0.0
-1971,Qatar,QAT,0.0
-1972,Qatar,QAT,0.0
-1973,Qatar,QAT,0.0
-1974,Qatar,QAT,0.0
-1975,Qatar,QAT,0.0
-1976,Qatar,QAT,0.0
-1977,Qatar,QAT,0.0
-1978,Qatar,QAT,0.0
-1979,Qatar,QAT,0.0
-1980,Qatar,QAT,0.0
-1981,Qatar,QAT,0.0
-1982,Qatar,QAT,0.0
-1983,Qatar,QAT,0.0
-1984,Qatar,QAT,0.0
-1985,Qatar,QAT,0.0
-1986,Qatar,QAT,0.0
-1987,Qatar,QAT,0.0
-1988,Qatar,QAT,0.0
-1989,Qatar,QAT,0.0
-1990,Qatar,QAT,0.0
-1991,Qatar,QAT,0.0
-1992,Qatar,QAT,0.0
-1993,Qatar,QAT,0.0
-1994,Qatar,QAT,0.0
-1995,Qatar,QAT,0.0
-1996,Qatar,QAT,0.0
-1997,Qatar,QAT,0.0
-1998,Qatar,QAT,0.0
-1999,Qatar,QAT,0.0
-2000,Qatar,QAT,0.0
-2001,Qatar,QAT,0.0
-2002,Qatar,QAT,0.0
-2003,Qatar,QAT,0.0
-2004,Qatar,QAT,0.0
-2005,Qatar,QAT,0.0
-2006,Qatar,QAT,0.0
-2007,Qatar,QAT,0.0
-2008,Qatar,QAT,0.0
-2009,Qatar,QAT,0.0
-2010,Qatar,QAT,0.0
-2011,Qatar,QAT,0.0
-2012,Qatar,QAT,0.0
-2013,Qatar,QAT,0.0
-2014,Qatar,QAT,0.0
-2015,Qatar,QAT,0.0
-2016,Qatar,QAT,0.0
-2017,Qatar,QAT,0.0
-2018,Qatar,QAT,0.0
-2019,Qatar,QAT,0.0
-2020,Qatar,QAT,0.0
+1994,Portugal,PRT,1.978
+1995,Portugal,PRT,1.978
+1996,Portugal,PRT,1.978
+1997,Portugal,PRT,1.978
+1998,Portugal,PRT,1.978
+1999,Portugal,PRT,1.978
+2000,Portugal,PRT,1.978
+2001,Portugal,PRT,1.978
+2002,Portugal,PRT,1.978
+2003,Portugal,PRT,1.978
+2004,Portugal,PRT,1.978
+2005,Portugal,PRT,1.978
+2006,Portugal,PRT,1.978
+2007,Portugal,PRT,1.978
+2008,Portugal,PRT,1.978
+2009,Portugal,PRT,1.978
+2010,Portugal,PRT,1.978
+2011,Portugal,PRT,1.978
+2012,Portugal,PRT,1.978
+2013,Portugal,PRT,1.978
+2014,Portugal,PRT,1.978
+2015,Portugal,PRT,1.978
+2016,Portugal,PRT,1.978
+2017,Portugal,PRT,1.978
+2018,Portugal,PRT,1.978
+2019,Portugal,PRT,1.978
+2020,Portugal,PRT,1.978
 1920,Romania,ROU,0.0
 1921,Romania,ROU,0.0
 1922,Romania,ROU,0.0
@@ -8077,7 +7548,7 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2011,Romania,ROU,5.494
 2012,Romania,ROU,5.494
 2013,Romania,ROU,5.494
-2014,Romania,ROU,5.343999999999999
+2014,Romania,ROU,5.3439999999999985
 2015,Romania,ROU,5.657
 2016,Romania,ROU,5.487
 2017,Romania,ROU,5.487
@@ -8147,12 +7618,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Rwanda,RWA,0.0
 2019,Rwanda,RWA,0.0
 2020,Rwanda,RWA,0.0
-2015,Saint Lucia,LCA,0.0
-2016,Saint Lucia,LCA,0.0
-2017,Saint Lucia,LCA,0.0
-2018,Saint Lucia,LCA,0.0
-2019,Saint Lucia,LCA,0.0
-2020,Saint Lucia,LCA,0.0
 1972,Saudi Arabia,SAU,0.0
 1973,Saudi Arabia,SAU,0.0
 1974,Saudi Arabia,SAU,0.0
@@ -8202,92 +7667,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Saudi Arabia,SAU,0.0
 2019,Saudi Arabia,SAU,0.0
 2020,Saudi Arabia,SAU,0.0
-1935,Senegal,SEN,0.0
-1936,Senegal,SEN,0.0
-1937,Senegal,SEN,0.0
-1938,Senegal,SEN,0.0
-1939,Senegal,SEN,0.0
-1940,Senegal,SEN,0.0
-1941,Senegal,SEN,0.0
-1942,Senegal,SEN,0.0
-1943,Senegal,SEN,0.0
-1944,Senegal,SEN,0.0
-1945,Senegal,SEN,0.0
-1946,Senegal,SEN,0.0
-1947,Senegal,SEN,0.0
-1948,Senegal,SEN,0.0
-1949,Senegal,SEN,0.0
-1950,Senegal,SEN,0.0
-1951,Senegal,SEN,0.0
-1952,Senegal,SEN,0.0
-1953,Senegal,SEN,0.0
-1954,Senegal,SEN,0.0
-1955,Senegal,SEN,0.0
-1956,Senegal,SEN,0.0
-1957,Senegal,SEN,0.0
-1958,Senegal,SEN,0.0
-1959,Senegal,SEN,0.0
-1960,Senegal,SEN,0.0
-1961,Senegal,SEN,0.0
-1962,Senegal,SEN,0.0
-1963,Senegal,SEN,0.0
-1964,Senegal,SEN,0.0
-1965,Senegal,SEN,0.0
-1966,Senegal,SEN,0.0
-1967,Senegal,SEN,0.0
-1968,Senegal,SEN,0.0
-1969,Senegal,SEN,0.0
-1970,Senegal,SEN,0.0
-1971,Senegal,SEN,0.0
-1972,Senegal,SEN,0.0
-1973,Senegal,SEN,0.0
-1974,Senegal,SEN,0.0
-1975,Senegal,SEN,0.0
-1976,Senegal,SEN,0.0
-1977,Senegal,SEN,0.0
-1978,Senegal,SEN,0.0
-1979,Senegal,SEN,0.0
-1980,Senegal,SEN,0.0
-1981,Senegal,SEN,0.0
-1982,Senegal,SEN,0.0
-1983,Senegal,SEN,0.0
-1984,Senegal,SEN,0.0
-1985,Senegal,SEN,0.0
-1986,Senegal,SEN,0.0
-1987,Senegal,SEN,0.0
-1988,Senegal,SEN,0.0
-1989,Senegal,SEN,0.0
-1990,Senegal,SEN,0.0
-1991,Senegal,SEN,0.0
-1992,Senegal,SEN,0.0
-1993,Senegal,SEN,0.0
-1994,Senegal,SEN,0.0
-1995,Senegal,SEN,0.0
-1996,Senegal,SEN,0.0
-1997,Senegal,SEN,0.0
-1998,Senegal,SEN,0.0
-1999,Senegal,SEN,0.0
-2000,Senegal,SEN,0.0
-2001,Senegal,SEN,0.0
-2002,Senegal,SEN,0.0
-2003,Senegal,SEN,0.0
-2004,Senegal,SEN,0.0
-2005,Senegal,SEN,0.0
-2006,Senegal,SEN,0.0
-2007,Senegal,SEN,0.0
-2008,Senegal,SEN,0.0
-2009,Senegal,SEN,0.0
-2010,Senegal,SEN,0.0
-2011,Senegal,SEN,0.0
-2012,Senegal,SEN,0.0
-2013,Senegal,SEN,0.0
-2014,Senegal,SEN,0.0
-2015,Senegal,SEN,0.0
-2016,Senegal,SEN,0.0
-2017,Senegal,SEN,0.0
-2018,Senegal,SEN,0.0
-2019,Senegal,SEN,0.0
-2020,Senegal,SEN,0.0
 1961,Serbia,SRB,0.245
 1962,Serbia,SRB,0.245
 1963,Serbia,SRB,0.245
@@ -8345,142 +7724,9 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2015,Serbia,SRB,3.3560000000000003
 2016,Serbia,SRB,3.3560000000000003
 2017,Serbia,SRB,3.3560000000000003
-2018,Serbia,SRB,5.3229999999999995
-2019,Serbia,SRB,5.3229999999999995
-2020,Serbia,SRB,5.3229999999999995
-1935,Sierra Leone,SLE,0.0
-1936,Sierra Leone,SLE,0.0
-1937,Sierra Leone,SLE,0.0
-1938,Sierra Leone,SLE,0.0
-1939,Sierra Leone,SLE,0.0
-1940,Sierra Leone,SLE,0.0
-1941,Sierra Leone,SLE,0.0
-1942,Sierra Leone,SLE,0.0
-1943,Sierra Leone,SLE,0.0
-1944,Sierra Leone,SLE,0.0
-1945,Sierra Leone,SLE,0.0
-1946,Sierra Leone,SLE,0.0
-1947,Sierra Leone,SLE,0.0
-1948,Sierra Leone,SLE,0.0
-1949,Sierra Leone,SLE,0.0
-1950,Sierra Leone,SLE,0.0
-1951,Sierra Leone,SLE,0.0
-1952,Sierra Leone,SLE,0.0
-1953,Sierra Leone,SLE,0.0
-1954,Sierra Leone,SLE,0.0
-1955,Sierra Leone,SLE,0.0
-1956,Sierra Leone,SLE,0.0
-1957,Sierra Leone,SLE,0.0
-1958,Sierra Leone,SLE,0.0
-1959,Sierra Leone,SLE,0.0
-1960,Sierra Leone,SLE,0.0
-1961,Sierra Leone,SLE,0.0
-1962,Sierra Leone,SLE,0.0
-1963,Sierra Leone,SLE,0.0
-1964,Sierra Leone,SLE,0.0
-1965,Sierra Leone,SLE,0.0
-1966,Sierra Leone,SLE,0.0
-1967,Sierra Leone,SLE,0.0
-1968,Sierra Leone,SLE,0.0
-1969,Sierra Leone,SLE,0.0
-1970,Sierra Leone,SLE,0.0
-1971,Sierra Leone,SLE,0.0
-1972,Sierra Leone,SLE,0.0
-1973,Sierra Leone,SLE,0.0
-1974,Sierra Leone,SLE,0.0
-1975,Sierra Leone,SLE,0.0
-1976,Sierra Leone,SLE,0.0
-1977,Sierra Leone,SLE,0.0
-1978,Sierra Leone,SLE,0.0
-1979,Sierra Leone,SLE,0.0
-1980,Sierra Leone,SLE,0.0
-1981,Sierra Leone,SLE,0.0
-1982,Sierra Leone,SLE,0.0
-1983,Sierra Leone,SLE,0.0
-1984,Sierra Leone,SLE,0.0
-1985,Sierra Leone,SLE,0.0
-1986,Sierra Leone,SLE,0.0
-1987,Sierra Leone,SLE,0.0
-1988,Sierra Leone,SLE,0.0
-1989,Sierra Leone,SLE,0.0
-1990,Sierra Leone,SLE,0.0
-1991,Sierra Leone,SLE,0.0
-1992,Sierra Leone,SLE,0.0
-1993,Sierra Leone,SLE,0.0
-1994,Sierra Leone,SLE,0.0
-1995,Sierra Leone,SLE,0.0
-1996,Sierra Leone,SLE,0.0
-1997,Sierra Leone,SLE,0.0
-1998,Sierra Leone,SLE,0.0
-1999,Sierra Leone,SLE,0.0
-2000,Sierra Leone,SLE,0.0
-2001,Sierra Leone,SLE,0.0
-2002,Sierra Leone,SLE,0.0
-2003,Sierra Leone,SLE,0.0
-2004,Sierra Leone,SLE,0.0
-2005,Sierra Leone,SLE,0.0
-2006,Sierra Leone,SLE,0.0
-2007,Sierra Leone,SLE,0.0
-2008,Sierra Leone,SLE,0.0
-2009,Sierra Leone,SLE,0.0
-2010,Sierra Leone,SLE,0.0
-2011,Sierra Leone,SLE,0.0
-2012,Sierra Leone,SLE,0.0
-2013,Sierra Leone,SLE,0.0
-2014,Sierra Leone,SLE,0.0
-2015,Sierra Leone,SLE,0.0
-2016,Sierra Leone,SLE,0.0
-2017,Sierra Leone,SLE,0.0
-2018,Sierra Leone,SLE,0.0
-2019,Sierra Leone,SLE,0.0
-2020,Sierra Leone,SLE,0.0
-1974,Singapore,SGP,0.0
-1975,Singapore,SGP,0.0
-1976,Singapore,SGP,0.0
-1977,Singapore,SGP,0.0
-1978,Singapore,SGP,0.0
-1979,Singapore,SGP,0.0
-1980,Singapore,SGP,0.0
-1981,Singapore,SGP,0.0
-1982,Singapore,SGP,0.0
-1983,Singapore,SGP,0.0
-1984,Singapore,SGP,0.0
-1985,Singapore,SGP,0.0
-1986,Singapore,SGP,0.0
-1987,Singapore,SGP,0.0
-1988,Singapore,SGP,0.0
-1989,Singapore,SGP,0.0
-1990,Singapore,SGP,0.0
-1991,Singapore,SGP,0.0
-1992,Singapore,SGP,0.0
-1993,Singapore,SGP,0.0
-1994,Singapore,SGP,0.0
-1995,Singapore,SGP,0.0
-1996,Singapore,SGP,0.0
-1997,Singapore,SGP,0.0
-1998,Singapore,SGP,0.0
-1999,Singapore,SGP,0.0
-2000,Singapore,SGP,0.0
-2001,Singapore,SGP,0.0
-2002,Singapore,SGP,0.0
-2003,Singapore,SGP,0.0
-2004,Singapore,SGP,0.0
-2005,Singapore,SGP,0.0
-2006,Singapore,SGP,0.0
-2007,Singapore,SGP,0.0
-2008,Singapore,SGP,0.0
-2009,Singapore,SGP,0.0
-2010,Singapore,SGP,0.0
-2011,Singapore,SGP,0.0
-2012,Singapore,SGP,0.0
-2013,Singapore,SGP,0.0
-2014,Singapore,SGP,0.0
-2015,Singapore,SGP,0.0
-2016,Singapore,SGP,0.0
-2017,Singapore,SGP,0.0
-2018,Singapore,SGP,0.0
-2019,Singapore,SGP,0.0
-2020,Singapore,SGP,0.0
+2018,Serbia,SRB,5.323
+2019,Serbia,SRB,5.323
+2020,Serbia,SRB,5.323
 1920,Slovakia,SVK,0.0
 1921,Slovakia,SVK,0.0
 1922,Slovakia,SVK,0.0
@@ -8579,9 +7825,9 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2015,Slovakia,SVK,0.0
 2016,Slovakia,SVK,0.0
 2017,Slovakia,SVK,0.0
-2018,Slovakia,SVK,1.398
-2019,Slovakia,SVK,1.398
-2020,Slovakia,SVK,1.398
+2018,Slovakia,SVK,1.3980000000000001
+2019,Slovakia,SVK,1.3980000000000001
+2020,Slovakia,SVK,1.3980000000000001
 1929,Slovenia,SVN,0.0
 1930,Slovenia,SVN,0.0
 1931,Slovenia,SVN,0.0
@@ -8629,43 +7875,43 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1973,Slovenia,SVN,0.0
 1974,Slovenia,SVN,0.0
 1975,Slovenia,SVN,0.0
-1976,Slovenia,SVN,0.11199999999999999
-1977,Slovenia,SVN,0.11199999999999999
-1978,Slovenia,SVN,0.11199999999999999
-1979,Slovenia,SVN,0.11199999999999999
-1980,Slovenia,SVN,0.11199999999999999
-1981,Slovenia,SVN,0.11199999999999999
-1982,Slovenia,SVN,0.11199999999999999
-1983,Slovenia,SVN,0.11199999999999999
-1984,Slovenia,SVN,0.11199999999999999
-1985,Slovenia,SVN,0.11199999999999999
-1986,Slovenia,SVN,0.11199999999999999
-1987,Slovenia,SVN,0.11199999999999999
-1988,Slovenia,SVN,0.11199999999999999
-1989,Slovenia,SVN,0.11199999999999999
-1990,Slovenia,SVN,0.11199999999999999
-1991,Slovenia,SVN,0.11199999999999999
-1992,Slovenia,SVN,0.11199999999999999
-1993,Slovenia,SVN,0.11199999999999999
-1994,Slovenia,SVN,0.11199999999999999
-1995,Slovenia,SVN,0.11199999999999999
-1996,Slovenia,SVN,0.11199999999999999
-1997,Slovenia,SVN,0.11199999999999999
-1998,Slovenia,SVN,0.11199999999999999
-1999,Slovenia,SVN,0.11199999999999999
-2000,Slovenia,SVN,0.11199999999999999
-2001,Slovenia,SVN,1.2109999999999999
-2002,Slovenia,SVN,1.2109999999999999
-2003,Slovenia,SVN,1.2109999999999999
-2004,Slovenia,SVN,1.2109999999999999
-2005,Slovenia,SVN,1.2109999999999999
-2006,Slovenia,SVN,1.2109999999999999
-2007,Slovenia,SVN,1.2109999999999999
-2008,Slovenia,SVN,1.2109999999999999
-2009,Slovenia,SVN,1.2109999999999999
-2010,Slovenia,SVN,1.2109999999999999
-2011,Slovenia,SVN,1.2109999999999999
-2012,Slovenia,SVN,1.2109999999999999
+1976,Slovenia,SVN,0.112
+1977,Slovenia,SVN,0.112
+1978,Slovenia,SVN,0.112
+1979,Slovenia,SVN,0.112
+1980,Slovenia,SVN,0.112
+1981,Slovenia,SVN,0.112
+1982,Slovenia,SVN,0.112
+1983,Slovenia,SVN,0.112
+1984,Slovenia,SVN,0.112
+1985,Slovenia,SVN,0.112
+1986,Slovenia,SVN,0.112
+1987,Slovenia,SVN,0.112
+1988,Slovenia,SVN,0.112
+1989,Slovenia,SVN,0.112
+1990,Slovenia,SVN,0.112
+1991,Slovenia,SVN,0.112
+1992,Slovenia,SVN,0.112
+1993,Slovenia,SVN,0.112
+1994,Slovenia,SVN,0.112
+1995,Slovenia,SVN,0.112
+1996,Slovenia,SVN,0.112
+1997,Slovenia,SVN,0.112
+1998,Slovenia,SVN,0.112
+1999,Slovenia,SVN,0.112
+2000,Slovenia,SVN,0.112
+2001,Slovenia,SVN,1.211
+2002,Slovenia,SVN,1.211
+2003,Slovenia,SVN,1.211
+2004,Slovenia,SVN,1.211
+2005,Slovenia,SVN,1.211
+2006,Slovenia,SVN,1.211
+2007,Slovenia,SVN,1.211
+2008,Slovenia,SVN,1.211
+2009,Slovenia,SVN,1.211
+2010,Slovenia,SVN,1.211
+2011,Slovenia,SVN,1.211
+2012,Slovenia,SVN,1.211
 2013,Slovenia,SVN,1.321
 2014,Slovenia,SVN,1.321
 2015,Slovenia,SVN,1.321
@@ -8695,22 +7941,22 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1970,South Africa,ZAF,3.68
 1971,South Africa,ZAF,3.68
 1972,South Africa,ZAF,4.87
-1973,South Africa,ZAF,9.222000000000001
-1974,South Africa,ZAF,9.222000000000001
-1975,South Africa,ZAF,9.222000000000001
-1976,South Africa,ZAF,9.222000000000001
-1977,South Africa,ZAF,9.222000000000001
-1978,South Africa,ZAF,12.222000000000001
-1979,South Africa,ZAF,12.222000000000001
-1980,South Africa,ZAF,12.222000000000001
-1981,South Africa,ZAF,15.822
+1973,South Africa,ZAF,9.222
+1974,South Africa,ZAF,9.222
+1975,South Africa,ZAF,9.222
+1976,South Africa,ZAF,9.222
+1977,South Africa,ZAF,9.222
+1978,South Africa,ZAF,12.222
+1979,South Africa,ZAF,12.222
+1980,South Africa,ZAF,12.222
+1981,South Africa,ZAF,15.822000000000001
 1982,South Africa,ZAF,19.422
 1983,South Africa,ZAF,19.422
 1984,South Africa,ZAF,19.422
 1985,South Africa,ZAF,19.422
 1986,South Africa,ZAF,19.422
-1987,South Africa,ZAF,26.784000000000002
-1988,South Africa,ZAF,26.784000000000002
+1987,South Africa,ZAF,26.784
+1988,South Africa,ZAF,26.784
 1989,South Africa,ZAF,30.774
 1990,South Africa,ZAF,34.89
 1991,South Africa,ZAF,34.89
@@ -8740,9 +7986,9 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2015,South Africa,ZAF,37.22
 2016,South Africa,ZAF,36.92
 2017,South Africa,ZAF,36.92
-2018,South Africa,ZAF,36.114000000000004
-2019,South Africa,ZAF,36.114000000000004
-2020,South Africa,ZAF,36.114000000000004
+2018,South Africa,ZAF,36.114
+2019,South Africa,ZAF,36.114
+2020,South Africa,ZAF,36.114
 1923,Spain,ESP,0.0
 1924,Spain,ESP,0.0
 1925,Spain,ESP,0.0
@@ -8800,16 +8046,16 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1977,Spain,ESP,0.0
 1978,Spain,ESP,0.0
 1979,Spain,ESP,0.0
-1980,Spain,ESP,1.9127299999999998
-1981,Spain,ESP,2.7942299999999998
+1980,Spain,ESP,1.91273
+1981,Spain,ESP,2.79423
 1982,Spain,ESP,3.14107
 1983,Spain,ESP,3.14107
-1984,Spain,ESP,6.151009999999999
-1985,Spain,ESP,7.598719999999998
-1986,Spain,ESP,7.598719999999998
-1987,Spain,ESP,7.598719999999998
-1988,Spain,ESP,7.598719999999998
-1989,Spain,ESP,7.598719999999998
+1984,Spain,ESP,6.1510099999999985
+1985,Spain,ESP,7.5987199999999975
+1986,Spain,ESP,7.5987199999999975
+1987,Spain,ESP,7.5987199999999975
+1988,Spain,ESP,7.5987199999999975
+1989,Spain,ESP,7.5987199999999975
 1990,Spain,ESP,7.66372
 1991,Spain,ESP,7.66372
 1992,Spain,ESP,7.66372
@@ -9030,9 +8276,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Sudan,SDN,0.0
 2019,Sudan,SDN,0.0
 2020,Sudan,SDN,0.0
-2018,Suriname,SUR,0.0
-2019,Suriname,SUR,0.0
-2020,Suriname,SUR,0.0
 1920,Sweden,SWE,0.0
 1921,Sweden,SWE,0.0
 1922,Sweden,SWE,0.0
@@ -9418,12 +8661,12 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1998,Thailand,THA,2.4
 1999,Thailand,THA,2.728
 2000,Thailand,THA,2.728
-2001,Thailand,THA,3.2539999999999996
-2002,Thailand,THA,3.2539999999999996
-2003,Thailand,THA,3.2539999999999996
-2004,Thailand,THA,3.2539999999999996
-2005,Thailand,THA,3.2539999999999996
-2006,Thailand,THA,3.2539999999999996
+2001,Thailand,THA,3.254
+2002,Thailand,THA,3.254
+2003,Thailand,THA,3.254
+2004,Thailand,THA,3.254
+2005,Thailand,THA,3.254
+2006,Thailand,THA,3.254
 2007,Thailand,THA,4.6000000000000005
 2008,Thailand,THA,4.6000000000000005
 2009,Thailand,THA,4.6000000000000005
@@ -9438,82 +8681,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Thailand,THA,5.26
 2019,Thailand,THA,5.26
 2020,Thailand,THA,5.26
-1991,Togo,TGO,0.0
-1992,Togo,TGO,0.0
-1993,Togo,TGO,0.0
-1994,Togo,TGO,0.0
-1995,Togo,TGO,0.0
-1996,Togo,TGO,0.0
-1997,Togo,TGO,0.0
-1998,Togo,TGO,0.0
-1999,Togo,TGO,0.0
-2000,Togo,TGO,0.0
-2001,Togo,TGO,0.0
-2002,Togo,TGO,0.0
-2003,Togo,TGO,0.0
-2004,Togo,TGO,0.0
-2005,Togo,TGO,0.0
-2006,Togo,TGO,0.0
-2007,Togo,TGO,0.0
-2008,Togo,TGO,0.0
-2009,Togo,TGO,0.0
-2010,Togo,TGO,0.0
-2011,Togo,TGO,0.0
-2012,Togo,TGO,0.0
-2013,Togo,TGO,0.0
-2014,Togo,TGO,0.0
-2015,Togo,TGO,0.0
-2016,Togo,TGO,0.0
-2017,Togo,TGO,0.0
-2018,Togo,TGO,0.0
-2019,Togo,TGO,0.0
-2020,Togo,TGO,0.0
-1975,Trinidad and Tobago,TTO,0.0
-1976,Trinidad and Tobago,TTO,0.0
-1977,Trinidad and Tobago,TTO,0.0
-1978,Trinidad and Tobago,TTO,0.0
-1979,Trinidad and Tobago,TTO,0.0
-1980,Trinidad and Tobago,TTO,0.0
-1981,Trinidad and Tobago,TTO,0.0
-1982,Trinidad and Tobago,TTO,0.0
-1983,Trinidad and Tobago,TTO,0.0
-1984,Trinidad and Tobago,TTO,0.0
-1985,Trinidad and Tobago,TTO,0.0
-1986,Trinidad and Tobago,TTO,0.0
-1987,Trinidad and Tobago,TTO,0.0
-1988,Trinidad and Tobago,TTO,0.0
-1989,Trinidad and Tobago,TTO,0.0
-1990,Trinidad and Tobago,TTO,0.0
-1991,Trinidad and Tobago,TTO,0.0
-1992,Trinidad and Tobago,TTO,0.0
-1993,Trinidad and Tobago,TTO,0.0
-1994,Trinidad and Tobago,TTO,0.0
-1995,Trinidad and Tobago,TTO,0.0
-1996,Trinidad and Tobago,TTO,0.0
-1997,Trinidad and Tobago,TTO,0.0
-1998,Trinidad and Tobago,TTO,0.0
-1999,Trinidad and Tobago,TTO,0.0
-2000,Trinidad and Tobago,TTO,0.0
-2001,Trinidad and Tobago,TTO,0.0
-2002,Trinidad and Tobago,TTO,0.0
-2003,Trinidad and Tobago,TTO,0.0
-2004,Trinidad and Tobago,TTO,0.0
-2005,Trinidad and Tobago,TTO,0.0
-2006,Trinidad and Tobago,TTO,0.0
-2007,Trinidad and Tobago,TTO,0.0
-2008,Trinidad and Tobago,TTO,0.0
-2009,Trinidad and Tobago,TTO,0.0
-2010,Trinidad and Tobago,TTO,0.0
-2011,Trinidad and Tobago,TTO,0.0
-2012,Trinidad and Tobago,TTO,0.0
-2013,Trinidad and Tobago,TTO,0.0
-2014,Trinidad and Tobago,TTO,0.0
-2015,Trinidad and Tobago,TTO,0.0
-2016,Trinidad and Tobago,TTO,0.0
-2017,Trinidad and Tobago,TTO,0.0
-2018,Trinidad and Tobago,TTO,0.0
-2019,Trinidad and Tobago,TTO,0.0
-2020,Trinidad and Tobago,TTO,0.0
 1956,Tunisia,TUN,0.0
 1957,Tunisia,TUN,0.0
 1958,Tunisia,TUN,0.0
@@ -9725,13 +8892,13 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1964,Ukraine,UKR,1.695
 1965,Ukraine,UKR,5.48
 1966,Ukraine,UKR,5.66
-1967,Ukraine,UKR,7.4239999999999995
+1967,Ukraine,UKR,7.423999999999999
 1968,Ukraine,UKR,8.464
 1969,Ukraine,UKR,8.464
-1970,Ukraine,UKR,10.264000000000001
+1970,Ukraine,UKR,10.264
 1971,Ukraine,UKR,12.064
-1972,Ukraine,UKR,14.889
-1973,Ukraine,UKR,20.215999999999998
+1972,Ukraine,UKR,14.889000000000001
+1973,Ukraine,UKR,20.216
 1974,Ukraine,UKR,20.336
 1975,Ukraine,UKR,20.336
 1976,Ukraine,UKR,20.336
@@ -9779,50 +8946,6 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Ukraine,UKR,18.086
 2019,Ukraine,UKR,18.086
 2020,Ukraine,UKR,16.285999999999998
-1977,United Arab Emirates,ARE,0.0
-1978,United Arab Emirates,ARE,0.0
-1979,United Arab Emirates,ARE,0.0
-1980,United Arab Emirates,ARE,0.0
-1981,United Arab Emirates,ARE,0.0
-1982,United Arab Emirates,ARE,0.0
-1983,United Arab Emirates,ARE,0.0
-1984,United Arab Emirates,ARE,0.0
-1985,United Arab Emirates,ARE,0.0
-1986,United Arab Emirates,ARE,0.0
-1987,United Arab Emirates,ARE,0.0
-1988,United Arab Emirates,ARE,0.0
-1989,United Arab Emirates,ARE,0.0
-1990,United Arab Emirates,ARE,0.0
-1991,United Arab Emirates,ARE,0.0
-1992,United Arab Emirates,ARE,0.0
-1993,United Arab Emirates,ARE,0.0
-1994,United Arab Emirates,ARE,0.0
-1995,United Arab Emirates,ARE,0.0
-1996,United Arab Emirates,ARE,0.0
-1997,United Arab Emirates,ARE,0.0
-1998,United Arab Emirates,ARE,0.0
-1999,United Arab Emirates,ARE,0.0
-2000,United Arab Emirates,ARE,0.0
-2001,United Arab Emirates,ARE,0.0
-2002,United Arab Emirates,ARE,0.0
-2003,United Arab Emirates,ARE,0.0
-2004,United Arab Emirates,ARE,0.0
-2005,United Arab Emirates,ARE,0.0
-2006,United Arab Emirates,ARE,0.0
-2007,United Arab Emirates,ARE,0.0
-2008,United Arab Emirates,ARE,0.0
-2009,United Arab Emirates,ARE,0.0
-2010,United Arab Emirates,ARE,0.0
-2011,United Arab Emirates,ARE,0.0
-2012,United Arab Emirates,ARE,0.0
-2013,United Arab Emirates,ARE,0.0
-2014,United Arab Emirates,ARE,0.0
-2015,United Arab Emirates,ARE,0.0
-2016,United Arab Emirates,ARE,0.0
-2017,United Arab Emirates,ARE,0.0
-2018,United Arab Emirates,ARE,0.0
-2019,United Arab Emirates,ARE,0.0
-2020,United Arab Emirates,ARE,0.0
 1920,United States of America,USA,0.0
 1921,United States of America,USA,0.0
 1922,United States of America,USA,0.0
@@ -9889,36 +9012,36 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1983,United States of America,USA,182.43949999999992
 1984,United States of America,USA,186.97939999999988
 1985,United States of America,USA,196.70299999999992
-1986,United States of America,USA,203.32069999999993
-1987,United States of America,USA,209.12359999999993
+1986,United States of America,USA,203.32069999999996
+1987,United States of America,USA,209.12359999999995
 1988,United States of America,USA,209.27579999999992
 1989,United States of America,USA,209.34059999999985
 1990,United States of America,USA,211.98929999999987
 1991,United States of America,USA,213.53839999999988
 1992,United States of America,USA,215.83559999999989
-1993,United States of America,USA,217.12379999999993
-1994,United States of America,USA,221.29199999999997
+1993,United States of America,USA,217.12379999999996
+1994,United States of America,USA,221.292
 1995,United States of America,USA,222.72709999999992
 1996,United States of America,USA,226.59789999999992
-1997,United States of America,USA,228.31989999999993
+1997,United States of America,USA,228.31989999999996
 1998,United States of America,USA,232.49429999999992
-1999,United States of America,USA,232.72329999999997
-2000,United States of America,USA,232.71929999999998
-2001,United States of America,USA,233.23299999999998
-2002,United States of America,USA,233.23299999999998
+1999,United States of America,USA,232.7233
+2000,United States of America,USA,232.7193
+2001,United States of America,USA,233.233
+2002,United States of America,USA,233.233
 2003,United States of America,USA,237.62789999999995
-2004,United States of America,USA,233.83809999999997
+2004,United States of America,USA,233.8381
 2005,United States of America,USA,231.44779999999992
-2006,United States of America,USA,230.76509999999996
+2006,United States of America,USA,230.7651
 2007,United States of America,USA,230.59709999999995
 2008,United States of America,USA,229.96679999999992
-2009,United States of America,USA,228.86679999999996
+2009,United States of America,USA,228.8668
 2010,United States of America,USA,232.67219999999992
 2011,United States of America,USA,230.52239999999992
-2012,United States of America,USA,232.53039999999993
-2013,United States of America,USA,232.85829999999993
-2014,United States of America,USA,232.85829999999993
-2015,United States of America,USA,231.94499999999994
+2012,United States of America,USA,232.53039999999996
+2013,United States of America,USA,232.85829999999996
+2014,United States of America,USA,232.85829999999996
+2015,United States of America,USA,231.94499999999996
 2016,United States of America,USA,225.26899999999995
 2017,United States of America,USA,219.43339999999995
 2018,United States of America,USA,210.5895
@@ -10023,22 +9146,22 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 1970,Uzbekistan,UZB,0.0
 1971,Uzbekistan,UZB,0.0
 1972,Uzbekistan,UZB,0.0
-1973,Uzbekistan,UZB,0.42200000000000004
-1974,Uzbekistan,UZB,0.42200000000000004
-1975,Uzbekistan,UZB,0.42200000000000004
-1976,Uzbekistan,UZB,0.42200000000000004
-1977,Uzbekistan,UZB,0.42200000000000004
-1978,Uzbekistan,UZB,0.42200000000000004
-1979,Uzbekistan,UZB,0.42200000000000004
-1980,Uzbekistan,UZB,0.42200000000000004
-1981,Uzbekistan,UZB,0.42200000000000004
-1982,Uzbekistan,UZB,0.42200000000000004
-1983,Uzbekistan,UZB,0.42200000000000004
-1984,Uzbekistan,UZB,0.42200000000000004
-1985,Uzbekistan,UZB,0.42200000000000004
-1986,Uzbekistan,UZB,0.42200000000000004
-1987,Uzbekistan,UZB,0.42200000000000004
-1988,Uzbekistan,UZB,0.42200000000000004
+1973,Uzbekistan,UZB,0.422
+1974,Uzbekistan,UZB,0.422
+1975,Uzbekistan,UZB,0.422
+1976,Uzbekistan,UZB,0.422
+1977,Uzbekistan,UZB,0.422
+1978,Uzbekistan,UZB,0.422
+1979,Uzbekistan,UZB,0.422
+1980,Uzbekistan,UZB,0.422
+1981,Uzbekistan,UZB,0.422
+1982,Uzbekistan,UZB,0.422
+1983,Uzbekistan,UZB,0.422
+1984,Uzbekistan,UZB,0.422
+1985,Uzbekistan,UZB,0.422
+1986,Uzbekistan,UZB,0.422
+1987,Uzbekistan,UZB,0.422
+1988,Uzbekistan,UZB,0.422
 1989,Uzbekistan,UZB,2.522
 1990,Uzbekistan,UZB,2.522
 1991,Uzbekistan,UZB,2.522
@@ -10071,46 +9194,107 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Uzbekistan,UZB,2.522
 2019,Uzbekistan,UZB,2.522
 2020,Uzbekistan,UZB,2.522
-1972,Western Sahara,ESH,0.0
-1973,Western Sahara,ESH,0.0
-1974,Western Sahara,ESH,0.0
-1975,Western Sahara,ESH,0.0
-1976,Western Sahara,ESH,0.0
-1977,Western Sahara,ESH,0.0
-1978,Western Sahara,ESH,0.0
-1979,Western Sahara,ESH,0.0
-1980,Western Sahara,ESH,0.0
-1981,Western Sahara,ESH,0.0
-1982,Western Sahara,ESH,0.0
-1983,Western Sahara,ESH,0.0
-1984,Western Sahara,ESH,0.0
-1985,Western Sahara,ESH,0.0
-1986,Western Sahara,ESH,0.0
-1987,Western Sahara,ESH,0.0
-1988,Western Sahara,ESH,0.0
-1989,Western Sahara,ESH,0.0
-1990,Western Sahara,ESH,0.0
-1991,Western Sahara,ESH,0.0
-1992,Western Sahara,ESH,0.0
-1993,Western Sahara,ESH,0.0
-1994,Western Sahara,ESH,0.0
-1995,Western Sahara,ESH,0.0
-1996,Western Sahara,ESH,0.0
-1997,Western Sahara,ESH,0.0
-1998,Western Sahara,ESH,0.0
-1999,Western Sahara,ESH,0.0
-2000,Western Sahara,ESH,0.0
-2001,Western Sahara,ESH,0.0
-2002,Western Sahara,ESH,0.0
-2003,Western Sahara,ESH,0.0
-2004,Western Sahara,ESH,0.0
-2005,Western Sahara,ESH,0.0
-2006,Western Sahara,ESH,0.0
-2007,Western Sahara,ESH,0.0
-2008,Western Sahara,ESH,0.0
-2009,Western Sahara,ESH,0.0
-2010,Western Sahara,ESH,0.0
-2011,Western Sahara,ESH,0.0
+1920,Venezuela,VEN,0.0
+1921,Venezuela,VEN,0.0
+1922,Venezuela,VEN,0.0
+1923,Venezuela,VEN,0.0
+1924,Venezuela,VEN,0.0
+1925,Venezuela,VEN,0.0
+1926,Venezuela,VEN,0.0
+1927,Venezuela,VEN,0.0
+1928,Venezuela,VEN,0.0
+1929,Venezuela,VEN,0.0
+1930,Venezuela,VEN,0.0
+1931,Venezuela,VEN,0.0
+1932,Venezuela,VEN,0.0
+1933,Venezuela,VEN,0.0
+1934,Venezuela,VEN,0.0
+1935,Venezuela,VEN,0.0
+1936,Venezuela,VEN,0.0
+1937,Venezuela,VEN,0.0
+1938,Venezuela,VEN,0.0
+1939,Venezuela,VEN,0.0
+1940,Venezuela,VEN,0.0
+1941,Venezuela,VEN,0.0
+1942,Venezuela,VEN,0.0
+1943,Venezuela,VEN,0.0
+1944,Venezuela,VEN,0.0
+1945,Venezuela,VEN,0.0
+1946,Venezuela,VEN,0.0
+1947,Venezuela,VEN,0.0
+1948,Venezuela,VEN,0.0
+1949,Venezuela,VEN,0.0
+1950,Venezuela,VEN,0.0
+1951,Venezuela,VEN,0.0
+1952,Venezuela,VEN,0.0
+1953,Venezuela,VEN,0.0
+1954,Venezuela,VEN,0.0
+1955,Venezuela,VEN,0.0
+1956,Venezuela,VEN,0.0
+1957,Venezuela,VEN,0.0
+1958,Venezuela,VEN,0.0
+1959,Venezuela,VEN,0.0
+1960,Venezuela,VEN,0.0
+1961,Venezuela,VEN,0.0
+1962,Venezuela,VEN,0.01506666666666667
+1963,Venezuela,VEN,0.0164
+1964,Venezuela,VEN,0.0164
+1965,Venezuela,VEN,0.1069375
+1966,Venezuela,VEN,0.1069375
+1967,Venezuela,VEN,0.1069375
+1968,Venezuela,VEN,0.1198125
+1969,Venezuela,VEN,0.1198125
+1970,Venezuela,VEN,0.1198125
+1971,Venezuela,VEN,0.14951875
+1972,Venezuela,VEN,0.14951875
+1973,Venezuela,VEN,0.14951875
+1974,Venezuela,VEN,0.17739375000000002
+1975,Venezuela,VEN,0.18048823529411767
+1976,Venezuela,VEN,0.17046111111111112
+1977,Venezuela,VEN,0.17046111111111112
+1978,Venezuela,VEN,0.17046111111111112
+1979,Venezuela,VEN,0.1850166666666667
+1980,Venezuela,VEN,0.18740555555555555
+1981,Venezuela,VEN,0.1775421052631579
+1982,Venezuela,VEN,0.1775421052631579
+1983,Venezuela,VEN,0.2818684210526316
+1984,Venezuela,VEN,0.2818684210526316
+1985,Venezuela,VEN,0.2993421052631579
+1986,Venezuela,VEN,0.31302631578947365
+1987,Venezuela,VEN,0.3312368421052631
+1988,Venezuela,VEN,0.3943947368421053
+1989,Venezuela,VEN,0.3943947368421053
+1990,Venezuela,VEN,0.4270263157894737
+1991,Venezuela,VEN,0.4521842105263158
+1992,Venezuela,VEN,0.4521842105263158
+1993,Venezuela,VEN,0.4729315789473684
+1994,Venezuela,VEN,0.479878947368421
+1995,Venezuela,VEN,0.4808526315789473
+1996,Venezuela,VEN,0.4821368421052631
+1997,Venezuela,VEN,0.5412421052631577
+1998,Venezuela,VEN,0.7465105263157895
+1999,Venezuela,VEN,0.7465105263157895
+2000,Venezuela,VEN,0.7806263157894736
+2001,Venezuela,VEN,0.7997789473684209
+2002,Venezuela,VEN,0.8051942105263158
+2003,Venezuela,VEN,0.8789415789473685
+2004,Venezuela,VEN,0.8789415789473685
+2005,Venezuela,VEN,0.8789415789473685
+2006,Venezuela,VEN,0.8789415789473685
+2007,Venezuela,VEN,0.8844075789473685
+2008,Venezuela,VEN,0.9242648842105264
+2009,Venezuela,VEN,0.9282227789473688
+2010,Venezuela,VEN,0.9286859368421054
+2011,Venezuela,VEN,0.9471069894736844
+2012,Venezuela,VEN,0.9395806736842104
+2013,Venezuela,VEN,0.9962821473684212
+2014,Venezuela,VEN,0.9962821473684212
+2015,Venezuela,VEN,0.9202821473684212
+2016,Venezuela,VEN,0.9447032000000002
+2017,Venezuela,VEN,0.9447032000000002
+2018,Venezuela,VEN,0.92365748
+2019,Venezuela,VEN,0.92365748
+2020,Venezuela,VEN,0.92365748
 1974,Yemen,YEM,0.0
 1975,Yemen,YEM,0.0
 1976,Yemen,YEM,0.0
@@ -10283,609 +9467,1551 @@ Year,Nation,iso_code3,nemomod_entc_residual_capacity_pp_coal_gw
 2018,Zimbabwe,ZWE,0.92
 2019,Zimbabwe,ZWE,0.92
 2020,Zimbabwe,ZWE,0.92
-1920,Belize,BLZ,0.0
-1921,Belize,BLZ,0.0
-1922,Belize,BLZ,0.0
-1923,Belize,BLZ,0.0
-1924,Belize,BLZ,0.0
-1925,Belize,BLZ,0.0
-1926,Belize,BLZ,0.0
-1927,Belize,BLZ,0.0
-1928,Belize,BLZ,0.0
-1929,Belize,BLZ,0.0
-1930,Belize,BLZ,0.0
-1931,Belize,BLZ,0.0
-1932,Belize,BLZ,0.0
-1933,Belize,BLZ,0.0
-1934,Belize,BLZ,0.0
-1935,Belize,BLZ,0.0
-1936,Belize,BLZ,0.0
-1937,Belize,BLZ,0.0
-1938,Belize,BLZ,0.0
-1939,Belize,BLZ,0.0
-1940,Belize,BLZ,0.0
-1941,Belize,BLZ,0.0
-1942,Belize,BLZ,0.0
-1943,Belize,BLZ,0.0
-1944,Belize,BLZ,0.0
-1945,Belize,BLZ,0.0
-1946,Belize,BLZ,0.0
-1947,Belize,BLZ,0.0
-1948,Belize,BLZ,0.0
-1949,Belize,BLZ,0.0
-1950,Belize,BLZ,0.0
-1951,Belize,BLZ,0.0
-1952,Belize,BLZ,0.0
-1953,Belize,BLZ,0.0
-1954,Belize,BLZ,0.0
-1955,Belize,BLZ,0.0
-1956,Belize,BLZ,0.0
-1957,Belize,BLZ,0.0
-1958,Belize,BLZ,0.0
-1959,Belize,BLZ,0.0
-1960,Belize,BLZ,0.0
-1961,Belize,BLZ,0.0
-1962,Belize,BLZ,0.015066666666666667
-1963,Belize,BLZ,0.0164
-1964,Belize,BLZ,0.0164
-1965,Belize,BLZ,0.1069375
-1966,Belize,BLZ,0.1069375
-1967,Belize,BLZ,0.1069375
-1968,Belize,BLZ,0.1198125
-1969,Belize,BLZ,0.1198125
-1970,Belize,BLZ,0.1198125
-1971,Belize,BLZ,0.14951875
-1972,Belize,BLZ,0.14951875
-1973,Belize,BLZ,0.14951875
-1974,Belize,BLZ,0.17739375000000002
-1975,Belize,BLZ,0.18048823529411767
-1976,Belize,BLZ,0.17046111111111112
-1977,Belize,BLZ,0.17046111111111112
-1978,Belize,BLZ,0.17046111111111112
-1979,Belize,BLZ,0.1850166666666667
-1980,Belize,BLZ,0.18740555555555555
-1981,Belize,BLZ,0.1775421052631579
-1982,Belize,BLZ,0.1775421052631579
-1983,Belize,BLZ,0.2818684210526316
-1984,Belize,BLZ,0.2818684210526316
-1985,Belize,BLZ,0.2993421052631579
-1986,Belize,BLZ,0.31302631578947365
-1987,Belize,BLZ,0.3312368421052631
-1988,Belize,BLZ,0.39439473684210524
-1989,Belize,BLZ,0.39439473684210524
-1990,Belize,BLZ,0.4270263157894737
-1991,Belize,BLZ,0.4521842105263158
-1992,Belize,BLZ,0.4521842105263158
-1993,Belize,BLZ,0.4729315789473684
-1994,Belize,BLZ,0.479878947368421
-1995,Belize,BLZ,0.4808526315789473
-1996,Belize,BLZ,0.4821368421052631
-1997,Belize,BLZ,0.5412421052631577
-1998,Belize,BLZ,0.7465105263157895
-1999,Belize,BLZ,0.7465105263157895
-2000,Belize,BLZ,0.7806263157894736
-2001,Belize,BLZ,0.7997789473684209
-2002,Belize,BLZ,0.8051942105263158
-2003,Belize,BLZ,0.8789415789473685
-2004,Belize,BLZ,0.8789415789473685
-2005,Belize,BLZ,0.8789415789473685
-2006,Belize,BLZ,0.8789415789473685
-2007,Belize,BLZ,0.8844075789473685
-2008,Belize,BLZ,0.9242648842105264
-2009,Belize,BLZ,0.9282227789473687
-2010,Belize,BLZ,0.9286859368421054
-2011,Belize,BLZ,0.9471069894736844
-2012,Belize,BLZ,0.9395806736842105
-2013,Belize,BLZ,0.9962821473684211
-2014,Belize,BLZ,0.9962821473684211
-2015,Belize,BLZ,0.9202821473684212
-2016,Belize,BLZ,0.9447032000000002
-2017,Belize,BLZ,0.9447032000000002
-2018,Belize,BLZ,0.9236574800000001
-2019,Belize,BLZ,0.9236574800000001
-2020,Belize,BLZ,0.9236574800000001
-1920,Haiti,HTI,0.0
-1921,Haiti,HTI,0.0
-1922,Haiti,HTI,0.0
-1923,Haiti,HTI,0.0
-1924,Haiti,HTI,0.0
-1925,Haiti,HTI,0.0
-1926,Haiti,HTI,0.0
-1927,Haiti,HTI,0.0
-1928,Haiti,HTI,0.0
-1929,Haiti,HTI,0.0
-1930,Haiti,HTI,0.0
-1931,Haiti,HTI,0.0
-1932,Haiti,HTI,0.0
-1933,Haiti,HTI,0.0
-1934,Haiti,HTI,0.0
-1935,Haiti,HTI,0.0
-1936,Haiti,HTI,0.0
-1937,Haiti,HTI,0.0
-1938,Haiti,HTI,0.0
-1939,Haiti,HTI,0.0
-1940,Haiti,HTI,0.0
-1941,Haiti,HTI,0.0
-1942,Haiti,HTI,0.0
-1943,Haiti,HTI,0.0
-1944,Haiti,HTI,0.0
-1945,Haiti,HTI,0.0
-1946,Haiti,HTI,0.0
-1947,Haiti,HTI,0.0
-1948,Haiti,HTI,0.0
-1949,Haiti,HTI,0.0
-1950,Haiti,HTI,0.0
-1951,Haiti,HTI,0.0
-1952,Haiti,HTI,0.0
-1953,Haiti,HTI,0.0
-1954,Haiti,HTI,0.0
-1955,Haiti,HTI,0.0
-1956,Haiti,HTI,0.0
-1957,Haiti,HTI,0.0
-1958,Haiti,HTI,0.0
-1959,Haiti,HTI,0.0
-1960,Haiti,HTI,0.0
-1961,Haiti,HTI,0.0
-1962,Haiti,HTI,0.015066666666666667
-1963,Haiti,HTI,0.0164
-1964,Haiti,HTI,0.0164
-1965,Haiti,HTI,0.1069375
-1966,Haiti,HTI,0.1069375
-1967,Haiti,HTI,0.1069375
-1968,Haiti,HTI,0.1198125
-1969,Haiti,HTI,0.1198125
-1970,Haiti,HTI,0.1198125
-1971,Haiti,HTI,0.14951875
-1972,Haiti,HTI,0.14951875
-1973,Haiti,HTI,0.14951875
-1974,Haiti,HTI,0.17739375000000002
-1975,Haiti,HTI,0.18048823529411767
-1976,Haiti,HTI,0.17046111111111112
-1977,Haiti,HTI,0.17046111111111112
-1978,Haiti,HTI,0.17046111111111112
-1979,Haiti,HTI,0.1850166666666667
-1980,Haiti,HTI,0.18740555555555555
-1981,Haiti,HTI,0.1775421052631579
-1982,Haiti,HTI,0.1775421052631579
-1983,Haiti,HTI,0.2818684210526316
-1984,Haiti,HTI,0.2818684210526316
-1985,Haiti,HTI,0.2993421052631579
-1986,Haiti,HTI,0.31302631578947365
-1987,Haiti,HTI,0.3312368421052631
-1988,Haiti,HTI,0.39439473684210524
-1989,Haiti,HTI,0.39439473684210524
-1990,Haiti,HTI,0.4270263157894737
-1991,Haiti,HTI,0.4521842105263158
-1992,Haiti,HTI,0.4521842105263158
-1993,Haiti,HTI,0.4729315789473684
-1994,Haiti,HTI,0.479878947368421
-1995,Haiti,HTI,0.4808526315789473
-1996,Haiti,HTI,0.4821368421052631
-1997,Haiti,HTI,0.5412421052631577
-1998,Haiti,HTI,0.7465105263157895
-1999,Haiti,HTI,0.7465105263157895
-2000,Haiti,HTI,0.7806263157894736
-2001,Haiti,HTI,0.7997789473684209
-2002,Haiti,HTI,0.8051942105263158
-2003,Haiti,HTI,0.8789415789473685
-2004,Haiti,HTI,0.8789415789473685
-2005,Haiti,HTI,0.8789415789473685
-2006,Haiti,HTI,0.8789415789473685
-2007,Haiti,HTI,0.8844075789473685
-2008,Haiti,HTI,0.9242648842105264
-2009,Haiti,HTI,0.9282227789473687
-2010,Haiti,HTI,0.9286859368421054
-2011,Haiti,HTI,0.9471069894736844
-2012,Haiti,HTI,0.9395806736842105
-2013,Haiti,HTI,0.9962821473684211
-2014,Haiti,HTI,0.9962821473684211
-2015,Haiti,HTI,0.9202821473684212
-2016,Haiti,HTI,0.9447032000000002
-2017,Haiti,HTI,0.9447032000000002
-2018,Haiti,HTI,0.9236574800000001
-2019,Haiti,HTI,0.9236574800000001
-2020,Haiti,HTI,0.9236574800000001
-1920,Barbados,BRB,0.0
-1921,Barbados,BRB,0.0
-1922,Barbados,BRB,0.0
-1923,Barbados,BRB,0.0
-1924,Barbados,BRB,0.0
-1925,Barbados,BRB,0.0
-1926,Barbados,BRB,0.0
-1927,Barbados,BRB,0.0
-1928,Barbados,BRB,0.0
-1929,Barbados,BRB,0.0
-1930,Barbados,BRB,0.0
-1931,Barbados,BRB,0.0
-1932,Barbados,BRB,0.0
-1933,Barbados,BRB,0.0
-1934,Barbados,BRB,0.0
-1935,Barbados,BRB,0.0
-1936,Barbados,BRB,0.0
-1937,Barbados,BRB,0.0
-1938,Barbados,BRB,0.0
-1939,Barbados,BRB,0.0
-1940,Barbados,BRB,0.0
-1941,Barbados,BRB,0.0
-1942,Barbados,BRB,0.0
-1943,Barbados,BRB,0.0
-1944,Barbados,BRB,0.0
-1945,Barbados,BRB,0.0
-1946,Barbados,BRB,0.0
-1947,Barbados,BRB,0.0
-1948,Barbados,BRB,0.0
-1949,Barbados,BRB,0.0
-1950,Barbados,BRB,0.0
-1951,Barbados,BRB,0.0
-1952,Barbados,BRB,0.0
-1953,Barbados,BRB,0.0
-1954,Barbados,BRB,0.0
-1955,Barbados,BRB,0.0
-1956,Barbados,BRB,0.0
-1957,Barbados,BRB,0.0
-1958,Barbados,BRB,0.0
-1959,Barbados,BRB,0.0
-1960,Barbados,BRB,0.0
-1961,Barbados,BRB,0.0
-1962,Barbados,BRB,0.015066666666666667
-1963,Barbados,BRB,0.0164
-1964,Barbados,BRB,0.0164
-1965,Barbados,BRB,0.1069375
-1966,Barbados,BRB,0.1069375
-1967,Barbados,BRB,0.1069375
-1968,Barbados,BRB,0.1198125
-1969,Barbados,BRB,0.1198125
-1970,Barbados,BRB,0.1198125
-1971,Barbados,BRB,0.14951875
-1972,Barbados,BRB,0.14951875
-1973,Barbados,BRB,0.14951875
-1974,Barbados,BRB,0.17739375000000002
-1975,Barbados,BRB,0.18048823529411767
-1976,Barbados,BRB,0.17046111111111112
-1977,Barbados,BRB,0.17046111111111112
-1978,Barbados,BRB,0.17046111111111112
-1979,Barbados,BRB,0.1850166666666667
-1980,Barbados,BRB,0.18740555555555555
-1981,Barbados,BRB,0.1775421052631579
-1982,Barbados,BRB,0.1775421052631579
-1983,Barbados,BRB,0.2818684210526316
-1984,Barbados,BRB,0.2818684210526316
-1985,Barbados,BRB,0.2993421052631579
-1986,Barbados,BRB,0.31302631578947365
-1987,Barbados,BRB,0.3312368421052631
-1988,Barbados,BRB,0.39439473684210524
-1989,Barbados,BRB,0.39439473684210524
-1990,Barbados,BRB,0.4270263157894737
-1991,Barbados,BRB,0.4521842105263158
-1992,Barbados,BRB,0.4521842105263158
-1993,Barbados,BRB,0.4729315789473684
-1994,Barbados,BRB,0.479878947368421
-1995,Barbados,BRB,0.4808526315789473
-1996,Barbados,BRB,0.4821368421052631
-1997,Barbados,BRB,0.5412421052631577
-1998,Barbados,BRB,0.7465105263157895
-1999,Barbados,BRB,0.7465105263157895
-2000,Barbados,BRB,0.7806263157894736
-2001,Barbados,BRB,0.7997789473684209
-2002,Barbados,BRB,0.8051942105263158
-2003,Barbados,BRB,0.8789415789473685
-2004,Barbados,BRB,0.8789415789473685
-2005,Barbados,BRB,0.8789415789473685
-2006,Barbados,BRB,0.8789415789473685
-2007,Barbados,BRB,0.8844075789473685
-2008,Barbados,BRB,0.9242648842105264
-2009,Barbados,BRB,0.9282227789473687
-2010,Barbados,BRB,0.9286859368421054
-2011,Barbados,BRB,0.9471069894736844
-2012,Barbados,BRB,0.9395806736842105
-2013,Barbados,BRB,0.9962821473684211
-2014,Barbados,BRB,0.9962821473684211
-2015,Barbados,BRB,0.9202821473684212
-2016,Barbados,BRB,0.9447032000000002
-2017,Barbados,BRB,0.9447032000000002
-2018,Barbados,BRB,0.9236574800000001
-2019,Barbados,BRB,0.9236574800000001
-2020,Barbados,BRB,0.9236574800000001
-1920,Bahamas,BHS,0.0
-1921,Bahamas,BHS,0.0
-1922,Bahamas,BHS,0.0
-1923,Bahamas,BHS,0.0
-1924,Bahamas,BHS,0.0
-1925,Bahamas,BHS,0.0
-1926,Bahamas,BHS,0.0
-1927,Bahamas,BHS,0.0
-1928,Bahamas,BHS,0.0
-1929,Bahamas,BHS,0.0
-1930,Bahamas,BHS,0.0
-1931,Bahamas,BHS,0.0
-1932,Bahamas,BHS,0.0
-1933,Bahamas,BHS,0.0
-1934,Bahamas,BHS,0.0
-1935,Bahamas,BHS,0.0
-1936,Bahamas,BHS,0.0
-1937,Bahamas,BHS,0.0
-1938,Bahamas,BHS,0.0
-1939,Bahamas,BHS,0.0
-1940,Bahamas,BHS,0.0
-1941,Bahamas,BHS,0.0
-1942,Bahamas,BHS,0.0
-1943,Bahamas,BHS,0.0
-1944,Bahamas,BHS,0.0
-1945,Bahamas,BHS,0.0
-1946,Bahamas,BHS,0.0
-1947,Bahamas,BHS,0.0
-1948,Bahamas,BHS,0.0
-1949,Bahamas,BHS,0.0
-1950,Bahamas,BHS,0.0
-1951,Bahamas,BHS,0.0
-1952,Bahamas,BHS,0.0
-1953,Bahamas,BHS,0.0
-1954,Bahamas,BHS,0.0
-1955,Bahamas,BHS,0.0
-1956,Bahamas,BHS,0.0
-1957,Bahamas,BHS,0.0
-1958,Bahamas,BHS,0.0
-1959,Bahamas,BHS,0.0
-1960,Bahamas,BHS,0.0
-1961,Bahamas,BHS,0.0
-1962,Bahamas,BHS,0.015066666666666667
-1963,Bahamas,BHS,0.0164
-1964,Bahamas,BHS,0.0164
-1965,Bahamas,BHS,0.1069375
-1966,Bahamas,BHS,0.1069375
-1967,Bahamas,BHS,0.1069375
-1968,Bahamas,BHS,0.1198125
-1969,Bahamas,BHS,0.1198125
-1970,Bahamas,BHS,0.1198125
-1971,Bahamas,BHS,0.14951875
-1972,Bahamas,BHS,0.14951875
-1973,Bahamas,BHS,0.14951875
-1974,Bahamas,BHS,0.17739375000000002
-1975,Bahamas,BHS,0.18048823529411767
-1976,Bahamas,BHS,0.17046111111111112
-1977,Bahamas,BHS,0.17046111111111112
-1978,Bahamas,BHS,0.17046111111111112
-1979,Bahamas,BHS,0.1850166666666667
-1980,Bahamas,BHS,0.18740555555555555
-1981,Bahamas,BHS,0.1775421052631579
-1982,Bahamas,BHS,0.1775421052631579
-1983,Bahamas,BHS,0.2818684210526316
-1984,Bahamas,BHS,0.2818684210526316
-1985,Bahamas,BHS,0.2993421052631579
-1986,Bahamas,BHS,0.31302631578947365
-1987,Bahamas,BHS,0.3312368421052631
-1988,Bahamas,BHS,0.39439473684210524
-1989,Bahamas,BHS,0.39439473684210524
-1990,Bahamas,BHS,0.4270263157894737
-1991,Bahamas,BHS,0.4521842105263158
-1992,Bahamas,BHS,0.4521842105263158
-1993,Bahamas,BHS,0.4729315789473684
-1994,Bahamas,BHS,0.479878947368421
-1995,Bahamas,BHS,0.4808526315789473
-1996,Bahamas,BHS,0.4821368421052631
-1997,Bahamas,BHS,0.5412421052631577
-1998,Bahamas,BHS,0.7465105263157895
-1999,Bahamas,BHS,0.7465105263157895
-2000,Bahamas,BHS,0.7806263157894736
-2001,Bahamas,BHS,0.7997789473684209
-2002,Bahamas,BHS,0.8051942105263158
-2003,Bahamas,BHS,0.8789415789473685
-2004,Bahamas,BHS,0.8789415789473685
-2005,Bahamas,BHS,0.8789415789473685
-2006,Bahamas,BHS,0.8789415789473685
-2007,Bahamas,BHS,0.8844075789473685
-2008,Bahamas,BHS,0.9242648842105264
-2009,Bahamas,BHS,0.9282227789473687
-2010,Bahamas,BHS,0.9286859368421054
-2011,Bahamas,BHS,0.9471069894736844
-2012,Bahamas,BHS,0.9395806736842105
-2013,Bahamas,BHS,0.9962821473684211
-2014,Bahamas,BHS,0.9962821473684211
-2015,Bahamas,BHS,0.9202821473684212
-2016,Bahamas,BHS,0.9447032000000002
-2017,Bahamas,BHS,0.9447032000000002
-2018,Bahamas,BHS,0.9236574800000001
-2019,Bahamas,BHS,0.9236574800000001
-2020,Bahamas,BHS,0.9236574800000001
-1920,Bolivia,BOL,0.0
-1921,Bolivia,BOL,0.0
-1922,Bolivia,BOL,0.0
-1923,Bolivia,BOL,0.0
-1924,Bolivia,BOL,0.0
-1925,Bolivia,BOL,0.0
-1926,Bolivia,BOL,0.0
-1927,Bolivia,BOL,0.0
-1928,Bolivia,BOL,0.0
-1929,Bolivia,BOL,0.0
-1930,Bolivia,BOL,0.0
-1931,Bolivia,BOL,0.0
-1932,Bolivia,BOL,0.0
-1933,Bolivia,BOL,0.0
-1934,Bolivia,BOL,0.0
-1935,Bolivia,BOL,0.0
-1936,Bolivia,BOL,0.0
-1937,Bolivia,BOL,0.0
-1938,Bolivia,BOL,0.0
-1939,Bolivia,BOL,0.0
-1940,Bolivia,BOL,0.0
-1941,Bolivia,BOL,0.0
-1942,Bolivia,BOL,0.0
-1943,Bolivia,BOL,0.0
-1944,Bolivia,BOL,0.0
-1945,Bolivia,BOL,0.0
-1946,Bolivia,BOL,0.0
-1947,Bolivia,BOL,0.0
-1948,Bolivia,BOL,0.0
-1949,Bolivia,BOL,0.0
-1950,Bolivia,BOL,0.0
-1951,Bolivia,BOL,0.0
-1952,Bolivia,BOL,0.0
-1953,Bolivia,BOL,0.0
-1954,Bolivia,BOL,0.0
-1955,Bolivia,BOL,0.0
-1956,Bolivia,BOL,0.0
-1957,Bolivia,BOL,0.0
-1958,Bolivia,BOL,0.0
-1959,Bolivia,BOL,0.0
-1960,Bolivia,BOL,0.0
-1961,Bolivia,BOL,0.0
-1962,Bolivia,BOL,0.015066666666666667
-1963,Bolivia,BOL,0.0164
-1964,Bolivia,BOL,0.0164
-1965,Bolivia,BOL,0.1069375
-1966,Bolivia,BOL,0.1069375
-1967,Bolivia,BOL,0.1069375
-1968,Bolivia,BOL,0.1198125
-1969,Bolivia,BOL,0.1198125
-1970,Bolivia,BOL,0.1198125
-1971,Bolivia,BOL,0.14951875
-1972,Bolivia,BOL,0.14951875
-1973,Bolivia,BOL,0.14951875
-1974,Bolivia,BOL,0.17739375000000002
-1975,Bolivia,BOL,0.18048823529411767
-1976,Bolivia,BOL,0.17046111111111112
-1977,Bolivia,BOL,0.17046111111111112
-1978,Bolivia,BOL,0.17046111111111112
-1979,Bolivia,BOL,0.1850166666666667
-1980,Bolivia,BOL,0.18740555555555555
-1981,Bolivia,BOL,0.1775421052631579
-1982,Bolivia,BOL,0.1775421052631579
-1983,Bolivia,BOL,0.2818684210526316
-1984,Bolivia,BOL,0.2818684210526316
-1985,Bolivia,BOL,0.2993421052631579
-1986,Bolivia,BOL,0.31302631578947365
-1987,Bolivia,BOL,0.3312368421052631
-1988,Bolivia,BOL,0.39439473684210524
-1989,Bolivia,BOL,0.39439473684210524
-1990,Bolivia,BOL,0.4270263157894737
-1991,Bolivia,BOL,0.4521842105263158
-1992,Bolivia,BOL,0.4521842105263158
-1993,Bolivia,BOL,0.4729315789473684
-1994,Bolivia,BOL,0.479878947368421
-1995,Bolivia,BOL,0.4808526315789473
-1996,Bolivia,BOL,0.4821368421052631
-1997,Bolivia,BOL,0.5412421052631577
-1998,Bolivia,BOL,0.7465105263157895
-1999,Bolivia,BOL,0.7465105263157895
-2000,Bolivia,BOL,0.7806263157894736
-2001,Bolivia,BOL,0.7997789473684209
-2002,Bolivia,BOL,0.8051942105263158
-2003,Bolivia,BOL,0.8789415789473685
-2004,Bolivia,BOL,0.8789415789473685
-2005,Bolivia,BOL,0.8789415789473685
-2006,Bolivia,BOL,0.8789415789473685
-2007,Bolivia,BOL,0.8844075789473685
-2008,Bolivia,BOL,0.9242648842105264
-2009,Bolivia,BOL,0.9282227789473687
-2010,Bolivia,BOL,0.9286859368421054
-2011,Bolivia,BOL,0.9471069894736844
-2012,Bolivia,BOL,0.9395806736842105
-2013,Bolivia,BOL,0.9962821473684211
-2014,Bolivia,BOL,0.9962821473684211
-2015,Bolivia,BOL,0.9202821473684212
-2016,Bolivia,BOL,0.9447032000000002
-2017,Bolivia,BOL,0.9447032000000002
-2018,Bolivia,BOL,0.9236574800000001
-2019,Bolivia,BOL,0.9236574800000001
-2020,Bolivia,BOL,0.9236574800000001
-1920,Venezuela,VEN,0.0
-1921,Venezuela,VEN,0.0
-1922,Venezuela,VEN,0.0
-1923,Venezuela,VEN,0.0
-1924,Venezuela,VEN,0.0
-1925,Venezuela,VEN,0.0
-1926,Venezuela,VEN,0.0
-1927,Venezuela,VEN,0.0
-1928,Venezuela,VEN,0.0
-1929,Venezuela,VEN,0.0
-1930,Venezuela,VEN,0.0
-1931,Venezuela,VEN,0.0
-1932,Venezuela,VEN,0.0
-1933,Venezuela,VEN,0.0
-1934,Venezuela,VEN,0.0
-1935,Venezuela,VEN,0.0
-1936,Venezuela,VEN,0.0
-1937,Venezuela,VEN,0.0
-1938,Venezuela,VEN,0.0
-1939,Venezuela,VEN,0.0
-1940,Venezuela,VEN,0.0
-1941,Venezuela,VEN,0.0
-1942,Venezuela,VEN,0.0
-1943,Venezuela,VEN,0.0
-1944,Venezuela,VEN,0.0
-1945,Venezuela,VEN,0.0
-1946,Venezuela,VEN,0.0
-1947,Venezuela,VEN,0.0
-1948,Venezuela,VEN,0.0
-1949,Venezuela,VEN,0.0
-1950,Venezuela,VEN,0.0
-1951,Venezuela,VEN,0.0
-1952,Venezuela,VEN,0.0
-1953,Venezuela,VEN,0.0
-1954,Venezuela,VEN,0.0
-1955,Venezuela,VEN,0.0
-1956,Venezuela,VEN,0.0
-1957,Venezuela,VEN,0.0
-1958,Venezuela,VEN,0.0
-1959,Venezuela,VEN,0.0
-1960,Venezuela,VEN,0.0
-1961,Venezuela,VEN,0.0
-1962,Venezuela,VEN,0.015066666666666667
-1963,Venezuela,VEN,0.0164
-1964,Venezuela,VEN,0.0164
-1965,Venezuela,VEN,0.1069375
-1966,Venezuela,VEN,0.1069375
-1967,Venezuela,VEN,0.1069375
-1968,Venezuela,VEN,0.1198125
-1969,Venezuela,VEN,0.1198125
-1970,Venezuela,VEN,0.1198125
-1971,Venezuela,VEN,0.14951875
-1972,Venezuela,VEN,0.14951875
-1973,Venezuela,VEN,0.14951875
-1974,Venezuela,VEN,0.17739375000000002
-1975,Venezuela,VEN,0.18048823529411767
-1976,Venezuela,VEN,0.17046111111111112
-1977,Venezuela,VEN,0.17046111111111112
-1978,Venezuela,VEN,0.17046111111111112
-1979,Venezuela,VEN,0.1850166666666667
-1980,Venezuela,VEN,0.18740555555555555
-1981,Venezuela,VEN,0.1775421052631579
-1982,Venezuela,VEN,0.1775421052631579
-1983,Venezuela,VEN,0.2818684210526316
-1984,Venezuela,VEN,0.2818684210526316
-1985,Venezuela,VEN,0.2993421052631579
-1986,Venezuela,VEN,0.31302631578947365
-1987,Venezuela,VEN,0.3312368421052631
-1988,Venezuela,VEN,0.39439473684210524
-1989,Venezuela,VEN,0.39439473684210524
-1990,Venezuela,VEN,0.4270263157894737
-1991,Venezuela,VEN,0.4521842105263158
-1992,Venezuela,VEN,0.4521842105263158
-1993,Venezuela,VEN,0.4729315789473684
-1994,Venezuela,VEN,0.479878947368421
-1995,Venezuela,VEN,0.4808526315789473
-1996,Venezuela,VEN,0.4821368421052631
-1997,Venezuela,VEN,0.5412421052631577
-1998,Venezuela,VEN,0.7465105263157895
-1999,Venezuela,VEN,0.7465105263157895
-2000,Venezuela,VEN,0.7806263157894736
-2001,Venezuela,VEN,0.7997789473684209
-2002,Venezuela,VEN,0.8051942105263158
-2003,Venezuela,VEN,0.8789415789473685
-2004,Venezuela,VEN,0.8789415789473685
-2005,Venezuela,VEN,0.8789415789473685
-2006,Venezuela,VEN,0.8789415789473685
-2007,Venezuela,VEN,0.8844075789473685
-2008,Venezuela,VEN,0.9242648842105264
-2009,Venezuela,VEN,0.9282227789473687
-2010,Venezuela,VEN,0.9286859368421054
-2011,Venezuela,VEN,0.9471069894736844
-2012,Venezuela,VEN,0.9395806736842105
-2013,Venezuela,VEN,0.9962821473684211
-2014,Venezuela,VEN,0.9962821473684211
-2015,Venezuela,VEN,0.9202821473684212
-2016,Venezuela,VEN,0.9447032000000002
-2017,Venezuela,VEN,0.9447032000000002
-2018,Venezuela,VEN,0.9236574800000001
-2019,Venezuela,VEN,0.9236574800000001
-2020,Venezuela,VEN,0.9236574800000001
+1981,Antarctica,ATA,0.0
+1982,Antarctica,ATA,0.0
+1983,Antarctica,ATA,0.0
+1984,Antarctica,ATA,0.0
+1985,Antarctica,ATA,0.0
+1986,Antarctica,ATA,0.0
+1987,Antarctica,ATA,0.0
+1988,Antarctica,ATA,0.0
+1989,Antarctica,ATA,0.0
+1990,Antarctica,ATA,0.0
+1991,Antarctica,ATA,0.0
+1992,Antarctica,ATA,0.0
+1993,Antarctica,ATA,0.0
+1994,Antarctica,ATA,0.0
+1995,Antarctica,ATA,0.0
+1996,Antarctica,ATA,0.0
+1997,Antarctica,ATA,0.0
+1998,Antarctica,ATA,0.0
+1999,Antarctica,ATA,0.0
+2000,Antarctica,ATA,0.0
+2001,Antarctica,ATA,0.0
+2002,Antarctica,ATA,0.0
+2003,Antarctica,ATA,0.0
+2004,Antarctica,ATA,0.0
+2005,Antarctica,ATA,0.0
+2006,Antarctica,ATA,0.0
+2007,Antarctica,ATA,0.0
+2008,Antarctica,ATA,0.0
+2009,Antarctica,ATA,0.0
+2010,Antarctica,ATA,0.0
+2011,Antarctica,ATA,0.0
+2012,Antarctica,ATA,0.0
+2013,Antarctica,ATA,0.0
+2014,Antarctica,ATA,0.0
+2015,Antarctica,ATA,0.0
+2016,Antarctica,ATA,0.0
+2017,Antarctica,ATA,0.0
+2018,Antarctica,ATA,0.0
+2019,Antarctica,ATA,0.0
+2020,Antarctica,ATA,0.0
+1985,Bahrain,BHR,0.0
+1986,Bahrain,BHR,0.0
+1987,Bahrain,BHR,0.0
+1988,Bahrain,BHR,0.0
+1989,Bahrain,BHR,0.0
+1990,Bahrain,BHR,0.0
+1991,Bahrain,BHR,0.0
+1992,Bahrain,BHR,0.0
+1993,Bahrain,BHR,0.0
+1994,Bahrain,BHR,0.0
+1995,Bahrain,BHR,0.0
+1996,Bahrain,BHR,0.0
+1997,Bahrain,BHR,0.0
+1998,Bahrain,BHR,0.0
+1999,Bahrain,BHR,0.0
+2000,Bahrain,BHR,0.0
+2001,Bahrain,BHR,0.0
+2002,Bahrain,BHR,0.0
+2003,Bahrain,BHR,0.0
+2004,Bahrain,BHR,0.0
+2005,Bahrain,BHR,0.0
+2006,Bahrain,BHR,0.0
+2007,Bahrain,BHR,0.0
+2008,Bahrain,BHR,0.0
+2009,Bahrain,BHR,0.0
+2010,Bahrain,BHR,0.0
+2011,Bahrain,BHR,0.0
+2012,Bahrain,BHR,0.0
+2013,Bahrain,BHR,0.0
+2014,Bahrain,BHR,0.0
+2015,Bahrain,BHR,0.0
+2016,Bahrain,BHR,0.0
+2017,Bahrain,BHR,0.0
+2018,Bahrain,BHR,0.0
+2019,Bahrain,BHR,0.0
+2020,Bahrain,BHR,0.0
+1962,Belarus,BLR,0.0
+1963,Belarus,BLR,0.0
+1964,Belarus,BLR,0.0
+1965,Belarus,BLR,0.0
+1966,Belarus,BLR,0.0
+1967,Belarus,BLR,0.0
+1968,Belarus,BLR,0.0
+1969,Belarus,BLR,0.0
+1970,Belarus,BLR,0.0
+1971,Belarus,BLR,0.0
+1972,Belarus,BLR,0.0
+1973,Belarus,BLR,0.0
+1974,Belarus,BLR,0.0
+1975,Belarus,BLR,0.0
+1976,Belarus,BLR,0.0
+1977,Belarus,BLR,0.0
+1978,Belarus,BLR,0.0
+1979,Belarus,BLR,0.0
+1980,Belarus,BLR,0.0
+1981,Belarus,BLR,0.0
+1982,Belarus,BLR,0.0
+1983,Belarus,BLR,0.0
+1984,Belarus,BLR,0.0
+1985,Belarus,BLR,0.0
+1986,Belarus,BLR,0.0
+1987,Belarus,BLR,0.0
+1988,Belarus,BLR,0.0
+1989,Belarus,BLR,0.0
+1990,Belarus,BLR,0.0
+1991,Belarus,BLR,0.0
+1992,Belarus,BLR,0.0
+1993,Belarus,BLR,0.0
+1994,Belarus,BLR,0.0
+1995,Belarus,BLR,0.0
+1996,Belarus,BLR,0.0
+1997,Belarus,BLR,0.0
+1998,Belarus,BLR,0.0
+1999,Belarus,BLR,0.0
+2000,Belarus,BLR,0.0
+2001,Belarus,BLR,0.0
+2002,Belarus,BLR,0.0
+2003,Belarus,BLR,0.0
+2004,Belarus,BLR,0.0
+2005,Belarus,BLR,0.0
+2006,Belarus,BLR,0.0
+2007,Belarus,BLR,0.0
+2008,Belarus,BLR,0.0
+2009,Belarus,BLR,0.0
+2010,Belarus,BLR,0.0
+2011,Belarus,BLR,0.0
+2012,Belarus,BLR,0.0
+2013,Belarus,BLR,0.0
+2014,Belarus,BLR,0.0
+2015,Belarus,BLR,0.0
+2016,Belarus,BLR,0.0
+2017,Belarus,BLR,0.0
+2018,Belarus,BLR,0.0
+2019,Belarus,BLR,0.0
+2020,Belarus,BLR,0.0
+1975,Benin,BEN,0.0
+1976,Benin,BEN,0.0
+1977,Benin,BEN,0.0
+1978,Benin,BEN,0.0
+1979,Benin,BEN,0.0
+1980,Benin,BEN,0.0
+1981,Benin,BEN,0.0
+1982,Benin,BEN,0.0
+1983,Benin,BEN,0.0
+1984,Benin,BEN,0.0
+1985,Benin,BEN,0.0
+1986,Benin,BEN,0.0
+1987,Benin,BEN,0.0
+1988,Benin,BEN,0.0
+1989,Benin,BEN,0.0
+1990,Benin,BEN,0.0
+1991,Benin,BEN,0.0
+1992,Benin,BEN,0.0
+1993,Benin,BEN,0.0
+1994,Benin,BEN,0.0
+1995,Benin,BEN,0.0
+1996,Benin,BEN,0.0
+1997,Benin,BEN,0.0
+1998,Benin,BEN,0.0
+1999,Benin,BEN,0.0
+2000,Benin,BEN,0.0
+2001,Benin,BEN,0.0
+2002,Benin,BEN,0.0
+2003,Benin,BEN,0.0
+2004,Benin,BEN,0.0
+2005,Benin,BEN,0.0
+2006,Benin,BEN,0.0
+2007,Benin,BEN,0.0
+2008,Benin,BEN,0.0
+2009,Benin,BEN,0.0
+2010,Benin,BEN,0.0
+2011,Benin,BEN,0.0
+2012,Benin,BEN,0.0
+2013,Benin,BEN,0.0
+2014,Benin,BEN,0.0
+2015,Benin,BEN,0.0
+2016,Benin,BEN,0.0
+2017,Benin,BEN,0.0
+2018,Benin,BEN,0.0
+2019,Benin,BEN,0.0
+2020,Benin,BEN,0.0
+1990,Cambodia,KHM,0.0
+1991,Cambodia,KHM,0.0
+1992,Cambodia,KHM,0.0
+1993,Cambodia,KHM,0.0
+1994,Cambodia,KHM,0.0
+1995,Cambodia,KHM,0.0
+1996,Cambodia,KHM,0.0
+1997,Cambodia,KHM,0.0
+1998,Cambodia,KHM,0.0
+1999,Cambodia,KHM,0.0
+2000,Cambodia,KHM,0.0
+2001,Cambodia,KHM,0.0
+2002,Cambodia,KHM,0.0
+2003,Cambodia,KHM,0.0
+2004,Cambodia,KHM,0.0
+2005,Cambodia,KHM,0.0
+2006,Cambodia,KHM,0.0
+2007,Cambodia,KHM,0.0
+2008,Cambodia,KHM,0.0
+2009,Cambodia,KHM,0.0
+2010,Cambodia,KHM,0.0
+2011,Cambodia,KHM,0.0
+2012,Cambodia,KHM,0.0
+2013,Cambodia,KHM,0.0
+2014,Cambodia,KHM,0.1
+2015,Cambodia,KHM,0.505
+2016,Cambodia,KHM,0.505
+2017,Cambodia,KHM,0.505
+2018,Cambodia,KHM,0.505
+2019,Cambodia,KHM,0.505
+2020,Cambodia,KHM,0.505
+1920,Central African Republic,CAF,0.0
+1921,Central African Republic,CAF,0.0
+1922,Central African Republic,CAF,0.0
+1923,Central African Republic,CAF,0.0
+1924,Central African Republic,CAF,0.0
+1925,Central African Republic,CAF,0.0
+1926,Central African Republic,CAF,0.0
+1927,Central African Republic,CAF,0.0
+1928,Central African Republic,CAF,0.0
+1929,Central African Republic,CAF,0.0
+1930,Central African Republic,CAF,0.0
+1931,Central African Republic,CAF,0.0
+1932,Central African Republic,CAF,0.0
+1933,Central African Republic,CAF,0.0
+1934,Central African Republic,CAF,0.0
+1935,Central African Republic,CAF,0.0
+1936,Central African Republic,CAF,0.0
+1937,Central African Republic,CAF,0.0
+1938,Central African Republic,CAF,0.0
+1939,Central African Republic,CAF,0.0
+1940,Central African Republic,CAF,0.0
+1941,Central African Republic,CAF,0.0
+1942,Central African Republic,CAF,0.0
+1943,Central African Republic,CAF,0.0
+1944,Central African Republic,CAF,0.0
+1945,Central African Republic,CAF,0.0
+1946,Central African Republic,CAF,0.0
+1947,Central African Republic,CAF,0.0
+1948,Central African Republic,CAF,0.0
+1949,Central African Republic,CAF,0.0
+1950,Central African Republic,CAF,0.0
+1951,Central African Republic,CAF,0.0
+1952,Central African Republic,CAF,0.0
+1953,Central African Republic,CAF,0.0
+1954,Central African Republic,CAF,0.0
+1955,Central African Republic,CAF,0.0
+1956,Central African Republic,CAF,0.0
+1957,Central African Republic,CAF,0.0
+1958,Central African Republic,CAF,0.0
+1959,Central African Republic,CAF,0.0
+1960,Central African Republic,CAF,0.0
+1961,Central African Republic,CAF,0.0
+1962,Central African Republic,CAF,0.0
+1963,Central African Republic,CAF,0.0
+1964,Central African Republic,CAF,0.0
+1965,Central African Republic,CAF,0.0
+1966,Central African Republic,CAF,0.0
+1967,Central African Republic,CAF,0.0
+1968,Central African Republic,CAF,0.0
+1969,Central African Republic,CAF,0.0
+1970,Central African Republic,CAF,0.0
+1971,Central African Republic,CAF,0.0
+1972,Central African Republic,CAF,0.0
+1973,Central African Republic,CAF,0.0
+1974,Central African Republic,CAF,0.0
+1975,Central African Republic,CAF,0.0
+1976,Central African Republic,CAF,0.0
+1977,Central African Republic,CAF,0.0
+1978,Central African Republic,CAF,0.0
+1979,Central African Republic,CAF,0.0
+1980,Central African Republic,CAF,0.0
+1981,Central African Republic,CAF,0.0
+1982,Central African Republic,CAF,0.0
+1983,Central African Republic,CAF,0.0
+1984,Central African Republic,CAF,0.0
+1985,Central African Republic,CAF,0.0
+1986,Central African Republic,CAF,0.0
+1987,Central African Republic,CAF,0.0
+1988,Central African Republic,CAF,0.0
+1989,Central African Republic,CAF,0.0
+1990,Central African Republic,CAF,0.0
+1991,Central African Republic,CAF,0.0
+1992,Central African Republic,CAF,0.0
+1993,Central African Republic,CAF,0.0
+1994,Central African Republic,CAF,0.0
+1995,Central African Republic,CAF,0.0
+1996,Central African Republic,CAF,0.0
+1997,Central African Republic,CAF,0.0
+1998,Central African Republic,CAF,0.0
+1999,Central African Republic,CAF,0.0
+2000,Central African Republic,CAF,0.0
+2001,Central African Republic,CAF,0.0
+2002,Central African Republic,CAF,0.0
+2003,Central African Republic,CAF,0.0
+2004,Central African Republic,CAF,0.0
+2005,Central African Republic,CAF,0.0
+2006,Central African Republic,CAF,0.0
+2007,Central African Republic,CAF,0.0
+2008,Central African Republic,CAF,0.0
+2009,Central African Republic,CAF,0.0
+2010,Central African Republic,CAF,0.0
+2011,Central African Republic,CAF,0.0
+2012,Central African Republic,CAF,0.0
+2013,Central African Republic,CAF,0.0
+2014,Central African Republic,CAF,0.0
+2015,Central African Republic,CAF,0.0
+2016,Central African Republic,CAF,0.0
+2017,Central African Republic,CAF,0.0
+2018,Central African Republic,CAF,0.0
+2019,Central African Republic,CAF,0.0
+2020,Central African Republic,CAF,0.0
+1976,Cyprus,CYP,0.0
+1977,Cyprus,CYP,0.0
+1978,Cyprus,CYP,0.0
+1979,Cyprus,CYP,0.0
+1980,Cyprus,CYP,0.0
+1981,Cyprus,CYP,0.0
+1982,Cyprus,CYP,0.0
+1983,Cyprus,CYP,0.0
+1984,Cyprus,CYP,0.0
+1985,Cyprus,CYP,0.0
+1986,Cyprus,CYP,0.0
+1987,Cyprus,CYP,0.0
+1988,Cyprus,CYP,0.0
+1989,Cyprus,CYP,0.0
+1990,Cyprus,CYP,0.0
+1991,Cyprus,CYP,0.0
+1992,Cyprus,CYP,0.0
+1993,Cyprus,CYP,0.0
+1994,Cyprus,CYP,0.0
+1995,Cyprus,CYP,0.0
+1996,Cyprus,CYP,0.0
+1997,Cyprus,CYP,0.0
+1998,Cyprus,CYP,0.0
+1999,Cyprus,CYP,0.0
+2000,Cyprus,CYP,0.0
+2001,Cyprus,CYP,0.0
+2002,Cyprus,CYP,0.0
+2003,Cyprus,CYP,0.0
+2004,Cyprus,CYP,0.0
+2005,Cyprus,CYP,0.0
+2006,Cyprus,CYP,0.0
+2007,Cyprus,CYP,0.0
+2008,Cyprus,CYP,0.0
+2009,Cyprus,CYP,0.0
+2010,Cyprus,CYP,0.0
+2011,Cyprus,CYP,0.0
+2012,Cyprus,CYP,0.0
+2013,Cyprus,CYP,0.0
+2014,Cyprus,CYP,0.0
+2015,Cyprus,CYP,0.0
+2016,Cyprus,CYP,0.0
+2017,Cyprus,CYP,0.0
+2018,Cyprus,CYP,0.0
+2019,Cyprus,CYP,0.0
+2020,Cyprus,CYP,0.0
+1961,Denmark,DNK,0.8150000000000001
+1962,Denmark,DNK,0.8150000000000001
+1963,Denmark,DNK,0.8150000000000001
+1964,Denmark,DNK,0.8150000000000001
+1965,Denmark,DNK,0.8150000000000001
+1966,Denmark,DNK,0.8150000000000001
+1967,Denmark,DNK,0.8150000000000001
+1968,Denmark,DNK,0.8150000000000001
+1969,Denmark,DNK,0.867
+1970,Denmark,DNK,1.131
+1971,Denmark,DNK,1.131
+1972,Denmark,DNK,1.131
+1973,Denmark,DNK,1.131
+1974,Denmark,DNK,1.861
+1975,Denmark,DNK,2.648
+1976,Denmark,DNK,2.648
+1977,Denmark,DNK,2.648
+1978,Denmark,DNK,2.648
+1979,Denmark,DNK,3.274
+1980,Denmark,DNK,3.274
+1981,Denmark,DNK,3.274
+1982,Denmark,DNK,3.604
+1983,Denmark,DNK,3.604
+1984,Denmark,DNK,3.966
+1985,Denmark,DNK,3.966
+1986,Denmark,DNK,3.966
+1987,Denmark,DNK,3.966
+1988,Denmark,DNK,3.966
+1989,Denmark,DNK,4.682
+1990,Denmark,DNK,4.682
+1991,Denmark,DNK,4.682
+1992,Denmark,DNK,5.089
+1993,Denmark,DNK,5.089
+1994,Denmark,DNK,5.089
+1995,Denmark,DNK,5.089
+1996,Denmark,DNK,5.089
+1997,Denmark,DNK,5.089
+1998,Denmark,DNK,5.089
+1999,Denmark,DNK,5.089
+2000,Denmark,DNK,5.089
+2001,Denmark,DNK,5.089
+2002,Denmark,DNK,5.089
+2003,Denmark,DNK,5.089
+2004,Denmark,DNK,5.089
+2005,Denmark,DNK,5.089
+2006,Denmark,DNK,5.089
+2007,Denmark,DNK,5.089
+2008,Denmark,DNK,5.089
+2009,Denmark,DNK,5.089
+2010,Denmark,DNK,5.089
+2011,Denmark,DNK,4.274
+2012,Denmark,DNK,4.274
+2013,Denmark,DNK,4.274
+2014,Denmark,DNK,4.274
+2015,Denmark,DNK,4.274
+2016,Denmark,DNK,4.274
+2017,Denmark,DNK,4.274
+2018,Denmark,DNK,4.274
+2019,Denmark,DNK,4.222
+2020,Denmark,DNK,3.958
+1989,Djibouti,DJI,0.0
+1990,Djibouti,DJI,0.0
+1991,Djibouti,DJI,0.0
+1992,Djibouti,DJI,0.0
+1993,Djibouti,DJI,0.0
+1994,Djibouti,DJI,0.0
+1995,Djibouti,DJI,0.0
+1996,Djibouti,DJI,0.0
+1997,Djibouti,DJI,0.0
+1998,Djibouti,DJI,0.0
+1999,Djibouti,DJI,0.0
+2000,Djibouti,DJI,0.0
+2001,Djibouti,DJI,0.0
+2002,Djibouti,DJI,0.0
+2003,Djibouti,DJI,0.0
+2004,Djibouti,DJI,0.0
+2005,Djibouti,DJI,0.0
+2006,Djibouti,DJI,0.0
+2007,Djibouti,DJI,0.0
+2008,Djibouti,DJI,0.0
+2009,Djibouti,DJI,0.0
+2010,Djibouti,DJI,0.0
+2011,Djibouti,DJI,0.0
+2012,Djibouti,DJI,0.0
+2013,Djibouti,DJI,0.0
+2014,Djibouti,DJI,0.0
+2015,Djibouti,DJI,0.0
+2016,Djibouti,DJI,0.0
+2017,Djibouti,DJI,0.0
+2018,Djibouti,DJI,0.0
+2019,Djibouti,DJI,0.0
+2020,Djibouti,DJI,0.0
+1990,Eritrea,ERI,0.0
+1991,Eritrea,ERI,0.0
+1992,Eritrea,ERI,0.0
+1993,Eritrea,ERI,0.0
+1994,Eritrea,ERI,0.0
+1995,Eritrea,ERI,0.0
+1996,Eritrea,ERI,0.0
+1997,Eritrea,ERI,0.0
+1998,Eritrea,ERI,0.0
+1999,Eritrea,ERI,0.0
+2000,Eritrea,ERI,0.0
+2001,Eritrea,ERI,0.0
+2002,Eritrea,ERI,0.0
+2003,Eritrea,ERI,0.0
+2004,Eritrea,ERI,0.0
+2005,Eritrea,ERI,0.0
+2006,Eritrea,ERI,0.0
+2007,Eritrea,ERI,0.0
+2008,Eritrea,ERI,0.0
+2009,Eritrea,ERI,0.0
+2010,Eritrea,ERI,0.0
+2011,Eritrea,ERI,0.0
+2012,Eritrea,ERI,0.0
+2013,Eritrea,ERI,0.0
+2014,Eritrea,ERI,0.0
+2015,Eritrea,ERI,0.0
+2016,Eritrea,ERI,0.0
+2017,Eritrea,ERI,0.0
+2018,Eritrea,ERI,0.0
+2019,Eritrea,ERI,0.0
+2020,Eritrea,ERI,0.0
+1975,Gambia,GMB,0.0
+1976,Gambia,GMB,0.0
+1977,Gambia,GMB,0.0
+1978,Gambia,GMB,0.0
+1979,Gambia,GMB,0.0
+1980,Gambia,GMB,0.0
+1981,Gambia,GMB,0.0
+1982,Gambia,GMB,0.0
+1983,Gambia,GMB,0.0
+1984,Gambia,GMB,0.0
+1985,Gambia,GMB,0.0
+1986,Gambia,GMB,0.0
+1987,Gambia,GMB,0.0
+1988,Gambia,GMB,0.0
+1989,Gambia,GMB,0.0
+1990,Gambia,GMB,0.0
+1991,Gambia,GMB,0.0
+1992,Gambia,GMB,0.0
+1993,Gambia,GMB,0.0
+1994,Gambia,GMB,0.0
+1995,Gambia,GMB,0.0
+1996,Gambia,GMB,0.0
+1997,Gambia,GMB,0.0
+1998,Gambia,GMB,0.0
+1999,Gambia,GMB,0.0
+2000,Gambia,GMB,0.0
+2001,Gambia,GMB,0.0
+2002,Gambia,GMB,0.0
+2003,Gambia,GMB,0.0
+2004,Gambia,GMB,0.0
+2005,Gambia,GMB,0.0
+2006,Gambia,GMB,0.0
+2007,Gambia,GMB,0.0
+2008,Gambia,GMB,0.0
+2009,Gambia,GMB,0.0
+2010,Gambia,GMB,0.0
+2011,Gambia,GMB,0.0
+2012,Gambia,GMB,0.0
+2013,Gambia,GMB,0.0
+2014,Gambia,GMB,0.0
+2015,Gambia,GMB,0.0
+2016,Gambia,GMB,0.0
+2017,Gambia,GMB,0.0
+2018,Gambia,GMB,0.0
+2019,Gambia,GMB,0.0
+2020,Gambia,GMB,0.0
+1977,Guinea-Bissau,GNB,0.0
+1978,Guinea-Bissau,GNB,0.0
+1979,Guinea-Bissau,GNB,0.0
+1980,Guinea-Bissau,GNB,0.0
+1981,Guinea-Bissau,GNB,0.0
+1982,Guinea-Bissau,GNB,0.0
+1983,Guinea-Bissau,GNB,0.0
+1984,Guinea-Bissau,GNB,0.0
+1985,Guinea-Bissau,GNB,0.0
+1986,Guinea-Bissau,GNB,0.0
+1987,Guinea-Bissau,GNB,0.0
+1988,Guinea-Bissau,GNB,0.0
+1989,Guinea-Bissau,GNB,0.0
+1990,Guinea-Bissau,GNB,0.0
+1991,Guinea-Bissau,GNB,0.0
+1992,Guinea-Bissau,GNB,0.0
+1993,Guinea-Bissau,GNB,0.0
+1994,Guinea-Bissau,GNB,0.0
+1995,Guinea-Bissau,GNB,0.0
+1996,Guinea-Bissau,GNB,0.0
+1997,Guinea-Bissau,GNB,0.0
+1998,Guinea-Bissau,GNB,0.0
+1999,Guinea-Bissau,GNB,0.0
+2000,Guinea-Bissau,GNB,0.0
+2001,Guinea-Bissau,GNB,0.0
+2002,Guinea-Bissau,GNB,0.0
+2003,Guinea-Bissau,GNB,0.0
+2004,Guinea-Bissau,GNB,0.0
+2005,Guinea-Bissau,GNB,0.0
+2006,Guinea-Bissau,GNB,0.0
+2007,Guinea-Bissau,GNB,0.0
+2008,Guinea-Bissau,GNB,0.0
+2009,Guinea-Bissau,GNB,0.0
+2010,Guinea-Bissau,GNB,0.0
+2011,Guinea-Bissau,GNB,0.0
+2012,Guinea-Bissau,GNB,0.0
+2013,Guinea-Bissau,GNB,0.0
+2014,Guinea-Bissau,GNB,0.0
+2015,Guinea-Bissau,GNB,0.0
+2016,Guinea-Bissau,GNB,0.0
+2017,Guinea-Bissau,GNB,0.0
+2018,Guinea-Bissau,GNB,0.0
+2019,Guinea-Bissau,GNB,0.0
+2020,Guinea-Bissau,GNB,0.0
+1976,Guyana,GUY,0.0
+1977,Guyana,GUY,0.0
+1978,Guyana,GUY,0.0
+1979,Guyana,GUY,0.0
+1980,Guyana,GUY,0.0
+1981,Guyana,GUY,0.0
+1982,Guyana,GUY,0.0
+1983,Guyana,GUY,0.0
+1984,Guyana,GUY,0.0
+1985,Guyana,GUY,0.0
+1986,Guyana,GUY,0.0
+1987,Guyana,GUY,0.0
+1988,Guyana,GUY,0.0
+1989,Guyana,GUY,0.0
+1990,Guyana,GUY,0.0
+1991,Guyana,GUY,0.0
+1992,Guyana,GUY,0.0
+1993,Guyana,GUY,0.0
+1994,Guyana,GUY,0.0
+1995,Guyana,GUY,0.0
+1996,Guyana,GUY,0.0
+1997,Guyana,GUY,0.0
+1998,Guyana,GUY,0.0
+1999,Guyana,GUY,0.0
+2000,Guyana,GUY,0.0
+2001,Guyana,GUY,0.0
+2002,Guyana,GUY,0.0
+2003,Guyana,GUY,0.0
+2004,Guyana,GUY,0.0
+2005,Guyana,GUY,0.0
+2006,Guyana,GUY,0.0
+2007,Guyana,GUY,0.0
+2008,Guyana,GUY,0.0
+2009,Guyana,GUY,0.0
+2010,Guyana,GUY,0.0
+2011,Guyana,GUY,0.0
+2012,Guyana,GUY,0.0
+2013,Guyana,GUY,0.0
+2014,Guyana,GUY,0.0
+2015,Guyana,GUY,0.0
+2016,Guyana,GUY,0.0
+2017,Guyana,GUY,0.0
+2018,Guyana,GUY,0.0
+2019,Guyana,GUY,0.0
+2020,Guyana,GUY,0.0
+1957,Hungary,HUN,0.06
+1958,Hungary,HUN,0.06
+1959,Hungary,HUN,0.06
+1960,Hungary,HUN,0.06
+1961,Hungary,HUN,0.06
+1962,Hungary,HUN,0.31
+1963,Hungary,HUN,0.31
+1964,Hungary,HUN,0.31
+1965,Hungary,HUN,0.31
+1966,Hungary,HUN,0.31
+1967,Hungary,HUN,0.31
+1968,Hungary,HUN,0.31
+1969,Hungary,HUN,0.31
+1970,Hungary,HUN,0.31
+1971,Hungary,HUN,0.31
+1972,Hungary,HUN,0.31
+1973,Hungary,HUN,0.31
+1974,Hungary,HUN,0.31
+1975,Hungary,HUN,0.31
+1976,Hungary,HUN,0.31
+1977,Hungary,HUN,0.31
+1978,Hungary,HUN,0.31
+1979,Hungary,HUN,0.31
+1980,Hungary,HUN,0.31
+1981,Hungary,HUN,0.31
+1982,Hungary,HUN,0.31
+1983,Hungary,HUN,1.194
+1984,Hungary,HUN,1.194
+1985,Hungary,HUN,1.194
+1986,Hungary,HUN,1.194
+1987,Hungary,HUN,1.194
+1988,Hungary,HUN,1.194
+1989,Hungary,HUN,1.194
+1990,Hungary,HUN,1.194
+1991,Hungary,HUN,1.194
+1992,Hungary,HUN,1.194
+1993,Hungary,HUN,1.194
+1994,Hungary,HUN,1.194
+1995,Hungary,HUN,1.194
+1996,Hungary,HUN,1.194
+1997,Hungary,HUN,1.194
+1998,Hungary,HUN,1.194
+1999,Hungary,HUN,1.194
+2000,Hungary,HUN,1.194
+2001,Hungary,HUN,1.194
+2002,Hungary,HUN,1.194
+2003,Hungary,HUN,1.194
+2004,Hungary,HUN,1.194
+2005,Hungary,HUN,1.194
+2006,Hungary,HUN,1.194
+2007,Hungary,HUN,1.1340000000000001
+2008,Hungary,HUN,1.1340000000000001
+2009,Hungary,HUN,1.1340000000000001
+2010,Hungary,HUN,1.1340000000000001
+2011,Hungary,HUN,1.1340000000000001
+2012,Hungary,HUN,0.884
+2013,Hungary,HUN,0.884
+2014,Hungary,HUN,0.884
+2015,Hungary,HUN,0.884
+2016,Hungary,HUN,0.884
+2017,Hungary,HUN,0.884
+2018,Hungary,HUN,0.884
+2019,Hungary,HUN,0.884
+2020,Hungary,HUN,0.884
+1990,Kuwait,KWT,0.0
+1991,Kuwait,KWT,0.0
+1992,Kuwait,KWT,0.0
+1993,Kuwait,KWT,0.0
+1994,Kuwait,KWT,0.0
+1995,Kuwait,KWT,0.0
+1996,Kuwait,KWT,0.0
+1997,Kuwait,KWT,0.0
+1998,Kuwait,KWT,0.0
+1999,Kuwait,KWT,0.0
+2000,Kuwait,KWT,0.0
+2001,Kuwait,KWT,0.0
+2002,Kuwait,KWT,0.0
+2003,Kuwait,KWT,0.0
+2004,Kuwait,KWT,0.0
+2005,Kuwait,KWT,0.0
+2006,Kuwait,KWT,0.0
+2007,Kuwait,KWT,0.0
+2008,Kuwait,KWT,0.0
+2009,Kuwait,KWT,0.0
+2010,Kuwait,KWT,0.0
+2011,Kuwait,KWT,0.0
+2012,Kuwait,KWT,0.0
+2013,Kuwait,KWT,0.0
+2014,Kuwait,KWT,0.0
+2015,Kuwait,KWT,0.0
+2016,Kuwait,KWT,0.0
+2017,Kuwait,KWT,0.0
+2018,Kuwait,KWT,0.0
+2019,Kuwait,KWT,0.0
+2020,Kuwait,KWT,0.0
+1971,Lebanon,LBN,0.0
+1972,Lebanon,LBN,0.0
+1973,Lebanon,LBN,0.0
+1974,Lebanon,LBN,0.0
+1975,Lebanon,LBN,0.0
+1976,Lebanon,LBN,0.0
+1977,Lebanon,LBN,0.0
+1978,Lebanon,LBN,0.0
+1979,Lebanon,LBN,0.0
+1980,Lebanon,LBN,0.0
+1981,Lebanon,LBN,0.0
+1982,Lebanon,LBN,0.0
+1983,Lebanon,LBN,0.0
+1984,Lebanon,LBN,0.0
+1985,Lebanon,LBN,0.0
+1986,Lebanon,LBN,0.0
+1987,Lebanon,LBN,0.0
+1988,Lebanon,LBN,0.0
+1989,Lebanon,LBN,0.0
+1990,Lebanon,LBN,0.0
+1991,Lebanon,LBN,0.0
+1992,Lebanon,LBN,0.0
+1993,Lebanon,LBN,0.0
+1994,Lebanon,LBN,0.0
+1995,Lebanon,LBN,0.0
+1996,Lebanon,LBN,0.0
+1997,Lebanon,LBN,0.0
+1998,Lebanon,LBN,0.0
+1999,Lebanon,LBN,0.0
+2000,Lebanon,LBN,0.0
+2001,Lebanon,LBN,0.0
+2002,Lebanon,LBN,0.0
+2003,Lebanon,LBN,0.0
+2004,Lebanon,LBN,0.0
+2005,Lebanon,LBN,0.0
+2006,Lebanon,LBN,0.0
+2007,Lebanon,LBN,0.0
+2008,Lebanon,LBN,0.0
+2009,Lebanon,LBN,0.0
+2010,Lebanon,LBN,0.0
+2011,Lebanon,LBN,0.0
+2012,Lebanon,LBN,0.0
+2013,Lebanon,LBN,0.0
+2014,Lebanon,LBN,0.0
+2015,Lebanon,LBN,0.0
+2016,Lebanon,LBN,0.0
+2017,Lebanon,LBN,0.0
+2018,Lebanon,LBN,0.0
+2019,Lebanon,LBN,0.0
+2020,Lebanon,LBN,0.0
+1990,Lesotho,LSO,0.0
+1991,Lesotho,LSO,0.0
+1992,Lesotho,LSO,0.0
+1993,Lesotho,LSO,0.0
+1994,Lesotho,LSO,0.0
+1995,Lesotho,LSO,0.0
+1996,Lesotho,LSO,0.0
+1997,Lesotho,LSO,0.0
+1998,Lesotho,LSO,0.0
+1999,Lesotho,LSO,0.0
+2000,Lesotho,LSO,0.0
+2001,Lesotho,LSO,0.0
+2002,Lesotho,LSO,0.0
+2003,Lesotho,LSO,0.0
+2004,Lesotho,LSO,0.0
+2005,Lesotho,LSO,0.0
+2006,Lesotho,LSO,0.0
+2007,Lesotho,LSO,0.0
+2008,Lesotho,LSO,0.0
+2009,Lesotho,LSO,0.0
+2010,Lesotho,LSO,0.0
+2011,Lesotho,LSO,0.0
+2012,Lesotho,LSO,0.0
+2013,Lesotho,LSO,0.0
+2014,Lesotho,LSO,0.0
+2015,Lesotho,LSO,0.0
+2016,Lesotho,LSO,0.0
+2017,Lesotho,LSO,0.0
+2018,Lesotho,LSO,0.0
+2019,Lesotho,LSO,0.0
+2020,Lesotho,LSO,0.0
+1949,Liberia,LBR,0.0
+1950,Liberia,LBR,0.0
+1951,Liberia,LBR,0.0
+1952,Liberia,LBR,0.0
+1953,Liberia,LBR,0.0
+1954,Liberia,LBR,0.0
+1955,Liberia,LBR,0.0
+1956,Liberia,LBR,0.0
+1957,Liberia,LBR,0.0
+1958,Liberia,LBR,0.0
+1959,Liberia,LBR,0.0
+1960,Liberia,LBR,0.0
+1961,Liberia,LBR,0.0
+1962,Liberia,LBR,0.0
+1963,Liberia,LBR,0.0
+1964,Liberia,LBR,0.0
+1965,Liberia,LBR,0.0
+1966,Liberia,LBR,0.0
+1967,Liberia,LBR,0.0
+1968,Liberia,LBR,0.0
+1969,Liberia,LBR,0.0
+1970,Liberia,LBR,0.0
+1971,Liberia,LBR,0.0
+1972,Liberia,LBR,0.0
+1973,Liberia,LBR,0.0
+1974,Liberia,LBR,0.0
+1975,Liberia,LBR,0.0
+1976,Liberia,LBR,0.0
+1977,Liberia,LBR,0.0
+1978,Liberia,LBR,0.0
+1979,Liberia,LBR,0.0
+1980,Liberia,LBR,0.0
+1981,Liberia,LBR,0.0
+1982,Liberia,LBR,0.0
+1983,Liberia,LBR,0.0
+1984,Liberia,LBR,0.0
+1985,Liberia,LBR,0.0
+1986,Liberia,LBR,0.0
+1987,Liberia,LBR,0.0
+1988,Liberia,LBR,0.0
+1989,Liberia,LBR,0.0
+1990,Liberia,LBR,0.0
+1991,Liberia,LBR,0.0
+1992,Liberia,LBR,0.0
+1993,Liberia,LBR,0.0
+1994,Liberia,LBR,0.0
+1995,Liberia,LBR,0.0
+1996,Liberia,LBR,0.0
+1997,Liberia,LBR,0.0
+1998,Liberia,LBR,0.0
+1999,Liberia,LBR,0.0
+2000,Liberia,LBR,0.0
+2001,Liberia,LBR,0.0
+2002,Liberia,LBR,0.0
+2003,Liberia,LBR,0.0
+2004,Liberia,LBR,0.0
+2005,Liberia,LBR,0.0
+2006,Liberia,LBR,0.0
+2007,Liberia,LBR,0.0
+2008,Liberia,LBR,0.0
+2009,Liberia,LBR,0.0
+2010,Liberia,LBR,0.0
+2011,Liberia,LBR,0.0
+2012,Liberia,LBR,0.0
+2013,Liberia,LBR,0.0
+2014,Liberia,LBR,0.0
+2015,Liberia,LBR,0.0
+2016,Liberia,LBR,0.0
+2017,Liberia,LBR,0.0
+2018,Liberia,LBR,0.0
+2019,Liberia,LBR,0.0
+2020,Liberia,LBR,0.0
+1976,Libya,LBY,0.0
+1977,Libya,LBY,0.0
+1978,Libya,LBY,0.0
+1979,Libya,LBY,0.0
+1980,Libya,LBY,0.0
+1981,Libya,LBY,0.0
+1982,Libya,LBY,0.0
+1983,Libya,LBY,0.0
+1984,Libya,LBY,0.0
+1985,Libya,LBY,0.0
+1986,Libya,LBY,0.0
+1987,Libya,LBY,0.0
+1988,Libya,LBY,0.0
+1989,Libya,LBY,0.0
+1990,Libya,LBY,0.0
+1991,Libya,LBY,0.0
+1992,Libya,LBY,0.0
+1993,Libya,LBY,0.0
+1994,Libya,LBY,0.0
+1995,Libya,LBY,0.0
+1996,Libya,LBY,0.0
+1997,Libya,LBY,0.0
+1998,Libya,LBY,0.0
+1999,Libya,LBY,0.0
+2000,Libya,LBY,0.0
+2001,Libya,LBY,0.0
+2002,Libya,LBY,0.0
+2003,Libya,LBY,0.0
+2004,Libya,LBY,0.0
+2005,Libya,LBY,0.0
+2006,Libya,LBY,0.0
+2007,Libya,LBY,0.0
+2008,Libya,LBY,0.0
+2009,Libya,LBY,0.0
+2010,Libya,LBY,0.0
+2011,Libya,LBY,0.0
+2012,Libya,LBY,0.0
+2013,Libya,LBY,0.0
+2014,Libya,LBY,0.0
+2015,Libya,LBY,0.0
+2016,Libya,LBY,0.0
+2017,Libya,LBY,0.0
+2018,Libya,LBY,0.0
+2019,Libya,LBY,0.0
+2020,Libya,LBY,0.0
+1990,Montenegro,MNE,0.2185
+1991,Montenegro,MNE,0.2185
+1992,Montenegro,MNE,0.2185
+1993,Montenegro,MNE,0.2185
+1994,Montenegro,MNE,0.2185
+1995,Montenegro,MNE,0.2185
+1996,Montenegro,MNE,0.2185
+1997,Montenegro,MNE,0.2185
+1998,Montenegro,MNE,0.2185
+1999,Montenegro,MNE,0.2185
+2000,Montenegro,MNE,0.2185
+2001,Montenegro,MNE,0.2185
+2002,Montenegro,MNE,0.2185
+2003,Montenegro,MNE,0.2185
+2004,Montenegro,MNE,0.2185
+2005,Montenegro,MNE,0.2185
+2006,Montenegro,MNE,0.2185
+2007,Montenegro,MNE,0.2185
+2008,Montenegro,MNE,0.2185
+2009,Montenegro,MNE,0.2185
+2010,Montenegro,MNE,0.2185
+2011,Montenegro,MNE,0.2185
+2012,Montenegro,MNE,0.2185
+2013,Montenegro,MNE,0.2185
+2014,Montenegro,MNE,0.2185
+2015,Montenegro,MNE,0.2185
+2016,Montenegro,MNE,0.2185
+2017,Montenegro,MNE,0.2185
+2018,Montenegro,MNE,0.2185
+2019,Montenegro,MNE,0.2185
+2020,Montenegro,MNE,0.2185
+1976,Oman,OMN,0.0
+1977,Oman,OMN,0.0
+1978,Oman,OMN,0.0
+1979,Oman,OMN,0.0
+1980,Oman,OMN,0.0
+1981,Oman,OMN,0.0
+1982,Oman,OMN,0.0
+1983,Oman,OMN,0.0
+1984,Oman,OMN,0.0
+1985,Oman,OMN,0.0
+1986,Oman,OMN,0.0
+1987,Oman,OMN,0.0
+1988,Oman,OMN,0.0
+1989,Oman,OMN,0.0
+1990,Oman,OMN,0.0
+1991,Oman,OMN,0.0
+1992,Oman,OMN,0.0
+1993,Oman,OMN,0.0
+1994,Oman,OMN,0.0
+1995,Oman,OMN,0.0
+1996,Oman,OMN,0.0
+1997,Oman,OMN,0.0
+1998,Oman,OMN,0.0
+1999,Oman,OMN,0.0
+2000,Oman,OMN,0.0
+2001,Oman,OMN,0.0
+2002,Oman,OMN,0.0
+2003,Oman,OMN,0.0
+2004,Oman,OMN,0.0
+2005,Oman,OMN,0.0
+2006,Oman,OMN,0.0
+2007,Oman,OMN,0.0
+2008,Oman,OMN,0.0
+2009,Oman,OMN,0.0
+2010,Oman,OMN,0.0
+2011,Oman,OMN,0.0
+2012,Oman,OMN,0.0
+2013,Oman,OMN,0.0
+2014,Oman,OMN,0.0
+2015,Oman,OMN,0.0
+2016,Oman,OMN,0.0
+2017,Oman,OMN,0.0
+2018,Oman,OMN,0.0
+2019,Oman,OMN,0.0
+2020,Oman,OMN,0.0
+1970,Qatar,QAT,0.0
+1971,Qatar,QAT,0.0
+1972,Qatar,QAT,0.0
+1973,Qatar,QAT,0.0
+1974,Qatar,QAT,0.0
+1975,Qatar,QAT,0.0
+1976,Qatar,QAT,0.0
+1977,Qatar,QAT,0.0
+1978,Qatar,QAT,0.0
+1979,Qatar,QAT,0.0
+1980,Qatar,QAT,0.0
+1981,Qatar,QAT,0.0
+1982,Qatar,QAT,0.0
+1983,Qatar,QAT,0.0
+1984,Qatar,QAT,0.0
+1985,Qatar,QAT,0.0
+1986,Qatar,QAT,0.0
+1987,Qatar,QAT,0.0
+1988,Qatar,QAT,0.0
+1989,Qatar,QAT,0.0
+1990,Qatar,QAT,0.0
+1991,Qatar,QAT,0.0
+1992,Qatar,QAT,0.0
+1993,Qatar,QAT,0.0
+1994,Qatar,QAT,0.0
+1995,Qatar,QAT,0.0
+1996,Qatar,QAT,0.0
+1997,Qatar,QAT,0.0
+1998,Qatar,QAT,0.0
+1999,Qatar,QAT,0.0
+2000,Qatar,QAT,0.0
+2001,Qatar,QAT,0.0
+2002,Qatar,QAT,0.0
+2003,Qatar,QAT,0.0
+2004,Qatar,QAT,0.0
+2005,Qatar,QAT,0.0
+2006,Qatar,QAT,0.0
+2007,Qatar,QAT,0.0
+2008,Qatar,QAT,0.0
+2009,Qatar,QAT,0.0
+2010,Qatar,QAT,0.0
+2011,Qatar,QAT,0.0
+2012,Qatar,QAT,0.0
+2013,Qatar,QAT,0.0
+2014,Qatar,QAT,0.0
+2015,Qatar,QAT,0.0
+2016,Qatar,QAT,0.0
+2017,Qatar,QAT,0.0
+2018,Qatar,QAT,0.0
+2019,Qatar,QAT,0.0
+2020,Qatar,QAT,0.0
+1990,Saint Lucia,LCA,0.0
+1991,Saint Lucia,LCA,0.0
+1992,Saint Lucia,LCA,0.0
+1993,Saint Lucia,LCA,0.0
+1994,Saint Lucia,LCA,0.0
+1995,Saint Lucia,LCA,0.0
+1996,Saint Lucia,LCA,0.0
+1997,Saint Lucia,LCA,0.0
+1998,Saint Lucia,LCA,0.0
+1999,Saint Lucia,LCA,0.0
+2000,Saint Lucia,LCA,0.0
+2001,Saint Lucia,LCA,0.0
+2002,Saint Lucia,LCA,0.0
+2003,Saint Lucia,LCA,0.0
+2004,Saint Lucia,LCA,0.0
+2005,Saint Lucia,LCA,0.0
+2006,Saint Lucia,LCA,0.0
+2007,Saint Lucia,LCA,0.0
+2008,Saint Lucia,LCA,0.0
+2009,Saint Lucia,LCA,0.0
+2010,Saint Lucia,LCA,0.0
+2011,Saint Lucia,LCA,0.0
+2012,Saint Lucia,LCA,0.0
+2013,Saint Lucia,LCA,0.0
+2014,Saint Lucia,LCA,0.0
+2015,Saint Lucia,LCA,0.0
+2016,Saint Lucia,LCA,0.0
+2017,Saint Lucia,LCA,0.0
+2018,Saint Lucia,LCA,0.0
+2019,Saint Lucia,LCA,0.0
+2020,Saint Lucia,LCA,0.0
+1935,Senegal,SEN,0.0
+1936,Senegal,SEN,0.0
+1937,Senegal,SEN,0.0
+1938,Senegal,SEN,0.0
+1939,Senegal,SEN,0.0
+1940,Senegal,SEN,0.0
+1941,Senegal,SEN,0.0
+1942,Senegal,SEN,0.0
+1943,Senegal,SEN,0.0
+1944,Senegal,SEN,0.0
+1945,Senegal,SEN,0.0
+1946,Senegal,SEN,0.0
+1947,Senegal,SEN,0.0
+1948,Senegal,SEN,0.0
+1949,Senegal,SEN,0.0
+1950,Senegal,SEN,0.0
+1951,Senegal,SEN,0.0
+1952,Senegal,SEN,0.0
+1953,Senegal,SEN,0.0
+1954,Senegal,SEN,0.0
+1955,Senegal,SEN,0.0
+1956,Senegal,SEN,0.0
+1957,Senegal,SEN,0.0
+1958,Senegal,SEN,0.0
+1959,Senegal,SEN,0.0
+1960,Senegal,SEN,0.0
+1961,Senegal,SEN,0.0
+1962,Senegal,SEN,0.0
+1963,Senegal,SEN,0.0
+1964,Senegal,SEN,0.0
+1965,Senegal,SEN,0.0
+1966,Senegal,SEN,0.0
+1967,Senegal,SEN,0.0
+1968,Senegal,SEN,0.0
+1969,Senegal,SEN,0.0
+1970,Senegal,SEN,0.0
+1971,Senegal,SEN,0.0
+1972,Senegal,SEN,0.0
+1973,Senegal,SEN,0.0
+1974,Senegal,SEN,0.0
+1975,Senegal,SEN,0.0
+1976,Senegal,SEN,0.0
+1977,Senegal,SEN,0.0
+1978,Senegal,SEN,0.0
+1979,Senegal,SEN,0.0
+1980,Senegal,SEN,0.0
+1981,Senegal,SEN,0.0
+1982,Senegal,SEN,0.0
+1983,Senegal,SEN,0.0
+1984,Senegal,SEN,0.0
+1985,Senegal,SEN,0.0
+1986,Senegal,SEN,0.0
+1987,Senegal,SEN,0.0
+1988,Senegal,SEN,0.0
+1989,Senegal,SEN,0.0
+1990,Senegal,SEN,0.0
+1991,Senegal,SEN,0.0
+1992,Senegal,SEN,0.0
+1993,Senegal,SEN,0.0
+1994,Senegal,SEN,0.0
+1995,Senegal,SEN,0.0
+1996,Senegal,SEN,0.0
+1997,Senegal,SEN,0.0
+1998,Senegal,SEN,0.0
+1999,Senegal,SEN,0.0
+2000,Senegal,SEN,0.0
+2001,Senegal,SEN,0.0
+2002,Senegal,SEN,0.0
+2003,Senegal,SEN,0.0
+2004,Senegal,SEN,0.0
+2005,Senegal,SEN,0.0
+2006,Senegal,SEN,0.0
+2007,Senegal,SEN,0.0
+2008,Senegal,SEN,0.0
+2009,Senegal,SEN,0.0
+2010,Senegal,SEN,0.0
+2011,Senegal,SEN,0.0
+2012,Senegal,SEN,0.0
+2013,Senegal,SEN,0.0
+2014,Senegal,SEN,0.0
+2015,Senegal,SEN,0.0
+2016,Senegal,SEN,0.0
+2017,Senegal,SEN,0.0
+2018,Senegal,SEN,0.0
+2019,Senegal,SEN,0.0
+2020,Senegal,SEN,0.0
+1935,Sierra Leone,SLE,0.0
+1936,Sierra Leone,SLE,0.0
+1937,Sierra Leone,SLE,0.0
+1938,Sierra Leone,SLE,0.0
+1939,Sierra Leone,SLE,0.0
+1940,Sierra Leone,SLE,0.0
+1941,Sierra Leone,SLE,0.0
+1942,Sierra Leone,SLE,0.0
+1943,Sierra Leone,SLE,0.0
+1944,Sierra Leone,SLE,0.0
+1945,Sierra Leone,SLE,0.0
+1946,Sierra Leone,SLE,0.0
+1947,Sierra Leone,SLE,0.0
+1948,Sierra Leone,SLE,0.0
+1949,Sierra Leone,SLE,0.0
+1950,Sierra Leone,SLE,0.0
+1951,Sierra Leone,SLE,0.0
+1952,Sierra Leone,SLE,0.0
+1953,Sierra Leone,SLE,0.0
+1954,Sierra Leone,SLE,0.0
+1955,Sierra Leone,SLE,0.0
+1956,Sierra Leone,SLE,0.0
+1957,Sierra Leone,SLE,0.0
+1958,Sierra Leone,SLE,0.0
+1959,Sierra Leone,SLE,0.0
+1960,Sierra Leone,SLE,0.0
+1961,Sierra Leone,SLE,0.0
+1962,Sierra Leone,SLE,0.0
+1963,Sierra Leone,SLE,0.0
+1964,Sierra Leone,SLE,0.0
+1965,Sierra Leone,SLE,0.0
+1966,Sierra Leone,SLE,0.0
+1967,Sierra Leone,SLE,0.0
+1968,Sierra Leone,SLE,0.0
+1969,Sierra Leone,SLE,0.0
+1970,Sierra Leone,SLE,0.0
+1971,Sierra Leone,SLE,0.0
+1972,Sierra Leone,SLE,0.0
+1973,Sierra Leone,SLE,0.0
+1974,Sierra Leone,SLE,0.0
+1975,Sierra Leone,SLE,0.0
+1976,Sierra Leone,SLE,0.0
+1977,Sierra Leone,SLE,0.0
+1978,Sierra Leone,SLE,0.0
+1979,Sierra Leone,SLE,0.0
+1980,Sierra Leone,SLE,0.0
+1981,Sierra Leone,SLE,0.0
+1982,Sierra Leone,SLE,0.0
+1983,Sierra Leone,SLE,0.0
+1984,Sierra Leone,SLE,0.0
+1985,Sierra Leone,SLE,0.0
+1986,Sierra Leone,SLE,0.0
+1987,Sierra Leone,SLE,0.0
+1988,Sierra Leone,SLE,0.0
+1989,Sierra Leone,SLE,0.0
+1990,Sierra Leone,SLE,0.0
+1991,Sierra Leone,SLE,0.0
+1992,Sierra Leone,SLE,0.0
+1993,Sierra Leone,SLE,0.0
+1994,Sierra Leone,SLE,0.0
+1995,Sierra Leone,SLE,0.0
+1996,Sierra Leone,SLE,0.0
+1997,Sierra Leone,SLE,0.0
+1998,Sierra Leone,SLE,0.0
+1999,Sierra Leone,SLE,0.0
+2000,Sierra Leone,SLE,0.0
+2001,Sierra Leone,SLE,0.0
+2002,Sierra Leone,SLE,0.0
+2003,Sierra Leone,SLE,0.0
+2004,Sierra Leone,SLE,0.0
+2005,Sierra Leone,SLE,0.0
+2006,Sierra Leone,SLE,0.0
+2007,Sierra Leone,SLE,0.0
+2008,Sierra Leone,SLE,0.0
+2009,Sierra Leone,SLE,0.0
+2010,Sierra Leone,SLE,0.0
+2011,Sierra Leone,SLE,0.0
+2012,Sierra Leone,SLE,0.0
+2013,Sierra Leone,SLE,0.0
+2014,Sierra Leone,SLE,0.0
+2015,Sierra Leone,SLE,0.0
+2016,Sierra Leone,SLE,0.0
+2017,Sierra Leone,SLE,0.0
+2018,Sierra Leone,SLE,0.0
+2019,Sierra Leone,SLE,0.0
+2020,Sierra Leone,SLE,0.0
+1974,Singapore,SGP,0.0
+1975,Singapore,SGP,0.0
+1976,Singapore,SGP,0.0
+1977,Singapore,SGP,0.0
+1978,Singapore,SGP,0.0
+1979,Singapore,SGP,0.0
+1980,Singapore,SGP,0.0
+1981,Singapore,SGP,0.0
+1982,Singapore,SGP,0.0
+1983,Singapore,SGP,0.0
+1984,Singapore,SGP,0.0
+1985,Singapore,SGP,0.0
+1986,Singapore,SGP,0.0
+1987,Singapore,SGP,0.0
+1988,Singapore,SGP,0.0
+1989,Singapore,SGP,0.0
+1990,Singapore,SGP,0.0
+1991,Singapore,SGP,0.0
+1992,Singapore,SGP,0.0
+1993,Singapore,SGP,0.0
+1994,Singapore,SGP,0.0
+1995,Singapore,SGP,0.0
+1996,Singapore,SGP,0.0
+1997,Singapore,SGP,0.0
+1998,Singapore,SGP,0.0
+1999,Singapore,SGP,0.0
+2000,Singapore,SGP,0.0
+2001,Singapore,SGP,0.0
+2002,Singapore,SGP,0.0
+2003,Singapore,SGP,0.0
+2004,Singapore,SGP,0.0
+2005,Singapore,SGP,0.0
+2006,Singapore,SGP,0.0
+2007,Singapore,SGP,0.0
+2008,Singapore,SGP,0.0
+2009,Singapore,SGP,0.0
+2010,Singapore,SGP,0.0
+2011,Singapore,SGP,0.0
+2012,Singapore,SGP,0.0
+2013,Singapore,SGP,0.0
+2014,Singapore,SGP,0.0
+2015,Singapore,SGP,0.0
+2016,Singapore,SGP,0.0
+2017,Singapore,SGP,0.0
+2018,Singapore,SGP,0.0
+2019,Singapore,SGP,0.0
+2020,Singapore,SGP,0.0
+1990,Suriname,SUR,0.0
+1991,Suriname,SUR,0.0
+1992,Suriname,SUR,0.0
+1993,Suriname,SUR,0.0
+1994,Suriname,SUR,0.0
+1995,Suriname,SUR,0.0
+1996,Suriname,SUR,0.0
+1997,Suriname,SUR,0.0
+1998,Suriname,SUR,0.0
+1999,Suriname,SUR,0.0
+2000,Suriname,SUR,0.0
+2001,Suriname,SUR,0.0
+2002,Suriname,SUR,0.0
+2003,Suriname,SUR,0.0
+2004,Suriname,SUR,0.0
+2005,Suriname,SUR,0.0
+2006,Suriname,SUR,0.0
+2007,Suriname,SUR,0.0
+2008,Suriname,SUR,0.0
+2009,Suriname,SUR,0.0
+2010,Suriname,SUR,0.0
+2011,Suriname,SUR,0.0
+2012,Suriname,SUR,0.0
+2013,Suriname,SUR,0.0
+2014,Suriname,SUR,0.0
+2015,Suriname,SUR,0.0
+2016,Suriname,SUR,0.0
+2017,Suriname,SUR,0.0
+2018,Suriname,SUR,0.0
+2019,Suriname,SUR,0.0
+2020,Suriname,SUR,0.0
+1990,Togo,TGO,0.0
+1991,Togo,TGO,0.0
+1992,Togo,TGO,0.0
+1993,Togo,TGO,0.0
+1994,Togo,TGO,0.0
+1995,Togo,TGO,0.0
+1996,Togo,TGO,0.0
+1997,Togo,TGO,0.0
+1998,Togo,TGO,0.0
+1999,Togo,TGO,0.0
+2000,Togo,TGO,0.0
+2001,Togo,TGO,0.0
+2002,Togo,TGO,0.0
+2003,Togo,TGO,0.0
+2004,Togo,TGO,0.0
+2005,Togo,TGO,0.0
+2006,Togo,TGO,0.0
+2007,Togo,TGO,0.0
+2008,Togo,TGO,0.0
+2009,Togo,TGO,0.0
+2010,Togo,TGO,0.0
+2011,Togo,TGO,0.0
+2012,Togo,TGO,0.0
+2013,Togo,TGO,0.0
+2014,Togo,TGO,0.0
+2015,Togo,TGO,0.0
+2016,Togo,TGO,0.0
+2017,Togo,TGO,0.0
+2018,Togo,TGO,0.0
+2019,Togo,TGO,0.0
+2020,Togo,TGO,0.0
+1975,Trinidad and Tobago,TTO,0.0
+1976,Trinidad and Tobago,TTO,0.0
+1977,Trinidad and Tobago,TTO,0.0
+1978,Trinidad and Tobago,TTO,0.0
+1979,Trinidad and Tobago,TTO,0.0
+1980,Trinidad and Tobago,TTO,0.0
+1981,Trinidad and Tobago,TTO,0.0
+1982,Trinidad and Tobago,TTO,0.0
+1983,Trinidad and Tobago,TTO,0.0
+1984,Trinidad and Tobago,TTO,0.0
+1985,Trinidad and Tobago,TTO,0.0
+1986,Trinidad and Tobago,TTO,0.0
+1987,Trinidad and Tobago,TTO,0.0
+1988,Trinidad and Tobago,TTO,0.0
+1989,Trinidad and Tobago,TTO,0.0
+1990,Trinidad and Tobago,TTO,0.0
+1991,Trinidad and Tobago,TTO,0.0
+1992,Trinidad and Tobago,TTO,0.0
+1993,Trinidad and Tobago,TTO,0.0
+1994,Trinidad and Tobago,TTO,0.0
+1995,Trinidad and Tobago,TTO,0.0
+1996,Trinidad and Tobago,TTO,0.0
+1997,Trinidad and Tobago,TTO,0.0
+1998,Trinidad and Tobago,TTO,0.0
+1999,Trinidad and Tobago,TTO,0.0
+2000,Trinidad and Tobago,TTO,0.0
+2001,Trinidad and Tobago,TTO,0.0
+2002,Trinidad and Tobago,TTO,0.0
+2003,Trinidad and Tobago,TTO,0.0
+2004,Trinidad and Tobago,TTO,0.0
+2005,Trinidad and Tobago,TTO,0.0
+2006,Trinidad and Tobago,TTO,0.0
+2007,Trinidad and Tobago,TTO,0.0
+2008,Trinidad and Tobago,TTO,0.0
+2009,Trinidad and Tobago,TTO,0.0
+2010,Trinidad and Tobago,TTO,0.0
+2011,Trinidad and Tobago,TTO,0.0
+2012,Trinidad and Tobago,TTO,0.0
+2013,Trinidad and Tobago,TTO,0.0
+2014,Trinidad and Tobago,TTO,0.0
+2015,Trinidad and Tobago,TTO,0.0
+2016,Trinidad and Tobago,TTO,0.0
+2017,Trinidad and Tobago,TTO,0.0
+2018,Trinidad and Tobago,TTO,0.0
+2019,Trinidad and Tobago,TTO,0.0
+2020,Trinidad and Tobago,TTO,0.0
+1977,United Arab Emirates,ARE,0.0
+1978,United Arab Emirates,ARE,0.0
+1979,United Arab Emirates,ARE,0.0
+1980,United Arab Emirates,ARE,0.0
+1981,United Arab Emirates,ARE,0.0
+1982,United Arab Emirates,ARE,0.0
+1983,United Arab Emirates,ARE,0.0
+1984,United Arab Emirates,ARE,0.0
+1985,United Arab Emirates,ARE,0.0
+1986,United Arab Emirates,ARE,0.0
+1987,United Arab Emirates,ARE,0.0
+1988,United Arab Emirates,ARE,0.0
+1989,United Arab Emirates,ARE,0.0
+1990,United Arab Emirates,ARE,0.0
+1991,United Arab Emirates,ARE,0.0
+1992,United Arab Emirates,ARE,0.0
+1993,United Arab Emirates,ARE,0.0
+1994,United Arab Emirates,ARE,0.0
+1995,United Arab Emirates,ARE,0.0
+1996,United Arab Emirates,ARE,0.0
+1997,United Arab Emirates,ARE,0.0
+1998,United Arab Emirates,ARE,0.0
+1999,United Arab Emirates,ARE,0.0
+2000,United Arab Emirates,ARE,0.0
+2001,United Arab Emirates,ARE,0.0
+2002,United Arab Emirates,ARE,0.0
+2003,United Arab Emirates,ARE,0.0
+2004,United Arab Emirates,ARE,0.0
+2005,United Arab Emirates,ARE,0.0
+2006,United Arab Emirates,ARE,0.0
+2007,United Arab Emirates,ARE,0.0
+2008,United Arab Emirates,ARE,0.0
+2009,United Arab Emirates,ARE,0.0
+2010,United Arab Emirates,ARE,0.0
+2011,United Arab Emirates,ARE,0.0
+2012,United Arab Emirates,ARE,0.0
+2013,United Arab Emirates,ARE,0.0
+2014,United Arab Emirates,ARE,0.0
+2015,United Arab Emirates,ARE,0.0
+2016,United Arab Emirates,ARE,0.0
+2017,United Arab Emirates,ARE,0.0
+2018,United Arab Emirates,ARE,0.0
+2019,United Arab Emirates,ARE,0.0
+2020,United Arab Emirates,ARE,0.0
+1972,Western Sahara,ESH,0.0
+1973,Western Sahara,ESH,0.0
+1974,Western Sahara,ESH,0.0
+1975,Western Sahara,ESH,0.0
+1976,Western Sahara,ESH,0.0
+1977,Western Sahara,ESH,0.0
+1978,Western Sahara,ESH,0.0
+1979,Western Sahara,ESH,0.0
+1980,Western Sahara,ESH,0.0
+1981,Western Sahara,ESH,0.0
+1982,Western Sahara,ESH,0.0
+1983,Western Sahara,ESH,0.0
+1984,Western Sahara,ESH,0.0
+1985,Western Sahara,ESH,0.0
+1986,Western Sahara,ESH,0.0
+1987,Western Sahara,ESH,0.0
+1988,Western Sahara,ESH,0.0
+1989,Western Sahara,ESH,0.0
+1990,Western Sahara,ESH,0.0
+1991,Western Sahara,ESH,0.0
+1992,Western Sahara,ESH,0.0
+1993,Western Sahara,ESH,0.0
+1994,Western Sahara,ESH,0.0
+1995,Western Sahara,ESH,0.0
+1996,Western Sahara,ESH,0.0
+1997,Western Sahara,ESH,0.0
+1998,Western Sahara,ESH,0.0
+1999,Western Sahara,ESH,0.0
+2000,Western Sahara,ESH,0.0
+2001,Western Sahara,ESH,0.0
+2002,Western Sahara,ESH,0.0
+2003,Western Sahara,ESH,0.0
+2004,Western Sahara,ESH,0.0
+2005,Western Sahara,ESH,0.0
+2006,Western Sahara,ESH,0.0
+2007,Western Sahara,ESH,0.0
+2008,Western Sahara,ESH,0.0
+2009,Western Sahara,ESH,0.0
+2010,Western Sahara,ESH,0.0
+2011,Western Sahara,ESH,0.0
+2012,Western Sahara,ESH,0.0
+2013,Western Sahara,ESH,0.0
+2014,Western Sahara,ESH,0.0
+2015,Western Sahara,ESH,0.0
+2016,Western Sahara,ESH,0.0
+2017,Western Sahara,ESH,0.0
+2018,Western Sahara,ESH,0.0
+2019,Western Sahara,ESH,0.0
+2020,Western Sahara,ESH,0.0
+1960,Brunei Darussalam,BRN,0.0
+1961,Brunei Darussalam,BRN,0.0
+1962,Brunei Darussalam,BRN,0.0
+1963,Brunei Darussalam,BRN,0.0
+1964,Brunei Darussalam,BRN,0.0
+1965,Brunei Darussalam,BRN,0.0
+1966,Brunei Darussalam,BRN,0.0
+1967,Brunei Darussalam,BRN,0.0
+1968,Brunei Darussalam,BRN,0.0
+1969,Brunei Darussalam,BRN,0.0
+1970,Brunei Darussalam,BRN,0.0
+1971,Brunei Darussalam,BRN,0.0
+1972,Brunei Darussalam,BRN,0.0
+1973,Brunei Darussalam,BRN,0.0
+1974,Brunei Darussalam,BRN,0.0
+1975,Brunei Darussalam,BRN,0.0
+1976,Brunei Darussalam,BRN,0.0
+1977,Brunei Darussalam,BRN,0.0
+1978,Brunei Darussalam,BRN,0.0
+1979,Brunei Darussalam,BRN,0.0
+1980,Brunei Darussalam,BRN,0.0
+1981,Brunei Darussalam,BRN,0.0
+1982,Brunei Darussalam,BRN,0.0
+1983,Brunei Darussalam,BRN,0.0
+1984,Brunei Darussalam,BRN,0.0
+1985,Brunei Darussalam,BRN,0.0
+1986,Brunei Darussalam,BRN,0.0
+1987,Brunei Darussalam,BRN,0.0
+1988,Brunei Darussalam,BRN,0.0
+1989,Brunei Darussalam,BRN,0.0
+1990,Brunei Darussalam,BRN,0.0
+1991,Brunei Darussalam,BRN,0.0
+1992,Brunei Darussalam,BRN,0.0
+1993,Brunei Darussalam,BRN,0.0
+1994,Brunei Darussalam,BRN,0.0
+1995,Brunei Darussalam,BRN,0.0
+1996,Brunei Darussalam,BRN,0.0
+1997,Brunei Darussalam,BRN,0.0
+1998,Brunei Darussalam,BRN,0.0
+1999,Brunei Darussalam,BRN,0.0
+2000,Brunei Darussalam,BRN,0.0
+2001,Brunei Darussalam,BRN,0.0
+2002,Brunei Darussalam,BRN,0.0
+2003,Brunei Darussalam,BRN,0.0
+2004,Brunei Darussalam,BRN,0.0
+2005,Brunei Darussalam,BRN,0.0
+2006,Brunei Darussalam,BRN,0.0
+2007,Brunei Darussalam,BRN,0.0
+2008,Brunei Darussalam,BRN,0.0
+2009,Brunei Darussalam,BRN,0.0
+2010,Brunei Darussalam,BRN,0.0
+2011,Brunei Darussalam,BRN,0.0
+2012,Brunei Darussalam,BRN,0.0
+2013,Brunei Darussalam,BRN,0.0
+2014,Brunei Darussalam,BRN,0.0
+2015,Brunei Darussalam,BRN,0.0
+2016,Brunei Darussalam,BRN,0.0
+2017,Brunei Darussalam,BRN,0.0
+2018,Brunei Darussalam,BRN,0.0
+2019,Brunei Darussalam,BRN,0.0
+2020,Brunei Darussalam,BRN,0.0
