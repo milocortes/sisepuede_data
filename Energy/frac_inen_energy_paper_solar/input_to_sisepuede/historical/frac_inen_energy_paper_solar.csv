@@ -16,6 +16,9 @@ Afghanistan,AFG,2013,0.0
 Afghanistan,AFG,2014,0.0
 Afghanistan,AFG,2015,0.0
 Afghanistan,AFG,2016,0.0
+Afghanistan,AFG,2017,0.0
+Afghanistan,AFG,2018,0.0
+Afghanistan,AFG,2019,0.0
 Albania,ALB,2000,0.0
 Albania,ALB,2001,0.0
 Albania,ALB,2002,0.0
@@ -31,8 +34,11 @@ Albania,ALB,2011,0.0
 Albania,ALB,2012,0.0
 Albania,ALB,2013,0.0
 Albania,ALB,2014,0.0
-Albania,ALB,2015,7.666840913051054e-05
-Albania,ALB,2016,0.00013020208734504238
+Albania,ALB,2015,0.0
+Albania,ALB,2016,0.0
+Albania,ALB,2017,0.0
+Albania,ALB,2018,0.0
+Albania,ALB,2019,0.0
 Algeria,DZA,2000,0.0
 Algeria,DZA,2001,0.0
 Algeria,DZA,2002,0.0
@@ -50,6 +56,9 @@ Algeria,DZA,2013,0.0
 Algeria,DZA,2014,0.0
 Algeria,DZA,2015,0.0
 Algeria,DZA,2016,0.0
+Algeria,DZA,2017,0.0
+Algeria,DZA,2018,0.0
+Algeria,DZA,2019,0.0
 American Samoa,ASM,2000,0.0
 American Samoa,ASM,2001,0.0
 American Samoa,ASM,2002,0.0
@@ -67,6 +76,9 @@ American Samoa,ASM,2013,0.0
 American Samoa,ASM,2014,0.0
 American Samoa,ASM,2015,0.0
 American Samoa,ASM,2016,0.0
+American Samoa,ASM,2017,0.0
+American Samoa,ASM,2018,0.0
+American Samoa,ASM,2019,0.0
 Andorra,AND,2000,0.0
 Andorra,AND,2001,0.0
 Andorra,AND,2002,0.0
@@ -79,11 +91,14 @@ Andorra,AND,2008,0.0
 Andorra,AND,2009,0.0
 Andorra,AND,2010,0.0
 Andorra,AND,2011,0.0
-Andorra,AND,2012,0.0
-Andorra,AND,2013,0.0
-Andorra,AND,2014,0.0
-Andorra,AND,2015,7.666840913051054e-05
-Andorra,AND,2016,0.00013020208734504238
+Andorra,AND,2012,1.954881338702741e-05
+Andorra,AND,2013,1.9755818088427045e-05
+Andorra,AND,2014,2.005716291430577e-05
+Andorra,AND,2015,2.0685945968309133e-05
+Andorra,AND,2016,0.0004793619386620703
+Andorra,AND,2017,0.00043135764684133234
+Andorra,AND,2018,0.00031883010606414866
+Andorra,AND,2019,0.00084957198778337
 Angola,AGO,2000,0.0
 Angola,AGO,2001,0.0
 Angola,AGO,2002,0.0
@@ -101,12 +116,15 @@ Angola,AGO,2013,0.0
 Angola,AGO,2014,0.0
 Angola,AGO,2015,0.0
 Angola,AGO,2016,0.0
-Anguilla,AIA,2000,0.00036002468740713655
-Anguilla,AIA,2001,0.000369227444105569
-Anguilla,AIA,2002,0.0003213952190945145
-Anguilla,AIA,2003,0.00027125247749066803
-Anguilla,AIA,2004,0.00022795533307662692
-Anguilla,AIA,2005,0.00019747549870526146
+Angola,AGO,2017,0.0
+Angola,AGO,2018,0.0
+Angola,AGO,2019,0.0
+Anguilla,AIA,2000,0.0006663035488596161
+Anguilla,AIA,2001,0.0006832650068326501
+Anguilla,AIA,2002,0.0005968972604668188
+Anguilla,AIA,2003,0.0005111642928506703
+Anguilla,AIA,2004,0.00044422033328530945
+Anguilla,AIA,2005,0.0004549165259333578
 Anguilla,AIA,2006,0.0
 Anguilla,AIA,2007,0.0
 Anguilla,AIA,2008,0.0
@@ -118,12 +136,15 @@ Anguilla,AIA,2013,0.0
 Anguilla,AIA,2014,0.0
 Anguilla,AIA,2015,0.0
 Anguilla,AIA,2016,0.0
-Antarctica,ATA,2000,0.0002
-Antarctica,ATA,2001,0.0002
-Antarctica,ATA,2002,0.0002
-Antarctica,ATA,2003,0.0002
-Antarctica,ATA,2004,0.0001
-Antarctica,ATA,2005,0.0001
+Anguilla,AIA,2017,0.0
+Anguilla,AIA,2018,0.0
+Anguilla,AIA,2019,0.0
+Antarctica,ATA,2000,0.0003
+Antarctica,ATA,2001,0.0004
+Antarctica,ATA,2002,0.0003
+Antarctica,ATA,2003,0.0003
+Antarctica,ATA,2004,0.0002
+Antarctica,ATA,2005,0.0002
 Antarctica,ATA,2006,0.0
 Antarctica,ATA,2007,0.0
 Antarctica,ATA,2008,0.0
@@ -134,13 +155,16 @@ Antarctica,ATA,2012,0.0
 Antarctica,ATA,2013,0.0
 Antarctica,ATA,2014,0.0
 Antarctica,ATA,2015,0.0
-Antarctica,ATA,2016,0.0
-Antigua and Barbuda,ATG,2000,0.00036002468740713655
-Antigua and Barbuda,ATG,2001,0.000369227444105569
-Antigua and Barbuda,ATG,2002,0.0003213952190945145
-Antigua and Barbuda,ATG,2003,0.00027125247749066803
-Antigua and Barbuda,ATG,2004,0.00022795533307662692
-Antigua and Barbuda,ATG,2005,0.00019747549870526146
+Antarctica,ATA,2016,0.0002
+Antarctica,ATA,2017,0.0002
+Antarctica,ATA,2018,0.0001
+Antarctica,ATA,2019,0.0003
+Antigua and Barbuda,ATG,2000,0.0006663035488596161
+Antigua and Barbuda,ATG,2001,0.0006832650068326501
+Antigua and Barbuda,ATG,2002,0.0005968972604668188
+Antigua and Barbuda,ATG,2003,0.0005111642928506703
+Antigua and Barbuda,ATG,2004,0.00044422033328530945
+Antigua and Barbuda,ATG,2005,0.0004549165259333578
 Antigua and Barbuda,ATG,2006,0.0
 Antigua and Barbuda,ATG,2007,0.0
 Antigua and Barbuda,ATG,2008,0.0
@@ -152,12 +176,15 @@ Antigua and Barbuda,ATG,2013,0.0
 Antigua and Barbuda,ATG,2014,0.0
 Antigua and Barbuda,ATG,2015,0.0
 Antigua and Barbuda,ATG,2016,0.0
-Argentina,ARG,2000,0.00036002468740713655
-Argentina,ARG,2001,0.000369227444105569
-Argentina,ARG,2002,0.0003213952190945145
-Argentina,ARG,2003,0.00027125247749066803
-Argentina,ARG,2004,0.00022795533307662692
-Argentina,ARG,2005,0.00019747549870526146
+Antigua and Barbuda,ATG,2017,0.0
+Antigua and Barbuda,ATG,2018,0.0
+Antigua and Barbuda,ATG,2019,0.0
+Argentina,ARG,2000,0.0
+Argentina,ARG,2001,0.0
+Argentina,ARG,2002,0.0
+Argentina,ARG,2003,0.0
+Argentina,ARG,2004,0.0
+Argentina,ARG,2005,0.0
 Argentina,ARG,2006,0.0
 Argentina,ARG,2007,0.0
 Argentina,ARG,2008,0.0
@@ -169,6 +196,9 @@ Argentina,ARG,2013,0.0
 Argentina,ARG,2014,0.0
 Argentina,ARG,2015,0.0
 Argentina,ARG,2016,0.0
+Argentina,ARG,2017,0.0
+Argentina,ARG,2018,0.0
+Argentina,ARG,2019,0.0
 Armenia,ARM,2000,0.0
 Armenia,ARM,2001,0.0
 Armenia,ARM,2002,0.0
@@ -186,12 +216,15 @@ Armenia,ARM,2013,0.0
 Armenia,ARM,2014,0.0
 Armenia,ARM,2015,0.0
 Armenia,ARM,2016,0.0
-Aruba,ABW,2000,0.00036002468740713655
-Aruba,ABW,2001,0.000369227444105569
-Aruba,ABW,2002,0.0003213952190945145
-Aruba,ABW,2003,0.00027125247749066803
-Aruba,ABW,2004,0.00022795533307662692
-Aruba,ABW,2005,0.00019747549870526146
+Armenia,ARM,2017,0.0
+Armenia,ARM,2018,0.0
+Armenia,ARM,2019,0.0
+Aruba,ABW,2000,0.0006663035488596161
+Aruba,ABW,2001,0.0006832650068326501
+Aruba,ABW,2002,0.0005968972604668188
+Aruba,ABW,2003,0.0005111642928506703
+Aruba,ABW,2004,0.00044422033328530945
+Aruba,ABW,2005,0.0004549165259333578
 Aruba,ABW,2006,0.0
 Aruba,ABW,2007,0.0
 Aruba,ABW,2008,0.0
@@ -203,6 +236,9 @@ Aruba,ABW,2013,0.0
 Aruba,ABW,2014,0.0
 Aruba,ABW,2015,0.0
 Aruba,ABW,2016,0.0
+Aruba,ABW,2017,0.0
+Aruba,ABW,2018,0.0
+Aruba,ABW,2019,0.0
 Australia,AUS,2000,0.0
 Australia,AUS,2001,0.0
 Australia,AUS,2002,0.0
@@ -220,6 +256,9 @@ Australia,AUS,2013,0.0
 Australia,AUS,2014,0.0
 Australia,AUS,2015,0.0
 Australia,AUS,2016,0.0
+Australia,AUS,2017,0.0
+Australia,AUS,2018,0.0
+Australia,AUS,2019,0.0
 Austria,AUT,2000,0.0
 Austria,AUT,2001,0.0
 Austria,AUT,2002,0.0
@@ -237,6 +276,9 @@ Austria,AUT,2013,0.0
 Austria,AUT,2014,0.0
 Austria,AUT,2015,0.0
 Austria,AUT,2016,0.0
+Austria,AUT,2017,0.0
+Austria,AUT,2018,0.0
+Austria,AUT,2019,0.0
 Azerbaijan,AZE,2000,0.0
 Azerbaijan,AZE,2001,0.0
 Azerbaijan,AZE,2002,0.0
@@ -254,12 +296,15 @@ Azerbaijan,AZE,2013,0.0
 Azerbaijan,AZE,2014,0.0
 Azerbaijan,AZE,2015,0.0
 Azerbaijan,AZE,2016,0.0
-Bahamas,BHS,2000,0.00036002468740713655
-Bahamas,BHS,2001,0.000369227444105569
-Bahamas,BHS,2002,0.0003213952190945145
-Bahamas,BHS,2003,0.00027125247749066803
-Bahamas,BHS,2004,0.00022795533307662692
-Bahamas,BHS,2005,0.00019747549870526146
+Azerbaijan,AZE,2017,0.0
+Azerbaijan,AZE,2018,0.0
+Azerbaijan,AZE,2019,0.0
+Bahamas,BHS,2000,0.0006663035488596161
+Bahamas,BHS,2001,0.0006832650068326501
+Bahamas,BHS,2002,0.0005968972604668188
+Bahamas,BHS,2003,0.0005111642928506703
+Bahamas,BHS,2004,0.00044422033328530945
+Bahamas,BHS,2005,0.0004549165259333578
 Bahamas,BHS,2006,0.0
 Bahamas,BHS,2007,0.0
 Bahamas,BHS,2008,0.0
@@ -271,6 +316,9 @@ Bahamas,BHS,2013,0.0
 Bahamas,BHS,2014,0.0
 Bahamas,BHS,2015,0.0
 Bahamas,BHS,2016,0.0
+Bahamas,BHS,2017,0.0
+Bahamas,BHS,2018,0.0
+Bahamas,BHS,2019,0.0
 Bahrain,BHR,2000,0.0
 Bahrain,BHR,2001,0.0
 Bahrain,BHR,2002,0.0
@@ -288,6 +336,9 @@ Bahrain,BHR,2013,0.0
 Bahrain,BHR,2014,0.0
 Bahrain,BHR,2015,0.0
 Bahrain,BHR,2016,0.0
+Bahrain,BHR,2017,0.0
+Bahrain,BHR,2018,0.0
+Bahrain,BHR,2019,0.0
 Bangladesh,BGD,2000,0.0
 Bangladesh,BGD,2001,0.0
 Bangladesh,BGD,2002,0.0
@@ -305,12 +356,15 @@ Bangladesh,BGD,2013,0.0
 Bangladesh,BGD,2014,0.0
 Bangladesh,BGD,2015,0.0
 Bangladesh,BGD,2016,0.0
-Barbados,BRB,2000,0.00036002468740713655
-Barbados,BRB,2001,0.000369227444105569
-Barbados,BRB,2002,0.0003213952190945145
-Barbados,BRB,2003,0.00027125247749066803
-Barbados,BRB,2004,0.00022795533307662692
-Barbados,BRB,2005,0.00019747549870526146
+Bangladesh,BGD,2017,0.0
+Bangladesh,BGD,2018,0.0
+Bangladesh,BGD,2019,0.0
+Barbados,BRB,2000,0.0006663035488596161
+Barbados,BRB,2001,0.0006832650068326501
+Barbados,BRB,2002,0.0005968972604668188
+Barbados,BRB,2003,0.0005111642928506703
+Barbados,BRB,2004,0.00044422033328530945
+Barbados,BRB,2005,0.0004549165259333578
 Barbados,BRB,2006,0.0
 Barbados,BRB,2007,0.0
 Barbados,BRB,2008,0.0
@@ -322,6 +376,9 @@ Barbados,BRB,2013,0.0
 Barbados,BRB,2014,0.0
 Barbados,BRB,2015,0.0
 Barbados,BRB,2016,0.0
+Barbados,BRB,2017,0.0
+Barbados,BRB,2018,0.0
+Barbados,BRB,2019,0.0
 Belarus,BLR,2000,0.0
 Belarus,BLR,2001,0.0
 Belarus,BLR,2002,0.0
@@ -339,6 +396,9 @@ Belarus,BLR,2013,0.0
 Belarus,BLR,2014,0.0
 Belarus,BLR,2015,0.0
 Belarus,BLR,2016,0.0
+Belarus,BLR,2017,0.0
+Belarus,BLR,2018,0.0
+Belarus,BLR,2019,0.0
 Belgium,BEL,2000,0.0
 Belgium,BEL,2001,0.0
 Belgium,BEL,2002,0.0
@@ -356,12 +416,15 @@ Belgium,BEL,2013,0.0
 Belgium,BEL,2014,0.0
 Belgium,BEL,2015,0.0
 Belgium,BEL,2016,0.0
-Belize,BLZ,2000,0.00036002468740713655
-Belize,BLZ,2001,0.000369227444105569
-Belize,BLZ,2002,0.0003213952190945145
-Belize,BLZ,2003,0.00027125247749066803
-Belize,BLZ,2004,0.00022795533307662692
-Belize,BLZ,2005,0.00019747549870526146
+Belgium,BEL,2017,0.0
+Belgium,BEL,2018,0.0
+Belgium,BEL,2019,0.0
+Belize,BLZ,2000,0.0006663035488596161
+Belize,BLZ,2001,0.0006832650068326501
+Belize,BLZ,2002,0.0005968972604668188
+Belize,BLZ,2003,0.0005111642928506703
+Belize,BLZ,2004,0.00044422033328530945
+Belize,BLZ,2005,0.0004549165259333578
 Belize,BLZ,2006,0.0
 Belize,BLZ,2007,0.0
 Belize,BLZ,2008,0.0
@@ -373,6 +436,9 @@ Belize,BLZ,2013,0.0
 Belize,BLZ,2014,0.0
 Belize,BLZ,2015,0.0
 Belize,BLZ,2016,0.0
+Belize,BLZ,2017,0.0
+Belize,BLZ,2018,0.0
+Belize,BLZ,2019,0.0
 Benin,BEN,2000,0.0
 Benin,BEN,2001,0.0
 Benin,BEN,2002,0.0
@@ -390,12 +456,15 @@ Benin,BEN,2013,0.0
 Benin,BEN,2014,0.0
 Benin,BEN,2015,0.0
 Benin,BEN,2016,0.0
-Bermuda,BMU,2000,0.00036002468740713655
-Bermuda,BMU,2001,0.000369227444105569
-Bermuda,BMU,2002,0.0003213952190945145
-Bermuda,BMU,2003,0.00027125247749066803
-Bermuda,BMU,2004,0.00022795533307662692
-Bermuda,BMU,2005,0.00019747549870526146
+Benin,BEN,2017,0.0
+Benin,BEN,2018,0.0
+Benin,BEN,2019,0.0
+Bermuda,BMU,2000,0.0006663035488596161
+Bermuda,BMU,2001,0.0006832650068326501
+Bermuda,BMU,2002,0.0005968972604668188
+Bermuda,BMU,2003,0.0005111642928506703
+Bermuda,BMU,2004,0.00044422033328530945
+Bermuda,BMU,2005,0.0004549165259333578
 Bermuda,BMU,2006,0.0
 Bermuda,BMU,2007,0.0
 Bermuda,BMU,2008,0.0
@@ -407,6 +476,9 @@ Bermuda,BMU,2013,0.0
 Bermuda,BMU,2014,0.0
 Bermuda,BMU,2015,0.0
 Bermuda,BMU,2016,0.0
+Bermuda,BMU,2017,0.0
+Bermuda,BMU,2018,0.0
+Bermuda,BMU,2019,0.0
 Bhutan,BTN,2000,0.0
 Bhutan,BTN,2001,0.0
 Bhutan,BTN,2002,0.0
@@ -424,12 +496,15 @@ Bhutan,BTN,2013,0.0
 Bhutan,BTN,2014,0.0
 Bhutan,BTN,2015,0.0
 Bhutan,BTN,2016,0.0
-Bolivia,BOL,2000,0.00036002468740713655
-Bolivia,BOL,2001,0.000369227444105569
-Bolivia,BOL,2002,0.0003213952190945145
-Bolivia,BOL,2003,0.00027125247749066803
-Bolivia,BOL,2004,0.00022795533307662692
-Bolivia,BOL,2005,0.00019747549870526146
+Bhutan,BTN,2017,0.0
+Bhutan,BTN,2018,0.0
+Bhutan,BTN,2019,0.0
+Bolivia,BOL,2000,0.0006663035488596161
+Bolivia,BOL,2001,0.0006832650068326501
+Bolivia,BOL,2002,0.0005968972604668188
+Bolivia,BOL,2003,0.0005111642928506703
+Bolivia,BOL,2004,0.00044422033328530945
+Bolivia,BOL,2005,0.0004549165259333578
 Bolivia,BOL,2006,0.0
 Bolivia,BOL,2007,0.0
 Bolivia,BOL,2008,0.0
@@ -441,12 +516,15 @@ Bolivia,BOL,2013,0.0
 Bolivia,BOL,2014,0.0
 Bolivia,BOL,2015,0.0
 Bolivia,BOL,2016,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2000,0.00036002468740713655
-"Bonaire, Sint Eustatius and Saba",BES,2001,0.000369227444105569
-"Bonaire, Sint Eustatius and Saba",BES,2002,0.0003213952190945145
-"Bonaire, Sint Eustatius and Saba",BES,2003,0.00027125247749066803
-"Bonaire, Sint Eustatius and Saba",BES,2004,0.00022795533307662692
-"Bonaire, Sint Eustatius and Saba",BES,2005,0.00019747549870526146
+Bolivia,BOL,2017,0.0
+Bolivia,BOL,2018,0.0
+Bolivia,BOL,2019,0.0
+"Bonaire, Sint Eustatius and Saba",BES,2000,0.0006663035488596161
+"Bonaire, Sint Eustatius and Saba",BES,2001,0.0006832650068326501
+"Bonaire, Sint Eustatius and Saba",BES,2002,0.0005968972604668188
+"Bonaire, Sint Eustatius and Saba",BES,2003,0.0005111642928506703
+"Bonaire, Sint Eustatius and Saba",BES,2004,0.00044422033328530945
+"Bonaire, Sint Eustatius and Saba",BES,2005,0.0004549165259333578
 "Bonaire, Sint Eustatius and Saba",BES,2006,0.0
 "Bonaire, Sint Eustatius and Saba",BES,2007,0.0
 "Bonaire, Sint Eustatius and Saba",BES,2008,0.0
@@ -458,6 +536,9 @@ Bolivia,BOL,2016,0.0
 "Bonaire, Sint Eustatius and Saba",BES,2014,0.0
 "Bonaire, Sint Eustatius and Saba",BES,2015,0.0
 "Bonaire, Sint Eustatius and Saba",BES,2016,0.0
+"Bonaire, Sint Eustatius and Saba",BES,2017,0.0
+"Bonaire, Sint Eustatius and Saba",BES,2018,0.0
+"Bonaire, Sint Eustatius and Saba",BES,2019,0.0
 Bosnia and Herzegovina,BIH,2000,0.0
 Bosnia and Herzegovina,BIH,2001,0.0
 Bosnia and Herzegovina,BIH,2002,0.0
@@ -473,8 +554,11 @@ Bosnia and Herzegovina,BIH,2011,0.0
 Bosnia and Herzegovina,BIH,2012,0.0
 Bosnia and Herzegovina,BIH,2013,0.0
 Bosnia and Herzegovina,BIH,2014,0.0
-Bosnia and Herzegovina,BIH,2015,7.666840913051054e-05
-Bosnia and Herzegovina,BIH,2016,0.00013020208734504238
+Bosnia and Herzegovina,BIH,2015,0.0
+Bosnia and Herzegovina,BIH,2016,0.0
+Bosnia and Herzegovina,BIH,2017,0.0
+Bosnia and Herzegovina,BIH,2018,0.0
+Bosnia and Herzegovina,BIH,2019,0.0
 Botswana,BWA,2000,0.0
 Botswana,BWA,2001,0.0
 Botswana,BWA,2002,0.0
@@ -492,12 +576,15 @@ Botswana,BWA,2013,0.0
 Botswana,BWA,2014,0.0
 Botswana,BWA,2015,0.0
 Botswana,BWA,2016,0.0
-Bouvet Island,BVT,2000,0.0002
-Bouvet Island,BVT,2001,0.0002
-Bouvet Island,BVT,2002,0.0002
-Bouvet Island,BVT,2003,0.0002
-Bouvet Island,BVT,2004,0.0001
-Bouvet Island,BVT,2005,0.0001
+Botswana,BWA,2017,0.0
+Botswana,BWA,2018,0.0
+Botswana,BWA,2019,0.0
+Bouvet Island,BVT,2000,0.0003
+Bouvet Island,BVT,2001,0.0004
+Bouvet Island,BVT,2002,0.0003
+Bouvet Island,BVT,2003,0.0003
+Bouvet Island,BVT,2004,0.0002
+Bouvet Island,BVT,2005,0.0002
 Bouvet Island,BVT,2006,0.0
 Bouvet Island,BVT,2007,0.0
 Bouvet Island,BVT,2008,0.0
@@ -508,13 +595,16 @@ Bouvet Island,BVT,2012,0.0
 Bouvet Island,BVT,2013,0.0
 Bouvet Island,BVT,2014,0.0
 Bouvet Island,BVT,2015,0.0
-Bouvet Island,BVT,2016,0.0
-Brazil,BRA,2000,0.00036002468740713655
-Brazil,BRA,2001,0.000369227444105569
-Brazil,BRA,2002,0.0003213952190945145
-Brazil,BRA,2003,0.00027125247749066803
-Brazil,BRA,2004,0.00022795533307662692
-Brazil,BRA,2005,0.00019747549870526146
+Bouvet Island,BVT,2016,0.0002
+Bouvet Island,BVT,2017,0.0002
+Bouvet Island,BVT,2018,0.0001
+Bouvet Island,BVT,2019,0.0003
+Brazil,BRA,2000,0.0
+Brazil,BRA,2001,0.0
+Brazil,BRA,2002,0.0
+Brazil,BRA,2003,0.0
+Brazil,BRA,2004,0.0
+Brazil,BRA,2005,0.0010005457522284883
 Brazil,BRA,2006,0.0
 Brazil,BRA,2007,0.0
 Brazil,BRA,2008,0.0
@@ -526,6 +616,9 @@ Brazil,BRA,2013,0.0
 Brazil,BRA,2014,0.0
 Brazil,BRA,2015,0.0
 Brazil,BRA,2016,0.0
+Brazil,BRA,2017,0.0
+Brazil,BRA,2018,0.0
+Brazil,BRA,2019,0.0
 British Indian Ocean Territory,IOT,2000,0.0
 British Indian Ocean Territory,IOT,2001,0.0
 British Indian Ocean Territory,IOT,2002,0.0
@@ -543,6 +636,9 @@ British Indian Ocean Territory,IOT,2013,0.0
 British Indian Ocean Territory,IOT,2014,0.0
 British Indian Ocean Territory,IOT,2015,0.0
 British Indian Ocean Territory,IOT,2016,0.0
+British Indian Ocean Territory,IOT,2017,0.0
+British Indian Ocean Territory,IOT,2018,0.0
+British Indian Ocean Territory,IOT,2019,0.0
 Brunei Darussalam,BRN,2000,0.0
 Brunei Darussalam,BRN,2001,0.0
 Brunei Darussalam,BRN,2002,0.0
@@ -560,6 +656,9 @@ Brunei Darussalam,BRN,2013,0.0
 Brunei Darussalam,BRN,2014,0.0
 Brunei Darussalam,BRN,2015,0.0
 Brunei Darussalam,BRN,2016,0.0
+Brunei Darussalam,BRN,2017,0.0
+Brunei Darussalam,BRN,2018,0.0
+Brunei Darussalam,BRN,2019,0.0
 Bulgaria,BGR,2000,0.0
 Bulgaria,BGR,2001,0.0
 Bulgaria,BGR,2002,0.0
@@ -575,8 +674,11 @@ Bulgaria,BGR,2011,0.0
 Bulgaria,BGR,2012,0.0
 Bulgaria,BGR,2013,0.0
 Bulgaria,BGR,2014,0.0
-Bulgaria,BGR,2015,7.666840913051054e-05
-Bulgaria,BGR,2016,0.00013020208734504238
+Bulgaria,BGR,2015,0.0
+Bulgaria,BGR,2016,0.0
+Bulgaria,BGR,2017,0.0
+Bulgaria,BGR,2018,0.0
+Bulgaria,BGR,2019,0.0
 Burkina Faso,BFA,2000,0.0
 Burkina Faso,BFA,2001,0.0
 Burkina Faso,BFA,2002,0.0
@@ -594,6 +696,9 @@ Burkina Faso,BFA,2013,0.0
 Burkina Faso,BFA,2014,0.0
 Burkina Faso,BFA,2015,0.0
 Burkina Faso,BFA,2016,0.0
+Burkina Faso,BFA,2017,0.0
+Burkina Faso,BFA,2018,0.0
+Burkina Faso,BFA,2019,0.0
 Burundi,BDI,2000,0.0
 Burundi,BDI,2001,0.0
 Burundi,BDI,2002,0.0
@@ -611,6 +716,9 @@ Burundi,BDI,2013,0.0
 Burundi,BDI,2014,0.0
 Burundi,BDI,2015,0.0
 Burundi,BDI,2016,0.0
+Burundi,BDI,2017,0.0
+Burundi,BDI,2018,0.0
+Burundi,BDI,2019,0.0
 Cambodia,KHM,2000,0.0
 Cambodia,KHM,2001,0.0
 Cambodia,KHM,2002,0.0
@@ -628,6 +736,9 @@ Cambodia,KHM,2013,0.0
 Cambodia,KHM,2014,0.0
 Cambodia,KHM,2015,0.0
 Cambodia,KHM,2016,0.0
+Cambodia,KHM,2017,0.0
+Cambodia,KHM,2018,0.0
+Cambodia,KHM,2019,0.0
 Cameroon,CMR,2000,0.0
 Cameroon,CMR,2001,0.0
 Cameroon,CMR,2002,0.0
@@ -645,6 +756,9 @@ Cameroon,CMR,2013,0.0
 Cameroon,CMR,2014,0.0
 Cameroon,CMR,2015,0.0
 Cameroon,CMR,2016,0.0
+Cameroon,CMR,2017,0.0
+Cameroon,CMR,2018,0.0
+Cameroon,CMR,2019,0.0
 Canada,CAN,2000,0.0
 Canada,CAN,2001,0.0
 Canada,CAN,2002,0.0
@@ -662,6 +776,9 @@ Canada,CAN,2013,0.0
 Canada,CAN,2014,0.0
 Canada,CAN,2015,0.0
 Canada,CAN,2016,0.0
+Canada,CAN,2017,0.0
+Canada,CAN,2018,0.0
+Canada,CAN,2019,0.0
 Cape Verde,CPV,2000,0.0
 Cape Verde,CPV,2001,0.0
 Cape Verde,CPV,2002,0.0
@@ -679,12 +796,15 @@ Cape Verde,CPV,2013,0.0
 Cape Verde,CPV,2014,0.0
 Cape Verde,CPV,2015,0.0
 Cape Verde,CPV,2016,0.0
-Cayman Islands,CYM,2000,0.00036002468740713655
-Cayman Islands,CYM,2001,0.000369227444105569
-Cayman Islands,CYM,2002,0.0003213952190945145
-Cayman Islands,CYM,2003,0.00027125247749066803
-Cayman Islands,CYM,2004,0.00022795533307662692
-Cayman Islands,CYM,2005,0.00019747549870526146
+Cape Verde,CPV,2017,0.0
+Cape Verde,CPV,2018,0.0
+Cape Verde,CPV,2019,0.0
+Cayman Islands,CYM,2000,0.0006663035488596161
+Cayman Islands,CYM,2001,0.0006832650068326501
+Cayman Islands,CYM,2002,0.0005968972604668188
+Cayman Islands,CYM,2003,0.0005111642928506703
+Cayman Islands,CYM,2004,0.00044422033328530945
+Cayman Islands,CYM,2005,0.0004549165259333578
 Cayman Islands,CYM,2006,0.0
 Cayman Islands,CYM,2007,0.0
 Cayman Islands,CYM,2008,0.0
@@ -696,6 +816,9 @@ Cayman Islands,CYM,2013,0.0
 Cayman Islands,CYM,2014,0.0
 Cayman Islands,CYM,2015,0.0
 Cayman Islands,CYM,2016,0.0
+Cayman Islands,CYM,2017,0.0
+Cayman Islands,CYM,2018,0.0
+Cayman Islands,CYM,2019,0.0
 Central African Republic,CAF,2000,0.0
 Central African Republic,CAF,2001,0.0
 Central African Republic,CAF,2002,0.0
@@ -713,6 +836,9 @@ Central African Republic,CAF,2013,0.0
 Central African Republic,CAF,2014,0.0
 Central African Republic,CAF,2015,0.0
 Central African Republic,CAF,2016,0.0
+Central African Republic,CAF,2017,0.0
+Central African Republic,CAF,2018,0.0
+Central African Republic,CAF,2019,0.0
 Chad,TCD,2000,0.0
 Chad,TCD,2001,0.0
 Chad,TCD,2002,0.0
@@ -730,12 +856,15 @@ Chad,TCD,2013,0.0
 Chad,TCD,2014,0.0
 Chad,TCD,2015,0.0
 Chad,TCD,2016,0.0
-Chile,CHL,2000,0.00036002468740713655
-Chile,CHL,2001,0.000369227444105569
-Chile,CHL,2002,0.0003213952190945145
-Chile,CHL,2003,0.00027125247749066803
-Chile,CHL,2004,0.00022795533307662692
-Chile,CHL,2005,0.00019747549870526146
+Chad,TCD,2017,0.0
+Chad,TCD,2018,0.0
+Chad,TCD,2019,0.0
+Chile,CHL,2000,0.0
+Chile,CHL,2001,0.0
+Chile,CHL,2002,0.0
+Chile,CHL,2003,0.0
+Chile,CHL,2004,0.0
+Chile,CHL,2005,0.0
 Chile,CHL,2006,0.0
 Chile,CHL,2007,0.0
 Chile,CHL,2008,0.0
@@ -747,6 +876,9 @@ Chile,CHL,2013,0.0
 Chile,CHL,2014,0.0
 Chile,CHL,2015,0.0
 Chile,CHL,2016,0.0
+Chile,CHL,2017,0.0
+Chile,CHL,2018,0.0
+Chile,CHL,2019,0.0
 China,CHN,2000,0.0
 China,CHN,2001,0.0
 China,CHN,2002,0.0
@@ -764,6 +896,9 @@ China,CHN,2013,0.0
 China,CHN,2014,0.0
 China,CHN,2015,0.0
 China,CHN,2016,0.0
+China,CHN,2017,0.0
+China,CHN,2018,0.0
+China,CHN,2019,0.0
 Christmas Island,CXR,2000,0.0
 Christmas Island,CXR,2001,0.0
 Christmas Island,CXR,2002,0.0
@@ -781,6 +916,9 @@ Christmas Island,CXR,2013,0.0
 Christmas Island,CXR,2014,0.0
 Christmas Island,CXR,2015,0.0
 Christmas Island,CXR,2016,0.0
+Christmas Island,CXR,2017,0.0
+Christmas Island,CXR,2018,0.0
+Christmas Island,CXR,2019,0.0
 Cocos (Keeling) Islands,CCK,2000,0.0
 Cocos (Keeling) Islands,CCK,2001,0.0
 Cocos (Keeling) Islands,CCK,2002,0.0
@@ -798,12 +936,15 @@ Cocos (Keeling) Islands,CCK,2013,0.0
 Cocos (Keeling) Islands,CCK,2014,0.0
 Cocos (Keeling) Islands,CCK,2015,0.0
 Cocos (Keeling) Islands,CCK,2016,0.0
-Colombia,COL,2000,0.00036002468740713655
-Colombia,COL,2001,0.000369227444105569
-Colombia,COL,2002,0.0003213952190945145
-Colombia,COL,2003,0.00027125247749066803
-Colombia,COL,2004,0.00022795533307662692
-Colombia,COL,2005,0.00019747549870526146
+Cocos (Keeling) Islands,CCK,2017,0.0
+Cocos (Keeling) Islands,CCK,2018,0.0
+Cocos (Keeling) Islands,CCK,2019,0.0
+Colombia,COL,2000,0.0
+Colombia,COL,2001,0.0
+Colombia,COL,2002,0.0
+Colombia,COL,2003,0.0
+Colombia,COL,2004,0.0
+Colombia,COL,2005,0.0
 Colombia,COL,2006,0.0
 Colombia,COL,2007,0.0
 Colombia,COL,2008,0.0
@@ -815,6 +956,9 @@ Colombia,COL,2013,0.0
 Colombia,COL,2014,0.0
 Colombia,COL,2015,0.0
 Colombia,COL,2016,0.0
+Colombia,COL,2017,0.0
+Colombia,COL,2018,0.0
+Colombia,COL,2019,0.0
 Comoros,COM,2000,0.0
 Comoros,COM,2001,0.0
 Comoros,COM,2002,0.0
@@ -832,6 +976,9 @@ Comoros,COM,2013,0.0
 Comoros,COM,2014,0.0
 Comoros,COM,2015,0.0
 Comoros,COM,2016,0.0
+Comoros,COM,2017,0.0
+Comoros,COM,2018,0.0
+Comoros,COM,2019,0.0
 Congo,COG,2000,0.0
 Congo,COG,2001,0.0
 Congo,COG,2002,0.0
@@ -849,6 +996,9 @@ Congo,COG,2013,0.0
 Congo,COG,2014,0.0
 Congo,COG,2015,0.0
 Congo,COG,2016,0.0
+Congo,COG,2017,0.0
+Congo,COG,2018,0.0
+Congo,COG,2019,0.0
 "Congo, the Democratic Republic of the",COD,2000,0.0
 "Congo, the Democratic Republic of the",COD,2001,0.0
 "Congo, the Democratic Republic of the",COD,2002,0.0
@@ -866,6 +1016,9 @@ Congo,COG,2016,0.0
 "Congo, the Democratic Republic of the",COD,2014,0.0
 "Congo, the Democratic Republic of the",COD,2015,0.0
 "Congo, the Democratic Republic of the",COD,2016,0.0
+"Congo, the Democratic Republic of the",COD,2017,0.0
+"Congo, the Democratic Republic of the",COD,2018,0.0
+"Congo, the Democratic Republic of the",COD,2019,0.0
 Cook Islands,COK,2000,0.0
 Cook Islands,COK,2001,0.0
 Cook Islands,COK,2002,0.0
@@ -883,12 +1036,15 @@ Cook Islands,COK,2013,0.0
 Cook Islands,COK,2014,0.0
 Cook Islands,COK,2015,0.0
 Cook Islands,COK,2016,0.0
-Costa Rica,CRI,2000,0.00036002468740713655
-Costa Rica,CRI,2001,0.000369227444105569
-Costa Rica,CRI,2002,0.0003213952190945145
-Costa Rica,CRI,2003,0.00027125247749066803
-Costa Rica,CRI,2004,0.00022795533307662692
-Costa Rica,CRI,2005,0.00019747549870526146
+Cook Islands,COK,2017,0.0
+Cook Islands,COK,2018,0.0
+Cook Islands,COK,2019,0.0
+Costa Rica,CRI,2000,0.0006663035488596161
+Costa Rica,CRI,2001,0.0006832650068326501
+Costa Rica,CRI,2002,0.0005968972604668188
+Costa Rica,CRI,2003,0.0005111642928506703
+Costa Rica,CRI,2004,0.00044422033328530945
+Costa Rica,CRI,2005,0.0004549165259333578
 Costa Rica,CRI,2006,0.0
 Costa Rica,CRI,2007,0.0
 Costa Rica,CRI,2008,0.0
@@ -900,6 +1056,9 @@ Costa Rica,CRI,2013,0.0
 Costa Rica,CRI,2014,0.0
 Costa Rica,CRI,2015,0.0
 Costa Rica,CRI,2016,0.0
+Costa Rica,CRI,2017,0.0
+Costa Rica,CRI,2018,0.0
+Costa Rica,CRI,2019,0.0
 Croatia,HRV,2000,0.0
 Croatia,HRV,2001,0.0
 Croatia,HRV,2002,0.0
@@ -915,14 +1074,17 @@ Croatia,HRV,2011,0.0
 Croatia,HRV,2012,0.0
 Croatia,HRV,2013,0.0
 Croatia,HRV,2014,0.0
-Croatia,HRV,2015,7.666840913051054e-05
-Croatia,HRV,2016,0.00013020208734504238
-Cuba,CUB,2000,0.00036002468740713655
-Cuba,CUB,2001,0.000369227444105569
-Cuba,CUB,2002,0.0003213952190945145
-Cuba,CUB,2003,0.00027125247749066803
-Cuba,CUB,2004,0.00022795533307662692
-Cuba,CUB,2005,0.00019747549870526146
+Croatia,HRV,2015,0.0
+Croatia,HRV,2016,0.0
+Croatia,HRV,2017,0.0
+Croatia,HRV,2018,0.0
+Croatia,HRV,2019,0.0
+Cuba,CUB,2000,0.0006663035488596161
+Cuba,CUB,2001,0.0006832650068326501
+Cuba,CUB,2002,0.0005968972604668188
+Cuba,CUB,2003,0.0005111642928506703
+Cuba,CUB,2004,0.00044422033328530945
+Cuba,CUB,2005,0.0004549165259333578
 Cuba,CUB,2006,0.0
 Cuba,CUB,2007,0.0
 Cuba,CUB,2008,0.0
@@ -934,12 +1096,15 @@ Cuba,CUB,2013,0.0
 Cuba,CUB,2014,0.0
 Cuba,CUB,2015,0.0
 Cuba,CUB,2016,0.0
-Curaçao,CUW,2000,0.00036002468740713655
-Curaçao,CUW,2001,0.000369227444105569
-Curaçao,CUW,2002,0.0003213952190945145
-Curaçao,CUW,2003,0.00027125247749066803
-Curaçao,CUW,2004,0.00022795533307662692
-Curaçao,CUW,2005,0.00019747549870526146
+Cuba,CUB,2017,0.0
+Cuba,CUB,2018,0.0
+Cuba,CUB,2019,0.0
+Curaçao,CUW,2000,0.0006663035488596161
+Curaçao,CUW,2001,0.0006832650068326501
+Curaçao,CUW,2002,0.0005968972604668188
+Curaçao,CUW,2003,0.0005111642928506703
+Curaçao,CUW,2004,0.00044422033328530945
+Curaçao,CUW,2005,0.0004549165259333578
 Curaçao,CUW,2006,0.0
 Curaçao,CUW,2007,0.0
 Curaçao,CUW,2008,0.0
@@ -951,6 +1116,9 @@ Curaçao,CUW,2013,0.0
 Curaçao,CUW,2014,0.0
 Curaçao,CUW,2015,0.0
 Curaçao,CUW,2016,0.0
+Curaçao,CUW,2017,0.0
+Curaçao,CUW,2018,0.0
+Curaçao,CUW,2019,0.0
 Cyprus,CYP,2000,0.0
 Cyprus,CYP,2001,0.0
 Cyprus,CYP,2002,0.0
@@ -968,6 +1136,9 @@ Cyprus,CYP,2013,0.0
 Cyprus,CYP,2014,0.0
 Cyprus,CYP,2015,0.0
 Cyprus,CYP,2016,0.0
+Cyprus,CYP,2017,0.0
+Cyprus,CYP,2018,0.0
+Cyprus,CYP,2019,0.0
 Czech Republic,CZE,2000,0.0
 Czech Republic,CZE,2001,0.0
 Czech Republic,CZE,2002,0.0
@@ -985,6 +1156,9 @@ Czech Republic,CZE,2013,0.0
 Czech Republic,CZE,2014,0.0
 Czech Republic,CZE,2015,0.0
 Czech Republic,CZE,2016,0.0
+Czech Republic,CZE,2017,0.0
+Czech Republic,CZE,2018,0.0
+Czech Republic,CZE,2019,0.0
 Côte d'Ivoire,CIV,2000,0.0
 Côte d'Ivoire,CIV,2001,0.0
 Côte d'Ivoire,CIV,2002,0.0
@@ -1002,6 +1176,9 @@ Côte d'Ivoire,CIV,2013,0.0
 Côte d'Ivoire,CIV,2014,0.0
 Côte d'Ivoire,CIV,2015,0.0
 Côte d'Ivoire,CIV,2016,0.0
+Côte d'Ivoire,CIV,2017,0.0
+Côte d'Ivoire,CIV,2018,0.0
+Côte d'Ivoire,CIV,2019,0.0
 Denmark,DNK,2000,0.0
 Denmark,DNK,2001,0.0
 Denmark,DNK,2002,0.0
@@ -1019,6 +1196,9 @@ Denmark,DNK,2013,0.0
 Denmark,DNK,2014,0.0
 Denmark,DNK,2015,0.0
 Denmark,DNK,2016,0.0
+Denmark,DNK,2017,0.0
+Denmark,DNK,2018,0.0
+Denmark,DNK,2019,0.0
 Djibouti,DJI,2000,0.0
 Djibouti,DJI,2001,0.0
 Djibouti,DJI,2002,0.0
@@ -1036,12 +1216,15 @@ Djibouti,DJI,2013,0.0
 Djibouti,DJI,2014,0.0
 Djibouti,DJI,2015,0.0
 Djibouti,DJI,2016,0.0
-Dominica,DMA,2000,0.00036002468740713655
-Dominica,DMA,2001,0.000369227444105569
-Dominica,DMA,2002,0.0003213952190945145
-Dominica,DMA,2003,0.00027125247749066803
-Dominica,DMA,2004,0.00022795533307662692
-Dominica,DMA,2005,0.00019747549870526146
+Djibouti,DJI,2017,0.0
+Djibouti,DJI,2018,0.0
+Djibouti,DJI,2019,0.0
+Dominica,DMA,2000,0.0006663035488596161
+Dominica,DMA,2001,0.0006832650068326501
+Dominica,DMA,2002,0.0005968972604668188
+Dominica,DMA,2003,0.0005111642928506703
+Dominica,DMA,2004,0.00044422033328530945
+Dominica,DMA,2005,0.0004549165259333578
 Dominica,DMA,2006,0.0
 Dominica,DMA,2007,0.0
 Dominica,DMA,2008,0.0
@@ -1053,12 +1236,15 @@ Dominica,DMA,2013,0.0
 Dominica,DMA,2014,0.0
 Dominica,DMA,2015,0.0
 Dominica,DMA,2016,0.0
-Dominican Republic,DOM,2000,0.00036002468740713655
-Dominican Republic,DOM,2001,0.000369227444105569
-Dominican Republic,DOM,2002,0.0003213952190945145
-Dominican Republic,DOM,2003,0.00027125247749066803
-Dominican Republic,DOM,2004,0.00022795533307662692
-Dominican Republic,DOM,2005,0.00019747549870526146
+Dominica,DMA,2017,0.0
+Dominica,DMA,2018,0.0
+Dominica,DMA,2019,0.0
+Dominican Republic,DOM,2000,0.0006663035488596161
+Dominican Republic,DOM,2001,0.0006832650068326501
+Dominican Republic,DOM,2002,0.0005968972604668188
+Dominican Republic,DOM,2003,0.0005111642928506703
+Dominican Republic,DOM,2004,0.00044422033328530945
+Dominican Republic,DOM,2005,0.0004549165259333578
 Dominican Republic,DOM,2006,0.0
 Dominican Republic,DOM,2007,0.0
 Dominican Republic,DOM,2008,0.0
@@ -1070,12 +1256,15 @@ Dominican Republic,DOM,2013,0.0
 Dominican Republic,DOM,2014,0.0
 Dominican Republic,DOM,2015,0.0
 Dominican Republic,DOM,2016,0.0
-Ecuador,ECU,2000,0.00036002468740713655
-Ecuador,ECU,2001,0.000369227444105569
-Ecuador,ECU,2002,0.0003213952190945145
-Ecuador,ECU,2003,0.00027125247749066803
-Ecuador,ECU,2004,0.00022795533307662692
-Ecuador,ECU,2005,0.00019747549870526146
+Dominican Republic,DOM,2017,0.0
+Dominican Republic,DOM,2018,0.0
+Dominican Republic,DOM,2019,0.0
+Ecuador,ECU,2000,0.0006663035488596161
+Ecuador,ECU,2001,0.0006832650068326501
+Ecuador,ECU,2002,0.0005968972604668188
+Ecuador,ECU,2003,0.0005111642928506703
+Ecuador,ECU,2004,0.00044422033328530945
+Ecuador,ECU,2005,0.0004549165259333578
 Ecuador,ECU,2006,0.0
 Ecuador,ECU,2007,0.0
 Ecuador,ECU,2008,0.0
@@ -1087,6 +1276,9 @@ Ecuador,ECU,2013,0.0
 Ecuador,ECU,2014,0.0
 Ecuador,ECU,2015,0.0
 Ecuador,ECU,2016,0.0
+Ecuador,ECU,2017,0.0
+Ecuador,ECU,2018,0.0
+Ecuador,ECU,2019,0.0
 Egypt,EGY,2000,0.0
 Egypt,EGY,2001,0.0
 Egypt,EGY,2002,0.0
@@ -1104,12 +1296,15 @@ Egypt,EGY,2013,0.0
 Egypt,EGY,2014,0.0
 Egypt,EGY,2015,0.0
 Egypt,EGY,2016,0.0
-El Salvador,SLV,2000,0.00036002468740713655
-El Salvador,SLV,2001,0.000369227444105569
-El Salvador,SLV,2002,0.0003213952190945145
-El Salvador,SLV,2003,0.00027125247749066803
-El Salvador,SLV,2004,0.00022795533307662692
-El Salvador,SLV,2005,0.00019747549870526146
+Egypt,EGY,2017,0.0
+Egypt,EGY,2018,0.0
+Egypt,EGY,2019,0.0
+El Salvador,SLV,2000,0.0006663035488596161
+El Salvador,SLV,2001,0.0006832650068326501
+El Salvador,SLV,2002,0.0005968972604668188
+El Salvador,SLV,2003,0.0005111642928506703
+El Salvador,SLV,2004,0.00044422033328530945
+El Salvador,SLV,2005,0.0004549165259333578
 El Salvador,SLV,2006,0.0
 El Salvador,SLV,2007,0.0
 El Salvador,SLV,2008,0.0
@@ -1121,6 +1316,9 @@ El Salvador,SLV,2013,0.0
 El Salvador,SLV,2014,0.0
 El Salvador,SLV,2015,0.0
 El Salvador,SLV,2016,0.0
+El Salvador,SLV,2017,0.0
+El Salvador,SLV,2018,0.0
+El Salvador,SLV,2019,0.0
 Equatorial Guinea,GNQ,2000,0.0
 Equatorial Guinea,GNQ,2001,0.0
 Equatorial Guinea,GNQ,2002,0.0
@@ -1138,6 +1336,9 @@ Equatorial Guinea,GNQ,2013,0.0
 Equatorial Guinea,GNQ,2014,0.0
 Equatorial Guinea,GNQ,2015,0.0
 Equatorial Guinea,GNQ,2016,0.0
+Equatorial Guinea,GNQ,2017,0.0
+Equatorial Guinea,GNQ,2018,0.0
+Equatorial Guinea,GNQ,2019,0.0
 Eritrea,ERI,2000,0.0
 Eritrea,ERI,2001,0.0
 Eritrea,ERI,2002,0.0
@@ -1155,6 +1356,9 @@ Eritrea,ERI,2013,0.0
 Eritrea,ERI,2014,0.0
 Eritrea,ERI,2015,0.0
 Eritrea,ERI,2016,0.0
+Eritrea,ERI,2017,0.0
+Eritrea,ERI,2018,0.0
+Eritrea,ERI,2019,0.0
 Estonia,EST,2000,0.0
 Estonia,EST,2001,0.0
 Estonia,EST,2002,0.0
@@ -1170,8 +1374,11 @@ Estonia,EST,2011,0.0
 Estonia,EST,2012,0.0
 Estonia,EST,2013,0.0
 Estonia,EST,2014,0.0
-Estonia,EST,2015,7.666840913051054e-05
-Estonia,EST,2016,0.00013020208734504238
+Estonia,EST,2015,0.0
+Estonia,EST,2016,0.0
+Estonia,EST,2017,0.0
+Estonia,EST,2018,0.0
+Estonia,EST,2019,0.0
 Ethiopia,ETH,2000,0.0
 Ethiopia,ETH,2001,0.0
 Ethiopia,ETH,2002,0.0
@@ -1189,12 +1396,15 @@ Ethiopia,ETH,2013,0.0
 Ethiopia,ETH,2014,0.0
 Ethiopia,ETH,2015,0.0
 Ethiopia,ETH,2016,0.0
-Falkland Islands (Malvinas),FLK,2000,0.00036002468740713655
-Falkland Islands (Malvinas),FLK,2001,0.000369227444105569
-Falkland Islands (Malvinas),FLK,2002,0.0003213952190945145
-Falkland Islands (Malvinas),FLK,2003,0.00027125247749066803
-Falkland Islands (Malvinas),FLK,2004,0.00022795533307662692
-Falkland Islands (Malvinas),FLK,2005,0.00019747549870526146
+Ethiopia,ETH,2017,0.0
+Ethiopia,ETH,2018,0.0
+Ethiopia,ETH,2019,0.0
+Falkland Islands (Malvinas),FLK,2000,0.0006663035488596161
+Falkland Islands (Malvinas),FLK,2001,0.0006832650068326501
+Falkland Islands (Malvinas),FLK,2002,0.0005968972604668188
+Falkland Islands (Malvinas),FLK,2003,0.0005111642928506703
+Falkland Islands (Malvinas),FLK,2004,0.00044422033328530945
+Falkland Islands (Malvinas),FLK,2005,0.0004549165259333578
 Falkland Islands (Malvinas),FLK,2006,0.0
 Falkland Islands (Malvinas),FLK,2007,0.0
 Falkland Islands (Malvinas),FLK,2008,0.0
@@ -1206,6 +1416,9 @@ Falkland Islands (Malvinas),FLK,2013,0.0
 Falkland Islands (Malvinas),FLK,2014,0.0
 Falkland Islands (Malvinas),FLK,2015,0.0
 Falkland Islands (Malvinas),FLK,2016,0.0
+Falkland Islands (Malvinas),FLK,2017,0.0
+Falkland Islands (Malvinas),FLK,2018,0.0
+Falkland Islands (Malvinas),FLK,2019,0.0
 Faroe Islands,FRO,2000,0.0
 Faroe Islands,FRO,2001,0.0
 Faroe Islands,FRO,2002,0.0
@@ -1218,11 +1431,14 @@ Faroe Islands,FRO,2008,0.0
 Faroe Islands,FRO,2009,0.0
 Faroe Islands,FRO,2010,0.0
 Faroe Islands,FRO,2011,0.0
-Faroe Islands,FRO,2012,0.0
-Faroe Islands,FRO,2013,0.0
-Faroe Islands,FRO,2014,0.0
-Faroe Islands,FRO,2015,7.666840913051054e-05
-Faroe Islands,FRO,2016,0.00013020208734504238
+Faroe Islands,FRO,2012,1.954881338702741e-05
+Faroe Islands,FRO,2013,1.9755818088427045e-05
+Faroe Islands,FRO,2014,2.005716291430577e-05
+Faroe Islands,FRO,2015,2.0685945968309133e-05
+Faroe Islands,FRO,2016,0.0004793619386620703
+Faroe Islands,FRO,2017,0.00043135764684133234
+Faroe Islands,FRO,2018,0.00031883010606414866
+Faroe Islands,FRO,2019,0.00084957198778337
 Fiji,FJI,2000,0.0
 Fiji,FJI,2001,0.0
 Fiji,FJI,2002,0.0
@@ -1240,6 +1456,9 @@ Fiji,FJI,2013,0.0
 Fiji,FJI,2014,0.0
 Fiji,FJI,2015,0.0
 Fiji,FJI,2016,0.0
+Fiji,FJI,2017,0.0
+Fiji,FJI,2018,0.0
+Fiji,FJI,2019,0.0
 Finland,FIN,2000,0.0
 Finland,FIN,2001,0.0
 Finland,FIN,2002,0.0
@@ -1257,6 +1476,9 @@ Finland,FIN,2013,0.0
 Finland,FIN,2014,0.0
 Finland,FIN,2015,0.0
 Finland,FIN,2016,0.0
+Finland,FIN,2017,0.0
+Finland,FIN,2018,0.0
+Finland,FIN,2019,0.0
 France,FRA,2000,0.0
 France,FRA,2001,0.0
 France,FRA,2002,0.0
@@ -1274,12 +1496,15 @@ France,FRA,2013,0.0
 France,FRA,2014,0.0
 France,FRA,2015,0.0
 France,FRA,2016,0.0
-French Guiana,GUF,2000,0.00036002468740713655
-French Guiana,GUF,2001,0.000369227444105569
-French Guiana,GUF,2002,0.0003213952190945145
-French Guiana,GUF,2003,0.00027125247749066803
-French Guiana,GUF,2004,0.00022795533307662692
-French Guiana,GUF,2005,0.00019747549870526146
+France,FRA,2017,0.0
+France,FRA,2018,0.0
+France,FRA,2019,0.0
+French Guiana,GUF,2000,0.0006663035488596161
+French Guiana,GUF,2001,0.0006832650068326501
+French Guiana,GUF,2002,0.0005968972604668188
+French Guiana,GUF,2003,0.0005111642928506703
+French Guiana,GUF,2004,0.00044422033328530945
+French Guiana,GUF,2005,0.0004549165259333578
 French Guiana,GUF,2006,0.0
 French Guiana,GUF,2007,0.0
 French Guiana,GUF,2008,0.0
@@ -1291,6 +1516,9 @@ French Guiana,GUF,2013,0.0
 French Guiana,GUF,2014,0.0
 French Guiana,GUF,2015,0.0
 French Guiana,GUF,2016,0.0
+French Guiana,GUF,2017,0.0
+French Guiana,GUF,2018,0.0
+French Guiana,GUF,2019,0.0
 French Polynesia,PYF,2000,0.0
 French Polynesia,PYF,2001,0.0
 French Polynesia,PYF,2002,0.0
@@ -1308,12 +1536,15 @@ French Polynesia,PYF,2013,0.0
 French Polynesia,PYF,2014,0.0
 French Polynesia,PYF,2015,0.0
 French Polynesia,PYF,2016,0.0
-French Southern Territories,ATF,2000,0.0002
-French Southern Territories,ATF,2001,0.0002
-French Southern Territories,ATF,2002,0.0002
-French Southern Territories,ATF,2003,0.0002
-French Southern Territories,ATF,2004,0.0001
-French Southern Territories,ATF,2005,0.0001
+French Polynesia,PYF,2017,0.0
+French Polynesia,PYF,2018,0.0
+French Polynesia,PYF,2019,0.0
+French Southern Territories,ATF,2000,0.0003
+French Southern Territories,ATF,2001,0.0004
+French Southern Territories,ATF,2002,0.0003
+French Southern Territories,ATF,2003,0.0003
+French Southern Territories,ATF,2004,0.0002
+French Southern Territories,ATF,2005,0.0002
 French Southern Territories,ATF,2006,0.0
 French Southern Territories,ATF,2007,0.0
 French Southern Territories,ATF,2008,0.0
@@ -1324,7 +1555,10 @@ French Southern Territories,ATF,2012,0.0
 French Southern Territories,ATF,2013,0.0
 French Southern Territories,ATF,2014,0.0
 French Southern Territories,ATF,2015,0.0
-French Southern Territories,ATF,2016,0.0
+French Southern Territories,ATF,2016,0.0002
+French Southern Territories,ATF,2017,0.0002
+French Southern Territories,ATF,2018,0.0001
+French Southern Territories,ATF,2019,0.0003
 Gabon,GAB,2000,0.0
 Gabon,GAB,2001,0.0
 Gabon,GAB,2002,0.0
@@ -1342,6 +1576,9 @@ Gabon,GAB,2013,0.0
 Gabon,GAB,2014,0.0
 Gabon,GAB,2015,0.0
 Gabon,GAB,2016,0.0
+Gabon,GAB,2017,0.0
+Gabon,GAB,2018,0.0
+Gabon,GAB,2019,0.0
 Gambia,GMB,2000,0.0
 Gambia,GMB,2001,0.0
 Gambia,GMB,2002,0.0
@@ -1359,6 +1596,9 @@ Gambia,GMB,2013,0.0
 Gambia,GMB,2014,0.0
 Gambia,GMB,2015,0.0
 Gambia,GMB,2016,0.0
+Gambia,GMB,2017,0.0
+Gambia,GMB,2018,0.0
+Gambia,GMB,2019,0.0
 Georgia,GEO,2000,0.0
 Georgia,GEO,2001,0.0
 Georgia,GEO,2002,0.0
@@ -1376,6 +1616,9 @@ Georgia,GEO,2013,0.0
 Georgia,GEO,2014,0.0
 Georgia,GEO,2015,0.0
 Georgia,GEO,2016,0.0
+Georgia,GEO,2017,0.0
+Georgia,GEO,2018,0.0
+Georgia,GEO,2019,0.0
 Germany,DEU,2000,0.0
 Germany,DEU,2001,0.0
 Germany,DEU,2002,0.0
@@ -1393,6 +1636,9 @@ Germany,DEU,2013,0.0
 Germany,DEU,2014,0.0
 Germany,DEU,2015,0.0
 Germany,DEU,2016,0.0
+Germany,DEU,2017,0.0
+Germany,DEU,2018,0.0
+Germany,DEU,2019,0.0
 Ghana,GHA,2000,0.0
 Ghana,GHA,2001,0.0
 Ghana,GHA,2002,0.0
@@ -1410,6 +1656,9 @@ Ghana,GHA,2013,0.0
 Ghana,GHA,2014,0.0
 Ghana,GHA,2015,0.0
 Ghana,GHA,2016,0.0
+Ghana,GHA,2017,0.0
+Ghana,GHA,2018,0.0
+Ghana,GHA,2019,0.0
 Gibraltar,GIB,2000,0.0
 Gibraltar,GIB,2001,0.0
 Gibraltar,GIB,2002,0.0
@@ -1422,11 +1671,14 @@ Gibraltar,GIB,2008,0.0
 Gibraltar,GIB,2009,0.0
 Gibraltar,GIB,2010,0.0
 Gibraltar,GIB,2011,0.0
-Gibraltar,GIB,2012,0.0
-Gibraltar,GIB,2013,0.0
-Gibraltar,GIB,2014,0.0
-Gibraltar,GIB,2015,7.666840913051054e-05
-Gibraltar,GIB,2016,0.00013020208734504238
+Gibraltar,GIB,2012,1.954881338702741e-05
+Gibraltar,GIB,2013,1.9755818088427045e-05
+Gibraltar,GIB,2014,2.005716291430577e-05
+Gibraltar,GIB,2015,2.0685945968309133e-05
+Gibraltar,GIB,2016,0.0004793619386620703
+Gibraltar,GIB,2017,0.00043135764684133234
+Gibraltar,GIB,2018,0.00031883010606414866
+Gibraltar,GIB,2019,0.00084957198778337
 Greece,GRC,2000,0.0
 Greece,GRC,2001,0.0
 Greece,GRC,2002,0.0
@@ -1444,12 +1696,15 @@ Greece,GRC,2013,0.0
 Greece,GRC,2014,0.0
 Greece,GRC,2015,0.0
 Greece,GRC,2016,0.0
-Greenland,GRL,2000,0.00036002468740713655
-Greenland,GRL,2001,0.000369227444105569
-Greenland,GRL,2002,0.0003213952190945145
-Greenland,GRL,2003,0.00027125247749066803
-Greenland,GRL,2004,0.00022795533307662692
-Greenland,GRL,2005,0.00019747549870526146
+Greece,GRC,2017,0.0
+Greece,GRC,2018,0.0
+Greece,GRC,2019,0.0
+Greenland,GRL,2000,0.0006663035488596161
+Greenland,GRL,2001,0.0006832650068326501
+Greenland,GRL,2002,0.0005968972604668188
+Greenland,GRL,2003,0.0005111642928506703
+Greenland,GRL,2004,0.00044422033328530945
+Greenland,GRL,2005,0.0004549165259333578
 Greenland,GRL,2006,0.0
 Greenland,GRL,2007,0.0
 Greenland,GRL,2008,0.0
@@ -1461,12 +1716,15 @@ Greenland,GRL,2013,0.0
 Greenland,GRL,2014,0.0
 Greenland,GRL,2015,0.0
 Greenland,GRL,2016,0.0
-Grenada,GRD,2000,0.00036002468740713655
-Grenada,GRD,2001,0.000369227444105569
-Grenada,GRD,2002,0.0003213952190945145
-Grenada,GRD,2003,0.00027125247749066803
-Grenada,GRD,2004,0.00022795533307662692
-Grenada,GRD,2005,0.00019747549870526146
+Greenland,GRL,2017,0.0
+Greenland,GRL,2018,0.0
+Greenland,GRL,2019,0.0
+Grenada,GRD,2000,0.0006663035488596161
+Grenada,GRD,2001,0.0006832650068326501
+Grenada,GRD,2002,0.0005968972604668188
+Grenada,GRD,2003,0.0005111642928506703
+Grenada,GRD,2004,0.00044422033328530945
+Grenada,GRD,2005,0.0004549165259333578
 Grenada,GRD,2006,0.0
 Grenada,GRD,2007,0.0
 Grenada,GRD,2008,0.0
@@ -1478,12 +1736,15 @@ Grenada,GRD,2013,0.0
 Grenada,GRD,2014,0.0
 Grenada,GRD,2015,0.0
 Grenada,GRD,2016,0.0
-Guadeloupe,GLP,2000,0.00036002468740713655
-Guadeloupe,GLP,2001,0.000369227444105569
-Guadeloupe,GLP,2002,0.0003213952190945145
-Guadeloupe,GLP,2003,0.00027125247749066803
-Guadeloupe,GLP,2004,0.00022795533307662692
-Guadeloupe,GLP,2005,0.00019747549870526146
+Grenada,GRD,2017,0.0
+Grenada,GRD,2018,0.0
+Grenada,GRD,2019,0.0
+Guadeloupe,GLP,2000,0.0006663035488596161
+Guadeloupe,GLP,2001,0.0006832650068326501
+Guadeloupe,GLP,2002,0.0005968972604668188
+Guadeloupe,GLP,2003,0.0005111642928506703
+Guadeloupe,GLP,2004,0.00044422033328530945
+Guadeloupe,GLP,2005,0.0004549165259333578
 Guadeloupe,GLP,2006,0.0
 Guadeloupe,GLP,2007,0.0
 Guadeloupe,GLP,2008,0.0
@@ -1495,6 +1756,9 @@ Guadeloupe,GLP,2013,0.0
 Guadeloupe,GLP,2014,0.0
 Guadeloupe,GLP,2015,0.0
 Guadeloupe,GLP,2016,0.0
+Guadeloupe,GLP,2017,0.0
+Guadeloupe,GLP,2018,0.0
+Guadeloupe,GLP,2019,0.0
 Guam,GUM,2000,0.0
 Guam,GUM,2001,0.0
 Guam,GUM,2002,0.0
@@ -1512,12 +1776,15 @@ Guam,GUM,2013,0.0
 Guam,GUM,2014,0.0
 Guam,GUM,2015,0.0
 Guam,GUM,2016,0.0
-Guatemala,GTM,2000,0.00036002468740713655
-Guatemala,GTM,2001,0.000369227444105569
-Guatemala,GTM,2002,0.0003213952190945145
-Guatemala,GTM,2003,0.00027125247749066803
-Guatemala,GTM,2004,0.00022795533307662692
-Guatemala,GTM,2005,0.00019747549870526146
+Guam,GUM,2017,0.0
+Guam,GUM,2018,0.0
+Guam,GUM,2019,0.0
+Guatemala,GTM,2000,0.0006663035488596161
+Guatemala,GTM,2001,0.0006832650068326501
+Guatemala,GTM,2002,0.0005968972604668188
+Guatemala,GTM,2003,0.0005111642928506703
+Guatemala,GTM,2004,0.00044422033328530945
+Guatemala,GTM,2005,0.0004549165259333578
 Guatemala,GTM,2006,0.0
 Guatemala,GTM,2007,0.0
 Guatemala,GTM,2008,0.0
@@ -1529,6 +1796,9 @@ Guatemala,GTM,2013,0.0
 Guatemala,GTM,2014,0.0
 Guatemala,GTM,2015,0.0
 Guatemala,GTM,2016,0.0
+Guatemala,GTM,2017,0.0
+Guatemala,GTM,2018,0.0
+Guatemala,GTM,2019,0.0
 Guernsey,GGY,2000,0.0
 Guernsey,GGY,2001,0.0
 Guernsey,GGY,2002,0.0
@@ -1541,11 +1811,14 @@ Guernsey,GGY,2008,0.0
 Guernsey,GGY,2009,0.0
 Guernsey,GGY,2010,0.0
 Guernsey,GGY,2011,0.0
-Guernsey,GGY,2012,0.0
-Guernsey,GGY,2013,0.0
-Guernsey,GGY,2014,0.0
-Guernsey,GGY,2015,7.666840913051054e-05
-Guernsey,GGY,2016,0.00013020208734504238
+Guernsey,GGY,2012,1.954881338702741e-05
+Guernsey,GGY,2013,1.9755818088427045e-05
+Guernsey,GGY,2014,2.005716291430577e-05
+Guernsey,GGY,2015,2.0685945968309133e-05
+Guernsey,GGY,2016,0.0004793619386620703
+Guernsey,GGY,2017,0.00043135764684133234
+Guernsey,GGY,2018,0.00031883010606414866
+Guernsey,GGY,2019,0.00084957198778337
 Guinea,GIN,2000,0.0
 Guinea,GIN,2001,0.0
 Guinea,GIN,2002,0.0
@@ -1563,6 +1836,9 @@ Guinea,GIN,2013,0.0
 Guinea,GIN,2014,0.0
 Guinea,GIN,2015,0.0
 Guinea,GIN,2016,0.0
+Guinea,GIN,2017,0.0
+Guinea,GIN,2018,0.0
+Guinea,GIN,2019,0.0
 Guinea-Bissau,GNB,2000,0.0
 Guinea-Bissau,GNB,2001,0.0
 Guinea-Bissau,GNB,2002,0.0
@@ -1580,12 +1856,15 @@ Guinea-Bissau,GNB,2013,0.0
 Guinea-Bissau,GNB,2014,0.0
 Guinea-Bissau,GNB,2015,0.0
 Guinea-Bissau,GNB,2016,0.0
-Guyana,GUY,2000,0.00036002468740713655
-Guyana,GUY,2001,0.000369227444105569
-Guyana,GUY,2002,0.0003213952190945145
-Guyana,GUY,2003,0.00027125247749066803
-Guyana,GUY,2004,0.00022795533307662692
-Guyana,GUY,2005,0.00019747549870526146
+Guinea-Bissau,GNB,2017,0.0
+Guinea-Bissau,GNB,2018,0.0
+Guinea-Bissau,GNB,2019,0.0
+Guyana,GUY,2000,0.0006663035488596161
+Guyana,GUY,2001,0.0006832650068326501
+Guyana,GUY,2002,0.0005968972604668188
+Guyana,GUY,2003,0.0005111642928506703
+Guyana,GUY,2004,0.00044422033328530945
+Guyana,GUY,2005,0.0004549165259333578
 Guyana,GUY,2006,0.0
 Guyana,GUY,2007,0.0
 Guyana,GUY,2008,0.0
@@ -1597,12 +1876,15 @@ Guyana,GUY,2013,0.0
 Guyana,GUY,2014,0.0
 Guyana,GUY,2015,0.0
 Guyana,GUY,2016,0.0
-Haiti,HTI,2000,0.00036002468740713655
-Haiti,HTI,2001,0.000369227444105569
-Haiti,HTI,2002,0.0003213952190945145
-Haiti,HTI,2003,0.00027125247749066803
-Haiti,HTI,2004,0.00022795533307662692
-Haiti,HTI,2005,0.00019747549870526146
+Guyana,GUY,2017,0.0
+Guyana,GUY,2018,0.0
+Guyana,GUY,2019,0.0
+Haiti,HTI,2000,0.0006663035488596161
+Haiti,HTI,2001,0.0006832650068326501
+Haiti,HTI,2002,0.0005968972604668188
+Haiti,HTI,2003,0.0005111642928506703
+Haiti,HTI,2004,0.00044422033328530945
+Haiti,HTI,2005,0.0004549165259333578
 Haiti,HTI,2006,0.0
 Haiti,HTI,2007,0.0
 Haiti,HTI,2008,0.0
@@ -1614,12 +1896,15 @@ Haiti,HTI,2013,0.0
 Haiti,HTI,2014,0.0
 Haiti,HTI,2015,0.0
 Haiti,HTI,2016,0.0
-Heard Island and McDonald Islands,HMD,2000,0.0002
-Heard Island and McDonald Islands,HMD,2001,0.0002
-Heard Island and McDonald Islands,HMD,2002,0.0002
-Heard Island and McDonald Islands,HMD,2003,0.0002
-Heard Island and McDonald Islands,HMD,2004,0.0001
-Heard Island and McDonald Islands,HMD,2005,0.0001
+Haiti,HTI,2017,0.0
+Haiti,HTI,2018,0.0
+Haiti,HTI,2019,0.0
+Heard Island and McDonald Islands,HMD,2000,0.0003
+Heard Island and McDonald Islands,HMD,2001,0.0004
+Heard Island and McDonald Islands,HMD,2002,0.0003
+Heard Island and McDonald Islands,HMD,2003,0.0003
+Heard Island and McDonald Islands,HMD,2004,0.0002
+Heard Island and McDonald Islands,HMD,2005,0.0002
 Heard Island and McDonald Islands,HMD,2006,0.0
 Heard Island and McDonald Islands,HMD,2007,0.0
 Heard Island and McDonald Islands,HMD,2008,0.0
@@ -1630,7 +1915,10 @@ Heard Island and McDonald Islands,HMD,2012,0.0
 Heard Island and McDonald Islands,HMD,2013,0.0
 Heard Island and McDonald Islands,HMD,2014,0.0
 Heard Island and McDonald Islands,HMD,2015,0.0
-Heard Island and McDonald Islands,HMD,2016,0.0
+Heard Island and McDonald Islands,HMD,2016,0.0002
+Heard Island and McDonald Islands,HMD,2017,0.0002
+Heard Island and McDonald Islands,HMD,2018,0.0001
+Heard Island and McDonald Islands,HMD,2019,0.0003
 Holy See (Vatican City State),VAT,2000,0.0
 Holy See (Vatican City State),VAT,2001,0.0
 Holy See (Vatican City State),VAT,2002,0.0
@@ -1643,17 +1931,20 @@ Holy See (Vatican City State),VAT,2008,0.0
 Holy See (Vatican City State),VAT,2009,0.0
 Holy See (Vatican City State),VAT,2010,0.0
 Holy See (Vatican City State),VAT,2011,0.0
-Holy See (Vatican City State),VAT,2012,0.0
-Holy See (Vatican City State),VAT,2013,0.0
-Holy See (Vatican City State),VAT,2014,0.0
-Holy See (Vatican City State),VAT,2015,7.666840913051054e-05
-Holy See (Vatican City State),VAT,2016,0.00013020208734504238
-Honduras,HND,2000,0.00036002468740713655
-Honduras,HND,2001,0.000369227444105569
-Honduras,HND,2002,0.0003213952190945145
-Honduras,HND,2003,0.00027125247749066803
-Honduras,HND,2004,0.00022795533307662692
-Honduras,HND,2005,0.00019747549870526146
+Holy See (Vatican City State),VAT,2012,1.954881338702741e-05
+Holy See (Vatican City State),VAT,2013,1.9755818088427045e-05
+Holy See (Vatican City State),VAT,2014,2.005716291430577e-05
+Holy See (Vatican City State),VAT,2015,2.0685945968309133e-05
+Holy See (Vatican City State),VAT,2016,0.0004793619386620703
+Holy See (Vatican City State),VAT,2017,0.00043135764684133234
+Holy See (Vatican City State),VAT,2018,0.00031883010606414866
+Holy See (Vatican City State),VAT,2019,0.00084957198778337
+Honduras,HND,2000,0.0006663035488596161
+Honduras,HND,2001,0.0006832650068326501
+Honduras,HND,2002,0.0005968972604668188
+Honduras,HND,2003,0.0005111642928506703
+Honduras,HND,2004,0.00044422033328530945
+Honduras,HND,2005,0.0004549165259333578
 Honduras,HND,2006,0.0
 Honduras,HND,2007,0.0
 Honduras,HND,2008,0.0
@@ -1665,6 +1956,9 @@ Honduras,HND,2013,0.0
 Honduras,HND,2014,0.0
 Honduras,HND,2015,0.0
 Honduras,HND,2016,0.0
+Honduras,HND,2017,0.0
+Honduras,HND,2018,0.0
+Honduras,HND,2019,0.0
 Hong Kong,HKG,2000,0.0
 Hong Kong,HKG,2001,0.0
 Hong Kong,HKG,2002,0.0
@@ -1682,6 +1976,9 @@ Hong Kong,HKG,2013,0.0
 Hong Kong,HKG,2014,0.0
 Hong Kong,HKG,2015,0.0
 Hong Kong,HKG,2016,0.0
+Hong Kong,HKG,2017,0.0
+Hong Kong,HKG,2018,0.0
+Hong Kong,HKG,2019,0.0
 Hungary,HUN,2000,0.0
 Hungary,HUN,2001,0.0
 Hungary,HUN,2002,0.0
@@ -1699,6 +1996,9 @@ Hungary,HUN,2013,0.0
 Hungary,HUN,2014,0.0
 Hungary,HUN,2015,0.0
 Hungary,HUN,2016,0.0
+Hungary,HUN,2017,0.0
+Hungary,HUN,2018,0.0
+Hungary,HUN,2019,0.0
 Iceland,ISL,2000,0.0
 Iceland,ISL,2001,0.0
 Iceland,ISL,2002,0.0
@@ -1711,11 +2011,14 @@ Iceland,ISL,2008,0.0
 Iceland,ISL,2009,0.0
 Iceland,ISL,2010,0.0
 Iceland,ISL,2011,0.0
-Iceland,ISL,2012,0.0
-Iceland,ISL,2013,0.0
-Iceland,ISL,2014,0.0
-Iceland,ISL,2015,7.666840913051054e-05
-Iceland,ISL,2016,0.00013020208734504238
+Iceland,ISL,2012,1.954881338702741e-05
+Iceland,ISL,2013,1.9755818088427045e-05
+Iceland,ISL,2014,2.005716291430577e-05
+Iceland,ISL,2015,2.0685945968309133e-05
+Iceland,ISL,2016,0.0004793619386620703
+Iceland,ISL,2017,0.00043135764684133234
+Iceland,ISL,2018,0.00031883010606414866
+Iceland,ISL,2019,0.00084957198778337
 India,IND,2000,0.0
 India,IND,2001,0.0
 India,IND,2002,0.0
@@ -1733,6 +2036,9 @@ India,IND,2013,0.0
 India,IND,2014,0.0
 India,IND,2015,0.0
 India,IND,2016,0.0
+India,IND,2017,0.0
+India,IND,2018,0.0
+India,IND,2019,0.0
 Indonesia,IDN,2000,0.0
 Indonesia,IDN,2001,0.0
 Indonesia,IDN,2002,0.0
@@ -1750,6 +2056,9 @@ Indonesia,IDN,2013,0.0
 Indonesia,IDN,2014,0.0
 Indonesia,IDN,2015,0.0
 Indonesia,IDN,2016,0.0
+Indonesia,IDN,2017,0.0
+Indonesia,IDN,2018,0.0
+Indonesia,IDN,2019,0.0
 "Iran, Islamic Republic of",IRN,2000,0.0
 "Iran, Islamic Republic of",IRN,2001,0.0
 "Iran, Islamic Republic of",IRN,2002,0.0
@@ -1767,6 +2076,9 @@ Indonesia,IDN,2016,0.0
 "Iran, Islamic Republic of",IRN,2014,0.0
 "Iran, Islamic Republic of",IRN,2015,0.0
 "Iran, Islamic Republic of",IRN,2016,0.0
+"Iran, Islamic Republic of",IRN,2017,0.0
+"Iran, Islamic Republic of",IRN,2018,0.0
+"Iran, Islamic Republic of",IRN,2019,0.0
 Iraq,IRQ,2000,0.0
 Iraq,IRQ,2001,0.0
 Iraq,IRQ,2002,0.0
@@ -1784,6 +2096,9 @@ Iraq,IRQ,2013,0.0
 Iraq,IRQ,2014,0.0
 Iraq,IRQ,2015,0.0
 Iraq,IRQ,2016,0.0
+Iraq,IRQ,2017,0.0
+Iraq,IRQ,2018,0.0
+Iraq,IRQ,2019,0.0
 Ireland,IRL,2000,0.0
 Ireland,IRL,2001,0.0
 Ireland,IRL,2002,0.0
@@ -1801,6 +2116,9 @@ Ireland,IRL,2013,0.0
 Ireland,IRL,2014,0.0
 Ireland,IRL,2015,0.0
 Ireland,IRL,2016,0.0
+Ireland,IRL,2017,0.0
+Ireland,IRL,2018,0.0
+Ireland,IRL,2019,0.0
 Isle of Man,IMN,2000,0.0
 Isle of Man,IMN,2001,0.0
 Isle of Man,IMN,2002,0.0
@@ -1813,11 +2131,14 @@ Isle of Man,IMN,2008,0.0
 Isle of Man,IMN,2009,0.0
 Isle of Man,IMN,2010,0.0
 Isle of Man,IMN,2011,0.0
-Isle of Man,IMN,2012,0.0
-Isle of Man,IMN,2013,0.0
-Isle of Man,IMN,2014,0.0
-Isle of Man,IMN,2015,7.666840913051054e-05
-Isle of Man,IMN,2016,0.00013020208734504238
+Isle of Man,IMN,2012,1.954881338702741e-05
+Isle of Man,IMN,2013,1.9755818088427045e-05
+Isle of Man,IMN,2014,2.005716291430577e-05
+Isle of Man,IMN,2015,2.0685945968309133e-05
+Isle of Man,IMN,2016,0.0004793619386620703
+Isle of Man,IMN,2017,0.00043135764684133234
+Isle of Man,IMN,2018,0.00031883010606414866
+Isle of Man,IMN,2019,0.00084957198778337
 Israel,ISR,2000,0.0
 Israel,ISR,2001,0.0
 Israel,ISR,2002,0.0
@@ -1835,6 +2156,9 @@ Israel,ISR,2013,0.0
 Israel,ISR,2014,0.0
 Israel,ISR,2015,0.0
 Israel,ISR,2016,0.0
+Israel,ISR,2017,0.0
+Israel,ISR,2018,0.0
+Israel,ISR,2019,0.0
 Italy,ITA,2000,0.0
 Italy,ITA,2001,0.0
 Italy,ITA,2002,0.0
@@ -1847,17 +2171,20 @@ Italy,ITA,2008,0.0
 Italy,ITA,2009,0.0
 Italy,ITA,2010,0.0
 Italy,ITA,2011,0.0
-Italy,ITA,2012,0.0
-Italy,ITA,2013,0.0
-Italy,ITA,2014,0.0
-Italy,ITA,2015,0.0
-Italy,ITA,2016,0.0
-Jamaica,JAM,2000,0.00036002468740713655
-Jamaica,JAM,2001,0.000369227444105569
-Jamaica,JAM,2002,0.0003213952190945145
-Jamaica,JAM,2003,0.00027125247749066803
-Jamaica,JAM,2004,0.00022795533307662692
-Jamaica,JAM,2005,0.00019747549870526146
+Italy,ITA,2012,0.00020275750202757505
+Italy,ITA,2013,0.00023646252069047056
+Italy,ITA,2014,0.00021290185224611451
+Italy,ITA,2015,0.00020136931131695533
+Italy,ITA,2016,0.0002064196511507896
+Italy,ITA,2017,0.0002089209234304816
+Italy,ITA,2018,0.00023177656738903696
+Italy,ITA,2019,0.0002321532211259432
+Jamaica,JAM,2000,0.0006663035488596161
+Jamaica,JAM,2001,0.0006832650068326501
+Jamaica,JAM,2002,0.0005968972604668188
+Jamaica,JAM,2003,0.0005111642928506703
+Jamaica,JAM,2004,0.00044422033328530945
+Jamaica,JAM,2005,0.0004549165259333578
 Jamaica,JAM,2006,0.0
 Jamaica,JAM,2007,0.0
 Jamaica,JAM,2008,0.0
@@ -1869,6 +2196,9 @@ Jamaica,JAM,2013,0.0
 Jamaica,JAM,2014,0.0
 Jamaica,JAM,2015,0.0
 Jamaica,JAM,2016,0.0
+Jamaica,JAM,2017,0.0
+Jamaica,JAM,2018,0.0
+Jamaica,JAM,2019,0.0
 Japan,JPN,2000,0.0
 Japan,JPN,2001,0.0
 Japan,JPN,2002,0.0
@@ -1886,6 +2216,9 @@ Japan,JPN,2013,0.0
 Japan,JPN,2014,0.0
 Japan,JPN,2015,0.0
 Japan,JPN,2016,0.0
+Japan,JPN,2017,0.0
+Japan,JPN,2018,0.0
+Japan,JPN,2019,0.0
 Jersey,JEY,2000,0.0
 Jersey,JEY,2001,0.0
 Jersey,JEY,2002,0.0
@@ -1898,11 +2231,14 @@ Jersey,JEY,2008,0.0
 Jersey,JEY,2009,0.0
 Jersey,JEY,2010,0.0
 Jersey,JEY,2011,0.0
-Jersey,JEY,2012,0.0
-Jersey,JEY,2013,0.0
-Jersey,JEY,2014,0.0
-Jersey,JEY,2015,7.666840913051054e-05
-Jersey,JEY,2016,0.00013020208734504238
+Jersey,JEY,2012,1.954881338702741e-05
+Jersey,JEY,2013,1.9755818088427045e-05
+Jersey,JEY,2014,2.005716291430577e-05
+Jersey,JEY,2015,2.0685945968309133e-05
+Jersey,JEY,2016,0.0004793619386620703
+Jersey,JEY,2017,0.00043135764684133234
+Jersey,JEY,2018,0.00031883010606414866
+Jersey,JEY,2019,0.00084957198778337
 Jordan,JOR,2000,0.0
 Jordan,JOR,2001,0.0
 Jordan,JOR,2002,0.0
@@ -1920,6 +2256,9 @@ Jordan,JOR,2013,0.0
 Jordan,JOR,2014,0.0
 Jordan,JOR,2015,0.0
 Jordan,JOR,2016,0.0
+Jordan,JOR,2017,0.0
+Jordan,JOR,2018,0.0
+Jordan,JOR,2019,0.0
 Kazakhstan,KAZ,2000,0.0
 Kazakhstan,KAZ,2001,0.0
 Kazakhstan,KAZ,2002,0.0
@@ -1937,6 +2276,9 @@ Kazakhstan,KAZ,2013,0.0
 Kazakhstan,KAZ,2014,0.0
 Kazakhstan,KAZ,2015,0.0
 Kazakhstan,KAZ,2016,0.0
+Kazakhstan,KAZ,2017,0.0
+Kazakhstan,KAZ,2018,0.0
+Kazakhstan,KAZ,2019,0.0
 Kenya,KEN,2000,0.0
 Kenya,KEN,2001,0.0
 Kenya,KEN,2002,0.0
@@ -1954,6 +2296,9 @@ Kenya,KEN,2013,0.0
 Kenya,KEN,2014,0.0
 Kenya,KEN,2015,0.0
 Kenya,KEN,2016,0.0
+Kenya,KEN,2017,0.0
+Kenya,KEN,2018,0.0
+Kenya,KEN,2019,0.0
 Kiribati,KIR,2000,0.0
 Kiribati,KIR,2001,0.0
 Kiribati,KIR,2002,0.0
@@ -1971,6 +2316,9 @@ Kiribati,KIR,2013,0.0
 Kiribati,KIR,2014,0.0
 Kiribati,KIR,2015,0.0
 Kiribati,KIR,2016,0.0
+Kiribati,KIR,2017,0.0
+Kiribati,KIR,2018,0.0
+Kiribati,KIR,2019,0.0
 "Korea, Democratic People's Republic of",PRK,2000,0.0
 "Korea, Democratic People's Republic of",PRK,2001,0.0
 "Korea, Democratic People's Republic of",PRK,2002,0.0
@@ -1988,6 +2336,9 @@ Kiribati,KIR,2016,0.0
 "Korea, Democratic People's Republic of",PRK,2014,0.0
 "Korea, Democratic People's Republic of",PRK,2015,0.0
 "Korea, Democratic People's Republic of",PRK,2016,0.0
+"Korea, Democratic People's Republic of",PRK,2017,0.0
+"Korea, Democratic People's Republic of",PRK,2018,0.0
+"Korea, Democratic People's Republic of",PRK,2019,0.0
 "Korea, Republic of",KOR,2000,0.0
 "Korea, Republic of",KOR,2001,0.0
 "Korea, Republic of",KOR,2002,0.0
@@ -2005,6 +2356,9 @@ Kiribati,KIR,2016,0.0
 "Korea, Republic of",KOR,2014,0.0
 "Korea, Republic of",KOR,2015,0.0
 "Korea, Republic of",KOR,2016,0.0
+"Korea, Republic of",KOR,2017,0.0
+"Korea, Republic of",KOR,2018,0.0
+"Korea, Republic of",KOR,2019,0.0
 Kuwait,KWT,2000,0.0
 Kuwait,KWT,2001,0.0
 Kuwait,KWT,2002,0.0
@@ -2022,6 +2376,9 @@ Kuwait,KWT,2013,0.0
 Kuwait,KWT,2014,0.0
 Kuwait,KWT,2015,0.0
 Kuwait,KWT,2016,0.0
+Kuwait,KWT,2017,0.0
+Kuwait,KWT,2018,0.0
+Kuwait,KWT,2019,0.0
 Kyrgyzstan,KGZ,2000,0.0
 Kyrgyzstan,KGZ,2001,0.0
 Kyrgyzstan,KGZ,2002,0.0
@@ -2039,6 +2396,9 @@ Kyrgyzstan,KGZ,2013,0.0
 Kyrgyzstan,KGZ,2014,0.0
 Kyrgyzstan,KGZ,2015,0.0
 Kyrgyzstan,KGZ,2016,0.0
+Kyrgyzstan,KGZ,2017,0.0
+Kyrgyzstan,KGZ,2018,0.0
+Kyrgyzstan,KGZ,2019,0.0
 Lao People's Democratic Republic,LAO,2000,0.0
 Lao People's Democratic Republic,LAO,2001,0.0
 Lao People's Democratic Republic,LAO,2002,0.0
@@ -2056,6 +2416,9 @@ Lao People's Democratic Republic,LAO,2013,0.0
 Lao People's Democratic Republic,LAO,2014,0.0
 Lao People's Democratic Republic,LAO,2015,0.0
 Lao People's Democratic Republic,LAO,2016,0.0
+Lao People's Democratic Republic,LAO,2017,0.0
+Lao People's Democratic Republic,LAO,2018,0.0
+Lao People's Democratic Republic,LAO,2019,0.0
 Latvia,LVA,2000,0.0
 Latvia,LVA,2001,0.0
 Latvia,LVA,2002,0.0
@@ -2071,8 +2434,11 @@ Latvia,LVA,2011,0.0
 Latvia,LVA,2012,0.0
 Latvia,LVA,2013,0.0
 Latvia,LVA,2014,0.0
-Latvia,LVA,2015,7.666840913051054e-05
-Latvia,LVA,2016,0.00013020208734504238
+Latvia,LVA,2015,0.0
+Latvia,LVA,2016,0.0
+Latvia,LVA,2017,0.0
+Latvia,LVA,2018,0.0
+Latvia,LVA,2019,0.0
 Lebanon,LBN,2000,0.0
 Lebanon,LBN,2001,0.0
 Lebanon,LBN,2002,0.0
@@ -2090,6 +2456,9 @@ Lebanon,LBN,2013,0.0
 Lebanon,LBN,2014,0.0
 Lebanon,LBN,2015,0.0
 Lebanon,LBN,2016,0.0
+Lebanon,LBN,2017,0.0
+Lebanon,LBN,2018,0.0
+Lebanon,LBN,2019,0.0
 Lesotho,LSO,2000,0.0
 Lesotho,LSO,2001,0.0
 Lesotho,LSO,2002,0.0
@@ -2107,6 +2476,9 @@ Lesotho,LSO,2013,0.0
 Lesotho,LSO,2014,0.0
 Lesotho,LSO,2015,0.0
 Lesotho,LSO,2016,0.0
+Lesotho,LSO,2017,0.0
+Lesotho,LSO,2018,0.0
+Lesotho,LSO,2019,0.0
 Liberia,LBR,2000,0.0
 Liberia,LBR,2001,0.0
 Liberia,LBR,2002,0.0
@@ -2124,6 +2496,9 @@ Liberia,LBR,2013,0.0
 Liberia,LBR,2014,0.0
 Liberia,LBR,2015,0.0
 Liberia,LBR,2016,0.0
+Liberia,LBR,2017,0.0
+Liberia,LBR,2018,0.0
+Liberia,LBR,2019,0.0
 Libyan Arab Jamahiriya,LBY,2000,0.0
 Libyan Arab Jamahiriya,LBY,2001,0.0
 Libyan Arab Jamahiriya,LBY,2002,0.0
@@ -2141,6 +2516,9 @@ Libyan Arab Jamahiriya,LBY,2013,0.0
 Libyan Arab Jamahiriya,LBY,2014,0.0
 Libyan Arab Jamahiriya,LBY,2015,0.0
 Libyan Arab Jamahiriya,LBY,2016,0.0
+Libyan Arab Jamahiriya,LBY,2017,0.0
+Libyan Arab Jamahiriya,LBY,2018,0.0
+Libyan Arab Jamahiriya,LBY,2019,0.0
 Liechtenstein,LIE,2000,0.0
 Liechtenstein,LIE,2001,0.0
 Liechtenstein,LIE,2002,0.0
@@ -2153,11 +2531,14 @@ Liechtenstein,LIE,2008,0.0
 Liechtenstein,LIE,2009,0.0
 Liechtenstein,LIE,2010,0.0
 Liechtenstein,LIE,2011,0.0
-Liechtenstein,LIE,2012,0.0
-Liechtenstein,LIE,2013,0.0
-Liechtenstein,LIE,2014,0.0
-Liechtenstein,LIE,2015,7.666840913051054e-05
-Liechtenstein,LIE,2016,0.00013020208734504238
+Liechtenstein,LIE,2012,1.954881338702741e-05
+Liechtenstein,LIE,2013,1.9755818088427045e-05
+Liechtenstein,LIE,2014,2.005716291430577e-05
+Liechtenstein,LIE,2015,2.0685945968309133e-05
+Liechtenstein,LIE,2016,0.0004793619386620703
+Liechtenstein,LIE,2017,0.00043135764684133234
+Liechtenstein,LIE,2018,0.00031883010606414866
+Liechtenstein,LIE,2019,0.00084957198778337
 Lithuania,LTU,2000,0.0
 Lithuania,LTU,2001,0.0
 Lithuania,LTU,2002,0.0
@@ -2173,8 +2554,11 @@ Lithuania,LTU,2011,0.0
 Lithuania,LTU,2012,0.0
 Lithuania,LTU,2013,0.0
 Lithuania,LTU,2014,0.0
-Lithuania,LTU,2015,7.666840913051054e-05
-Lithuania,LTU,2016,0.00013020208734504238
+Lithuania,LTU,2015,0.0
+Lithuania,LTU,2016,0.0
+Lithuania,LTU,2017,0.0
+Lithuania,LTU,2018,0.0
+Lithuania,LTU,2019,0.0
 Luxembourg,LUX,2000,0.0
 Luxembourg,LUX,2001,0.0
 Luxembourg,LUX,2002,0.0
@@ -2192,6 +2576,9 @@ Luxembourg,LUX,2013,0.0
 Luxembourg,LUX,2014,0.0
 Luxembourg,LUX,2015,0.0
 Luxembourg,LUX,2016,0.0
+Luxembourg,LUX,2017,0.0
+Luxembourg,LUX,2018,0.0
+Luxembourg,LUX,2019,0.0
 Macao,MAC,2000,0.0
 Macao,MAC,2001,0.0
 Macao,MAC,2002,0.0
@@ -2209,6 +2596,9 @@ Macao,MAC,2013,0.0
 Macao,MAC,2014,0.0
 Macao,MAC,2015,0.0
 Macao,MAC,2016,0.0
+Macao,MAC,2017,0.0
+Macao,MAC,2018,0.0
+Macao,MAC,2019,0.0
 "Macedonia, the Former Yugoslav Republic of",MKD,2000,0.0
 "Macedonia, the Former Yugoslav Republic of",MKD,2001,0.0
 "Macedonia, the Former Yugoslav Republic of",MKD,2002,0.0
@@ -2224,8 +2614,11 @@ Macao,MAC,2016,0.0
 "Macedonia, the Former Yugoslav Republic of",MKD,2012,0.0
 "Macedonia, the Former Yugoslav Republic of",MKD,2013,0.0
 "Macedonia, the Former Yugoslav Republic of",MKD,2014,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2015,7.666840913051054e-05
-"Macedonia, the Former Yugoslav Republic of",MKD,2016,0.00013020208734504238
+"Macedonia, the Former Yugoslav Republic of",MKD,2015,0.0
+"Macedonia, the Former Yugoslav Republic of",MKD,2016,0.0
+"Macedonia, the Former Yugoslav Republic of",MKD,2017,0.0
+"Macedonia, the Former Yugoslav Republic of",MKD,2018,0.0
+"Macedonia, the Former Yugoslav Republic of",MKD,2019,0.0
 Madagascar,MDG,2000,0.0
 Madagascar,MDG,2001,0.0
 Madagascar,MDG,2002,0.0
@@ -2243,6 +2636,9 @@ Madagascar,MDG,2013,0.0
 Madagascar,MDG,2014,0.0
 Madagascar,MDG,2015,0.0
 Madagascar,MDG,2016,0.0
+Madagascar,MDG,2017,0.0
+Madagascar,MDG,2018,0.0
+Madagascar,MDG,2019,0.0
 Malawi,MWI,2000,0.0
 Malawi,MWI,2001,0.0
 Malawi,MWI,2002,0.0
@@ -2260,6 +2656,9 @@ Malawi,MWI,2013,0.0
 Malawi,MWI,2014,0.0
 Malawi,MWI,2015,0.0
 Malawi,MWI,2016,0.0
+Malawi,MWI,2017,0.0
+Malawi,MWI,2018,0.0
+Malawi,MWI,2019,0.0
 Malaysia,MYS,2000,0.0
 Malaysia,MYS,2001,0.0
 Malaysia,MYS,2002,0.0
@@ -2277,6 +2676,9 @@ Malaysia,MYS,2013,0.0
 Malaysia,MYS,2014,0.0
 Malaysia,MYS,2015,0.0
 Malaysia,MYS,2016,0.0
+Malaysia,MYS,2017,0.0
+Malaysia,MYS,2018,0.0
+Malaysia,MYS,2019,0.0
 Maldives,MDV,2000,0.0
 Maldives,MDV,2001,0.0
 Maldives,MDV,2002,0.0
@@ -2294,6 +2696,9 @@ Maldives,MDV,2013,0.0
 Maldives,MDV,2014,0.0
 Maldives,MDV,2015,0.0
 Maldives,MDV,2016,0.0
+Maldives,MDV,2017,0.0
+Maldives,MDV,2018,0.0
+Maldives,MDV,2019,0.0
 Mali,MLI,2000,0.0
 Mali,MLI,2001,0.0
 Mali,MLI,2002,0.0
@@ -2311,6 +2716,9 @@ Mali,MLI,2013,0.0
 Mali,MLI,2014,0.0
 Mali,MLI,2015,0.0
 Mali,MLI,2016,0.0
+Mali,MLI,2017,0.0
+Mali,MLI,2018,0.0
+Mali,MLI,2019,0.0
 Malta,MLT,2000,0.0
 Malta,MLT,2001,0.0
 Malta,MLT,2002,0.0
@@ -2326,8 +2734,11 @@ Malta,MLT,2011,0.0
 Malta,MLT,2012,0.0
 Malta,MLT,2013,0.0
 Malta,MLT,2014,0.0
-Malta,MLT,2015,7.666840913051054e-05
-Malta,MLT,2016,0.00013020208734504238
+Malta,MLT,2015,0.0
+Malta,MLT,2016,0.0
+Malta,MLT,2017,0.0
+Malta,MLT,2018,0.0
+Malta,MLT,2019,0.0
 Marshall Islands,MHL,2000,0.0
 Marshall Islands,MHL,2001,0.0
 Marshall Islands,MHL,2002,0.0
@@ -2345,12 +2756,15 @@ Marshall Islands,MHL,2013,0.0
 Marshall Islands,MHL,2014,0.0
 Marshall Islands,MHL,2015,0.0
 Marshall Islands,MHL,2016,0.0
-Martinique,MTQ,2000,0.00036002468740713655
-Martinique,MTQ,2001,0.000369227444105569
-Martinique,MTQ,2002,0.0003213952190945145
-Martinique,MTQ,2003,0.00027125247749066803
-Martinique,MTQ,2004,0.00022795533307662692
-Martinique,MTQ,2005,0.00019747549870526146
+Marshall Islands,MHL,2017,0.0
+Marshall Islands,MHL,2018,0.0
+Marshall Islands,MHL,2019,0.0
+Martinique,MTQ,2000,0.0006663035488596161
+Martinique,MTQ,2001,0.0006832650068326501
+Martinique,MTQ,2002,0.0005968972604668188
+Martinique,MTQ,2003,0.0005111642928506703
+Martinique,MTQ,2004,0.00044422033328530945
+Martinique,MTQ,2005,0.0004549165259333578
 Martinique,MTQ,2006,0.0
 Martinique,MTQ,2007,0.0
 Martinique,MTQ,2008,0.0
@@ -2362,6 +2776,9 @@ Martinique,MTQ,2013,0.0
 Martinique,MTQ,2014,0.0
 Martinique,MTQ,2015,0.0
 Martinique,MTQ,2016,0.0
+Martinique,MTQ,2017,0.0
+Martinique,MTQ,2018,0.0
+Martinique,MTQ,2019,0.0
 Mauritania,MRT,2000,0.0
 Mauritania,MRT,2001,0.0
 Mauritania,MRT,2002,0.0
@@ -2379,6 +2796,9 @@ Mauritania,MRT,2013,0.0
 Mauritania,MRT,2014,0.0
 Mauritania,MRT,2015,0.0
 Mauritania,MRT,2016,0.0
+Mauritania,MRT,2017,0.0
+Mauritania,MRT,2018,0.0
+Mauritania,MRT,2019,0.0
 Mauritius,MUS,2000,0.0
 Mauritius,MUS,2001,0.0
 Mauritius,MUS,2002,0.0
@@ -2396,6 +2816,9 @@ Mauritius,MUS,2013,0.0
 Mauritius,MUS,2014,0.0
 Mauritius,MUS,2015,0.0
 Mauritius,MUS,2016,0.0
+Mauritius,MUS,2017,0.0
+Mauritius,MUS,2018,0.0
+Mauritius,MUS,2019,0.0
 Mayotte,MYT,2000,0.0
 Mayotte,MYT,2001,0.0
 Mayotte,MYT,2002,0.0
@@ -2413,6 +2836,9 @@ Mayotte,MYT,2013,0.0
 Mayotte,MYT,2014,0.0
 Mayotte,MYT,2015,0.0
 Mayotte,MYT,2016,0.0
+Mayotte,MYT,2017,0.0
+Mayotte,MYT,2018,0.0
+Mayotte,MYT,2019,0.0
 Mexico,MEX,2000,0.0
 Mexico,MEX,2001,0.0
 Mexico,MEX,2002,0.0
@@ -2430,6 +2856,9 @@ Mexico,MEX,2013,0.0
 Mexico,MEX,2014,0.0
 Mexico,MEX,2015,0.0
 Mexico,MEX,2016,0.0
+Mexico,MEX,2017,0.0
+Mexico,MEX,2018,0.0
+Mexico,MEX,2019,0.0
 "Micronesia, Federated States of",FSM,2000,0.0
 "Micronesia, Federated States of",FSM,2001,0.0
 "Micronesia, Federated States of",FSM,2002,0.0
@@ -2447,6 +2876,9 @@ Mexico,MEX,2016,0.0
 "Micronesia, Federated States of",FSM,2014,0.0
 "Micronesia, Federated States of",FSM,2015,0.0
 "Micronesia, Federated States of",FSM,2016,0.0
+"Micronesia, Federated States of",FSM,2017,0.0
+"Micronesia, Federated States of",FSM,2018,0.0
+"Micronesia, Federated States of",FSM,2019,0.0
 "Moldova, Republic of",MDA,2000,0.0
 "Moldova, Republic of",MDA,2001,0.0
 "Moldova, Republic of",MDA,2002,0.0
@@ -2464,6 +2896,9 @@ Mexico,MEX,2016,0.0
 "Moldova, Republic of",MDA,2014,0.0
 "Moldova, Republic of",MDA,2015,0.0
 "Moldova, Republic of",MDA,2016,0.0
+"Moldova, Republic of",MDA,2017,0.0
+"Moldova, Republic of",MDA,2018,0.0
+"Moldova, Republic of",MDA,2019,0.0
 Monaco,MCO,2000,0.0
 Monaco,MCO,2001,0.0
 Monaco,MCO,2002,0.0
@@ -2476,11 +2911,14 @@ Monaco,MCO,2008,0.0
 Monaco,MCO,2009,0.0
 Monaco,MCO,2010,0.0
 Monaco,MCO,2011,0.0
-Monaco,MCO,2012,0.0
-Monaco,MCO,2013,0.0
-Monaco,MCO,2014,0.0
-Monaco,MCO,2015,7.666840913051054e-05
-Monaco,MCO,2016,0.00013020208734504238
+Monaco,MCO,2012,1.954881338702741e-05
+Monaco,MCO,2013,1.9755818088427045e-05
+Monaco,MCO,2014,2.005716291430577e-05
+Monaco,MCO,2015,2.0685945968309133e-05
+Monaco,MCO,2016,0.0004793619386620703
+Monaco,MCO,2017,0.00043135764684133234
+Monaco,MCO,2018,0.00031883010606414866
+Monaco,MCO,2019,0.00084957198778337
 Mongolia,MNG,2000,0.0
 Mongolia,MNG,2001,0.0
 Mongolia,MNG,2002,0.0
@@ -2498,6 +2936,9 @@ Mongolia,MNG,2013,0.0
 Mongolia,MNG,2014,0.0
 Mongolia,MNG,2015,0.0
 Mongolia,MNG,2016,0.0
+Mongolia,MNG,2017,0.0
+Mongolia,MNG,2018,0.0
+Mongolia,MNG,2019,0.0
 Montenegro,MNE,2000,0.0
 Montenegro,MNE,2001,0.0
 Montenegro,MNE,2002,0.0
@@ -2510,17 +2951,20 @@ Montenegro,MNE,2008,0.0
 Montenegro,MNE,2009,0.0
 Montenegro,MNE,2010,0.0
 Montenegro,MNE,2011,0.0
-Montenegro,MNE,2012,0.0
-Montenegro,MNE,2013,0.0
-Montenegro,MNE,2014,0.0
-Montenegro,MNE,2015,7.666840913051054e-05
-Montenegro,MNE,2016,0.00013020208734504238
-Montserrat,MSR,2000,0.00036002468740713655
-Montserrat,MSR,2001,0.000369227444105569
-Montserrat,MSR,2002,0.0003213952190945145
-Montserrat,MSR,2003,0.00027125247749066803
-Montserrat,MSR,2004,0.00022795533307662692
-Montserrat,MSR,2005,0.00019747549870526146
+Montenegro,MNE,2012,1.954881338702741e-05
+Montenegro,MNE,2013,1.9755818088427045e-05
+Montenegro,MNE,2014,2.005716291430577e-05
+Montenegro,MNE,2015,2.0685945968309133e-05
+Montenegro,MNE,2016,0.0004793619386620703
+Montenegro,MNE,2017,0.00043135764684133234
+Montenegro,MNE,2018,0.00031883010606414866
+Montenegro,MNE,2019,0.00084957198778337
+Montserrat,MSR,2000,0.0006663035488596161
+Montserrat,MSR,2001,0.0006832650068326501
+Montserrat,MSR,2002,0.0005968972604668188
+Montserrat,MSR,2003,0.0005111642928506703
+Montserrat,MSR,2004,0.00044422033328530945
+Montserrat,MSR,2005,0.0004549165259333578
 Montserrat,MSR,2006,0.0
 Montserrat,MSR,2007,0.0
 Montserrat,MSR,2008,0.0
@@ -2532,6 +2976,9 @@ Montserrat,MSR,2013,0.0
 Montserrat,MSR,2014,0.0
 Montserrat,MSR,2015,0.0
 Montserrat,MSR,2016,0.0
+Montserrat,MSR,2017,0.0
+Montserrat,MSR,2018,0.0
+Montserrat,MSR,2019,0.0
 Morocco,MAR,2000,0.0
 Morocco,MAR,2001,0.0
 Morocco,MAR,2002,0.0
@@ -2549,6 +2996,9 @@ Morocco,MAR,2013,0.0
 Morocco,MAR,2014,0.0
 Morocco,MAR,2015,0.0
 Morocco,MAR,2016,0.0
+Morocco,MAR,2017,0.0
+Morocco,MAR,2018,0.0
+Morocco,MAR,2019,0.0
 Mozambique,MOZ,2000,0.0
 Mozambique,MOZ,2001,0.0
 Mozambique,MOZ,2002,0.0
@@ -2566,6 +3016,9 @@ Mozambique,MOZ,2013,0.0
 Mozambique,MOZ,2014,0.0
 Mozambique,MOZ,2015,0.0
 Mozambique,MOZ,2016,0.0
+Mozambique,MOZ,2017,0.0
+Mozambique,MOZ,2018,0.0
+Mozambique,MOZ,2019,0.0
 Myanmar,MMR,2000,0.0
 Myanmar,MMR,2001,0.0
 Myanmar,MMR,2002,0.0
@@ -2583,6 +3036,9 @@ Myanmar,MMR,2013,0.0
 Myanmar,MMR,2014,0.0
 Myanmar,MMR,2015,0.0
 Myanmar,MMR,2016,0.0
+Myanmar,MMR,2017,0.0
+Myanmar,MMR,2018,0.0
+Myanmar,MMR,2019,0.0
 Namibia,NAM,2000,0.0
 Namibia,NAM,2001,0.0
 Namibia,NAM,2002,0.0
@@ -2600,6 +3056,9 @@ Namibia,NAM,2013,0.0
 Namibia,NAM,2014,0.0
 Namibia,NAM,2015,0.0
 Namibia,NAM,2016,0.0
+Namibia,NAM,2017,0.0
+Namibia,NAM,2018,0.0
+Namibia,NAM,2019,0.0
 Nauru,NRU,2000,0.0
 Nauru,NRU,2001,0.0
 Nauru,NRU,2002,0.0
@@ -2617,6 +3076,9 @@ Nauru,NRU,2013,0.0
 Nauru,NRU,2014,0.0
 Nauru,NRU,2015,0.0
 Nauru,NRU,2016,0.0
+Nauru,NRU,2017,0.0
+Nauru,NRU,2018,0.0
+Nauru,NRU,2019,0.0
 Nepal,NPL,2000,0.0
 Nepal,NPL,2001,0.0
 Nepal,NPL,2002,0.0
@@ -2634,6 +3096,9 @@ Nepal,NPL,2013,0.0
 Nepal,NPL,2014,0.0
 Nepal,NPL,2015,0.0
 Nepal,NPL,2016,0.0
+Nepal,NPL,2017,0.0
+Nepal,NPL,2018,0.0
+Nepal,NPL,2019,0.0
 Netherlands,NLD,2000,0.0
 Netherlands,NLD,2001,0.0
 Netherlands,NLD,2002,0.0
@@ -2651,6 +3116,9 @@ Netherlands,NLD,2013,0.0
 Netherlands,NLD,2014,0.0
 Netherlands,NLD,2015,0.0
 Netherlands,NLD,2016,0.0
+Netherlands,NLD,2017,0.0
+Netherlands,NLD,2018,0.0
+Netherlands,NLD,2019,0.0
 New Caledonia,NCL,2000,0.0
 New Caledonia,NCL,2001,0.0
 New Caledonia,NCL,2002,0.0
@@ -2668,6 +3136,9 @@ New Caledonia,NCL,2013,0.0
 New Caledonia,NCL,2014,0.0
 New Caledonia,NCL,2015,0.0
 New Caledonia,NCL,2016,0.0
+New Caledonia,NCL,2017,0.0
+New Caledonia,NCL,2018,0.0
+New Caledonia,NCL,2019,0.0
 New Zealand,NZL,2000,0.0
 New Zealand,NZL,2001,0.0
 New Zealand,NZL,2002,0.0
@@ -2685,12 +3156,15 @@ New Zealand,NZL,2013,0.0
 New Zealand,NZL,2014,0.0
 New Zealand,NZL,2015,0.0
 New Zealand,NZL,2016,0.0
-Nicaragua,NIC,2000,0.00036002468740713655
-Nicaragua,NIC,2001,0.000369227444105569
-Nicaragua,NIC,2002,0.0003213952190945145
-Nicaragua,NIC,2003,0.00027125247749066803
-Nicaragua,NIC,2004,0.00022795533307662692
-Nicaragua,NIC,2005,0.00019747549870526146
+New Zealand,NZL,2017,0.0
+New Zealand,NZL,2018,0.0
+New Zealand,NZL,2019,0.0
+Nicaragua,NIC,2000,0.0006663035488596161
+Nicaragua,NIC,2001,0.0006832650068326501
+Nicaragua,NIC,2002,0.0005968972604668188
+Nicaragua,NIC,2003,0.0005111642928506703
+Nicaragua,NIC,2004,0.00044422033328530945
+Nicaragua,NIC,2005,0.0004549165259333578
 Nicaragua,NIC,2006,0.0
 Nicaragua,NIC,2007,0.0
 Nicaragua,NIC,2008,0.0
@@ -2702,6 +3176,9 @@ Nicaragua,NIC,2013,0.0
 Nicaragua,NIC,2014,0.0
 Nicaragua,NIC,2015,0.0
 Nicaragua,NIC,2016,0.0
+Nicaragua,NIC,2017,0.0
+Nicaragua,NIC,2018,0.0
+Nicaragua,NIC,2019,0.0
 Niger,NER,2000,0.0
 Niger,NER,2001,0.0
 Niger,NER,2002,0.0
@@ -2719,6 +3196,9 @@ Niger,NER,2013,0.0
 Niger,NER,2014,0.0
 Niger,NER,2015,0.0
 Niger,NER,2016,0.0
+Niger,NER,2017,0.0
+Niger,NER,2018,0.0
+Niger,NER,2019,0.0
 Nigeria,NGA,2000,0.0
 Nigeria,NGA,2001,0.0
 Nigeria,NGA,2002,0.0
@@ -2736,6 +3216,9 @@ Nigeria,NGA,2013,0.0
 Nigeria,NGA,2014,0.0
 Nigeria,NGA,2015,0.0
 Nigeria,NGA,2016,0.0
+Nigeria,NGA,2017,0.0
+Nigeria,NGA,2018,0.0
+Nigeria,NGA,2019,0.0
 Niue,NIU,2000,0.0
 Niue,NIU,2001,0.0
 Niue,NIU,2002,0.0
@@ -2753,6 +3236,9 @@ Niue,NIU,2013,0.0
 Niue,NIU,2014,0.0
 Niue,NIU,2015,0.0
 Niue,NIU,2016,0.0
+Niue,NIU,2017,0.0
+Niue,NIU,2018,0.0
+Niue,NIU,2019,0.0
 Norfolk Island,NFK,2000,0.0
 Norfolk Island,NFK,2001,0.0
 Norfolk Island,NFK,2002,0.0
@@ -2770,6 +3256,9 @@ Norfolk Island,NFK,2013,0.0
 Norfolk Island,NFK,2014,0.0
 Norfolk Island,NFK,2015,0.0
 Norfolk Island,NFK,2016,0.0
+Norfolk Island,NFK,2017,0.0
+Norfolk Island,NFK,2018,0.0
+Norfolk Island,NFK,2019,0.0
 Northern Mariana Islands,MNP,2000,0.0
 Northern Mariana Islands,MNP,2001,0.0
 Northern Mariana Islands,MNP,2002,0.0
@@ -2787,6 +3276,9 @@ Northern Mariana Islands,MNP,2013,0.0
 Northern Mariana Islands,MNP,2014,0.0
 Northern Mariana Islands,MNP,2015,0.0
 Northern Mariana Islands,MNP,2016,0.0
+Northern Mariana Islands,MNP,2017,0.0
+Northern Mariana Islands,MNP,2018,0.0
+Northern Mariana Islands,MNP,2019,0.0
 Norway,NOR,2000,0.0
 Norway,NOR,2001,0.0
 Norway,NOR,2002,0.0
@@ -2802,8 +3294,11 @@ Norway,NOR,2011,0.0
 Norway,NOR,2012,0.0
 Norway,NOR,2013,0.0
 Norway,NOR,2014,0.0
-Norway,NOR,2015,7.666840913051054e-05
-Norway,NOR,2016,0.00013020208734504238
+Norway,NOR,2015,0.0
+Norway,NOR,2016,0.0
+Norway,NOR,2017,0.0
+Norway,NOR,2018,0.0
+Norway,NOR,2019,0.0
 Oman,OMN,2000,0.0
 Oman,OMN,2001,0.0
 Oman,OMN,2002,0.0
@@ -2821,6 +3316,9 @@ Oman,OMN,2013,0.0
 Oman,OMN,2014,0.0
 Oman,OMN,2015,0.0
 Oman,OMN,2016,0.0
+Oman,OMN,2017,0.0
+Oman,OMN,2018,0.0
+Oman,OMN,2019,0.0
 Pakistan,PAK,2000,0.0
 Pakistan,PAK,2001,0.0
 Pakistan,PAK,2002,0.0
@@ -2838,6 +3336,9 @@ Pakistan,PAK,2013,0.0
 Pakistan,PAK,2014,0.0
 Pakistan,PAK,2015,0.0
 Pakistan,PAK,2016,0.0
+Pakistan,PAK,2017,0.0
+Pakistan,PAK,2018,0.0
+Pakistan,PAK,2019,0.0
 Palau,PLW,2000,0.0
 Palau,PLW,2001,0.0
 Palau,PLW,2002,0.0
@@ -2855,6 +3356,9 @@ Palau,PLW,2013,0.0
 Palau,PLW,2014,0.0
 Palau,PLW,2015,0.0
 Palau,PLW,2016,0.0
+Palau,PLW,2017,0.0
+Palau,PLW,2018,0.0
+Palau,PLW,2019,0.0
 "Palestinian Territory, Occupied",PSE,2000,0.0
 "Palestinian Territory, Occupied",PSE,2001,0.0
 "Palestinian Territory, Occupied",PSE,2002,0.0
@@ -2872,12 +3376,15 @@ Palau,PLW,2016,0.0
 "Palestinian Territory, Occupied",PSE,2014,0.0
 "Palestinian Territory, Occupied",PSE,2015,0.0
 "Palestinian Territory, Occupied",PSE,2016,0.0
-Panama,PAN,2000,0.00036002468740713655
-Panama,PAN,2001,0.000369227444105569
-Panama,PAN,2002,0.0003213952190945145
-Panama,PAN,2003,0.00027125247749066803
-Panama,PAN,2004,0.00022795533307662692
-Panama,PAN,2005,0.00019747549870526146
+"Palestinian Territory, Occupied",PSE,2017,0.0
+"Palestinian Territory, Occupied",PSE,2018,0.0
+"Palestinian Territory, Occupied",PSE,2019,0.0
+Panama,PAN,2000,0.0006663035488596161
+Panama,PAN,2001,0.0006832650068326501
+Panama,PAN,2002,0.0005968972604668188
+Panama,PAN,2003,0.0005111642928506703
+Panama,PAN,2004,0.00044422033328530945
+Panama,PAN,2005,0.0004549165259333578
 Panama,PAN,2006,0.0
 Panama,PAN,2007,0.0
 Panama,PAN,2008,0.0
@@ -2889,6 +3396,9 @@ Panama,PAN,2013,0.0
 Panama,PAN,2014,0.0
 Panama,PAN,2015,0.0
 Panama,PAN,2016,0.0
+Panama,PAN,2017,0.0
+Panama,PAN,2018,0.0
+Panama,PAN,2019,0.0
 Papua New Guinea,PNG,2000,0.0
 Papua New Guinea,PNG,2001,0.0
 Papua New Guinea,PNG,2002,0.0
@@ -2906,12 +3416,15 @@ Papua New Guinea,PNG,2013,0.0
 Papua New Guinea,PNG,2014,0.0
 Papua New Guinea,PNG,2015,0.0
 Papua New Guinea,PNG,2016,0.0
-Paraguay,PRY,2000,0.00036002468740713655
-Paraguay,PRY,2001,0.000369227444105569
-Paraguay,PRY,2002,0.0003213952190945145
-Paraguay,PRY,2003,0.00027125247749066803
-Paraguay,PRY,2004,0.00022795533307662692
-Paraguay,PRY,2005,0.00019747549870526146
+Papua New Guinea,PNG,2017,0.0
+Papua New Guinea,PNG,2018,0.0
+Papua New Guinea,PNG,2019,0.0
+Paraguay,PRY,2000,0.0006663035488596161
+Paraguay,PRY,2001,0.0006832650068326501
+Paraguay,PRY,2002,0.0005968972604668188
+Paraguay,PRY,2003,0.0005111642928506703
+Paraguay,PRY,2004,0.00044422033328530945
+Paraguay,PRY,2005,0.0004549165259333578
 Paraguay,PRY,2006,0.0
 Paraguay,PRY,2007,0.0
 Paraguay,PRY,2008,0.0
@@ -2923,12 +3436,15 @@ Paraguay,PRY,2013,0.0
 Paraguay,PRY,2014,0.0
 Paraguay,PRY,2015,0.0
 Paraguay,PRY,2016,0.0
-Peru,PER,2000,0.00036002468740713655
-Peru,PER,2001,0.000369227444105569
-Peru,PER,2002,0.0003213952190945145
-Peru,PER,2003,0.00027125247749066803
-Peru,PER,2004,0.00022795533307662692
-Peru,PER,2005,0.00019747549870526146
+Paraguay,PRY,2017,0.0
+Paraguay,PRY,2018,0.0
+Paraguay,PRY,2019,0.0
+Peru,PER,2000,0.0006663035488596161
+Peru,PER,2001,0.0006832650068326501
+Peru,PER,2002,0.0005968972604668188
+Peru,PER,2003,0.0005111642928506703
+Peru,PER,2004,0.00044422033328530945
+Peru,PER,2005,0.0004549165259333578
 Peru,PER,2006,0.0
 Peru,PER,2007,0.0
 Peru,PER,2008,0.0
@@ -2940,6 +3456,9 @@ Peru,PER,2013,0.0
 Peru,PER,2014,0.0
 Peru,PER,2015,0.0
 Peru,PER,2016,0.0
+Peru,PER,2017,0.0
+Peru,PER,2018,0.0
+Peru,PER,2019,0.0
 Philippines,PHL,2000,0.0
 Philippines,PHL,2001,0.0
 Philippines,PHL,2002,0.0
@@ -2957,6 +3476,9 @@ Philippines,PHL,2013,0.0
 Philippines,PHL,2014,0.0
 Philippines,PHL,2015,0.0
 Philippines,PHL,2016,0.0
+Philippines,PHL,2017,0.0
+Philippines,PHL,2018,0.0
+Philippines,PHL,2019,0.0
 Pitcairn,PCN,2000,0.0
 Pitcairn,PCN,2001,0.0
 Pitcairn,PCN,2002,0.0
@@ -2974,6 +3496,9 @@ Pitcairn,PCN,2013,0.0
 Pitcairn,PCN,2014,0.0
 Pitcairn,PCN,2015,0.0
 Pitcairn,PCN,2016,0.0
+Pitcairn,PCN,2017,0.0
+Pitcairn,PCN,2018,0.0
+Pitcairn,PCN,2019,0.0
 Poland,POL,2000,0.0
 Poland,POL,2001,0.0
 Poland,POL,2002,0.0
@@ -2989,8 +3514,11 @@ Poland,POL,2011,0.0
 Poland,POL,2012,0.0
 Poland,POL,2013,0.0
 Poland,POL,2014,0.0
-Poland,POL,2015,0.0016674245869334546
-Poland,POL,2016,0.002756419556071377
+Poland,POL,2015,0.0
+Poland,POL,2016,0.0
+Poland,POL,2017,0.0
+Poland,POL,2018,0.0
+Poland,POL,2019,0.0
 Portugal,PRT,2000,0.0
 Portugal,PRT,2001,0.0
 Portugal,PRT,2002,0.0
@@ -3008,12 +3536,15 @@ Portugal,PRT,2013,0.0
 Portugal,PRT,2014,0.0
 Portugal,PRT,2015,0.0
 Portugal,PRT,2016,0.0
-Puerto Rico,PRI,2000,0.00036002468740713655
-Puerto Rico,PRI,2001,0.000369227444105569
-Puerto Rico,PRI,2002,0.0003213952190945145
-Puerto Rico,PRI,2003,0.00027125247749066803
-Puerto Rico,PRI,2004,0.00022795533307662692
-Puerto Rico,PRI,2005,0.00019747549870526146
+Portugal,PRT,2017,0.0
+Portugal,PRT,2018,0.0
+Portugal,PRT,2019,0.0
+Puerto Rico,PRI,2000,0.0006663035488596161
+Puerto Rico,PRI,2001,0.0006832650068326501
+Puerto Rico,PRI,2002,0.0005968972604668188
+Puerto Rico,PRI,2003,0.0005111642928506703
+Puerto Rico,PRI,2004,0.00044422033328530945
+Puerto Rico,PRI,2005,0.0004549165259333578
 Puerto Rico,PRI,2006,0.0
 Puerto Rico,PRI,2007,0.0
 Puerto Rico,PRI,2008,0.0
@@ -3025,6 +3556,9 @@ Puerto Rico,PRI,2013,0.0
 Puerto Rico,PRI,2014,0.0
 Puerto Rico,PRI,2015,0.0
 Puerto Rico,PRI,2016,0.0
+Puerto Rico,PRI,2017,0.0
+Puerto Rico,PRI,2018,0.0
+Puerto Rico,PRI,2019,0.0
 Qatar,QAT,2000,0.0
 Qatar,QAT,2001,0.0
 Qatar,QAT,2002,0.0
@@ -3042,6 +3576,9 @@ Qatar,QAT,2013,0.0
 Qatar,QAT,2014,0.0
 Qatar,QAT,2015,0.0
 Qatar,QAT,2016,0.0
+Qatar,QAT,2017,0.0
+Qatar,QAT,2018,0.0
+Qatar,QAT,2019,0.0
 Romania,ROU,2000,0.0
 Romania,ROU,2001,0.0
 Romania,ROU,2002,0.0
@@ -3057,8 +3594,11 @@ Romania,ROU,2011,0.0
 Romania,ROU,2012,0.0
 Romania,ROU,2013,0.0
 Romania,ROU,2014,0.0
-Romania,ROU,2015,7.666840913051054e-05
-Romania,ROU,2016,0.00013020208734504238
+Romania,ROU,2015,0.0
+Romania,ROU,2016,0.0
+Romania,ROU,2017,0.0
+Romania,ROU,2018,0.0
+Romania,ROU,2019,0.0
 Russian Federation,RUS,2000,0.0
 Russian Federation,RUS,2001,0.0
 Russian Federation,RUS,2002,0.0
@@ -3071,11 +3611,14 @@ Russian Federation,RUS,2008,0.0
 Russian Federation,RUS,2009,0.0
 Russian Federation,RUS,2010,0.0
 Russian Federation,RUS,2011,0.0
-Russian Federation,RUS,2012,0.0
-Russian Federation,RUS,2013,0.0
-Russian Federation,RUS,2014,0.0
-Russian Federation,RUS,2015,7.666840913051054e-05
-Russian Federation,RUS,2016,0.00013020208734504238
+Russian Federation,RUS,2012,1.954881338702741e-05
+Russian Federation,RUS,2013,1.9755818088427045e-05
+Russian Federation,RUS,2014,2.005716291430577e-05
+Russian Federation,RUS,2015,2.0685945968309133e-05
+Russian Federation,RUS,2016,0.0004793619386620703
+Russian Federation,RUS,2017,0.00043135764684133234
+Russian Federation,RUS,2018,0.00031883010606414866
+Russian Federation,RUS,2019,0.00084957198778337
 Rwanda,RWA,2000,0.0
 Rwanda,RWA,2001,0.0
 Rwanda,RWA,2002,0.0
@@ -3093,6 +3636,9 @@ Rwanda,RWA,2013,0.0
 Rwanda,RWA,2014,0.0
 Rwanda,RWA,2015,0.0
 Rwanda,RWA,2016,0.0
+Rwanda,RWA,2017,0.0
+Rwanda,RWA,2018,0.0
+Rwanda,RWA,2019,0.0
 Réunion,REU,2000,0.0
 Réunion,REU,2001,0.0
 Réunion,REU,2002,0.0
@@ -3110,12 +3656,15 @@ Réunion,REU,2013,0.0
 Réunion,REU,2014,0.0
 Réunion,REU,2015,0.0
 Réunion,REU,2016,0.0
-Saint Barthélemy,BLM,2000,0.00036002468740713655
-Saint Barthélemy,BLM,2001,0.000369227444105569
-Saint Barthélemy,BLM,2002,0.0003213952190945145
-Saint Barthélemy,BLM,2003,0.00027125247749066803
-Saint Barthélemy,BLM,2004,0.00022795533307662692
-Saint Barthélemy,BLM,2005,0.00019747549870526146
+Réunion,REU,2017,0.0
+Réunion,REU,2018,0.0
+Réunion,REU,2019,0.0
+Saint Barthélemy,BLM,2000,0.0006663035488596161
+Saint Barthélemy,BLM,2001,0.0006832650068326501
+Saint Barthélemy,BLM,2002,0.0005968972604668188
+Saint Barthélemy,BLM,2003,0.0005111642928506703
+Saint Barthélemy,BLM,2004,0.00044422033328530945
+Saint Barthélemy,BLM,2005,0.0004549165259333578
 Saint Barthélemy,BLM,2006,0.0
 Saint Barthélemy,BLM,2007,0.0
 Saint Barthélemy,BLM,2008,0.0
@@ -3127,6 +3676,9 @@ Saint Barthélemy,BLM,2013,0.0
 Saint Barthélemy,BLM,2014,0.0
 Saint Barthélemy,BLM,2015,0.0
 Saint Barthélemy,BLM,2016,0.0
+Saint Barthélemy,BLM,2017,0.0
+Saint Barthélemy,BLM,2018,0.0
+Saint Barthélemy,BLM,2019,0.0
 Saint Helena,SHN,2000,0.0
 Saint Helena,SHN,2001,0.0
 Saint Helena,SHN,2002,0.0
@@ -3144,12 +3696,15 @@ Saint Helena,SHN,2013,0.0
 Saint Helena,SHN,2014,0.0
 Saint Helena,SHN,2015,0.0
 Saint Helena,SHN,2016,0.0
-Saint Kitts and Nevis,KNA,2000,0.00036002468740713655
-Saint Kitts and Nevis,KNA,2001,0.000369227444105569
-Saint Kitts and Nevis,KNA,2002,0.0003213952190945145
-Saint Kitts and Nevis,KNA,2003,0.00027125247749066803
-Saint Kitts and Nevis,KNA,2004,0.00022795533307662692
-Saint Kitts and Nevis,KNA,2005,0.00019747549870526146
+Saint Helena,SHN,2017,0.0
+Saint Helena,SHN,2018,0.0
+Saint Helena,SHN,2019,0.0
+Saint Kitts and Nevis,KNA,2000,0.0006663035488596161
+Saint Kitts and Nevis,KNA,2001,0.0006832650068326501
+Saint Kitts and Nevis,KNA,2002,0.0005968972604668188
+Saint Kitts and Nevis,KNA,2003,0.0005111642928506703
+Saint Kitts and Nevis,KNA,2004,0.00044422033328530945
+Saint Kitts and Nevis,KNA,2005,0.0004549165259333578
 Saint Kitts and Nevis,KNA,2006,0.0
 Saint Kitts and Nevis,KNA,2007,0.0
 Saint Kitts and Nevis,KNA,2008,0.0
@@ -3161,12 +3716,15 @@ Saint Kitts and Nevis,KNA,2013,0.0
 Saint Kitts and Nevis,KNA,2014,0.0
 Saint Kitts and Nevis,KNA,2015,0.0
 Saint Kitts and Nevis,KNA,2016,0.0
-Saint Lucia,LCA,2000,0.00036002468740713655
-Saint Lucia,LCA,2001,0.000369227444105569
-Saint Lucia,LCA,2002,0.0003213952190945145
-Saint Lucia,LCA,2003,0.00027125247749066803
-Saint Lucia,LCA,2004,0.00022795533307662692
-Saint Lucia,LCA,2005,0.00019747549870526146
+Saint Kitts and Nevis,KNA,2017,0.0
+Saint Kitts and Nevis,KNA,2018,0.0
+Saint Kitts and Nevis,KNA,2019,0.0
+Saint Lucia,LCA,2000,0.0006663035488596161
+Saint Lucia,LCA,2001,0.0006832650068326501
+Saint Lucia,LCA,2002,0.0005968972604668188
+Saint Lucia,LCA,2003,0.0005111642928506703
+Saint Lucia,LCA,2004,0.00044422033328530945
+Saint Lucia,LCA,2005,0.0004549165259333578
 Saint Lucia,LCA,2006,0.0
 Saint Lucia,LCA,2007,0.0
 Saint Lucia,LCA,2008,0.0
@@ -3178,12 +3736,15 @@ Saint Lucia,LCA,2013,0.0
 Saint Lucia,LCA,2014,0.0
 Saint Lucia,LCA,2015,0.0
 Saint Lucia,LCA,2016,0.0
-Saint Martin (French part),MAF,2000,0.00036002468740713655
-Saint Martin (French part),MAF,2001,0.000369227444105569
-Saint Martin (French part),MAF,2002,0.0003213952190945145
-Saint Martin (French part),MAF,2003,0.00027125247749066803
-Saint Martin (French part),MAF,2004,0.00022795533307662692
-Saint Martin (French part),MAF,2005,0.00019747549870526146
+Saint Lucia,LCA,2017,0.0
+Saint Lucia,LCA,2018,0.0
+Saint Lucia,LCA,2019,0.0
+Saint Martin (French part),MAF,2000,0.0006663035488596161
+Saint Martin (French part),MAF,2001,0.0006832650068326501
+Saint Martin (French part),MAF,2002,0.0005968972604668188
+Saint Martin (French part),MAF,2003,0.0005111642928506703
+Saint Martin (French part),MAF,2004,0.00044422033328530945
+Saint Martin (French part),MAF,2005,0.0004549165259333578
 Saint Martin (French part),MAF,2006,0.0
 Saint Martin (French part),MAF,2007,0.0
 Saint Martin (French part),MAF,2008,0.0
@@ -3195,12 +3756,15 @@ Saint Martin (French part),MAF,2013,0.0
 Saint Martin (French part),MAF,2014,0.0
 Saint Martin (French part),MAF,2015,0.0
 Saint Martin (French part),MAF,2016,0.0
-Saint Pierre and Miquelon,SPM,2000,0.00036002468740713655
-Saint Pierre and Miquelon,SPM,2001,0.000369227444105569
-Saint Pierre and Miquelon,SPM,2002,0.0003213952190945145
-Saint Pierre and Miquelon,SPM,2003,0.00027125247749066803
-Saint Pierre and Miquelon,SPM,2004,0.00022795533307662692
-Saint Pierre and Miquelon,SPM,2005,0.00019747549870526146
+Saint Martin (French part),MAF,2017,0.0
+Saint Martin (French part),MAF,2018,0.0
+Saint Martin (French part),MAF,2019,0.0
+Saint Pierre and Miquelon,SPM,2000,0.0006663035488596161
+Saint Pierre and Miquelon,SPM,2001,0.0006832650068326501
+Saint Pierre and Miquelon,SPM,2002,0.0005968972604668188
+Saint Pierre and Miquelon,SPM,2003,0.0005111642928506703
+Saint Pierre and Miquelon,SPM,2004,0.00044422033328530945
+Saint Pierre and Miquelon,SPM,2005,0.0004549165259333578
 Saint Pierre and Miquelon,SPM,2006,0.0
 Saint Pierre and Miquelon,SPM,2007,0.0
 Saint Pierre and Miquelon,SPM,2008,0.0
@@ -3212,12 +3776,15 @@ Saint Pierre and Miquelon,SPM,2013,0.0
 Saint Pierre and Miquelon,SPM,2014,0.0
 Saint Pierre and Miquelon,SPM,2015,0.0
 Saint Pierre and Miquelon,SPM,2016,0.0
-Saint Vincent and the Grenadines,VCT,2000,0.00036002468740713655
-Saint Vincent and the Grenadines,VCT,2001,0.000369227444105569
-Saint Vincent and the Grenadines,VCT,2002,0.0003213952190945145
-Saint Vincent and the Grenadines,VCT,2003,0.00027125247749066803
-Saint Vincent and the Grenadines,VCT,2004,0.00022795533307662692
-Saint Vincent and the Grenadines,VCT,2005,0.00019747549870526146
+Saint Pierre and Miquelon,SPM,2017,0.0
+Saint Pierre and Miquelon,SPM,2018,0.0
+Saint Pierre and Miquelon,SPM,2019,0.0
+Saint Vincent and the Grenadines,VCT,2000,0.0006663035488596161
+Saint Vincent and the Grenadines,VCT,2001,0.0006832650068326501
+Saint Vincent and the Grenadines,VCT,2002,0.0005968972604668188
+Saint Vincent and the Grenadines,VCT,2003,0.0005111642928506703
+Saint Vincent and the Grenadines,VCT,2004,0.00044422033328530945
+Saint Vincent and the Grenadines,VCT,2005,0.0004549165259333578
 Saint Vincent and the Grenadines,VCT,2006,0.0
 Saint Vincent and the Grenadines,VCT,2007,0.0
 Saint Vincent and the Grenadines,VCT,2008,0.0
@@ -3229,6 +3796,9 @@ Saint Vincent and the Grenadines,VCT,2013,0.0
 Saint Vincent and the Grenadines,VCT,2014,0.0
 Saint Vincent and the Grenadines,VCT,2015,0.0
 Saint Vincent and the Grenadines,VCT,2016,0.0
+Saint Vincent and the Grenadines,VCT,2017,0.0
+Saint Vincent and the Grenadines,VCT,2018,0.0
+Saint Vincent and the Grenadines,VCT,2019,0.0
 Samoa,WSM,2000,0.0
 Samoa,WSM,2001,0.0
 Samoa,WSM,2002,0.0
@@ -3246,6 +3816,9 @@ Samoa,WSM,2013,0.0
 Samoa,WSM,2014,0.0
 Samoa,WSM,2015,0.0
 Samoa,WSM,2016,0.0
+Samoa,WSM,2017,0.0
+Samoa,WSM,2018,0.0
+Samoa,WSM,2019,0.0
 San Marino,SMR,2000,0.0
 San Marino,SMR,2001,0.0
 San Marino,SMR,2002,0.0
@@ -3258,11 +3831,14 @@ San Marino,SMR,2008,0.0
 San Marino,SMR,2009,0.0
 San Marino,SMR,2010,0.0
 San Marino,SMR,2011,0.0
-San Marino,SMR,2012,0.0
-San Marino,SMR,2013,0.0
-San Marino,SMR,2014,0.0
-San Marino,SMR,2015,7.666840913051054e-05
-San Marino,SMR,2016,0.00013020208734504238
+San Marino,SMR,2012,1.954881338702741e-05
+San Marino,SMR,2013,1.9755818088427045e-05
+San Marino,SMR,2014,2.005716291430577e-05
+San Marino,SMR,2015,2.0685945968309133e-05
+San Marino,SMR,2016,0.0004793619386620703
+San Marino,SMR,2017,0.00043135764684133234
+San Marino,SMR,2018,0.00031883010606414866
+San Marino,SMR,2019,0.00084957198778337
 Sao Tome and Principe,STP,2000,0.0
 Sao Tome and Principe,STP,2001,0.0
 Sao Tome and Principe,STP,2002,0.0
@@ -3280,6 +3856,9 @@ Sao Tome and Principe,STP,2013,0.0
 Sao Tome and Principe,STP,2014,0.0
 Sao Tome and Principe,STP,2015,0.0
 Sao Tome and Principe,STP,2016,0.0
+Sao Tome and Principe,STP,2017,0.0
+Sao Tome and Principe,STP,2018,0.0
+Sao Tome and Principe,STP,2019,0.0
 Saudi Arabia,SAU,2000,0.0
 Saudi Arabia,SAU,2001,0.0
 Saudi Arabia,SAU,2002,0.0
@@ -3297,6 +3876,9 @@ Saudi Arabia,SAU,2013,0.0
 Saudi Arabia,SAU,2014,0.0
 Saudi Arabia,SAU,2015,0.0
 Saudi Arabia,SAU,2016,0.0
+Saudi Arabia,SAU,2017,0.0
+Saudi Arabia,SAU,2018,0.0
+Saudi Arabia,SAU,2019,0.0
 Senegal,SEN,2000,0.0
 Senegal,SEN,2001,0.0
 Senegal,SEN,2002,0.0
@@ -3314,6 +3896,9 @@ Senegal,SEN,2013,0.0
 Senegal,SEN,2014,0.0
 Senegal,SEN,2015,0.0
 Senegal,SEN,2016,0.0
+Senegal,SEN,2017,0.0
+Senegal,SEN,2018,0.0
+Senegal,SEN,2019,0.0
 Serbia,SRB,2000,0.0
 Serbia,SRB,2001,0.0
 Serbia,SRB,2002,0.0
@@ -3329,8 +3914,11 @@ Serbia,SRB,2011,0.0
 Serbia,SRB,2012,0.0
 Serbia,SRB,2013,0.0
 Serbia,SRB,2014,0.0
-Serbia,SRB,2015,7.666840913051054e-05
-Serbia,SRB,2016,0.00013020208734504238
+Serbia,SRB,2015,0.0
+Serbia,SRB,2016,0.0
+Serbia,SRB,2017,0.0
+Serbia,SRB,2018,0.0
+Serbia,SRB,2019,0.0
 Seychelles,SYC,2000,0.0
 Seychelles,SYC,2001,0.0
 Seychelles,SYC,2002,0.0
@@ -3348,6 +3936,9 @@ Seychelles,SYC,2013,0.0
 Seychelles,SYC,2014,0.0
 Seychelles,SYC,2015,0.0
 Seychelles,SYC,2016,0.0
+Seychelles,SYC,2017,0.0
+Seychelles,SYC,2018,0.0
+Seychelles,SYC,2019,0.0
 Sierra Leone,SLE,2000,0.0
 Sierra Leone,SLE,2001,0.0
 Sierra Leone,SLE,2002,0.0
@@ -3365,6 +3956,9 @@ Sierra Leone,SLE,2013,0.0
 Sierra Leone,SLE,2014,0.0
 Sierra Leone,SLE,2015,0.0
 Sierra Leone,SLE,2016,0.0
+Sierra Leone,SLE,2017,0.0
+Sierra Leone,SLE,2018,0.0
+Sierra Leone,SLE,2019,0.0
 Singapore,SGP,2000,0.0
 Singapore,SGP,2001,0.0
 Singapore,SGP,2002,0.0
@@ -3382,12 +3976,15 @@ Singapore,SGP,2013,0.0
 Singapore,SGP,2014,0.0
 Singapore,SGP,2015,0.0
 Singapore,SGP,2016,0.0
-Sint Maarten (Dutch part),SXM,2000,0.00036002468740713655
-Sint Maarten (Dutch part),SXM,2001,0.000369227444105569
-Sint Maarten (Dutch part),SXM,2002,0.0003213952190945145
-Sint Maarten (Dutch part),SXM,2003,0.00027125247749066803
-Sint Maarten (Dutch part),SXM,2004,0.00022795533307662692
-Sint Maarten (Dutch part),SXM,2005,0.00019747549870526146
+Singapore,SGP,2017,0.0
+Singapore,SGP,2018,0.0
+Singapore,SGP,2019,0.0
+Sint Maarten (Dutch part),SXM,2000,0.0006663035488596161
+Sint Maarten (Dutch part),SXM,2001,0.0006832650068326501
+Sint Maarten (Dutch part),SXM,2002,0.0005968972604668188
+Sint Maarten (Dutch part),SXM,2003,0.0005111642928506703
+Sint Maarten (Dutch part),SXM,2004,0.00044422033328530945
+Sint Maarten (Dutch part),SXM,2005,0.0004549165259333578
 Sint Maarten (Dutch part),SXM,2006,0.0
 Sint Maarten (Dutch part),SXM,2007,0.0
 Sint Maarten (Dutch part),SXM,2008,0.0
@@ -3399,6 +3996,9 @@ Sint Maarten (Dutch part),SXM,2013,0.0
 Sint Maarten (Dutch part),SXM,2014,0.0
 Sint Maarten (Dutch part),SXM,2015,0.0
 Sint Maarten (Dutch part),SXM,2016,0.0
+Sint Maarten (Dutch part),SXM,2017,0.0
+Sint Maarten (Dutch part),SXM,2018,0.0
+Sint Maarten (Dutch part),SXM,2019,0.0
 Slovakia,SVK,2000,0.0
 Slovakia,SVK,2001,0.0
 Slovakia,SVK,2002,0.0
@@ -3416,6 +4016,9 @@ Slovakia,SVK,2013,0.0
 Slovakia,SVK,2014,0.0
 Slovakia,SVK,2015,0.0
 Slovakia,SVK,2016,0.0
+Slovakia,SVK,2017,0.0
+Slovakia,SVK,2018,0.0
+Slovakia,SVK,2019,0.0
 Slovenia,SVN,2000,0.0
 Slovenia,SVN,2001,0.0
 Slovenia,SVN,2002,0.0
@@ -3431,8 +4034,11 @@ Slovenia,SVN,2011,0.0
 Slovenia,SVN,2012,0.0
 Slovenia,SVN,2013,0.0
 Slovenia,SVN,2014,0.0
-Slovenia,SVN,2015,7.666840913051054e-05
-Slovenia,SVN,2016,0.00013020208734504238
+Slovenia,SVN,2015,0.0
+Slovenia,SVN,2016,0.0
+Slovenia,SVN,2017,0.0
+Slovenia,SVN,2018,0.0
+Slovenia,SVN,2019,0.0
 Solomon Islands,SLB,2000,0.0
 Solomon Islands,SLB,2001,0.0
 Solomon Islands,SLB,2002,0.0
@@ -3450,6 +4056,9 @@ Solomon Islands,SLB,2013,0.0
 Solomon Islands,SLB,2014,0.0
 Solomon Islands,SLB,2015,0.0
 Solomon Islands,SLB,2016,0.0
+Solomon Islands,SLB,2017,0.0
+Solomon Islands,SLB,2018,0.0
+Solomon Islands,SLB,2019,0.0
 Somalia,SOM,2000,0.0
 Somalia,SOM,2001,0.0
 Somalia,SOM,2002,0.0
@@ -3467,6 +4076,9 @@ Somalia,SOM,2013,0.0
 Somalia,SOM,2014,0.0
 Somalia,SOM,2015,0.0
 Somalia,SOM,2016,0.0
+Somalia,SOM,2017,0.0
+Somalia,SOM,2018,0.0
+Somalia,SOM,2019,0.0
 South Africa,ZAF,2000,0.0
 South Africa,ZAF,2001,0.0
 South Africa,ZAF,2002,0.0
@@ -3484,12 +4096,15 @@ South Africa,ZAF,2013,0.0
 South Africa,ZAF,2014,0.0
 South Africa,ZAF,2015,0.0
 South Africa,ZAF,2016,0.0
-South Georgia and the South Sandwich Islands,SGS,2000,0.0002
-South Georgia and the South Sandwich Islands,SGS,2001,0.0002
-South Georgia and the South Sandwich Islands,SGS,2002,0.0002
-South Georgia and the South Sandwich Islands,SGS,2003,0.0002
-South Georgia and the South Sandwich Islands,SGS,2004,0.0001
-South Georgia and the South Sandwich Islands,SGS,2005,0.0001
+South Africa,ZAF,2017,0.0
+South Africa,ZAF,2018,0.0
+South Africa,ZAF,2019,0.0
+South Georgia and the South Sandwich Islands,SGS,2000,0.0003
+South Georgia and the South Sandwich Islands,SGS,2001,0.0004
+South Georgia and the South Sandwich Islands,SGS,2002,0.0003
+South Georgia and the South Sandwich Islands,SGS,2003,0.0003
+South Georgia and the South Sandwich Islands,SGS,2004,0.0002
+South Georgia and the South Sandwich Islands,SGS,2005,0.0002
 South Georgia and the South Sandwich Islands,SGS,2006,0.0
 South Georgia and the South Sandwich Islands,SGS,2007,0.0
 South Georgia and the South Sandwich Islands,SGS,2008,0.0
@@ -3500,7 +4115,10 @@ South Georgia and the South Sandwich Islands,SGS,2012,0.0
 South Georgia and the South Sandwich Islands,SGS,2013,0.0
 South Georgia and the South Sandwich Islands,SGS,2014,0.0
 South Georgia and the South Sandwich Islands,SGS,2015,0.0
-South Georgia and the South Sandwich Islands,SGS,2016,0.0
+South Georgia and the South Sandwich Islands,SGS,2016,0.0002
+South Georgia and the South Sandwich Islands,SGS,2017,0.0002
+South Georgia and the South Sandwich Islands,SGS,2018,0.0001
+South Georgia and the South Sandwich Islands,SGS,2019,0.0003
 South Sudan,SSD,2000,0.0
 South Sudan,SSD,2001,0.0
 South Sudan,SSD,2002,0.0
@@ -3518,6 +4136,9 @@ South Sudan,SSD,2013,0.0
 South Sudan,SSD,2014,0.0
 South Sudan,SSD,2015,0.0
 South Sudan,SSD,2016,0.0
+South Sudan,SSD,2017,0.0
+South Sudan,SSD,2018,0.0
+South Sudan,SSD,2019,0.0
 Spain,ESP,2000,0.0
 Spain,ESP,2001,0.0
 Spain,ESP,2002,0.0
@@ -3535,6 +4156,9 @@ Spain,ESP,2013,0.0
 Spain,ESP,2014,0.0
 Spain,ESP,2015,0.0
 Spain,ESP,2016,0.0
+Spain,ESP,2017,0.0
+Spain,ESP,2018,0.0
+Spain,ESP,2019,0.0
 Sri Lanka,LKA,2000,0.0
 Sri Lanka,LKA,2001,0.0
 Sri Lanka,LKA,2002,0.0
@@ -3552,6 +4176,9 @@ Sri Lanka,LKA,2013,0.0
 Sri Lanka,LKA,2014,0.0
 Sri Lanka,LKA,2015,0.0
 Sri Lanka,LKA,2016,0.0
+Sri Lanka,LKA,2017,0.0
+Sri Lanka,LKA,2018,0.0
+Sri Lanka,LKA,2019,0.0
 Sudan,SDN,2000,0.0
 Sudan,SDN,2001,0.0
 Sudan,SDN,2002,0.0
@@ -3569,12 +4196,15 @@ Sudan,SDN,2013,0.0
 Sudan,SDN,2014,0.0
 Sudan,SDN,2015,0.0
 Sudan,SDN,2016,0.0
-Suriname,SUR,2000,0.00036002468740713655
-Suriname,SUR,2001,0.000369227444105569
-Suriname,SUR,2002,0.0003213952190945145
-Suriname,SUR,2003,0.00027125247749066803
-Suriname,SUR,2004,0.00022795533307662692
-Suriname,SUR,2005,0.00019747549870526146
+Sudan,SDN,2017,0.0
+Sudan,SDN,2018,0.0
+Sudan,SDN,2019,0.0
+Suriname,SUR,2000,0.0006663035488596161
+Suriname,SUR,2001,0.0006832650068326501
+Suriname,SUR,2002,0.0005968972604668188
+Suriname,SUR,2003,0.0005111642928506703
+Suriname,SUR,2004,0.00044422033328530945
+Suriname,SUR,2005,0.0004549165259333578
 Suriname,SUR,2006,0.0
 Suriname,SUR,2007,0.0
 Suriname,SUR,2008,0.0
@@ -3586,6 +4216,9 @@ Suriname,SUR,2013,0.0
 Suriname,SUR,2014,0.0
 Suriname,SUR,2015,0.0
 Suriname,SUR,2016,0.0
+Suriname,SUR,2017,0.0
+Suriname,SUR,2018,0.0
+Suriname,SUR,2019,0.0
 Svalbard and Jan Mayen,SJM,2000,0.0
 Svalbard and Jan Mayen,SJM,2001,0.0
 Svalbard and Jan Mayen,SJM,2002,0.0
@@ -3598,11 +4231,14 @@ Svalbard and Jan Mayen,SJM,2008,0.0
 Svalbard and Jan Mayen,SJM,2009,0.0
 Svalbard and Jan Mayen,SJM,2010,0.0
 Svalbard and Jan Mayen,SJM,2011,0.0
-Svalbard and Jan Mayen,SJM,2012,0.0
-Svalbard and Jan Mayen,SJM,2013,0.0
-Svalbard and Jan Mayen,SJM,2014,0.0
-Svalbard and Jan Mayen,SJM,2015,7.666840913051054e-05
-Svalbard and Jan Mayen,SJM,2016,0.00013020208734504238
+Svalbard and Jan Mayen,SJM,2012,1.954881338702741e-05
+Svalbard and Jan Mayen,SJM,2013,1.9755818088427045e-05
+Svalbard and Jan Mayen,SJM,2014,2.005716291430577e-05
+Svalbard and Jan Mayen,SJM,2015,2.0685945968309133e-05
+Svalbard and Jan Mayen,SJM,2016,0.0004793619386620703
+Svalbard and Jan Mayen,SJM,2017,0.00043135764684133234
+Svalbard and Jan Mayen,SJM,2018,0.00031883010606414866
+Svalbard and Jan Mayen,SJM,2019,0.00084957198778337
 Swaziland,SWZ,2000,0.0
 Swaziland,SWZ,2001,0.0
 Swaziland,SWZ,2002,0.0
@@ -3620,6 +4256,9 @@ Swaziland,SWZ,2013,0.0
 Swaziland,SWZ,2014,0.0
 Swaziland,SWZ,2015,0.0
 Swaziland,SWZ,2016,0.0
+Swaziland,SWZ,2017,0.0
+Swaziland,SWZ,2018,0.0
+Swaziland,SWZ,2019,0.0
 Sweden,SWE,2000,0.0
 Sweden,SWE,2001,0.0
 Sweden,SWE,2002,0.0
@@ -3636,7 +4275,10 @@ Sweden,SWE,2012,0.0
 Sweden,SWE,2013,0.0
 Sweden,SWE,2014,0.0
 Sweden,SWE,2015,0.0
-Sweden,SWE,2016,0.0
+Sweden,SWE,2016,0.005593536357986328
+Sweden,SWE,2017,0.004849660523763337
+Sweden,SWE,2018,0.0034088142196250317
+Sweden,SWE,2019,0.00959142999501744
 Switzerland,CHE,2000,0.0
 Switzerland,CHE,2001,0.0
 Switzerland,CHE,2002,0.0
@@ -3654,6 +4296,9 @@ Switzerland,CHE,2013,0.0
 Switzerland,CHE,2014,0.0
 Switzerland,CHE,2015,0.0
 Switzerland,CHE,2016,0.0
+Switzerland,CHE,2017,0.0
+Switzerland,CHE,2018,0.0
+Switzerland,CHE,2019,0.0
 Syrian Arab Republic,SYR,2000,0.0
 Syrian Arab Republic,SYR,2001,0.0
 Syrian Arab Republic,SYR,2002,0.0
@@ -3671,6 +4316,9 @@ Syrian Arab Republic,SYR,2013,0.0
 Syrian Arab Republic,SYR,2014,0.0
 Syrian Arab Republic,SYR,2015,0.0
 Syrian Arab Republic,SYR,2016,0.0
+Syrian Arab Republic,SYR,2017,0.0
+Syrian Arab Republic,SYR,2018,0.0
+Syrian Arab Republic,SYR,2019,0.0
 "Taiwan, Province of China",TWN,2000,0.0
 "Taiwan, Province of China",TWN,2001,0.0
 "Taiwan, Province of China",TWN,2002,0.0
@@ -3688,6 +4336,9 @@ Syrian Arab Republic,SYR,2016,0.0
 "Taiwan, Province of China",TWN,2014,0.0
 "Taiwan, Province of China",TWN,2015,0.0
 "Taiwan, Province of China",TWN,2016,0.0
+"Taiwan, Province of China",TWN,2017,0.0
+"Taiwan, Province of China",TWN,2018,0.0
+"Taiwan, Province of China",TWN,2019,0.0
 Tajikistan,TJK,2000,0.0
 Tajikistan,TJK,2001,0.0
 Tajikistan,TJK,2002,0.0
@@ -3705,6 +4356,9 @@ Tajikistan,TJK,2013,0.0
 Tajikistan,TJK,2014,0.0
 Tajikistan,TJK,2015,0.0
 Tajikistan,TJK,2016,0.0
+Tajikistan,TJK,2017,0.0
+Tajikistan,TJK,2018,0.0
+Tajikistan,TJK,2019,0.0
 "Tanzania, United Republic of",TZA,2000,0.0
 "Tanzania, United Republic of",TZA,2001,0.0
 "Tanzania, United Republic of",TZA,2002,0.0
@@ -3722,6 +4376,9 @@ Tajikistan,TJK,2016,0.0
 "Tanzania, United Republic of",TZA,2014,0.0
 "Tanzania, United Republic of",TZA,2015,0.0
 "Tanzania, United Republic of",TZA,2016,0.0
+"Tanzania, United Republic of",TZA,2017,0.0
+"Tanzania, United Republic of",TZA,2018,0.0
+"Tanzania, United Republic of",TZA,2019,0.0
 Thailand,THA,2000,0.0
 Thailand,THA,2001,0.0
 Thailand,THA,2002,0.0
@@ -3739,6 +4396,9 @@ Thailand,THA,2013,0.0
 Thailand,THA,2014,0.0
 Thailand,THA,2015,0.0
 Thailand,THA,2016,0.0
+Thailand,THA,2017,0.0
+Thailand,THA,2018,0.0
+Thailand,THA,2019,0.0
 Timor-Leste,TLS,2000,0.0
 Timor-Leste,TLS,2001,0.0
 Timor-Leste,TLS,2002,0.0
@@ -3756,6 +4416,9 @@ Timor-Leste,TLS,2013,0.0
 Timor-Leste,TLS,2014,0.0
 Timor-Leste,TLS,2015,0.0
 Timor-Leste,TLS,2016,0.0
+Timor-Leste,TLS,2017,0.0
+Timor-Leste,TLS,2018,0.0
+Timor-Leste,TLS,2019,0.0
 Togo,TGO,2000,0.0
 Togo,TGO,2001,0.0
 Togo,TGO,2002,0.0
@@ -3773,6 +4436,9 @@ Togo,TGO,2013,0.0
 Togo,TGO,2014,0.0
 Togo,TGO,2015,0.0
 Togo,TGO,2016,0.0
+Togo,TGO,2017,0.0
+Togo,TGO,2018,0.0
+Togo,TGO,2019,0.0
 Tokelau,TKL,2000,0.0
 Tokelau,TKL,2001,0.0
 Tokelau,TKL,2002,0.0
@@ -3790,6 +4456,9 @@ Tokelau,TKL,2013,0.0
 Tokelau,TKL,2014,0.0
 Tokelau,TKL,2015,0.0
 Tokelau,TKL,2016,0.0
+Tokelau,TKL,2017,0.0
+Tokelau,TKL,2018,0.0
+Tokelau,TKL,2019,0.0
 Tonga,TON,2000,0.0
 Tonga,TON,2001,0.0
 Tonga,TON,2002,0.0
@@ -3807,12 +4476,15 @@ Tonga,TON,2013,0.0
 Tonga,TON,2014,0.0
 Tonga,TON,2015,0.0
 Tonga,TON,2016,0.0
-Trinidad and Tobago,TTO,2000,0.00036002468740713655
-Trinidad and Tobago,TTO,2001,0.000369227444105569
-Trinidad and Tobago,TTO,2002,0.0003213952190945145
-Trinidad and Tobago,TTO,2003,0.00027125247749066803
-Trinidad and Tobago,TTO,2004,0.00022795533307662692
-Trinidad and Tobago,TTO,2005,0.00019747549870526146
+Tonga,TON,2017,0.0
+Tonga,TON,2018,0.0
+Tonga,TON,2019,0.0
+Trinidad and Tobago,TTO,2000,0.0006663035488596161
+Trinidad and Tobago,TTO,2001,0.0006832650068326501
+Trinidad and Tobago,TTO,2002,0.0005968972604668188
+Trinidad and Tobago,TTO,2003,0.0005111642928506703
+Trinidad and Tobago,TTO,2004,0.00044422033328530945
+Trinidad and Tobago,TTO,2005,0.0004549165259333578
 Trinidad and Tobago,TTO,2006,0.0
 Trinidad and Tobago,TTO,2007,0.0
 Trinidad and Tobago,TTO,2008,0.0
@@ -3824,6 +4496,9 @@ Trinidad and Tobago,TTO,2013,0.0
 Trinidad and Tobago,TTO,2014,0.0
 Trinidad and Tobago,TTO,2015,0.0
 Trinidad and Tobago,TTO,2016,0.0
+Trinidad and Tobago,TTO,2017,0.0
+Trinidad and Tobago,TTO,2018,0.0
+Trinidad and Tobago,TTO,2019,0.0
 Tunisia,TUN,2000,0.0
 Tunisia,TUN,2001,0.0
 Tunisia,TUN,2002,0.0
@@ -3841,6 +4516,9 @@ Tunisia,TUN,2013,0.0
 Tunisia,TUN,2014,0.0
 Tunisia,TUN,2015,0.0
 Tunisia,TUN,2016,0.0
+Tunisia,TUN,2017,0.0
+Tunisia,TUN,2018,0.0
+Tunisia,TUN,2019,0.0
 Turkey,TUR,2000,0.0
 Turkey,TUR,2001,0.0
 Turkey,TUR,2002,0.0
@@ -3858,6 +4536,9 @@ Turkey,TUR,2013,0.0
 Turkey,TUR,2014,0.0
 Turkey,TUR,2015,0.0
 Turkey,TUR,2016,0.0
+Turkey,TUR,2017,0.0
+Turkey,TUR,2018,0.0
+Turkey,TUR,2019,0.0
 Turkmenistan,TKM,2000,0.0
 Turkmenistan,TKM,2001,0.0
 Turkmenistan,TKM,2002,0.0
@@ -3875,12 +4556,15 @@ Turkmenistan,TKM,2013,0.0
 Turkmenistan,TKM,2014,0.0
 Turkmenistan,TKM,2015,0.0
 Turkmenistan,TKM,2016,0.0
-Turks and Caicos Islands,TCA,2000,0.00036002468740713655
-Turks and Caicos Islands,TCA,2001,0.000369227444105569
-Turks and Caicos Islands,TCA,2002,0.0003213952190945145
-Turks and Caicos Islands,TCA,2003,0.00027125247749066803
-Turks and Caicos Islands,TCA,2004,0.00022795533307662692
-Turks and Caicos Islands,TCA,2005,0.00019747549870526146
+Turkmenistan,TKM,2017,0.0
+Turkmenistan,TKM,2018,0.0
+Turkmenistan,TKM,2019,0.0
+Turks and Caicos Islands,TCA,2000,0.0006663035488596161
+Turks and Caicos Islands,TCA,2001,0.0006832650068326501
+Turks and Caicos Islands,TCA,2002,0.0005968972604668188
+Turks and Caicos Islands,TCA,2003,0.0005111642928506703
+Turks and Caicos Islands,TCA,2004,0.00044422033328530945
+Turks and Caicos Islands,TCA,2005,0.0004549165259333578
 Turks and Caicos Islands,TCA,2006,0.0
 Turks and Caicos Islands,TCA,2007,0.0
 Turks and Caicos Islands,TCA,2008,0.0
@@ -3892,6 +4576,9 @@ Turks and Caicos Islands,TCA,2013,0.0
 Turks and Caicos Islands,TCA,2014,0.0
 Turks and Caicos Islands,TCA,2015,0.0
 Turks and Caicos Islands,TCA,2016,0.0
+Turks and Caicos Islands,TCA,2017,0.0
+Turks and Caicos Islands,TCA,2018,0.0
+Turks and Caicos Islands,TCA,2019,0.0
 Tuvalu,TUV,2000,0.0
 Tuvalu,TUV,2001,0.0
 Tuvalu,TUV,2002,0.0
@@ -3909,6 +4596,9 @@ Tuvalu,TUV,2013,0.0
 Tuvalu,TUV,2014,0.0
 Tuvalu,TUV,2015,0.0
 Tuvalu,TUV,2016,0.0
+Tuvalu,TUV,2017,0.0
+Tuvalu,TUV,2018,0.0
+Tuvalu,TUV,2019,0.0
 Uganda,UGA,2000,0.0
 Uganda,UGA,2001,0.0
 Uganda,UGA,2002,0.0
@@ -3926,6 +4616,9 @@ Uganda,UGA,2013,0.0
 Uganda,UGA,2014,0.0
 Uganda,UGA,2015,0.0
 Uganda,UGA,2016,0.0
+Uganda,UGA,2017,0.0
+Uganda,UGA,2018,0.0
+Uganda,UGA,2019,0.0
 Ukraine,UKR,2000,0.0
 Ukraine,UKR,2001,0.0
 Ukraine,UKR,2002,0.0
@@ -3943,6 +4636,9 @@ Ukraine,UKR,2013,0.0
 Ukraine,UKR,2014,0.0
 Ukraine,UKR,2015,0.0
 Ukraine,UKR,2016,0.0
+Ukraine,UKR,2017,0.0
+Ukraine,UKR,2018,0.0
+Ukraine,UKR,2019,0.0
 United Arab Emirates,ARE,2000,0.0
 United Arab Emirates,ARE,2001,0.0
 United Arab Emirates,ARE,2002,0.0
@@ -3960,6 +4656,9 @@ United Arab Emirates,ARE,2013,0.0
 United Arab Emirates,ARE,2014,0.0
 United Arab Emirates,ARE,2015,0.0
 United Arab Emirates,ARE,2016,0.0
+United Arab Emirates,ARE,2017,0.0
+United Arab Emirates,ARE,2018,0.0
+United Arab Emirates,ARE,2019,0.0
 United Kingdom,GBR,2000,0.0
 United Kingdom,GBR,2001,0.0
 United Kingdom,GBR,2002,0.0
@@ -3977,12 +4676,15 @@ United Kingdom,GBR,2013,0.0
 United Kingdom,GBR,2014,0.0
 United Kingdom,GBR,2015,0.0
 United Kingdom,GBR,2016,0.0
-United States,USA,2000,0.00046427308100459856
-United States,USA,2001,0.0004714468050854929
-United States,USA,2002,0.0004150059901808017
-United States,USA,2003,0.0003510171519744715
-United States,USA,2004,0.0003023814582958762
-United States,USA,2005,0.00025813005591430083
+United Kingdom,GBR,2017,0.0
+United Kingdom,GBR,2018,0.0
+United Kingdom,GBR,2019,0.0
+United States,USA,2000,0.0009767139003441754
+United States,USA,2001,0.0009911122213000492
+United States,USA,2002,0.0008775778850372973
+United States,USA,2003,0.0007545681383603577
+United States,USA,2004,0.0006654616415320006
+United States,USA,2005,0.0005782503264316358
 United States,USA,2006,0.0
 United States,USA,2007,0.0
 United States,USA,2008,0.0
@@ -3994,6 +4696,9 @@ United States,USA,2013,0.0
 United States,USA,2014,0.0
 United States,USA,2015,0.0
 United States,USA,2016,0.0
+United States,USA,2017,0.0
+United States,USA,2018,0.0
+United States,USA,2019,0.0
 United States Minor Outlying Islands,UMI,2000,0.0
 United States Minor Outlying Islands,UMI,2001,0.0
 United States Minor Outlying Islands,UMI,2002,0.0
@@ -4011,12 +4716,15 @@ United States Minor Outlying Islands,UMI,2013,0.0
 United States Minor Outlying Islands,UMI,2014,0.0
 United States Minor Outlying Islands,UMI,2015,0.0
 United States Minor Outlying Islands,UMI,2016,0.0
-Uruguay,URY,2000,0.00036002468740713655
-Uruguay,URY,2001,0.000369227444105569
-Uruguay,URY,2002,0.0003213952190945145
-Uruguay,URY,2003,0.00027125247749066803
-Uruguay,URY,2004,0.00022795533307662692
-Uruguay,URY,2005,0.00019747549870526146
+United States Minor Outlying Islands,UMI,2017,0.0
+United States Minor Outlying Islands,UMI,2018,0.0
+United States Minor Outlying Islands,UMI,2019,0.0
+Uruguay,URY,2000,0.0
+Uruguay,URY,2001,0.0
+Uruguay,URY,2002,0.0
+Uruguay,URY,2003,0.0
+Uruguay,URY,2004,0.0
+Uruguay,URY,2005,0.0
 Uruguay,URY,2006,0.0
 Uruguay,URY,2007,0.0
 Uruguay,URY,2008,0.0
@@ -4028,6 +4736,9 @@ Uruguay,URY,2013,0.0
 Uruguay,URY,2014,0.0
 Uruguay,URY,2015,0.0
 Uruguay,URY,2016,0.0
+Uruguay,URY,2017,0.0
+Uruguay,URY,2018,0.0
+Uruguay,URY,2019,0.0
 Uzbekistan,UZB,2000,0.0
 Uzbekistan,UZB,2001,0.0
 Uzbekistan,UZB,2002,0.0
@@ -4045,6 +4756,9 @@ Uzbekistan,UZB,2013,0.0
 Uzbekistan,UZB,2014,0.0
 Uzbekistan,UZB,2015,0.0
 Uzbekistan,UZB,2016,0.0
+Uzbekistan,UZB,2017,0.0
+Uzbekistan,UZB,2018,0.0
+Uzbekistan,UZB,2019,0.0
 Vanuatu,VUT,2000,0.0
 Vanuatu,VUT,2001,0.0
 Vanuatu,VUT,2002,0.0
@@ -4062,12 +4776,15 @@ Vanuatu,VUT,2013,0.0
 Vanuatu,VUT,2014,0.0
 Vanuatu,VUT,2015,0.0
 Vanuatu,VUT,2016,0.0
-Venezuela,VEN,2000,0.00036002468740713655
-Venezuela,VEN,2001,0.000369227444105569
-Venezuela,VEN,2002,0.0003213952190945145
-Venezuela,VEN,2003,0.00027125247749066803
-Venezuela,VEN,2004,0.00022795533307662692
-Venezuela,VEN,2005,0.00019747549870526146
+Vanuatu,VUT,2017,0.0
+Vanuatu,VUT,2018,0.0
+Vanuatu,VUT,2019,0.0
+Venezuela,VEN,2000,0.0006663035488596161
+Venezuela,VEN,2001,0.0006832650068326501
+Venezuela,VEN,2002,0.0005968972604668188
+Venezuela,VEN,2003,0.0005111642928506703
+Venezuela,VEN,2004,0.00044422033328530945
+Venezuela,VEN,2005,0.0004549165259333578
 Venezuela,VEN,2006,0.0
 Venezuela,VEN,2007,0.0
 Venezuela,VEN,2008,0.0
@@ -4079,6 +4796,9 @@ Venezuela,VEN,2013,0.0
 Venezuela,VEN,2014,0.0
 Venezuela,VEN,2015,0.0
 Venezuela,VEN,2016,0.0
+Venezuela,VEN,2017,0.0
+Venezuela,VEN,2018,0.0
+Venezuela,VEN,2019,0.0
 Vietnam,VNM,2000,0.0
 Vietnam,VNM,2001,0.0
 Vietnam,VNM,2002,0.0
@@ -4096,12 +4816,15 @@ Vietnam,VNM,2013,0.0
 Vietnam,VNM,2014,0.0
 Vietnam,VNM,2015,0.0
 Vietnam,VNM,2016,0.0
-"Virgin Islands, British",VGB,2000,0.00036002468740713655
-"Virgin Islands, British",VGB,2001,0.000369227444105569
-"Virgin Islands, British",VGB,2002,0.0003213952190945145
-"Virgin Islands, British",VGB,2003,0.00027125247749066803
-"Virgin Islands, British",VGB,2004,0.00022795533307662692
-"Virgin Islands, British",VGB,2005,0.00019747549870526146
+Vietnam,VNM,2017,0.0
+Vietnam,VNM,2018,0.0
+Vietnam,VNM,2019,0.0
+"Virgin Islands, British",VGB,2000,0.0006663035488596161
+"Virgin Islands, British",VGB,2001,0.0006832650068326501
+"Virgin Islands, British",VGB,2002,0.0005968972604668188
+"Virgin Islands, British",VGB,2003,0.0005111642928506703
+"Virgin Islands, British",VGB,2004,0.00044422033328530945
+"Virgin Islands, British",VGB,2005,0.0004549165259333578
 "Virgin Islands, British",VGB,2006,0.0
 "Virgin Islands, British",VGB,2007,0.0
 "Virgin Islands, British",VGB,2008,0.0
@@ -4113,12 +4836,15 @@ Vietnam,VNM,2016,0.0
 "Virgin Islands, British",VGB,2014,0.0
 "Virgin Islands, British",VGB,2015,0.0
 "Virgin Islands, British",VGB,2016,0.0
-"Virgin Islands, U.S.",VIR,2000,0.00036002468740713655
-"Virgin Islands, U.S.",VIR,2001,0.000369227444105569
-"Virgin Islands, U.S.",VIR,2002,0.0003213952190945145
-"Virgin Islands, U.S.",VIR,2003,0.00027125247749066803
-"Virgin Islands, U.S.",VIR,2004,0.00022795533307662692
-"Virgin Islands, U.S.",VIR,2005,0.00019747549870526146
+"Virgin Islands, British",VGB,2017,0.0
+"Virgin Islands, British",VGB,2018,0.0
+"Virgin Islands, British",VGB,2019,0.0
+"Virgin Islands, U.S.",VIR,2000,0.0006663035488596161
+"Virgin Islands, U.S.",VIR,2001,0.0006832650068326501
+"Virgin Islands, U.S.",VIR,2002,0.0005968972604668188
+"Virgin Islands, U.S.",VIR,2003,0.0005111642928506703
+"Virgin Islands, U.S.",VIR,2004,0.00044422033328530945
+"Virgin Islands, U.S.",VIR,2005,0.0004549165259333578
 "Virgin Islands, U.S.",VIR,2006,0.0
 "Virgin Islands, U.S.",VIR,2007,0.0
 "Virgin Islands, U.S.",VIR,2008,0.0
@@ -4130,6 +4856,9 @@ Vietnam,VNM,2016,0.0
 "Virgin Islands, U.S.",VIR,2014,0.0
 "Virgin Islands, U.S.",VIR,2015,0.0
 "Virgin Islands, U.S.",VIR,2016,0.0
+"Virgin Islands, U.S.",VIR,2017,0.0
+"Virgin Islands, U.S.",VIR,2018,0.0
+"Virgin Islands, U.S.",VIR,2019,0.0
 Wallis and Futuna,WLF,2000,0.0
 Wallis and Futuna,WLF,2001,0.0
 Wallis and Futuna,WLF,2002,0.0
@@ -4147,6 +4876,9 @@ Wallis and Futuna,WLF,2013,0.0
 Wallis and Futuna,WLF,2014,0.0
 Wallis and Futuna,WLF,2015,0.0
 Wallis and Futuna,WLF,2016,0.0
+Wallis and Futuna,WLF,2017,0.0
+Wallis and Futuna,WLF,2018,0.0
+Wallis and Futuna,WLF,2019,0.0
 Western Sahara,ESH,2000,0.0
 Western Sahara,ESH,2001,0.0
 Western Sahara,ESH,2002,0.0
@@ -4164,6 +4896,9 @@ Western Sahara,ESH,2013,0.0
 Western Sahara,ESH,2014,0.0
 Western Sahara,ESH,2015,0.0
 Western Sahara,ESH,2016,0.0
+Western Sahara,ESH,2017,0.0
+Western Sahara,ESH,2018,0.0
+Western Sahara,ESH,2019,0.0
 Yemen,YEM,2000,0.0
 Yemen,YEM,2001,0.0
 Yemen,YEM,2002,0.0
@@ -4181,6 +4916,9 @@ Yemen,YEM,2013,0.0
 Yemen,YEM,2014,0.0
 Yemen,YEM,2015,0.0
 Yemen,YEM,2016,0.0
+Yemen,YEM,2017,0.0
+Yemen,YEM,2018,0.0
+Yemen,YEM,2019,0.0
 Zambia,ZMB,2000,0.0
 Zambia,ZMB,2001,0.0
 Zambia,ZMB,2002,0.0
@@ -4198,6 +4936,9 @@ Zambia,ZMB,2013,0.0
 Zambia,ZMB,2014,0.0
 Zambia,ZMB,2015,0.0
 Zambia,ZMB,2016,0.0
+Zambia,ZMB,2017,0.0
+Zambia,ZMB,2018,0.0
+Zambia,ZMB,2019,0.0
 Zimbabwe,ZWE,2000,0.0
 Zimbabwe,ZWE,2001,0.0
 Zimbabwe,ZWE,2002,0.0
@@ -4215,6 +4956,9 @@ Zimbabwe,ZWE,2013,0.0
 Zimbabwe,ZWE,2014,0.0
 Zimbabwe,ZWE,2015,0.0
 Zimbabwe,ZWE,2016,0.0
+Zimbabwe,ZWE,2017,0.0
+Zimbabwe,ZWE,2018,0.0
+Zimbabwe,ZWE,2019,0.0
 Åland Islands,ALA,2000,0.0
 Åland Islands,ALA,2001,0.0
 Åland Islands,ALA,2002,0.0
@@ -4227,8 +4971,11 @@ Zimbabwe,ZWE,2016,0.0
 Åland Islands,ALA,2009,0.0
 Åland Islands,ALA,2010,0.0
 Åland Islands,ALA,2011,0.0
-Åland Islands,ALA,2012,0.0
-Åland Islands,ALA,2013,0.0
-Åland Islands,ALA,2014,0.0
-Åland Islands,ALA,2015,7.666840913051054e-05
-Åland Islands,ALA,2016,0.00013020208734504238
+Åland Islands,ALA,2012,1.954881338702741e-05
+Åland Islands,ALA,2013,1.9755818088427045e-05
+Åland Islands,ALA,2014,2.005716291430577e-05
+Åland Islands,ALA,2015,2.0685945968309133e-05
+Åland Islands,ALA,2016,0.0004793619386620703
+Åland Islands,ALA,2017,0.00043135764684133234
+Åland Islands,ALA,2018,0.00031883010606414866
+Åland Islands,ALA,2019,0.00084957198778337
