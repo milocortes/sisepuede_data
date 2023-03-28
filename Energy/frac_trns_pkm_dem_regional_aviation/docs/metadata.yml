@@ -9,11 +9,11 @@ variable :
 
 resources:
 
-    - url:   https://www.eea.europa.eu/data-and-maps/daviz/passenger-transport-volume-6/#tab-chart_2
+    - url:   https://nhts.ornl.gov/person-miles
 
 Last visited: 2022-07-12
 
-      descrip:   Passenger transport volume and modal split
+      descrip:   Transportation Mode Used on Trip
 
 aditional_information:
 
