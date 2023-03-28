@@ -1,17 +1,17 @@
-date:        2023-01-017
+date:        2023-03-27
 variable :
   name : frac_inen_energy
-  subsector : Industrial Energy
-  longname : Share of fuel type in industrial sector
-  units: Percentage
+  subsector :   Energy Fuels
+  longname :  Share of fuel type in industrial sector
+  units: percentage
 
 resources:
-    - url:   A4786
-      descrip:   Water Bucket (Filled)
+    - url:   https://iea.blob.core.windows.net/assets/134efb3c-0a75-4325-a02c-0dedb13f045b/IEA-EnergyEfficiencyIndicatorsdatabase-DADecember2022.xlsb
+      descrip:   EIA Energy Efficiency Indicators
+
 
 aditional_information:
       assumptions: >
-            Follow the Yellow Brick
-            Road to the Emerald City.
-            Pay no attention to the
-            man behind the curtain.
+            - The crosswalk between sisepuede fields and IEA fields is in the file sectors_assumptions.py
+            - Is data for specific country is missing in the original database, the country takes the continental average value. If 
+            the continental value is missing, takes the world average value.

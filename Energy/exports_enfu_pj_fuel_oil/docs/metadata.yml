@@ -1,20 +1,16 @@
-date:        2012-08-06
+date:        2023-03-27
 variable :
-  name : exports_enfu_pj_fuel_coal
+  name : exports_enfu_pj_fuel
   subsector :   Energy Fuels
-  longname :  Unused Fuel Exported Coal
-  units: W/m^2
+  longname : Exports of energy fuel in PJ . Gives the total exports of fuel in PJ from a country.
+  units: PJ
 
 resources:
-    - url:   A4786
-      descrip:   Water Bucket (Filled)
+    - url:   https://www.iea.org/data-and-statistics/data-product/world-energy-balances
+      descrip:   World Energy Balances
 
-    - url:   A4786
-      descrip:   Water Bucket (Filled)
 
 aditional_information:
       assumptions: >
-            Follow the Yellow Brick
-            Road to the Emerald City.
-            Pay no attention to the
-            man behind the curtain.
+            - The crosswalk between sisepuede fields and IEA fiels is in the file correspondencias_WEB_sisepuede_revised_jsyme.py.
+
