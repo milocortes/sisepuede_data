@@ -1,15 +1,23 @@
 28/02/2023
 
+Name: consumpinit_inen_energy_tj_per_mmm_gdp_other_product_manufacturing
+
 Units: Tera Joules/(10^9 USD) 
 
-Energy in Peta Joules obtained from: IEA
+Source:
 
-GDP taken from Socioeconomic data.
+    Energy in Peta Joules obtained from: IEA
 
-Assumption: 
+    GDP taken from Socioeconomic data.
 
-Data not present take the average value of the continent of the present data.
+Assumptions: 
 
-If this is not possible it takes the global average value.
+    If end use energy data is missing then:
+        If it is present for some years:
+            the missing historic values are obtained as the mean value of the present data
+        Else:
+            A multi-linear regression trained with the end use energy value as function of the rural population, urban population
+            and GDP in the Socioeconomic folder is used to compute the missing values.
 
-Projected values for energy are equal to the last historical value.
+    Projected values for energy are obtained with the previously mentioned multi-linear regression with the pop_ur, pop_ru and gdp
+    projected values from the Socioeconomic folder.
