@@ -2,9 +2,12 @@
 
 Units: Tera Joules/Tonne = (TJ)/(1000kg)
 
-Energy in Peta Joules obtained from: IEA
+Source:
+	-Energy in Peta Joules obtained from: International Energy Agency, 
+	"IEA Energy efficiency indicators database (December 2022 edition)", 
+	available on the IEA data and statistics webpage (https://www.iea.org/data-and-statistics/data-sets)
 
-Tonne production obtained from IPPU data.
+	-Tonne production obtained from IPPU data.
 
 Assumptions: 
 

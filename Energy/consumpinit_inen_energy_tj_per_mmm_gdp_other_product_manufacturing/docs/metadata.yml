@@ -6,7 +6,9 @@ Units: Tera Joules/(10^9 USD)
 
 Source:
 
-    Energy in Peta Joules obtained from: IEA
+    Energy in Peta Joules obtained from: International Energy Agency, 
+	"IEA Energy efficiency indicators database (December 2022 edition)", 
+	available on the IEA data and statistics webpage (https://www.iea.org/data-and-statistics/data-sets)
 
     GDP taken from Socioeconomic data.
 
@@ -19,5 +21,5 @@ Assumptions:
             A multi-linear regression trained with the end use energy value as function of the rural population, urban population
             and GDP in the Socioeconomic folder is used to compute the missing values.
 
-    Projected values for energy are obtained with the previously mentioned multi-linear regression with the pop_ur, pop_ru and gdp
-    projected values from the Socioeconomic folder.
+    Projected values for energy are obtained with the previously mentioned multi-linear regression
+	with the pop_ur, pop_ru and gdp projected values from the Socioeconomic folder.

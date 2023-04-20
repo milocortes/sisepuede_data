@@ -1,10 +1,13 @@
 28/02/2023
 
-consumpinit_inen_energy_total_pj_agriculture_and_livestock
+Units: Tera Joules/Tonne = (TJ)/(1000kg)
 
-Units: Peta Joules
+Source:
+	-Energy in Peta Joules obtained from: International Energy Agency, 
+	"IEA Energy efficiency indicators database (December 2022 edition)", 
+	available on the IEA data and statistics webpage (https://www.iea.org/data-and-statistics/data-sets)
 
-Source: IEA
+	-Tonne production obtained from IPPU data.
 
 Assumptions: 
 
