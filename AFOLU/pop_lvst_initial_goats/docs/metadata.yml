@@ -1,0 +1,15 @@
+date:        2023-04-18
+variable :
+  name : 
+  subsector : Livestock Manure Management
+  longname :  
+  units: 
+
+resources:
+    - url:   https://www.fao.org/faostat/en/#data
+      descrip:   FAOSTAT
+
+
+aditional_information:
+      assumptions: >
+            - The projected values are equal to the last historical value.

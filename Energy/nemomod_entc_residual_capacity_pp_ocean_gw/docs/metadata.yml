@@ -1,20 +1,16 @@
-date:        2012-08-06
+date:        2022-11-02
 variable :
-  name : exports_enfu_pj_fuel_coal
-  subsector :   Energy Fuels
-  longname :  Unused Fuel Exported Coal
-  units: W/m^2
+  name : nemomod_entc_residual_capacity_pp_ocean_gw
+  subsector :   Energy Technology
+  longname :  Technology associated with the generation of electricity in particular, power plants. Energy --> Biogas 
+  units: GW Gigawatt-year
 
 resources:
-    - url:   A4786
-      descrip:   Water Bucket (Filled)
-
-    - url:   A4786
-      descrip:   Water Bucket (Filled)
+    - url:   https://datasets.wri.org/dataset/globalpowerplantdatabase
+      descrip:   World Resources Institute
 
 aditional_information:
       assumptions: >
-            Follow the Yellow Brick
-            Road to the Emerald City.
-            Pay no attention to the
-            man behind the curtain.
+            Original values are in  MW (Megavatio). 
+            In orde to convert to GW (Gigavatio), multiply the value
+            by factor 0.001
