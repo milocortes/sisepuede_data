@@ -1,4981 +1,1114 @@
-Nation,iso_code3,Year,frac_inen_energy_agriculture_and_livestock_furnace_gas
-Afghanistan,AFG,2000,0.0
-Afghanistan,AFG,2001,0.0
-Afghanistan,AFG,2002,0.0
-Afghanistan,AFG,2003,0.0
-Afghanistan,AFG,2004,0.0
-Afghanistan,AFG,2005,2.313208420078649e-05
-Afghanistan,AFG,2006,4.9462099666130826e-05
-Afghanistan,AFG,2007,2.373042240151875e-05
-Afghanistan,AFG,2008,0.03874143269205325
-Afghanistan,AFG,2009,0.027858219850178303
-Afghanistan,AFG,2010,0.021859124658069558
-Afghanistan,AFG,2011,0.021701102801368992
-Afghanistan,AFG,2012,0.019319602889007984
-Afghanistan,AFG,2013,0.01014372507560956
-Afghanistan,AFG,2014,0.01065168974532778
-Afghanistan,AFG,2015,0.008286377195889956
-Afghanistan,AFG,2016,0.008482585344489776
-Afghanistan,AFG,2017,0.008760634628650264
-Afghanistan,AFG,2018,0.09954703465711576
-Afghanistan,AFG,2019,0.016928460975014242
-Albania,ALB,2000,0.0
-Albania,ALB,2001,0.0
-Albania,ALB,2002,0.0
-Albania,ALB,2003,0.0
-Albania,ALB,2004,0.0
-Albania,ALB,2005,0.0
-Albania,ALB,2006,0.0
-Albania,ALB,2007,0.0
-Albania,ALB,2008,0.0
-Albania,ALB,2009,0.0
-Albania,ALB,2010,0.0
-Albania,ALB,2011,0.0
-Albania,ALB,2012,0.0
-Albania,ALB,2013,0.0
-Albania,ALB,2014,0.0
-Albania,ALB,2015,0.0
-Albania,ALB,2016,0.0
-Albania,ALB,2017,0.0
-Albania,ALB,2018,0.0
-Albania,ALB,2019,0.0
-Algeria,DZA,2000,0.0
-Algeria,DZA,2001,0.0
-Algeria,DZA,2002,0.0
-Algeria,DZA,2003,0.0
-Algeria,DZA,2004,0.0
-Algeria,DZA,2005,0.0
-Algeria,DZA,2006,0.0
-Algeria,DZA,2007,0.0
-Algeria,DZA,2008,0.0
-Algeria,DZA,2009,0.0
-Algeria,DZA,2010,0.0
-Algeria,DZA,2011,0.0
-Algeria,DZA,2012,0.0
-Algeria,DZA,2013,0.0
-Algeria,DZA,2014,0.0
-Algeria,DZA,2015,0.0
-Algeria,DZA,2016,0.0
-Algeria,DZA,2017,0.0
-Algeria,DZA,2018,0.0
-Algeria,DZA,2019,0.0
-American Samoa,ASM,2000,0.0
-American Samoa,ASM,2001,0.0
-American Samoa,ASM,2002,0.0
-American Samoa,ASM,2003,0.0
-American Samoa,ASM,2004,0.0
-American Samoa,ASM,2005,0.0
-American Samoa,ASM,2006,0.0
-American Samoa,ASM,2007,0.0
-American Samoa,ASM,2008,0.0
-American Samoa,ASM,2009,0.0
-American Samoa,ASM,2010,0.0
-American Samoa,ASM,2011,0.0
-American Samoa,ASM,2012,0.0
-American Samoa,ASM,2013,0.0
-American Samoa,ASM,2014,0.0
-American Samoa,ASM,2015,0.0
-American Samoa,ASM,2016,0.0
-American Samoa,ASM,2017,0.0
-American Samoa,ASM,2018,0.0
-American Samoa,ASM,2019,0.0
-Andorra,AND,2000,0.021612706169822853
-Andorra,AND,2001,0.02081344520926493
-Andorra,AND,2002,0.01875967522825641
-Andorra,AND,2003,0.017716623090771457
-Andorra,AND,2004,0.015625771109904752
-Andorra,AND,2005,0.014409544922410143
-Andorra,AND,2006,0.014357081776857643
-Andorra,AND,2007,0.022487530168946092
-Andorra,AND,2008,0.02216182048040455
-Andorra,AND,2009,0.022295052000026117
-Andorra,AND,2010,0.02239608101153679
-Andorra,AND,2011,0.02162654521795706
-Andorra,AND,2012,0.021627916369364158
-Andorra,AND,2013,0.020425101214574897
-Andorra,AND,2014,0.01972387932503835
-Andorra,AND,2015,0.017842801773804953
-Andorra,AND,2016,0.018753316010720063
-Andorra,AND,2017,0.01829149509293531
-Andorra,AND,2018,0.017784506022510367
-Andorra,AND,2019,0.01666721284614124
-Angola,AGO,2000,0.0
-Angola,AGO,2001,0.0
-Angola,AGO,2002,0.0
-Angola,AGO,2003,0.0
-Angola,AGO,2004,0.0
-Angola,AGO,2005,0.0
-Angola,AGO,2006,0.0
-Angola,AGO,2007,0.0
-Angola,AGO,2008,0.0
-Angola,AGO,2009,0.0
-Angola,AGO,2010,0.0
-Angola,AGO,2011,0.0
-Angola,AGO,2012,0.0
-Angola,AGO,2013,0.0
-Angola,AGO,2014,0.0
-Angola,AGO,2015,0.0
-Angola,AGO,2016,0.0
-Angola,AGO,2017,0.0
-Angola,AGO,2018,0.0
-Angola,AGO,2019,0.0
-Anguilla,AIA,2000,0.0
-Anguilla,AIA,2001,0.0
-Anguilla,AIA,2002,0.0
-Anguilla,AIA,2003,0.0
-Anguilla,AIA,2004,0.0
-Anguilla,AIA,2005,0.0
-Anguilla,AIA,2006,0.0
-Anguilla,AIA,2007,0.0
-Anguilla,AIA,2008,0.0
-Anguilla,AIA,2009,0.0
-Anguilla,AIA,2010,0.0
-Anguilla,AIA,2011,0.0
-Anguilla,AIA,2012,0.0
-Anguilla,AIA,2013,0.0
-Anguilla,AIA,2014,0.0
-Anguilla,AIA,2015,0.0
-Anguilla,AIA,2016,0.0
-Anguilla,AIA,2017,0.0
-Anguilla,AIA,2018,0.0
-Anguilla,AIA,2019,0.0
-Antarctica,ATA,2000,0.0094
-Antarctica,ATA,2001,0.0086
-Antarctica,ATA,2002,0.0078
-Antarctica,ATA,2003,0.0074
-Antarctica,ATA,2004,0.0064
-Antarctica,ATA,2005,0.0059
-Antarctica,ATA,2006,0.0057
-Antarctica,ATA,2007,0.0089
-Antarctica,ATA,2008,0.0127
-Antarctica,ATA,2009,0.0121
-Antarctica,ATA,2010,0.0111
-Antarctica,ATA,2011,0.0107
-Antarctica,ATA,2012,0.0104
-Antarctica,ATA,2013,0.0087
-Antarctica,ATA,2014,0.0085
-Antarctica,ATA,2015,0.0074
-Antarctica,ATA,2016,0.0078
-Antarctica,ATA,2017,0.0076
-Antarctica,ATA,2018,0.0159
-Antarctica,ATA,2019,0.0078
-Antigua and Barbuda,ATG,2000,0.0
-Antigua and Barbuda,ATG,2001,0.0
-Antigua and Barbuda,ATG,2002,0.0
-Antigua and Barbuda,ATG,2003,0.0
-Antigua and Barbuda,ATG,2004,0.0
-Antigua and Barbuda,ATG,2005,0.0
-Antigua and Barbuda,ATG,2006,0.0
-Antigua and Barbuda,ATG,2007,0.0
-Antigua and Barbuda,ATG,2008,0.0
-Antigua and Barbuda,ATG,2009,0.0
-Antigua and Barbuda,ATG,2010,0.0
-Antigua and Barbuda,ATG,2011,0.0
-Antigua and Barbuda,ATG,2012,0.0
-Antigua and Barbuda,ATG,2013,0.0
-Antigua and Barbuda,ATG,2014,0.0
-Antigua and Barbuda,ATG,2015,0.0
-Antigua and Barbuda,ATG,2016,0.0
-Antigua and Barbuda,ATG,2017,0.0
-Antigua and Barbuda,ATG,2018,0.0
-Antigua and Barbuda,ATG,2019,0.0
-Argentina,ARG,2000,0.0
-Argentina,ARG,2001,0.0
-Argentina,ARG,2002,0.0
-Argentina,ARG,2003,0.0
-Argentina,ARG,2004,0.0
-Argentina,ARG,2005,0.0
-Argentina,ARG,2006,0.0
-Argentina,ARG,2007,0.0
-Argentina,ARG,2008,0.0
-Argentina,ARG,2009,0.0
-Argentina,ARG,2010,0.0
-Argentina,ARG,2011,0.0
-Argentina,ARG,2012,0.0
-Argentina,ARG,2013,0.0
-Argentina,ARG,2014,0.0
-Argentina,ARG,2015,0.0
-Argentina,ARG,2016,0.0
-Argentina,ARG,2017,0.0
-Argentina,ARG,2018,0.0
-Argentina,ARG,2019,0.0
-Armenia,ARM,2000,0.0
-Armenia,ARM,2001,0.0
-Armenia,ARM,2002,0.0
-Armenia,ARM,2003,0.0
-Armenia,ARM,2004,0.0
-Armenia,ARM,2005,0.0
-Armenia,ARM,2006,0.0
-Armenia,ARM,2007,0.0
-Armenia,ARM,2008,0.0
-Armenia,ARM,2009,0.0
-Armenia,ARM,2010,0.0
-Armenia,ARM,2011,0.0
-Armenia,ARM,2012,0.0
-Armenia,ARM,2013,0.0
-Armenia,ARM,2014,0.0
-Armenia,ARM,2015,0.0
-Armenia,ARM,2016,0.0
-Armenia,ARM,2017,0.0
-Armenia,ARM,2018,0.0
-Armenia,ARM,2019,0.0
-Aruba,ABW,2000,0.0
-Aruba,ABW,2001,0.0
-Aruba,ABW,2002,0.0
-Aruba,ABW,2003,0.0
-Aruba,ABW,2004,0.0
-Aruba,ABW,2005,0.0
-Aruba,ABW,2006,0.0
-Aruba,ABW,2007,0.0
-Aruba,ABW,2008,0.0
-Aruba,ABW,2009,0.0
-Aruba,ABW,2010,0.0
-Aruba,ABW,2011,0.0
-Aruba,ABW,2012,0.0
-Aruba,ABW,2013,0.0
-Aruba,ABW,2014,0.0
-Aruba,ABW,2015,0.0
-Aruba,ABW,2016,0.0
-Aruba,ABW,2017,0.0
-Aruba,ABW,2018,0.0
-Aruba,ABW,2019,0.0
-Australia,AUS,2000,0.0
-Australia,AUS,2001,0.0
-Australia,AUS,2002,0.0
-Australia,AUS,2003,0.0
-Australia,AUS,2004,0.0
-Australia,AUS,2005,0.0
-Australia,AUS,2006,0.0
-Australia,AUS,2007,0.0
-Australia,AUS,2008,0.0
-Australia,AUS,2009,0.0
-Australia,AUS,2010,0.0
-Australia,AUS,2011,0.0
-Australia,AUS,2012,0.0
-Australia,AUS,2013,0.0
-Australia,AUS,2014,0.0
-Australia,AUS,2015,0.0
-Australia,AUS,2016,0.0
-Australia,AUS,2017,0.0
-Australia,AUS,2018,0.0
-Australia,AUS,2019,0.0
-Austria,AUT,2000,0.012702078521939957
-Austria,AUT,2001,0.013302486986697514
-Austria,AUT,2002,0.014243323442136496
-Austria,AUT,2003,0.01517805020431991
-Austria,AUT,2004,0.015891701000588582
-Austria,AUT,2005,0.017230769230769234
-Austria,AUT,2006,0.016331658291457288
-Austria,AUT,2007,0.018377693282636245
-Austria,AUT,2008,0.01885606536769328
-Austria,AUT,2009,0.02083333333333333
-Austria,AUT,2010,0.02256608639587363
-Austria,AUT,2011,0.02320954907161804
-Austria,AUT,2012,0.02620967741935484
-Austria,AUT,2013,0.028852459016393443
-Austria,AUT,2014,0.02735156771180787
-Austria,AUT,2015,0.029761904761904764
-Austria,AUT,2016,0.02965828497743391
-Austria,AUT,2017,0.03169469598965071
-Austria,AUT,2018,0.03026315789473685
-Austria,AUT,2019,0.02931596091205212
-Azerbaijan,AZE,2000,0.0
-Azerbaijan,AZE,2001,0.0
-Azerbaijan,AZE,2002,0.0
-Azerbaijan,AZE,2003,0.0
-Azerbaijan,AZE,2004,0.0
-Azerbaijan,AZE,2005,0.0
-Azerbaijan,AZE,2006,0.0
-Azerbaijan,AZE,2007,0.0
-Azerbaijan,AZE,2008,0.0
-Azerbaijan,AZE,2009,0.0
-Azerbaijan,AZE,2010,0.0
-Azerbaijan,AZE,2011,0.0
-Azerbaijan,AZE,2012,0.0
-Azerbaijan,AZE,2013,0.0
-Azerbaijan,AZE,2014,0.0
-Azerbaijan,AZE,2015,0.0
-Azerbaijan,AZE,2016,0.0
-Azerbaijan,AZE,2017,0.0
-Azerbaijan,AZE,2018,0.0
-Azerbaijan,AZE,2019,0.0
-Bahamas,BHS,2000,0.0
-Bahamas,BHS,2001,0.0
-Bahamas,BHS,2002,0.0
-Bahamas,BHS,2003,0.0
-Bahamas,BHS,2004,0.0
-Bahamas,BHS,2005,0.0
-Bahamas,BHS,2006,0.0
-Bahamas,BHS,2007,0.0
-Bahamas,BHS,2008,0.0
-Bahamas,BHS,2009,0.0
-Bahamas,BHS,2010,0.0
-Bahamas,BHS,2011,0.0
-Bahamas,BHS,2012,0.0
-Bahamas,BHS,2013,0.0
-Bahamas,BHS,2014,0.0
-Bahamas,BHS,2015,0.0
-Bahamas,BHS,2016,0.0
-Bahamas,BHS,2017,0.0
-Bahamas,BHS,2018,0.0
-Bahamas,BHS,2019,0.0
-Bahrain,BHR,2000,0.0
-Bahrain,BHR,2001,0.0
-Bahrain,BHR,2002,0.0
-Bahrain,BHR,2003,0.0
-Bahrain,BHR,2004,0.0
-Bahrain,BHR,2005,2.313208420078649e-05
-Bahrain,BHR,2006,4.9462099666130826e-05
-Bahrain,BHR,2007,2.373042240151875e-05
-Bahrain,BHR,2008,0.03874143269205325
-Bahrain,BHR,2009,0.027858219850178303
-Bahrain,BHR,2010,0.021859124658069558
-Bahrain,BHR,2011,0.021701102801368992
-Bahrain,BHR,2012,0.019319602889007984
-Bahrain,BHR,2013,0.01014372507560956
-Bahrain,BHR,2014,0.01065168974532778
-Bahrain,BHR,2015,0.008286377195889956
-Bahrain,BHR,2016,0.008482585344489776
-Bahrain,BHR,2017,0.008760634628650264
-Bahrain,BHR,2018,0.09954703465711576
-Bahrain,BHR,2019,0.016928460975014242
-Bangladesh,BGD,2000,0.0
-Bangladesh,BGD,2001,0.0
-Bangladesh,BGD,2002,0.0
-Bangladesh,BGD,2003,0.0
-Bangladesh,BGD,2004,0.0
-Bangladesh,BGD,2005,2.313208420078649e-05
-Bangladesh,BGD,2006,4.9462099666130826e-05
-Bangladesh,BGD,2007,2.373042240151875e-05
-Bangladesh,BGD,2008,0.03874143269205325
-Bangladesh,BGD,2009,0.027858219850178303
-Bangladesh,BGD,2010,0.021859124658069558
-Bangladesh,BGD,2011,0.021701102801368992
-Bangladesh,BGD,2012,0.019319602889007984
-Bangladesh,BGD,2013,0.01014372507560956
-Bangladesh,BGD,2014,0.01065168974532778
-Bangladesh,BGD,2015,0.008286377195889956
-Bangladesh,BGD,2016,0.008482585344489776
-Bangladesh,BGD,2017,0.008760634628650264
-Bangladesh,BGD,2018,0.09954703465711576
-Bangladesh,BGD,2019,0.016928460975014242
-Barbados,BRB,2000,0.0
-Barbados,BRB,2001,0.0
-Barbados,BRB,2002,0.0
-Barbados,BRB,2003,0.0
-Barbados,BRB,2004,0.0
-Barbados,BRB,2005,0.0
-Barbados,BRB,2006,0.0
-Barbados,BRB,2007,0.0
-Barbados,BRB,2008,0.0
-Barbados,BRB,2009,0.0
-Barbados,BRB,2010,0.0
-Barbados,BRB,2011,0.0
-Barbados,BRB,2012,0.0
-Barbados,BRB,2013,0.0
-Barbados,BRB,2014,0.0
-Barbados,BRB,2015,0.0
-Barbados,BRB,2016,0.0
-Barbados,BRB,2017,0.0
-Barbados,BRB,2018,0.0
-Barbados,BRB,2019,0.0
-Belarus,BLR,2000,0.1909706546275395
-Belarus,BLR,2001,0.2038547071905115
-Belarus,BLR,2002,0.19305519564654056
-Belarus,BLR,2003,0.18571053322826367
-Belarus,BLR,2004,0.17306707629288273
-Belarus,BLR,2005,0.166304085085811
-Belarus,BLR,2006,0.1563348416289593
-Belarus,BLR,2007,0.14493712772998013
-Belarus,BLR,2008,0.13514056224899598
-Belarus,BLR,2009,0.16571292322365286
-Belarus,BLR,2010,0.18257756563245825
-Belarus,BLR,2011,0.1580873941889728
-Belarus,BLR,2012,0.15722411831626848
-Belarus,BLR,2013,0.1597091932457786
-Belarus,BLR,2014,0.16515296367112808
-Belarus,BLR,2015,0.1601109430156329
-Belarus,BLR,2016,0.1591643869684158
-Belarus,BLR,2017,0.1597345132743363
-Belarus,BLR,2018,0.15561279244473064
-Belarus,BLR,2019,0.15393158596179474
-Belgium,BEL,2000,0.0
-Belgium,BEL,2001,0.0
-Belgium,BEL,2002,0.0
-Belgium,BEL,2003,0.0
-Belgium,BEL,2004,0.004132231404958679
-Belgium,BEL,2005,0.0014255167498218105
-Belgium,BEL,2006,0.005802707930367505
-Belgium,BEL,2007,0.007044508485430676
-Belgium,BEL,2008,0.003980404164115126
-Belgium,BEL,2009,0.0019953441968739607
-Belgium,BEL,2010,0.006029544769369914
-Belgium,BEL,2011,0.006693440428380189
-Belgium,BEL,2012,0.0029644268774703555
-Belgium,BEL,2013,0.004029758214507129
-Belgium,BEL,2014,0.0036218761318362923
-Belgium,BEL,2015,0.006716154118062922
-Belgium,BEL,2016,0.0065167807103290966
-Belgium,BEL,2017,0.0060471037555697
-Belgium,BEL,2018,0.006643467257197089
-Belgium,BEL,2019,0.0066611157368859295
-Belize,BLZ,2000,0.0
-Belize,BLZ,2001,0.0
-Belize,BLZ,2002,0.0
-Belize,BLZ,2003,0.0
-Belize,BLZ,2004,0.0
-Belize,BLZ,2005,0.0
-Belize,BLZ,2006,0.0
-Belize,BLZ,2007,0.0
-Belize,BLZ,2008,0.0
-Belize,BLZ,2009,0.0
-Belize,BLZ,2010,0.0
-Belize,BLZ,2011,0.0
-Belize,BLZ,2012,0.0
-Belize,BLZ,2013,0.0
-Belize,BLZ,2014,0.0
-Belize,BLZ,2015,0.0
-Belize,BLZ,2016,0.0
-Belize,BLZ,2017,0.0
-Belize,BLZ,2018,0.0
-Belize,BLZ,2019,0.0
-Benin,BEN,2000,0.0
-Benin,BEN,2001,0.0
-Benin,BEN,2002,0.0
-Benin,BEN,2003,0.0
-Benin,BEN,2004,0.0
-Benin,BEN,2005,0.0
-Benin,BEN,2006,0.0
-Benin,BEN,2007,0.0
-Benin,BEN,2008,0.0
-Benin,BEN,2009,0.0
-Benin,BEN,2010,0.0
-Benin,BEN,2011,0.0
-Benin,BEN,2012,0.0
-Benin,BEN,2013,0.0
-Benin,BEN,2014,0.0
-Benin,BEN,2015,0.0
-Benin,BEN,2016,0.0
-Benin,BEN,2017,0.0
-Benin,BEN,2018,0.0
-Benin,BEN,2019,0.0
-Bermuda,BMU,2000,0.0
-Bermuda,BMU,2001,0.0
-Bermuda,BMU,2002,0.0
-Bermuda,BMU,2003,0.0
-Bermuda,BMU,2004,0.0
-Bermuda,BMU,2005,0.0
-Bermuda,BMU,2006,0.0
-Bermuda,BMU,2007,0.0
-Bermuda,BMU,2008,0.0
-Bermuda,BMU,2009,0.0
-Bermuda,BMU,2010,0.0
-Bermuda,BMU,2011,0.0
-Bermuda,BMU,2012,0.0
-Bermuda,BMU,2013,0.0
-Bermuda,BMU,2014,0.0
-Bermuda,BMU,2015,0.0
-Bermuda,BMU,2016,0.0
-Bermuda,BMU,2017,0.0
-Bermuda,BMU,2018,0.0
-Bermuda,BMU,2019,0.0
-Bhutan,BTN,2000,0.0
-Bhutan,BTN,2001,0.0
-Bhutan,BTN,2002,0.0
-Bhutan,BTN,2003,0.0
-Bhutan,BTN,2004,0.0
-Bhutan,BTN,2005,2.313208420078649e-05
-Bhutan,BTN,2006,4.9462099666130826e-05
-Bhutan,BTN,2007,2.373042240151875e-05
-Bhutan,BTN,2008,0.03874143269205325
-Bhutan,BTN,2009,0.027858219850178303
-Bhutan,BTN,2010,0.021859124658069558
-Bhutan,BTN,2011,0.021701102801368992
-Bhutan,BTN,2012,0.019319602889007984
-Bhutan,BTN,2013,0.01014372507560956
-Bhutan,BTN,2014,0.01065168974532778
-Bhutan,BTN,2015,0.008286377195889956
-Bhutan,BTN,2016,0.008482585344489776
-Bhutan,BTN,2017,0.008760634628650264
-Bhutan,BTN,2018,0.09954703465711576
-Bhutan,BTN,2019,0.016928460975014242
-Bolivia,BOL,2000,0.0
-Bolivia,BOL,2001,0.0
-Bolivia,BOL,2002,0.0
-Bolivia,BOL,2003,0.0
-Bolivia,BOL,2004,0.0
-Bolivia,BOL,2005,0.0
-Bolivia,BOL,2006,0.0
-Bolivia,BOL,2007,0.0
-Bolivia,BOL,2008,0.0
-Bolivia,BOL,2009,0.0
-Bolivia,BOL,2010,0.0
-Bolivia,BOL,2011,0.0
-Bolivia,BOL,2012,0.0
-Bolivia,BOL,2013,0.0
-Bolivia,BOL,2014,0.0
-Bolivia,BOL,2015,0.0
-Bolivia,BOL,2016,0.0
-Bolivia,BOL,2017,0.0
-Bolivia,BOL,2018,0.0
-Bolivia,BOL,2019,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2000,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2001,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2002,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2003,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2004,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2005,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2006,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2007,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2008,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2009,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2010,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2011,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2012,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2013,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2014,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2015,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2016,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2017,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2018,0.0
-"Bonaire, Sint Eustatius and Saba",BES,2019,0.0
-Bosnia and Herzegovina,BIH,2000,0.0
-Bosnia and Herzegovina,BIH,2001,0.0
-Bosnia and Herzegovina,BIH,2002,0.0
-Bosnia and Herzegovina,BIH,2003,0.0
-Bosnia and Herzegovina,BIH,2004,0.0
-Bosnia and Herzegovina,BIH,2005,0.0
-Bosnia and Herzegovina,BIH,2006,0.0
-Bosnia and Herzegovina,BIH,2007,0.0
-Bosnia and Herzegovina,BIH,2008,0.0
-Bosnia and Herzegovina,BIH,2009,0.0
-Bosnia and Herzegovina,BIH,2010,0.0
-Bosnia and Herzegovina,BIH,2011,0.0
-Bosnia and Herzegovina,BIH,2012,0.0
-Bosnia and Herzegovina,BIH,2013,0.0
-Bosnia and Herzegovina,BIH,2014,0.0
-Bosnia and Herzegovina,BIH,2015,0.0
-Bosnia and Herzegovina,BIH,2016,0.0
-Bosnia and Herzegovina,BIH,2017,0.0
-Bosnia and Herzegovina,BIH,2018,0.0
-Bosnia and Herzegovina,BIH,2019,0.0
-Botswana,BWA,2000,0.0
-Botswana,BWA,2001,0.0
-Botswana,BWA,2002,0.0
-Botswana,BWA,2003,0.0
-Botswana,BWA,2004,0.0
-Botswana,BWA,2005,0.0
-Botswana,BWA,2006,0.0
-Botswana,BWA,2007,0.0
-Botswana,BWA,2008,0.0
-Botswana,BWA,2009,0.0
-Botswana,BWA,2010,0.0
-Botswana,BWA,2011,0.0
-Botswana,BWA,2012,0.0
-Botswana,BWA,2013,0.0
-Botswana,BWA,2014,0.0
-Botswana,BWA,2015,0.0
-Botswana,BWA,2016,0.0
-Botswana,BWA,2017,0.0
-Botswana,BWA,2018,0.0
-Botswana,BWA,2019,0.0
-Bouvet Island,BVT,2000,0.0094
-Bouvet Island,BVT,2001,0.0086
-Bouvet Island,BVT,2002,0.0078
-Bouvet Island,BVT,2003,0.0074
-Bouvet Island,BVT,2004,0.0064
-Bouvet Island,BVT,2005,0.0059
-Bouvet Island,BVT,2006,0.0057
-Bouvet Island,BVT,2007,0.0089
-Bouvet Island,BVT,2008,0.0127
-Bouvet Island,BVT,2009,0.0121
-Bouvet Island,BVT,2010,0.0111
-Bouvet Island,BVT,2011,0.0107
-Bouvet Island,BVT,2012,0.0104
-Bouvet Island,BVT,2013,0.0087
-Bouvet Island,BVT,2014,0.0085
-Bouvet Island,BVT,2015,0.0074
-Bouvet Island,BVT,2016,0.0078
-Bouvet Island,BVT,2017,0.0076
-Bouvet Island,BVT,2018,0.0159
-Bouvet Island,BVT,2019,0.0078
-Brazil,BRA,2000,0.0
-Brazil,BRA,2001,0.0
-Brazil,BRA,2002,0.0
-Brazil,BRA,2003,0.0
-Brazil,BRA,2004,0.0
-Brazil,BRA,2005,0.0
-Brazil,BRA,2006,0.0
-Brazil,BRA,2007,0.0
-Brazil,BRA,2008,0.0
-Brazil,BRA,2009,0.0
-Brazil,BRA,2010,0.0
-Brazil,BRA,2011,0.0
-Brazil,BRA,2012,0.0
-Brazil,BRA,2013,0.0
-Brazil,BRA,2014,0.0
-Brazil,BRA,2015,0.0
-Brazil,BRA,2016,0.0
-Brazil,BRA,2017,0.0
-Brazil,BRA,2018,0.0
-Brazil,BRA,2019,0.0
-British Indian Ocean Territory,IOT,2000,0.0
-British Indian Ocean Territory,IOT,2001,0.0
-British Indian Ocean Territory,IOT,2002,0.0
-British Indian Ocean Territory,IOT,2003,0.0
-British Indian Ocean Territory,IOT,2004,0.0
-British Indian Ocean Territory,IOT,2005,2.313208420078649e-05
-British Indian Ocean Territory,IOT,2006,4.9462099666130826e-05
-British Indian Ocean Territory,IOT,2007,2.373042240151875e-05
-British Indian Ocean Territory,IOT,2008,0.03874143269205325
-British Indian Ocean Territory,IOT,2009,0.027858219850178303
-British Indian Ocean Territory,IOT,2010,0.021859124658069558
-British Indian Ocean Territory,IOT,2011,0.021701102801368992
-British Indian Ocean Territory,IOT,2012,0.019319602889007984
-British Indian Ocean Territory,IOT,2013,0.01014372507560956
-British Indian Ocean Territory,IOT,2014,0.01065168974532778
-British Indian Ocean Territory,IOT,2015,0.008286377195889956
-British Indian Ocean Territory,IOT,2016,0.008482585344489776
-British Indian Ocean Territory,IOT,2017,0.008760634628650264
-British Indian Ocean Territory,IOT,2018,0.09954703465711576
-British Indian Ocean Territory,IOT,2019,0.016928460975014242
-Brunei Darussalam,BRN,2000,0.0
-Brunei Darussalam,BRN,2001,0.0
-Brunei Darussalam,BRN,2002,0.0
-Brunei Darussalam,BRN,2003,0.0
-Brunei Darussalam,BRN,2004,0.0
-Brunei Darussalam,BRN,2005,2.313208420078649e-05
-Brunei Darussalam,BRN,2006,4.9462099666130826e-05
-Brunei Darussalam,BRN,2007,2.373042240151875e-05
-Brunei Darussalam,BRN,2008,0.03874143269205325
-Brunei Darussalam,BRN,2009,0.027858219850178303
-Brunei Darussalam,BRN,2010,0.021859124658069558
-Brunei Darussalam,BRN,2011,0.021701102801368992
-Brunei Darussalam,BRN,2012,0.019319602889007984
-Brunei Darussalam,BRN,2013,0.01014372507560956
-Brunei Darussalam,BRN,2014,0.01065168974532778
-Brunei Darussalam,BRN,2015,0.008286377195889956
-Brunei Darussalam,BRN,2016,0.008482585344489776
-Brunei Darussalam,BRN,2017,0.008760634628650264
-Brunei Darussalam,BRN,2018,0.09954703465711576
-Brunei Darussalam,BRN,2019,0.016928460975014242
-Bulgaria,BGR,2000,0.0
-Bulgaria,BGR,2001,0.0008787346221441125
-Bulgaria,BGR,2002,0.0008680555555555556
-Bulgaria,BGR,2003,0.001716738197424893
-Bulgaria,BGR,2004,0.000881057268722467
-Bulgaria,BGR,2005,0.0008058017727639
-Bulgaria,BGR,2006,0.0
-Bulgaria,BGR,2007,0.002707581227436823
-Bulgaria,BGR,2008,0.002577319587628866
-Bulgaria,BGR,2009,0.001321003963011889
-Bulgaria,BGR,2010,0.048748353096179184
-Bulgaria,BGR,2011,0.04869358669833729
-Bulgaria,BGR,2012,0.05481120584652864
-Bulgaria,BGR,2013,0.05373525557011795
-Bulgaria,BGR,2014,0.05071521456436931
-Bulgaria,BGR,2015,0.016415868673050615
-Bulgaria,BGR,2016,0.04707560627674751
-Bulgaria,BGR,2017,0.05344585091420534
-Bulgaria,BGR,2018,0.048812664907651716
-Bulgaria,BGR,2019,0.055989583333333336
-Burkina Faso,BFA,2000,0.0
-Burkina Faso,BFA,2001,0.0
-Burkina Faso,BFA,2002,0.0
-Burkina Faso,BFA,2003,0.0
-Burkina Faso,BFA,2004,0.0
-Burkina Faso,BFA,2005,0.0
-Burkina Faso,BFA,2006,0.0
-Burkina Faso,BFA,2007,0.0
-Burkina Faso,BFA,2008,0.0
-Burkina Faso,BFA,2009,0.0
-Burkina Faso,BFA,2010,0.0
-Burkina Faso,BFA,2011,0.0
-Burkina Faso,BFA,2012,0.0
-Burkina Faso,BFA,2013,0.0
-Burkina Faso,BFA,2014,0.0
-Burkina Faso,BFA,2015,0.0
-Burkina Faso,BFA,2016,0.0
-Burkina Faso,BFA,2017,0.0
-Burkina Faso,BFA,2018,0.0
-Burkina Faso,BFA,2019,0.0
-Burundi,BDI,2000,0.0
-Burundi,BDI,2001,0.0
-Burundi,BDI,2002,0.0
-Burundi,BDI,2003,0.0
-Burundi,BDI,2004,0.0
-Burundi,BDI,2005,0.0
-Burundi,BDI,2006,0.0
-Burundi,BDI,2007,0.0
-Burundi,BDI,2008,0.0
-Burundi,BDI,2009,0.0
-Burundi,BDI,2010,0.0
-Burundi,BDI,2011,0.0
-Burundi,BDI,2012,0.0
-Burundi,BDI,2013,0.0
-Burundi,BDI,2014,0.0
-Burundi,BDI,2015,0.0
-Burundi,BDI,2016,0.0
-Burundi,BDI,2017,0.0
-Burundi,BDI,2018,0.0
-Burundi,BDI,2019,0.0
-Cambodia,KHM,2000,0.0
-Cambodia,KHM,2001,0.0
-Cambodia,KHM,2002,0.0
-Cambodia,KHM,2003,0.0
-Cambodia,KHM,2004,0.0
-Cambodia,KHM,2005,2.313208420078649e-05
-Cambodia,KHM,2006,4.9462099666130826e-05
-Cambodia,KHM,2007,2.373042240151875e-05
-Cambodia,KHM,2008,0.03874143269205325
-Cambodia,KHM,2009,0.027858219850178303
-Cambodia,KHM,2010,0.021859124658069558
-Cambodia,KHM,2011,0.021701102801368992
-Cambodia,KHM,2012,0.019319602889007984
-Cambodia,KHM,2013,0.01014372507560956
-Cambodia,KHM,2014,0.01065168974532778
-Cambodia,KHM,2015,0.008286377195889956
-Cambodia,KHM,2016,0.008482585344489776
-Cambodia,KHM,2017,0.008760634628650264
-Cambodia,KHM,2018,0.09954703465711576
-Cambodia,KHM,2019,0.016928460975014242
-Cameroon,CMR,2000,0.0
-Cameroon,CMR,2001,0.0
-Cameroon,CMR,2002,0.0
-Cameroon,CMR,2003,0.0
-Cameroon,CMR,2004,0.0
-Cameroon,CMR,2005,0.0
-Cameroon,CMR,2006,0.0
-Cameroon,CMR,2007,0.0
-Cameroon,CMR,2008,0.0
-Cameroon,CMR,2009,0.0
-Cameroon,CMR,2010,0.0
-Cameroon,CMR,2011,0.0
-Cameroon,CMR,2012,0.0
-Cameroon,CMR,2013,0.0
-Cameroon,CMR,2014,0.0
-Cameroon,CMR,2015,0.0
-Cameroon,CMR,2016,0.0
-Cameroon,CMR,2017,0.0
-Cameroon,CMR,2018,0.0
-Cameroon,CMR,2019,0.0
-Canada,CAN,2000,0.0
-Canada,CAN,2001,0.0
-Canada,CAN,2002,0.0
-Canada,CAN,2003,0.0
-Canada,CAN,2004,0.0
-Canada,CAN,2005,0.0
-Canada,CAN,2006,0.0
-Canada,CAN,2007,0.0
-Canada,CAN,2008,0.0
-Canada,CAN,2009,0.0
-Canada,CAN,2010,0.0
-Canada,CAN,2011,0.0
-Canada,CAN,2012,0.0
-Canada,CAN,2013,0.0
-Canada,CAN,2014,0.0
-Canada,CAN,2015,0.0
-Canada,CAN,2016,0.0
-Canada,CAN,2017,0.0
-Canada,CAN,2018,0.0
-Canada,CAN,2019,0.0
-Cape Verde,CPV,2000,0.0
-Cape Verde,CPV,2001,0.0
-Cape Verde,CPV,2002,0.0
-Cape Verde,CPV,2003,0.0
-Cape Verde,CPV,2004,0.0
-Cape Verde,CPV,2005,0.0
-Cape Verde,CPV,2006,0.0
-Cape Verde,CPV,2007,0.0
-Cape Verde,CPV,2008,0.0
-Cape Verde,CPV,2009,0.0
-Cape Verde,CPV,2010,0.0
-Cape Verde,CPV,2011,0.0
-Cape Verde,CPV,2012,0.0
-Cape Verde,CPV,2013,0.0
-Cape Verde,CPV,2014,0.0
-Cape Verde,CPV,2015,0.0
-Cape Verde,CPV,2016,0.0
-Cape Verde,CPV,2017,0.0
-Cape Verde,CPV,2018,0.0
-Cape Verde,CPV,2019,0.0
-Cayman Islands,CYM,2000,0.0
-Cayman Islands,CYM,2001,0.0
-Cayman Islands,CYM,2002,0.0
-Cayman Islands,CYM,2003,0.0
-Cayman Islands,CYM,2004,0.0
-Cayman Islands,CYM,2005,0.0
-Cayman Islands,CYM,2006,0.0
-Cayman Islands,CYM,2007,0.0
-Cayman Islands,CYM,2008,0.0
-Cayman Islands,CYM,2009,0.0
-Cayman Islands,CYM,2010,0.0
-Cayman Islands,CYM,2011,0.0
-Cayman Islands,CYM,2012,0.0
-Cayman Islands,CYM,2013,0.0
-Cayman Islands,CYM,2014,0.0
-Cayman Islands,CYM,2015,0.0
-Cayman Islands,CYM,2016,0.0
-Cayman Islands,CYM,2017,0.0
-Cayman Islands,CYM,2018,0.0
-Cayman Islands,CYM,2019,0.0
-Central African Republic,CAF,2000,0.0
-Central African Republic,CAF,2001,0.0
-Central African Republic,CAF,2002,0.0
-Central African Republic,CAF,2003,0.0
-Central African Republic,CAF,2004,0.0
-Central African Republic,CAF,2005,0.0
-Central African Republic,CAF,2006,0.0
-Central African Republic,CAF,2007,0.0
-Central African Republic,CAF,2008,0.0
-Central African Republic,CAF,2009,0.0
-Central African Republic,CAF,2010,0.0
-Central African Republic,CAF,2011,0.0
-Central African Republic,CAF,2012,0.0
-Central African Republic,CAF,2013,0.0
-Central African Republic,CAF,2014,0.0
-Central African Republic,CAF,2015,0.0
-Central African Republic,CAF,2016,0.0
-Central African Republic,CAF,2017,0.0
-Central African Republic,CAF,2018,0.0
-Central African Republic,CAF,2019,0.0
-Chad,TCD,2000,0.0
-Chad,TCD,2001,0.0
-Chad,TCD,2002,0.0
-Chad,TCD,2003,0.0
-Chad,TCD,2004,0.0
-Chad,TCD,2005,0.0
-Chad,TCD,2006,0.0
-Chad,TCD,2007,0.0
-Chad,TCD,2008,0.0
-Chad,TCD,2009,0.0
-Chad,TCD,2010,0.0
-Chad,TCD,2011,0.0
-Chad,TCD,2012,0.0
-Chad,TCD,2013,0.0
-Chad,TCD,2014,0.0
-Chad,TCD,2015,0.0
-Chad,TCD,2016,0.0
-Chad,TCD,2017,0.0
-Chad,TCD,2018,0.0
-Chad,TCD,2019,0.0
-Chile,CHL,2000,0.0
-Chile,CHL,2001,0.0
-Chile,CHL,2002,0.0
-Chile,CHL,2003,0.0
-Chile,CHL,2004,0.0
-Chile,CHL,2005,0.0
-Chile,CHL,2006,0.0
-Chile,CHL,2007,0.0
-Chile,CHL,2008,0.0
-Chile,CHL,2009,0.0
-Chile,CHL,2010,0.0
-Chile,CHL,2011,0.0
-Chile,CHL,2012,0.0
-Chile,CHL,2013,0.0
-Chile,CHL,2014,0.0
-Chile,CHL,2015,0.0
-Chile,CHL,2016,0.0
-Chile,CHL,2017,0.0
-Chile,CHL,2018,0.0
-Chile,CHL,2019,0.0
-China,CHN,2000,0.0
-China,CHN,2001,0.0
-China,CHN,2002,0.0
-China,CHN,2003,0.0
-China,CHN,2004,0.0
-China,CHN,2005,2.313208420078649e-05
-China,CHN,2006,4.9462099666130826e-05
-China,CHN,2007,2.373042240151875e-05
-China,CHN,2008,0.03874143269205325
-China,CHN,2009,0.027858219850178303
-China,CHN,2010,0.021859124658069558
-China,CHN,2011,0.021701102801368992
-China,CHN,2012,0.019319602889007984
-China,CHN,2013,0.01014372507560956
-China,CHN,2014,0.01065168974532778
-China,CHN,2015,0.008286377195889956
-China,CHN,2016,0.008482585344489776
-China,CHN,2017,0.008760634628650264
-China,CHN,2018,0.09954703465711576
-China,CHN,2019,0.016928460975014242
-Christmas Island,CXR,2000,0.0
-Christmas Island,CXR,2001,0.0
-Christmas Island,CXR,2002,0.0
-Christmas Island,CXR,2003,0.0
-Christmas Island,CXR,2004,0.0
-Christmas Island,CXR,2005,2.313208420078649e-05
-Christmas Island,CXR,2006,4.9462099666130826e-05
-Christmas Island,CXR,2007,2.373042240151875e-05
-Christmas Island,CXR,2008,0.03874143269205325
-Christmas Island,CXR,2009,0.027858219850178303
-Christmas Island,CXR,2010,0.021859124658069558
-Christmas Island,CXR,2011,0.021701102801368992
-Christmas Island,CXR,2012,0.019319602889007984
-Christmas Island,CXR,2013,0.01014372507560956
-Christmas Island,CXR,2014,0.01065168974532778
-Christmas Island,CXR,2015,0.008286377195889956
-Christmas Island,CXR,2016,0.008482585344489776
-Christmas Island,CXR,2017,0.008760634628650264
-Christmas Island,CXR,2018,0.09954703465711576
-Christmas Island,CXR,2019,0.016928460975014242
-Cocos (Keeling) Islands,CCK,2000,0.0
-Cocos (Keeling) Islands,CCK,2001,0.0
-Cocos (Keeling) Islands,CCK,2002,0.0
-Cocos (Keeling) Islands,CCK,2003,0.0
-Cocos (Keeling) Islands,CCK,2004,0.0
-Cocos (Keeling) Islands,CCK,2005,2.313208420078649e-05
-Cocos (Keeling) Islands,CCK,2006,4.9462099666130826e-05
-Cocos (Keeling) Islands,CCK,2007,2.373042240151875e-05
-Cocos (Keeling) Islands,CCK,2008,0.03874143269205325
-Cocos (Keeling) Islands,CCK,2009,0.027858219850178303
-Cocos (Keeling) Islands,CCK,2010,0.021859124658069558
-Cocos (Keeling) Islands,CCK,2011,0.021701102801368992
-Cocos (Keeling) Islands,CCK,2012,0.019319602889007984
-Cocos (Keeling) Islands,CCK,2013,0.01014372507560956
-Cocos (Keeling) Islands,CCK,2014,0.01065168974532778
-Cocos (Keeling) Islands,CCK,2015,0.008286377195889956
-Cocos (Keeling) Islands,CCK,2016,0.008482585344489776
-Cocos (Keeling) Islands,CCK,2017,0.008760634628650264
-Cocos (Keeling) Islands,CCK,2018,0.09954703465711576
-Cocos (Keeling) Islands,CCK,2019,0.016928460975014242
-Colombia,COL,2000,0.0
-Colombia,COL,2001,0.0
-Colombia,COL,2002,0.0
-Colombia,COL,2003,0.0
-Colombia,COL,2004,0.0
-Colombia,COL,2005,0.0
-Colombia,COL,2006,0.0
-Colombia,COL,2007,0.0
-Colombia,COL,2008,0.0
-Colombia,COL,2009,0.0
-Colombia,COL,2010,0.0
-Colombia,COL,2011,0.0
-Colombia,COL,2012,0.0
-Colombia,COL,2013,0.0
-Colombia,COL,2014,0.0
-Colombia,COL,2015,0.0
-Colombia,COL,2016,0.0
-Colombia,COL,2017,0.0
-Colombia,COL,2018,0.0
-Colombia,COL,2019,0.0
-Comoros,COM,2000,0.0
-Comoros,COM,2001,0.0
-Comoros,COM,2002,0.0
-Comoros,COM,2003,0.0
-Comoros,COM,2004,0.0
-Comoros,COM,2005,0.0
-Comoros,COM,2006,0.0
-Comoros,COM,2007,0.0
-Comoros,COM,2008,0.0
-Comoros,COM,2009,0.0
-Comoros,COM,2010,0.0
-Comoros,COM,2011,0.0
-Comoros,COM,2012,0.0
-Comoros,COM,2013,0.0
-Comoros,COM,2014,0.0
-Comoros,COM,2015,0.0
-Comoros,COM,2016,0.0
-Comoros,COM,2017,0.0
-Comoros,COM,2018,0.0
-Comoros,COM,2019,0.0
-Congo,COG,2000,0.0
-Congo,COG,2001,0.0
-Congo,COG,2002,0.0
-Congo,COG,2003,0.0
-Congo,COG,2004,0.0
-Congo,COG,2005,0.0
-Congo,COG,2006,0.0
-Congo,COG,2007,0.0
-Congo,COG,2008,0.0
-Congo,COG,2009,0.0
-Congo,COG,2010,0.0
-Congo,COG,2011,0.0
-Congo,COG,2012,0.0
-Congo,COG,2013,0.0
-Congo,COG,2014,0.0
-Congo,COG,2015,0.0
-Congo,COG,2016,0.0
-Congo,COG,2017,0.0
-Congo,COG,2018,0.0
-Congo,COG,2019,0.0
-"Congo, the Democratic Republic of the",COD,2000,0.0
-"Congo, the Democratic Republic of the",COD,2001,0.0
-"Congo, the Democratic Republic of the",COD,2002,0.0
-"Congo, the Democratic Republic of the",COD,2003,0.0
-"Congo, the Democratic Republic of the",COD,2004,0.0
-"Congo, the Democratic Republic of the",COD,2005,0.0
-"Congo, the Democratic Republic of the",COD,2006,0.0
-"Congo, the Democratic Republic of the",COD,2007,0.0
-"Congo, the Democratic Republic of the",COD,2008,0.0
-"Congo, the Democratic Republic of the",COD,2009,0.0
-"Congo, the Democratic Republic of the",COD,2010,0.0
-"Congo, the Democratic Republic of the",COD,2011,0.0
-"Congo, the Democratic Republic of the",COD,2012,0.0
-"Congo, the Democratic Republic of the",COD,2013,0.0
-"Congo, the Democratic Republic of the",COD,2014,0.0
-"Congo, the Democratic Republic of the",COD,2015,0.0
-"Congo, the Democratic Republic of the",COD,2016,0.0
-"Congo, the Democratic Republic of the",COD,2017,0.0
-"Congo, the Democratic Republic of the",COD,2018,0.0
-"Congo, the Democratic Republic of the",COD,2019,0.0
-Cook Islands,COK,2000,0.0
-Cook Islands,COK,2001,0.0
-Cook Islands,COK,2002,0.0
-Cook Islands,COK,2003,0.0
-Cook Islands,COK,2004,0.0
-Cook Islands,COK,2005,0.0
-Cook Islands,COK,2006,0.0
-Cook Islands,COK,2007,0.0
-Cook Islands,COK,2008,0.0
-Cook Islands,COK,2009,0.0
-Cook Islands,COK,2010,0.0
-Cook Islands,COK,2011,0.0
-Cook Islands,COK,2012,0.0
-Cook Islands,COK,2013,0.0
-Cook Islands,COK,2014,0.0
-Cook Islands,COK,2015,0.0
-Cook Islands,COK,2016,0.0
-Cook Islands,COK,2017,0.0
-Cook Islands,COK,2018,0.0
-Cook Islands,COK,2019,0.0
-Costa Rica,CRI,2000,0.0
-Costa Rica,CRI,2001,0.0
-Costa Rica,CRI,2002,0.0
-Costa Rica,CRI,2003,0.0
-Costa Rica,CRI,2004,0.0
-Costa Rica,CRI,2005,0.0
-Costa Rica,CRI,2006,0.0
-Costa Rica,CRI,2007,0.0
-Costa Rica,CRI,2008,0.0
-Costa Rica,CRI,2009,0.0
-Costa Rica,CRI,2010,0.0
-Costa Rica,CRI,2011,0.0
-Costa Rica,CRI,2012,0.0
-Costa Rica,CRI,2013,0.0
-Costa Rica,CRI,2014,0.0
-Costa Rica,CRI,2015,0.0
-Costa Rica,CRI,2016,0.0
-Costa Rica,CRI,2017,0.0
-Costa Rica,CRI,2018,0.0
-Costa Rica,CRI,2019,0.0
-Croatia,HRV,2000,0.0
-Croatia,HRV,2001,0.0
-Croatia,HRV,2002,0.0
-Croatia,HRV,2003,0.0
-Croatia,HRV,2004,0.0
-Croatia,HRV,2005,0.0
-Croatia,HRV,2006,0.0
-Croatia,HRV,2007,0.0
-Croatia,HRV,2008,0.0
-Croatia,HRV,2009,0.0
-Croatia,HRV,2010,0.004748338081671416
-Croatia,HRV,2011,0.00373134328358209
-Croatia,HRV,2012,0.010101010101010105
-Croatia,HRV,2013,0.019427402862985686
-Croatia,HRV,2014,0.021825396825396824
-Croatia,HRV,2015,0.018108651911468817
-Croatia,HRV,2016,0.0198609731876862
-Croatia,HRV,2017,0.023162134944612292
-Croatia,HRV,2018,0.02463054187192118
-Croatia,HRV,2019,0.0263671875
-Cuba,CUB,2000,0.0
-Cuba,CUB,2001,0.0
-Cuba,CUB,2002,0.0
-Cuba,CUB,2003,0.0
-Cuba,CUB,2004,0.0
-Cuba,CUB,2005,0.0
-Cuba,CUB,2006,0.0
-Cuba,CUB,2007,0.0
-Cuba,CUB,2008,0.0
-Cuba,CUB,2009,0.0
-Cuba,CUB,2010,0.0
-Cuba,CUB,2011,0.0
-Cuba,CUB,2012,0.0
-Cuba,CUB,2013,0.0
-Cuba,CUB,2014,0.0
-Cuba,CUB,2015,0.0
-Cuba,CUB,2016,0.0
-Cuba,CUB,2017,0.0
-Cuba,CUB,2018,0.0
-Cuba,CUB,2019,0.0
-Curaçao,CUW,2000,0.0
-Curaçao,CUW,2001,0.0
-Curaçao,CUW,2002,0.0
-Curaçao,CUW,2003,0.0
-Curaçao,CUW,2004,0.0
-Curaçao,CUW,2005,0.0
-Curaçao,CUW,2006,0.0
-Curaçao,CUW,2007,0.0
-Curaçao,CUW,2008,0.0
-Curaçao,CUW,2009,0.0
-Curaçao,CUW,2010,0.0
-Curaçao,CUW,2011,0.0
-Curaçao,CUW,2012,0.0
-Curaçao,CUW,2013,0.0
-Curaçao,CUW,2014,0.0
-Curaçao,CUW,2015,0.0
-Curaçao,CUW,2016,0.0
-Curaçao,CUW,2017,0.0
-Curaçao,CUW,2018,0.0
-Curaçao,CUW,2019,0.0
-Cyprus,CYP,2000,0.0
-Cyprus,CYP,2001,0.0
-Cyprus,CYP,2002,0.0
-Cyprus,CYP,2003,0.0
-Cyprus,CYP,2004,0.0
-Cyprus,CYP,2005,0.0
-Cyprus,CYP,2006,0.0
-Cyprus,CYP,2007,0.0
-Cyprus,CYP,2008,0.0
-Cyprus,CYP,2009,0.0
-Cyprus,CYP,2010,0.00625
-Cyprus,CYP,2011,0.018292682926829267
-Cyprus,CYP,2012,0.019108280254777076
-Cyprus,CYP,2013,0.02531645569620253
-Cyprus,CYP,2014,0.03378378378378378
-Cyprus,CYP,2015,0.030303030303030307
-Cyprus,CYP,2016,0.028571428571428574
-Cyprus,CYP,2017,0.027472527472527482
-Cyprus,CYP,2018,0.02824858757062147
-Cyprus,CYP,2019,0.02808988764044944
-Czech Republic,CZE,2000,0.02470032691609154
-Czech Republic,CZE,2001,0.019569471624266147
-Czech Republic,CZE,2002,0.02085940759282437
-Czech Republic,CZE,2003,0.026909722222222227
-Czech Republic,CZE,2004,0.02507699076110867
-Czech Republic,CZE,2005,0.02496656263932234
-Czech Republic,CZE,2006,0.022251891410769917
-Czech Republic,CZE,2007,0.02385496183206107
-Czech Republic,CZE,2008,0.017619047619047618
-Czech Republic,CZE,2009,0.014335145823035097
-Czech Republic,CZE,2010,0.025812619502868072
-Czech Republic,CZE,2011,0.024709302325581398
-Czech Republic,CZE,2012,0.017517517517517515
-Czech Republic,CZE,2013,0.016585365853658537
-Czech Republic,CZE,2014,0.015099853872381878
-Czech Republic,CZE,2015,0.012928891098955744
-Czech Republic,CZE,2016,0.01453488372093023
-Czech Republic,CZE,2017,0.014292520247737018
-Czech Republic,CZE,2018,0.015218458517427591
-Czech Republic,CZE,2019,0.017535545023696683
-Côte d'Ivoire,CIV,2000,0.0
-Côte d'Ivoire,CIV,2001,0.0
-Côte d'Ivoire,CIV,2002,0.0
-Côte d'Ivoire,CIV,2003,0.0
-Côte d'Ivoire,CIV,2004,0.0
-Côte d'Ivoire,CIV,2005,0.0
-Côte d'Ivoire,CIV,2006,0.0
-Côte d'Ivoire,CIV,2007,0.0
-Côte d'Ivoire,CIV,2008,0.0
-Côte d'Ivoire,CIV,2009,0.0
-Côte d'Ivoire,CIV,2010,0.0
-Côte d'Ivoire,CIV,2011,0.0
-Côte d'Ivoire,CIV,2012,0.0
-Côte d'Ivoire,CIV,2013,0.0
-Côte d'Ivoire,CIV,2014,0.0
-Côte d'Ivoire,CIV,2015,0.0
-Côte d'Ivoire,CIV,2016,0.0
-Côte d'Ivoire,CIV,2017,0.0
-Côte d'Ivoire,CIV,2018,0.0
-Côte d'Ivoire,CIV,2019,0.0
-Denmark,DNK,2000,0.04971067859021568
-Denmark,DNK,2001,0.05062952049290116
-Denmark,DNK,2002,0.05172413793103448
-Denmark,DNK,2003,0.05288192501398992
-Denmark,DNK,2004,0.058409157616671564
-Denmark,DNK,2005,0.058598351001177836
-Denmark,DNK,2006,0.056743655546050764
-Denmark,DNK,2007,0.06012084592145015
-Denmark,DNK,2008,0.05952737062518696
-Denmark,DNK,2009,0.05972388955582233
-Denmark,DNK,2010,0.05813613789073911
-Denmark,DNK,2011,0.04919554455445545
-Denmark,DNK,2012,0.052285432423544886
-Denmark,DNK,2013,0.05177466623249756
-Denmark,DNK,2014,0.05522750955192776
-Denmark,DNK,2015,0.054026503567787966
-Denmark,DNK,2016,0.05448937628512681
-Denmark,DNK,2017,0.057132590729428674
-Denmark,DNK,2018,0.05793912724605795
-Denmark,DNK,2019,0.0578790141896938
-Djibouti,DJI,2000,0.0
-Djibouti,DJI,2001,0.0
-Djibouti,DJI,2002,0.0
-Djibouti,DJI,2003,0.0
-Djibouti,DJI,2004,0.0
-Djibouti,DJI,2005,0.0
-Djibouti,DJI,2006,0.0
-Djibouti,DJI,2007,0.0
-Djibouti,DJI,2008,0.0
-Djibouti,DJI,2009,0.0
-Djibouti,DJI,2010,0.0
-Djibouti,DJI,2011,0.0
-Djibouti,DJI,2012,0.0
-Djibouti,DJI,2013,0.0
-Djibouti,DJI,2014,0.0
-Djibouti,DJI,2015,0.0
-Djibouti,DJI,2016,0.0
-Djibouti,DJI,2017,0.0
-Djibouti,DJI,2018,0.0
-Djibouti,DJI,2019,0.0
-Dominica,DMA,2000,0.0
-Dominica,DMA,2001,0.0
-Dominica,DMA,2002,0.0
-Dominica,DMA,2003,0.0
-Dominica,DMA,2004,0.0
-Dominica,DMA,2005,0.0
-Dominica,DMA,2006,0.0
-Dominica,DMA,2007,0.0
-Dominica,DMA,2008,0.0
-Dominica,DMA,2009,0.0
-Dominica,DMA,2010,0.0
-Dominica,DMA,2011,0.0
-Dominica,DMA,2012,0.0
-Dominica,DMA,2013,0.0
-Dominica,DMA,2014,0.0
-Dominica,DMA,2015,0.0
-Dominica,DMA,2016,0.0
-Dominica,DMA,2017,0.0
-Dominica,DMA,2018,0.0
-Dominica,DMA,2019,0.0
-Dominican Republic,DOM,2000,0.0
-Dominican Republic,DOM,2001,0.0
-Dominican Republic,DOM,2002,0.0
-Dominican Republic,DOM,2003,0.0
-Dominican Republic,DOM,2004,0.0
-Dominican Republic,DOM,2005,0.0
-Dominican Republic,DOM,2006,0.0
-Dominican Republic,DOM,2007,0.0
-Dominican Republic,DOM,2008,0.0
-Dominican Republic,DOM,2009,0.0
-Dominican Republic,DOM,2010,0.0
-Dominican Republic,DOM,2011,0.0
-Dominican Republic,DOM,2012,0.0
-Dominican Republic,DOM,2013,0.0
-Dominican Republic,DOM,2014,0.0
-Dominican Republic,DOM,2015,0.0
-Dominican Republic,DOM,2016,0.0
-Dominican Republic,DOM,2017,0.0
-Dominican Republic,DOM,2018,0.0
-Dominican Republic,DOM,2019,0.0
-Ecuador,ECU,2000,0.0
-Ecuador,ECU,2001,0.0
-Ecuador,ECU,2002,0.0
-Ecuador,ECU,2003,0.0
-Ecuador,ECU,2004,0.0
-Ecuador,ECU,2005,0.0
-Ecuador,ECU,2006,0.0
-Ecuador,ECU,2007,0.0
-Ecuador,ECU,2008,0.0
-Ecuador,ECU,2009,0.0
-Ecuador,ECU,2010,0.0
-Ecuador,ECU,2011,0.0
-Ecuador,ECU,2012,0.0
-Ecuador,ECU,2013,0.0
-Ecuador,ECU,2014,0.0
-Ecuador,ECU,2015,0.0
-Ecuador,ECU,2016,0.0
-Ecuador,ECU,2017,0.0
-Ecuador,ECU,2018,0.0
-Ecuador,ECU,2019,0.0
-Egypt,EGY,2000,0.0
-Egypt,EGY,2001,0.0
-Egypt,EGY,2002,0.0
-Egypt,EGY,2003,0.0
-Egypt,EGY,2004,0.0
-Egypt,EGY,2005,0.0
-Egypt,EGY,2006,0.0
-Egypt,EGY,2007,0.0
-Egypt,EGY,2008,0.0
-Egypt,EGY,2009,0.0
-Egypt,EGY,2010,0.0
-Egypt,EGY,2011,0.0
-Egypt,EGY,2012,0.0
-Egypt,EGY,2013,0.0
-Egypt,EGY,2014,0.0
-Egypt,EGY,2015,0.0
-Egypt,EGY,2016,0.0
-Egypt,EGY,2017,0.0
-Egypt,EGY,2018,0.0
-Egypt,EGY,2019,0.0
-El Salvador,SLV,2000,0.0
-El Salvador,SLV,2001,0.0
-El Salvador,SLV,2002,0.0
-El Salvador,SLV,2003,0.0
-El Salvador,SLV,2004,0.0
-El Salvador,SLV,2005,0.0
-El Salvador,SLV,2006,0.0
-El Salvador,SLV,2007,0.0
-El Salvador,SLV,2008,0.0
-El Salvador,SLV,2009,0.0
-El Salvador,SLV,2010,0.0
-El Salvador,SLV,2011,0.0
-El Salvador,SLV,2012,0.0
-El Salvador,SLV,2013,0.0
-El Salvador,SLV,2014,0.0
-El Salvador,SLV,2015,0.0
-El Salvador,SLV,2016,0.0
-El Salvador,SLV,2017,0.0
-El Salvador,SLV,2018,0.0
-El Salvador,SLV,2019,0.0
-Equatorial Guinea,GNQ,2000,0.0
-Equatorial Guinea,GNQ,2001,0.0
-Equatorial Guinea,GNQ,2002,0.0
-Equatorial Guinea,GNQ,2003,0.0
-Equatorial Guinea,GNQ,2004,0.0
-Equatorial Guinea,GNQ,2005,0.0
-Equatorial Guinea,GNQ,2006,0.0
-Equatorial Guinea,GNQ,2007,0.0
-Equatorial Guinea,GNQ,2008,0.0
-Equatorial Guinea,GNQ,2009,0.0
-Equatorial Guinea,GNQ,2010,0.0
-Equatorial Guinea,GNQ,2011,0.0
-Equatorial Guinea,GNQ,2012,0.0
-Equatorial Guinea,GNQ,2013,0.0
-Equatorial Guinea,GNQ,2014,0.0
-Equatorial Guinea,GNQ,2015,0.0
-Equatorial Guinea,GNQ,2016,0.0
-Equatorial Guinea,GNQ,2017,0.0
-Equatorial Guinea,GNQ,2018,0.0
-Equatorial Guinea,GNQ,2019,0.0
-Eritrea,ERI,2000,0.0
-Eritrea,ERI,2001,0.0
-Eritrea,ERI,2002,0.0
-Eritrea,ERI,2003,0.0
-Eritrea,ERI,2004,0.0
-Eritrea,ERI,2005,0.0
-Eritrea,ERI,2006,0.0
-Eritrea,ERI,2007,0.0
-Eritrea,ERI,2008,0.0
-Eritrea,ERI,2009,0.0
-Eritrea,ERI,2010,0.0
-Eritrea,ERI,2011,0.0
-Eritrea,ERI,2012,0.0
-Eritrea,ERI,2013,0.0
-Eritrea,ERI,2014,0.0
-Eritrea,ERI,2015,0.0
-Eritrea,ERI,2016,0.0
-Eritrea,ERI,2017,0.0
-Eritrea,ERI,2018,0.0
-Eritrea,ERI,2019,0.0
-Estonia,EST,2000,0.02242152466367713
-Estonia,EST,2001,0.015503875968992246
-Estonia,EST,2002,0.018735362997658083
-Estonia,EST,2003,0.015250544662309368
-Estonia,EST,2004,0.021077283372365342
-Estonia,EST,2005,0.023980815347721826
-Estonia,EST,2006,0.024128686327077747
-Estonia,EST,2007,0.02624671916010499
-Estonia,EST,2008,0.020779220779220783
-Estonia,EST,2009,0.016216216216216217
-Estonia,EST,2010,0.01837270341207349
-Estonia,EST,2011,0.020361990950226245
-Estonia,EST,2012,0.015151515151515154
-Estonia,EST,2013,0.008988764044943821
-Estonia,EST,2014,0.009469696969696972
-Estonia,EST,2015,0.014787430683918669
-Estonia,EST,2016,0.015209125475285171
-Estonia,EST,2017,0.01303538175046555
-Estonia,EST,2018,0.013916500994035788
-Estonia,EST,2019,0.015184381778741868
-Ethiopia,ETH,2000,0.0
-Ethiopia,ETH,2001,0.0
-Ethiopia,ETH,2002,0.0
-Ethiopia,ETH,2003,0.0
-Ethiopia,ETH,2004,0.0
-Ethiopia,ETH,2005,0.0
-Ethiopia,ETH,2006,0.0
-Ethiopia,ETH,2007,0.0
-Ethiopia,ETH,2008,0.0
-Ethiopia,ETH,2009,0.0
-Ethiopia,ETH,2010,0.0
-Ethiopia,ETH,2011,0.0
-Ethiopia,ETH,2012,0.0
-Ethiopia,ETH,2013,0.0
-Ethiopia,ETH,2014,0.0
-Ethiopia,ETH,2015,0.0
-Ethiopia,ETH,2016,0.0
-Ethiopia,ETH,2017,0.0
-Ethiopia,ETH,2018,0.0
-Ethiopia,ETH,2019,0.0
-Falkland Islands (Malvinas),FLK,2000,0.0
-Falkland Islands (Malvinas),FLK,2001,0.0
-Falkland Islands (Malvinas),FLK,2002,0.0
-Falkland Islands (Malvinas),FLK,2003,0.0
-Falkland Islands (Malvinas),FLK,2004,0.0
-Falkland Islands (Malvinas),FLK,2005,0.0
-Falkland Islands (Malvinas),FLK,2006,0.0
-Falkland Islands (Malvinas),FLK,2007,0.0
-Falkland Islands (Malvinas),FLK,2008,0.0
-Falkland Islands (Malvinas),FLK,2009,0.0
-Falkland Islands (Malvinas),FLK,2010,0.0
-Falkland Islands (Malvinas),FLK,2011,0.0
-Falkland Islands (Malvinas),FLK,2012,0.0
-Falkland Islands (Malvinas),FLK,2013,0.0
-Falkland Islands (Malvinas),FLK,2014,0.0
-Falkland Islands (Malvinas),FLK,2015,0.0
-Falkland Islands (Malvinas),FLK,2016,0.0
-Falkland Islands (Malvinas),FLK,2017,0.0
-Falkland Islands (Malvinas),FLK,2018,0.0
-Falkland Islands (Malvinas),FLK,2019,0.0
-Faroe Islands,FRO,2000,0.021612706169822853
-Faroe Islands,FRO,2001,0.02081344520926493
-Faroe Islands,FRO,2002,0.01875967522825641
-Faroe Islands,FRO,2003,0.017716623090771457
-Faroe Islands,FRO,2004,0.015625771109904752
-Faroe Islands,FRO,2005,0.014409544922410143
-Faroe Islands,FRO,2006,0.014357081776857643
-Faroe Islands,FRO,2007,0.022487530168946092
-Faroe Islands,FRO,2008,0.02216182048040455
-Faroe Islands,FRO,2009,0.022295052000026117
-Faroe Islands,FRO,2010,0.02239608101153679
-Faroe Islands,FRO,2011,0.02162654521795706
-Faroe Islands,FRO,2012,0.021627916369364158
-Faroe Islands,FRO,2013,0.020425101214574897
-Faroe Islands,FRO,2014,0.01972387932503835
-Faroe Islands,FRO,2015,0.017842801773804953
-Faroe Islands,FRO,2016,0.018753316010720063
-Faroe Islands,FRO,2017,0.01829149509293531
-Faroe Islands,FRO,2018,0.017784506022510367
-Faroe Islands,FRO,2019,0.01666721284614124
-Fiji,FJI,2000,0.0
-Fiji,FJI,2001,0.0
-Fiji,FJI,2002,0.0
-Fiji,FJI,2003,0.0
-Fiji,FJI,2004,0.0
-Fiji,FJI,2005,0.0
-Fiji,FJI,2006,0.0
-Fiji,FJI,2007,0.0
-Fiji,FJI,2008,0.0
-Fiji,FJI,2009,0.0
-Fiji,FJI,2010,0.0
-Fiji,FJI,2011,0.0
-Fiji,FJI,2012,0.0
-Fiji,FJI,2013,0.0
-Fiji,FJI,2014,0.0
-Fiji,FJI,2015,0.0
-Fiji,FJI,2016,0.0
-Fiji,FJI,2017,0.0
-Fiji,FJI,2018,0.0
-Fiji,FJI,2019,0.0
-Finland,FIN,2000,0.01215153681200858
-Finland,FIN,2001,0.013494318181818182
-Finland,FIN,2002,0.013546370267453978
-Finland,FIN,2003,0.014919941775836975
-Finland,FIN,2004,0.014974433893352809
-Finland,FIN,2005,0.0167427701674277
-Finland,FIN,2006,0.01726726726726727
-Finland,FIN,2007,0.01667875271936186
-Finland,FIN,2008,0.016629711751662973
-Finland,FIN,2009,0.019201228878648238
-Finland,FIN,2010,0.02100525131282821
-Finland,FIN,2011,0.022292993630573247
-Finland,FIN,2012,0.02056359482102056
-Finland,FIN,2013,0.01971608832807571
-Finland,FIN,2014,0.021791767554479417
-Finland,FIN,2015,0.02039983680130559
-Finland,FIN,2016,0.02237591537835639
-Finland,FIN,2017,0.023549201009251473
-Finland,FIN,2018,0.02405949256342957
-Finland,FIN,2019,0.025752946311654302
-France,FRA,2000,0.0
-France,FRA,2001,0.0
-France,FRA,2002,0.0
-France,FRA,2003,0.0
-France,FRA,2004,0.0
-France,FRA,2005,0.0
-France,FRA,2006,0.0
-France,FRA,2007,0.0
-France,FRA,2008,0.0
-France,FRA,2009,0.0
-France,FRA,2010,0.0
-France,FRA,2011,0.0
-France,FRA,2012,0.0
-France,FRA,2013,0.0
-France,FRA,2014,0.002132429329104926
-France,FRA,2015,0.001477589886718109
-France,FRA,2016,0.0021299867595417654
-France,FRA,2017,0.0018833500088282031
-France,FRA,2018,0.003054511278195489
-France,FRA,2019,0.0046395431834404
-French Guiana,GUF,2000,0.0
-French Guiana,GUF,2001,0.0
-French Guiana,GUF,2002,0.0
-French Guiana,GUF,2003,0.0
-French Guiana,GUF,2004,0.0
-French Guiana,GUF,2005,0.0
-French Guiana,GUF,2006,0.0
-French Guiana,GUF,2007,0.0
-French Guiana,GUF,2008,0.0
-French Guiana,GUF,2009,0.0
-French Guiana,GUF,2010,0.0
-French Guiana,GUF,2011,0.0
-French Guiana,GUF,2012,0.0
-French Guiana,GUF,2013,0.0
-French Guiana,GUF,2014,0.0
-French Guiana,GUF,2015,0.0
-French Guiana,GUF,2016,0.0
-French Guiana,GUF,2017,0.0
-French Guiana,GUF,2018,0.0
-French Guiana,GUF,2019,0.0
-French Polynesia,PYF,2000,0.0
-French Polynesia,PYF,2001,0.0
-French Polynesia,PYF,2002,0.0
-French Polynesia,PYF,2003,0.0
-French Polynesia,PYF,2004,0.0
-French Polynesia,PYF,2005,0.0
-French Polynesia,PYF,2006,0.0
-French Polynesia,PYF,2007,0.0
-French Polynesia,PYF,2008,0.0
-French Polynesia,PYF,2009,0.0
-French Polynesia,PYF,2010,0.0
-French Polynesia,PYF,2011,0.0
-French Polynesia,PYF,2012,0.0
-French Polynesia,PYF,2013,0.0
-French Polynesia,PYF,2014,0.0
-French Polynesia,PYF,2015,0.0
-French Polynesia,PYF,2016,0.0
-French Polynesia,PYF,2017,0.0
-French Polynesia,PYF,2018,0.0
-French Polynesia,PYF,2019,0.0
-French Southern Territories,ATF,2000,0.0094
-French Southern Territories,ATF,2001,0.0086
-French Southern Territories,ATF,2002,0.0078
-French Southern Territories,ATF,2003,0.0074
-French Southern Territories,ATF,2004,0.0064
-French Southern Territories,ATF,2005,0.0059
-French Southern Territories,ATF,2006,0.0057
-French Southern Territories,ATF,2007,0.0089
-French Southern Territories,ATF,2008,0.0127
-French Southern Territories,ATF,2009,0.0121
-French Southern Territories,ATF,2010,0.0111
-French Southern Territories,ATF,2011,0.0107
-French Southern Territories,ATF,2012,0.0104
-French Southern Territories,ATF,2013,0.0087
-French Southern Territories,ATF,2014,0.0085
-French Southern Territories,ATF,2015,0.0074
-French Southern Territories,ATF,2016,0.0078
-French Southern Territories,ATF,2017,0.0076
-French Southern Territories,ATF,2018,0.0159
-French Southern Territories,ATF,2019,0.0078
-Gabon,GAB,2000,0.0
-Gabon,GAB,2001,0.0
-Gabon,GAB,2002,0.0
-Gabon,GAB,2003,0.0
-Gabon,GAB,2004,0.0
-Gabon,GAB,2005,0.0
-Gabon,GAB,2006,0.0
-Gabon,GAB,2007,0.0
-Gabon,GAB,2008,0.0
-Gabon,GAB,2009,0.0
-Gabon,GAB,2010,0.0
-Gabon,GAB,2011,0.0
-Gabon,GAB,2012,0.0
-Gabon,GAB,2013,0.0
-Gabon,GAB,2014,0.0
-Gabon,GAB,2015,0.0
-Gabon,GAB,2016,0.0
-Gabon,GAB,2017,0.0
-Gabon,GAB,2018,0.0
-Gabon,GAB,2019,0.0
-Gambia,GMB,2000,0.0
-Gambia,GMB,2001,0.0
-Gambia,GMB,2002,0.0
-Gambia,GMB,2003,0.0
-Gambia,GMB,2004,0.0
-Gambia,GMB,2005,0.0
-Gambia,GMB,2006,0.0
-Gambia,GMB,2007,0.0
-Gambia,GMB,2008,0.0
-Gambia,GMB,2009,0.0
-Gambia,GMB,2010,0.0
-Gambia,GMB,2011,0.0
-Gambia,GMB,2012,0.0
-Gambia,GMB,2013,0.0
-Gambia,GMB,2014,0.0
-Gambia,GMB,2015,0.0
-Gambia,GMB,2016,0.0
-Gambia,GMB,2017,0.0
-Gambia,GMB,2018,0.0
-Gambia,GMB,2019,0.0
-Georgia,GEO,2000,0.0
-Georgia,GEO,2001,0.0
-Georgia,GEO,2002,0.0
-Georgia,GEO,2003,0.0
-Georgia,GEO,2004,0.0
-Georgia,GEO,2005,0.0
-Georgia,GEO,2006,0.0
-Georgia,GEO,2007,0.0
-Georgia,GEO,2008,0.0
-Georgia,GEO,2009,0.0
-Georgia,GEO,2010,0.0
-Georgia,GEO,2011,0.0
-Georgia,GEO,2012,0.0
-Georgia,GEO,2013,0.0
-Georgia,GEO,2014,0.0
-Georgia,GEO,2015,0.0
-Georgia,GEO,2016,0.0
-Georgia,GEO,2017,0.0
-Georgia,GEO,2018,0.0
-Georgia,GEO,2019,0.0
-Germany,DEU,2000,0.01132606832374189
-Germany,DEU,2001,0.004705882352941176
-Germany,DEU,2002,0.0024141469008389163
-Germany,DEU,2003,0.0
-Germany,DEU,2004,0.0
-Germany,DEU,2005,0.0
-Germany,DEU,2006,0.0
-Germany,DEU,2007,0.0026041666666666665
-Germany,DEU,2008,0.0055401662049861505
-Germany,DEU,2009,0.0026041666666666665
-Germany,DEU,2010,0.0
-Germany,DEU,2011,0.0
-Germany,DEU,2012,0.0
-Germany,DEU,2013,0.0
-Germany,DEU,2014,0.0
-Germany,DEU,2015,0.0
-Germany,DEU,2016,0.0
-Germany,DEU,2017,0.0
-Germany,DEU,2018,0.0
-Germany,DEU,2019,0.0
-Ghana,GHA,2000,0.0
-Ghana,GHA,2001,0.0
-Ghana,GHA,2002,0.0
-Ghana,GHA,2003,0.0
-Ghana,GHA,2004,0.0
-Ghana,GHA,2005,0.0
-Ghana,GHA,2006,0.0
-Ghana,GHA,2007,0.0
-Ghana,GHA,2008,0.0
-Ghana,GHA,2009,0.0
-Ghana,GHA,2010,0.0
-Ghana,GHA,2011,0.0
-Ghana,GHA,2012,0.0
-Ghana,GHA,2013,0.0
-Ghana,GHA,2014,0.0
-Ghana,GHA,2015,0.0
-Ghana,GHA,2016,0.0
-Ghana,GHA,2017,0.0
-Ghana,GHA,2018,0.0
-Ghana,GHA,2019,0.0
-Gibraltar,GIB,2000,0.021612706169822853
-Gibraltar,GIB,2001,0.02081344520926493
-Gibraltar,GIB,2002,0.01875967522825641
-Gibraltar,GIB,2003,0.017716623090771457
-Gibraltar,GIB,2004,0.015625771109904752
-Gibraltar,GIB,2005,0.014409544922410143
-Gibraltar,GIB,2006,0.014357081776857643
-Gibraltar,GIB,2007,0.022487530168946092
-Gibraltar,GIB,2008,0.02216182048040455
-Gibraltar,GIB,2009,0.022295052000026117
-Gibraltar,GIB,2010,0.02239608101153679
-Gibraltar,GIB,2011,0.02162654521795706
-Gibraltar,GIB,2012,0.021627916369364158
-Gibraltar,GIB,2013,0.020425101214574897
-Gibraltar,GIB,2014,0.01972387932503835
-Gibraltar,GIB,2015,0.017842801773804953
-Gibraltar,GIB,2016,0.018753316010720063
-Gibraltar,GIB,2017,0.01829149509293531
-Gibraltar,GIB,2018,0.017784506022510367
-Gibraltar,GIB,2019,0.01666721284614124
-Greece,GRC,2000,0.0
-Greece,GRC,2001,0.0
-Greece,GRC,2002,0.0
-Greece,GRC,2003,0.0
-Greece,GRC,2004,0.0
-Greece,GRC,2005,0.0
-Greece,GRC,2006,0.0
-Greece,GRC,2007,0.0
-Greece,GRC,2008,0.0
-Greece,GRC,2009,0.0
-Greece,GRC,2010,0.0
-Greece,GRC,2011,0.0
-Greece,GRC,2012,0.0
-Greece,GRC,2013,0.0
-Greece,GRC,2014,0.0
-Greece,GRC,2015,0.0
-Greece,GRC,2016,0.0
-Greece,GRC,2017,0.0
-Greece,GRC,2018,0.0
-Greece,GRC,2019,0.0
-Greenland,GRL,2000,0.0
-Greenland,GRL,2001,0.0
-Greenland,GRL,2002,0.0
-Greenland,GRL,2003,0.0
-Greenland,GRL,2004,0.0
-Greenland,GRL,2005,0.0
-Greenland,GRL,2006,0.0
-Greenland,GRL,2007,0.0
-Greenland,GRL,2008,0.0
-Greenland,GRL,2009,0.0
-Greenland,GRL,2010,0.0
-Greenland,GRL,2011,0.0
-Greenland,GRL,2012,0.0
-Greenland,GRL,2013,0.0
-Greenland,GRL,2014,0.0
-Greenland,GRL,2015,0.0
-Greenland,GRL,2016,0.0
-Greenland,GRL,2017,0.0
-Greenland,GRL,2018,0.0
-Greenland,GRL,2019,0.0
-Grenada,GRD,2000,0.0
-Grenada,GRD,2001,0.0
-Grenada,GRD,2002,0.0
-Grenada,GRD,2003,0.0
-Grenada,GRD,2004,0.0
-Grenada,GRD,2005,0.0
-Grenada,GRD,2006,0.0
-Grenada,GRD,2007,0.0
-Grenada,GRD,2008,0.0
-Grenada,GRD,2009,0.0
-Grenada,GRD,2010,0.0
-Grenada,GRD,2011,0.0
-Grenada,GRD,2012,0.0
-Grenada,GRD,2013,0.0
-Grenada,GRD,2014,0.0
-Grenada,GRD,2015,0.0
-Grenada,GRD,2016,0.0
-Grenada,GRD,2017,0.0
-Grenada,GRD,2018,0.0
-Grenada,GRD,2019,0.0
-Guadeloupe,GLP,2000,0.0
-Guadeloupe,GLP,2001,0.0
-Guadeloupe,GLP,2002,0.0
-Guadeloupe,GLP,2003,0.0
-Guadeloupe,GLP,2004,0.0
-Guadeloupe,GLP,2005,0.0
-Guadeloupe,GLP,2006,0.0
-Guadeloupe,GLP,2007,0.0
-Guadeloupe,GLP,2008,0.0
-Guadeloupe,GLP,2009,0.0
-Guadeloupe,GLP,2010,0.0
-Guadeloupe,GLP,2011,0.0
-Guadeloupe,GLP,2012,0.0
-Guadeloupe,GLP,2013,0.0
-Guadeloupe,GLP,2014,0.0
-Guadeloupe,GLP,2015,0.0
-Guadeloupe,GLP,2016,0.0
-Guadeloupe,GLP,2017,0.0
-Guadeloupe,GLP,2018,0.0
-Guadeloupe,GLP,2019,0.0
-Guam,GUM,2000,0.0
-Guam,GUM,2001,0.0
-Guam,GUM,2002,0.0
-Guam,GUM,2003,0.0
-Guam,GUM,2004,0.0
-Guam,GUM,2005,0.0
-Guam,GUM,2006,0.0
-Guam,GUM,2007,0.0
-Guam,GUM,2008,0.0
-Guam,GUM,2009,0.0
-Guam,GUM,2010,0.0
-Guam,GUM,2011,0.0
-Guam,GUM,2012,0.0
-Guam,GUM,2013,0.0
-Guam,GUM,2014,0.0
-Guam,GUM,2015,0.0
-Guam,GUM,2016,0.0
-Guam,GUM,2017,0.0
-Guam,GUM,2018,0.0
-Guam,GUM,2019,0.0
-Guatemala,GTM,2000,0.0
-Guatemala,GTM,2001,0.0
-Guatemala,GTM,2002,0.0
-Guatemala,GTM,2003,0.0
-Guatemala,GTM,2004,0.0
-Guatemala,GTM,2005,0.0
-Guatemala,GTM,2006,0.0
-Guatemala,GTM,2007,0.0
-Guatemala,GTM,2008,0.0
-Guatemala,GTM,2009,0.0
-Guatemala,GTM,2010,0.0
-Guatemala,GTM,2011,0.0
-Guatemala,GTM,2012,0.0
-Guatemala,GTM,2013,0.0
-Guatemala,GTM,2014,0.0
-Guatemala,GTM,2015,0.0
-Guatemala,GTM,2016,0.0
-Guatemala,GTM,2017,0.0
-Guatemala,GTM,2018,0.0
-Guatemala,GTM,2019,0.0
-Guernsey,GGY,2000,0.021612706169822853
-Guernsey,GGY,2001,0.02081344520926493
-Guernsey,GGY,2002,0.01875967522825641
-Guernsey,GGY,2003,0.017716623090771457
-Guernsey,GGY,2004,0.015625771109904752
-Guernsey,GGY,2005,0.014409544922410143
-Guernsey,GGY,2006,0.014357081776857643
-Guernsey,GGY,2007,0.022487530168946092
-Guernsey,GGY,2008,0.02216182048040455
-Guernsey,GGY,2009,0.022295052000026117
-Guernsey,GGY,2010,0.02239608101153679
-Guernsey,GGY,2011,0.02162654521795706
-Guernsey,GGY,2012,0.021627916369364158
-Guernsey,GGY,2013,0.020425101214574897
-Guernsey,GGY,2014,0.01972387932503835
-Guernsey,GGY,2015,0.017842801773804953
-Guernsey,GGY,2016,0.018753316010720063
-Guernsey,GGY,2017,0.01829149509293531
-Guernsey,GGY,2018,0.017784506022510367
-Guernsey,GGY,2019,0.01666721284614124
-Guinea,GIN,2000,0.0
-Guinea,GIN,2001,0.0
-Guinea,GIN,2002,0.0
-Guinea,GIN,2003,0.0
-Guinea,GIN,2004,0.0
-Guinea,GIN,2005,0.0
-Guinea,GIN,2006,0.0
-Guinea,GIN,2007,0.0
-Guinea,GIN,2008,0.0
-Guinea,GIN,2009,0.0
-Guinea,GIN,2010,0.0
-Guinea,GIN,2011,0.0
-Guinea,GIN,2012,0.0
-Guinea,GIN,2013,0.0
-Guinea,GIN,2014,0.0
-Guinea,GIN,2015,0.0
-Guinea,GIN,2016,0.0
-Guinea,GIN,2017,0.0
-Guinea,GIN,2018,0.0
-Guinea,GIN,2019,0.0
-Guinea-Bissau,GNB,2000,0.0
-Guinea-Bissau,GNB,2001,0.0
-Guinea-Bissau,GNB,2002,0.0
-Guinea-Bissau,GNB,2003,0.0
-Guinea-Bissau,GNB,2004,0.0
-Guinea-Bissau,GNB,2005,0.0
-Guinea-Bissau,GNB,2006,0.0
-Guinea-Bissau,GNB,2007,0.0
-Guinea-Bissau,GNB,2008,0.0
-Guinea-Bissau,GNB,2009,0.0
-Guinea-Bissau,GNB,2010,0.0
-Guinea-Bissau,GNB,2011,0.0
-Guinea-Bissau,GNB,2012,0.0
-Guinea-Bissau,GNB,2013,0.0
-Guinea-Bissau,GNB,2014,0.0
-Guinea-Bissau,GNB,2015,0.0
-Guinea-Bissau,GNB,2016,0.0
-Guinea-Bissau,GNB,2017,0.0
-Guinea-Bissau,GNB,2018,0.0
-Guinea-Bissau,GNB,2019,0.0
-Guyana,GUY,2000,0.0
-Guyana,GUY,2001,0.0
-Guyana,GUY,2002,0.0
-Guyana,GUY,2003,0.0
-Guyana,GUY,2004,0.0
-Guyana,GUY,2005,0.0
-Guyana,GUY,2006,0.0
-Guyana,GUY,2007,0.0
-Guyana,GUY,2008,0.0
-Guyana,GUY,2009,0.0
-Guyana,GUY,2010,0.0
-Guyana,GUY,2011,0.0
-Guyana,GUY,2012,0.0
-Guyana,GUY,2013,0.0
-Guyana,GUY,2014,0.0
-Guyana,GUY,2015,0.0
-Guyana,GUY,2016,0.0
-Guyana,GUY,2017,0.0
-Guyana,GUY,2018,0.0
-Guyana,GUY,2019,0.0
-Haiti,HTI,2000,0.0
-Haiti,HTI,2001,0.0
-Haiti,HTI,2002,0.0
-Haiti,HTI,2003,0.0
-Haiti,HTI,2004,0.0
-Haiti,HTI,2005,0.0
-Haiti,HTI,2006,0.0
-Haiti,HTI,2007,0.0
-Haiti,HTI,2008,0.0
-Haiti,HTI,2009,0.0
-Haiti,HTI,2010,0.0
-Haiti,HTI,2011,0.0
-Haiti,HTI,2012,0.0
-Haiti,HTI,2013,0.0
-Haiti,HTI,2014,0.0
-Haiti,HTI,2015,0.0
-Haiti,HTI,2016,0.0
-Haiti,HTI,2017,0.0
-Haiti,HTI,2018,0.0
-Haiti,HTI,2019,0.0
-Heard Island and McDonald Islands,HMD,2000,0.0094
-Heard Island and McDonald Islands,HMD,2001,0.0086
-Heard Island and McDonald Islands,HMD,2002,0.0078
-Heard Island and McDonald Islands,HMD,2003,0.0074
-Heard Island and McDonald Islands,HMD,2004,0.0064
-Heard Island and McDonald Islands,HMD,2005,0.0059
-Heard Island and McDonald Islands,HMD,2006,0.0057
-Heard Island and McDonald Islands,HMD,2007,0.0089
-Heard Island and McDonald Islands,HMD,2008,0.0127
-Heard Island and McDonald Islands,HMD,2009,0.0121
-Heard Island and McDonald Islands,HMD,2010,0.0111
-Heard Island and McDonald Islands,HMD,2011,0.0107
-Heard Island and McDonald Islands,HMD,2012,0.0104
-Heard Island and McDonald Islands,HMD,2013,0.0087
-Heard Island and McDonald Islands,HMD,2014,0.0085
-Heard Island and McDonald Islands,HMD,2015,0.0074
-Heard Island and McDonald Islands,HMD,2016,0.0078
-Heard Island and McDonald Islands,HMD,2017,0.0076
-Heard Island and McDonald Islands,HMD,2018,0.0159
-Heard Island and McDonald Islands,HMD,2019,0.0078
-Holy See (Vatican City State),VAT,2000,0.021612706169822853
-Holy See (Vatican City State),VAT,2001,0.02081344520926493
-Holy See (Vatican City State),VAT,2002,0.01875967522825641
-Holy See (Vatican City State),VAT,2003,0.017716623090771457
-Holy See (Vatican City State),VAT,2004,0.015625771109904752
-Holy See (Vatican City State),VAT,2005,0.014409544922410143
-Holy See (Vatican City State),VAT,2006,0.014357081776857643
-Holy See (Vatican City State),VAT,2007,0.022487530168946092
-Holy See (Vatican City State),VAT,2008,0.02216182048040455
-Holy See (Vatican City State),VAT,2009,0.022295052000026117
-Holy See (Vatican City State),VAT,2010,0.02239608101153679
-Holy See (Vatican City State),VAT,2011,0.02162654521795706
-Holy See (Vatican City State),VAT,2012,0.021627916369364158
-Holy See (Vatican City State),VAT,2013,0.020425101214574897
-Holy See (Vatican City State),VAT,2014,0.01972387932503835
-Holy See (Vatican City State),VAT,2015,0.017842801773804953
-Holy See (Vatican City State),VAT,2016,0.018753316010720063
-Holy See (Vatican City State),VAT,2017,0.01829149509293531
-Holy See (Vatican City State),VAT,2018,0.017784506022510367
-Holy See (Vatican City State),VAT,2019,0.01666721284614124
-Honduras,HND,2000,0.0
-Honduras,HND,2001,0.0
-Honduras,HND,2002,0.0
-Honduras,HND,2003,0.0
-Honduras,HND,2004,0.0
-Honduras,HND,2005,0.0
-Honduras,HND,2006,0.0
-Honduras,HND,2007,0.0
-Honduras,HND,2008,0.0
-Honduras,HND,2009,0.0
-Honduras,HND,2010,0.0
-Honduras,HND,2011,0.0
-Honduras,HND,2012,0.0
-Honduras,HND,2013,0.0
-Honduras,HND,2014,0.0
-Honduras,HND,2015,0.0
-Honduras,HND,2016,0.0
-Honduras,HND,2017,0.0
-Honduras,HND,2018,0.0
-Honduras,HND,2019,0.0
-Hong Kong,HKG,2000,0.0
-Hong Kong,HKG,2001,0.0
-Hong Kong,HKG,2002,0.0
-Hong Kong,HKG,2003,0.0
-Hong Kong,HKG,2004,0.0
-Hong Kong,HKG,2005,0.0
-Hong Kong,HKG,2006,0.0
-Hong Kong,HKG,2007,0.0
-Hong Kong,HKG,2008,0.0
-Hong Kong,HKG,2009,0.0
-Hong Kong,HKG,2010,0.0
-Hong Kong,HKG,2011,0.0
-Hong Kong,HKG,2012,0.0
-Hong Kong,HKG,2013,0.0
-Hong Kong,HKG,2014,0.0
-Hong Kong,HKG,2015,0.0
-Hong Kong,HKG,2016,0.0
-Hong Kong,HKG,2017,0.0
-Hong Kong,HKG,2018,0.0
-Hong Kong,HKG,2019,0.0
-Hungary,HUN,2000,0.00037243947858472997
-Hungary,HUN,2001,0.0007911392405063293
-Hungary,HUN,2002,0.0007662835249042147
-Hungary,HUN,2003,0.0008140008140008139
-Hungary,HUN,2004,0.0004173622704507513
-Hungary,HUN,2005,0.0004364906154517679
-Hungary,HUN,2006,0.0004444444444444444
-Hungary,HUN,2007,0.0004880429477794046
-Hungary,HUN,2008,0.0004599816007359706
-Hungary,HUN,2009,0.0005543237250554324
-Hungary,HUN,2010,0.0004995004995004995
-Hungary,HUN,2011,0.0005047955577990915
-Hungary,HUN,2012,0.0006153846153846155
-Hungary,HUN,2013,0.0004723665564478034
-Hungary,HUN,2014,0.0008100445524503847
-Hungary,HUN,2015,0.0008347245409015026
-Hungary,HUN,2016,0.0007570022710068131
-Hungary,HUN,2017,0.0008019246190858058
-Hungary,HUN,2018,0.0007532956685499058
-Hungary,HUN,2019,0.0007233273056057865
-Iceland,ISL,2000,0.021612706169822853
-Iceland,ISL,2001,0.02081344520926493
-Iceland,ISL,2002,0.01875967522825641
-Iceland,ISL,2003,0.017716623090771457
-Iceland,ISL,2004,0.015625771109904752
-Iceland,ISL,2005,0.014409544922410143
-Iceland,ISL,2006,0.014357081776857643
-Iceland,ISL,2007,0.022487530168946092
-Iceland,ISL,2008,0.02216182048040455
-Iceland,ISL,2009,0.022295052000026117
-Iceland,ISL,2010,0.02239608101153679
-Iceland,ISL,2011,0.02162654521795706
-Iceland,ISL,2012,0.021627916369364158
-Iceland,ISL,2013,0.020425101214574897
-Iceland,ISL,2014,0.01972387932503835
-Iceland,ISL,2015,0.017842801773804953
-Iceland,ISL,2016,0.018753316010720063
-Iceland,ISL,2017,0.01829149509293531
-Iceland,ISL,2018,0.017784506022510367
-Iceland,ISL,2019,0.01666721284614124
-India,IND,2000,0.0
-India,IND,2001,0.0
-India,IND,2002,0.0
-India,IND,2003,0.0
-India,IND,2004,0.0
-India,IND,2005,2.313208420078649e-05
-India,IND,2006,4.9462099666130826e-05
-India,IND,2007,2.373042240151875e-05
-India,IND,2008,0.03874143269205325
-India,IND,2009,0.027858219850178303
-India,IND,2010,0.021859124658069558
-India,IND,2011,0.021701102801368992
-India,IND,2012,0.019319602889007984
-India,IND,2013,0.01014372507560956
-India,IND,2014,0.01065168974532778
-India,IND,2015,0.008286377195889956
-India,IND,2016,0.008482585344489776
-India,IND,2017,0.008760634628650264
-India,IND,2018,0.09954703465711576
-India,IND,2019,0.016928460975014242
-Indonesia,IDN,2000,0.0
-Indonesia,IDN,2001,0.0
-Indonesia,IDN,2002,0.0
-Indonesia,IDN,2003,0.0
-Indonesia,IDN,2004,0.0
-Indonesia,IDN,2005,2.313208420078649e-05
-Indonesia,IDN,2006,4.9462099666130826e-05
-Indonesia,IDN,2007,2.373042240151875e-05
-Indonesia,IDN,2008,0.03874143269205325
-Indonesia,IDN,2009,0.027858219850178303
-Indonesia,IDN,2010,0.021859124658069558
-Indonesia,IDN,2011,0.021701102801368992
-Indonesia,IDN,2012,0.019319602889007984
-Indonesia,IDN,2013,0.01014372507560956
-Indonesia,IDN,2014,0.01065168974532778
-Indonesia,IDN,2015,0.008286377195889956
-Indonesia,IDN,2016,0.008482585344489776
-Indonesia,IDN,2017,0.008760634628650264
-Indonesia,IDN,2018,0.09954703465711576
-Indonesia,IDN,2019,0.016928460975014242
-"Iran, Islamic Republic of",IRN,2000,0.0
-"Iran, Islamic Republic of",IRN,2001,0.0
-"Iran, Islamic Republic of",IRN,2002,0.0
-"Iran, Islamic Republic of",IRN,2003,0.0
-"Iran, Islamic Republic of",IRN,2004,0.0
-"Iran, Islamic Republic of",IRN,2005,2.313208420078649e-05
-"Iran, Islamic Republic of",IRN,2006,4.9462099666130826e-05
-"Iran, Islamic Republic of",IRN,2007,2.373042240151875e-05
-"Iran, Islamic Republic of",IRN,2008,0.03874143269205325
-"Iran, Islamic Republic of",IRN,2009,0.027858219850178303
-"Iran, Islamic Republic of",IRN,2010,0.021859124658069558
-"Iran, Islamic Republic of",IRN,2011,0.021701102801368992
-"Iran, Islamic Republic of",IRN,2012,0.019319602889007984
-"Iran, Islamic Republic of",IRN,2013,0.01014372507560956
-"Iran, Islamic Republic of",IRN,2014,0.01065168974532778
-"Iran, Islamic Republic of",IRN,2015,0.008286377195889956
-"Iran, Islamic Republic of",IRN,2016,0.008482585344489776
-"Iran, Islamic Republic of",IRN,2017,0.008760634628650264
-"Iran, Islamic Republic of",IRN,2018,0.09954703465711576
-"Iran, Islamic Republic of",IRN,2019,0.016928460975014242
-Iraq,IRQ,2000,0.0
-Iraq,IRQ,2001,0.0
-Iraq,IRQ,2002,0.0
-Iraq,IRQ,2003,0.0
-Iraq,IRQ,2004,0.0
-Iraq,IRQ,2005,2.313208420078649e-05
-Iraq,IRQ,2006,4.9462099666130826e-05
-Iraq,IRQ,2007,2.373042240151875e-05
-Iraq,IRQ,2008,0.03874143269205325
-Iraq,IRQ,2009,0.027858219850178303
-Iraq,IRQ,2010,0.021859124658069558
-Iraq,IRQ,2011,0.021701102801368992
-Iraq,IRQ,2012,0.019319602889007984
-Iraq,IRQ,2013,0.01014372507560956
-Iraq,IRQ,2014,0.01065168974532778
-Iraq,IRQ,2015,0.008286377195889956
-Iraq,IRQ,2016,0.008482585344489776
-Iraq,IRQ,2017,0.008760634628650264
-Iraq,IRQ,2018,0.09954703465711576
-Iraq,IRQ,2019,0.016928460975014242
-Ireland,IRL,2000,0.0
-Ireland,IRL,2001,0.0
-Ireland,IRL,2002,0.0
-Ireland,IRL,2003,0.0
-Ireland,IRL,2004,0.0
-Ireland,IRL,2005,0.0
-Ireland,IRL,2006,0.0
-Ireland,IRL,2007,0.0
-Ireland,IRL,2008,0.0
-Ireland,IRL,2009,0.0
-Ireland,IRL,2010,0.0
-Ireland,IRL,2011,0.0
-Ireland,IRL,2012,0.0
-Ireland,IRL,2013,0.0
-Ireland,IRL,2014,0.0
-Ireland,IRL,2015,0.0
-Ireland,IRL,2016,0.0
-Ireland,IRL,2017,0.0
-Ireland,IRL,2018,0.0
-Ireland,IRL,2019,0.0
-Isle of Man,IMN,2000,0.021612706169822853
-Isle of Man,IMN,2001,0.02081344520926493
-Isle of Man,IMN,2002,0.01875967522825641
-Isle of Man,IMN,2003,0.017716623090771457
-Isle of Man,IMN,2004,0.015625771109904752
-Isle of Man,IMN,2005,0.014409544922410143
-Isle of Man,IMN,2006,0.014357081776857643
-Isle of Man,IMN,2007,0.022487530168946092
-Isle of Man,IMN,2008,0.02216182048040455
-Isle of Man,IMN,2009,0.022295052000026117
-Isle of Man,IMN,2010,0.02239608101153679
-Isle of Man,IMN,2011,0.02162654521795706
-Isle of Man,IMN,2012,0.021627916369364158
-Isle of Man,IMN,2013,0.020425101214574897
-Isle of Man,IMN,2014,0.01972387932503835
-Isle of Man,IMN,2015,0.017842801773804953
-Isle of Man,IMN,2016,0.018753316010720063
-Isle of Man,IMN,2017,0.01829149509293531
-Isle of Man,IMN,2018,0.017784506022510367
-Isle of Man,IMN,2019,0.01666721284614124
-Israel,ISR,2000,0.0
-Israel,ISR,2001,0.0
-Israel,ISR,2002,0.0
-Israel,ISR,2003,0.0
-Israel,ISR,2004,0.0
-Israel,ISR,2005,2.313208420078649e-05
-Israel,ISR,2006,4.9462099666130826e-05
-Israel,ISR,2007,2.373042240151875e-05
-Israel,ISR,2008,0.03874143269205325
-Israel,ISR,2009,0.027858219850178303
-Israel,ISR,2010,0.021859124658069558
-Israel,ISR,2011,0.021701102801368992
-Israel,ISR,2012,0.019319602889007984
-Israel,ISR,2013,0.01014372507560956
-Israel,ISR,2014,0.01065168974532778
-Israel,ISR,2015,0.008286377195889956
-Israel,ISR,2016,0.008482585344489776
-Israel,ISR,2017,0.008760634628650264
-Israel,ISR,2018,0.09954703465711576
-Israel,ISR,2019,0.016928460975014242
-Italy,ITA,2000,0.0
-Italy,ITA,2001,0.0
-Italy,ITA,2002,0.0
-Italy,ITA,2003,0.0
-Italy,ITA,2004,0.00036480373559025247
-Italy,ITA,2005,0.00035960874568469507
-Italy,ITA,2006,0.0006539747129777648
-Italy,ITA,2007,0.00105294825511432
-Italy,ITA,2008,0.00030969340353050485
-Italy,ITA,2009,0.004047346315387553
-Italy,ITA,2010,0.0004876066639577408
-Italy,ITA,2011,0.0031873161163779016
-Italy,ITA,2012,0.00550101557210562
-Italy,ITA,2013,0.007294258989101519
-Italy,ITA,2014,0.008150524581635307
-Italy,ITA,2015,0.00339097999321804
-Italy,ITA,2016,0.003790112018866335
-Italy,ITA,2017,0.003646005966191581
-Italy,ITA,2018,0.0035845148956507884
-Italy,ITA,2019,0.004703746492820597
-Jamaica,JAM,2000,0.0
-Jamaica,JAM,2001,0.0
-Jamaica,JAM,2002,0.0
-Jamaica,JAM,2003,0.0
-Jamaica,JAM,2004,0.0
-Jamaica,JAM,2005,0.0
-Jamaica,JAM,2006,0.0
-Jamaica,JAM,2007,0.0
-Jamaica,JAM,2008,0.0
-Jamaica,JAM,2009,0.0
-Jamaica,JAM,2010,0.0
-Jamaica,JAM,2011,0.0
-Jamaica,JAM,2012,0.0
-Jamaica,JAM,2013,0.0
-Jamaica,JAM,2014,0.0
-Jamaica,JAM,2015,0.0
-Jamaica,JAM,2016,0.0
-Jamaica,JAM,2017,0.0
-Jamaica,JAM,2018,0.0
-Jamaica,JAM,2019,0.0
-Japan,JPN,2000,0.0
-Japan,JPN,2001,0.0
-Japan,JPN,2002,0.0
-Japan,JPN,2003,0.0
-Japan,JPN,2004,0.0
-Japan,JPN,2005,0.0
-Japan,JPN,2006,0.0
-Japan,JPN,2007,0.0
-Japan,JPN,2008,0.0
-Japan,JPN,2009,0.0
-Japan,JPN,2010,0.0
-Japan,JPN,2011,0.0
-Japan,JPN,2012,0.0
-Japan,JPN,2013,0.0
-Japan,JPN,2014,0.0
-Japan,JPN,2015,0.0
-Japan,JPN,2016,0.0
-Japan,JPN,2017,0.0
-Japan,JPN,2018,0.0
-Japan,JPN,2019,0.0
-Jersey,JEY,2000,0.021612706169822853
-Jersey,JEY,2001,0.02081344520926493
-Jersey,JEY,2002,0.01875967522825641
-Jersey,JEY,2003,0.017716623090771457
-Jersey,JEY,2004,0.015625771109904752
-Jersey,JEY,2005,0.014409544922410143
-Jersey,JEY,2006,0.014357081776857643
-Jersey,JEY,2007,0.022487530168946092
-Jersey,JEY,2008,0.02216182048040455
-Jersey,JEY,2009,0.022295052000026117
-Jersey,JEY,2010,0.02239608101153679
-Jersey,JEY,2011,0.02162654521795706
-Jersey,JEY,2012,0.021627916369364158
-Jersey,JEY,2013,0.020425101214574897
-Jersey,JEY,2014,0.01972387932503835
-Jersey,JEY,2015,0.017842801773804953
-Jersey,JEY,2016,0.018753316010720063
-Jersey,JEY,2017,0.01829149509293531
-Jersey,JEY,2018,0.017784506022510367
-Jersey,JEY,2019,0.01666721284614124
-Jordan,JOR,2000,0.0
-Jordan,JOR,2001,0.0
-Jordan,JOR,2002,0.0
-Jordan,JOR,2003,0.0
-Jordan,JOR,2004,0.0
-Jordan,JOR,2005,2.313208420078649e-05
-Jordan,JOR,2006,4.9462099666130826e-05
-Jordan,JOR,2007,2.373042240151875e-05
-Jordan,JOR,2008,0.03874143269205325
-Jordan,JOR,2009,0.027858219850178303
-Jordan,JOR,2010,0.021859124658069558
-Jordan,JOR,2011,0.021701102801368992
-Jordan,JOR,2012,0.019319602889007984
-Jordan,JOR,2013,0.01014372507560956
-Jordan,JOR,2014,0.01065168974532778
-Jordan,JOR,2015,0.008286377195889956
-Jordan,JOR,2016,0.008482585344489776
-Jordan,JOR,2017,0.008760634628650264
-Jordan,JOR,2018,0.09954703465711576
-Jordan,JOR,2019,0.016928460975014242
-Kazakhstan,KAZ,2000,0.0
-Kazakhstan,KAZ,2001,0.0
-Kazakhstan,KAZ,2002,0.0
-Kazakhstan,KAZ,2003,0.0
-Kazakhstan,KAZ,2004,0.0
-Kazakhstan,KAZ,2005,0.0
-Kazakhstan,KAZ,2006,0.0
-Kazakhstan,KAZ,2007,0.0
-Kazakhstan,KAZ,2008,0.33440588370489543
-Kazakhstan,KAZ,2009,0.2923154193872426
-Kazakhstan,KAZ,2010,0.24379601854376876
-Kazakhstan,KAZ,2011,0.21933659038313189
-Kazakhstan,KAZ,2012,0.211295307670694
-Kazakhstan,KAZ,2013,0.11360874848116645
-Kazakhstan,KAZ,2014,0.11612386545648692
-Kazakhstan,KAZ,2015,0.1137190082644628
-Kazakhstan,KAZ,2016,0.11762789182144022
-Kazakhstan,KAZ,2017,0.10421286031042128
-Kazakhstan,KAZ,2018,0.5459146782357195
-Kazakhstan,KAZ,2019,0.16812705366922234
-Kenya,KEN,2000,0.0
-Kenya,KEN,2001,0.0
-Kenya,KEN,2002,0.0
-Kenya,KEN,2003,0.0
-Kenya,KEN,2004,0.0
-Kenya,KEN,2005,0.0
-Kenya,KEN,2006,0.0
-Kenya,KEN,2007,0.0
-Kenya,KEN,2008,0.0
-Kenya,KEN,2009,0.0
-Kenya,KEN,2010,0.0
-Kenya,KEN,2011,0.0
-Kenya,KEN,2012,0.0
-Kenya,KEN,2013,0.0
-Kenya,KEN,2014,0.0
-Kenya,KEN,2015,0.0
-Kenya,KEN,2016,0.0
-Kenya,KEN,2017,0.0
-Kenya,KEN,2018,0.0
-Kenya,KEN,2019,0.0
-Kiribati,KIR,2000,0.0
-Kiribati,KIR,2001,0.0
-Kiribati,KIR,2002,0.0
-Kiribati,KIR,2003,0.0
-Kiribati,KIR,2004,0.0
-Kiribati,KIR,2005,0.0
-Kiribati,KIR,2006,0.0
-Kiribati,KIR,2007,0.0
-Kiribati,KIR,2008,0.0
-Kiribati,KIR,2009,0.0
-Kiribati,KIR,2010,0.0
-Kiribati,KIR,2011,0.0
-Kiribati,KIR,2012,0.0
-Kiribati,KIR,2013,0.0
-Kiribati,KIR,2014,0.0
-Kiribati,KIR,2015,0.0
-Kiribati,KIR,2016,0.0
-Kiribati,KIR,2017,0.0
-Kiribati,KIR,2018,0.0
-Kiribati,KIR,2019,0.0
-"Korea, Democratic People's Republic of",PRK,2000,0.0
-"Korea, Democratic People's Republic of",PRK,2001,0.0
-"Korea, Democratic People's Republic of",PRK,2002,0.0
-"Korea, Democratic People's Republic of",PRK,2003,0.0
-"Korea, Democratic People's Republic of",PRK,2004,0.0
-"Korea, Democratic People's Republic of",PRK,2005,2.313208420078649e-05
-"Korea, Democratic People's Republic of",PRK,2006,4.9462099666130826e-05
-"Korea, Democratic People's Republic of",PRK,2007,2.373042240151875e-05
-"Korea, Democratic People's Republic of",PRK,2008,0.03874143269205325
-"Korea, Democratic People's Republic of",PRK,2009,0.027858219850178303
-"Korea, Democratic People's Republic of",PRK,2010,0.021859124658069558
-"Korea, Democratic People's Republic of",PRK,2011,0.021701102801368992
-"Korea, Democratic People's Republic of",PRK,2012,0.019319602889007984
-"Korea, Democratic People's Republic of",PRK,2013,0.01014372507560956
-"Korea, Democratic People's Republic of",PRK,2014,0.01065168974532778
-"Korea, Democratic People's Republic of",PRK,2015,0.008286377195889956
-"Korea, Democratic People's Republic of",PRK,2016,0.008482585344489776
-"Korea, Democratic People's Republic of",PRK,2017,0.008760634628650264
-"Korea, Democratic People's Republic of",PRK,2018,0.09954703465711576
-"Korea, Democratic People's Republic of",PRK,2019,0.016928460975014242
-"Korea, Republic of",KOR,2000,0.0
-"Korea, Republic of",KOR,2001,0.0
-"Korea, Republic of",KOR,2002,0.0
-"Korea, Republic of",KOR,2003,0.0
-"Korea, Republic of",KOR,2004,0.0
-"Korea, Republic of",KOR,2005,0.0
-"Korea, Republic of",KOR,2006,0.0
-"Korea, Republic of",KOR,2007,0.0
-"Korea, Republic of",KOR,2008,0.0
-"Korea, Republic of",KOR,2009,0.0
-"Korea, Republic of",KOR,2010,0.0
-"Korea, Republic of",KOR,2011,0.0
-"Korea, Republic of",KOR,2012,0.0
-"Korea, Republic of",KOR,2013,0.0
-"Korea, Republic of",KOR,2014,0.0
-"Korea, Republic of",KOR,2015,0.0
-"Korea, Republic of",KOR,2016,0.0
-"Korea, Republic of",KOR,2017,0.0
-"Korea, Republic of",KOR,2018,0.0
-"Korea, Republic of",KOR,2019,0.0
-Kuwait,KWT,2000,0.0
-Kuwait,KWT,2001,0.0
-Kuwait,KWT,2002,0.0
-Kuwait,KWT,2003,0.0
-Kuwait,KWT,2004,0.0
-Kuwait,KWT,2005,2.313208420078649e-05
-Kuwait,KWT,2006,4.9462099666130826e-05
-Kuwait,KWT,2007,2.373042240151875e-05
-Kuwait,KWT,2008,0.03874143269205325
-Kuwait,KWT,2009,0.027858219850178303
-Kuwait,KWT,2010,0.021859124658069558
-Kuwait,KWT,2011,0.021701102801368992
-Kuwait,KWT,2012,0.019319602889007984
-Kuwait,KWT,2013,0.01014372507560956
-Kuwait,KWT,2014,0.01065168974532778
-Kuwait,KWT,2015,0.008286377195889956
-Kuwait,KWT,2016,0.008482585344489776
-Kuwait,KWT,2017,0.008760634628650264
-Kuwait,KWT,2018,0.09954703465711576
-Kuwait,KWT,2019,0.016928460975014242
-Kyrgyzstan,KGZ,2000,0.0
-Kyrgyzstan,KGZ,2001,0.0
-Kyrgyzstan,KGZ,2002,0.0
-Kyrgyzstan,KGZ,2003,0.0
-Kyrgyzstan,KGZ,2004,0.0
-Kyrgyzstan,KGZ,2005,0.002583979328165375
-Kyrgyzstan,KGZ,2006,0.0060606060606060615
-Kyrgyzstan,KGZ,2007,0.0016722408026755855
-Kyrgyzstan,KGZ,2008,0.016981132075471698
-Kyrgyzstan,KGZ,2009,0.0
-Kyrgyzstan,KGZ,2010,0.0
-Kyrgyzstan,KGZ,2011,0.0
-Kyrgyzstan,KGZ,2012,0.0050251256281407045
-Kyrgyzstan,KGZ,2013,0.0017985611510791368
-Kyrgyzstan,KGZ,2014,0.0
-Kyrgyzstan,KGZ,2015,0.001964636542239686
-Kyrgyzstan,KGZ,2016,0.00391389432485323
-Kyrgyzstan,KGZ,2017,0.0
-Kyrgyzstan,KGZ,2018,0.0
-Kyrgyzstan,KGZ,2019,0.06410256410256411
-Lao People's Democratic Republic,LAO,2000,0.0
-Lao People's Democratic Republic,LAO,2001,0.0
-Lao People's Democratic Republic,LAO,2002,0.0
-Lao People's Democratic Republic,LAO,2003,0.0
-Lao People's Democratic Republic,LAO,2004,0.0
-Lao People's Democratic Republic,LAO,2005,2.313208420078649e-05
-Lao People's Democratic Republic,LAO,2006,4.9462099666130826e-05
-Lao People's Democratic Republic,LAO,2007,2.373042240151875e-05
-Lao People's Democratic Republic,LAO,2008,0.03874143269205325
-Lao People's Democratic Republic,LAO,2009,0.027858219850178303
-Lao People's Democratic Republic,LAO,2010,0.021859124658069558
-Lao People's Democratic Republic,LAO,2011,0.021701102801368992
-Lao People's Democratic Republic,LAO,2012,0.019319602889007984
-Lao People's Democratic Republic,LAO,2013,0.01014372507560956
-Lao People's Democratic Republic,LAO,2014,0.01065168974532778
-Lao People's Democratic Republic,LAO,2015,0.008286377195889956
-Lao People's Democratic Republic,LAO,2016,0.008482585344489776
-Lao People's Democratic Republic,LAO,2017,0.008760634628650264
-Lao People's Democratic Republic,LAO,2018,0.09954703465711576
-Lao People's Democratic Republic,LAO,2019,0.016928460975014242
-Latvia,LVA,2000,0.010183299389002035
-Latvia,LVA,2001,0.007648183556405354
-Latvia,LVA,2002,0.014084507042253525
-Latvia,LVA,2003,0.01576182136602452
-Latvia,LVA,2004,0.020033388981636063
-Latvia,LVA,2005,0.027164685908319185
-Latvia,LVA,2006,0.01666666666666667
-Latvia,LVA,2007,0.017035775127768316
-Latvia,LVA,2008,0.013384321223709372
-Latvia,LVA,2009,0.037037037037037035
-Latvia,LVA,2010,0.05843071786310518
-Latvia,LVA,2011,0.04801324503311258
-Latvia,LVA,2012,0.04663212435233161
-Latvia,LVA,2013,0.039930555555555566
-Latvia,LVA,2014,0.04770017035775129
-Latvia,LVA,2015,0.052980132450331126
-Latvia,LVA,2016,0.06525037936267071
-Latvia,LVA,2017,0.06976744186046513
-Latvia,LVA,2018,0.06861313868613139
-Latvia,LVA,2019,0.05647382920110192
-Lebanon,LBN,2000,0.0
-Lebanon,LBN,2001,0.0
-Lebanon,LBN,2002,0.0
-Lebanon,LBN,2003,0.0
-Lebanon,LBN,2004,0.0
-Lebanon,LBN,2005,2.313208420078649e-05
-Lebanon,LBN,2006,4.9462099666130826e-05
-Lebanon,LBN,2007,2.373042240151875e-05
-Lebanon,LBN,2008,0.03874143269205325
-Lebanon,LBN,2009,0.027858219850178303
-Lebanon,LBN,2010,0.021859124658069558
-Lebanon,LBN,2011,0.021701102801368992
-Lebanon,LBN,2012,0.019319602889007984
-Lebanon,LBN,2013,0.01014372507560956
-Lebanon,LBN,2014,0.01065168974532778
-Lebanon,LBN,2015,0.008286377195889956
-Lebanon,LBN,2016,0.008482585344489776
-Lebanon,LBN,2017,0.008760634628650264
-Lebanon,LBN,2018,0.09954703465711576
-Lebanon,LBN,2019,0.016928460975014242
-Lesotho,LSO,2000,0.0
-Lesotho,LSO,2001,0.0
-Lesotho,LSO,2002,0.0
-Lesotho,LSO,2003,0.0
-Lesotho,LSO,2004,0.0
-Lesotho,LSO,2005,0.0
-Lesotho,LSO,2006,0.0
-Lesotho,LSO,2007,0.0
-Lesotho,LSO,2008,0.0
-Lesotho,LSO,2009,0.0
-Lesotho,LSO,2010,0.0
-Lesotho,LSO,2011,0.0
-Lesotho,LSO,2012,0.0
-Lesotho,LSO,2013,0.0
-Lesotho,LSO,2014,0.0
-Lesotho,LSO,2015,0.0
-Lesotho,LSO,2016,0.0
-Lesotho,LSO,2017,0.0
-Lesotho,LSO,2018,0.0
-Lesotho,LSO,2019,0.0
-Liberia,LBR,2000,0.0
-Liberia,LBR,2001,0.0
-Liberia,LBR,2002,0.0
-Liberia,LBR,2003,0.0
-Liberia,LBR,2004,0.0
-Liberia,LBR,2005,0.0
-Liberia,LBR,2006,0.0
-Liberia,LBR,2007,0.0
-Liberia,LBR,2008,0.0
-Liberia,LBR,2009,0.0
-Liberia,LBR,2010,0.0
-Liberia,LBR,2011,0.0
-Liberia,LBR,2012,0.0
-Liberia,LBR,2013,0.0
-Liberia,LBR,2014,0.0
-Liberia,LBR,2015,0.0
-Liberia,LBR,2016,0.0
-Liberia,LBR,2017,0.0
-Liberia,LBR,2018,0.0
-Liberia,LBR,2019,0.0
-Libyan Arab Jamahiriya,LBY,2000,0.0
-Libyan Arab Jamahiriya,LBY,2001,0.0
-Libyan Arab Jamahiriya,LBY,2002,0.0
-Libyan Arab Jamahiriya,LBY,2003,0.0
-Libyan Arab Jamahiriya,LBY,2004,0.0
-Libyan Arab Jamahiriya,LBY,2005,0.0
-Libyan Arab Jamahiriya,LBY,2006,0.0
-Libyan Arab Jamahiriya,LBY,2007,0.0
-Libyan Arab Jamahiriya,LBY,2008,0.0
-Libyan Arab Jamahiriya,LBY,2009,0.0
-Libyan Arab Jamahiriya,LBY,2010,0.0
-Libyan Arab Jamahiriya,LBY,2011,0.0
-Libyan Arab Jamahiriya,LBY,2012,0.0
-Libyan Arab Jamahiriya,LBY,2013,0.0
-Libyan Arab Jamahiriya,LBY,2014,0.0
-Libyan Arab Jamahiriya,LBY,2015,0.0
-Libyan Arab Jamahiriya,LBY,2016,0.0
-Libyan Arab Jamahiriya,LBY,2017,0.0
-Libyan Arab Jamahiriya,LBY,2018,0.0
-Libyan Arab Jamahiriya,LBY,2019,0.0
-Liechtenstein,LIE,2000,0.021612706169822853
-Liechtenstein,LIE,2001,0.02081344520926493
-Liechtenstein,LIE,2002,0.01875967522825641
-Liechtenstein,LIE,2003,0.017716623090771457
-Liechtenstein,LIE,2004,0.015625771109904752
-Liechtenstein,LIE,2005,0.014409544922410143
-Liechtenstein,LIE,2006,0.014357081776857643
-Liechtenstein,LIE,2007,0.022487530168946092
-Liechtenstein,LIE,2008,0.02216182048040455
-Liechtenstein,LIE,2009,0.022295052000026117
-Liechtenstein,LIE,2010,0.02239608101153679
-Liechtenstein,LIE,2011,0.02162654521795706
-Liechtenstein,LIE,2012,0.021627916369364158
-Liechtenstein,LIE,2013,0.020425101214574897
-Liechtenstein,LIE,2014,0.01972387932503835
-Liechtenstein,LIE,2015,0.017842801773804953
-Liechtenstein,LIE,2016,0.018753316010720063
-Liechtenstein,LIE,2017,0.01829149509293531
-Liechtenstein,LIE,2018,0.017784506022510367
-Liechtenstein,LIE,2019,0.01666721284614124
-Lithuania,LTU,2000,0.12628865979381446
-Lithuania,LTU,2001,0.12
-Lithuania,LTU,2002,0.10290237467018472
-Lithuania,LTU,2003,0.10723860589812333
-Lithuania,LTU,2004,0.10565110565110564
-Lithuania,LTU,2005,0.10361445783132532
-Lithuania,LTU,2006,0.08908685968819599
-Lithuania,LTU,2007,0.08207343412526996
-Lithuania,LTU,2008,0.0927601809954751
-Lithuania,LTU,2009,0.09743589743589744
-Lithuania,LTU,2010,0.08114558472553701
-Lithuania,LTU,2011,0.06585365853658537
-Lithuania,LTU,2012,0.05555555555555556
-Lithuania,LTU,2013,0.05316455696202532
-Lithuania,LTU,2014,0.04580152671755725
-Lithuania,LTU,2015,0.05093833780160858
-Lithuania,LTU,2016,0.051020408163265314
-Lithuania,LTU,2017,0.04738154613466335
-Lithuania,LTU,2018,0.04580152671755725
-Lithuania,LTU,2019,0.03703703703703705
-Luxembourg,LUX,2000,0.0
-Luxembourg,LUX,2001,0.0
-Luxembourg,LUX,2002,0.0
-Luxembourg,LUX,2003,0.0
-Luxembourg,LUX,2004,0.0
-Luxembourg,LUX,2005,0.0
-Luxembourg,LUX,2006,0.0
-Luxembourg,LUX,2007,0.0
-Luxembourg,LUX,2008,0.0
-Luxembourg,LUX,2009,0.0
-Luxembourg,LUX,2010,0.0
-Luxembourg,LUX,2011,0.0
-Luxembourg,LUX,2012,0.0
-Luxembourg,LUX,2013,0.0
-Luxembourg,LUX,2014,0.0
-Luxembourg,LUX,2015,0.0
-Luxembourg,LUX,2016,0.0
-Luxembourg,LUX,2017,0.0
-Luxembourg,LUX,2018,0.0
-Luxembourg,LUX,2019,0.0
-Macao,MAC,2000,0.0
-Macao,MAC,2001,0.0
-Macao,MAC,2002,0.0
-Macao,MAC,2003,0.0
-Macao,MAC,2004,0.0
-Macao,MAC,2005,2.313208420078649e-05
-Macao,MAC,2006,4.9462099666130826e-05
-Macao,MAC,2007,2.373042240151875e-05
-Macao,MAC,2008,0.03874143269205325
-Macao,MAC,2009,0.027858219850178303
-Macao,MAC,2010,0.021859124658069558
-Macao,MAC,2011,0.021701102801368992
-Macao,MAC,2012,0.019319602889007984
-Macao,MAC,2013,0.01014372507560956
-Macao,MAC,2014,0.01065168974532778
-Macao,MAC,2015,0.008286377195889956
-Macao,MAC,2016,0.008482585344489776
-Macao,MAC,2017,0.008760634628650264
-Macao,MAC,2018,0.09954703465711576
-Macao,MAC,2019,0.016928460975014242
-"Macedonia, the Former Yugoslav Republic of",MKD,2000,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2001,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2002,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2003,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2004,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2005,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2006,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2007,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2008,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2009,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2010,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2011,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2012,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2013,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2014,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2015,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2016,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2017,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2018,0.0
-"Macedonia, the Former Yugoslav Republic of",MKD,2019,0.0
-Madagascar,MDG,2000,0.0
-Madagascar,MDG,2001,0.0
-Madagascar,MDG,2002,0.0
-Madagascar,MDG,2003,0.0
-Madagascar,MDG,2004,0.0
-Madagascar,MDG,2005,0.0
-Madagascar,MDG,2006,0.0
-Madagascar,MDG,2007,0.0
-Madagascar,MDG,2008,0.0
-Madagascar,MDG,2009,0.0
-Madagascar,MDG,2010,0.0
-Madagascar,MDG,2011,0.0
-Madagascar,MDG,2012,0.0
-Madagascar,MDG,2013,0.0
-Madagascar,MDG,2014,0.0
-Madagascar,MDG,2015,0.0
-Madagascar,MDG,2016,0.0
-Madagascar,MDG,2017,0.0
-Madagascar,MDG,2018,0.0
-Madagascar,MDG,2019,0.0
-Malawi,MWI,2000,0.0
-Malawi,MWI,2001,0.0
-Malawi,MWI,2002,0.0
-Malawi,MWI,2003,0.0
-Malawi,MWI,2004,0.0
-Malawi,MWI,2005,0.0
-Malawi,MWI,2006,0.0
-Malawi,MWI,2007,0.0
-Malawi,MWI,2008,0.0
-Malawi,MWI,2009,0.0
-Malawi,MWI,2010,0.0
-Malawi,MWI,2011,0.0
-Malawi,MWI,2012,0.0
-Malawi,MWI,2013,0.0
-Malawi,MWI,2014,0.0
-Malawi,MWI,2015,0.0
-Malawi,MWI,2016,0.0
-Malawi,MWI,2017,0.0
-Malawi,MWI,2018,0.0
-Malawi,MWI,2019,0.0
-Malaysia,MYS,2000,0.0
-Malaysia,MYS,2001,0.0
-Malaysia,MYS,2002,0.0
-Malaysia,MYS,2003,0.0
-Malaysia,MYS,2004,0.0
-Malaysia,MYS,2005,2.313208420078649e-05
-Malaysia,MYS,2006,4.9462099666130826e-05
-Malaysia,MYS,2007,2.373042240151875e-05
-Malaysia,MYS,2008,0.03874143269205325
-Malaysia,MYS,2009,0.027858219850178303
-Malaysia,MYS,2010,0.021859124658069558
-Malaysia,MYS,2011,0.021701102801368992
-Malaysia,MYS,2012,0.019319602889007984
-Malaysia,MYS,2013,0.01014372507560956
-Malaysia,MYS,2014,0.01065168974532778
-Malaysia,MYS,2015,0.008286377195889956
-Malaysia,MYS,2016,0.008482585344489776
-Malaysia,MYS,2017,0.008760634628650264
-Malaysia,MYS,2018,0.09954703465711576
-Malaysia,MYS,2019,0.016928460975014242
-Maldives,MDV,2000,0.0
-Maldives,MDV,2001,0.0
-Maldives,MDV,2002,0.0
-Maldives,MDV,2003,0.0
-Maldives,MDV,2004,0.0
-Maldives,MDV,2005,2.313208420078649e-05
-Maldives,MDV,2006,4.9462099666130826e-05
-Maldives,MDV,2007,2.373042240151875e-05
-Maldives,MDV,2008,0.03874143269205325
-Maldives,MDV,2009,0.027858219850178303
-Maldives,MDV,2010,0.021859124658069558
-Maldives,MDV,2011,0.021701102801368992
-Maldives,MDV,2012,0.019319602889007984
-Maldives,MDV,2013,0.01014372507560956
-Maldives,MDV,2014,0.01065168974532778
-Maldives,MDV,2015,0.008286377195889956
-Maldives,MDV,2016,0.008482585344489776
-Maldives,MDV,2017,0.008760634628650264
-Maldives,MDV,2018,0.09954703465711576
-Maldives,MDV,2019,0.016928460975014242
-Mali,MLI,2000,0.0
-Mali,MLI,2001,0.0
-Mali,MLI,2002,0.0
-Mali,MLI,2003,0.0
-Mali,MLI,2004,0.0
-Mali,MLI,2005,0.0
-Mali,MLI,2006,0.0
-Mali,MLI,2007,0.0
-Mali,MLI,2008,0.0
-Mali,MLI,2009,0.0
-Mali,MLI,2010,0.0
-Mali,MLI,2011,0.0
-Mali,MLI,2012,0.0
-Mali,MLI,2013,0.0
-Mali,MLI,2014,0.0
-Mali,MLI,2015,0.0
-Mali,MLI,2016,0.0
-Mali,MLI,2017,0.0
-Mali,MLI,2018,0.0
-Mali,MLI,2019,0.0
-Malta,MLT,2000,0.0
-Malta,MLT,2001,0.0
-Malta,MLT,2002,0.0
-Malta,MLT,2003,0.0
-Malta,MLT,2004,0.0
-Malta,MLT,2005,0.0
-Malta,MLT,2006,0.0
-Malta,MLT,2007,0.0
-Malta,MLT,2008,0.0
-Malta,MLT,2009,0.0
-Malta,MLT,2010,0.0
-Malta,MLT,2011,0.0
-Malta,MLT,2012,0.0
-Malta,MLT,2013,0.0
-Malta,MLT,2014,0.0
-Malta,MLT,2015,0.0
-Malta,MLT,2016,0.0
-Malta,MLT,2017,0.0
-Malta,MLT,2018,0.0
-Malta,MLT,2019,0.0
-Marshall Islands,MHL,2000,0.0
-Marshall Islands,MHL,2001,0.0
-Marshall Islands,MHL,2002,0.0
-Marshall Islands,MHL,2003,0.0
-Marshall Islands,MHL,2004,0.0
-Marshall Islands,MHL,2005,0.0
-Marshall Islands,MHL,2006,0.0
-Marshall Islands,MHL,2007,0.0
-Marshall Islands,MHL,2008,0.0
-Marshall Islands,MHL,2009,0.0
-Marshall Islands,MHL,2010,0.0
-Marshall Islands,MHL,2011,0.0
-Marshall Islands,MHL,2012,0.0
-Marshall Islands,MHL,2013,0.0
-Marshall Islands,MHL,2014,0.0
-Marshall Islands,MHL,2015,0.0
-Marshall Islands,MHL,2016,0.0
-Marshall Islands,MHL,2017,0.0
-Marshall Islands,MHL,2018,0.0
-Marshall Islands,MHL,2019,0.0
-Martinique,MTQ,2000,0.0
-Martinique,MTQ,2001,0.0
-Martinique,MTQ,2002,0.0
-Martinique,MTQ,2003,0.0
-Martinique,MTQ,2004,0.0
-Martinique,MTQ,2005,0.0
-Martinique,MTQ,2006,0.0
-Martinique,MTQ,2007,0.0
-Martinique,MTQ,2008,0.0
-Martinique,MTQ,2009,0.0
-Martinique,MTQ,2010,0.0
-Martinique,MTQ,2011,0.0
-Martinique,MTQ,2012,0.0
-Martinique,MTQ,2013,0.0
-Martinique,MTQ,2014,0.0
-Martinique,MTQ,2015,0.0
-Martinique,MTQ,2016,0.0
-Martinique,MTQ,2017,0.0
-Martinique,MTQ,2018,0.0
-Martinique,MTQ,2019,0.0
-Mauritania,MRT,2000,0.0
-Mauritania,MRT,2001,0.0
-Mauritania,MRT,2002,0.0
-Mauritania,MRT,2003,0.0
-Mauritania,MRT,2004,0.0
-Mauritania,MRT,2005,0.0
-Mauritania,MRT,2006,0.0
-Mauritania,MRT,2007,0.0
-Mauritania,MRT,2008,0.0
-Mauritania,MRT,2009,0.0
-Mauritania,MRT,2010,0.0
-Mauritania,MRT,2011,0.0
-Mauritania,MRT,2012,0.0
-Mauritania,MRT,2013,0.0
-Mauritania,MRT,2014,0.0
-Mauritania,MRT,2015,0.0
-Mauritania,MRT,2016,0.0
-Mauritania,MRT,2017,0.0
-Mauritania,MRT,2018,0.0
-Mauritania,MRT,2019,0.0
-Mauritius,MUS,2000,0.0
-Mauritius,MUS,2001,0.0
-Mauritius,MUS,2002,0.0
-Mauritius,MUS,2003,0.0
-Mauritius,MUS,2004,0.0
-Mauritius,MUS,2005,0.0
-Mauritius,MUS,2006,0.0
-Mauritius,MUS,2007,0.0
-Mauritius,MUS,2008,0.0
-Mauritius,MUS,2009,0.0
-Mauritius,MUS,2010,0.0
-Mauritius,MUS,2011,0.0
-Mauritius,MUS,2012,0.0
-Mauritius,MUS,2013,0.0
-Mauritius,MUS,2014,0.0
-Mauritius,MUS,2015,0.0
-Mauritius,MUS,2016,0.0
-Mauritius,MUS,2017,0.0
-Mauritius,MUS,2018,0.0
-Mauritius,MUS,2019,0.0
-Mayotte,MYT,2000,0.0
-Mayotte,MYT,2001,0.0
-Mayotte,MYT,2002,0.0
-Mayotte,MYT,2003,0.0
-Mayotte,MYT,2004,0.0
-Mayotte,MYT,2005,0.0
-Mayotte,MYT,2006,0.0
-Mayotte,MYT,2007,0.0
-Mayotte,MYT,2008,0.0
-Mayotte,MYT,2009,0.0
-Mayotte,MYT,2010,0.0
-Mayotte,MYT,2011,0.0
-Mayotte,MYT,2012,0.0
-Mayotte,MYT,2013,0.0
-Mayotte,MYT,2014,0.0
-Mayotte,MYT,2015,0.0
-Mayotte,MYT,2016,0.0
-Mayotte,MYT,2017,0.0
-Mayotte,MYT,2018,0.0
-Mayotte,MYT,2019,0.0
-Mexico,MEX,2000,0.0
-Mexico,MEX,2001,0.0
-Mexico,MEX,2002,0.0
-Mexico,MEX,2003,0.0
-Mexico,MEX,2004,0.0
-Mexico,MEX,2005,0.0
-Mexico,MEX,2006,0.0
-Mexico,MEX,2007,0.0
-Mexico,MEX,2008,0.0
-Mexico,MEX,2009,0.0
-Mexico,MEX,2010,0.0
-Mexico,MEX,2011,0.0
-Mexico,MEX,2012,0.0
-Mexico,MEX,2013,0.0
-Mexico,MEX,2014,0.0
-Mexico,MEX,2015,0.0
-Mexico,MEX,2016,0.0
-Mexico,MEX,2017,0.0
-Mexico,MEX,2018,0.0
-Mexico,MEX,2019,0.0
-"Micronesia, Federated States of",FSM,2000,0.0
-"Micronesia, Federated States of",FSM,2001,0.0
-"Micronesia, Federated States of",FSM,2002,0.0
-"Micronesia, Federated States of",FSM,2003,0.0
-"Micronesia, Federated States of",FSM,2004,0.0
-"Micronesia, Federated States of",FSM,2005,0.0
-"Micronesia, Federated States of",FSM,2006,0.0
-"Micronesia, Federated States of",FSM,2007,0.0
-"Micronesia, Federated States of",FSM,2008,0.0
-"Micronesia, Federated States of",FSM,2009,0.0
-"Micronesia, Federated States of",FSM,2010,0.0
-"Micronesia, Federated States of",FSM,2011,0.0
-"Micronesia, Federated States of",FSM,2012,0.0
-"Micronesia, Federated States of",FSM,2013,0.0
-"Micronesia, Federated States of",FSM,2014,0.0
-"Micronesia, Federated States of",FSM,2015,0.0
-"Micronesia, Federated States of",FSM,2016,0.0
-"Micronesia, Federated States of",FSM,2017,0.0
-"Micronesia, Federated States of",FSM,2018,0.0
-"Micronesia, Federated States of",FSM,2019,0.0
-"Moldova, Republic of",MDA,2000,0.0276243093922652
-"Moldova, Republic of",MDA,2001,0.011560693641618498
-"Moldova, Republic of",MDA,2002,0.002427184466019418
-"Moldova, Republic of",MDA,2003,0.0025
-"Moldova, Republic of",MDA,2004,0.016574585635359115
-"Moldova, Republic of",MDA,2005,0.02112676056338028
-"Moldova, Republic of",MDA,2006,0.014285714285714287
-"Moldova, Republic of",MDA,2007,0.012875536480686695
-"Moldova, Republic of",MDA,2008,0.01612903225806452
-"Moldova, Republic of",MDA,2009,0.013333333333333334
-"Moldova, Republic of",MDA,2010,0.013513513513513514
-"Moldova, Republic of",MDA,2011,0.014184397163120569
-"Moldova, Republic of",MDA,2012,0.01612903225806452
-"Moldova, Republic of",MDA,2013,0.01492537313432836
-"Moldova, Republic of",MDA,2014,0.01886792452830189
-"Moldova, Republic of",MDA,2015,0.0
-"Moldova, Republic of",MDA,2016,0.0
-"Moldova, Republic of",MDA,2017,0.0
-"Moldova, Republic of",MDA,2018,0.0
-"Moldova, Republic of",MDA,2019,0.0
-Monaco,MCO,2000,0.021612706169822853
-Monaco,MCO,2001,0.02081344520926493
-Monaco,MCO,2002,0.01875967522825641
-Monaco,MCO,2003,0.017716623090771457
-Monaco,MCO,2004,0.015625771109904752
-Monaco,MCO,2005,0.014409544922410143
-Monaco,MCO,2006,0.014357081776857643
-Monaco,MCO,2007,0.022487530168946092
-Monaco,MCO,2008,0.02216182048040455
-Monaco,MCO,2009,0.022295052000026117
-Monaco,MCO,2010,0.02239608101153679
-Monaco,MCO,2011,0.02162654521795706
-Monaco,MCO,2012,0.021627916369364158
-Monaco,MCO,2013,0.020425101214574897
-Monaco,MCO,2014,0.01972387932503835
-Monaco,MCO,2015,0.017842801773804953
-Monaco,MCO,2016,0.018753316010720063
-Monaco,MCO,2017,0.01829149509293531
-Monaco,MCO,2018,0.017784506022510367
-Monaco,MCO,2019,0.01666721284614124
-Mongolia,MNG,2000,0.0
-Mongolia,MNG,2001,0.0
-Mongolia,MNG,2002,0.0
-Mongolia,MNG,2003,0.0
-Mongolia,MNG,2004,0.0
-Mongolia,MNG,2005,2.313208420078649e-05
-Mongolia,MNG,2006,4.9462099666130826e-05
-Mongolia,MNG,2007,2.373042240151875e-05
-Mongolia,MNG,2008,0.03874143269205325
-Mongolia,MNG,2009,0.027858219850178303
-Mongolia,MNG,2010,0.021859124658069558
-Mongolia,MNG,2011,0.021701102801368992
-Mongolia,MNG,2012,0.019319602889007984
-Mongolia,MNG,2013,0.01014372507560956
-Mongolia,MNG,2014,0.01065168974532778
-Mongolia,MNG,2015,0.008286377195889956
-Mongolia,MNG,2016,0.008482585344489776
-Mongolia,MNG,2017,0.008760634628650264
-Mongolia,MNG,2018,0.09954703465711576
-Mongolia,MNG,2019,0.016928460975014242
-Montenegro,MNE,2000,0.021612706169822853
-Montenegro,MNE,2001,0.02081344520926493
-Montenegro,MNE,2002,0.01875967522825641
-Montenegro,MNE,2003,0.017716623090771457
-Montenegro,MNE,2004,0.015625771109904752
-Montenegro,MNE,2005,0.014409544922410143
-Montenegro,MNE,2006,0.014357081776857643
-Montenegro,MNE,2007,0.022487530168946092
-Montenegro,MNE,2008,0.02216182048040455
-Montenegro,MNE,2009,0.022295052000026117
-Montenegro,MNE,2010,0.02239608101153679
-Montenegro,MNE,2011,0.02162654521795706
-Montenegro,MNE,2012,0.021627916369364158
-Montenegro,MNE,2013,0.020425101214574897
-Montenegro,MNE,2014,0.01972387932503835
-Montenegro,MNE,2015,0.017842801773804953
-Montenegro,MNE,2016,0.018753316010720063
-Montenegro,MNE,2017,0.01829149509293531
-Montenegro,MNE,2018,0.017784506022510367
-Montenegro,MNE,2019,0.01666721284614124
-Montserrat,MSR,2000,0.0
-Montserrat,MSR,2001,0.0
-Montserrat,MSR,2002,0.0
-Montserrat,MSR,2003,0.0
-Montserrat,MSR,2004,0.0
-Montserrat,MSR,2005,0.0
-Montserrat,MSR,2006,0.0
-Montserrat,MSR,2007,0.0
-Montserrat,MSR,2008,0.0
-Montserrat,MSR,2009,0.0
-Montserrat,MSR,2010,0.0
-Montserrat,MSR,2011,0.0
-Montserrat,MSR,2012,0.0
-Montserrat,MSR,2013,0.0
-Montserrat,MSR,2014,0.0
-Montserrat,MSR,2015,0.0
-Montserrat,MSR,2016,0.0
-Montserrat,MSR,2017,0.0
-Montserrat,MSR,2018,0.0
-Montserrat,MSR,2019,0.0
-Morocco,MAR,2000,0.0
-Morocco,MAR,2001,0.0
-Morocco,MAR,2002,0.0
-Morocco,MAR,2003,0.0
-Morocco,MAR,2004,0.0
-Morocco,MAR,2005,0.0
-Morocco,MAR,2006,0.0
-Morocco,MAR,2007,0.0
-Morocco,MAR,2008,0.0
-Morocco,MAR,2009,0.0
-Morocco,MAR,2010,0.0
-Morocco,MAR,2011,0.0
-Morocco,MAR,2012,0.0
-Morocco,MAR,2013,0.0
-Morocco,MAR,2014,0.0
-Morocco,MAR,2015,0.0
-Morocco,MAR,2016,0.0
-Morocco,MAR,2017,0.0
-Morocco,MAR,2018,0.0
-Morocco,MAR,2019,0.0
-Mozambique,MOZ,2000,0.0
-Mozambique,MOZ,2001,0.0
-Mozambique,MOZ,2002,0.0
-Mozambique,MOZ,2003,0.0
-Mozambique,MOZ,2004,0.0
-Mozambique,MOZ,2005,0.0
-Mozambique,MOZ,2006,0.0
-Mozambique,MOZ,2007,0.0
-Mozambique,MOZ,2008,0.0
-Mozambique,MOZ,2009,0.0
-Mozambique,MOZ,2010,0.0
-Mozambique,MOZ,2011,0.0
-Mozambique,MOZ,2012,0.0
-Mozambique,MOZ,2013,0.0
-Mozambique,MOZ,2014,0.0
-Mozambique,MOZ,2015,0.0
-Mozambique,MOZ,2016,0.0
-Mozambique,MOZ,2017,0.0
-Mozambique,MOZ,2018,0.0
-Mozambique,MOZ,2019,0.0
-Myanmar,MMR,2000,0.0
-Myanmar,MMR,2001,0.0
-Myanmar,MMR,2002,0.0
-Myanmar,MMR,2003,0.0
-Myanmar,MMR,2004,0.0
-Myanmar,MMR,2005,2.313208420078649e-05
-Myanmar,MMR,2006,4.9462099666130826e-05
-Myanmar,MMR,2007,2.373042240151875e-05
-Myanmar,MMR,2008,0.03874143269205325
-Myanmar,MMR,2009,0.027858219850178303
-Myanmar,MMR,2010,0.021859124658069558
-Myanmar,MMR,2011,0.021701102801368992
-Myanmar,MMR,2012,0.019319602889007984
-Myanmar,MMR,2013,0.01014372507560956
-Myanmar,MMR,2014,0.01065168974532778
-Myanmar,MMR,2015,0.008286377195889956
-Myanmar,MMR,2016,0.008482585344489776
-Myanmar,MMR,2017,0.008760634628650264
-Myanmar,MMR,2018,0.09954703465711576
-Myanmar,MMR,2019,0.016928460975014242
-Namibia,NAM,2000,0.0
-Namibia,NAM,2001,0.0
-Namibia,NAM,2002,0.0
-Namibia,NAM,2003,0.0
-Namibia,NAM,2004,0.0
-Namibia,NAM,2005,0.0
-Namibia,NAM,2006,0.0
-Namibia,NAM,2007,0.0
-Namibia,NAM,2008,0.0
-Namibia,NAM,2009,0.0
-Namibia,NAM,2010,0.0
-Namibia,NAM,2011,0.0
-Namibia,NAM,2012,0.0
-Namibia,NAM,2013,0.0
-Namibia,NAM,2014,0.0
-Namibia,NAM,2015,0.0
-Namibia,NAM,2016,0.0
-Namibia,NAM,2017,0.0
-Namibia,NAM,2018,0.0
-Namibia,NAM,2019,0.0
-Nauru,NRU,2000,0.0
-Nauru,NRU,2001,0.0
-Nauru,NRU,2002,0.0
-Nauru,NRU,2003,0.0
-Nauru,NRU,2004,0.0
-Nauru,NRU,2005,0.0
-Nauru,NRU,2006,0.0
-Nauru,NRU,2007,0.0
-Nauru,NRU,2008,0.0
-Nauru,NRU,2009,0.0
-Nauru,NRU,2010,0.0
-Nauru,NRU,2011,0.0
-Nauru,NRU,2012,0.0
-Nauru,NRU,2013,0.0
-Nauru,NRU,2014,0.0
-Nauru,NRU,2015,0.0
-Nauru,NRU,2016,0.0
-Nauru,NRU,2017,0.0
-Nauru,NRU,2018,0.0
-Nauru,NRU,2019,0.0
-Nepal,NPL,2000,0.0
-Nepal,NPL,2001,0.0
-Nepal,NPL,2002,0.0
-Nepal,NPL,2003,0.0
-Nepal,NPL,2004,0.0
-Nepal,NPL,2005,2.313208420078649e-05
-Nepal,NPL,2006,4.9462099666130826e-05
-Nepal,NPL,2007,2.373042240151875e-05
-Nepal,NPL,2008,0.03874143269205325
-Nepal,NPL,2009,0.027858219850178303
-Nepal,NPL,2010,0.021859124658069558
-Nepal,NPL,2011,0.021701102801368992
-Nepal,NPL,2012,0.019319602889007984
-Nepal,NPL,2013,0.01014372507560956
-Nepal,NPL,2014,0.01065168974532778
-Nepal,NPL,2015,0.008286377195889956
-Nepal,NPL,2016,0.008482585344489776
-Nepal,NPL,2017,0.008760634628650264
-Nepal,NPL,2018,0.09954703465711576
-Nepal,NPL,2019,0.016928460975014242
-Netherlands,NLD,2000,0.07890122735242547
-Netherlands,NLD,2001,0.07637983485441112
-Netherlands,NLD,2002,0.07304327402971053
-Netherlands,NLD,2003,0.06441300100645314
-Netherlands,NLD,2004,0.05469623007704523
-Netherlands,NLD,2005,0.05325137867647059
-Netherlands,NLD,2006,0.05509051975861398
-Netherlands,NLD,2007,0.04768729641693811
-Netherlands,NLD,2008,0.04051948051948053
-Netherlands,NLD,2009,0.03607710341234697
-Netherlands,NLD,2010,0.03159894094624152
-Netherlands,NLD,2011,0.03133277343497642
-Netherlands,NLD,2012,0.02881714909184263
-Netherlands,NLD,2013,0.026735579377233285
-Netherlands,NLD,2014,0.029153910381296968
-Netherlands,NLD,2015,0.022841480127912296
-Netherlands,NLD,2016,0.023976153447382062
-Netherlands,NLD,2017,0.02419882275997384
-Netherlands,NLD,2018,0.02088708686570832
-Netherlands,NLD,2019,0.01717745921898171
-New Caledonia,NCL,2000,0.0
-New Caledonia,NCL,2001,0.0
-New Caledonia,NCL,2002,0.0
-New Caledonia,NCL,2003,0.0
-New Caledonia,NCL,2004,0.0
-New Caledonia,NCL,2005,0.0
-New Caledonia,NCL,2006,0.0
-New Caledonia,NCL,2007,0.0
-New Caledonia,NCL,2008,0.0
-New Caledonia,NCL,2009,0.0
-New Caledonia,NCL,2010,0.0
-New Caledonia,NCL,2011,0.0
-New Caledonia,NCL,2012,0.0
-New Caledonia,NCL,2013,0.0
-New Caledonia,NCL,2014,0.0
-New Caledonia,NCL,2015,0.0
-New Caledonia,NCL,2016,0.0
-New Caledonia,NCL,2017,0.0
-New Caledonia,NCL,2018,0.0
-New Caledonia,NCL,2019,0.0
-New Zealand,NZL,2000,0.0
-New Zealand,NZL,2001,0.0
-New Zealand,NZL,2002,0.0
-New Zealand,NZL,2003,0.0
-New Zealand,NZL,2004,0.0
-New Zealand,NZL,2005,0.0
-New Zealand,NZL,2006,0.0
-New Zealand,NZL,2007,0.0
-New Zealand,NZL,2008,0.0
-New Zealand,NZL,2009,0.0
-New Zealand,NZL,2010,0.0
-New Zealand,NZL,2011,0.0
-New Zealand,NZL,2012,0.0
-New Zealand,NZL,2013,0.0
-New Zealand,NZL,2014,0.0
-New Zealand,NZL,2015,0.0
-New Zealand,NZL,2016,0.0
-New Zealand,NZL,2017,0.0
-New Zealand,NZL,2018,0.0
-New Zealand,NZL,2019,0.0
-Nicaragua,NIC,2000,0.0
-Nicaragua,NIC,2001,0.0
-Nicaragua,NIC,2002,0.0
-Nicaragua,NIC,2003,0.0
-Nicaragua,NIC,2004,0.0
-Nicaragua,NIC,2005,0.0
-Nicaragua,NIC,2006,0.0
-Nicaragua,NIC,2007,0.0
-Nicaragua,NIC,2008,0.0
-Nicaragua,NIC,2009,0.0
-Nicaragua,NIC,2010,0.0
-Nicaragua,NIC,2011,0.0
-Nicaragua,NIC,2012,0.0
-Nicaragua,NIC,2013,0.0
-Nicaragua,NIC,2014,0.0
-Nicaragua,NIC,2015,0.0
-Nicaragua,NIC,2016,0.0
-Nicaragua,NIC,2017,0.0
-Nicaragua,NIC,2018,0.0
-Nicaragua,NIC,2019,0.0
-Niger,NER,2000,0.0
-Niger,NER,2001,0.0
-Niger,NER,2002,0.0
-Niger,NER,2003,0.0
-Niger,NER,2004,0.0
-Niger,NER,2005,0.0
-Niger,NER,2006,0.0
-Niger,NER,2007,0.0
-Niger,NER,2008,0.0
-Niger,NER,2009,0.0
-Niger,NER,2010,0.0
-Niger,NER,2011,0.0
-Niger,NER,2012,0.0
-Niger,NER,2013,0.0
-Niger,NER,2014,0.0
-Niger,NER,2015,0.0
-Niger,NER,2016,0.0
-Niger,NER,2017,0.0
-Niger,NER,2018,0.0
-Niger,NER,2019,0.0
-Nigeria,NGA,2000,0.0
-Nigeria,NGA,2001,0.0
-Nigeria,NGA,2002,0.0
-Nigeria,NGA,2003,0.0
-Nigeria,NGA,2004,0.0
-Nigeria,NGA,2005,0.0
-Nigeria,NGA,2006,0.0
-Nigeria,NGA,2007,0.0
-Nigeria,NGA,2008,0.0
-Nigeria,NGA,2009,0.0
-Nigeria,NGA,2010,0.0
-Nigeria,NGA,2011,0.0
-Nigeria,NGA,2012,0.0
-Nigeria,NGA,2013,0.0
-Nigeria,NGA,2014,0.0
-Nigeria,NGA,2015,0.0
-Nigeria,NGA,2016,0.0
-Nigeria,NGA,2017,0.0
-Nigeria,NGA,2018,0.0
-Nigeria,NGA,2019,0.0
-Niue,NIU,2000,0.0
-Niue,NIU,2001,0.0
-Niue,NIU,2002,0.0
-Niue,NIU,2003,0.0
-Niue,NIU,2004,0.0
-Niue,NIU,2005,0.0
-Niue,NIU,2006,0.0
-Niue,NIU,2007,0.0
-Niue,NIU,2008,0.0
-Niue,NIU,2009,0.0
-Niue,NIU,2010,0.0
-Niue,NIU,2011,0.0
-Niue,NIU,2012,0.0
-Niue,NIU,2013,0.0
-Niue,NIU,2014,0.0
-Niue,NIU,2015,0.0
-Niue,NIU,2016,0.0
-Niue,NIU,2017,0.0
-Niue,NIU,2018,0.0
-Niue,NIU,2019,0.0
-Norfolk Island,NFK,2000,0.0
-Norfolk Island,NFK,2001,0.0
-Norfolk Island,NFK,2002,0.0
-Norfolk Island,NFK,2003,0.0
-Norfolk Island,NFK,2004,0.0
-Norfolk Island,NFK,2005,0.0
-Norfolk Island,NFK,2006,0.0
-Norfolk Island,NFK,2007,0.0
-Norfolk Island,NFK,2008,0.0
-Norfolk Island,NFK,2009,0.0
-Norfolk Island,NFK,2010,0.0
-Norfolk Island,NFK,2011,0.0
-Norfolk Island,NFK,2012,0.0
-Norfolk Island,NFK,2013,0.0
-Norfolk Island,NFK,2014,0.0
-Norfolk Island,NFK,2015,0.0
-Norfolk Island,NFK,2016,0.0
-Norfolk Island,NFK,2017,0.0
-Norfolk Island,NFK,2018,0.0
-Norfolk Island,NFK,2019,0.0
-Northern Mariana Islands,MNP,2000,0.0
-Northern Mariana Islands,MNP,2001,0.0
-Northern Mariana Islands,MNP,2002,0.0
-Northern Mariana Islands,MNP,2003,0.0
-Northern Mariana Islands,MNP,2004,0.0
-Northern Mariana Islands,MNP,2005,0.0
-Northern Mariana Islands,MNP,2006,0.0
-Northern Mariana Islands,MNP,2007,0.0
-Northern Mariana Islands,MNP,2008,0.0
-Northern Mariana Islands,MNP,2009,0.0
-Northern Mariana Islands,MNP,2010,0.0
-Northern Mariana Islands,MNP,2011,0.0
-Northern Mariana Islands,MNP,2012,0.0
-Northern Mariana Islands,MNP,2013,0.0
-Northern Mariana Islands,MNP,2014,0.0
-Northern Mariana Islands,MNP,2015,0.0
-Northern Mariana Islands,MNP,2016,0.0
-Northern Mariana Islands,MNP,2017,0.0
-Northern Mariana Islands,MNP,2018,0.0
-Northern Mariana Islands,MNP,2019,0.0
-Norway,NOR,2000,0.0009348706762231225
-Norway,NOR,2001,0.0008852168781351431
-Norway,NOR,2002,0.0008883624518803672
-Norway,NOR,2003,0.0009017132551848512
-Norway,NOR,2004,0.00029753049687592984
-Norway,NOR,2005,0.0
-Norway,NOR,2006,0.0003133813851457224
-Norway,NOR,2007,0.00031989763275751764
-Norway,NOR,2008,0.00032299741602067185
-Norway,NOR,2009,0.000603318250377074
-Norway,NOR,2010,0.0004508566275924257
-Norway,NOR,2011,0.0004904364884747426
-Norway,NOR,2012,0.000946521533364884
-Norway,NOR,2013,0.000970873786407767
-Norway,NOR,2014,0.0009935419771485343
-Norway,NOR,2015,0.0028301886792452824
-Norway,NOR,2016,0.001366742596810934
-Norway,NOR,2017,0.0008357709987463437
-Norway,NOR,2018,0.0012077294685990338
-Norway,NOR,2019,0.0012376237623762374
-Oman,OMN,2000,0.0
-Oman,OMN,2001,0.0
-Oman,OMN,2002,0.0
-Oman,OMN,2003,0.0
-Oman,OMN,2004,0.0
-Oman,OMN,2005,2.313208420078649e-05
-Oman,OMN,2006,4.9462099666130826e-05
-Oman,OMN,2007,2.373042240151875e-05
-Oman,OMN,2008,0.03874143269205325
-Oman,OMN,2009,0.027858219850178303
-Oman,OMN,2010,0.021859124658069558
-Oman,OMN,2011,0.021701102801368992
-Oman,OMN,2012,0.019319602889007984
-Oman,OMN,2013,0.01014372507560956
-Oman,OMN,2014,0.01065168974532778
-Oman,OMN,2015,0.008286377195889956
-Oman,OMN,2016,0.008482585344489776
-Oman,OMN,2017,0.008760634628650264
-Oman,OMN,2018,0.09954703465711576
-Oman,OMN,2019,0.016928460975014242
-Pakistan,PAK,2000,0.0
-Pakistan,PAK,2001,0.0
-Pakistan,PAK,2002,0.0
-Pakistan,PAK,2003,0.0
-Pakistan,PAK,2004,0.0
-Pakistan,PAK,2005,2.313208420078649e-05
-Pakistan,PAK,2006,4.9462099666130826e-05
-Pakistan,PAK,2007,2.373042240151875e-05
-Pakistan,PAK,2008,0.03874143269205325
-Pakistan,PAK,2009,0.027858219850178303
-Pakistan,PAK,2010,0.021859124658069558
-Pakistan,PAK,2011,0.021701102801368992
-Pakistan,PAK,2012,0.019319602889007984
-Pakistan,PAK,2013,0.01014372507560956
-Pakistan,PAK,2014,0.01065168974532778
-Pakistan,PAK,2015,0.008286377195889956
-Pakistan,PAK,2016,0.008482585344489776
-Pakistan,PAK,2017,0.008760634628650264
-Pakistan,PAK,2018,0.09954703465711576
-Pakistan,PAK,2019,0.016928460975014242
-Palau,PLW,2000,0.0
-Palau,PLW,2001,0.0
-Palau,PLW,2002,0.0
-Palau,PLW,2003,0.0
-Palau,PLW,2004,0.0
-Palau,PLW,2005,0.0
-Palau,PLW,2006,0.0
-Palau,PLW,2007,0.0
-Palau,PLW,2008,0.0
-Palau,PLW,2009,0.0
-Palau,PLW,2010,0.0
-Palau,PLW,2011,0.0
-Palau,PLW,2012,0.0
-Palau,PLW,2013,0.0
-Palau,PLW,2014,0.0
-Palau,PLW,2015,0.0
-Palau,PLW,2016,0.0
-Palau,PLW,2017,0.0
-Palau,PLW,2018,0.0
-Palau,PLW,2019,0.0
-"Palestinian Territory, Occupied",PSE,2000,0.0
-"Palestinian Territory, Occupied",PSE,2001,0.0
-"Palestinian Territory, Occupied",PSE,2002,0.0
-"Palestinian Territory, Occupied",PSE,2003,0.0
-"Palestinian Territory, Occupied",PSE,2004,0.0
-"Palestinian Territory, Occupied",PSE,2005,2.313208420078649e-05
-"Palestinian Territory, Occupied",PSE,2006,4.9462099666130826e-05
-"Palestinian Territory, Occupied",PSE,2007,2.373042240151875e-05
-"Palestinian Territory, Occupied",PSE,2008,0.03874143269205325
-"Palestinian Territory, Occupied",PSE,2009,0.027858219850178303
-"Palestinian Territory, Occupied",PSE,2010,0.021859124658069558
-"Palestinian Territory, Occupied",PSE,2011,0.021701102801368992
-"Palestinian Territory, Occupied",PSE,2012,0.019319602889007984
-"Palestinian Territory, Occupied",PSE,2013,0.01014372507560956
-"Palestinian Territory, Occupied",PSE,2014,0.01065168974532778
-"Palestinian Territory, Occupied",PSE,2015,0.008286377195889956
-"Palestinian Territory, Occupied",PSE,2016,0.008482585344489776
-"Palestinian Territory, Occupied",PSE,2017,0.008760634628650264
-"Palestinian Territory, Occupied",PSE,2018,0.09954703465711576
-"Palestinian Territory, Occupied",PSE,2019,0.016928460975014242
-Panama,PAN,2000,0.0
-Panama,PAN,2001,0.0
-Panama,PAN,2002,0.0
-Panama,PAN,2003,0.0
-Panama,PAN,2004,0.0
-Panama,PAN,2005,0.0
-Panama,PAN,2006,0.0
-Panama,PAN,2007,0.0
-Panama,PAN,2008,0.0
-Panama,PAN,2009,0.0
-Panama,PAN,2010,0.0
-Panama,PAN,2011,0.0
-Panama,PAN,2012,0.0
-Panama,PAN,2013,0.0
-Panama,PAN,2014,0.0
-Panama,PAN,2015,0.0
-Panama,PAN,2016,0.0
-Panama,PAN,2017,0.0
-Panama,PAN,2018,0.0
-Panama,PAN,2019,0.0
-Papua New Guinea,PNG,2000,0.0
-Papua New Guinea,PNG,2001,0.0
-Papua New Guinea,PNG,2002,0.0
-Papua New Guinea,PNG,2003,0.0
-Papua New Guinea,PNG,2004,0.0
-Papua New Guinea,PNG,2005,0.0
-Papua New Guinea,PNG,2006,0.0
-Papua New Guinea,PNG,2007,0.0
-Papua New Guinea,PNG,2008,0.0
-Papua New Guinea,PNG,2009,0.0
-Papua New Guinea,PNG,2010,0.0
-Papua New Guinea,PNG,2011,0.0
-Papua New Guinea,PNG,2012,0.0
-Papua New Guinea,PNG,2013,0.0
-Papua New Guinea,PNG,2014,0.0
-Papua New Guinea,PNG,2015,0.0
-Papua New Guinea,PNG,2016,0.0
-Papua New Guinea,PNG,2017,0.0
-Papua New Guinea,PNG,2018,0.0
-Papua New Guinea,PNG,2019,0.0
-Paraguay,PRY,2000,0.0
-Paraguay,PRY,2001,0.0
-Paraguay,PRY,2002,0.0
-Paraguay,PRY,2003,0.0
-Paraguay,PRY,2004,0.0
-Paraguay,PRY,2005,0.0
-Paraguay,PRY,2006,0.0
-Paraguay,PRY,2007,0.0
-Paraguay,PRY,2008,0.0
-Paraguay,PRY,2009,0.0
-Paraguay,PRY,2010,0.0
-Paraguay,PRY,2011,0.0
-Paraguay,PRY,2012,0.0
-Paraguay,PRY,2013,0.0
-Paraguay,PRY,2014,0.0
-Paraguay,PRY,2015,0.0
-Paraguay,PRY,2016,0.0
-Paraguay,PRY,2017,0.0
-Paraguay,PRY,2018,0.0
-Paraguay,PRY,2019,0.0
-Peru,PER,2000,0.0
-Peru,PER,2001,0.0
-Peru,PER,2002,0.0
-Peru,PER,2003,0.0
-Peru,PER,2004,0.0
-Peru,PER,2005,0.0
-Peru,PER,2006,0.0
-Peru,PER,2007,0.0
-Peru,PER,2008,0.0
-Peru,PER,2009,0.0
-Peru,PER,2010,0.0
-Peru,PER,2011,0.0
-Peru,PER,2012,0.0
-Peru,PER,2013,0.0
-Peru,PER,2014,0.0
-Peru,PER,2015,0.0
-Peru,PER,2016,0.0
-Peru,PER,2017,0.0
-Peru,PER,2018,0.0
-Peru,PER,2019,0.0
-Philippines,PHL,2000,0.0
-Philippines,PHL,2001,0.0
-Philippines,PHL,2002,0.0
-Philippines,PHL,2003,0.0
-Philippines,PHL,2004,0.0
-Philippines,PHL,2005,2.313208420078649e-05
-Philippines,PHL,2006,4.9462099666130826e-05
-Philippines,PHL,2007,2.373042240151875e-05
-Philippines,PHL,2008,0.03874143269205325
-Philippines,PHL,2009,0.027858219850178303
-Philippines,PHL,2010,0.021859124658069558
-Philippines,PHL,2011,0.021701102801368992
-Philippines,PHL,2012,0.019319602889007984
-Philippines,PHL,2013,0.01014372507560956
-Philippines,PHL,2014,0.01065168974532778
-Philippines,PHL,2015,0.008286377195889956
-Philippines,PHL,2016,0.008482585344489776
-Philippines,PHL,2017,0.008760634628650264
-Philippines,PHL,2018,0.09954703465711576
-Philippines,PHL,2019,0.016928460975014242
-Pitcairn,PCN,2000,0.0
-Pitcairn,PCN,2001,0.0
-Pitcairn,PCN,2002,0.0
-Pitcairn,PCN,2003,0.0
-Pitcairn,PCN,2004,0.0
-Pitcairn,PCN,2005,0.0
-Pitcairn,PCN,2006,0.0
-Pitcairn,PCN,2007,0.0
-Pitcairn,PCN,2008,0.0
-Pitcairn,PCN,2009,0.0
-Pitcairn,PCN,2010,0.0
-Pitcairn,PCN,2011,0.0
-Pitcairn,PCN,2012,0.0
-Pitcairn,PCN,2013,0.0
-Pitcairn,PCN,2014,0.0
-Pitcairn,PCN,2015,0.0
-Pitcairn,PCN,2016,0.0
-Pitcairn,PCN,2017,0.0
-Pitcairn,PCN,2018,0.0
-Pitcairn,PCN,2019,0.0
-Poland,POL,2000,0.005674724775848372
-Poland,POL,2001,0.006944444444444444
-Poland,POL,2002,0.00612482391131255
-Poland,POL,2003,0.006423432682425488
-Poland,POL,2004,0.006277857994852157
-Poland,POL,2005,0.005128514540847109
-Poland,POL,2006,0.006319115323854661
-Poland,POL,2007,0.0073910992294385905
-Poland,POL,2008,0.007544892108042853
-Poland,POL,2009,0.008123791102514506
-Poland,POL,2010,0.008216313116223485
-Poland,POL,2011,0.00777000777000777
-Poland,POL,2012,0.0076277650648360045
-Poland,POL,2013,0.007848677497841614
-Poland,POL,2014,0.007330781135456545
-Poland,POL,2015,0.007533434907736584
-Poland,POL,2016,0.007125890736342042
-Poland,POL,2017,0.006407518154634773
-Poland,POL,2018,0.005539782563534382
-Poland,POL,2019,0.005456735879810077
-Portugal,PRT,2000,0.00267379679144385
-Portugal,PRT,2001,0.003305004721435317
-Portugal,PRT,2002,0.0035300050428643476
-Portugal,PRT,2003,0.0010504201680672268
-Portugal,PRT,2004,0.0008126777732629012
-Portugal,PRT,2005,0.0008343763037129746
-Portugal,PRT,2006,0.0010735373054213634
-Portugal,PRT,2007,0.0015113350125944582
-Portugal,PRT,2008,0.0011185682326621926
-Portugal,PRT,2009,0.0011318619128466328
-Portugal,PRT,2010,0.0010443864229765015
-Portugal,PRT,2011,0.0011280315848843767
-Portugal,PRT,2012,0.0011792452830188679
-Portugal,PRT,2013,0.0005780346820809249
-Portugal,PRT,2014,0.0
-Portugal,PRT,2015,0.0
-Portugal,PRT,2016,0.0
-Portugal,PRT,2017,0.0
-Portugal,PRT,2018,0.0
-Portugal,PRT,2019,0.0
-Puerto Rico,PRI,2000,0.0
-Puerto Rico,PRI,2001,0.0
-Puerto Rico,PRI,2002,0.0
-Puerto Rico,PRI,2003,0.0
-Puerto Rico,PRI,2004,0.0
-Puerto Rico,PRI,2005,0.0
-Puerto Rico,PRI,2006,0.0
-Puerto Rico,PRI,2007,0.0
-Puerto Rico,PRI,2008,0.0
-Puerto Rico,PRI,2009,0.0
-Puerto Rico,PRI,2010,0.0
-Puerto Rico,PRI,2011,0.0
-Puerto Rico,PRI,2012,0.0
-Puerto Rico,PRI,2013,0.0
-Puerto Rico,PRI,2014,0.0
-Puerto Rico,PRI,2015,0.0
-Puerto Rico,PRI,2016,0.0
-Puerto Rico,PRI,2017,0.0
-Puerto Rico,PRI,2018,0.0
-Puerto Rico,PRI,2019,0.0
-Qatar,QAT,2000,0.0
-Qatar,QAT,2001,0.0
-Qatar,QAT,2002,0.0
-Qatar,QAT,2003,0.0
-Qatar,QAT,2004,0.0
-Qatar,QAT,2005,2.313208420078649e-05
-Qatar,QAT,2006,4.9462099666130826e-05
-Qatar,QAT,2007,2.373042240151875e-05
-Qatar,QAT,2008,0.03874143269205325
-Qatar,QAT,2009,0.027858219850178303
-Qatar,QAT,2010,0.021859124658069558
-Qatar,QAT,2011,0.021701102801368992
-Qatar,QAT,2012,0.019319602889007984
-Qatar,QAT,2013,0.01014372507560956
-Qatar,QAT,2014,0.01065168974532778
-Qatar,QAT,2015,0.008286377195889956
-Qatar,QAT,2016,0.008482585344489776
-Qatar,QAT,2017,0.008760634628650264
-Qatar,QAT,2018,0.09954703465711576
-Qatar,QAT,2019,0.016928460975014242
-Romania,ROU,2000,0.14859926918392205
-Romania,ROU,2001,0.18427726120033816
-Romania,ROU,2002,0.17482517482517482
-Romania,ROU,2003,0.2317682317682317
-Romania,ROU,2004,0.12368972746331235
-Romania,ROU,2005,0.12556561085972853
-Romania,ROU,2006,0.08082706766917293
-Romania,ROU,2007,0.0813953488372093
-Romania,ROU,2008,0.05051369863013699
-Romania,ROU,2009,0.058937823834196885
-Romania,ROU,2010,0.0473225404732254
-Romania,ROU,2011,0.05599104143337066
-Romania,ROU,2012,0.06159068865179437
-Romania,ROU,2013,0.06256921373200441
-Romania,ROU,2014,0.05008635578583765
-Romania,ROU,2015,0.038095238095238085
-Romania,ROU,2016,0.02928647497337594
-Romania,ROU,2017,0.019588638589618027
-Romania,ROU,2018,0.008528784648187633
-Romania,ROU,2019,0.014840680925360106
-Russian Federation,RUS,2000,0.021612706169822853
-Russian Federation,RUS,2001,0.02081344520926493
-Russian Federation,RUS,2002,0.01875967522825641
-Russian Federation,RUS,2003,0.017716623090771457
-Russian Federation,RUS,2004,0.015625771109904752
-Russian Federation,RUS,2005,0.014409544922410143
-Russian Federation,RUS,2006,0.014357081776857643
-Russian Federation,RUS,2007,0.022487530168946092
-Russian Federation,RUS,2008,0.02216182048040455
-Russian Federation,RUS,2009,0.022295052000026117
-Russian Federation,RUS,2010,0.02239608101153679
-Russian Federation,RUS,2011,0.02162654521795706
-Russian Federation,RUS,2012,0.021627916369364158
-Russian Federation,RUS,2013,0.020425101214574897
-Russian Federation,RUS,2014,0.01972387932503835
-Russian Federation,RUS,2015,0.017842801773804953
-Russian Federation,RUS,2016,0.018753316010720063
-Russian Federation,RUS,2017,0.01829149509293531
-Russian Federation,RUS,2018,0.017784506022510367
-Russian Federation,RUS,2019,0.01666721284614124
-Rwanda,RWA,2000,0.0
-Rwanda,RWA,2001,0.0
-Rwanda,RWA,2002,0.0
-Rwanda,RWA,2003,0.0
-Rwanda,RWA,2004,0.0
-Rwanda,RWA,2005,0.0
-Rwanda,RWA,2006,0.0
-Rwanda,RWA,2007,0.0
-Rwanda,RWA,2008,0.0
-Rwanda,RWA,2009,0.0
-Rwanda,RWA,2010,0.0
-Rwanda,RWA,2011,0.0
-Rwanda,RWA,2012,0.0
-Rwanda,RWA,2013,0.0
-Rwanda,RWA,2014,0.0
-Rwanda,RWA,2015,0.0
-Rwanda,RWA,2016,0.0
-Rwanda,RWA,2017,0.0
-Rwanda,RWA,2018,0.0
-Rwanda,RWA,2019,0.0
-Réunion,REU,2000,0.0
-Réunion,REU,2001,0.0
-Réunion,REU,2002,0.0
-Réunion,REU,2003,0.0
-Réunion,REU,2004,0.0
-Réunion,REU,2005,0.0
-Réunion,REU,2006,0.0
-Réunion,REU,2007,0.0
-Réunion,REU,2008,0.0
-Réunion,REU,2009,0.0
-Réunion,REU,2010,0.0
-Réunion,REU,2011,0.0
-Réunion,REU,2012,0.0
-Réunion,REU,2013,0.0
-Réunion,REU,2014,0.0
-Réunion,REU,2015,0.0
-Réunion,REU,2016,0.0
-Réunion,REU,2017,0.0
-Réunion,REU,2018,0.0
-Réunion,REU,2019,0.0
-Saint Barthélemy,BLM,2000,0.0
-Saint Barthélemy,BLM,2001,0.0
-Saint Barthélemy,BLM,2002,0.0
-Saint Barthélemy,BLM,2003,0.0
-Saint Barthélemy,BLM,2004,0.0
-Saint Barthélemy,BLM,2005,0.0
-Saint Barthélemy,BLM,2006,0.0
-Saint Barthélemy,BLM,2007,0.0
-Saint Barthélemy,BLM,2008,0.0
-Saint Barthélemy,BLM,2009,0.0
-Saint Barthélemy,BLM,2010,0.0
-Saint Barthélemy,BLM,2011,0.0
-Saint Barthélemy,BLM,2012,0.0
-Saint Barthélemy,BLM,2013,0.0
-Saint Barthélemy,BLM,2014,0.0
-Saint Barthélemy,BLM,2015,0.0
-Saint Barthélemy,BLM,2016,0.0
-Saint Barthélemy,BLM,2017,0.0
-Saint Barthélemy,BLM,2018,0.0
-Saint Barthélemy,BLM,2019,0.0
-Saint Helena,SHN,2000,0.0
-Saint Helena,SHN,2001,0.0
-Saint Helena,SHN,2002,0.0
-Saint Helena,SHN,2003,0.0
-Saint Helena,SHN,2004,0.0
-Saint Helena,SHN,2005,0.0
-Saint Helena,SHN,2006,0.0
-Saint Helena,SHN,2007,0.0
-Saint Helena,SHN,2008,0.0
-Saint Helena,SHN,2009,0.0
-Saint Helena,SHN,2010,0.0
-Saint Helena,SHN,2011,0.0
-Saint Helena,SHN,2012,0.0
-Saint Helena,SHN,2013,0.0
-Saint Helena,SHN,2014,0.0
-Saint Helena,SHN,2015,0.0
-Saint Helena,SHN,2016,0.0
-Saint Helena,SHN,2017,0.0
-Saint Helena,SHN,2018,0.0
-Saint Helena,SHN,2019,0.0
-Saint Kitts and Nevis,KNA,2000,0.0
-Saint Kitts and Nevis,KNA,2001,0.0
-Saint Kitts and Nevis,KNA,2002,0.0
-Saint Kitts and Nevis,KNA,2003,0.0
-Saint Kitts and Nevis,KNA,2004,0.0
-Saint Kitts and Nevis,KNA,2005,0.0
-Saint Kitts and Nevis,KNA,2006,0.0
-Saint Kitts and Nevis,KNA,2007,0.0
-Saint Kitts and Nevis,KNA,2008,0.0
-Saint Kitts and Nevis,KNA,2009,0.0
-Saint Kitts and Nevis,KNA,2010,0.0
-Saint Kitts and Nevis,KNA,2011,0.0
-Saint Kitts and Nevis,KNA,2012,0.0
-Saint Kitts and Nevis,KNA,2013,0.0
-Saint Kitts and Nevis,KNA,2014,0.0
-Saint Kitts and Nevis,KNA,2015,0.0
-Saint Kitts and Nevis,KNA,2016,0.0
-Saint Kitts and Nevis,KNA,2017,0.0
-Saint Kitts and Nevis,KNA,2018,0.0
-Saint Kitts and Nevis,KNA,2019,0.0
-Saint Lucia,LCA,2000,0.0
-Saint Lucia,LCA,2001,0.0
-Saint Lucia,LCA,2002,0.0
-Saint Lucia,LCA,2003,0.0
-Saint Lucia,LCA,2004,0.0
-Saint Lucia,LCA,2005,0.0
-Saint Lucia,LCA,2006,0.0
-Saint Lucia,LCA,2007,0.0
-Saint Lucia,LCA,2008,0.0
-Saint Lucia,LCA,2009,0.0
-Saint Lucia,LCA,2010,0.0
-Saint Lucia,LCA,2011,0.0
-Saint Lucia,LCA,2012,0.0
-Saint Lucia,LCA,2013,0.0
-Saint Lucia,LCA,2014,0.0
-Saint Lucia,LCA,2015,0.0
-Saint Lucia,LCA,2016,0.0
-Saint Lucia,LCA,2017,0.0
-Saint Lucia,LCA,2018,0.0
-Saint Lucia,LCA,2019,0.0
-Saint Martin (French part),MAF,2000,0.0
-Saint Martin (French part),MAF,2001,0.0
-Saint Martin (French part),MAF,2002,0.0
-Saint Martin (French part),MAF,2003,0.0
-Saint Martin (French part),MAF,2004,0.0
-Saint Martin (French part),MAF,2005,0.0
-Saint Martin (French part),MAF,2006,0.0
-Saint Martin (French part),MAF,2007,0.0
-Saint Martin (French part),MAF,2008,0.0
-Saint Martin (French part),MAF,2009,0.0
-Saint Martin (French part),MAF,2010,0.0
-Saint Martin (French part),MAF,2011,0.0
-Saint Martin (French part),MAF,2012,0.0
-Saint Martin (French part),MAF,2013,0.0
-Saint Martin (French part),MAF,2014,0.0
-Saint Martin (French part),MAF,2015,0.0
-Saint Martin (French part),MAF,2016,0.0
-Saint Martin (French part),MAF,2017,0.0
-Saint Martin (French part),MAF,2018,0.0
-Saint Martin (French part),MAF,2019,0.0
-Saint Pierre and Miquelon,SPM,2000,0.0
-Saint Pierre and Miquelon,SPM,2001,0.0
-Saint Pierre and Miquelon,SPM,2002,0.0
-Saint Pierre and Miquelon,SPM,2003,0.0
-Saint Pierre and Miquelon,SPM,2004,0.0
-Saint Pierre and Miquelon,SPM,2005,0.0
-Saint Pierre and Miquelon,SPM,2006,0.0
-Saint Pierre and Miquelon,SPM,2007,0.0
-Saint Pierre and Miquelon,SPM,2008,0.0
-Saint Pierre and Miquelon,SPM,2009,0.0
-Saint Pierre and Miquelon,SPM,2010,0.0
-Saint Pierre and Miquelon,SPM,2011,0.0
-Saint Pierre and Miquelon,SPM,2012,0.0
-Saint Pierre and Miquelon,SPM,2013,0.0
-Saint Pierre and Miquelon,SPM,2014,0.0
-Saint Pierre and Miquelon,SPM,2015,0.0
-Saint Pierre and Miquelon,SPM,2016,0.0
-Saint Pierre and Miquelon,SPM,2017,0.0
-Saint Pierre and Miquelon,SPM,2018,0.0
-Saint Pierre and Miquelon,SPM,2019,0.0
-Saint Vincent and the Grenadines,VCT,2000,0.0
-Saint Vincent and the Grenadines,VCT,2001,0.0
-Saint Vincent and the Grenadines,VCT,2002,0.0
-Saint Vincent and the Grenadines,VCT,2003,0.0
-Saint Vincent and the Grenadines,VCT,2004,0.0
-Saint Vincent and the Grenadines,VCT,2005,0.0
-Saint Vincent and the Grenadines,VCT,2006,0.0
-Saint Vincent and the Grenadines,VCT,2007,0.0
-Saint Vincent and the Grenadines,VCT,2008,0.0
-Saint Vincent and the Grenadines,VCT,2009,0.0
-Saint Vincent and the Grenadines,VCT,2010,0.0
-Saint Vincent and the Grenadines,VCT,2011,0.0
-Saint Vincent and the Grenadines,VCT,2012,0.0
-Saint Vincent and the Grenadines,VCT,2013,0.0
-Saint Vincent and the Grenadines,VCT,2014,0.0
-Saint Vincent and the Grenadines,VCT,2015,0.0
-Saint Vincent and the Grenadines,VCT,2016,0.0
-Saint Vincent and the Grenadines,VCT,2017,0.0
-Saint Vincent and the Grenadines,VCT,2018,0.0
-Saint Vincent and the Grenadines,VCT,2019,0.0
-Samoa,WSM,2000,0.0
-Samoa,WSM,2001,0.0
-Samoa,WSM,2002,0.0
-Samoa,WSM,2003,0.0
-Samoa,WSM,2004,0.0
-Samoa,WSM,2005,0.0
-Samoa,WSM,2006,0.0
-Samoa,WSM,2007,0.0
-Samoa,WSM,2008,0.0
-Samoa,WSM,2009,0.0
-Samoa,WSM,2010,0.0
-Samoa,WSM,2011,0.0
-Samoa,WSM,2012,0.0
-Samoa,WSM,2013,0.0
-Samoa,WSM,2014,0.0
-Samoa,WSM,2015,0.0
-Samoa,WSM,2016,0.0
-Samoa,WSM,2017,0.0
-Samoa,WSM,2018,0.0
-Samoa,WSM,2019,0.0
-San Marino,SMR,2000,0.021612706169822853
-San Marino,SMR,2001,0.02081344520926493
-San Marino,SMR,2002,0.01875967522825641
-San Marino,SMR,2003,0.017716623090771457
-San Marino,SMR,2004,0.015625771109904752
-San Marino,SMR,2005,0.014409544922410143
-San Marino,SMR,2006,0.014357081776857643
-San Marino,SMR,2007,0.022487530168946092
-San Marino,SMR,2008,0.02216182048040455
-San Marino,SMR,2009,0.022295052000026117
-San Marino,SMR,2010,0.02239608101153679
-San Marino,SMR,2011,0.02162654521795706
-San Marino,SMR,2012,0.021627916369364158
-San Marino,SMR,2013,0.020425101214574897
-San Marino,SMR,2014,0.01972387932503835
-San Marino,SMR,2015,0.017842801773804953
-San Marino,SMR,2016,0.018753316010720063
-San Marino,SMR,2017,0.01829149509293531
-San Marino,SMR,2018,0.017784506022510367
-San Marino,SMR,2019,0.01666721284614124
-Sao Tome and Principe,STP,2000,0.0
-Sao Tome and Principe,STP,2001,0.0
-Sao Tome and Principe,STP,2002,0.0
-Sao Tome and Principe,STP,2003,0.0
-Sao Tome and Principe,STP,2004,0.0
-Sao Tome and Principe,STP,2005,0.0
-Sao Tome and Principe,STP,2006,0.0
-Sao Tome and Principe,STP,2007,0.0
-Sao Tome and Principe,STP,2008,0.0
-Sao Tome and Principe,STP,2009,0.0
-Sao Tome and Principe,STP,2010,0.0
-Sao Tome and Principe,STP,2011,0.0
-Sao Tome and Principe,STP,2012,0.0
-Sao Tome and Principe,STP,2013,0.0
-Sao Tome and Principe,STP,2014,0.0
-Sao Tome and Principe,STP,2015,0.0
-Sao Tome and Principe,STP,2016,0.0
-Sao Tome and Principe,STP,2017,0.0
-Sao Tome and Principe,STP,2018,0.0
-Sao Tome and Principe,STP,2019,0.0
-Saudi Arabia,SAU,2000,0.0
-Saudi Arabia,SAU,2001,0.0
-Saudi Arabia,SAU,2002,0.0
-Saudi Arabia,SAU,2003,0.0
-Saudi Arabia,SAU,2004,0.0
-Saudi Arabia,SAU,2005,2.313208420078649e-05
-Saudi Arabia,SAU,2006,4.9462099666130826e-05
-Saudi Arabia,SAU,2007,2.373042240151875e-05
-Saudi Arabia,SAU,2008,0.03874143269205325
-Saudi Arabia,SAU,2009,0.027858219850178303
-Saudi Arabia,SAU,2010,0.021859124658069558
-Saudi Arabia,SAU,2011,0.021701102801368992
-Saudi Arabia,SAU,2012,0.019319602889007984
-Saudi Arabia,SAU,2013,0.01014372507560956
-Saudi Arabia,SAU,2014,0.01065168974532778
-Saudi Arabia,SAU,2015,0.008286377195889956
-Saudi Arabia,SAU,2016,0.008482585344489776
-Saudi Arabia,SAU,2017,0.008760634628650264
-Saudi Arabia,SAU,2018,0.09954703465711576
-Saudi Arabia,SAU,2019,0.016928460975014242
-Senegal,SEN,2000,0.0
-Senegal,SEN,2001,0.0
-Senegal,SEN,2002,0.0
-Senegal,SEN,2003,0.0
-Senegal,SEN,2004,0.0
-Senegal,SEN,2005,0.0
-Senegal,SEN,2006,0.0
-Senegal,SEN,2007,0.0
-Senegal,SEN,2008,0.0
-Senegal,SEN,2009,0.0
-Senegal,SEN,2010,0.0
-Senegal,SEN,2011,0.0
-Senegal,SEN,2012,0.0
-Senegal,SEN,2013,0.0
-Senegal,SEN,2014,0.0
-Senegal,SEN,2015,0.0
-Senegal,SEN,2016,0.0
-Senegal,SEN,2017,0.0
-Senegal,SEN,2018,0.0
-Senegal,SEN,2019,0.0
-Serbia,SRB,2000,0.3710575139146568
-Serbia,SRB,2001,0.3703703703703704
-Serbia,SRB,2002,0.3597122302158273
-Serbia,SRB,2003,0.3508771929824561
-Serbia,SRB,2004,0.3700657894736842
-Serbia,SRB,2005,0.22
-Serbia,SRB,2006,0.3304347826086957
-Serbia,SRB,2007,0.011535048802129548
-Serbia,SRB,2008,0.0
-Serbia,SRB,2009,0.003824091778202677
-Serbia,SRB,2010,0.0
-Serbia,SRB,2011,0.0
-Serbia,SRB,2012,0.0
-Serbia,SRB,2013,0.0
-Serbia,SRB,2014,0.0
-Serbia,SRB,2015,0.0
-Serbia,SRB,2016,0.0
-Serbia,SRB,2017,0.0
-Serbia,SRB,2018,0.0
-Serbia,SRB,2019,0.0
-Seychelles,SYC,2000,0.0
-Seychelles,SYC,2001,0.0
-Seychelles,SYC,2002,0.0
-Seychelles,SYC,2003,0.0
-Seychelles,SYC,2004,0.0
-Seychelles,SYC,2005,0.0
-Seychelles,SYC,2006,0.0
-Seychelles,SYC,2007,0.0
-Seychelles,SYC,2008,0.0
-Seychelles,SYC,2009,0.0
-Seychelles,SYC,2010,0.0
-Seychelles,SYC,2011,0.0
-Seychelles,SYC,2012,0.0
-Seychelles,SYC,2013,0.0
-Seychelles,SYC,2014,0.0
-Seychelles,SYC,2015,0.0
-Seychelles,SYC,2016,0.0
-Seychelles,SYC,2017,0.0
-Seychelles,SYC,2018,0.0
-Seychelles,SYC,2019,0.0
-Sierra Leone,SLE,2000,0.0
-Sierra Leone,SLE,2001,0.0
-Sierra Leone,SLE,2002,0.0
-Sierra Leone,SLE,2003,0.0
-Sierra Leone,SLE,2004,0.0
-Sierra Leone,SLE,2005,0.0
-Sierra Leone,SLE,2006,0.0
-Sierra Leone,SLE,2007,0.0
-Sierra Leone,SLE,2008,0.0
-Sierra Leone,SLE,2009,0.0
-Sierra Leone,SLE,2010,0.0
-Sierra Leone,SLE,2011,0.0
-Sierra Leone,SLE,2012,0.0
-Sierra Leone,SLE,2013,0.0
-Sierra Leone,SLE,2014,0.0
-Sierra Leone,SLE,2015,0.0
-Sierra Leone,SLE,2016,0.0
-Sierra Leone,SLE,2017,0.0
-Sierra Leone,SLE,2018,0.0
-Sierra Leone,SLE,2019,0.0
-Singapore,SGP,2000,0.0
-Singapore,SGP,2001,0.0
-Singapore,SGP,2002,0.0
-Singapore,SGP,2003,0.0
-Singapore,SGP,2004,0.0
-Singapore,SGP,2005,2.313208420078649e-05
-Singapore,SGP,2006,4.9462099666130826e-05
-Singapore,SGP,2007,2.373042240151875e-05
-Singapore,SGP,2008,0.03874143269205325
-Singapore,SGP,2009,0.027858219850178303
-Singapore,SGP,2010,0.021859124658069558
-Singapore,SGP,2011,0.021701102801368992
-Singapore,SGP,2012,0.019319602889007984
-Singapore,SGP,2013,0.01014372507560956
-Singapore,SGP,2014,0.01065168974532778
-Singapore,SGP,2015,0.008286377195889956
-Singapore,SGP,2016,0.008482585344489776
-Singapore,SGP,2017,0.008760634628650264
-Singapore,SGP,2018,0.09954703465711576
-Singapore,SGP,2019,0.016928460975014242
-Sint Maarten (Dutch part),SXM,2000,0.0
-Sint Maarten (Dutch part),SXM,2001,0.0
-Sint Maarten (Dutch part),SXM,2002,0.0
-Sint Maarten (Dutch part),SXM,2003,0.0
-Sint Maarten (Dutch part),SXM,2004,0.0
-Sint Maarten (Dutch part),SXM,2005,0.0
-Sint Maarten (Dutch part),SXM,2006,0.0
-Sint Maarten (Dutch part),SXM,2007,0.0
-Sint Maarten (Dutch part),SXM,2008,0.0
-Sint Maarten (Dutch part),SXM,2009,0.0
-Sint Maarten (Dutch part),SXM,2010,0.0
-Sint Maarten (Dutch part),SXM,2011,0.0
-Sint Maarten (Dutch part),SXM,2012,0.0
-Sint Maarten (Dutch part),SXM,2013,0.0
-Sint Maarten (Dutch part),SXM,2014,0.0
-Sint Maarten (Dutch part),SXM,2015,0.0
-Sint Maarten (Dutch part),SXM,2016,0.0
-Sint Maarten (Dutch part),SXM,2017,0.0
-Sint Maarten (Dutch part),SXM,2018,0.0
-Sint Maarten (Dutch part),SXM,2019,0.0
-Slovakia,SVK,2000,0.04982618771726536
-Slovakia,SVK,2001,0.03861517976031957
-Slovakia,SVK,2002,0.043689320388349516
-Slovakia,SVK,2003,0.045592705167173266
-Slovakia,SVK,2004,0.027027027027027032
-Slovakia,SVK,2005,0.026431718061674013
-Slovakia,SVK,2006,0.029010238907849838
-Slovakia,SVK,2007,0.037433155080213915
-Slovakia,SVK,2008,0.03472222222222224
-Slovakia,SVK,2009,0.032442748091603066
-Slovakia,SVK,2010,0.025830258302583037
-Slovakia,SVK,2011,0.024390243902439032
-Slovakia,SVK,2012,0.007532956685499061
-Slovakia,SVK,2013,0.0075187969924812035
-Slovakia,SVK,2014,0.007194244604316547
-Slovakia,SVK,2015,0.006211180124223602
-Slovakia,SVK,2016,0.006198347107438018
-Slovakia,SVK,2017,0.006521739130434783
-Slovakia,SVK,2018,0.00921658986175115
-Slovakia,SVK,2019,0.008869179600886916
-Slovenia,SVN,2000,0.0
-Slovenia,SVN,2001,0.0
-Slovenia,SVN,2002,0.0
-Slovenia,SVN,2003,0.0
-Slovenia,SVN,2004,0.0
-Slovenia,SVN,2005,0.0
-Slovenia,SVN,2006,0.0
-Slovenia,SVN,2007,0.0
-Slovenia,SVN,2008,0.0
-Slovenia,SVN,2009,0.0
-Slovenia,SVN,2010,0.0
-Slovenia,SVN,2011,0.0
-Slovenia,SVN,2012,0.0
-Slovenia,SVN,2013,0.0
-Slovenia,SVN,2014,0.0
-Slovenia,SVN,2015,0.0
-Slovenia,SVN,2016,0.0
-Slovenia,SVN,2017,0.0
-Slovenia,SVN,2018,0.0
-Slovenia,SVN,2019,0.0
-Solomon Islands,SLB,2000,0.0
-Solomon Islands,SLB,2001,0.0
-Solomon Islands,SLB,2002,0.0
-Solomon Islands,SLB,2003,0.0
-Solomon Islands,SLB,2004,0.0
-Solomon Islands,SLB,2005,0.0
-Solomon Islands,SLB,2006,0.0
-Solomon Islands,SLB,2007,0.0
-Solomon Islands,SLB,2008,0.0
-Solomon Islands,SLB,2009,0.0
-Solomon Islands,SLB,2010,0.0
-Solomon Islands,SLB,2011,0.0
-Solomon Islands,SLB,2012,0.0
-Solomon Islands,SLB,2013,0.0
-Solomon Islands,SLB,2014,0.0
-Solomon Islands,SLB,2015,0.0
-Solomon Islands,SLB,2016,0.0
-Solomon Islands,SLB,2017,0.0
-Solomon Islands,SLB,2018,0.0
-Solomon Islands,SLB,2019,0.0
-Somalia,SOM,2000,0.0
-Somalia,SOM,2001,0.0
-Somalia,SOM,2002,0.0
-Somalia,SOM,2003,0.0
-Somalia,SOM,2004,0.0
-Somalia,SOM,2005,0.0
-Somalia,SOM,2006,0.0
-Somalia,SOM,2007,0.0
-Somalia,SOM,2008,0.0
-Somalia,SOM,2009,0.0
-Somalia,SOM,2010,0.0
-Somalia,SOM,2011,0.0
-Somalia,SOM,2012,0.0
-Somalia,SOM,2013,0.0
-Somalia,SOM,2014,0.0
-Somalia,SOM,2015,0.0
-Somalia,SOM,2016,0.0
-Somalia,SOM,2017,0.0
-Somalia,SOM,2018,0.0
-Somalia,SOM,2019,0.0
-South Africa,ZAF,2000,0.0
-South Africa,ZAF,2001,0.0
-South Africa,ZAF,2002,0.0
-South Africa,ZAF,2003,0.0
-South Africa,ZAF,2004,0.0
-South Africa,ZAF,2005,0.0
-South Africa,ZAF,2006,0.0
-South Africa,ZAF,2007,0.0
-South Africa,ZAF,2008,0.0
-South Africa,ZAF,2009,0.0
-South Africa,ZAF,2010,0.0
-South Africa,ZAF,2011,0.0
-South Africa,ZAF,2012,0.0
-South Africa,ZAF,2013,0.0
-South Africa,ZAF,2014,0.0
-South Africa,ZAF,2015,0.0
-South Africa,ZAF,2016,0.0
-South Africa,ZAF,2017,0.0
-South Africa,ZAF,2018,0.0
-South Africa,ZAF,2019,0.0
-South Georgia and the South Sandwich Islands,SGS,2000,0.0094
-South Georgia and the South Sandwich Islands,SGS,2001,0.0086
-South Georgia and the South Sandwich Islands,SGS,2002,0.0078
-South Georgia and the South Sandwich Islands,SGS,2003,0.0074
-South Georgia and the South Sandwich Islands,SGS,2004,0.0064
-South Georgia and the South Sandwich Islands,SGS,2005,0.0059
-South Georgia and the South Sandwich Islands,SGS,2006,0.0057
-South Georgia and the South Sandwich Islands,SGS,2007,0.0089
-South Georgia and the South Sandwich Islands,SGS,2008,0.0127
-South Georgia and the South Sandwich Islands,SGS,2009,0.0121
-South Georgia and the South Sandwich Islands,SGS,2010,0.0111
-South Georgia and the South Sandwich Islands,SGS,2011,0.0107
-South Georgia and the South Sandwich Islands,SGS,2012,0.0104
-South Georgia and the South Sandwich Islands,SGS,2013,0.0087
-South Georgia and the South Sandwich Islands,SGS,2014,0.0085
-South Georgia and the South Sandwich Islands,SGS,2015,0.0074
-South Georgia and the South Sandwich Islands,SGS,2016,0.0078
-South Georgia and the South Sandwich Islands,SGS,2017,0.0076
-South Georgia and the South Sandwich Islands,SGS,2018,0.0159
-South Georgia and the South Sandwich Islands,SGS,2019,0.0078
-South Sudan,SSD,2000,0.0
-South Sudan,SSD,2001,0.0
-South Sudan,SSD,2002,0.0
-South Sudan,SSD,2003,0.0
-South Sudan,SSD,2004,0.0
-South Sudan,SSD,2005,0.0
-South Sudan,SSD,2006,0.0
-South Sudan,SSD,2007,0.0
-South Sudan,SSD,2008,0.0
-South Sudan,SSD,2009,0.0
-South Sudan,SSD,2010,0.0
-South Sudan,SSD,2011,0.0
-South Sudan,SSD,2012,0.0
-South Sudan,SSD,2013,0.0
-South Sudan,SSD,2014,0.0
-South Sudan,SSD,2015,0.0
-South Sudan,SSD,2016,0.0
-South Sudan,SSD,2017,0.0
-South Sudan,SSD,2018,0.0
-South Sudan,SSD,2019,0.0
-Spain,ESP,2000,0.0
-Spain,ESP,2001,0.0
-Spain,ESP,2002,0.0
-Spain,ESP,2003,0.0
-Spain,ESP,2004,0.0
-Spain,ESP,2005,0.0
-Spain,ESP,2006,0.0
-Spain,ESP,2007,0.0
-Spain,ESP,2008,0.0
-Spain,ESP,2009,0.0
-Spain,ESP,2010,0.0
-Spain,ESP,2011,0.0
-Spain,ESP,2012,0.0
-Spain,ESP,2013,0.0
-Spain,ESP,2014,0.0
-Spain,ESP,2015,0.0
-Spain,ESP,2016,0.0
-Spain,ESP,2017,0.0
-Spain,ESP,2018,0.0
-Spain,ESP,2019,0.0
-Sri Lanka,LKA,2000,0.0
-Sri Lanka,LKA,2001,0.0
-Sri Lanka,LKA,2002,0.0
-Sri Lanka,LKA,2003,0.0
-Sri Lanka,LKA,2004,0.0
-Sri Lanka,LKA,2005,2.313208420078649e-05
-Sri Lanka,LKA,2006,4.9462099666130826e-05
-Sri Lanka,LKA,2007,2.373042240151875e-05
-Sri Lanka,LKA,2008,0.03874143269205325
-Sri Lanka,LKA,2009,0.027858219850178303
-Sri Lanka,LKA,2010,0.021859124658069558
-Sri Lanka,LKA,2011,0.021701102801368992
-Sri Lanka,LKA,2012,0.019319602889007984
-Sri Lanka,LKA,2013,0.01014372507560956
-Sri Lanka,LKA,2014,0.01065168974532778
-Sri Lanka,LKA,2015,0.008286377195889956
-Sri Lanka,LKA,2016,0.008482585344489776
-Sri Lanka,LKA,2017,0.008760634628650264
-Sri Lanka,LKA,2018,0.09954703465711576
-Sri Lanka,LKA,2019,0.016928460975014242
-Sudan,SDN,2000,0.0
-Sudan,SDN,2001,0.0
-Sudan,SDN,2002,0.0
-Sudan,SDN,2003,0.0
-Sudan,SDN,2004,0.0
-Sudan,SDN,2005,0.0
-Sudan,SDN,2006,0.0
-Sudan,SDN,2007,0.0
-Sudan,SDN,2008,0.0
-Sudan,SDN,2009,0.0
-Sudan,SDN,2010,0.0
-Sudan,SDN,2011,0.0
-Sudan,SDN,2012,0.0
-Sudan,SDN,2013,0.0
-Sudan,SDN,2014,0.0
-Sudan,SDN,2015,0.0
-Sudan,SDN,2016,0.0
-Sudan,SDN,2017,0.0
-Sudan,SDN,2018,0.0
-Sudan,SDN,2019,0.0
-Suriname,SUR,2000,0.0
-Suriname,SUR,2001,0.0
-Suriname,SUR,2002,0.0
-Suriname,SUR,2003,0.0
-Suriname,SUR,2004,0.0
-Suriname,SUR,2005,0.0
-Suriname,SUR,2006,0.0
-Suriname,SUR,2007,0.0
-Suriname,SUR,2008,0.0
-Suriname,SUR,2009,0.0
-Suriname,SUR,2010,0.0
-Suriname,SUR,2011,0.0
-Suriname,SUR,2012,0.0
-Suriname,SUR,2013,0.0
-Suriname,SUR,2014,0.0
-Suriname,SUR,2015,0.0
-Suriname,SUR,2016,0.0
-Suriname,SUR,2017,0.0
-Suriname,SUR,2018,0.0
-Suriname,SUR,2019,0.0
-Svalbard and Jan Mayen,SJM,2000,0.021612706169822853
-Svalbard and Jan Mayen,SJM,2001,0.02081344520926493
-Svalbard and Jan Mayen,SJM,2002,0.01875967522825641
-Svalbard and Jan Mayen,SJM,2003,0.017716623090771457
-Svalbard and Jan Mayen,SJM,2004,0.015625771109904752
-Svalbard and Jan Mayen,SJM,2005,0.014409544922410143
-Svalbard and Jan Mayen,SJM,2006,0.014357081776857643
-Svalbard and Jan Mayen,SJM,2007,0.022487530168946092
-Svalbard and Jan Mayen,SJM,2008,0.02216182048040455
-Svalbard and Jan Mayen,SJM,2009,0.022295052000026117
-Svalbard and Jan Mayen,SJM,2010,0.02239608101153679
-Svalbard and Jan Mayen,SJM,2011,0.02162654521795706
-Svalbard and Jan Mayen,SJM,2012,0.021627916369364158
-Svalbard and Jan Mayen,SJM,2013,0.020425101214574897
-Svalbard and Jan Mayen,SJM,2014,0.01972387932503835
-Svalbard and Jan Mayen,SJM,2015,0.017842801773804953
-Svalbard and Jan Mayen,SJM,2016,0.018753316010720063
-Svalbard and Jan Mayen,SJM,2017,0.01829149509293531
-Svalbard and Jan Mayen,SJM,2018,0.017784506022510367
-Svalbard and Jan Mayen,SJM,2019,0.01666721284614124
-Swaziland,SWZ,2000,0.0
-Swaziland,SWZ,2001,0.0
-Swaziland,SWZ,2002,0.0
-Swaziland,SWZ,2003,0.0
-Swaziland,SWZ,2004,0.0
-Swaziland,SWZ,2005,0.0
-Swaziland,SWZ,2006,0.0
-Swaziland,SWZ,2007,0.0
-Swaziland,SWZ,2008,0.0
-Swaziland,SWZ,2009,0.0
-Swaziland,SWZ,2010,0.0
-Swaziland,SWZ,2011,0.0
-Swaziland,SWZ,2012,0.0
-Swaziland,SWZ,2013,0.0
-Swaziland,SWZ,2014,0.0
-Swaziland,SWZ,2015,0.0
-Swaziland,SWZ,2016,0.0
-Swaziland,SWZ,2017,0.0
-Swaziland,SWZ,2018,0.0
-Swaziland,SWZ,2019,0.0
-Sweden,SWE,2000,0.01643835616438356
-Sweden,SWE,2001,0.015616866215512754
-Sweden,SWE,2002,0.013805798435342844
-Sweden,SWE,2003,0.013761467889908256
-Sweden,SWE,2004,0.014720314033366048
-Sweden,SWE,2005,0.010327022375215149
-Sweden,SWE,2006,0.010764262648008612
-Sweden,SWE,2007,0.010080645161290322
-Sweden,SWE,2008,0.01124859392575928
-Sweden,SWE,2009,0.011342155009451795
-Sweden,SWE,2010,0.011876484560570073
-Sweden,SWE,2011,0.01243781094527363
-Sweden,SWE,2012,0.013111888111888112
-Sweden,SWE,2013,0.01244813278008299
-Sweden,SWE,2014,0.013513513513513514
-Sweden,SWE,2015,0.014436958614051976
-Sweden,SWE,2016,0.014612761811982462
-Sweden,SWE,2017,0.01626898047722343
-Sweden,SWE,2018,0.017321016166281754
-Sweden,SWE,2019,0.017231476163124645
-Switzerland,CHE,2000,0.010805500982318273
-Switzerland,CHE,2001,0.01216089803554724
-Switzerland,CHE,2002,0.012070566388115135
-Switzerland,CHE,2003,0.013084112149532713
-Switzerland,CHE,2004,0.01310861423220974
-Switzerland,CHE,2005,0.01466544454628781
-Switzerland,CHE,2006,0.014939309056956118
-Switzerland,CHE,2007,0.015857284440039643
-Switzerland,CHE,2008,0.01722488038277512
-Switzerland,CHE,2009,0.01759530791788856
-Switzerland,CHE,2010,0.019718309859154928
-Switzerland,CHE,2011,0.018967334035827184
-Switzerland,CHE,2012,0.02228976697061804
-Switzerland,CHE,2013,0.024000000000000004
-Switzerland,CHE,2014,0.022650056625141562
-Switzerland,CHE,2015,0.025164113785557992
-Switzerland,CHE,2016,0.02928416485900217
-Switzerland,CHE,2017,0.030803080308030806
-Switzerland,CHE,2018,0.031177829099307164
-Switzerland,CHE,2019,0.03468208092485549
-Syrian Arab Republic,SYR,2000,0.0
-Syrian Arab Republic,SYR,2001,0.0
-Syrian Arab Republic,SYR,2002,0.0
-Syrian Arab Republic,SYR,2003,0.0
-Syrian Arab Republic,SYR,2004,0.0
-Syrian Arab Republic,SYR,2005,2.313208420078649e-05
-Syrian Arab Republic,SYR,2006,4.9462099666130826e-05
-Syrian Arab Republic,SYR,2007,2.373042240151875e-05
-Syrian Arab Republic,SYR,2008,0.03874143269205325
-Syrian Arab Republic,SYR,2009,0.027858219850178303
-Syrian Arab Republic,SYR,2010,0.021859124658069558
-Syrian Arab Republic,SYR,2011,0.021701102801368992
-Syrian Arab Republic,SYR,2012,0.019319602889007984
-Syrian Arab Republic,SYR,2013,0.01014372507560956
-Syrian Arab Republic,SYR,2014,0.01065168974532778
-Syrian Arab Republic,SYR,2015,0.008286377195889956
-Syrian Arab Republic,SYR,2016,0.008482585344489776
-Syrian Arab Republic,SYR,2017,0.008760634628650264
-Syrian Arab Republic,SYR,2018,0.09954703465711576
-Syrian Arab Republic,SYR,2019,0.016928460975014242
-"Taiwan, Province of China",TWN,2000,0.0
-"Taiwan, Province of China",TWN,2001,0.0
-"Taiwan, Province of China",TWN,2002,0.0
-"Taiwan, Province of China",TWN,2003,0.0
-"Taiwan, Province of China",TWN,2004,0.0
-"Taiwan, Province of China",TWN,2005,2.313208420078649e-05
-"Taiwan, Province of China",TWN,2006,4.9462099666130826e-05
-"Taiwan, Province of China",TWN,2007,2.373042240151875e-05
-"Taiwan, Province of China",TWN,2008,0.03874143269205325
-"Taiwan, Province of China",TWN,2009,0.027858219850178303
-"Taiwan, Province of China",TWN,2010,0.021859124658069558
-"Taiwan, Province of China",TWN,2011,0.021701102801368992
-"Taiwan, Province of China",TWN,2012,0.019319602889007984
-"Taiwan, Province of China",TWN,2013,0.01014372507560956
-"Taiwan, Province of China",TWN,2014,0.01065168974532778
-"Taiwan, Province of China",TWN,2015,0.008286377195889956
-"Taiwan, Province of China",TWN,2016,0.008482585344489776
-"Taiwan, Province of China",TWN,2017,0.008760634628650264
-"Taiwan, Province of China",TWN,2018,0.09954703465711576
-"Taiwan, Province of China",TWN,2019,0.016928460975014242
-Tajikistan,TJK,2000,0.0
-Tajikistan,TJK,2001,0.0
-Tajikistan,TJK,2002,0.0
-Tajikistan,TJK,2003,0.0
-Tajikistan,TJK,2004,0.0
-Tajikistan,TJK,2005,2.313208420078649e-05
-Tajikistan,TJK,2006,4.9462099666130826e-05
-Tajikistan,TJK,2007,2.373042240151875e-05
-Tajikistan,TJK,2008,0.03874143269205325
-Tajikistan,TJK,2009,0.027858219850178303
-Tajikistan,TJK,2010,0.021859124658069558
-Tajikistan,TJK,2011,0.021701102801368992
-Tajikistan,TJK,2012,0.019319602889007984
-Tajikistan,TJK,2013,0.01014372507560956
-Tajikistan,TJK,2014,0.01065168974532778
-Tajikistan,TJK,2015,0.008286377195889956
-Tajikistan,TJK,2016,0.008482585344489776
-Tajikistan,TJK,2017,0.008760634628650264
-Tajikistan,TJK,2018,0.09954703465711576
-Tajikistan,TJK,2019,0.016928460975014242
-"Tanzania, United Republic of",TZA,2000,0.0
-"Tanzania, United Republic of",TZA,2001,0.0
-"Tanzania, United Republic of",TZA,2002,0.0
-"Tanzania, United Republic of",TZA,2003,0.0
-"Tanzania, United Republic of",TZA,2004,0.0
-"Tanzania, United Republic of",TZA,2005,0.0
-"Tanzania, United Republic of",TZA,2006,0.0
-"Tanzania, United Republic of",TZA,2007,0.0
-"Tanzania, United Republic of",TZA,2008,0.0
-"Tanzania, United Republic of",TZA,2009,0.0
-"Tanzania, United Republic of",TZA,2010,0.0
-"Tanzania, United Republic of",TZA,2011,0.0
-"Tanzania, United Republic of",TZA,2012,0.0
-"Tanzania, United Republic of",TZA,2013,0.0
-"Tanzania, United Republic of",TZA,2014,0.0
-"Tanzania, United Republic of",TZA,2015,0.0
-"Tanzania, United Republic of",TZA,2016,0.0
-"Tanzania, United Republic of",TZA,2017,0.0
-"Tanzania, United Republic of",TZA,2018,0.0
-"Tanzania, United Republic of",TZA,2019,0.0
-Thailand,THA,2000,0.0
-Thailand,THA,2001,0.0
-Thailand,THA,2002,0.0
-Thailand,THA,2003,0.0
-Thailand,THA,2004,0.0
-Thailand,THA,2005,2.313208420078649e-05
-Thailand,THA,2006,4.9462099666130826e-05
-Thailand,THA,2007,2.373042240151875e-05
-Thailand,THA,2008,0.03874143269205325
-Thailand,THA,2009,0.027858219850178303
-Thailand,THA,2010,0.021859124658069558
-Thailand,THA,2011,0.021701102801368992
-Thailand,THA,2012,0.019319602889007984
-Thailand,THA,2013,0.01014372507560956
-Thailand,THA,2014,0.01065168974532778
-Thailand,THA,2015,0.008286377195889956
-Thailand,THA,2016,0.008482585344489776
-Thailand,THA,2017,0.008760634628650264
-Thailand,THA,2018,0.09954703465711576
-Thailand,THA,2019,0.016928460975014242
-Timor-Leste,TLS,2000,0.0
-Timor-Leste,TLS,2001,0.0
-Timor-Leste,TLS,2002,0.0
-Timor-Leste,TLS,2003,0.0
-Timor-Leste,TLS,2004,0.0
-Timor-Leste,TLS,2005,2.313208420078649e-05
-Timor-Leste,TLS,2006,4.9462099666130826e-05
-Timor-Leste,TLS,2007,2.373042240151875e-05
-Timor-Leste,TLS,2008,0.03874143269205325
-Timor-Leste,TLS,2009,0.027858219850178303
-Timor-Leste,TLS,2010,0.021859124658069558
-Timor-Leste,TLS,2011,0.021701102801368992
-Timor-Leste,TLS,2012,0.019319602889007984
-Timor-Leste,TLS,2013,0.01014372507560956
-Timor-Leste,TLS,2014,0.01065168974532778
-Timor-Leste,TLS,2015,0.008286377195889956
-Timor-Leste,TLS,2016,0.008482585344489776
-Timor-Leste,TLS,2017,0.008760634628650264
-Timor-Leste,TLS,2018,0.09954703465711576
-Timor-Leste,TLS,2019,0.016928460975014242
-Togo,TGO,2000,0.0
-Togo,TGO,2001,0.0
-Togo,TGO,2002,0.0
-Togo,TGO,2003,0.0
-Togo,TGO,2004,0.0
-Togo,TGO,2005,0.0
-Togo,TGO,2006,0.0
-Togo,TGO,2007,0.0
-Togo,TGO,2008,0.0
-Togo,TGO,2009,0.0
-Togo,TGO,2010,0.0
-Togo,TGO,2011,0.0
-Togo,TGO,2012,0.0
-Togo,TGO,2013,0.0
-Togo,TGO,2014,0.0
-Togo,TGO,2015,0.0
-Togo,TGO,2016,0.0
-Togo,TGO,2017,0.0
-Togo,TGO,2018,0.0
-Togo,TGO,2019,0.0
-Tokelau,TKL,2000,0.0
-Tokelau,TKL,2001,0.0
-Tokelau,TKL,2002,0.0
-Tokelau,TKL,2003,0.0
-Tokelau,TKL,2004,0.0
-Tokelau,TKL,2005,0.0
-Tokelau,TKL,2006,0.0
-Tokelau,TKL,2007,0.0
-Tokelau,TKL,2008,0.0
-Tokelau,TKL,2009,0.0
-Tokelau,TKL,2010,0.0
-Tokelau,TKL,2011,0.0
-Tokelau,TKL,2012,0.0
-Tokelau,TKL,2013,0.0
-Tokelau,TKL,2014,0.0
-Tokelau,TKL,2015,0.0
-Tokelau,TKL,2016,0.0
-Tokelau,TKL,2017,0.0
-Tokelau,TKL,2018,0.0
-Tokelau,TKL,2019,0.0
-Tonga,TON,2000,0.0
-Tonga,TON,2001,0.0
-Tonga,TON,2002,0.0
-Tonga,TON,2003,0.0
-Tonga,TON,2004,0.0
-Tonga,TON,2005,0.0
-Tonga,TON,2006,0.0
-Tonga,TON,2007,0.0
-Tonga,TON,2008,0.0
-Tonga,TON,2009,0.0
-Tonga,TON,2010,0.0
-Tonga,TON,2011,0.0
-Tonga,TON,2012,0.0
-Tonga,TON,2013,0.0
-Tonga,TON,2014,0.0
-Tonga,TON,2015,0.0
-Tonga,TON,2016,0.0
-Tonga,TON,2017,0.0
-Tonga,TON,2018,0.0
-Tonga,TON,2019,0.0
-Trinidad and Tobago,TTO,2000,0.0
-Trinidad and Tobago,TTO,2001,0.0
-Trinidad and Tobago,TTO,2002,0.0
-Trinidad and Tobago,TTO,2003,0.0
-Trinidad and Tobago,TTO,2004,0.0
-Trinidad and Tobago,TTO,2005,0.0
-Trinidad and Tobago,TTO,2006,0.0
-Trinidad and Tobago,TTO,2007,0.0
-Trinidad and Tobago,TTO,2008,0.0
-Trinidad and Tobago,TTO,2009,0.0
-Trinidad and Tobago,TTO,2010,0.0
-Trinidad and Tobago,TTO,2011,0.0
-Trinidad and Tobago,TTO,2012,0.0
-Trinidad and Tobago,TTO,2013,0.0
-Trinidad and Tobago,TTO,2014,0.0
-Trinidad and Tobago,TTO,2015,0.0
-Trinidad and Tobago,TTO,2016,0.0
-Trinidad and Tobago,TTO,2017,0.0
-Trinidad and Tobago,TTO,2018,0.0
-Trinidad and Tobago,TTO,2019,0.0
-Tunisia,TUN,2000,0.0
-Tunisia,TUN,2001,0.0
-Tunisia,TUN,2002,0.0
-Tunisia,TUN,2003,0.0
-Tunisia,TUN,2004,0.0
-Tunisia,TUN,2005,0.0
-Tunisia,TUN,2006,0.0
-Tunisia,TUN,2007,0.0
-Tunisia,TUN,2008,0.0
-Tunisia,TUN,2009,0.0
-Tunisia,TUN,2010,0.0
-Tunisia,TUN,2011,0.0
-Tunisia,TUN,2012,0.0
-Tunisia,TUN,2013,0.0
-Tunisia,TUN,2014,0.0
-Tunisia,TUN,2015,0.0
-Tunisia,TUN,2016,0.0
-Tunisia,TUN,2017,0.0
-Tunisia,TUN,2018,0.0
-Tunisia,TUN,2019,0.0
-Turkey,TUR,2000,0.0
-Turkey,TUR,2001,0.0
-Turkey,TUR,2002,0.0
-Turkey,TUR,2003,0.0
-Turkey,TUR,2004,0.0
-Turkey,TUR,2005,0.0
-Turkey,TUR,2006,0.0
-Turkey,TUR,2007,0.0
-Turkey,TUR,2008,0.0
-Turkey,TUR,2009,0.0
-Turkey,TUR,2010,0.0
-Turkey,TUR,2011,0.0
-Turkey,TUR,2012,0.0
-Turkey,TUR,2013,0.0
-Turkey,TUR,2014,0.0
-Turkey,TUR,2015,0.0
-Turkey,TUR,2016,0.0
-Turkey,TUR,2017,0.0
-Turkey,TUR,2018,0.0
-Turkey,TUR,2019,0.0
-Turkmenistan,TKM,2000,0.0
-Turkmenistan,TKM,2001,0.0
-Turkmenistan,TKM,2002,0.0
-Turkmenistan,TKM,2003,0.0
-Turkmenistan,TKM,2004,0.0
-Turkmenistan,TKM,2005,2.313208420078649e-05
-Turkmenistan,TKM,2006,4.9462099666130826e-05
-Turkmenistan,TKM,2007,2.373042240151875e-05
-Turkmenistan,TKM,2008,0.03874143269205325
-Turkmenistan,TKM,2009,0.027858219850178303
-Turkmenistan,TKM,2010,0.021859124658069558
-Turkmenistan,TKM,2011,0.021701102801368992
-Turkmenistan,TKM,2012,0.019319602889007984
-Turkmenistan,TKM,2013,0.01014372507560956
-Turkmenistan,TKM,2014,0.01065168974532778
-Turkmenistan,TKM,2015,0.008286377195889956
-Turkmenistan,TKM,2016,0.008482585344489776
-Turkmenistan,TKM,2017,0.008760634628650264
-Turkmenistan,TKM,2018,0.09954703465711576
-Turkmenistan,TKM,2019,0.016928460975014242
-Turks and Caicos Islands,TCA,2000,0.0
-Turks and Caicos Islands,TCA,2001,0.0
-Turks and Caicos Islands,TCA,2002,0.0
-Turks and Caicos Islands,TCA,2003,0.0
-Turks and Caicos Islands,TCA,2004,0.0
-Turks and Caicos Islands,TCA,2005,0.0
-Turks and Caicos Islands,TCA,2006,0.0
-Turks and Caicos Islands,TCA,2007,0.0
-Turks and Caicos Islands,TCA,2008,0.0
-Turks and Caicos Islands,TCA,2009,0.0
-Turks and Caicos Islands,TCA,2010,0.0
-Turks and Caicos Islands,TCA,2011,0.0
-Turks and Caicos Islands,TCA,2012,0.0
-Turks and Caicos Islands,TCA,2013,0.0
-Turks and Caicos Islands,TCA,2014,0.0
-Turks and Caicos Islands,TCA,2015,0.0
-Turks and Caicos Islands,TCA,2016,0.0
-Turks and Caicos Islands,TCA,2017,0.0
-Turks and Caicos Islands,TCA,2018,0.0
-Turks and Caicos Islands,TCA,2019,0.0
-Tuvalu,TUV,2000,0.0
-Tuvalu,TUV,2001,0.0
-Tuvalu,TUV,2002,0.0
-Tuvalu,TUV,2003,0.0
-Tuvalu,TUV,2004,0.0
-Tuvalu,TUV,2005,0.0
-Tuvalu,TUV,2006,0.0
-Tuvalu,TUV,2007,0.0
-Tuvalu,TUV,2008,0.0
-Tuvalu,TUV,2009,0.0
-Tuvalu,TUV,2010,0.0
-Tuvalu,TUV,2011,0.0
-Tuvalu,TUV,2012,0.0
-Tuvalu,TUV,2013,0.0
-Tuvalu,TUV,2014,0.0
-Tuvalu,TUV,2015,0.0
-Tuvalu,TUV,2016,0.0
-Tuvalu,TUV,2017,0.0
-Tuvalu,TUV,2018,0.0
-Tuvalu,TUV,2019,0.0
-Uganda,UGA,2000,0.0
-Uganda,UGA,2001,0.0
-Uganda,UGA,2002,0.0
-Uganda,UGA,2003,0.0
-Uganda,UGA,2004,0.0
-Uganda,UGA,2005,0.0
-Uganda,UGA,2006,0.0
-Uganda,UGA,2007,0.0
-Uganda,UGA,2008,0.0
-Uganda,UGA,2009,0.0
-Uganda,UGA,2010,0.0
-Uganda,UGA,2011,0.0
-Uganda,UGA,2012,0.0
-Uganda,UGA,2013,0.0
-Uganda,UGA,2014,0.0
-Uganda,UGA,2015,0.0
-Uganda,UGA,2016,0.0
-Uganda,UGA,2017,0.0
-Uganda,UGA,2018,0.0
-Uganda,UGA,2019,0.0
-Ukraine,UKR,2000,0.0
-Ukraine,UKR,2001,0.0
-Ukraine,UKR,2002,0.0
-Ukraine,UKR,2003,0.0
-Ukraine,UKR,2004,0.0
-Ukraine,UKR,2005,0.0
-Ukraine,UKR,2006,0.0
-Ukraine,UKR,2007,0.16678674351585016
-Ukraine,UKR,2008,0.1734600412182276
-Ukraine,UKR,2009,0.17216382747372236
-Ukraine,UKR,2010,0.16288147622427254
-Ukraine,UKR,2011,0.15095957971480645
-Ukraine,UKR,2012,0.14405286343612336
-Ukraine,UKR,2013,0.12410013967981087
-Ukraine,UKR,2014,0.12048048048048048
-Ukraine,UKR,2015,0.11014851485148516
-Ukraine,UKR,2016,0.11558926751952905
-Ukraine,UKR,2017,0.11944990176817287
-Ukraine,UKR,2018,0.11687484068315065
-Ukraine,UKR,2019,0.10067800946654727
-United Arab Emirates,ARE,2000,0.0
-United Arab Emirates,ARE,2001,0.0
-United Arab Emirates,ARE,2002,0.0
-United Arab Emirates,ARE,2003,0.0
-United Arab Emirates,ARE,2004,0.0
-United Arab Emirates,ARE,2005,2.313208420078649e-05
-United Arab Emirates,ARE,2006,4.9462099666130826e-05
-United Arab Emirates,ARE,2007,2.373042240151875e-05
-United Arab Emirates,ARE,2008,0.03874143269205325
-United Arab Emirates,ARE,2009,0.027858219850178303
-United Arab Emirates,ARE,2010,0.021859124658069558
-United Arab Emirates,ARE,2011,0.021701102801368992
-United Arab Emirates,ARE,2012,0.019319602889007984
-United Arab Emirates,ARE,2013,0.01014372507560956
-United Arab Emirates,ARE,2014,0.01065168974532778
-United Arab Emirates,ARE,2015,0.008286377195889956
-United Arab Emirates,ARE,2016,0.008482585344489776
-United Arab Emirates,ARE,2017,0.008760634628650264
-United Arab Emirates,ARE,2018,0.09954703465711576
-United Arab Emirates,ARE,2019,0.016928460975014242
-United Kingdom,GBR,2000,0.0
-United Kingdom,GBR,2001,0.0063943894389438954
-United Kingdom,GBR,2002,0.0
-United Kingdom,GBR,2003,0.0
-United Kingdom,GBR,2004,0.0
-United Kingdom,GBR,2005,0.0
-United Kingdom,GBR,2006,0.0
-United Kingdom,GBR,2007,0.0
-United Kingdom,GBR,2008,0.0
-United Kingdom,GBR,2009,0.0
-United Kingdom,GBR,2010,0.0
-United Kingdom,GBR,2011,0.0
-United Kingdom,GBR,2012,0.0
-United Kingdom,GBR,2013,0.0
-United Kingdom,GBR,2014,0.0
-United Kingdom,GBR,2015,0.0
-United Kingdom,GBR,2016,0.0
-United Kingdom,GBR,2017,0.0
-United Kingdom,GBR,2018,0.0022354694485842022
-United Kingdom,GBR,2019,0.003217259651778957
-United States,USA,2000,0.0
-United States,USA,2001,0.0
-United States,USA,2002,0.0
-United States,USA,2003,0.0
-United States,USA,2004,0.0
-United States,USA,2005,0.0
-United States,USA,2006,0.0
-United States,USA,2007,0.0
-United States,USA,2008,0.0
-United States,USA,2009,0.0
-United States,USA,2010,0.0
-United States,USA,2011,0.0
-United States,USA,2012,0.0
-United States,USA,2013,0.0
-United States,USA,2014,0.0
-United States,USA,2015,0.0
-United States,USA,2016,0.0
-United States,USA,2017,0.0
-United States,USA,2018,0.0
-United States,USA,2019,0.0
-United States Minor Outlying Islands,UMI,2000,0.0
-United States Minor Outlying Islands,UMI,2001,0.0
-United States Minor Outlying Islands,UMI,2002,0.0
-United States Minor Outlying Islands,UMI,2003,0.0
-United States Minor Outlying Islands,UMI,2004,0.0
-United States Minor Outlying Islands,UMI,2005,0.0
-United States Minor Outlying Islands,UMI,2006,0.0
-United States Minor Outlying Islands,UMI,2007,0.0
-United States Minor Outlying Islands,UMI,2008,0.0
-United States Minor Outlying Islands,UMI,2009,0.0
-United States Minor Outlying Islands,UMI,2010,0.0
-United States Minor Outlying Islands,UMI,2011,0.0
-United States Minor Outlying Islands,UMI,2012,0.0
-United States Minor Outlying Islands,UMI,2013,0.0
-United States Minor Outlying Islands,UMI,2014,0.0
-United States Minor Outlying Islands,UMI,2015,0.0
-United States Minor Outlying Islands,UMI,2016,0.0
-United States Minor Outlying Islands,UMI,2017,0.0
-United States Minor Outlying Islands,UMI,2018,0.0
-United States Minor Outlying Islands,UMI,2019,0.0
-Uruguay,URY,2000,0.0
-Uruguay,URY,2001,0.0
-Uruguay,URY,2002,0.0
-Uruguay,URY,2003,0.0
-Uruguay,URY,2004,0.0
-Uruguay,URY,2005,0.0
-Uruguay,URY,2006,0.0
-Uruguay,URY,2007,0.0
-Uruguay,URY,2008,0.0
-Uruguay,URY,2009,0.0
-Uruguay,URY,2010,0.0
-Uruguay,URY,2011,0.0
-Uruguay,URY,2012,0.0
-Uruguay,URY,2013,0.0
-Uruguay,URY,2014,0.0
-Uruguay,URY,2015,0.0
-Uruguay,URY,2016,0.0
-Uruguay,URY,2017,0.0
-Uruguay,URY,2018,0.0
-Uruguay,URY,2019,0.0
-Uzbekistan,UZB,2000,0.0
-Uzbekistan,UZB,2001,0.0
-Uzbekistan,UZB,2002,0.0
-Uzbekistan,UZB,2003,0.0
-Uzbekistan,UZB,2004,0.0
-Uzbekistan,UZB,2005,0.0
-Uzbekistan,UZB,2006,0.0
-Uzbekistan,UZB,2007,0.0
-Uzbekistan,UZB,2008,0.0
-Uzbekistan,UZB,2009,0.0
-Uzbekistan,UZB,2010,0.0
-Uzbekistan,UZB,2011,0.0
-Uzbekistan,UZB,2012,0.0
-Uzbekistan,UZB,2013,0.0
-Uzbekistan,UZB,2014,0.0
-Uzbekistan,UZB,2015,0.0
-Uzbekistan,UZB,2016,0.0
-Uzbekistan,UZB,2017,0.0
-Uzbekistan,UZB,2018,0.0
-Uzbekistan,UZB,2019,0.0
-Vanuatu,VUT,2000,0.0
-Vanuatu,VUT,2001,0.0
-Vanuatu,VUT,2002,0.0
-Vanuatu,VUT,2003,0.0
-Vanuatu,VUT,2004,0.0
-Vanuatu,VUT,2005,0.0
-Vanuatu,VUT,2006,0.0
-Vanuatu,VUT,2007,0.0
-Vanuatu,VUT,2008,0.0
-Vanuatu,VUT,2009,0.0
-Vanuatu,VUT,2010,0.0
-Vanuatu,VUT,2011,0.0
-Vanuatu,VUT,2012,0.0
-Vanuatu,VUT,2013,0.0
-Vanuatu,VUT,2014,0.0
-Vanuatu,VUT,2015,0.0
-Vanuatu,VUT,2016,0.0
-Vanuatu,VUT,2017,0.0
-Vanuatu,VUT,2018,0.0
-Vanuatu,VUT,2019,0.0
-Venezuela,VEN,2000,0.0
-Venezuela,VEN,2001,0.0
-Venezuela,VEN,2002,0.0
-Venezuela,VEN,2003,0.0
-Venezuela,VEN,2004,0.0
-Venezuela,VEN,2005,0.0
-Venezuela,VEN,2006,0.0
-Venezuela,VEN,2007,0.0
-Venezuela,VEN,2008,0.0
-Venezuela,VEN,2009,0.0
-Venezuela,VEN,2010,0.0
-Venezuela,VEN,2011,0.0
-Venezuela,VEN,2012,0.0
-Venezuela,VEN,2013,0.0
-Venezuela,VEN,2014,0.0
-Venezuela,VEN,2015,0.0
-Venezuela,VEN,2016,0.0
-Venezuela,VEN,2017,0.0
-Venezuela,VEN,2018,0.0
-Venezuela,VEN,2019,0.0
-Vietnam,VNM,2000,0.0
-Vietnam,VNM,2001,0.0
-Vietnam,VNM,2002,0.0
-Vietnam,VNM,2003,0.0
-Vietnam,VNM,2004,0.0
-Vietnam,VNM,2005,2.313208420078649e-05
-Vietnam,VNM,2006,4.9462099666130826e-05
-Vietnam,VNM,2007,2.373042240151875e-05
-Vietnam,VNM,2008,0.03874143269205325
-Vietnam,VNM,2009,0.027858219850178303
-Vietnam,VNM,2010,0.021859124658069558
-Vietnam,VNM,2011,0.021701102801368992
-Vietnam,VNM,2012,0.019319602889007984
-Vietnam,VNM,2013,0.01014372507560956
-Vietnam,VNM,2014,0.01065168974532778
-Vietnam,VNM,2015,0.008286377195889956
-Vietnam,VNM,2016,0.008482585344489776
-Vietnam,VNM,2017,0.008760634628650264
-Vietnam,VNM,2018,0.09954703465711576
-Vietnam,VNM,2019,0.016928460975014242
-"Virgin Islands, British",VGB,2000,0.0
-"Virgin Islands, British",VGB,2001,0.0
-"Virgin Islands, British",VGB,2002,0.0
-"Virgin Islands, British",VGB,2003,0.0
-"Virgin Islands, British",VGB,2004,0.0
-"Virgin Islands, British",VGB,2005,0.0
-"Virgin Islands, British",VGB,2006,0.0
-"Virgin Islands, British",VGB,2007,0.0
-"Virgin Islands, British",VGB,2008,0.0
-"Virgin Islands, British",VGB,2009,0.0
-"Virgin Islands, British",VGB,2010,0.0
-"Virgin Islands, British",VGB,2011,0.0
-"Virgin Islands, British",VGB,2012,0.0
-"Virgin Islands, British",VGB,2013,0.0
-"Virgin Islands, British",VGB,2014,0.0
-"Virgin Islands, British",VGB,2015,0.0
-"Virgin Islands, British",VGB,2016,0.0
-"Virgin Islands, British",VGB,2017,0.0
-"Virgin Islands, British",VGB,2018,0.0
-"Virgin Islands, British",VGB,2019,0.0
-"Virgin Islands, U.S.",VIR,2000,0.0
-"Virgin Islands, U.S.",VIR,2001,0.0
-"Virgin Islands, U.S.",VIR,2002,0.0
-"Virgin Islands, U.S.",VIR,2003,0.0
-"Virgin Islands, U.S.",VIR,2004,0.0
-"Virgin Islands, U.S.",VIR,2005,0.0
-"Virgin Islands, U.S.",VIR,2006,0.0
-"Virgin Islands, U.S.",VIR,2007,0.0
-"Virgin Islands, U.S.",VIR,2008,0.0
-"Virgin Islands, U.S.",VIR,2009,0.0
-"Virgin Islands, U.S.",VIR,2010,0.0
-"Virgin Islands, U.S.",VIR,2011,0.0
-"Virgin Islands, U.S.",VIR,2012,0.0
-"Virgin Islands, U.S.",VIR,2013,0.0
-"Virgin Islands, U.S.",VIR,2014,0.0
-"Virgin Islands, U.S.",VIR,2015,0.0
-"Virgin Islands, U.S.",VIR,2016,0.0
-"Virgin Islands, U.S.",VIR,2017,0.0
-"Virgin Islands, U.S.",VIR,2018,0.0
-"Virgin Islands, U.S.",VIR,2019,0.0
-Wallis and Futuna,WLF,2000,0.0
-Wallis and Futuna,WLF,2001,0.0
-Wallis and Futuna,WLF,2002,0.0
-Wallis and Futuna,WLF,2003,0.0
-Wallis and Futuna,WLF,2004,0.0
-Wallis and Futuna,WLF,2005,0.0
-Wallis and Futuna,WLF,2006,0.0
-Wallis and Futuna,WLF,2007,0.0
-Wallis and Futuna,WLF,2008,0.0
-Wallis and Futuna,WLF,2009,0.0
-Wallis and Futuna,WLF,2010,0.0
-Wallis and Futuna,WLF,2011,0.0
-Wallis and Futuna,WLF,2012,0.0
-Wallis and Futuna,WLF,2013,0.0
-Wallis and Futuna,WLF,2014,0.0
-Wallis and Futuna,WLF,2015,0.0
-Wallis and Futuna,WLF,2016,0.0
-Wallis and Futuna,WLF,2017,0.0
-Wallis and Futuna,WLF,2018,0.0
-Wallis and Futuna,WLF,2019,0.0
-Western Sahara,ESH,2000,0.0
-Western Sahara,ESH,2001,0.0
-Western Sahara,ESH,2002,0.0
-Western Sahara,ESH,2003,0.0
-Western Sahara,ESH,2004,0.0
-Western Sahara,ESH,2005,0.0
-Western Sahara,ESH,2006,0.0
-Western Sahara,ESH,2007,0.0
-Western Sahara,ESH,2008,0.0
-Western Sahara,ESH,2009,0.0
-Western Sahara,ESH,2010,0.0
-Western Sahara,ESH,2011,0.0
-Western Sahara,ESH,2012,0.0
-Western Sahara,ESH,2013,0.0
-Western Sahara,ESH,2014,0.0
-Western Sahara,ESH,2015,0.0
-Western Sahara,ESH,2016,0.0
-Western Sahara,ESH,2017,0.0
-Western Sahara,ESH,2018,0.0
-Western Sahara,ESH,2019,0.0
-Yemen,YEM,2000,0.0
-Yemen,YEM,2001,0.0
-Yemen,YEM,2002,0.0
-Yemen,YEM,2003,0.0
-Yemen,YEM,2004,0.0
-Yemen,YEM,2005,2.313208420078649e-05
-Yemen,YEM,2006,4.9462099666130826e-05
-Yemen,YEM,2007,2.373042240151875e-05
-Yemen,YEM,2008,0.03874143269205325
-Yemen,YEM,2009,0.027858219850178303
-Yemen,YEM,2010,0.021859124658069558
-Yemen,YEM,2011,0.021701102801368992
-Yemen,YEM,2012,0.019319602889007984
-Yemen,YEM,2013,0.01014372507560956
-Yemen,YEM,2014,0.01065168974532778
-Yemen,YEM,2015,0.008286377195889956
-Yemen,YEM,2016,0.008482585344489776
-Yemen,YEM,2017,0.008760634628650264
-Yemen,YEM,2018,0.09954703465711576
-Yemen,YEM,2019,0.016928460975014242
-Zambia,ZMB,2000,0.0
-Zambia,ZMB,2001,0.0
-Zambia,ZMB,2002,0.0
-Zambia,ZMB,2003,0.0
-Zambia,ZMB,2004,0.0
-Zambia,ZMB,2005,0.0
-Zambia,ZMB,2006,0.0
-Zambia,ZMB,2007,0.0
-Zambia,ZMB,2008,0.0
-Zambia,ZMB,2009,0.0
-Zambia,ZMB,2010,0.0
-Zambia,ZMB,2011,0.0
-Zambia,ZMB,2012,0.0
-Zambia,ZMB,2013,0.0
-Zambia,ZMB,2014,0.0
-Zambia,ZMB,2015,0.0
-Zambia,ZMB,2016,0.0
-Zambia,ZMB,2017,0.0
-Zambia,ZMB,2018,0.0
-Zambia,ZMB,2019,0.0
-Zimbabwe,ZWE,2000,0.0
-Zimbabwe,ZWE,2001,0.0
-Zimbabwe,ZWE,2002,0.0
-Zimbabwe,ZWE,2003,0.0
-Zimbabwe,ZWE,2004,0.0
-Zimbabwe,ZWE,2005,0.0
-Zimbabwe,ZWE,2006,0.0
-Zimbabwe,ZWE,2007,0.0
-Zimbabwe,ZWE,2008,0.0
-Zimbabwe,ZWE,2009,0.0
-Zimbabwe,ZWE,2010,0.0
-Zimbabwe,ZWE,2011,0.0
-Zimbabwe,ZWE,2012,0.0
-Zimbabwe,ZWE,2013,0.0
-Zimbabwe,ZWE,2014,0.0
-Zimbabwe,ZWE,2015,0.0
-Zimbabwe,ZWE,2016,0.0
-Zimbabwe,ZWE,2017,0.0
-Zimbabwe,ZWE,2018,0.0
-Zimbabwe,ZWE,2019,0.0
-Åland Islands,ALA,2000,0.021612706169822853
-Åland Islands,ALA,2001,0.02081344520926493
-Åland Islands,ALA,2002,0.01875967522825641
-Åland Islands,ALA,2003,0.017716623090771457
-Åland Islands,ALA,2004,0.015625771109904752
-Åland Islands,ALA,2005,0.014409544922410143
-Åland Islands,ALA,2006,0.014357081776857643
-Åland Islands,ALA,2007,0.022487530168946092
-Åland Islands,ALA,2008,0.02216182048040455
-Åland Islands,ALA,2009,0.022295052000026117
-Åland Islands,ALA,2010,0.02239608101153679
-Åland Islands,ALA,2011,0.02162654521795706
-Åland Islands,ALA,2012,0.021627916369364158
-Åland Islands,ALA,2013,0.020425101214574897
-Åland Islands,ALA,2014,0.01972387932503835
-Åland Islands,ALA,2015,0.017842801773804953
-Åland Islands,ALA,2016,0.018753316010720063
-Åland Islands,ALA,2017,0.01829149509293531
-Åland Islands,ALA,2018,0.017784506022510367
-Åland Islands,ALA,2019,0.01666721284614124
+iso_code3,Nation,Year,frac_inen_energy_agriculture_and_livestock_furnace_gas
+ALB,Albania,2000,0.0
+ALB,Albania,2001,0.0
+ALB,Albania,2002,0.0
+ALB,Albania,2003,0.0
+ALB,Albania,2004,0.0
+ALB,Albania,2005,0.0
+ALB,Albania,2006,0.0
+ALB,Albania,2007,0.0
+ALB,Albania,2008,0.0
+ALB,Albania,2009,0.0
+ALB,Albania,2010,0.0
+ALB,Albania,2011,0.0
+ALB,Albania,2012,0.0
+ALB,Albania,2013,0.0
+ALB,Albania,2014,0.0
+ALB,Albania,2015,0.0
+ALB,Albania,2016,0.0
+ALB,Albania,2017,0.0
+ALB,Albania,2018,0.0
+ALB,Albania,2019,0.0
+ALB,Albania,2020,0.0
+ARG,Argentina,2000,0.0
+ARG,Argentina,2001,0.0
+ARG,Argentina,2002,0.0
+ARG,Argentina,2003,0.0
+ARG,Argentina,2004,0.0
+ARG,Argentina,2005,0.0
+ARG,Argentina,2006,0.0
+ARG,Argentina,2007,0.0
+ARG,Argentina,2008,0.0
+ARG,Argentina,2009,0.0
+ARG,Argentina,2010,0.0
+ARG,Argentina,2011,0.0
+ARG,Argentina,2012,0.0
+ARG,Argentina,2013,0.0
+ARG,Argentina,2014,0.0
+ARG,Argentina,2015,0.0
+ARG,Argentina,2016,0.0
+ARG,Argentina,2017,0.0
+ARG,Argentina,2018,0.0
+ARG,Argentina,2019,0.0
+ARG,Argentina,2020,0.0
+ARM,Armenia,2000,0.0
+ARM,Armenia,2001,0.0
+ARM,Armenia,2002,0.0
+ARM,Armenia,2003,0.0
+ARM,Armenia,2004,0.0
+ARM,Armenia,2005,0.0
+ARM,Armenia,2006,0.0
+ARM,Armenia,2007,0.0
+ARM,Armenia,2008,0.0
+ARM,Armenia,2009,0.0
+ARM,Armenia,2010,0.0
+ARM,Armenia,2011,0.0
+ARM,Armenia,2012,0.0
+ARM,Armenia,2013,0.0
+ARM,Armenia,2014,0.0
+ARM,Armenia,2015,0.0
+ARM,Armenia,2016,0.0
+ARM,Armenia,2017,0.0
+ARM,Armenia,2018,0.0
+ARM,Armenia,2019,0.0
+ARM,Armenia,2020,0.0
+AUS,Australia,2000,0.0
+AUS,Australia,2001,0.0
+AUS,Australia,2002,0.0
+AUS,Australia,2003,0.0
+AUS,Australia,2004,0.0
+AUS,Australia,2005,0.0
+AUS,Australia,2006,0.0
+AUS,Australia,2007,0.0
+AUS,Australia,2008,0.0
+AUS,Australia,2009,0.0
+AUS,Australia,2010,0.0
+AUS,Australia,2011,0.0
+AUS,Australia,2012,0.0
+AUS,Australia,2013,0.0
+AUS,Australia,2014,0.0
+AUS,Australia,2015,0.0
+AUS,Australia,2016,0.0
+AUS,Australia,2017,0.0
+AUS,Australia,2018,0.0
+AUS,Australia,2019,0.0
+AUS,Australia,2020,0.0
+AUT,Austria,2000,0.009830205540661307
+AUT,Austria,2001,0.01
+AUT,Austria,2002,0.010747872816838333
+AUT,Austria,2003,0.011343804537521816
+AUT,Austria,2004,0.01166306695464363
+AUT,Austria,2005,0.012595591542959965
+AUT,Austria,2006,0.011754068716094032
+AUT,Austria,2007,0.013333333333333332
+AUT,Austria,2008,0.013623978201634877
+AUT,Austria,2009,0.014760147601476016
+AUT,Austria,2010,0.015534842432312472
+AUT,Austria,2011,0.016025641025641028
+AUT,Austria,2012,0.01759927797833935
+AUT,Austria,2013,0.018998272884283247
+AUT,Austria,2014,0.018369175627240143
+AUT,Austria,2015,0.019885108263367212
+AUT,Austria,2016,0.019870410367170625
+AUT,Austria,2017,0.020940170940170942
+AUT,Austria,2018,0.02050824788230049
+AUT,Austria,2019,0.0203804347826087
+AUT,Austria,2020,0.022160664819944602
+AZE,Azerbaijan,2000,0.0
+AZE,Azerbaijan,2001,0.0
+AZE,Azerbaijan,2002,0.0
+AZE,Azerbaijan,2003,0.0
+AZE,Azerbaijan,2004,0.0
+AZE,Azerbaijan,2005,0.0
+AZE,Azerbaijan,2006,0.0
+AZE,Azerbaijan,2007,0.0
+AZE,Azerbaijan,2008,0.0
+AZE,Azerbaijan,2009,0.0
+AZE,Azerbaijan,2010,0.0
+AZE,Azerbaijan,2011,0.0
+AZE,Azerbaijan,2012,0.0
+AZE,Azerbaijan,2013,0.0
+AZE,Azerbaijan,2014,0.0
+AZE,Azerbaijan,2015,0.0
+AZE,Azerbaijan,2016,0.0
+AZE,Azerbaijan,2017,0.0
+AZE,Azerbaijan,2018,0.0
+AZE,Azerbaijan,2019,0.0
+AZE,Azerbaijan,2020,0.0
+BEL,Belgium,2000,0.0
+BEL,Belgium,2001,0.0
+BEL,Belgium,2002,0.0
+BEL,Belgium,2003,0.0
+BEL,Belgium,2004,0.004127493694106857
+BEL,Belgium,2005,0.0014231499051233394
+BEL,Belgium,2006,0.005780346820809248
+BEL,Belgium,2007,0.0069052102950408045
+BEL,Belgium,2008,0.0038852361028093255
+BEL,Belgium,2009,0.0019017432646592709
+BEL,Belgium,2010,0.005720823798627002
+BEL,Belgium,2011,0.0064226075786769435
+BEL,Belgium,2012,0.002820432466311501
+BEL,Belgium,2013,0.0037911927675707197
+BEL,Belgium,2014,0.0033760972316002704
+BEL,Belgium,2015,0.0062438383174498865
+BEL,Belgium,2016,0.0061068702290076335
+BEL,Belgium,2017,0.005702280912364946
+BEL,Belgium,2018,0.006281782829793598
+BEL,Belgium,2019,0.006359300476947536
+BEL,Belgium,2020,0.0074360499702558
+BGR,Bulgaria,2000,0.0
+BGR,Bulgaria,2001,0.0008733624454148472
+BGR,Bulgaria,2002,0.0008605851979345956
+BGR,Bulgaria,2003,0.0016977928692699493
+BGR,Bulgaria,2004,0.0008703220191470844
+BGR,Bulgaria,2005,0.000791765637371338
+BGR,Bulgaria,2006,0.0
+BGR,Bulgaria,2007,0.0026833631484794273
+BGR,Bulgaria,2008,0.002547770700636943
+BGR,Bulgaria,2009,0.0012953367875647667
+BGR,Bulgaria,2010,0.047865459249676584
+BGR,Bulgaria,2011,0.047841306884480746
+BGR,Bulgaria,2012,0.053699284009546544
+BGR,Bulgaria,2013,0.05043050430504304
+BGR,Bulgaria,2014,0.04887218045112782
+BGR,Bulgaria,2015,0.015424164524421595
+BGR,Bulgaria,2016,0.04258064516129032
+BGR,Bulgaria,2017,0.05107526881720429
+BGR,Bulgaria,2018,0.047496790757381266
+BGR,Bulgaria,2019,0.05456852791878172
+BGR,Bulgaria,2020,0.06944444444444446
+BIH,Bosnia and Herzegovina,2000,0.0
+BIH,Bosnia and Herzegovina,2001,0.0
+BIH,Bosnia and Herzegovina,2002,0.0
+BIH,Bosnia and Herzegovina,2003,0.0
+BIH,Bosnia and Herzegovina,2004,0.0
+BIH,Bosnia and Herzegovina,2005,0.0
+BIH,Bosnia and Herzegovina,2006,0.0
+BIH,Bosnia and Herzegovina,2007,0.0
+BIH,Bosnia and Herzegovina,2008,0.0
+BIH,Bosnia and Herzegovina,2009,0.0
+BIH,Bosnia and Herzegovina,2010,0.0
+BIH,Bosnia and Herzegovina,2011,0.0
+BIH,Bosnia and Herzegovina,2012,0.0
+BIH,Bosnia and Herzegovina,2013,0.0
+BIH,Bosnia and Herzegovina,2014,0.0
+BIH,Bosnia and Herzegovina,2015,0.0
+BIH,Bosnia and Herzegovina,2016,0.0
+BIH,Bosnia and Herzegovina,2017,0.0
+BIH,Bosnia and Herzegovina,2018,0.0
+BIH,Bosnia and Herzegovina,2019,0.0
+BIH,Bosnia and Herzegovina,2020,0.0
+BLR,Belarus,2000,0.1888392857142857
+BLR,Belarus,2001,0.20092547491475887
+BLR,Belarus,2002,0.18985728848114172
+BLR,Belarus,2003,0.18081841432225065
+BLR,Belarus,2004,0.16929626846982218
+BLR,Belarus,2005,0.16195856873822975
+BLR,Belarus,2006,0.15216912574322838
+BLR,Belarus,2007,0.14008528784648186
+BLR,Belarus,2008,0.13093385214007783
+BLR,Belarus,2009,0.157811080835604
+BLR,Belarus,2010,0.1719487525286581
+BLR,Belarus,2011,0.14917962003454233
+BLR,Belarus,2012,0.14755498612000853
+BLR,Belarus,2013,0.1499339498018494
+BLR,Belarus,2014,0.15545556805399324
+BLR,Belarus,2015,0.15137067938021453
+BLR,Belarus,2016,0.150694607958559
+BLR,Belarus,2017,0.15206402695871946
+BLR,Belarus,2018,0.14902363823227133
+BLR,Belarus,2019,0.14725881852953676
+BLR,Belarus,2020,0.0
+BRA,Brazil,2000,0.0
+BRA,Brazil,2001,0.0
+BRA,Brazil,2002,0.0
+BRA,Brazil,2003,0.0
+BRA,Brazil,2004,0.0
+BRA,Brazil,2005,0.0
+BRA,Brazil,2006,0.0
+BRA,Brazil,2007,0.0
+BRA,Brazil,2008,0.0
+BRA,Brazil,2009,0.0
+BRA,Brazil,2010,0.0
+BRA,Brazil,2011,0.0
+BRA,Brazil,2012,0.0
+BRA,Brazil,2013,0.0
+BRA,Brazil,2014,0.0
+BRA,Brazil,2015,0.0
+BRA,Brazil,2016,0.0
+BRA,Brazil,2017,0.0
+BRA,Brazil,2018,0.0
+BRA,Brazil,2019,0.0
+BRA,Brazil,2020,0.0
+CAN,Canada,2000,0.0
+CAN,Canada,2001,0.0
+CAN,Canada,2002,0.0
+CAN,Canada,2003,0.0
+CAN,Canada,2004,0.0
+CAN,Canada,2005,0.0
+CAN,Canada,2006,0.0
+CAN,Canada,2007,0.0
+CAN,Canada,2008,0.0
+CAN,Canada,2009,0.0
+CAN,Canada,2010,0.0
+CAN,Canada,2011,0.0
+CAN,Canada,2012,0.0
+CAN,Canada,2013,0.0
+CAN,Canada,2014,0.0
+CAN,Canada,2015,0.0
+CAN,Canada,2016,0.0
+CAN,Canada,2017,0.0
+CAN,Canada,2018,0.0
+CAN,Canada,2019,0.0
+CAN,Canada,2020,0.0
+CHE,Switzerland,2000,0.009581881533101045
+CHE,Switzerland,2001,0.010770505385252692
+CHE,Switzerland,2002,0.010752688172043012
+CHE,Switzerland,2003,0.011475409836065575
+CHE,Switzerland,2004,0.0115990057995029
+CHE,Switzerland,2005,0.012934518997574777
+CHE,Switzerland,2006,0.013114754098360657
+CHE,Switzerland,2007,0.01388888888888889
+CHE,Switzerland,2008,0.016143497757847534
+CHE,Switzerland,2009,0.016438356164383564
+CHE,Switzerland,2010,0.01834061135371179
+CHE,Switzerland,2011,0.01768172888015717
+CHE,Switzerland,2012,0.020522388059701496
+CHE,Switzerland,2013,0.02220166512488437
+CHE,Switzerland,2014,0.020942408376963352
+CHE,Switzerland,2015,0.023185483870967746
+CHE,Switzerland,2016,0.0268389662027833
+CHE,Switzerland,2017,0.028197381671701917
+CHE,Switzerland,2018,0.028095733610822064
+CHE,Switzerland,2019,0.031023784901758014
+CHE,Switzerland,2020,0.03198294243070362
+CHL,Chile,2000,0.0
+CHL,Chile,2001,0.0
+CHL,Chile,2002,0.0
+CHL,Chile,2003,0.0
+CHL,Chile,2004,0.0
+CHL,Chile,2005,0.0
+CHL,Chile,2006,0.0
+CHL,Chile,2007,0.0
+CHL,Chile,2008,0.0
+CHL,Chile,2009,0.0
+CHL,Chile,2010,0.0
+CHL,Chile,2011,0.0
+CHL,Chile,2012,0.0
+CHL,Chile,2013,0.0
+CHL,Chile,2014,0.0
+CHL,Chile,2015,0.0
+CHL,Chile,2016,0.0
+CHL,Chile,2017,0.0
+CHL,Chile,2018,0.0
+CHL,Chile,2019,0.0
+CHL,Chile,2020,0.0
+COL,Colombia,2000,0.0
+COL,Colombia,2001,0.0
+COL,Colombia,2002,0.0
+COL,Colombia,2003,0.0
+COL,Colombia,2004,0.0
+COL,Colombia,2005,0.0
+COL,Colombia,2006,0.0
+COL,Colombia,2007,0.0
+COL,Colombia,2008,0.0
+COL,Colombia,2009,0.0
+COL,Colombia,2010,0.0
+COL,Colombia,2011,0.0
+COL,Colombia,2012,0.0
+COL,Colombia,2013,0.0
+COL,Colombia,2014,0.0
+COL,Colombia,2015,0.0
+COL,Colombia,2016,0.0
+COL,Colombia,2017,0.0
+COL,Colombia,2018,0.0
+COL,Colombia,2019,0.0
+COL,Colombia,2020,0.0
+CYP,Cyprus,2000,0.0
+CYP,Cyprus,2001,0.0
+CYP,Cyprus,2002,0.0
+CYP,Cyprus,2003,0.0
+CYP,Cyprus,2004,0.0
+CYP,Cyprus,2005,0.0
+CYP,Cyprus,2006,0.0
+CYP,Cyprus,2007,0.0
+CYP,Cyprus,2008,0.0
+CYP,Cyprus,2009,0.0
+CYP,Cyprus,2010,0.006024096385542168
+CYP,Cyprus,2011,0.017241379310344824
+CYP,Cyprus,2012,0.017857142857142856
+CYP,Cyprus,2013,0.023809523809523808
+CYP,Cyprus,2014,0.031446540880503145
+CYP,Cyprus,2015,0.028901734104046246
+CYP,Cyprus,2016,0.02702702702702703
+CYP,Cyprus,2017,0.026041666666666668
+CYP,Cyprus,2018,0.026737967914438502
+CYP,Cyprus,2019,0.026315789473684213
+CYP,Cyprus,2020,0.02030456852791878
+DEU,Germany,2000,0.011203294374129476
+DEU,Germany,2001,0.0046363756788978675
+DEU,Germany,2002,0.002375579047392802
+DEU,Germany,2003,0.0
+DEU,Germany,2004,0.0
+DEU,Germany,2005,0.0
+DEU,Germany,2006,0.0
+DEU,Germany,2007,0.002462211887011832
+DEU,Germany,2008,0.005239793319263519
+DEU,Germany,2009,0.002436383324309691
+DEU,Germany,2010,0.0
+DEU,Germany,2011,0.0
+DEU,Germany,2012,0.0
+DEU,Germany,2013,0.0
+DEU,Germany,2014,0.0
+DEU,Germany,2015,0.0
+DEU,Germany,2016,0.0
+DEU,Germany,2017,0.0
+DEU,Germany,2018,0.0
+DEU,Germany,2019,0.0
+DEU,Germany,2020,0.0
+DNK,Denmark,2000,0.04685176003966287
+DNK,Denmark,2001,0.04786021777665232
+DNK,Denmark,2002,0.04881198347107438
+DNK,Denmark,2003,0.04984177215189873
+DNK,Denmark,2004,0.05486628067273228
+DNK,Denmark,2005,0.055170501802051554
+DNK,Denmark,2006,0.05319433306602513
+DNK,Denmark,2007,0.05623057360836394
+DNK,Denmark,2008,0.05547811541678283
+DNK,Denmark,2009,0.055914582747962904
+DNK,Denmark,2010,0.05441618813234891
+DNK,Denmark,2011,0.045927209705372625
+DNK,Denmark,2012,0.04868340477648501
+DNK,Denmark,2013,0.04825493171471927
+DNK,Denmark,2014,0.051240734772800514
+DNK,Denmark,2015,0.05014191106906339
+DNK,Denmark,2016,0.05049221975230233
+DNK,Denmark,2017,0.052806376619063435
+DNK,Denmark,2018,0.05346869712351946
+DNK,Denmark,2019,0.053374655647382925
+DNK,Denmark,2020,0.05475097138820205
+ESP,Spain,2000,0.0
+ESP,Spain,2001,0.0
+ESP,Spain,2002,0.0
+ESP,Spain,2003,0.0
+ESP,Spain,2004,0.0
+ESP,Spain,2005,0.0
+ESP,Spain,2006,0.0
+ESP,Spain,2007,0.0
+ESP,Spain,2008,0.0
+ESP,Spain,2009,0.0
+ESP,Spain,2010,0.0
+ESP,Spain,2011,0.0
+ESP,Spain,2012,0.0
+ESP,Spain,2013,0.0
+ESP,Spain,2014,0.0
+ESP,Spain,2015,0.0
+ESP,Spain,2016,0.0
+ESP,Spain,2017,0.0
+ESP,Spain,2018,0.0
+ESP,Spain,2019,0.0
+ESP,Spain,2020,0.0
+EST,Estonia,2000,0.02040816326530612
+EST,Estonia,2001,0.014354066985645933
+EST,Estonia,2002,0.017467248908296946
+EST,Estonia,2003,0.014644351464435146
+EST,Estonia,2004,0.020454545454545458
+EST,Estonia,2005,0.022831050228310504
+EST,Estonia,2006,0.021686746987951804
+EST,Estonia,2007,0.025445292620865142
+EST,Estonia,2008,0.02
+EST,Estonia,2009,0.015384615384615384
+EST,Estonia,2010,0.017543859649122806
+EST,Estonia,2011,0.01965065502183406
+EST,Estonia,2012,0.01498929336188437
+EST,Estonia,2013,0.008639308855291579
+EST,Estonia,2014,0.009041591320072335
+EST,Estonia,2015,0.014336917562724014
+EST,Estonia,2016,0.014598540145985403
+EST,Estonia,2017,0.012522361359570664
+EST,Estonia,2018,0.013333333333333338
+EST,Estonia,2019,0.01467505241090147
+EST,Estonia,2020,0.012987012987012986
+FIN,Finland,2000,0.010625000000000002
+FIN,Finland,2001,0.011595971925541654
+FIN,Finland,2002,0.011583011583011582
+FIN,Finland,2003,0.012607626076260764
+FIN,Finland,2004,0.012642614862781374
+FIN,Finland,2005,0.013999363665287942
+FIN,Finland,2006,0.01435705368289638
+FIN,Finland,2007,0.013952077646345163
+FIN,Finland,2008,0.013940520446096658
+FIN,Finland,2009,0.015556938394523958
+FIN,Finland,2010,0.016548463356974
+FIN,Finland,2011,0.01796023091725465
+FIN,Finland,2012,0.016216216216216217
+FIN,Finland,2013,0.015114873035066506
+FIN,Finland,2014,0.016869728209934393
+FIN,Finland,2015,0.016123831022250887
+FIN,Finland,2016,0.01728472658705217
+FIN,Finland,2017,0.01809954751131222
+FIN,Finland,2018,0.018357810413885182
+FIN,Finland,2019,0.0197060788243153
+FIN,Finland,2020,0.018913342503438794
+FRA,France,2000,0.0
+FRA,France,2001,0.0
+FRA,France,2002,0.0
+FRA,France,2003,0.0
+FRA,France,2004,0.0
+FRA,France,2005,0.0
+FRA,France,2006,0.0
+FRA,France,2007,0.0
+FRA,France,2008,0.0
+FRA,France,2009,0.0
+FRA,France,2010,0.0
+FRA,France,2011,0.0
+FRA,France,2012,0.0
+FRA,France,2013,0.0
+FRA,France,2014,0.0020641473483645595
+FRA,France,2015,0.001426985888695101
+FRA,France,2016,0.0020145921812044
+FRA,France,2017,0.0017591116486174482
+FRA,France,2018,0.0028219460574157485
+FRA,France,2019,0.0042765502494654314
+FRA,France,2020,0.0036106833749269904
+GBR,United Kingdom,2000,0.0
+GBR,United Kingdom,2001,0.00607723975691041
+GBR,United Kingdom,2002,0.0
+GBR,United Kingdom,2003,0.0
+GBR,United Kingdom,2004,0.0
+GBR,United Kingdom,2005,0.0
+GBR,United Kingdom,2006,0.0
+GBR,United Kingdom,2007,0.0
+GBR,United Kingdom,2008,0.0
+GBR,United Kingdom,2009,0.0
+GBR,United Kingdom,2010,0.0
+GBR,United Kingdom,2011,0.0
+GBR,United Kingdom,2012,0.0
+GBR,United Kingdom,2013,0.0
+GBR,United Kingdom,2014,0.0
+GBR,United Kingdom,2015,0.0
+GBR,United Kingdom,2016,0.0
+GBR,United Kingdom,2017,0.0
+GBR,United Kingdom,2018,0.002054091064703868
+GBR,United Kingdom,2019,0.002954466458116094
+GBR,United Kingdom,2020,0.0029269972451790634
+GEO,Georgia,2000,0.0
+GEO,Georgia,2001,0.0
+GEO,Georgia,2002,0.0
+GEO,Georgia,2003,0.0
+GEO,Georgia,2004,0.0
+GEO,Georgia,2005,0.0
+GEO,Georgia,2006,0.0
+GEO,Georgia,2007,0.0
+GEO,Georgia,2008,0.0
+GEO,Georgia,2009,0.0
+GEO,Georgia,2010,0.0
+GEO,Georgia,2011,0.0
+GEO,Georgia,2012,0.0
+GEO,Georgia,2013,0.0
+GEO,Georgia,2014,0.0
+GEO,Georgia,2015,0.0
+GEO,Georgia,2016,0.0
+GEO,Georgia,2017,0.0
+GEO,Georgia,2018,0.0
+GEO,Georgia,2019,0.0
+GEO,Georgia,2020,0.0
+GRC,Greece,2000,0.0
+GRC,Greece,2001,0.0
+GRC,Greece,2002,0.0
+GRC,Greece,2003,0.0
+GRC,Greece,2004,0.0
+GRC,Greece,2005,0.0
+GRC,Greece,2006,0.0
+GRC,Greece,2007,0.0
+GRC,Greece,2008,0.0
+GRC,Greece,2009,0.0
+GRC,Greece,2010,0.0
+GRC,Greece,2011,0.0
+GRC,Greece,2012,0.0
+GRC,Greece,2013,0.0
+GRC,Greece,2014,0.0
+GRC,Greece,2015,0.0
+GRC,Greece,2016,0.0
+GRC,Greece,2017,0.0
+GRC,Greece,2018,0.0
+GRC,Greece,2019,0.0
+GRC,Greece,2020,0.0
+HRV,Croatia,2000,0.0
+HRV,Croatia,2001,0.0
+HRV,Croatia,2002,0.0
+HRV,Croatia,2003,0.0
+HRV,Croatia,2004,0.0
+HRV,Croatia,2005,0.0
+HRV,Croatia,2006,0.0
+HRV,Croatia,2007,0.0
+HRV,Croatia,2008,0.0
+HRV,Croatia,2009,0.0
+HRV,Croatia,2010,0.004748338081671416
+HRV,Croatia,2011,0.00373134328358209
+HRV,Croatia,2012,0.010101010101010104
+HRV,Croatia,2013,0.019427402862985686
+HRV,Croatia,2014,0.021825396825396824
+HRV,Croatia,2015,0.018108651911468817
+HRV,Croatia,2016,0.019860973187686197
+HRV,Croatia,2017,0.02316213494461229
+HRV,Croatia,2018,0.02463054187192118
+HRV,Croatia,2019,0.0263671875
+HRV,Croatia,2020,0.02968460111317254
+HUN,Hungary,2000,0.0003579098067287044
+HUN,Hungary,2001,0.000758150113722517
+HUN,Hungary,2002,0.0007339449541284405
+HUN,Hungary,2003,0.0007785130400934214
+HUN,Hungary,2004,0.000408997955010225
+HUN,Hungary,2005,0.00042789901583226365
+HUN,Hungary,2006,0.0004357298474945534
+HUN,Hungary,2007,0.0004764173415912339
+HUN,Hungary,2008,0.00045065344749887343
+HUN,Hungary,2009,0.0005370569280343716
+HUN,Hungary,2010,0.0004856726566294318
+HUN,Hungary,2011,0.0004909180166912128
+HUN,Hungary,2012,0.0005941770647653002
+HUN,Hungary,2013,0.0004636068613815484
+HUN,Hungary,2014,0.000797766254487435
+HUN,Hungary,2015,0.0008196721311475411
+HUN,Hungary,2016,0.0007377351530800443
+HUN,Hungary,2017,0.0007827788649706458
+HUN,Hungary,2018,0.0007371913011426466
+HUN,Hungary,2019,0.0007089684509039347
+HUN,Hungary,2020,0.00067842605156038
+IRL,Ireland,2000,0.0
+IRL,Ireland,2001,0.0
+IRL,Ireland,2002,0.0
+IRL,Ireland,2003,0.0
+IRL,Ireland,2004,0.0
+IRL,Ireland,2005,0.0
+IRL,Ireland,2006,0.0
+IRL,Ireland,2007,0.0
+IRL,Ireland,2008,0.0
+IRL,Ireland,2009,0.0
+IRL,Ireland,2010,0.0
+IRL,Ireland,2011,0.0
+IRL,Ireland,2012,0.0
+IRL,Ireland,2013,0.0
+IRL,Ireland,2014,0.0
+IRL,Ireland,2015,0.0
+IRL,Ireland,2016,0.0
+IRL,Ireland,2017,0.0
+IRL,Ireland,2018,0.0
+IRL,Ireland,2019,0.0
+IRL,Ireland,2020,0.0
+ITA,Italy,2000,0.0
+ITA,Italy,2001,0.0
+ITA,Italy,2002,0.0
+ITA,Italy,2003,0.0
+ITA,Italy,2004,0.0003647239040046685
+ITA,Italy,2005,0.00035955702574428305
+ITA,Italy,2006,0.0006538321830730113
+ITA,Italy,2007,0.001052710730130085
+ITA,Italy,2008,0.00030962148773124856
+ITA,Italy,2009,0.004046110390106116
+ITA,Italy,2010,0.0004873294346978558
+ITA,Italy,2011,0.003185493751531488
+ITA,Italy,2012,0.005497758606106741
+ITA,Italy,2013,0.007289254780893577
+ITA,Italy,2014,0.008088108759249698
+ITA,Italy,2015,0.003350364352123293
+ITA,Italy,2016,0.003744071886180215
+ITA,Italy,2017,0.003601833660772757
+ITA,Italy,2018,0.003544144286051823
+ITA,Italy,2019,0.004648507584407111
+ITA,Italy,2020,0.004839880616278132
+JPN,Japan,2000,0.0
+JPN,Japan,2001,0.0
+JPN,Japan,2002,0.0
+JPN,Japan,2003,0.0
+JPN,Japan,2004,0.0
+JPN,Japan,2005,0.0
+JPN,Japan,2006,0.0
+JPN,Japan,2007,0.0
+JPN,Japan,2008,0.0
+JPN,Japan,2009,0.0
+JPN,Japan,2010,0.0
+JPN,Japan,2011,0.0
+JPN,Japan,2012,0.0
+JPN,Japan,2013,0.0
+JPN,Japan,2014,0.0
+JPN,Japan,2015,0.0
+JPN,Japan,2016,0.0
+JPN,Japan,2017,0.0
+JPN,Japan,2018,0.0
+JPN,Japan,2019,0.0
+JPN,Japan,2020,0.0
+KAZ,Kazakhstan,2000,0.0
+KAZ,Kazakhstan,2001,0.0
+KAZ,Kazakhstan,2002,0.0
+KAZ,Kazakhstan,2003,0.0
+KAZ,Kazakhstan,2004,0.0
+KAZ,Kazakhstan,2005,0.0
+KAZ,Kazakhstan,2006,0.0
+KAZ,Kazakhstan,2007,0.0
+KAZ,Kazakhstan,2008,0.33440588370489543
+KAZ,Kazakhstan,2009,0.2923154193872426
+KAZ,Kazakhstan,2010,0.24379601854376873
+KAZ,Kazakhstan,2011,0.21933659038313189
+KAZ,Kazakhstan,2012,0.21129530767069402
+KAZ,Kazakhstan,2013,0.11360874848116646
+KAZ,Kazakhstan,2014,0.11612386545648691
+KAZ,Kazakhstan,2015,0.11371900826446281
+KAZ,Kazakhstan,2016,0.11762789182144022
+KAZ,Kazakhstan,2017,0.10421286031042129
+KAZ,Kazakhstan,2018,0.5459146782357195
+KAZ,Kazakhstan,2019,0.16812705366922234
+KAZ,Kazakhstan,2020,0.0
+LTU,Lithuania,2000,0.1180722891566265
+LTU,Lithuania,2001,0.1089588377723971
+LTU,Lithuania,2002,0.09263657957244656
+LTU,Lithuania,2003,0.09389671361502348
+LTU,Lithuania,2004,0.09772727272727272
+LTU,Lithuania,2005,0.09728506787330317
+LTU,Lithuania,2006,0.08403361344537816
+LTU,Lithuania,2007,0.07584830339321356
+LTU,Lithuania,2008,0.08488612836438923
+LTU,Lithuania,2009,0.08695652173913043
+LTU,Lithuania,2010,0.07296137339055796
+LTU,Lithuania,2011,0.058315334773218146
+LTU,Lithuania,2012,0.04956896551724139
+LTU,Lithuania,2013,0.04729729729729729
+LTU,Lithuania,2014,0.040632054176072234
+LTU,Lithuania,2015,0.04534606205250597
+LTU,Lithuania,2016,0.04535147392290251
+LTU,Lithuania,2017,0.04103671706263499
+LTU,Lithuania,2018,0.03947368421052631
+LTU,Lithuania,2019,0.032051282051282055
+LTU,Lithuania,2020,0.02935010482180294
+LUX,Luxembourg,2000,0.0
+LUX,Luxembourg,2001,0.0
+LUX,Luxembourg,2002,0.0
+LUX,Luxembourg,2003,0.0
+LUX,Luxembourg,2004,0.0
+LUX,Luxembourg,2005,0.0
+LUX,Luxembourg,2006,0.0
+LUX,Luxembourg,2007,0.0
+LUX,Luxembourg,2008,0.0
+LUX,Luxembourg,2009,0.0
+LUX,Luxembourg,2010,0.0
+LUX,Luxembourg,2011,0.0
+LUX,Luxembourg,2012,0.0
+LUX,Luxembourg,2013,0.0
+LUX,Luxembourg,2014,0.0
+LUX,Luxembourg,2015,0.0
+LUX,Luxembourg,2016,0.0
+LUX,Luxembourg,2017,0.0
+LUX,Luxembourg,2018,0.0
+LUX,Luxembourg,2019,0.0
+LUX,Luxembourg,2020,0.0
+LVA,Latvia,2000,0.009208103130755065
+LVA,Latvia,2001,0.007005253940455341
+LVA,Latvia,2002,0.012962962962962966
+LVA,Latvia,2003,0.014657980456026058
+LVA,Latvia,2004,0.018376722817764167
+LVA,Latvia,2005,0.025039123630672924
+LVA,Latvia,2006,0.015432098765432103
+LVA,Latvia,2007,0.015290519877675844
+LVA,Latvia,2008,0.012658227848101269
+LVA,Latvia,2009,0.032590051457975985
+LVA,Latvia,2010,0.0534351145038168
+LVA,Latvia,2011,0.04510108864696734
+LVA,Latvia,2012,0.042857142857142864
+LVA,Latvia,2013,0.03522205206738132
+LVA,Latvia,2014,0.043343653250774
+LVA,Latvia,2015,0.0471976401179941
+LVA,Latvia,2016,0.058029689608636977
+LVA,Latvia,2017,0.059040590405904064
+LVA,Latvia,2018,0.05949367088607595
+LVA,Latvia,2019,0.046857142857142854
+LVA,Latvia,2020,0.04519774011299436
+MAR,Morocco,2000,0.0
+MAR,Morocco,2001,0.0
+MAR,Morocco,2002,0.0
+MAR,Morocco,2003,0.0
+MAR,Morocco,2004,0.0
+MAR,Morocco,2005,0.0
+MAR,Morocco,2006,0.0
+MAR,Morocco,2007,0.0
+MAR,Morocco,2008,0.0
+MAR,Morocco,2009,0.0
+MAR,Morocco,2010,0.0
+MAR,Morocco,2011,0.0
+MAR,Morocco,2012,0.0
+MAR,Morocco,2013,0.0
+MAR,Morocco,2014,0.0
+MAR,Morocco,2015,0.0
+MAR,Morocco,2016,0.0
+MAR,Morocco,2017,0.0
+MAR,Morocco,2018,0.0
+MAR,Morocco,2019,0.0
+MAR,Morocco,2020,0.0
+MEX,Mexico,2000,0.0
+MEX,Mexico,2001,0.0
+MEX,Mexico,2002,0.0
+MEX,Mexico,2003,0.0
+MEX,Mexico,2004,0.0
+MEX,Mexico,2005,0.0
+MEX,Mexico,2006,0.0
+MEX,Mexico,2007,0.0
+MEX,Mexico,2008,0.0
+MEX,Mexico,2009,0.0
+MEX,Mexico,2010,0.0
+MEX,Mexico,2011,0.0
+MEX,Mexico,2012,0.0
+MEX,Mexico,2013,0.0
+MEX,Mexico,2014,0.0
+MEX,Mexico,2015,0.0
+MEX,Mexico,2016,0.0
+MEX,Mexico,2017,0.0
+MEX,Mexico,2018,0.0
+MEX,Mexico,2019,0.0
+MEX,Mexico,2020,0.0
+MLT,Malta,2000,0.0
+MLT,Malta,2001,0.0
+MLT,Malta,2002,0.0
+MLT,Malta,2003,0.0
+MLT,Malta,2004,0.0
+MLT,Malta,2005,0.0
+MLT,Malta,2006,0.0
+MLT,Malta,2007,0.0
+MLT,Malta,2008,0.0
+MLT,Malta,2009,0.0
+MLT,Malta,2010,0.0
+MLT,Malta,2011,0.0
+MLT,Malta,2012,0.0
+MLT,Malta,2013,0.0
+MLT,Malta,2014,0.0
+MLT,Malta,2015,0.0
+MLT,Malta,2016,0.0
+MLT,Malta,2017,0.0
+MLT,Malta,2018,0.0
+MLT,Malta,2019,0.0
+MLT,Malta,2020,0.0
+NLD,Netherlands,2000,0.07886351566648965
+NLD,Netherlands,2001,0.07634250963783462
+NLD,Netherlands,2002,0.07300469483568074
+NLD,Netherlands,2003,0.06437869822485208
+NLD,Netherlands,2004,0.05466729367505291
+NLD,Netherlands,2005,0.053165863730213356
+NLD,Netherlands,2006,0.054781262098335275
+NLD,Netherlands,2007,0.047244094488188976
+NLD,Netherlands,2008,0.03999487245224972
+NLD,Netherlands,2009,0.03547416277133892
+NLD,Netherlands,2010,0.031050279961540642
+NLD,Netherlands,2011,0.030702032031398364
+NLD,Netherlands,2012,0.02807478271743888
+NLD,Netherlands,2013,0.025989331348467936
+NLD,Netherlands,2014,0.028188912809472555
+NLD,Netherlands,2015,0.022051411290322585
+NLD,Netherlands,2016,0.023126445402837682
+NLD,Netherlands,2017,0.02322661644695543
+NLD,Netherlands,2018,0.01992966002344666
+NLD,Netherlands,2019,0.016300205218411017
+NLD,Netherlands,2020,0.016510566762728145
+NOR,Norway,2000,0.0009328358208955225
+NOR,Norway,2001,0.00088339222614841
+NOR,Norway,2002,0.0008865248226950355
+NOR,Norway,2003,0.0008998200359928015
+NOR,Norway,2004,0.0002969121140142518
+NOR,Norway,2005,0.0
+NOR,Norway,2006,0.0003126954346466542
+NOR,Norway,2007,0.00031938677738741617
+NOR,Norway,2008,0.0003224766204450177
+NOR,Norway,2009,0.0006006006006006008
+NOR,Norway,2010,0.0004508566275924257
+NOR,Norway,2011,0.0004901960784313725
+NOR,Norway,2012,0.0009465215333648841
+NOR,Norway,2013,0.000970873786407767
+NOR,Norway,2014,0.0009935419771485345
+NOR,Norway,2015,0.0028301886792452824
+NOR,Norway,2016,0.001366742596810934
+NOR,Norway,2017,0.000835421888053467
+NOR,Norway,2018,0.0012077294685990338
+NOR,Norway,2019,0.0012371134020618554
+NOR,Norway,2020,0.001586042823156225
+NZL,New Zealand,2000,0.0
+NZL,New Zealand,2001,0.0
+NZL,New Zealand,2002,0.0
+NZL,New Zealand,2003,0.0
+NZL,New Zealand,2004,0.0
+NZL,New Zealand,2005,0.0
+NZL,New Zealand,2006,0.0
+NZL,New Zealand,2007,0.0
+NZL,New Zealand,2008,0.0
+NZL,New Zealand,2009,0.0
+NZL,New Zealand,2010,0.0
+NZL,New Zealand,2011,0.0
+NZL,New Zealand,2012,0.0
+NZL,New Zealand,2013,0.0
+NZL,New Zealand,2014,0.0
+NZL,New Zealand,2015,0.0
+NZL,New Zealand,2016,0.0
+NZL,New Zealand,2017,0.0
+NZL,New Zealand,2018,0.0
+NZL,New Zealand,2019,0.0
+NZL,New Zealand,2020,0.0
+POL,Poland,2000,0.005172235440157236
+POL,Poland,2001,0.006254560617116647
+POL,Poland,2002,0.005486065393899496
+POL,Poland,2003,0.00572442612628084
+POL,Poland,2004,0.005581603036392052
+POL,Poland,2005,0.0046000649420933
+POL,Poland,2006,0.005526596746844188
+POL,Poland,2007,0.006427789934354485
+POL,Poland,2008,0.0065941312232113405
+POL,Poland,2009,0.0070769023387477255
+POL,Poland,2010,0.0070967741935483875
+POL,Poland,2011,0.006542361792607132
+POL,Poland,2012,0.006565988181221274
+POL,Poland,2013,0.00672811680010765
+POL,Poland,2014,0.006320224719101125
+POL,Poland,2015,0.006413027813806024
+POL,Poland,2016,0.006076154469349176
+POL,Poland,2017,0.005551785824440196
+POL,Poland,2018,0.004834421078075901
+POL,Poland,2019,0.004779936681358247
+POL,Poland,2020,0.004813032210292484
+PRT,Portugal,2000,0.00267379679144385
+PRT,Portugal,2001,0.003305004721435317
+PRT,Portugal,2002,0.0035300050428643476
+PRT,Portugal,2003,0.001050420168067227
+PRT,Portugal,2004,0.0008126777732629013
+PRT,Portugal,2005,0.0008343763037129746
+PRT,Portugal,2006,0.0010735373054213634
+PRT,Portugal,2007,0.001503006012024048
+PRT,Portugal,2008,0.0011142061281337048
+PRT,Portugal,2009,0.0011223344556677893
+PRT,Portugal,2010,0.0010362694300518136
+PRT,Portugal,2011,0.0011235955056179774
+PRT,Portugal,2012,0.0011580775911986107
+PRT,Portugal,2013,0.0005701254275940707
+PRT,Portugal,2014,0.0
+PRT,Portugal,2015,0.0
+PRT,Portugal,2016,0.0
+PRT,Portugal,2017,0.0
+PRT,Portugal,2018,0.0
+PRT,Portugal,2019,0.0
+PRT,Portugal,2020,0.0
+ROU,Romania,2000,0.14734299516908214
+ROU,Romania,2001,0.1816666666666667
+ROU,Romania,2002,0.1722652885443583
+ROU,Romania,2003,0.23015873015873015
+ROU,Romania,2004,0.12278876170655567
+ROU,Romania,2005,0.12388392857142859
+ROU,Romania,2006,0.07889908256880733
+ROU,Romania,2007,0.06987295825771324
+ROU,Romania,2008,0.04820261437908496
+ROU,Romania,2009,0.05737704918032786
+ROU,Romania,2010,0.046483180428134555
+ROU,Romania,2011,0.05537098560354375
+ROU,Romania,2012,0.06091127098321344
+ROU,Romania,2013,0.057477110885045764
+ROU,Romania,2014,0.04934770277935337
+ROU,Romania,2015,0.03746097814776274
+ROU,Romania,2016,0.02896261190100053
+ROU,Romania,2017,0.019351717464925016
+ROU,Romania,2018,0.008449514152936205
+ROU,Romania,2019,0.014604810996563574
+ROU,Romania,2020,0.017124831004957188
+SRB,Serbia,2000,0.37105751391465674
+SRB,Serbia,2001,0.37037037037037035
+SRB,Serbia,2002,0.3597122302158273
+SRB,Serbia,2003,0.3508771929824561
+SRB,Serbia,2004,0.3700657894736842
+SRB,Serbia,2005,0.22
+SRB,Serbia,2006,0.3304347826086957
+SRB,Serbia,2007,0.011535048802129548
+SRB,Serbia,2008,0.0
+SRB,Serbia,2009,0.0038022813688212923
+SRB,Serbia,2010,0.0
+SRB,Serbia,2011,0.0
+SRB,Serbia,2012,0.0
+SRB,Serbia,2013,0.0
+SRB,Serbia,2014,0.0
+SRB,Serbia,2015,0.0
+SRB,Serbia,2016,0.0
+SRB,Serbia,2017,0.0
+SRB,Serbia,2018,0.0
+SRB,Serbia,2019,0.0
+SRB,Serbia,2020,0.0
+SVK,Slovak Republic,2000,0.04971098265895955
+SVK,Slovak Republic,2001,0.03835978835978836
+SVK,Slovak Republic,2002,0.04340836012861737
+SVK,Slovak Republic,2003,0.04518072289156627
+SVK,Slovak Republic,2004,0.026745913818722142
+SVK,Slovak Republic,2005,0.02612481857764877
+SVK,Slovak Republic,2006,0.02871621621621622
+SVK,Slovak Republic,2007,0.03677758318739055
+SVK,Slovak Republic,2008,0.03401360544217688
+SVK,Slovak Republic,2009,0.03136531365313654
+SVK,Slovak Republic,2010,0.02500000000000001
+SVK,Slovak Republic,2011,0.021308980213089804
+SVK,Slovak Republic,2012,0.0066334991708126055
+SVK,Slovak Republic,2013,0.007233273056057866
+SVK,Slovak Republic,2014,0.006896551724137932
+SVK,Slovak Republic,2015,0.004739336492890995
+SVK,Slovak Republic,2016,0.00463678516228748
+SVK,Slovak Republic,2017,0.005
+SVK,Slovak Republic,2018,0.007168458781362006
+SVK,Slovak Republic,2019,0.007339449541284402
+SVK,Slovak Republic,2020,0.005405405405405405
+SVN,Slovenia,2000,0.0
+SVN,Slovenia,2001,0.0
+SVN,Slovenia,2002,0.0
+SVN,Slovenia,2003,0.0
+SVN,Slovenia,2004,0.0
+SVN,Slovenia,2005,0.0
+SVN,Slovenia,2006,0.0
+SVN,Slovenia,2007,0.0
+SVN,Slovenia,2008,0.0
+SVN,Slovenia,2009,0.0
+SVN,Slovenia,2010,0.0
+SVN,Slovenia,2011,0.0
+SVN,Slovenia,2012,0.0
+SVN,Slovenia,2013,0.0
+SVN,Slovenia,2014,0.0
+SVN,Slovenia,2015,0.0
+SVN,Slovenia,2016,0.0
+SVN,Slovenia,2017,0.0
+SVN,Slovenia,2018,0.0
+SVN,Slovenia,2019,0.0
+SVN,Slovenia,2020,0.0
+SWE,Sweden,2000,0.00940733772342427
+SWE,Sweden,2001,0.009496676163342828
+SWE,Sweden,2002,0.009014423076923076
+SWE,Sweden,2003,0.008875739644970414
+SWE,Sweden,2004,0.009057971014492754
+SWE,Sweden,2005,0.009430996541967936
+SWE,Sweden,2006,0.00980392156862745
+SWE,Sweden,2007,0.009038867128653209
+SWE,Sweden,2008,0.009823182711198428
+SWE,Sweden,2009,0.010159160176092108
+SWE,Sweden,2010,0.010395010395010394
+SWE,Sweden,2011,0.010664770707429792
+SWE,Sweden,2012,0.011029411764705883
+SWE,Sweden,2013,0.01003680160588826
+SWE,Sweden,2014,0.010416666666666668
+SWE,Sweden,2015,0.01090909090909091
+SWE,Sweden,2016,0.010585744530698658
+SWE,Sweden,2017,0.010948905109489052
+SWE,Sweden,2018,0.011424219345011425
+SWE,Sweden,2019,0.011086474501108648
+SWE,Sweden,2020,0.01187178472497032
+UKR,Ukraine,2000,0.0
+UKR,Ukraine,2001,0.0
+UKR,Ukraine,2002,0.0
+UKR,Ukraine,2003,0.0
+UKR,Ukraine,2004,0.0
+UKR,Ukraine,2005,0.0
+UKR,Ukraine,2006,0.0
+UKR,Ukraine,2007,0.1643592474263401
+UKR,Ukraine,2008,0.1717492347806371
+UKR,Ukraine,2009,0.17072001916856355
+UKR,Ukraine,2010,0.16152492668621704
+UKR,Ukraine,2011,0.1498988608538273
+UKR,Ukraine,2012,0.14271685761047465
+UKR,Ukraine,2013,0.12319999999999999
+UKR,Ukraine,2014,0.11958984142124715
+UKR,Ukraine,2015,0.10905526283543684
+UKR,Ukraine,2016,0.1145132346343652
+UKR,Ukraine,2017,0.11782945736434107
+UKR,Ukraine,2018,0.11461067366579179
+UKR,Ukraine,2019,0.09919334509705066
+UKR,Ukraine,2020,0.0
+URY,Uruguay,2000,0.0
+URY,Uruguay,2001,0.0
+URY,Uruguay,2002,0.0
+URY,Uruguay,2003,0.0
+URY,Uruguay,2004,0.0
+URY,Uruguay,2005,0.0
+URY,Uruguay,2006,0.0
+URY,Uruguay,2007,0.0
+URY,Uruguay,2008,0.0
+URY,Uruguay,2009,0.0
+URY,Uruguay,2010,0.0
+URY,Uruguay,2011,0.0
+URY,Uruguay,2012,0.0
+URY,Uruguay,2013,0.0
+URY,Uruguay,2014,0.0
+URY,Uruguay,2015,0.0
+URY,Uruguay,2016,0.0
+URY,Uruguay,2017,0.0
+URY,Uruguay,2018,0.0
+URY,Uruguay,2019,0.0
+URY,Uruguay,2020,0.0
+USA,United States,2000,0.0
+USA,United States,2001,0.0
+USA,United States,2002,0.0
+USA,United States,2003,0.0
+USA,United States,2004,0.0
+USA,United States,2005,0.0
+USA,United States,2006,0.0
+USA,United States,2007,0.0
+USA,United States,2008,0.0
+USA,United States,2009,0.0
+USA,United States,2010,0.0
+USA,United States,2011,0.0
+USA,United States,2012,0.0
+USA,United States,2013,0.0
+USA,United States,2014,0.0
+USA,United States,2015,0.0
+USA,United States,2016,0.0
+USA,United States,2017,0.0
+USA,United States,2018,0.0
+USA,United States,2019,0.0
+USA,United States,2020,0.0
+UZB,Uzbekistan,2000,0.0
+UZB,Uzbekistan,2001,0.0
+UZB,Uzbekistan,2002,0.0
+UZB,Uzbekistan,2003,0.0
+UZB,Uzbekistan,2004,0.0
+UZB,Uzbekistan,2005,0.0
+UZB,Uzbekistan,2006,0.0
+UZB,Uzbekistan,2007,0.0
+UZB,Uzbekistan,2008,0.0
+UZB,Uzbekistan,2009,0.0
+UZB,Uzbekistan,2010,0.0
+UZB,Uzbekistan,2011,0.0
+UZB,Uzbekistan,2012,0.0
+UZB,Uzbekistan,2013,0.0
+UZB,Uzbekistan,2014,0.0
+UZB,Uzbekistan,2015,0.0
+UZB,Uzbekistan,2016,0.0
+UZB,Uzbekistan,2017,0.0
+UZB,Uzbekistan,2018,0.0
+UZB,Uzbekistan,2019,0.0
+UZB,Uzbekistan,2020,0.0
+XKX,Kosovo,2000,0.0
+XKX,Kosovo,2001,0.0
+XKX,Kosovo,2002,0.0
+XKX,Kosovo,2003,0.0
+XKX,Kosovo,2004,0.0
+XKX,Kosovo,2005,0.0
+XKX,Kosovo,2006,0.0
+XKX,Kosovo,2007,0.0
+XKX,Kosovo,2008,0.0
+XKX,Kosovo,2009,0.0
+XKX,Kosovo,2010,0.0
+XKX,Kosovo,2011,0.0
+XKX,Kosovo,2012,0.0
+XKX,Kosovo,2013,0.0
+XKX,Kosovo,2014,0.0
+XKX,Kosovo,2015,0.0
+XKX,Kosovo,2016,0.0
+XKX,Kosovo,2017,0.0
+XKX,Kosovo,2018,0.0
+XKX,Kosovo,2019,0.0
+XKX,Kosovo,2020,0.0
+ZAF,South Africa,2000,0.0
+ZAF,South Africa,2001,0.0
+ZAF,South Africa,2002,0.0
+ZAF,South Africa,2003,0.0
+ZAF,South Africa,2004,0.0
+ZAF,South Africa,2005,0.0
+ZAF,South Africa,2006,0.0
+ZAF,South Africa,2007,0.0
+ZAF,South Africa,2008,0.0
+ZAF,South Africa,2009,0.0
+ZAF,South Africa,2010,0.0
+ZAF,South Africa,2011,0.0
+ZAF,South Africa,2012,0.0
+ZAF,South Africa,2013,0.0
+ZAF,South Africa,2014,0.0
+ZAF,South Africa,2015,0.0
+ZAF,South Africa,2016,0.0
+ZAF,South Africa,2017,0.0
+ZAF,South Africa,2018,0.0
+ZAF,South Africa,2019,0.0
+ZAF,South Africa,2020,0.0
