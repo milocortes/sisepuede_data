@@ -1,0 +1,1782 @@
+iso_code3,Nation,Year,pop_lvst_initial_buffalo
+AFG,Afghanistan,2011,0.0
+AFG,Afghanistan,2012,0.0
+AFG,Afghanistan,2013,0.0
+AFG,Afghanistan,2014,0.0
+AFG,Afghanistan,2015,0.0
+AFG,Afghanistan,2016,0.0
+AFG,Afghanistan,2017,0.0
+AFG,Afghanistan,2018,0.0
+AFG,Afghanistan,2019,0.0
+AGO,Angola,2011,0.0
+AGO,Angola,2012,0.0
+AGO,Angola,2013,0.0
+AGO,Angola,2014,0.0
+AGO,Angola,2015,0.0
+AGO,Angola,2016,0.0
+AGO,Angola,2017,0.0
+AGO,Angola,2018,0.0
+AGO,Angola,2019,0.0
+ALB,Albania,2011,120.0
+ALB,Albania,2012,120.0
+ALB,Albania,2013,120.0
+ALB,Albania,2014,120.0
+ALB,Albania,2015,116.0
+ALB,Albania,2016,119.0
+ALB,Albania,2017,118.0
+ALB,Albania,2018,117.0
+ALB,Albania,2019,118.0
+ARE,United Arab Emirates,2011,0.0
+ARE,United Arab Emirates,2012,0.0
+ARE,United Arab Emirates,2013,0.0
+ARE,United Arab Emirates,2014,0.0
+ARE,United Arab Emirates,2015,0.0
+ARE,United Arab Emirates,2016,0.0
+ARE,United Arab Emirates,2017,0.0
+ARE,United Arab Emirates,2018,0.0
+ARE,United Arab Emirates,2019,0.0
+ARG,Argentina,2011,0.0
+ARG,Argentina,2012,0.0
+ARG,Argentina,2013,0.0
+ARG,Argentina,2014,0.0
+ARG,Argentina,2015,0.0
+ARG,Argentina,2016,0.0
+ARG,Argentina,2017,0.0
+ARG,Argentina,2018,0.0
+ARG,Argentina,2019,0.0
+ARM,Armenia,2011,460.0
+ARM,Armenia,2012,472.0
+ARM,Armenia,2013,531.0
+ARM,Armenia,2014,731.0
+ARM,Armenia,2015,720.0
+ARM,Armenia,2016,691.0
+ARM,Armenia,2017,715.0
+ARM,Armenia,2018,717.0
+ARM,Armenia,2019,670.0
+ATG,Antigua and Barbuda,2011,0.0
+ATG,Antigua and Barbuda,2012,0.0
+ATG,Antigua and Barbuda,2013,0.0
+ATG,Antigua and Barbuda,2014,0.0
+ATG,Antigua and Barbuda,2015,0.0
+ATG,Antigua and Barbuda,2016,0.0
+ATG,Antigua and Barbuda,2017,0.0
+ATG,Antigua and Barbuda,2018,0.0
+ATG,Antigua and Barbuda,2019,0.0
+AUS,Australia,2011,0.0
+AUS,Australia,2012,0.0
+AUS,Australia,2013,0.0
+AUS,Australia,2014,0.0
+AUS,Australia,2015,0.0
+AUS,Australia,2016,0.0
+AUS,Australia,2017,0.0
+AUS,Australia,2018,0.0
+AUS,Australia,2019,0.0
+AUT,Austria,2011,0.0
+AUT,Austria,2012,0.0
+AUT,Austria,2013,0.0
+AUT,Austria,2014,0.0
+AUT,Austria,2015,0.0
+AUT,Austria,2016,0.0
+AUT,Austria,2017,0.0
+AUT,Austria,2018,0.0
+AUT,Austria,2019,0.0
+AZE,Azerbaijan,2011,269386.0
+AZE,Azerbaijan,2012,265872.0
+AZE,Azerbaijan,2013,260889.0
+AZE,Azerbaijan,2014,252317.0
+AZE,Azerbaijan,2015,242294.0
+AZE,Azerbaijan,2016,214224.0
+AZE,Azerbaijan,2017,196651.0
+AZE,Azerbaijan,2018,176195.0
+AZE,Azerbaijan,2019,162475.0
+BDI,Burundi,2011,0.0
+BDI,Burundi,2012,0.0
+BDI,Burundi,2013,0.0
+BDI,Burundi,2014,0.0
+BDI,Burundi,2015,0.0
+BDI,Burundi,2016,0.0
+BDI,Burundi,2017,0.0
+BDI,Burundi,2018,0.0
+BDI,Burundi,2019,0.0
+BEL,Belgium,2011,0.0
+BEL,Belgium,2012,0.0
+BEL,Belgium,2013,0.0
+BEL,Belgium,2014,0.0
+BEL,Belgium,2015,0.0
+BEL,Belgium,2016,0.0
+BEL,Belgium,2017,0.0
+BEL,Belgium,2018,0.0
+BEL,Belgium,2019,0.0
+BEN,Benin,2011,0.0
+BEN,Benin,2012,0.0
+BEN,Benin,2013,0.0
+BEN,Benin,2014,0.0
+BEN,Benin,2015,0.0
+BEN,Benin,2016,0.0
+BEN,Benin,2017,0.0
+BEN,Benin,2018,0.0
+BEN,Benin,2019,0.0
+BFA,Burkina Faso,2011,0.0
+BFA,Burkina Faso,2012,0.0
+BFA,Burkina Faso,2013,0.0
+BFA,Burkina Faso,2014,0.0
+BFA,Burkina Faso,2015,0.0
+BFA,Burkina Faso,2016,0.0
+BFA,Burkina Faso,2017,0.0
+BFA,Burkina Faso,2018,0.0
+BFA,Burkina Faso,2019,0.0
+BGD,Bangladesh,2011,1394000.0
+BGD,Bangladesh,2012,1443000.0
+BGD,Bangladesh,2013,1465000.0
+BGD,Bangladesh,2014,1457000.0
+BGD,Bangladesh,2015,1464000.0
+BGD,Bangladesh,2016,1471000.0
+BGD,Bangladesh,2017,1478000.0
+BGD,Bangladesh,2018,1485000.0
+BGD,Bangladesh,2019,1490000.0
+BGR,Bulgaria,2011,9241.0
+BGR,Bulgaria,2012,9887.0
+BGR,Bulgaria,2013,9212.0
+BGR,Bulgaria,2014,9964.0
+BGR,Bulgaria,2015,9555.0
+BGR,Bulgaria,2016,10843.0
+BGR,Bulgaria,2017,12273.0
+BGR,Bulgaria,2018,15630.0
+BGR,Bulgaria,2019,16730.0
+BHR,Bahrain,2011,0.0
+BHR,Bahrain,2012,0.0
+BHR,Bahrain,2013,0.0
+BHR,Bahrain,2014,0.0
+BHR,Bahrain,2015,0.0
+BHR,Bahrain,2016,0.0
+BHR,Bahrain,2017,0.0
+BHR,Bahrain,2018,0.0
+BHR,Bahrain,2019,0.0
+BHS,Bahamas,2011,0.0
+BHS,Bahamas,2012,0.0
+BHS,Bahamas,2013,0.0
+BHS,Bahamas,2014,0.0
+BHS,Bahamas,2015,0.0
+BHS,Bahamas,2016,0.0
+BHS,Bahamas,2017,0.0
+BHS,Bahamas,2018,0.0
+BHS,Bahamas,2019,0.0
+BIH,Bosnia and Herzegovina,2011,0.0
+BIH,Bosnia and Herzegovina,2012,0.0
+BIH,Bosnia and Herzegovina,2013,0.0
+BIH,Bosnia and Herzegovina,2014,0.0
+BIH,Bosnia and Herzegovina,2015,0.0
+BIH,Bosnia and Herzegovina,2016,0.0
+BIH,Bosnia and Herzegovina,2017,0.0
+BIH,Bosnia and Herzegovina,2018,0.0
+BIH,Bosnia and Herzegovina,2019,0.0
+BLR,Belarus,2011,0.0
+BLR,Belarus,2012,0.0
+BLR,Belarus,2013,0.0
+BLR,Belarus,2014,0.0
+BLR,Belarus,2015,0.0
+BLR,Belarus,2016,0.0
+BLR,Belarus,2017,0.0
+BLR,Belarus,2018,0.0
+BLR,Belarus,2019,0.0
+BLZ,Belize,2011,0.0
+BLZ,Belize,2012,0.0
+BLZ,Belize,2013,0.0
+BLZ,Belize,2014,0.0
+BLZ,Belize,2015,0.0
+BLZ,Belize,2016,0.0
+BLZ,Belize,2017,0.0
+BLZ,Belize,2018,0.0
+BLZ,Belize,2019,0.0
+BOL,Bolivia (Plurinational State of),2011,0.0
+BOL,Bolivia (Plurinational State of),2012,0.0
+BOL,Bolivia (Plurinational State of),2013,0.0
+BOL,Bolivia (Plurinational State of),2014,0.0
+BOL,Bolivia (Plurinational State of),2015,0.0
+BOL,Bolivia (Plurinational State of),2016,0.0
+BOL,Bolivia (Plurinational State of),2017,0.0
+BOL,Bolivia (Plurinational State of),2018,0.0
+BOL,Bolivia (Plurinational State of),2019,0.0
+BRA,Brazil,2011,1278075.0
+BRA,Brazil,2012,1261922.0
+BRA,Brazil,2013,1332284.0
+BRA,Brazil,2014,1319478.0
+BRA,Brazil,2015,1370488.0
+BRA,Brazil,2016,1371089.0
+BRA,Brazil,2017,1375168.0
+BRA,Brazil,2018,1389873.0
+BRA,Brazil,2019,1433989.0
+BRB,Barbados,2011,0.0
+BRB,Barbados,2012,0.0
+BRB,Barbados,2013,0.0
+BRB,Barbados,2014,0.0
+BRB,Barbados,2015,0.0
+BRB,Barbados,2016,0.0
+BRB,Barbados,2017,0.0
+BRB,Barbados,2018,0.0
+BRB,Barbados,2019,0.0
+BRN,Brunei Darussalam,2011,2550.0
+BRN,Brunei Darussalam,2012,2439.0
+BRN,Brunei Darussalam,2013,2350.0
+BRN,Brunei Darussalam,2014,2516.0
+BRN,Brunei Darussalam,2015,2942.0
+BRN,Brunei Darussalam,2016,2756.0
+BRN,Brunei Darussalam,2017,2679.0
+BRN,Brunei Darussalam,2018,2319.0
+BRN,Brunei Darussalam,2019,2292.0
+BTN,Bhutan,2011,851.0
+BTN,Bhutan,2012,740.0
+BTN,Bhutan,2013,691.0
+BTN,Bhutan,2014,574.0
+BTN,Bhutan,2015,586.0
+BTN,Bhutan,2016,532.0
+BTN,Bhutan,2017,550.0
+BTN,Bhutan,2018,531.0
+BTN,Bhutan,2019,477.0
+BWA,Botswana,2011,0.0
+BWA,Botswana,2012,0.0
+BWA,Botswana,2013,0.0
+BWA,Botswana,2014,0.0
+BWA,Botswana,2015,0.0
+BWA,Botswana,2016,0.0
+BWA,Botswana,2017,0.0
+BWA,Botswana,2018,0.0
+BWA,Botswana,2019,0.0
+C?te d'Ivoire,C?te d'Ivoire,2011,0.0
+C?te d'Ivoire,C?te d'Ivoire,2012,0.0
+C?te d'Ivoire,C?te d'Ivoire,2013,0.0
+C?te d'Ivoire,C?te d'Ivoire,2014,0.0
+C?te d'Ivoire,C?te d'Ivoire,2015,0.0
+C?te d'Ivoire,C?te d'Ivoire,2016,0.0
+C?te d'Ivoire,C?te d'Ivoire,2017,0.0
+C?te d'Ivoire,C?te d'Ivoire,2018,0.0
+C?te d'Ivoire,C?te d'Ivoire,2019,0.0
+CAF,Central African Republic,2011,0.0
+CAF,Central African Republic,2012,0.0
+CAF,Central African Republic,2013,0.0
+CAF,Central African Republic,2014,0.0
+CAF,Central African Republic,2015,0.0
+CAF,Central African Republic,2016,0.0
+CAF,Central African Republic,2017,0.0
+CAF,Central African Republic,2018,0.0
+CAF,Central African Republic,2019,0.0
+CAN,Canada,2011,0.0
+CAN,Canada,2012,0.0
+CAN,Canada,2013,0.0
+CAN,Canada,2014,0.0
+CAN,Canada,2015,0.0
+CAN,Canada,2016,0.0
+CAN,Canada,2017,0.0
+CAN,Canada,2018,0.0
+CAN,Canada,2019,0.0
+CHE,Switzerland,2011,0.0
+CHE,Switzerland,2012,0.0
+CHE,Switzerland,2013,0.0
+CHE,Switzerland,2014,0.0
+CHE,Switzerland,2015,0.0
+CHE,Switzerland,2016,0.0
+CHE,Switzerland,2017,0.0
+CHE,Switzerland,2018,0.0
+CHE,Switzerland,2019,0.0
+CHL,Chile,2011,0.0
+CHL,Chile,2012,0.0
+CHL,Chile,2013,0.0
+CHL,Chile,2014,0.0
+CHL,Chile,2015,0.0
+CHL,Chile,2016,0.0
+CHL,Chile,2017,0.0
+CHL,Chile,2018,0.0
+CHL,Chile,2019,0.0
+CHN,China,2011,28156124.0
+CHN,China,2012,27415677.0
+CHN,China,2013,26960757.0
+CHN,China,2014,26960091.0
+CHN,China,2015,27024579.0
+CHN,China,2016,27169986.0
+CHN,China,2017,26505809.0
+CHN,China,2018,27118610.0
+CHN,China,2019,27382396.0
+CMR,Cameroon,2011,0.0
+CMR,Cameroon,2012,0.0
+CMR,Cameroon,2013,0.0
+CMR,Cameroon,2014,0.0
+CMR,Cameroon,2015,0.0
+CMR,Cameroon,2016,0.0
+CMR,Cameroon,2017,0.0
+CMR,Cameroon,2018,0.0
+CMR,Cameroon,2019,0.0
+COD,Democratic Republic of the Congo,2011,0.0
+COD,Democratic Republic of the Congo,2012,0.0
+COD,Democratic Republic of the Congo,2013,0.0
+COD,Democratic Republic of the Congo,2014,0.0
+COD,Democratic Republic of the Congo,2015,0.0
+COD,Democratic Republic of the Congo,2016,0.0
+COD,Democratic Republic of the Congo,2017,0.0
+COD,Democratic Republic of the Congo,2018,0.0
+COD,Democratic Republic of the Congo,2019,0.0
+COG,Congo,2011,0.0
+COG,Congo,2012,0.0
+COG,Congo,2013,0.0
+COG,Congo,2014,0.0
+COG,Congo,2015,0.0
+COG,Congo,2016,0.0
+COG,Congo,2017,0.0
+COG,Congo,2018,0.0
+COG,Congo,2019,0.0
+COK,Cook Islands,2011,0.0
+COK,Cook Islands,2012,0.0
+COK,Cook Islands,2013,0.0
+COK,Cook Islands,2014,0.0
+COK,Cook Islands,2015,0.0
+COK,Cook Islands,2016,0.0
+COK,Cook Islands,2017,0.0
+COK,Cook Islands,2018,0.0
+COK,Cook Islands,2019,0.0
+COL,Colombia,2011,218352.0
+COL,Colombia,2012,218352.0
+COL,Colombia,2013,218352.0
+COL,Colombia,2014,218352.0
+COL,Colombia,2015,234994.0
+COL,Colombia,2016,248951.0
+COL,Colombia,2017,292607.0
+COL,Colombia,2018,459086.0
+COL,Colombia,2019,544238.0
+COM,Comoros,2011,0.0
+COM,Comoros,2012,0.0
+COM,Comoros,2013,0.0
+COM,Comoros,2014,0.0
+COM,Comoros,2015,0.0
+COM,Comoros,2016,0.0
+COM,Comoros,2017,0.0
+COM,Comoros,2018,0.0
+COM,Comoros,2019,0.0
+CPV,Cabo Verde,2011,0.0
+CPV,Cabo Verde,2012,0.0
+CPV,Cabo Verde,2013,0.0
+CPV,Cabo Verde,2014,0.0
+CPV,Cabo Verde,2015,0.0
+CPV,Cabo Verde,2016,0.0
+CPV,Cabo Verde,2017,0.0
+CPV,Cabo Verde,2018,0.0
+CPV,Cabo Verde,2019,0.0
+CRI,Costa Rica,2011,0.0
+CRI,Costa Rica,2012,0.0
+CRI,Costa Rica,2013,0.0
+CRI,Costa Rica,2014,0.0
+CRI,Costa Rica,2015,0.0
+CRI,Costa Rica,2016,0.0
+CRI,Costa Rica,2017,0.0
+CRI,Costa Rica,2018,0.0
+CRI,Costa Rica,2019,0.0
+CUB,Cuba,2011,0.0
+CUB,Cuba,2012,0.0
+CUB,Cuba,2013,0.0
+CUB,Cuba,2014,0.0
+CUB,Cuba,2015,0.0
+CUB,Cuba,2016,0.0
+CUB,Cuba,2017,0.0
+CUB,Cuba,2018,0.0
+CUB,Cuba,2019,0.0
+CYP,Cyprus,2011,0.0
+CYP,Cyprus,2012,0.0
+CYP,Cyprus,2013,0.0
+CYP,Cyprus,2014,0.0
+CYP,Cyprus,2015,0.0
+CYP,Cyprus,2016,0.0
+CYP,Cyprus,2017,0.0
+CYP,Cyprus,2018,0.0
+CYP,Cyprus,2019,0.0
+CZE,Czechia,2011,0.0
+CZE,Czechia,2012,0.0
+CZE,Czechia,2013,0.0
+CZE,Czechia,2014,0.0
+CZE,Czechia,2015,0.0
+CZE,Czechia,2016,0.0
+CZE,Czechia,2017,0.0
+CZE,Czechia,2018,0.0
+CZE,Czechia,2019,0.0
+"China, Taiwan Province of","China, Taiwan Province of",2011,3844.0
+"China, Taiwan Province of","China, Taiwan Province of",2012,3627.0
+"China, Taiwan Province of","China, Taiwan Province of",2013,3177.0
+"China, Taiwan Province of","China, Taiwan Province of",2014,2511.0
+"China, Taiwan Province of","China, Taiwan Province of",2015,2437.0
+"China, Taiwan Province of","China, Taiwan Province of",2016,2311.0
+"China, Taiwan Province of","China, Taiwan Province of",2017,2037.0
+"China, Taiwan Province of","China, Taiwan Province of",2018,2057.0
+"China, Taiwan Province of","China, Taiwan Province of",2019,1972.0
+"China, mainland","China, mainland",2011,28152000.0
+"China, mainland","China, mainland",2012,27411750.0
+"China, mainland","China, mainland",2013,26957280.0
+"China, mainland","China, mainland",2014,26957280.0
+"China, mainland","China, mainland",2015,27021840.0
+"China, mainland","China, mainland",2016,27167370.0
+"China, mainland","China, mainland",2017,26503470.0
+"China, mainland","China, mainland",2018,27116250.0
+"China, mainland","China, mainland",2019,27380120.0
+DEU,Germany,2011,4574.0
+DEU,Germany,2012,4975.0
+DEU,Germany,2013,5475.0
+DEU,Germany,2014,6507.0
+DEU,Germany,2015,7972.0
+DEU,Germany,2016,7972.0
+DEU,Germany,2017,8674.0
+DEU,Germany,2018,9610.0
+DEU,Germany,2019,10110.0
+DJI,Djibouti,2011,0.0
+DJI,Djibouti,2012,0.0
+DJI,Djibouti,2013,0.0
+DJI,Djibouti,2014,0.0
+DJI,Djibouti,2015,0.0
+DJI,Djibouti,2016,0.0
+DJI,Djibouti,2017,0.0
+DJI,Djibouti,2018,0.0
+DJI,Djibouti,2019,0.0
+DMA,Dominica,2011,0.0
+DMA,Dominica,2012,0.0
+DMA,Dominica,2013,0.0
+DMA,Dominica,2014,0.0
+DMA,Dominica,2015,0.0
+DMA,Dominica,2016,0.0
+DMA,Dominica,2017,0.0
+DMA,Dominica,2018,0.0
+DMA,Dominica,2019,0.0
+DNK,Denmark,2011,0.0
+DNK,Denmark,2012,0.0
+DNK,Denmark,2013,0.0
+DNK,Denmark,2014,0.0
+DNK,Denmark,2015,0.0
+DNK,Denmark,2016,0.0
+DNK,Denmark,2017,0.0
+DNK,Denmark,2018,0.0
+DNK,Denmark,2019,0.0
+DOM,Dominican Republic,2011,0.0
+DOM,Dominican Republic,2012,0.0
+DOM,Dominican Republic,2013,0.0
+DOM,Dominican Republic,2014,0.0
+DOM,Dominican Republic,2015,0.0
+DOM,Dominican Republic,2016,0.0
+DOM,Dominican Republic,2017,0.0
+DOM,Dominican Republic,2018,0.0
+DOM,Dominican Republic,2019,0.0
+DZA,Algeria,2011,0.0
+DZA,Algeria,2012,0.0
+DZA,Algeria,2013,0.0
+DZA,Algeria,2014,0.0
+DZA,Algeria,2015,0.0
+DZA,Algeria,2016,0.0
+DZA,Algeria,2017,0.0
+DZA,Algeria,2018,0.0
+DZA,Algeria,2019,0.0
+ECU,Ecuador,2011,0.0
+ECU,Ecuador,2012,0.0
+ECU,Ecuador,2013,0.0
+ECU,Ecuador,2014,0.0
+ECU,Ecuador,2015,0.0
+ECU,Ecuador,2016,0.0
+ECU,Ecuador,2017,0.0
+ECU,Ecuador,2018,0.0
+ECU,Ecuador,2019,0.0
+EGY,Egypt,2011,3983167.0
+EGY,Egypt,2012,4164928.0
+EGY,Egypt,2013,3915247.0
+EGY,Egypt,2014,3949262.0
+EGY,Egypt,2015,3701559.0
+EGY,Egypt,2016,3436816.0
+EGY,Egypt,2017,3432581.0
+EGY,Egypt,2018,3445177.0
+EGY,Egypt,2019,1427000.0
+ERI,Eritrea,2011,0.0
+ERI,Eritrea,2012,0.0
+ERI,Eritrea,2013,0.0
+ERI,Eritrea,2014,0.0
+ERI,Eritrea,2015,0.0
+ERI,Eritrea,2016,0.0
+ERI,Eritrea,2017,0.0
+ERI,Eritrea,2018,0.0
+ERI,Eritrea,2019,0.0
+ESP,Spain,2011,1130.0
+ESP,Spain,2012,1130.0
+ESP,Spain,2013,1130.0
+ESP,Spain,2014,1130.0
+ESP,Spain,2015,1130.0
+ESP,Spain,2016,1130.0
+ESP,Spain,2017,1130.0
+ESP,Spain,2018,1130.0
+ESP,Spain,2019,970.0
+EST,Estonia,2011,0.0
+EST,Estonia,2012,0.0
+EST,Estonia,2013,0.0
+EST,Estonia,2014,0.0
+EST,Estonia,2015,0.0
+EST,Estonia,2016,0.0
+EST,Estonia,2017,0.0
+EST,Estonia,2018,0.0
+EST,Estonia,2019,0.0
+ETH,Ethiopia,2011,0.0
+ETH,Ethiopia,2012,0.0
+ETH,Ethiopia,2013,0.0
+ETH,Ethiopia,2014,0.0
+ETH,Ethiopia,2015,0.0
+ETH,Ethiopia,2016,0.0
+ETH,Ethiopia,2017,0.0
+ETH,Ethiopia,2018,0.0
+ETH,Ethiopia,2019,0.0
+FIN,Finland,2011,0.0
+FIN,Finland,2012,0.0
+FIN,Finland,2013,0.0
+FIN,Finland,2014,0.0
+FIN,Finland,2015,0.0
+FIN,Finland,2016,0.0
+FIN,Finland,2017,0.0
+FIN,Finland,2018,0.0
+FIN,Finland,2019,0.0
+FJI,Fiji,2011,0.0
+FJI,Fiji,2012,0.0
+FJI,Fiji,2013,0.0
+FJI,Fiji,2014,0.0
+FJI,Fiji,2015,0.0
+FJI,Fiji,2016,0.0
+FJI,Fiji,2017,0.0
+FJI,Fiji,2018,0.0
+FJI,Fiji,2019,0.0
+FRA,France,2011,0.0
+FRA,France,2012,0.0
+FRA,France,2013,0.0
+FRA,France,2014,0.0
+FRA,France,2015,0.0
+FRA,France,2016,0.0
+FRA,France,2017,0.0
+FRA,France,2018,0.0
+FRA,France,2019,0.0
+FRO,Faroe Islands,2011,0.0
+FRO,Faroe Islands,2012,0.0
+FRO,Faroe Islands,2013,0.0
+FRO,Faroe Islands,2014,0.0
+FRO,Faroe Islands,2015,0.0
+FRO,Faroe Islands,2016,0.0
+FRO,Faroe Islands,2017,0.0
+FRO,Faroe Islands,2018,0.0
+FRO,Faroe Islands,2019,0.0
+FSM,Micronesia (Federated States of),2011,155.0
+FSM,Micronesia (Federated States of),2012,155.0
+FSM,Micronesia (Federated States of),2013,160.0
+FSM,Micronesia (Federated States of),2014,160.0
+FSM,Micronesia (Federated States of),2015,161.0
+FSM,Micronesia (Federated States of),2016,162.0
+FSM,Micronesia (Federated States of),2017,168.0
+FSM,Micronesia (Federated States of),2018,164.0
+FSM,Micronesia (Federated States of),2019,165.0
+GAB,Gabon,2011,0.0
+GAB,Gabon,2012,0.0
+GAB,Gabon,2013,0.0
+GAB,Gabon,2014,0.0
+GAB,Gabon,2015,0.0
+GAB,Gabon,2016,0.0
+GAB,Gabon,2017,0.0
+GAB,Gabon,2018,0.0
+GAB,Gabon,2019,0.0
+GEO,Georgia,2011,17100.0
+GEO,Georgia,2012,17200.0
+GEO,Georgia,2013,18200.0
+GEO,Georgia,2014,19300.0
+GEO,Georgia,2015,19300.0
+GEO,Georgia,2016,18822.0
+GEO,Georgia,2017,18449.0
+GEO,Georgia,2018,18510.0
+GEO,Georgia,2019,18438.0
+GHA,Ghana,2011,0.0
+GHA,Ghana,2012,0.0
+GHA,Ghana,2013,0.0
+GHA,Ghana,2014,0.0
+GHA,Ghana,2015,0.0
+GHA,Ghana,2016,0.0
+GHA,Ghana,2017,0.0
+GHA,Ghana,2018,0.0
+GHA,Ghana,2019,0.0
+GIN,Guinea,2011,0.0
+GIN,Guinea,2012,0.0
+GIN,Guinea,2013,0.0
+GIN,Guinea,2014,0.0
+GIN,Guinea,2015,0.0
+GIN,Guinea,2016,0.0
+GIN,Guinea,2017,0.0
+GIN,Guinea,2018,0.0
+GIN,Guinea,2019,0.0
+GMB,Gambia,2011,0.0
+GMB,Gambia,2012,0.0
+GMB,Gambia,2013,0.0
+GMB,Gambia,2014,0.0
+GMB,Gambia,2015,0.0
+GMB,Gambia,2016,0.0
+GMB,Gambia,2017,0.0
+GMB,Gambia,2018,0.0
+GMB,Gambia,2019,0.0
+GNB,Guinea-Bissau,2011,0.0
+GNB,Guinea-Bissau,2012,0.0
+GNB,Guinea-Bissau,2013,0.0
+GNB,Guinea-Bissau,2014,0.0
+GNB,Guinea-Bissau,2015,0.0
+GNB,Guinea-Bissau,2016,0.0
+GNB,Guinea-Bissau,2017,0.0
+GNB,Guinea-Bissau,2018,0.0
+GNB,Guinea-Bissau,2019,0.0
+GNQ,Equatorial Guinea,2011,0.0
+GNQ,Equatorial Guinea,2012,0.0
+GNQ,Equatorial Guinea,2013,0.0
+GNQ,Equatorial Guinea,2014,0.0
+GNQ,Equatorial Guinea,2015,0.0
+GNQ,Equatorial Guinea,2016,0.0
+GNQ,Equatorial Guinea,2017,0.0
+GNQ,Equatorial Guinea,2018,0.0
+GNQ,Equatorial Guinea,2019,0.0
+GRC,Greece,2011,1847.0
+GRC,Greece,2012,2137.0
+GRC,Greece,2013,2167.0
+GRC,Greece,2014,2339.0
+GRC,Greece,2015,5200.0
+GRC,Greece,2016,4533.0
+GRC,Greece,2017,4583.0
+GRC,Greece,2018,4000.0
+GRC,Greece,2019,4000.0
+GRD,Grenada,2011,0.0
+GRD,Grenada,2012,0.0
+GRD,Grenada,2013,0.0
+GRD,Grenada,2014,0.0
+GRD,Grenada,2015,0.0
+GRD,Grenada,2016,0.0
+GRD,Grenada,2017,0.0
+GRD,Grenada,2018,0.0
+GRD,Grenada,2019,0.0
+GTM,Guatemala,2011,0.0
+GTM,Guatemala,2012,0.0
+GTM,Guatemala,2013,0.0
+GTM,Guatemala,2014,0.0
+GTM,Guatemala,2015,0.0
+GTM,Guatemala,2016,0.0
+GTM,Guatemala,2017,0.0
+GTM,Guatemala,2018,0.0
+GTM,Guatemala,2019,0.0
+GUY,Guyana,2011,0.0
+GUY,Guyana,2012,0.0
+GUY,Guyana,2013,0.0
+GUY,Guyana,2014,0.0
+GUY,Guyana,2015,0.0
+GUY,Guyana,2016,0.0
+GUY,Guyana,2017,0.0
+GUY,Guyana,2018,0.0
+GUY,Guyana,2019,0.0
+HKG,"China, Hong Kong SAR",2011,280.0
+HKG,"China, Hong Kong SAR",2012,300.0
+HKG,"China, Hong Kong SAR",2013,300.0
+HKG,"China, Hong Kong SAR",2014,300.0
+HKG,"China, Hong Kong SAR",2015,302.0
+HKG,"China, Hong Kong SAR",2016,305.0
+HKG,"China, Hong Kong SAR",2017,302.0
+HKG,"China, Hong Kong SAR",2018,303.0
+HKG,"China, Hong Kong SAR",2019,304.0
+HND,Honduras,2011,0.0
+HND,Honduras,2012,0.0
+HND,Honduras,2013,0.0
+HND,Honduras,2014,0.0
+HND,Honduras,2015,0.0
+HND,Honduras,2016,0.0
+HND,Honduras,2017,0.0
+HND,Honduras,2018,0.0
+HND,Honduras,2019,0.0
+HRV,Croatia,2011,0.0
+HRV,Croatia,2012,0.0
+HRV,Croatia,2013,0.0
+HRV,Croatia,2014,0.0
+HRV,Croatia,2015,0.0
+HRV,Croatia,2016,0.0
+HRV,Croatia,2017,0.0
+HRV,Croatia,2018,0.0
+HRV,Croatia,2019,0.0
+HTI,Haiti,2011,0.0
+HTI,Haiti,2012,0.0
+HTI,Haiti,2013,0.0
+HTI,Haiti,2014,0.0
+HTI,Haiti,2015,0.0
+HTI,Haiti,2016,0.0
+HTI,Haiti,2017,0.0
+HTI,Haiti,2018,0.0
+HTI,Haiti,2019,0.0
+HUN,Hungary,2011,7000.0
+HUN,Hungary,2012,7000.0
+HUN,Hungary,2013,7000.0
+HUN,Hungary,2014,7000.0
+HUN,Hungary,2015,7000.0
+HUN,Hungary,2016,7000.0
+HUN,Hungary,2017,7000.0
+HUN,Hungary,2018,7000.0
+HUN,Hungary,2019,6000.0
+IDN,Indonesia,2011,1305078.0
+IDN,Indonesia,2012,1438294.0
+IDN,Indonesia,2013,1109636.0
+IDN,Indonesia,2014,1335147.0
+IDN,Indonesia,2015,1346917.0
+IDN,Indonesia,2016,1355124.0
+IDN,Indonesia,2017,1321904.0
+IDN,Indonesia,2018,894278.0
+IDN,Indonesia,2019,1133815.0
+IND,India,2011,108063000.0
+IND,India,2012,108702122.0
+IND,India,2013,109400000.0
+IND,India,2014,110000000.0
+IND,India,2015,110313638.0
+IND,India,2016,110361500.0
+IND,India,2017,110182537.0
+IND,India,2018,110048310.0
+IND,India,2019,109851678.0
+IRL,Ireland,2011,0.0
+IRL,Ireland,2012,0.0
+IRL,Ireland,2013,0.0
+IRL,Ireland,2014,0.0
+IRL,Ireland,2015,0.0
+IRL,Ireland,2016,0.0
+IRL,Ireland,2017,0.0
+IRL,Ireland,2018,0.0
+IRL,Ireland,2019,0.0
+IRN,Iran (Islamic Republic of),2011,197000.0
+IRN,Iran (Islamic Republic of),2012,199000.0
+IRN,Iran (Islamic Republic of),2013,202000.0
+IRN,Iran (Islamic Republic of),2014,106517.0
+IRN,Iran (Islamic Republic of),2015,101056.0
+IRN,Iran (Islamic Republic of),2016,125143.0
+IRN,Iran (Islamic Republic of),2017,126765.0
+IRN,Iran (Islamic Republic of),2018,139073.0
+IRN,Iran (Islamic Republic of),2019,147632.0
+IRQ,Iraq,2011,302000.0
+IRQ,Iraq,2012,312000.0
+IRQ,Iraq,2013,180662.0
+IRQ,Iraq,2014,187401.0
+IRQ,Iraq,2015,194391.0
+IRQ,Iraq,2016,201642.0
+IRQ,Iraq,2017,209163.0
+IRQ,Iraq,2018,216965.0
+IRQ,Iraq,2019,225058.0
+ISL,Iceland,2011,0.0
+ISL,Iceland,2012,0.0
+ISL,Iceland,2013,0.0
+ISL,Iceland,2014,0.0
+ISL,Iceland,2015,0.0
+ISL,Iceland,2016,0.0
+ISL,Iceland,2017,0.0
+ISL,Iceland,2018,0.0
+ISL,Iceland,2019,0.0
+ISR,Israel,2011,0.0
+ISR,Israel,2012,0.0
+ISR,Israel,2013,0.0
+ISR,Israel,2014,0.0
+ISR,Israel,2015,0.0
+ISR,Israel,2016,0.0
+ISR,Israel,2017,0.0
+ISR,Israel,2018,0.0
+ISR,Israel,2019,0.0
+ITA,Italy,2011,354402.0
+ITA,Italy,2012,348861.0
+ITA,Italy,2013,402659.0
+ITA,Italy,2014,369352.0
+ITA,Italy,2015,374458.0
+ITA,Italy,2016,385121.0
+ITA,Italy,2017,400792.0
+ITA,Italy,2018,400790.0
+ITA,Italy,2019,402290.0
+JAM,Jamaica,2011,0.0
+JAM,Jamaica,2012,0.0
+JAM,Jamaica,2013,0.0
+JAM,Jamaica,2014,0.0
+JAM,Jamaica,2015,0.0
+JAM,Jamaica,2016,0.0
+JAM,Jamaica,2017,0.0
+JAM,Jamaica,2018,0.0
+JAM,Jamaica,2019,0.0
+JOR,Jordan,2011,100.0
+JOR,Jordan,2012,100.0
+JOR,Jordan,2013,100.0
+JOR,Jordan,2014,100.0
+JOR,Jordan,2015,99.0
+JOR,Jordan,2016,98.0
+JOR,Jordan,2017,95.0
+JOR,Jordan,2018,96.0
+JOR,Jordan,2019,95.0
+JPN,Japan,2011,0.0
+JPN,Japan,2012,0.0
+JPN,Japan,2013,0.0
+JPN,Japan,2014,0.0
+JPN,Japan,2015,0.0
+JPN,Japan,2016,0.0
+JPN,Japan,2017,0.0
+JPN,Japan,2018,0.0
+JPN,Japan,2019,0.0
+KAZ,Kazakhstan,2011,10000.0
+KAZ,Kazakhstan,2012,10000.0
+KAZ,Kazakhstan,2013,10000.0
+KAZ,Kazakhstan,2014,10000.0
+KAZ,Kazakhstan,2015,10000.0
+KAZ,Kazakhstan,2016,10067.0
+KAZ,Kazakhstan,2017,10228.0
+KAZ,Kazakhstan,2018,10293.0
+KAZ,Kazakhstan,2019,10343.0
+KEN,Kenya,2011,0.0
+KEN,Kenya,2012,0.0
+KEN,Kenya,2013,0.0
+KEN,Kenya,2014,0.0
+KEN,Kenya,2015,0.0
+KEN,Kenya,2016,0.0
+KEN,Kenya,2017,0.0
+KEN,Kenya,2018,0.0
+KEN,Kenya,2019,0.0
+KGZ,Kyrgyzstan,2011,0.0
+KGZ,Kyrgyzstan,2012,0.0
+KGZ,Kyrgyzstan,2013,0.0
+KGZ,Kyrgyzstan,2014,0.0
+KGZ,Kyrgyzstan,2015,0.0
+KGZ,Kyrgyzstan,2016,0.0
+KGZ,Kyrgyzstan,2017,0.0
+KGZ,Kyrgyzstan,2018,0.0
+KGZ,Kyrgyzstan,2019,0.0
+KHM,Cambodia,2011,689829.0
+KHM,Cambodia,2012,680000.0
+KHM,Cambodia,2013,676000.0
+KHM,Cambodia,2014,680000.0
+KHM,Cambodia,2015,682000.0
+KHM,Cambodia,2016,680574.0
+KHM,Cambodia,2017,648603.0
+KHM,Cambodia,2018,664966.0
+KHM,Cambodia,2019,653583.0
+KIR,Kiribati,2011,0.0
+KIR,Kiribati,2012,0.0
+KIR,Kiribati,2013,0.0
+KIR,Kiribati,2014,0.0
+KIR,Kiribati,2015,0.0
+KIR,Kiribati,2016,0.0
+KIR,Kiribati,2017,0.0
+KIR,Kiribati,2018,0.0
+KIR,Kiribati,2019,0.0
+KNA,Saint Kitts and Nevis,2011,0.0
+KNA,Saint Kitts and Nevis,2012,0.0
+KNA,Saint Kitts and Nevis,2013,0.0
+KNA,Saint Kitts and Nevis,2014,0.0
+KNA,Saint Kitts and Nevis,2015,0.0
+KNA,Saint Kitts and Nevis,2016,0.0
+KNA,Saint Kitts and Nevis,2017,0.0
+KNA,Saint Kitts and Nevis,2018,0.0
+KNA,Saint Kitts and Nevis,2019,0.0
+KOR,Republic of Korea,2011,0.0
+KOR,Republic of Korea,2012,0.0
+KOR,Republic of Korea,2013,0.0
+KOR,Republic of Korea,2014,0.0
+KOR,Republic of Korea,2015,0.0
+KOR,Republic of Korea,2016,0.0
+KOR,Republic of Korea,2017,0.0
+KOR,Republic of Korea,2018,0.0
+KOR,Republic of Korea,2019,0.0
+KWT,Kuwait,2011,0.0
+KWT,Kuwait,2012,0.0
+KWT,Kuwait,2013,0.0
+KWT,Kuwait,2014,0.0
+KWT,Kuwait,2015,0.0
+KWT,Kuwait,2016,0.0
+KWT,Kuwait,2017,0.0
+KWT,Kuwait,2018,0.0
+KWT,Kuwait,2019,0.0
+LAO,Lao People's Democratic Republic,2011,1197000.0
+LAO,Lao People's Democratic Republic,2012,1188000.0
+LAO,Lao People's Democratic Republic,2013,1190000.0
+LAO,Lao People's Democratic Republic,2014,1153000.0
+LAO,Lao People's Democratic Republic,2015,1165000.0
+LAO,Lao People's Democratic Republic,2016,1177000.0
+LAO,Lao People's Democratic Republic,2017,1189000.0
+LAO,Lao People's Democratic Republic,2018,1200040.0
+LAO,Lao People's Democratic Republic,2019,1222000.0
+LBN,Lebanon,2011,0.0
+LBN,Lebanon,2012,0.0
+LBN,Lebanon,2013,0.0
+LBN,Lebanon,2014,0.0
+LBN,Lebanon,2015,0.0
+LBN,Lebanon,2016,0.0
+LBN,Lebanon,2017,0.0
+LBN,Lebanon,2018,0.0
+LBN,Lebanon,2019,0.0
+LBR,Liberia,2011,0.0
+LBR,Liberia,2012,0.0
+LBR,Liberia,2013,0.0
+LBR,Liberia,2014,0.0
+LBR,Liberia,2015,0.0
+LBR,Liberia,2016,0.0
+LBR,Liberia,2017,0.0
+LBR,Liberia,2018,0.0
+LBR,Liberia,2019,0.0
+LBY,Libya,2011,0.0
+LBY,Libya,2012,0.0
+LBY,Libya,2013,0.0
+LBY,Libya,2014,0.0
+LBY,Libya,2015,0.0
+LBY,Libya,2016,0.0
+LBY,Libya,2017,0.0
+LBY,Libya,2018,0.0
+LBY,Libya,2019,0.0
+LCA,Saint Lucia,2011,0.0
+LCA,Saint Lucia,2012,0.0
+LCA,Saint Lucia,2013,0.0
+LCA,Saint Lucia,2014,0.0
+LCA,Saint Lucia,2015,0.0
+LCA,Saint Lucia,2016,0.0
+LCA,Saint Lucia,2017,0.0
+LCA,Saint Lucia,2018,0.0
+LCA,Saint Lucia,2019,0.0
+LKA,Sri Lanka,2011,405120.0
+LKA,Sri Lanka,2012,414630.0
+LKA,Sri Lanka,2013,380760.0
+LKA,Sri Lanka,2014,320690.0
+LKA,Sri Lanka,2015,323080.0
+LKA,Sri Lanka,2016,266750.0
+LKA,Sri Lanka,2017,283550.0
+LKA,Sri Lanka,2018,308790.0
+LKA,Sri Lanka,2019,298430.0
+LSO,Lesotho,2011,0.0
+LSO,Lesotho,2012,0.0
+LSO,Lesotho,2013,0.0
+LSO,Lesotho,2014,0.0
+LSO,Lesotho,2015,0.0
+LSO,Lesotho,2016,0.0
+LSO,Lesotho,2017,0.0
+LSO,Lesotho,2018,0.0
+LSO,Lesotho,2019,0.0
+LTU,Lithuania,2011,0.0
+LTU,Lithuania,2012,0.0
+LTU,Lithuania,2013,0.0
+LTU,Lithuania,2014,0.0
+LTU,Lithuania,2015,0.0
+LTU,Lithuania,2016,0.0
+LTU,Lithuania,2017,0.0
+LTU,Lithuania,2018,0.0
+LTU,Lithuania,2019,0.0
+LUX,Luxembourg,2011,0.0
+LUX,Luxembourg,2012,0.0
+LUX,Luxembourg,2013,0.0
+LUX,Luxembourg,2014,0.0
+LUX,Luxembourg,2015,0.0
+LUX,Luxembourg,2016,0.0
+LUX,Luxembourg,2017,0.0
+LUX,Luxembourg,2018,0.0
+LUX,Luxembourg,2019,0.0
+LVA,Latvia,2011,0.0
+LVA,Latvia,2012,0.0
+LVA,Latvia,2013,0.0
+LVA,Latvia,2014,0.0
+LVA,Latvia,2015,0.0
+LVA,Latvia,2016,0.0
+LVA,Latvia,2017,0.0
+LVA,Latvia,2018,0.0
+LVA,Latvia,2019,0.0
+MAC,"China, Macao SAR",2011,0.0
+MAC,"China, Macao SAR",2012,0.0
+MAC,"China, Macao SAR",2013,0.0
+MAC,"China, Macao SAR",2014,0.0
+MAC,"China, Macao SAR",2015,0.0
+MAC,"China, Macao SAR",2016,0.0
+MAC,"China, Macao SAR",2017,0.0
+MAC,"China, Macao SAR",2018,0.0
+MAC,"China, Macao SAR",2019,0.0
+MAR,Morocco,2011,0.0
+MAR,Morocco,2012,0.0
+MAR,Morocco,2013,0.0
+MAR,Morocco,2014,0.0
+MAR,Morocco,2015,0.0
+MAR,Morocco,2016,0.0
+MAR,Morocco,2017,0.0
+MAR,Morocco,2018,0.0
+MAR,Morocco,2019,0.0
+MDA,Republic of Moldova,2011,0.0
+MDA,Republic of Moldova,2012,0.0
+MDA,Republic of Moldova,2013,0.0
+MDA,Republic of Moldova,2014,0.0
+MDA,Republic of Moldova,2015,0.0
+MDA,Republic of Moldova,2016,0.0
+MDA,Republic of Moldova,2017,0.0
+MDA,Republic of Moldova,2018,0.0
+MDA,Republic of Moldova,2019,0.0
+MDG,Madagascar,2011,0.0
+MDG,Madagascar,2012,0.0
+MDG,Madagascar,2013,0.0
+MDG,Madagascar,2014,0.0
+MDG,Madagascar,2015,0.0
+MDG,Madagascar,2016,0.0
+MDG,Madagascar,2017,0.0
+MDG,Madagascar,2018,0.0
+MDG,Madagascar,2019,0.0
+MEX,Mexico,2011,0.0
+MEX,Mexico,2012,0.0
+MEX,Mexico,2013,0.0
+MEX,Mexico,2014,0.0
+MEX,Mexico,2015,0.0
+MEX,Mexico,2016,0.0
+MEX,Mexico,2017,0.0
+MEX,Mexico,2018,0.0
+MEX,Mexico,2019,0.0
+MKD,North Macedonia,2011,640.0
+MKD,North Macedonia,2012,650.0
+MKD,North Macedonia,2013,650.0
+MKD,North Macedonia,2014,650.0
+MKD,North Macedonia,2015,644.0
+MKD,North Macedonia,2016,635.0
+MKD,North Macedonia,2017,622.0
+MKD,North Macedonia,2018,627.0
+MKD,North Macedonia,2019,625.0
+MLI,Mali,2011,0.0
+MLI,Mali,2012,0.0
+MLI,Mali,2013,0.0
+MLI,Mali,2014,0.0
+MLI,Mali,2015,0.0
+MLI,Mali,2016,0.0
+MLI,Mali,2017,0.0
+MLI,Mali,2018,0.0
+MLI,Mali,2019,0.0
+MLT,Malta,2011,0.0
+MLT,Malta,2012,0.0
+MLT,Malta,2013,0.0
+MLT,Malta,2014,0.0
+MLT,Malta,2015,0.0
+MLT,Malta,2016,0.0
+MLT,Malta,2017,0.0
+MLT,Malta,2018,0.0
+MLT,Malta,2019,0.0
+MMR,Myanmar,2011,3096887.0
+MMR,Myanmar,2012,3211000.0
+MMR,Myanmar,2013,3317766.0
+MMR,Myanmar,2014,3422374.0
+MMR,Myanmar,2015,3531898.0
+MMR,Myanmar,2016,3641079.0
+MMR,Myanmar,2017,3867966.0
+MMR,Myanmar,2018,3926000.0
+MMR,Myanmar,2019,4022440.0
+MNE,Montenegro,2011,0.0
+MNE,Montenegro,2012,0.0
+MNE,Montenegro,2013,0.0
+MNE,Montenegro,2014,0.0
+MNE,Montenegro,2015,0.0
+MNE,Montenegro,2016,0.0
+MNE,Montenegro,2017,0.0
+MNE,Montenegro,2018,0.0
+MNE,Montenegro,2019,0.0
+MNG,Mongolia,2011,0.0
+MNG,Mongolia,2012,0.0
+MNG,Mongolia,2013,0.0
+MNG,Mongolia,2014,0.0
+MNG,Mongolia,2015,0.0
+MNG,Mongolia,2016,0.0
+MNG,Mongolia,2017,0.0
+MNG,Mongolia,2018,0.0
+MNG,Mongolia,2019,0.0
+MOZ,Mozambique,2011,0.0
+MOZ,Mozambique,2012,0.0
+MOZ,Mozambique,2013,0.0
+MOZ,Mozambique,2014,0.0
+MOZ,Mozambique,2015,0.0
+MOZ,Mozambique,2016,0.0
+MOZ,Mozambique,2017,0.0
+MOZ,Mozambique,2018,0.0
+MOZ,Mozambique,2019,0.0
+MRT,Mauritania,2011,0.0
+MRT,Mauritania,2012,0.0
+MRT,Mauritania,2013,0.0
+MRT,Mauritania,2014,0.0
+MRT,Mauritania,2015,0.0
+MRT,Mauritania,2016,0.0
+MRT,Mauritania,2017,0.0
+MRT,Mauritania,2018,0.0
+MRT,Mauritania,2019,0.0
+MUS,Mauritius,2011,25.0
+MUS,Mauritius,2012,25.0
+MUS,Mauritius,2013,25.0
+MUS,Mauritius,2014,25.0
+MUS,Mauritius,2015,25.0
+MUS,Mauritius,2016,25.0
+MUS,Mauritius,2017,25.0
+MUS,Mauritius,2018,25.0
+MUS,Mauritius,2019,25.0
+MWI,Malawi,2011,0.0
+MWI,Malawi,2012,0.0
+MWI,Malawi,2013,0.0
+MWI,Malawi,2014,0.0
+MWI,Malawi,2015,0.0
+MWI,Malawi,2016,0.0
+MWI,Malawi,2017,0.0
+MWI,Malawi,2018,0.0
+MWI,Malawi,2019,0.0
+MYS,Malaysia,2011,128205.0
+MYS,Malaysia,2012,124985.0
+MYS,Malaysia,2013,123646.0
+MYS,Malaysia,2014,121259.0
+MYS,Malaysia,2015,118569.0
+MYS,Malaysia,2016,119133.0
+MYS,Malaysia,2017,114013.0
+MYS,Malaysia,2018,106988.0
+MYS,Malaysia,2019,101695.0
+NAM,Namibia,2011,0.0
+NAM,Namibia,2012,0.0
+NAM,Namibia,2013,0.0
+NAM,Namibia,2014,0.0
+NAM,Namibia,2015,0.0
+NAM,Namibia,2016,0.0
+NAM,Namibia,2017,0.0
+NAM,Namibia,2018,0.0
+NAM,Namibia,2019,0.0
+NCL,New Caledonia,2011,0.0
+NCL,New Caledonia,2012,0.0
+NCL,New Caledonia,2013,0.0
+NCL,New Caledonia,2014,0.0
+NCL,New Caledonia,2015,0.0
+NCL,New Caledonia,2016,0.0
+NCL,New Caledonia,2017,0.0
+NCL,New Caledonia,2018,0.0
+NCL,New Caledonia,2019,0.0
+NER,Niger,2011,0.0
+NER,Niger,2012,0.0
+NER,Niger,2013,0.0
+NER,Niger,2014,0.0
+NER,Niger,2015,0.0
+NER,Niger,2016,0.0
+NER,Niger,2017,0.0
+NER,Niger,2018,0.0
+NER,Niger,2019,0.0
+NGA,Nigeria,2011,0.0
+NGA,Nigeria,2012,0.0
+NGA,Nigeria,2013,0.0
+NGA,Nigeria,2014,0.0
+NGA,Nigeria,2015,0.0
+NGA,Nigeria,2016,0.0
+NGA,Nigeria,2017,0.0
+NGA,Nigeria,2018,0.0
+NGA,Nigeria,2019,0.0
+NIC,Nicaragua,2011,0.0
+NIC,Nicaragua,2012,0.0
+NIC,Nicaragua,2013,0.0
+NIC,Nicaragua,2014,0.0
+NIC,Nicaragua,2015,0.0
+NIC,Nicaragua,2016,0.0
+NIC,Nicaragua,2017,0.0
+NIC,Nicaragua,2018,0.0
+NIC,Nicaragua,2019,0.0
+NIU,Niue,2011,0.0
+NIU,Niue,2012,0.0
+NIU,Niue,2013,0.0
+NIU,Niue,2014,0.0
+NIU,Niue,2015,0.0
+NIU,Niue,2016,0.0
+NIU,Niue,2017,0.0
+NIU,Niue,2018,0.0
+NIU,Niue,2019,0.0
+NLD,Netherlands,2011,0.0
+NLD,Netherlands,2012,0.0
+NLD,Netherlands,2013,0.0
+NLD,Netherlands,2014,0.0
+NLD,Netherlands,2015,0.0
+NLD,Netherlands,2016,0.0
+NLD,Netherlands,2017,0.0
+NLD,Netherlands,2018,0.0
+NLD,Netherlands,2019,0.0
+NOR,Norway,2011,0.0
+NOR,Norway,2012,0.0
+NOR,Norway,2013,0.0
+NOR,Norway,2014,0.0
+NOR,Norway,2015,0.0
+NOR,Norway,2016,0.0
+NOR,Norway,2017,0.0
+NOR,Norway,2018,0.0
+NOR,Norway,2019,0.0
+NPL,Nepal,2011,4993650.0
+NPL,Nepal,2012,5133139.0
+NPL,Nepal,2013,5241873.0
+NPL,Nepal,2014,5178612.0
+NPL,Nepal,2015,5167737.0
+NPL,Nepal,2016,5168809.0
+NPL,Nepal,2017,5177998.0
+NPL,Nepal,2018,5277819.0
+NPL,Nepal,2019,5308664.0
+NRU,Nauru,2011,0.0
+NRU,Nauru,2012,0.0
+NRU,Nauru,2013,0.0
+NRU,Nauru,2014,0.0
+NRU,Nauru,2015,0.0
+NRU,Nauru,2016,0.0
+NRU,Nauru,2017,0.0
+NRU,Nauru,2018,0.0
+NRU,Nauru,2019,0.0
+NZL,New Zealand,2011,0.0
+NZL,New Zealand,2012,0.0
+NZL,New Zealand,2013,0.0
+NZL,New Zealand,2014,0.0
+NZL,New Zealand,2015,0.0
+NZL,New Zealand,2016,0.0
+NZL,New Zealand,2017,0.0
+NZL,New Zealand,2018,0.0
+NZL,New Zealand,2019,0.0
+OMN,Oman,2011,0.0
+OMN,Oman,2012,0.0
+OMN,Oman,2013,0.0
+OMN,Oman,2014,0.0
+OMN,Oman,2015,0.0
+OMN,Oman,2016,0.0
+OMN,Oman,2017,0.0
+OMN,Oman,2018,0.0
+OMN,Oman,2019,0.0
+PAK,Pakistan,2011,31725000.0
+PAK,Pakistan,2012,32687000.0
+PAK,Pakistan,2013,33555000.0
+PAK,Pakistan,2014,34553000.0
+PAK,Pakistan,2015,35580000.0
+PAK,Pakistan,2016,36600000.0
+PAK,Pakistan,2017,37700000.0
+PAK,Pakistan,2018,38848000.0
+PAK,Pakistan,2019,40002000.0
+PAN,Panama,2011,0.0
+PAN,Panama,2012,0.0
+PAN,Panama,2013,0.0
+PAN,Panama,2014,0.0
+PAN,Panama,2015,0.0
+PAN,Panama,2016,0.0
+PAN,Panama,2017,0.0
+PAN,Panama,2018,0.0
+PAN,Panama,2019,0.0
+PER,Peru,2011,0.0
+PER,Peru,2012,0.0
+PER,Peru,2013,0.0
+PER,Peru,2014,0.0
+PER,Peru,2015,0.0
+PER,Peru,2016,0.0
+PER,Peru,2017,0.0
+PER,Peru,2018,0.0
+PER,Peru,2019,0.0
+PHL,Philippines,2011,3075300.0
+PHL,Philippines,2012,2963800.0
+PHL,Philippines,2013,2912842.0
+PHL,Philippines,2014,2847445.0
+PHL,Philippines,2015,2854838.0
+PHL,Philippines,2016,2877091.0
+PHL,Philippines,2017,2881894.0
+PHL,Philippines,2018,2882655.0
+PHL,Philippines,2019,2873561.0
+PNG,Papua New Guinea,2011,0.0
+PNG,Papua New Guinea,2012,0.0
+PNG,Papua New Guinea,2013,0.0
+PNG,Papua New Guinea,2014,0.0
+PNG,Papua New Guinea,2015,0.0
+PNG,Papua New Guinea,2016,0.0
+PNG,Papua New Guinea,2017,0.0
+PNG,Papua New Guinea,2018,0.0
+PNG,Papua New Guinea,2019,0.0
+POL,Poland,2011,0.0
+POL,Poland,2012,0.0
+POL,Poland,2013,0.0
+POL,Poland,2014,0.0
+POL,Poland,2015,0.0
+POL,Poland,2016,0.0
+POL,Poland,2017,0.0
+POL,Poland,2018,0.0
+POL,Poland,2019,0.0
+PRI,Puerto Rico,2011,0.0
+PRI,Puerto Rico,2012,0.0
+PRI,Puerto Rico,2013,0.0
+PRI,Puerto Rico,2014,0.0
+PRI,Puerto Rico,2015,0.0
+PRI,Puerto Rico,2016,0.0
+PRI,Puerto Rico,2017,0.0
+PRI,Puerto Rico,2018,0.0
+PRI,Puerto Rico,2019,0.0
+PRK,Democratic People's Republic of Korea,2011,0.0
+PRK,Democratic People's Republic of Korea,2012,0.0
+PRK,Democratic People's Republic of Korea,2013,0.0
+PRK,Democratic People's Republic of Korea,2014,0.0
+PRK,Democratic People's Republic of Korea,2015,0.0
+PRK,Democratic People's Republic of Korea,2016,0.0
+PRK,Democratic People's Republic of Korea,2017,0.0
+PRK,Democratic People's Republic of Korea,2018,0.0
+PRK,Democratic People's Republic of Korea,2019,0.0
+PRT,Portugal,2011,0.0
+PRT,Portugal,2012,0.0
+PRT,Portugal,2013,0.0
+PRT,Portugal,2014,0.0
+PRT,Portugal,2015,0.0
+PRT,Portugal,2016,0.0
+PRT,Portugal,2017,0.0
+PRT,Portugal,2018,0.0
+PRT,Portugal,2019,0.0
+PRY,Paraguay,2011,0.0
+PRY,Paraguay,2012,0.0
+PRY,Paraguay,2013,0.0
+PRY,Paraguay,2014,0.0
+PRY,Paraguay,2015,0.0
+PRY,Paraguay,2016,0.0
+PRY,Paraguay,2017,0.0
+PRY,Paraguay,2018,0.0
+PRY,Paraguay,2019,0.0
+PSE,Palestine,2011,0.0
+PSE,Palestine,2012,0.0
+PSE,Palestine,2013,0.0
+PSE,Palestine,2014,0.0
+PSE,Palestine,2015,0.0
+PSE,Palestine,2016,0.0
+PSE,Palestine,2017,0.0
+PSE,Palestine,2018,0.0
+PSE,Palestine,2019,0.0
+PYF,French Polynesia,2011,0.0
+PYF,French Polynesia,2012,0.0
+PYF,French Polynesia,2013,0.0
+PYF,French Polynesia,2014,0.0
+PYF,French Polynesia,2015,0.0
+PYF,French Polynesia,2016,0.0
+PYF,French Polynesia,2017,0.0
+PYF,French Polynesia,2018,0.0
+PYF,French Polynesia,2019,0.0
+QAT,Qatar,2011,0.0
+QAT,Qatar,2012,0.0
+QAT,Qatar,2013,0.0
+QAT,Qatar,2014,0.0
+QAT,Qatar,2015,0.0
+QAT,Qatar,2016,0.0
+QAT,Qatar,2017,0.0
+QAT,Qatar,2018,0.0
+QAT,Qatar,2019,0.0
+ROU,Romania,2011,18900.0
+ROU,Romania,2012,18900.0
+ROU,Romania,2013,18900.0
+ROU,Romania,2014,18900.0
+ROU,Romania,2015,18900.0
+ROU,Romania,2016,18900.0
+ROU,Romania,2017,18900.0
+ROU,Romania,2018,18900.0
+ROU,Romania,2019,19000.0
+RUS,Russian Federation,2011,8744.0
+RUS,Russian Federation,2012,6580.0
+RUS,Russian Federation,2013,6002.0
+RUS,Russian Federation,2014,6644.0
+RUS,Russian Federation,2015,6907.0
+RUS,Russian Federation,2016,6271.0
+RUS,Russian Federation,2017,5662.0
+RUS,Russian Federation,2018,5311.0
+RUS,Russian Federation,2019,6335.0
+RWA,Rwanda,2011,0.0
+RWA,Rwanda,2012,0.0
+RWA,Rwanda,2013,0.0
+RWA,Rwanda,2014,0.0
+RWA,Rwanda,2015,0.0
+RWA,Rwanda,2016,0.0
+RWA,Rwanda,2017,0.0
+RWA,Rwanda,2018,0.0
+RWA,Rwanda,2019,0.0
+SAU,Saudi Arabia,2011,0.0
+SAU,Saudi Arabia,2012,0.0
+SAU,Saudi Arabia,2013,0.0
+SAU,Saudi Arabia,2014,0.0
+SAU,Saudi Arabia,2015,0.0
+SAU,Saudi Arabia,2016,0.0
+SAU,Saudi Arabia,2017,0.0
+SAU,Saudi Arabia,2018,0.0
+SAU,Saudi Arabia,2019,0.0
+SDN,Sudan,2012,0.0
+SDN,Sudan,2013,0.0
+SDN,Sudan,2014,0.0
+SDN,Sudan,2015,0.0
+SDN,Sudan,2016,0.0
+SDN,Sudan,2017,0.0
+SDN,Sudan,2018,0.0
+SDN,Sudan,2019,0.0
+SEN,Senegal,2011,0.0
+SEN,Senegal,2012,0.0
+SEN,Senegal,2013,0.0
+SEN,Senegal,2014,0.0
+SEN,Senegal,2015,0.0
+SEN,Senegal,2016,0.0
+SEN,Senegal,2017,0.0
+SEN,Senegal,2018,0.0
+SEN,Senegal,2019,0.0
+SGP,Singapore,2011,0.0
+SGP,Singapore,2012,0.0
+SGP,Singapore,2013,0.0
+SGP,Singapore,2014,0.0
+SGP,Singapore,2015,0.0
+SGP,Singapore,2016,0.0
+SGP,Singapore,2017,0.0
+SGP,Singapore,2018,0.0
+SGP,Singapore,2019,0.0
+SLB,Solomon Islands,2011,0.0
+SLB,Solomon Islands,2012,0.0
+SLB,Solomon Islands,2013,0.0
+SLB,Solomon Islands,2014,0.0
+SLB,Solomon Islands,2015,0.0
+SLB,Solomon Islands,2016,0.0
+SLB,Solomon Islands,2017,0.0
+SLB,Solomon Islands,2018,0.0
+SLB,Solomon Islands,2019,0.0
+SLE,Sierra Leone,2011,0.0
+SLE,Sierra Leone,2012,0.0
+SLE,Sierra Leone,2013,0.0
+SLE,Sierra Leone,2014,0.0
+SLE,Sierra Leone,2015,0.0
+SLE,Sierra Leone,2016,0.0
+SLE,Sierra Leone,2017,0.0
+SLE,Sierra Leone,2018,0.0
+SLE,Sierra Leone,2019,0.0
+SLV,El Salvador,2011,0.0
+SLV,El Salvador,2012,0.0
+SLV,El Salvador,2013,0.0
+SLV,El Salvador,2014,0.0
+SLV,El Salvador,2015,0.0
+SLV,El Salvador,2016,0.0
+SLV,El Salvador,2017,0.0
+SLV,El Salvador,2018,0.0
+SLV,El Salvador,2019,0.0
+SOM,Somalia,2011,0.0
+SOM,Somalia,2012,0.0
+SOM,Somalia,2013,0.0
+SOM,Somalia,2014,0.0
+SOM,Somalia,2015,0.0
+SOM,Somalia,2016,0.0
+SOM,Somalia,2017,0.0
+SOM,Somalia,2018,0.0
+SOM,Somalia,2019,0.0
+SRB,Serbia,2011,0.0
+SRB,Serbia,2012,0.0
+SRB,Serbia,2013,0.0
+SRB,Serbia,2014,0.0
+SRB,Serbia,2015,0.0
+SRB,Serbia,2016,0.0
+SRB,Serbia,2017,0.0
+SRB,Serbia,2018,0.0
+SRB,Serbia,2019,0.0
+SSD,South Sudan,2012,0.0
+SSD,South Sudan,2013,0.0
+SSD,South Sudan,2014,0.0
+SSD,South Sudan,2015,0.0
+SSD,South Sudan,2016,0.0
+SSD,South Sudan,2017,0.0
+SSD,South Sudan,2018,0.0
+SSD,South Sudan,2019,0.0
+STP,Sao Tome and Principe,2011,0.0
+STP,Sao Tome and Principe,2012,0.0
+STP,Sao Tome and Principe,2013,0.0
+STP,Sao Tome and Principe,2014,0.0
+STP,Sao Tome and Principe,2015,0.0
+STP,Sao Tome and Principe,2016,0.0
+STP,Sao Tome and Principe,2017,0.0
+STP,Sao Tome and Principe,2018,0.0
+STP,Sao Tome and Principe,2019,0.0
+SUR,Suriname,2011,760.0
+SUR,Suriname,2012,719.0
+SUR,Suriname,2013,743.0
+SUR,Suriname,2014,817.0
+SUR,Suriname,2015,865.0
+SUR,Suriname,2016,786.0
+SUR,Suriname,2017,844.0
+SUR,Suriname,2018,905.0
+SUR,Suriname,2019,891.0
+SVK,Slovakia,2011,0.0
+SVK,Slovakia,2012,0.0
+SVK,Slovakia,2013,0.0
+SVK,Slovakia,2014,0.0
+SVK,Slovakia,2015,0.0
+SVK,Slovakia,2016,0.0
+SVK,Slovakia,2017,0.0
+SVK,Slovakia,2018,0.0
+SVK,Slovakia,2019,0.0
+SVN,Slovenia,2011,0.0
+SVN,Slovenia,2012,0.0
+SVN,Slovenia,2013,0.0
+SVN,Slovenia,2014,0.0
+SVN,Slovenia,2015,0.0
+SVN,Slovenia,2016,0.0
+SVN,Slovenia,2017,0.0
+SVN,Slovenia,2018,0.0
+SVN,Slovenia,2019,0.0
+SWE,Sweden,2011,0.0
+SWE,Sweden,2012,0.0
+SWE,Sweden,2013,0.0
+SWE,Sweden,2014,0.0
+SWE,Sweden,2015,0.0
+SWE,Sweden,2016,0.0
+SWE,Sweden,2017,0.0
+SWE,Sweden,2018,0.0
+SWE,Sweden,2019,0.0
+SWZ,Eswatini,2011,0.0
+SWZ,Eswatini,2012,0.0
+SWZ,Eswatini,2013,0.0
+SWZ,Eswatini,2014,0.0
+SWZ,Eswatini,2015,0.0
+SWZ,Eswatini,2016,0.0
+SWZ,Eswatini,2017,0.0
+SWZ,Eswatini,2018,0.0
+SWZ,Eswatini,2019,0.0
+SYC,Seychelles,2011,0.0
+SYC,Seychelles,2012,0.0
+SYC,Seychelles,2013,0.0
+SYC,Seychelles,2014,0.0
+SYC,Seychelles,2015,0.0
+SYC,Seychelles,2016,0.0
+SYC,Seychelles,2017,0.0
+SYC,Seychelles,2018,0.0
+SYC,Seychelles,2019,0.0
+SYR,Syrian Arab Republic,2011,7408.0
+SYR,Syrian Arab Republic,2012,7408.0
+SYR,Syrian Arab Republic,2013,7596.0
+SYR,Syrian Arab Republic,2014,7933.0
+SYR,Syrian Arab Republic,2015,8000.0
+SYR,Syrian Arab Republic,2016,8000.0
+SYR,Syrian Arab Republic,2017,6996.0
+SYR,Syrian Arab Republic,2018,6988.0
+SYR,Syrian Arab Republic,2019,7146.0
+Sudan (former),Sudan (former),2011,0.0
+T?rkiye,T?rkiye,2011,84726.0
+T?rkiye,T?rkiye,2012,97632.0
+T?rkiye,T?rkiye,2013,107435.0
+T?rkiye,T?rkiye,2014,117591.0
+T?rkiye,T?rkiye,2015,121826.0
+T?rkiye,T?rkiye,2016,133736.0
+T?rkiye,T?rkiye,2017,142073.0
+T?rkiye,T?rkiye,2018,178397.0
+T?rkiye,T?rkiye,2019,184192.0
+TCD,Chad,2011,0.0
+TCD,Chad,2012,0.0
+TCD,Chad,2013,0.0
+TCD,Chad,2014,0.0
+TCD,Chad,2015,0.0
+TCD,Chad,2016,0.0
+TCD,Chad,2017,0.0
+TCD,Chad,2018,0.0
+TCD,Chad,2019,0.0
+TGO,Togo,2011,0.0
+TGO,Togo,2012,0.0
+TGO,Togo,2013,0.0
+TGO,Togo,2014,0.0
+TGO,Togo,2015,0.0
+TGO,Togo,2016,0.0
+TGO,Togo,2017,0.0
+TGO,Togo,2018,0.0
+TGO,Togo,2019,0.0
+THA,Thailand,2011,1587731.0
+THA,Thailand,2012,1542167.0
+THA,Thailand,2013,1288812.0
+THA,Thailand,2014,1020088.0
+THA,Thailand,2015,990000.0
+THA,Thailand,2016,1160124.0
+THA,Thailand,2017,1042962.0
+THA,Thailand,2018,970353.0
+THA,Thailand,2019,946176.0
+TJK,Tajikistan,2011,15000.0
+TJK,Tajikistan,2012,15000.0
+TJK,Tajikistan,2013,15000.0
+TJK,Tajikistan,2014,15000.0
+TJK,Tajikistan,2015,15214.0
+TJK,Tajikistan,2016,15402.0
+TJK,Tajikistan,2017,15482.0
+TJK,Tajikistan,2018,15403.0
+TJK,Tajikistan,2019,15467.0
+TKL,Tokelau,2011,0.0
+TKL,Tokelau,2012,0.0
+TKL,Tokelau,2013,0.0
+TKL,Tokelau,2014,0.0
+TKL,Tokelau,2015,0.0
+TKL,Tokelau,2016,0.0
+TKL,Tokelau,2017,0.0
+TKL,Tokelau,2018,0.0
+TKL,Tokelau,2019,0.0
+TKM,Turkmenistan,2011,0.0
+TKM,Turkmenistan,2012,0.0
+TKM,Turkmenistan,2013,0.0
+TKM,Turkmenistan,2014,0.0
+TKM,Turkmenistan,2015,0.0
+TKM,Turkmenistan,2016,0.0
+TKM,Turkmenistan,2017,0.0
+TKM,Turkmenistan,2018,0.0
+TKM,Turkmenistan,2019,0.0
+TLS,Timor-Leste,2011,98124.0
+TLS,Timor-Leste,2012,103325.0
+TLS,Timor-Leste,2013,108801.0
+TLS,Timor-Leste,2014,109022.0
+TLS,Timor-Leste,2015,128262.0
+TLS,Timor-Leste,2016,126115.0
+TLS,Timor-Leste,2017,126434.0
+TLS,Timor-Leste,2018,127050.0
+TLS,Timor-Leste,2019,127475.0
+TON,Tonga,2011,0.0
+TON,Tonga,2012,0.0
+TON,Tonga,2013,0.0
+TON,Tonga,2014,0.0
+TON,Tonga,2015,0.0
+TON,Tonga,2016,0.0
+TON,Tonga,2017,0.0
+TON,Tonga,2018,0.0
+TON,Tonga,2019,0.0
+TTO,Trinidad and Tobago,2011,5900.0
+TTO,Trinidad and Tobago,2012,6000.0
+TTO,Trinidad and Tobago,2013,6100.0
+TTO,Trinidad and Tobago,2014,6200.0
+TTO,Trinidad and Tobago,2015,6295.0
+TTO,Trinidad and Tobago,2016,6385.0
+TTO,Trinidad and Tobago,2017,6106.0
+TTO,Trinidad and Tobago,2018,6174.0
+TTO,Trinidad and Tobago,2019,6209.0
+TUN,Tunisia,2011,0.0
+TUN,Tunisia,2012,0.0
+TUN,Tunisia,2013,0.0
+TUN,Tunisia,2014,0.0
+TUN,Tunisia,2015,0.0
+TUN,Tunisia,2016,0.0
+TUN,Tunisia,2017,0.0
+TUN,Tunisia,2018,0.0
+TUN,Tunisia,2019,0.0
+TUV,Tuvalu,2011,0.0
+TUV,Tuvalu,2012,0.0
+TUV,Tuvalu,2013,0.0
+TUV,Tuvalu,2014,0.0
+TUV,Tuvalu,2015,0.0
+TUV,Tuvalu,2016,0.0
+TUV,Tuvalu,2017,0.0
+TUV,Tuvalu,2018,0.0
+TUV,Tuvalu,2019,0.0
+TZA,United Republic of Tanzania,2011,0.0
+TZA,United Republic of Tanzania,2012,0.0
+TZA,United Republic of Tanzania,2013,0.0
+TZA,United Republic of Tanzania,2014,0.0
+TZA,United Republic of Tanzania,2015,0.0
+TZA,United Republic of Tanzania,2016,0.0
+TZA,United Republic of Tanzania,2017,0.0
+TZA,United Republic of Tanzania,2018,0.0
+TZA,United Republic of Tanzania,2019,0.0
+UGA,Uganda,2011,0.0
+UGA,Uganda,2012,0.0
+UGA,Uganda,2013,0.0
+UGA,Uganda,2014,0.0
+UGA,Uganda,2015,0.0
+UGA,Uganda,2016,0.0
+UGA,Uganda,2017,0.0
+UGA,Uganda,2018,0.0
+UGA,Uganda,2019,0.0
+UKR,Ukraine,2011,0.0
+UKR,Ukraine,2012,0.0
+UKR,Ukraine,2013,0.0
+UKR,Ukraine,2014,0.0
+UKR,Ukraine,2015,0.0
+UKR,Ukraine,2016,0.0
+UKR,Ukraine,2017,0.0
+UKR,Ukraine,2018,0.0
+UKR,Ukraine,2019,0.0
+URY,Uruguay,2011,0.0
+URY,Uruguay,2012,0.0
+URY,Uruguay,2013,0.0
+URY,Uruguay,2014,0.0
+URY,Uruguay,2015,0.0
+URY,Uruguay,2016,0.0
+URY,Uruguay,2017,0.0
+URY,Uruguay,2018,0.0
+URY,Uruguay,2019,0.0
+USA,United States of America,2011,0.0
+USA,United States of America,2012,0.0
+USA,United States of America,2013,0.0
+USA,United States of America,2014,0.0
+USA,United States of America,2015,0.0
+USA,United States of America,2016,0.0
+USA,United States of America,2017,0.0
+USA,United States of America,2018,0.0
+USA,United States of America,2019,0.0
+UZB,Uzbekistan,2011,0.0
+UZB,Uzbekistan,2012,0.0
+UZB,Uzbekistan,2013,0.0
+UZB,Uzbekistan,2014,0.0
+UZB,Uzbekistan,2015,0.0
+UZB,Uzbekistan,2016,0.0
+UZB,Uzbekistan,2017,0.0
+UZB,Uzbekistan,2018,0.0
+UZB,Uzbekistan,2019,0.0
+United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2011,0.0
+United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2012,0.0
+United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2013,0.0
+United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2014,0.0
+United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2015,0.0
+United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2016,0.0
+United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2017,0.0
+United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2018,0.0
+United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2019,0.0
+VCT,Saint Vincent and the Grenadines,2011,0.0
+VCT,Saint Vincent and the Grenadines,2012,0.0
+VCT,Saint Vincent and the Grenadines,2013,0.0
+VCT,Saint Vincent and the Grenadines,2014,0.0
+VCT,Saint Vincent and the Grenadines,2015,0.0
+VCT,Saint Vincent and the Grenadines,2016,0.0
+VCT,Saint Vincent and the Grenadines,2017,0.0
+VCT,Saint Vincent and the Grenadines,2018,0.0
+VCT,Saint Vincent and the Grenadines,2019,0.0
+VEN,Venezuela (Bolivarian Republic of),2011,0.0
+VEN,Venezuela (Bolivarian Republic of),2012,0.0
+VEN,Venezuela (Bolivarian Republic of),2013,0.0
+VEN,Venezuela (Bolivarian Republic of),2014,0.0
+VEN,Venezuela (Bolivarian Republic of),2015,0.0
+VEN,Venezuela (Bolivarian Republic of),2016,0.0
+VEN,Venezuela (Bolivarian Republic of),2017,0.0
+VEN,Venezuela (Bolivarian Republic of),2018,0.0
+VEN,Venezuela (Bolivarian Republic of),2019,0.0
+VNM,Viet Nam,2011,2712000.0
+VNM,Viet Nam,2012,2627813.0
+VNM,Viet Nam,2013,2559539.0
+VNM,Viet Nam,2014,2521400.0
+VNM,Viet Nam,2015,2524000.0
+VNM,Viet Nam,2016,2519411.0
+VNM,Viet Nam,2017,2491662.0
+VNM,Viet Nam,2018,2425105.0
+VNM,Viet Nam,2019,2387887.0
+VUT,Vanuatu,2011,0.0
+VUT,Vanuatu,2012,0.0
+VUT,Vanuatu,2013,0.0
+VUT,Vanuatu,2014,0.0
+VUT,Vanuatu,2015,0.0
+VUT,Vanuatu,2016,0.0
+VUT,Vanuatu,2017,0.0
+VUT,Vanuatu,2018,0.0
+VUT,Vanuatu,2019,0.0
+WSM,Samoa,2011,0.0
+WSM,Samoa,2012,0.0
+WSM,Samoa,2013,0.0
+WSM,Samoa,2014,0.0
+WSM,Samoa,2015,0.0
+WSM,Samoa,2016,0.0
+WSM,Samoa,2017,0.0
+WSM,Samoa,2018,0.0
+WSM,Samoa,2019,0.0
+YEM,Yemen,2011,0.0
+YEM,Yemen,2012,0.0
+YEM,Yemen,2013,0.0
+YEM,Yemen,2014,0.0
+YEM,Yemen,2015,0.0
+YEM,Yemen,2016,0.0
+YEM,Yemen,2017,0.0
+YEM,Yemen,2018,0.0
+YEM,Yemen,2019,0.0
+ZAF,South Africa,2011,0.0
+ZAF,South Africa,2012,0.0
+ZAF,South Africa,2013,0.0
+ZAF,South Africa,2014,0.0
+ZAF,South Africa,2015,0.0
+ZAF,South Africa,2016,0.0
+ZAF,South Africa,2017,0.0
+ZAF,South Africa,2018,0.0
+ZAF,South Africa,2019,0.0
+ZMB,Zambia,2011,0.0
+ZMB,Zambia,2012,0.0
+ZMB,Zambia,2013,0.0
+ZMB,Zambia,2014,0.0
+ZMB,Zambia,2015,0.0
+ZMB,Zambia,2016,0.0
+ZMB,Zambia,2017,0.0
+ZMB,Zambia,2018,0.0
+ZMB,Zambia,2019,0.0
+ZWE,Zimbabwe,2011,0.0
+ZWE,Zimbabwe,2012,0.0
+ZWE,Zimbabwe,2013,0.0
+ZWE,Zimbabwe,2014,0.0
+ZWE,Zimbabwe,2015,0.0
+ZWE,Zimbabwe,2016,0.0
+ZWE,Zimbabwe,2017,0.0
+ZWE,Zimbabwe,2018,0.0
+ZWE,Zimbabwe,2019,0.0
