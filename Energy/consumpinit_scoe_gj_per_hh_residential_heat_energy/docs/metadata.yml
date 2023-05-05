@@ -1,17 +1,31 @@
-15-02-2023
+28/02/2023
 
-consumpinit_scoe_gj_per_hh_residential_heat_energy
+Units: Giga Joules/Number of households
 
-Units: Tera Jloue/Number of households
+Source:
 
+    Energy in Peta Joules obtained from: International Energy Agency, available on the IEA data and statistics webpage (https://www.iea.org/data-and-statistics/data-sets)
 
-Households data: https://www.helgilibrary.com/indicators/number-of-households/#:~:text=Based%20on%20a%20comparison%20of,followed%20by%20India%20and%20USA.
+    Number of households taken from Socioeconomic data, given by
+    hh = round((pop_ru+pop_ur)/occ_rate)
 
-Energy data: IEA WorldEnergyBalancesHighlights2021
+Assumptions: 
 
+    # #scoe crowss walk 
+    # scoe_energy_demands = {
+    #    consumpinit_scoe_gj_per_hh_residential_elec_appliances : [all but (residential space heating +residential cooking+ clothes dryers)]
+    #    consumpinit_scoe_gj_per_hh_residential_heat_energy : [residential space heating +residential cooking+ clothes dryers]
+    #    consumpinit_scoe_tj_per_mmmgdp_commercial_municipal_elec_appliances : (share of electric in residential [0-1.0])*0.9*[sheet: services, End use =="other building energy use" & PRoduct= "total final energy"]
+    #    consumpinit_scoe_tj_per_mmmgdp_commercial_municipal_heat_energy  (1- share of electri in residential)*0.9*[sheet: services, End use =="other building energy use" & PRoduct= "total final energy"]
+    #    consumpinit_scoe_tj_per_mmmgdp_other_se_elec_appliances :  (share of electric in residential [0-1.0])*0.1*[sheet: services, End use =="other building energy use"]
+    #    consumpinit_scoe_tj_per_mmmgdp_other_se_heat_energy (1-share of electric in residential [0-1.0])*0.1*[sheet: services, End use =="other building energy use"]
 
-Assumption: 
+    If 'End use' energy data is missing in IEA dataset then:
+        If it is present for some years:
+            the missing historic values are obtained as the mean value of the present data
+        Else:
+            A multi-linear regression trained with the end use energy value as function of the rural population, urban population
+            and GDP in the Socioeconomic folder is used to compute the missing values.
 
-Data not present take the average value of the mean in the continent of the present data.
-
-If this is not possible it takes the global average value.
+    Projected values for energy are obtained with the previously mentioned multi-linear regression
+	with the pop_ur, pop_ru and gdp projected values from the Socioeconomic folder.
