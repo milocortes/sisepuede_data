@@ -9,7 +9,7 @@ Source:
 
 Assumptions:
 
--frac_scoe variables use 'Other building energy use' values from the 'Services - Energy' sheet in tha IEA data set
+-frac_scoe_$$_residential variables use heat_enduse=['Residential space heating','Residential cooking','Clothes dryers'] values from the 'Residential - Energy' sheet in tha IEA data set
 
 Fuel fractions are given according to the following dictionary:
 
@@ -23,7 +23,7 @@ cross_walk_dict={'frac_scoe_heat_energy_residential_coal':[(1,'Coal and coal pro
 'frac_scoe_heat_energy_residential_natural_gas': [(1,'Gas (PJ)'),(1,'Heat (PJ)')],
 'frac_scoe_heat_energy_residential_solid_biomass':[(1,'Biofuels and waste (PJ)')]}
 
-Inputed values for all the countries are given by the frection of the present value countries that correspond to the same GDP class.
+Inputed values for all the countries are given by the fraction of the present value countries that correspond to the same GDP class.
 
 GDP class is a binary classification where the countries above the mean GDP global value belong to one class and those bellow to another class.
 

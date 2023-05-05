@@ -33,7 +33,7 @@ cross_walk_dict={'frac_scoe_heat_energy_other_se_coal':[(1,'Coal and coal produc
 'frac_scoe_heat_energy_other_se_natural_gas': [(1,'Gas (PJ)'),(1,'Heat (PJ)')],
 'frac_scoe_heat_energy_other_se_solid_biomass':[(1,'Biofuels and waste (PJ)')]}
 
-Inputed values for all the countries are given by the frection of the present value countries that correspond to the same GDP class.
+Inputed values for all the countries are given by the fraction of the present value countries that correspond to the same GDP class.
 
 GDP class is a binary classification where the countries above the mean GDP global value belong to one class and those bellow to another class.
 
