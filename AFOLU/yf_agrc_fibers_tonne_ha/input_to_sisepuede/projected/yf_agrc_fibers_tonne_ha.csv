@@ -1363,68 +1363,6 @@ CZE,Czechia,2047,4500.0
 CZE,Czechia,2048,4500.0
 CZE,Czechia,2049,4500.0
 CZE,Czechia,2050,4500.0
-"China, Taiwan Province of","China, Taiwan Province of",2020,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2021,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2022,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2023,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2024,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2025,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2026,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2027,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2028,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2029,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2030,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2031,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2032,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2033,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2034,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2035,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2036,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2037,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2038,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2039,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2040,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2041,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2042,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2043,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2044,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2045,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2046,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2047,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2048,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2049,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2050,0.0
-"China, mainland","China, mainland",2020,48677.2
-"China, mainland","China, mainland",2021,48677.2
-"China, mainland","China, mainland",2022,48677.2
-"China, mainland","China, mainland",2023,48677.2
-"China, mainland","China, mainland",2024,48677.2
-"China, mainland","China, mainland",2025,48677.2
-"China, mainland","China, mainland",2026,48677.2
-"China, mainland","China, mainland",2027,48677.2
-"China, mainland","China, mainland",2028,48677.2
-"China, mainland","China, mainland",2029,48677.2
-"China, mainland","China, mainland",2030,48677.2
-"China, mainland","China, mainland",2031,48677.2
-"China, mainland","China, mainland",2032,48677.2
-"China, mainland","China, mainland",2033,48677.2
-"China, mainland","China, mainland",2034,48677.2
-"China, mainland","China, mainland",2035,48677.2
-"China, mainland","China, mainland",2036,48677.2
-"China, mainland","China, mainland",2037,48677.2
-"China, mainland","China, mainland",2038,48677.2
-"China, mainland","China, mainland",2039,48677.2
-"China, mainland","China, mainland",2040,48677.2
-"China, mainland","China, mainland",2041,48677.2
-"China, mainland","China, mainland",2042,48677.2
-"China, mainland","China, mainland",2043,48677.2
-"China, mainland","China, mainland",2044,48677.2
-"China, mainland","China, mainland",2045,48677.2
-"China, mainland","China, mainland",2046,48677.2
-"China, mainland","China, mainland",2047,48677.2
-"China, mainland","China, mainland",2048,48677.2
-"China, mainland","China, mainland",2049,48677.2
-"China, mainland","China, mainland",2050,48677.2
 DEU,Germany,2020,0.0
 DEU,Germany,2021,0.0
 DEU,Germany,2022,0.0
@@ -1983,6 +1921,37 @@ GAB,Gabon,2047,0.0
 GAB,Gabon,2048,0.0
 GAB,Gabon,2049,0.0
 GAB,Gabon,2050,0.0
+GBR,United Kingdom,2020,0.0
+GBR,United Kingdom,2021,0.0
+GBR,United Kingdom,2022,0.0
+GBR,United Kingdom,2023,0.0
+GBR,United Kingdom,2024,0.0
+GBR,United Kingdom,2025,0.0
+GBR,United Kingdom,2026,0.0
+GBR,United Kingdom,2027,0.0
+GBR,United Kingdom,2028,0.0
+GBR,United Kingdom,2029,0.0
+GBR,United Kingdom,2030,0.0
+GBR,United Kingdom,2031,0.0
+GBR,United Kingdom,2032,0.0
+GBR,United Kingdom,2033,0.0
+GBR,United Kingdom,2034,0.0
+GBR,United Kingdom,2035,0.0
+GBR,United Kingdom,2036,0.0
+GBR,United Kingdom,2037,0.0
+GBR,United Kingdom,2038,0.0
+GBR,United Kingdom,2039,0.0
+GBR,United Kingdom,2040,0.0
+GBR,United Kingdom,2041,0.0
+GBR,United Kingdom,2042,0.0
+GBR,United Kingdom,2043,0.0
+GBR,United Kingdom,2044,0.0
+GBR,United Kingdom,2045,0.0
+GBR,United Kingdom,2046,0.0
+GBR,United Kingdom,2047,0.0
+GBR,United Kingdom,2048,0.0
+GBR,United Kingdom,2049,0.0
+GBR,United Kingdom,2050,0.0
 GEO,Georgia,2020,0.0
 GEO,Georgia,2021,0.0
 GEO,Georgia,2022,0.0
@@ -5641,6 +5610,37 @@ TUN,Tunisia,2047,6704.0
 TUN,Tunisia,2048,6704.0
 TUN,Tunisia,2049,6704.0
 TUN,Tunisia,2050,6704.0
+TUR,Turkey,2020,28022.0
+TUR,Turkey,2021,28022.0
+TUR,Turkey,2022,28022.0
+TUR,Turkey,2023,28022.0
+TUR,Turkey,2024,28022.0
+TUR,Turkey,2025,28022.0
+TUR,Turkey,2026,28022.0
+TUR,Turkey,2027,28022.0
+TUR,Turkey,2028,28022.0
+TUR,Turkey,2029,28022.0
+TUR,Turkey,2030,28022.0
+TUR,Turkey,2031,28022.0
+TUR,Turkey,2032,28022.0
+TUR,Turkey,2033,28022.0
+TUR,Turkey,2034,28022.0
+TUR,Turkey,2035,28022.0
+TUR,Turkey,2036,28022.0
+TUR,Turkey,2037,28022.0
+TUR,Turkey,2038,28022.0
+TUR,Turkey,2039,28022.0
+TUR,Turkey,2040,28022.0
+TUR,Turkey,2041,28022.0
+TUR,Turkey,2042,28022.0
+TUR,Turkey,2043,28022.0
+TUR,Turkey,2044,28022.0
+TUR,Turkey,2045,28022.0
+TUR,Turkey,2046,28022.0
+TUR,Turkey,2047,28022.0
+TUR,Turkey,2048,28022.0
+TUR,Turkey,2049,28022.0
+TUR,Turkey,2050,28022.0
 TUV,Tuvalu,2020,0.0
 TUV,Tuvalu,2021,0.0
 TUV,Tuvalu,2022,0.0
@@ -5672,6 +5672,37 @@ TUV,Tuvalu,2047,0.0
 TUV,Tuvalu,2048,0.0
 TUV,Tuvalu,2049,0.0
 TUV,Tuvalu,2050,0.0
+TWN,"China, Taiwan Province of",2020,0.0
+TWN,"China, Taiwan Province of",2021,0.0
+TWN,"China, Taiwan Province of",2022,0.0
+TWN,"China, Taiwan Province of",2023,0.0
+TWN,"China, Taiwan Province of",2024,0.0
+TWN,"China, Taiwan Province of",2025,0.0
+TWN,"China, Taiwan Province of",2026,0.0
+TWN,"China, Taiwan Province of",2027,0.0
+TWN,"China, Taiwan Province of",2028,0.0
+TWN,"China, Taiwan Province of",2029,0.0
+TWN,"China, Taiwan Province of",2030,0.0
+TWN,"China, Taiwan Province of",2031,0.0
+TWN,"China, Taiwan Province of",2032,0.0
+TWN,"China, Taiwan Province of",2033,0.0
+TWN,"China, Taiwan Province of",2034,0.0
+TWN,"China, Taiwan Province of",2035,0.0
+TWN,"China, Taiwan Province of",2036,0.0
+TWN,"China, Taiwan Province of",2037,0.0
+TWN,"China, Taiwan Province of",2038,0.0
+TWN,"China, Taiwan Province of",2039,0.0
+TWN,"China, Taiwan Province of",2040,0.0
+TWN,"China, Taiwan Province of",2041,0.0
+TWN,"China, Taiwan Province of",2042,0.0
+TWN,"China, Taiwan Province of",2043,0.0
+TWN,"China, Taiwan Province of",2044,0.0
+TWN,"China, Taiwan Province of",2045,0.0
+TWN,"China, Taiwan Province of",2046,0.0
+TWN,"China, Taiwan Province of",2047,0.0
+TWN,"China, Taiwan Province of",2048,0.0
+TWN,"China, Taiwan Province of",2049,0.0
+TWN,"China, Taiwan Province of",2050,0.0
 TZA,United Republic of Tanzania,2020,6298.0
 TZA,United Republic of Tanzania,2021,6298.0
 TZA,United Republic of Tanzania,2022,6298.0
@@ -5703,37 +5734,6 @@ TZA,United Republic of Tanzania,2047,6298.0
 TZA,United Republic of Tanzania,2048,6298.0
 TZA,United Republic of Tanzania,2049,6298.0
 TZA,United Republic of Tanzania,2050,6298.0
-Türkiye,Türkiye,2020,28022.0
-Türkiye,Türkiye,2021,28022.0
-Türkiye,Türkiye,2022,28022.0
-Türkiye,Türkiye,2023,28022.0
-Türkiye,Türkiye,2024,28022.0
-Türkiye,Türkiye,2025,28022.0
-Türkiye,Türkiye,2026,28022.0
-Türkiye,Türkiye,2027,28022.0
-Türkiye,Türkiye,2028,28022.0
-Türkiye,Türkiye,2029,28022.0
-Türkiye,Türkiye,2030,28022.0
-Türkiye,Türkiye,2031,28022.0
-Türkiye,Türkiye,2032,28022.0
-Türkiye,Türkiye,2033,28022.0
-Türkiye,Türkiye,2034,28022.0
-Türkiye,Türkiye,2035,28022.0
-Türkiye,Türkiye,2036,28022.0
-Türkiye,Türkiye,2037,28022.0
-Türkiye,Türkiye,2038,28022.0
-Türkiye,Türkiye,2039,28022.0
-Türkiye,Türkiye,2040,28022.0
-Türkiye,Türkiye,2041,28022.0
-Türkiye,Türkiye,2042,28022.0
-Türkiye,Türkiye,2043,28022.0
-Türkiye,Türkiye,2044,28022.0
-Türkiye,Türkiye,2045,28022.0
-Türkiye,Türkiye,2046,28022.0
-Türkiye,Türkiye,2047,28022.0
-Türkiye,Türkiye,2048,28022.0
-Türkiye,Türkiye,2049,28022.0
-Türkiye,Türkiye,2050,28022.0
 UGA,Uganda,2020,13333.0
 UGA,Uganda,2021,13333.0
 UGA,Uganda,2022,13333.0
@@ -5889,37 +5889,6 @@ UZB,Uzbekistan,2047,66619.5
 UZB,Uzbekistan,2048,66619.5
 UZB,Uzbekistan,2049,66619.5
 UZB,Uzbekistan,2050,66619.5
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2020,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2021,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2022,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2023,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2024,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2025,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2026,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2027,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2028,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2029,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2030,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2031,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2032,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2033,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2034,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2035,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2036,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2037,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2038,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2039,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2040,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2041,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2042,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2043,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2044,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2045,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2046,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2047,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2048,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2049,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2050,0.0
 VCT,Saint Vincent and the Grenadines,2020,0.0
 VCT,Saint Vincent and the Grenadines,2021,0.0
 VCT,Saint Vincent and the Grenadines,2022,0.0

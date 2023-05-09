@@ -395,24 +395,6 @@ CZE,Czechia,2016,26754.0
 CZE,Czechia,2017,27883.0
 CZE,Czechia,2018,4684.0
 CZE,Czechia,2019,4500.0
-"China, Taiwan Province of","China, Taiwan Province of",2011,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2012,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2013,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2014,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2015,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2016,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2017,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2018,0.0
-"China, Taiwan Province of","China, Taiwan Province of",2019,0.0
-"China, mainland","China, mainland",2011,34518.0
-"China, mainland","China, mainland",2012,35288.2
-"China, mainland","China, mainland",2013,34326.4
-"China, mainland","China, mainland",2014,38299.8
-"China, mainland","China, mainland",2015,39324.6
-"China, mainland","China, mainland",2016,43123.8
-"China, mainland","China, mainland",2017,41134.6
-"China, mainland","China, mainland",2018,45499.8
-"China, mainland","China, mainland",2019,48677.2
 DEU,Germany,2011,0.0
 DEU,Germany,2012,0.0
 DEU,Germany,2013,0.0
@@ -575,6 +557,15 @@ GAB,Gabon,2016,0.0
 GAB,Gabon,2017,0.0
 GAB,Gabon,2018,0.0
 GAB,Gabon,2019,0.0
+GBR,United Kingdom,2011,0.0
+GBR,United Kingdom,2012,0.0
+GBR,United Kingdom,2013,0.0
+GBR,United Kingdom,2014,0.0
+GBR,United Kingdom,2015,0.0
+GBR,United Kingdom,2016,0.0
+GBR,United Kingdom,2017,0.0
+GBR,United Kingdom,2018,0.0
+GBR,United Kingdom,2019,0.0
 GEO,Georgia,2011,0.0
 GEO,Georgia,2012,0.0
 GEO,Georgia,2013,0.0
@@ -1394,6 +1385,7 @@ SAU,Saudi Arabia,2016,0.0
 SAU,Saudi Arabia,2017,0.0
 SAU,Saudi Arabia,2018,0.0
 SAU,Saudi Arabia,2019,0.0
+SDN,Sudan,2011,10988.0
 SDN,Sudan,2012,12313.0
 SDN,Sudan,2013,12247.0
 SDN,Sudan,2014,16353.0
@@ -1545,7 +1537,6 @@ SYR,Syrian Arab Republic,2016,30073.0
 SYR,Syrian Arab Republic,2017,29234.0
 SYR,Syrian Arab Republic,2018,27996.0
 SYR,Syrian Arab Republic,2019,27251.0
-Sudan (former),Sudan (former),2011,10988.0
 TCD,Chad,2011,5195.0
 TCD,Chad,2012,5405.0
 TCD,Chad,2013,4589.0
@@ -1636,6 +1627,15 @@ TUN,Tunisia,2016,6911.0
 TUN,Tunisia,2017,6612.0
 TUN,Tunisia,2018,6595.0
 TUN,Tunisia,2019,6704.0
+TUR,Turkey,2011,28803.0
+TUR,Turkey,2012,28746.5
+TUR,Turkey,2013,29950.5
+TUR,Turkey,2014,30169.5
+TUR,Turkey,2015,28617.5
+TUR,Turkey,2016,30240.5
+TUR,Turkey,2017,29428.0
+TUR,Turkey,2018,29776.5
+TUR,Turkey,2019,28022.0
 TUV,Tuvalu,2011,0.0
 TUV,Tuvalu,2012,0.0
 TUV,Tuvalu,2013,0.0
@@ -1645,6 +1645,15 @@ TUV,Tuvalu,2016,0.0
 TUV,Tuvalu,2017,0.0
 TUV,Tuvalu,2018,0.0
 TUV,Tuvalu,2019,0.0
+TWN,"China, Taiwan Province of",2011,0.0
+TWN,"China, Taiwan Province of",2012,0.0
+TWN,"China, Taiwan Province of",2013,0.0
+TWN,"China, Taiwan Province of",2014,0.0
+TWN,"China, Taiwan Province of",2015,0.0
+TWN,"China, Taiwan Province of",2016,0.0
+TWN,"China, Taiwan Province of",2017,0.0
+TWN,"China, Taiwan Province of",2018,0.0
+TWN,"China, Taiwan Province of",2019,0.0
 TZA,United Republic of Tanzania,2011,7225.0
 TZA,United Republic of Tanzania,2012,7000.0
 TZA,United Republic of Tanzania,2013,7936.0
@@ -1654,15 +1663,6 @@ TZA,United Republic of Tanzania,2016,4670.0
 TZA,United Republic of Tanzania,2017,4844.0
 TZA,United Republic of Tanzania,2018,6735.0
 TZA,United Republic of Tanzania,2019,6298.0
-Türkiye,Türkiye,2011,28803.0
-Türkiye,Türkiye,2012,28746.5
-Türkiye,Türkiye,2013,29950.5
-Türkiye,Türkiye,2014,30169.5
-Türkiye,Türkiye,2015,28617.5
-Türkiye,Türkiye,2016,30240.5
-Türkiye,Türkiye,2017,29428.0
-Türkiye,Türkiye,2018,29776.5
-Türkiye,Türkiye,2019,28022.0
 UGA,Uganda,2011,9025.0
 UGA,Uganda,2012,7162.0
 UGA,Uganda,2013,9245.0
@@ -1708,15 +1708,6 @@ UZB,Uzbekistan,2016,65810.0
 UZB,Uzbekistan,2017,65578.5
 UZB,Uzbekistan,2018,63884.5
 UZB,Uzbekistan,2019,66619.5
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2011,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2012,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2013,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2014,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2015,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2016,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2017,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2018,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2019,0.0
 VCT,Saint Vincent and the Grenadines,2011,0.0
 VCT,Saint Vincent and the Grenadines,2012,0.0
 VCT,Saint Vincent and the Grenadines,2013,0.0

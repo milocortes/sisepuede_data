@@ -278,15 +278,15 @@ CHL,Chile,2016,0.0
 CHL,Chile,2017,0.0
 CHL,Chile,2018,0.0
 CHL,Chile,2019,0.0
-CHN,China,2011,35141.166666666664
-CHN,China,2012,35594.333333333336
-CHN,China,2013,34533.333333333336
-CHN,China,2014,35603.666666666664
-CHN,China,2015,35946.833333333336
-CHN,China,2016,35384.166666666664
-CHN,China,2017,35615.666666666664
-CHN,China,2018,35423.5
-CHN,China,2019,35344.833333333336
+CHN,China,2011,34721.166666666664
+CHN,China,2012,35208.0
+CHN,China,2013,34187.75
+CHN,China,2014,35350.583333333336
+CHN,China,2015,35679.333333333336
+CHN,China,2016,35186.333333333336
+CHN,China,2017,35423.5
+CHN,China,2018,35211.666666666664
+CHN,China,2019,35136.083333333336
 CIV,Côte d'Ivoire,2011,118645.0
 CIV,Côte d'Ivoire,2012,121472.0
 CIV,Côte d'Ivoire,2013,124639.0
@@ -395,24 +395,6 @@ CZE,Czechia,2016,13339.5
 CZE,Czechia,2017,10907.0
 CZE,Czechia,2018,10219.0
 CZE,Czechia,2019,14300.0
-"China, Taiwan Province of","China, Taiwan Province of",2011,150768.5
-"China, Taiwan Province of","China, Taiwan Province of",2012,152015.5
-"China, Taiwan Province of","China, Taiwan Province of",2013,151557.5
-"China, Taiwan Province of","China, Taiwan Province of",2014,150379.0
-"China, Taiwan Province of","China, Taiwan Province of",2015,156744.0
-"China, Taiwan Province of","China, Taiwan Province of",2016,123425.5
-"China, Taiwan Province of","China, Taiwan Province of",2017,129453.5
-"China, Taiwan Province of","China, Taiwan Province of",2018,142911.5
-"China, Taiwan Province of","China, Taiwan Province of",2019,143014.0
-"China, mainland","China, mainland",2011,34301.166666666664
-"China, mainland","China, mainland",2012,34821.666666666664
-"China, mainland","China, mainland",2013,33842.166666666664
-"China, mainland","China, mainland",2014,35097.5
-"China, mainland","China, mainland",2015,35411.833333333336
-"China, mainland","China, mainland",2016,34988.5
-"China, mainland","China, mainland",2017,35231.333333333336
-"China, mainland","China, mainland",2018,34999.833333333336
-"China, mainland","China, mainland",2019,34927.333333333336
 DEU,Germany,2011,17231.5
 DEU,Germany,2012,16599.0
 DEU,Germany,2013,14844.5
@@ -575,6 +557,15 @@ GAB,Gabon,2016,0.0
 GAB,Gabon,2017,0.0
 GAB,Gabon,2018,0.0
 GAB,Gabon,2019,0.0
+GBR,United Kingdom,2011,13507.0
+GBR,United Kingdom,2012,13507.0
+GBR,United Kingdom,2013,13509.0
+GBR,United Kingdom,2014,13333.0
+GBR,United Kingdom,2015,13302.0
+GBR,United Kingdom,2016,13420.0
+GBR,United Kingdom,2017,13333.0
+GBR,United Kingdom,2018,13333.0
+GBR,United Kingdom,2019,13366.0
 GEO,Georgia,2011,0.0
 GEO,Georgia,2012,0.0
 GEO,Georgia,2013,0.0
@@ -1394,6 +1385,7 @@ SAU,Saudi Arabia,2016,0.0
 SAU,Saudi Arabia,2017,0.0
 SAU,Saudi Arabia,2018,0.0
 SAU,Saudi Arabia,2019,0.0
+SDN,Sudan,2011,0.0
 SDN,Sudan,2012,0.0
 SDN,Sudan,2013,0.0
 SDN,Sudan,2014,0.0
@@ -1545,7 +1537,6 @@ SYR,Syrian Arab Republic,2016,4973.0
 SYR,Syrian Arab Republic,2017,5407.0
 SYR,Syrian Arab Republic,2018,7535.0
 SYR,Syrian Arab Republic,2019,5005.0
-Sudan (former),Sudan (former),2011,0.0
 TCD,Chad,2011,0.0
 TCD,Chad,2012,0.0
 TCD,Chad,2013,0.0
@@ -1636,6 +1627,15 @@ TUN,Tunisia,2016,7868.0
 TUN,Tunisia,2017,7869.0
 TUN,Tunisia,2018,7887.0
 TUN,Tunisia,2019,7898.0
+TUR,Turkey,2011,7034.0
+TUR,Turkey,2012,6130.0
+TUR,Turkey,2013,7241.0
+TUR,Turkey,2014,7140.0
+TUR,Turkey,2015,6495.0
+TUR,Turkey,2016,7223.0
+TUR,Turkey,2017,7463.0
+TUR,Turkey,2018,35039.0
+TUR,Turkey,2019,33475.0
 TUV,Tuvalu,2011,0.0
 TUV,Tuvalu,2012,0.0
 TUV,Tuvalu,2013,0.0
@@ -1645,6 +1645,15 @@ TUV,Tuvalu,2016,0.0
 TUV,Tuvalu,2017,0.0
 TUV,Tuvalu,2018,0.0
 TUV,Tuvalu,2019,0.0
+TWN,"China, Taiwan Province of",2011,150768.5
+TWN,"China, Taiwan Province of",2012,152015.5
+TWN,"China, Taiwan Province of",2013,151557.5
+TWN,"China, Taiwan Province of",2014,150379.0
+TWN,"China, Taiwan Province of",2015,156744.0
+TWN,"China, Taiwan Province of",2016,123425.5
+TWN,"China, Taiwan Province of",2017,129453.5
+TWN,"China, Taiwan Province of",2018,142911.5
+TWN,"China, Taiwan Province of",2019,143014.0
 TZA,United Republic of Tanzania,2011,10395.25
 TZA,United Republic of Tanzania,2012,10649.0
 TZA,United Republic of Tanzania,2013,11337.75
@@ -1654,15 +1663,6 @@ TZA,United Republic of Tanzania,2016,10351.25
 TZA,United Republic of Tanzania,2017,10372.75
 TZA,United Republic of Tanzania,2018,10444.0
 TZA,United Republic of Tanzania,2019,10410.0
-Türkiye,Türkiye,2011,7034.0
-Türkiye,Türkiye,2012,6130.0
-Türkiye,Türkiye,2013,7241.0
-Türkiye,Türkiye,2014,7140.0
-Türkiye,Türkiye,2015,6495.0
-Türkiye,Türkiye,2016,7223.0
-Türkiye,Türkiye,2017,7463.0
-Türkiye,Türkiye,2018,35039.0
-Türkiye,Türkiye,2019,33475.0
 UGA,Uganda,2011,17666.666666666668
 UGA,Uganda,2012,19619.0
 UGA,Uganda,2013,18880.333333333332
@@ -1708,15 +1708,6 @@ UZB,Uzbekistan,2016,0.0
 UZB,Uzbekistan,2017,0.0
 UZB,Uzbekistan,2018,0.0
 UZB,Uzbekistan,2019,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2011,13507.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2012,13507.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2013,13509.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2014,13333.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2015,13302.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2016,13420.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2017,13333.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2018,13333.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2019,13366.0
 VCT,Saint Vincent and the Grenadines,2011,0.0
 VCT,Saint Vincent and the Grenadines,2012,0.0
 VCT,Saint Vincent and the Grenadines,2013,0.0
