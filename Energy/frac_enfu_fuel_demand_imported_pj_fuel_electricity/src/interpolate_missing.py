@@ -37,7 +37,8 @@ dfs_interpolates = []
 
 for nation in all_period_df.Nation.unique():
 
-    df_test_nation = all_period_df.query(f"Nation =='{nation}'")
+    #df_test_nation = all_period_df.query(f"Nation =='{nation}'")
+    df_test_nation = all_period_df.query(f'Nation =="{nation}"')
     years_nation = df_test_nation["Year"].to_list()
     test_iso_code3_country = df_test_nation.iso_code3.unique()[0]
 
@@ -76,7 +77,8 @@ dfs_interpolates = []
 
 for nation in all_period_df.Nation.unique():
 
-    df_test_nation = all_period_df.query(f"Nation =='{nation}'")
+    #df_test_nation = all_period_df.query(f"Nation =='{nation}'")
+    df_test_nation = all_period_df.query(f'Nation =="{nation}"')
     years_nation = df_test_nation["Year"].to_list()
     test_iso_code3_country = df_test_nation.iso_code3.unique()[0]
 
@@ -100,6 +102,12 @@ all_period_df.sort_values(["Nation","Year"], inplace = True)
 ## Quitamos los paises con valores faltantes para agregarlos nuevamente con los valores interpolados
 all_period_df = all_period_df[~all_period_df["Nation"].isin(acumula_missing_country)] 
 all_period_df = pd.concat([all_period_df] + dfs_interpolates, ignore_index = True).reset_index(drop = True)
+
+if not "MNE" in list(set(all_period_df.iso_code3)):
+    n_periodo = len(range(1990, 2051))
+    paises_faltantes = pd.DataFrame({"Year" : range(1990, 2051) , "Nation" : ["Montenegro"]*n_periodo, "iso_code3" : ["MNE"]*n_periodo, sisepuede_name : [0.0]*n_periodo})
+
+    all_period_df = pd.concat([all_period_df, paises_faltantes] , ignore_index = True).reset_index(drop = True)
 
 ## Save interpolated historical data
 all_period_df.query("Year <=2020").to_csv(relative_path_historical_file, index = False)
