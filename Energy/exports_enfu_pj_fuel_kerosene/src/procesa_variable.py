@@ -22,6 +22,21 @@ wbal = wbal.rename(columns =
                             {"wbal.csv" : "COUNTRY"}
                             )
 
+wbal["COUNTRY"] = wbal["COUNTRY"].replace({'Bolivarian Republic of Venezuela': "Venezuela, RB",
+                                                            'Plurinational State of Bolivia' : "Bolivia",
+                                                            'Turkey' : 'Turkiye',
+                                                            'China (P.R. of China and Hong Kong, China)' : "China",
+                                                            "Democratic People's Republic of Korea" : "Korea, Dem. People's Rep.",
+                                                            "Czech Republic": "Czechia",
+                                                            "Côte d'Ivoire": "Cote d'Ivoire",
+                                                            'Democratic Republic of the Congo': "Congo, Dem. Rep.",
+                                                            'Egypt' : "Egypt, Arab Rep.",
+                                                            'Islamic Republic of Iran': "Iran, Islamic Rep.",
+                                                            'Korea' : "Korea, Rep.",
+                                                            'Viet Nam' : "Vietnam", 
+                                                            'Yemen' : "Yemen, Rep.",
+                                                            'Hong Kong (China)' : 'Hong Kong SAR, China'})
+
 # Compute Total Exports of fuel in PJ from a country
 wbal_process = wbal.query("FLOW=='Production' and UNIT=='TJ'")[["COUNTRY", "TIME"]].reset_index(drop = True)
 
@@ -35,22 +50,20 @@ wbal_process[sisepuede_name] = wbal_process[sisepuede_name].replace({-0.0 : 0.0}
 wbal_process = wbal_process.dropna().reset_index(drop = True)
 
 # Get countries ISO 3 codes
-relative_path_iso3_file = os.path.join(relative_path, "iso3_all_countries.csv")
+relative_path_iso3_file = os.path.join(relative_path, "wb_regionalization.csv")
 iso3_countries = pd.read_csv(relative_path_iso3_file)
 
-wbal_process["COUNTRY"] = wbal_process["COUNTRY"].replace({'Bolivarian Republic of Venezuela': "Venezuela",
-                                                            'Plurinational State of Bolivia' : "Bolivia"})
 
 
-wbal_process = wbal_process[wbal_process["COUNTRY"].isin(iso3_countries["Category Name"])]
+wbal_process = wbal_process[wbal_process["COUNTRY"].isin(iso3_countries["Nation"])]
 wbal_process = wbal_process.query("COUNTRY !='World'")
 
 
 # Merge with  ISO 3 codes
-wbal_process = wbal_process.rename(columns = {"COUNTRY":"Category Name"})\
-         .merge(right = iso3_countries, how = "left", on = "Category Name")
+wbal_process = wbal_process.rename(columns = {"COUNTRY":"Nation"})\
+         .merge(right = iso3_countries, how = "left", on = "Nation")
 
-wbal_process = wbal_process[["REGION", "ISO3", "TIME", sisepuede_name]]
+wbal_process = wbal_process[["Nation", "iso_code3", "TIME", sisepuede_name]]
 wbal_process["TIME"] = wbal_process["TIME"].apply(lambda x: int(x))
 
 wbal_process = wbal_process.rename(columns = {"REGION" : "Nation",
@@ -58,19 +71,18 @@ wbal_process = wbal_process.rename(columns = {"REGION" : "Nation",
                                           "ISO3" : "iso_code3"})
 
 # Get countries without values
-latam_countries = set(iso3_countries["REGION"][:26])
+latam_countries = set(iso3_countries["Nation"][:26])
 non_values = latam_countries.symmetric_difference(latam_countries.intersection(wbal_process["Nation"]))
  
 # Impute values with the Costa Rica values
 save_df = []
-impute_country_base = wbal_process.query(f"Nation == 'costa_rica'").reset_index(drop = True)
+impute_country_base = wbal_process.query(f"iso_code3 == 'CRI'").reset_index(drop = True)
 
 for country in non_values:
     impute_country = impute_country_base.copy()
     impute_country["Nation"]= country
-    ISO3 , Code = iso3_countries.loc[iso3_countries["REGION"]==country, ["ISO3","Code"]].values[0]
+    ISO3  = iso3_countries.loc[iso3_countries["Nation"]==country, "iso_code3"].values[0]
     impute_country["iso_code3"]= ISO3
-    impute_country["Code"]= Code
     impute_country["sisepuede_name"] = 0 
 
     save_df.append(impute_country)
