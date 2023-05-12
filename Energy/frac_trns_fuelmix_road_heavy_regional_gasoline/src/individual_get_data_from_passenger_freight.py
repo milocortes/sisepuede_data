@@ -25,7 +25,7 @@ eeih.Product = eeih.Product.str.strip()
 wb_reg = pd.read_csv(os.path.join(sources_path, "wb_regionalization.csv"))
 
 eeih.rename(columns = {"Country" : "Nation"}, inplace = True)
-
+eeih["Nation"] = eeih["Nation"].replace({'Republic of Türkiye' : "Turkiye"})
 eeih = eeih.merge(right=wb_reg, how = "inner", on = "Nation")
 
 # Melt data
