@@ -9,29 +9,19 @@ Source:
 
 Assumptions:
 
--frac_scoe variables use 'Other building energy use' values from the 'Services - Energy' sheet in tha IEA data set
+-frac_scoe variables use 'Total Services' values from the 'Services - Energy' sheet in tha IEA data set
 
 Fuel fractions are given according to the following dictionaries:
 
-cross_walk_dict={'frac_scoe_heat_energy_commercial_municipal_coal':[(1,'Coal and coal products (PJ)')],
-'frac_scoe_heat_energy_commercial_municipal_diesel': [(0.6,'Oil and oil products (PJ)')],
-'frac_scoe_heat_energy_commercial_municipal_electricity':[(1,'Electricity (PJ)')],
-'frac_scoe_heat_energy_commercial_municipal_gasoline':[(0.2,'Oil and oil products (PJ)')],
-'frac_scoe_heat_energy_commercial_municipal_hydrocarbon_gas_liquids':[(0.2,'Oil and oil products (PJ)')],
-'frac_scoe_heat_energy_commercial_municipal_hydrogen':[(0,'Oil and oil products (PJ)')],
-'frac_scoe_heat_energy_commercial_municipal_kerosene':[(0.4,'Other sources (PJ)')],
-'frac_scoe_heat_energy_commercial_municipal_natural_gas': [(1,'Gas (PJ)'),(1,'Heat (PJ)')],
-'frac_scoe_heat_energy_commercial_municipal_solid_biomass':[(1,'Biofuels and waste (PJ)')]}
-
-cross_walk_dict={'frac_scoe_heat_energy_other_se_coal':[(1,'Coal and coal products (PJ)')],
-'frac_scoe_heat_energy_other_se_diesel': [(0.6,'Oil and oil products (PJ)')],
-'frac_scoe_heat_energy_other_se_electricity':[(1,'Electricity (PJ)')],
-'frac_scoe_heat_energy_other_se_gasoline':[(0.2,'Oil and oil products (PJ)')],
-'frac_scoe_heat_energy_other_se_hydrocarbon_gas_liquids':[(0.2,'Oil and oil products (PJ)')],
-'frac_scoe_heat_energy_other_se_hydrogen':[(0,'Oil and oil products (PJ)')],
-'frac_scoe_heat_energy_other_se_kerosene':[(0.4,'Other sources (PJ)')],
-'frac_scoe_heat_energy_other_se_natural_gas': [(1,'Gas (PJ)'),(1,'Heat (PJ)')],
-'frac_scoe_heat_energy_other_se_solid_biomass':[(1,'Biofuels and waste (PJ)')]}
+cross_walk_dict={'frac_scoe_heat_energy_X_coal':[(1,'Coal and coal products (PJ)')],
+'frac_scoe_heat_energy_X_diesel': [(0.8,'Oil and oil products (PJ)')],
+'frac_scoe_heat_energy_X_electricity':[(0.1,'Electricity (PJ)')],
+'frac_scoe_heat_energy_X_gasoline':[(0.1,'Oil and oil products (PJ)')],
+'frac_scoe_heat_energy_X_hydrocarbon_gas_liquids':[(1,'Other sources (PJ)')],
+'frac_scoe_heat_energy_X_hydrogen':[(0,'Oil and oil products (PJ)')],
+'frac_scoe_heat_energy_x_kerosene':[(0.1,'Oil and oil products (PJ)')],
+'frac_scoe_heat_energy_X_natural_gas': [(1,'Gas (PJ)'),(1,'Heat (PJ)')],
+'frac_scoe_heat_energy_X_solid_biomass':[(1,'Biofuels and waste (PJ)')]}
 
 Inputed values for all the countries are given by the fraction of the present value countries that correspond to the same GDP class.
 

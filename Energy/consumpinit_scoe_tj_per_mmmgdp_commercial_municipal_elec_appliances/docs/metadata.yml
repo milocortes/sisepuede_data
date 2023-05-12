@@ -9,22 +9,11 @@ GDP data: Socioeconomid Variables
 
 
 Assumptions: 
-
-    # #scoe crowss walk 
-    # scoe_energy_demands = {
-    #    consumpinit_scoe_gj_per_hh_residential_elec_appliances : [all but (residential space heating +residential cooking+ clothes dryers)]
-    #    consumpinit_scoe_gj_per_hh_residential_heat_energy : [residential space heating +residential cooking+ clothes dryers]
-    #    consumpinit_scoe_tj_per_mmmgdp_commercial_municipal_elec_appliances : (share of electric in residential [0-1.0])*0.9*[sheet: services, End use =="other building energy use" & PRoduct= "total final energy"]
-    #    consumpinit_scoe_tj_per_mmmgdp_commercial_municipal_heat_energy  (1- share of electri in residential)*0.9*[sheet: services, End use =="other building energy use" & PRoduct= "total final energy"]
-    #    consumpinit_scoe_tj_per_mmmgdp_other_se_elec_appliances :  (share of electric in residential [0-1.0])*0.1*[sheet: services, End use =="other building energy use"]
-    #    consumpinit_scoe_tj_per_mmmgdp_other_se_heat_energy (1-share of electric in residential [0-1.0])*0.1*[sheet: services, End use =="other building energy use"]
-
+  
     If 'End use' energy data is missing in IEA dataset then:
         If it is present for some years:
-            the missing historic values are obtained as the mean value of the present data
+            the missing historic values are obtained as the last historical mean
         Else:
-            A multi-linear regression trained with the end use energy value as function of the rural population, urban population
-            and GDP in the Socioeconomic folder is used to compute the missing values.
+            A mean PJ/GDP/CAP for some significant countries is computed and imputed qithe the respective GDP and Population of the missing countries.
 
-    Projected values for energy are obtained with the previously mentioned multi-linear regression
-	with the pop_ur, pop_ru and gdp projected values from the Socioeconomic folder.
+    Projected values for energy are obtained by computing the growth ratio of GDP per caprita and applied to the last historical value.
