@@ -1,0 +1,14 @@
+date:        2023-01-17
+variable :
+  name : cost_enfu_fuel_coal_usd_per_tonne
+  subsector : Energy Fuels
+  longname :  Energy cost Coal fuel
+  units: USD per tonne
+
+resources:
+    - url: https://www.iea.org/data-and-statistics/data-product/energy-prices#end-use-energy-prices-and-taxes-for-oecd-countries
+      descrip: IEA Energy Prices. Combination of regularly-updated world energy prices covering 140 countries, and energy prices and taxes for OECD countries
+
+aditional_information:
+      assumptions: >
+            - 
