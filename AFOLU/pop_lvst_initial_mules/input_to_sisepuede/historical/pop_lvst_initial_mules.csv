@@ -575,6 +575,15 @@ GAB,Gabon,2016,0.0
 GAB,Gabon,2017,0.0
 GAB,Gabon,2018,0.0
 GAB,Gabon,2019,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2011,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2012,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2013,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2014,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2015,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2016,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2017,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2018,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2019,0.0
 GEO,Georgia,2011,10000.0
 GEO,Georgia,2012,10000.0
 GEO,Georgia,2013,10000.0
@@ -1528,15 +1537,6 @@ SYR,Syrian Arab Republic,2017,70679.0
 SYR,Syrian Arab Republic,2018,69490.0
 SYR,Syrian Arab Republic,2019,69373.0
 Sudan (former),Sudan (former),2011,751500.0
-T?rkiye,T?rkiye,2011,211529.0
-T?rkiye,T?rkiye,2012,199496.0
-T?rkiye,T?rkiye,2013,188789.0
-T?rkiye,T?rkiye,2014,181422.0
-T?rkiye,T?rkiye,2015,170503.0
-T?rkiye,T?rkiye,2016,155158.0
-T?rkiye,T?rkiye,2017,151439.0
-T?rkiye,T?rkiye,2018,133953.0
-T?rkiye,T?rkiye,2019,126912.0
 TCD,Chad,2011,468000.0
 TCD,Chad,2012,476000.0
 TCD,Chad,2013,480000.0
@@ -1627,6 +1627,15 @@ TUN,Tunisia,2016,241465.0
 TUN,Tunisia,2017,242276.0
 TUN,Tunisia,2018,242069.0
 TUN,Tunisia,2019,242224.0
+TUR,T?rkiye,2011,211529.0
+TUR,T?rkiye,2012,199496.0
+TUR,T?rkiye,2013,188789.0
+TUR,T?rkiye,2014,181422.0
+TUR,T?rkiye,2015,170503.0
+TUR,T?rkiye,2016,155158.0
+TUR,T?rkiye,2017,151439.0
+TUR,T?rkiye,2018,133953.0
+TUR,T?rkiye,2019,126912.0
 TUV,Tuvalu,2011,0.0
 TUV,Tuvalu,2012,0.0
 TUV,Tuvalu,2013,0.0
@@ -1690,15 +1699,6 @@ UZB,Uzbekistan,2016,313931.0
 UZB,Uzbekistan,2017,266875.0
 UZB,Uzbekistan,2018,222975.0
 UZB,Uzbekistan,2019,186691.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2011,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2012,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2013,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2014,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2015,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2016,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2017,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2018,0.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2019,0.0
 VCT,Saint Vincent and the Grenadines,2011,1300.0
 VCT,Saint Vincent and the Grenadines,2012,1300.0
 VCT,Saint Vincent and the Grenadines,2013,1300.0

@@ -575,6 +575,15 @@ GAB,Gabon,2016,111072.0
 GAB,Gabon,2017,113208.0
 GAB,Gabon,2018,115256.0
 GAB,Gabon,2019,113363.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2011,94000.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2012,98000.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2013,98000.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2014,100000.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2015,101000.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2016,104000.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2017,104000.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2018,104000.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2019,104000.0
 GEO,Georgia,2011,57100.0
 GEO,Georgia,2012,53600.0
 GEO,Georgia,2013,54400.0
@@ -1528,15 +1537,6 @@ SYR,Syrian Arab Republic,2017,1806720.0
 SYR,Syrian Arab Republic,2018,1806510.0
 SYR,Syrian Arab Republic,2019,1844197.0
 Sudan (former),Sudan (former),2011,30649000.0
-T?rkiye,T?rkiye,2011,6293233.0
-T?rkiye,T?rkiye,2012,7277953.0
-T?rkiye,T?rkiye,2013,8357286.0
-T?rkiye,T?rkiye,2014,9225548.0
-T?rkiye,T?rkiye,2015,10344936.0
-T?rkiye,T?rkiye,2016,10416166.0
-T?rkiye,T?rkiye,2017,10345299.0
-T?rkiye,T?rkiye,2018,10922427.0
-T?rkiye,T?rkiye,2019,11205429.0
 TCD,Chad,2011,24011000.0
 TCD,Chad,2012,25494000.0
 TCD,Chad,2013,27070000.0
@@ -1627,6 +1627,15 @@ TUN,Tunisia,2016,1184600.0
 TUN,Tunisia,2017,1181197.0
 TUN,Tunisia,2018,1198838.0
 TUN,Tunisia,2019,1162624.0
+TUR,T?rkiye,2011,6293233.0
+TUR,T?rkiye,2012,7277953.0
+TUR,T?rkiye,2013,8357286.0
+TUR,T?rkiye,2014,9225548.0
+TUR,T?rkiye,2015,10344936.0
+TUR,T?rkiye,2016,10416166.0
+TUR,T?rkiye,2017,10345299.0
+TUR,T?rkiye,2018,10922427.0
+TUR,T?rkiye,2019,11205429.0
 TUV,Tuvalu,2011,0.0
 TUV,Tuvalu,2012,0.0
 TUV,Tuvalu,2013,0.0
@@ -1690,15 +1699,6 @@ UZB,Uzbekistan,2016,3741000.0
 UZB,Uzbekistan,2017,3830000.0
 UZB,Uzbekistan,2018,3805800.0
 UZB,Uzbekistan,2019,3709100.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2011,94000.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2012,98000.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2013,98000.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2014,100000.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2015,101000.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2016,104000.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2017,104000.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2018,104000.0
-United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,2019,104000.0
 VCT,Saint Vincent and the Grenadines,2011,9000.0
 VCT,Saint Vincent and the Grenadines,2012,9651.0
 VCT,Saint Vincent and the Grenadines,2013,9350.0
