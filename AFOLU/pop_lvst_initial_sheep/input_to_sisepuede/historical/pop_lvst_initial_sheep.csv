@@ -242,15 +242,6 @@ BWA,Botswana,2016,239715.0
 BWA,Botswana,2017,234621.0
 BWA,Botswana,2018,237835.0
 BWA,Botswana,2019,242911.0
-C?te d'Ivoire,C?te d'Ivoire,2011,1700303.0
-C?te d'Ivoire,C?te d'Ivoire,2012,1708464.0
-C?te d'Ivoire,C?te d'Ivoire,2013,1725207.0
-C?te d'Ivoire,C?te d'Ivoire,2014,1740000.0
-C?te d'Ivoire,C?te d'Ivoire,2015,1755736.0
-C?te d'Ivoire,C?te d'Ivoire,2016,1880780.0
-C?te d'Ivoire,C?te d'Ivoire,2017,1981306.0
-C?te d'Ivoire,C?te d'Ivoire,2018,2101203.0
-C?te d'Ivoire,C?te d'Ivoire,2019,2182087.0
 CAF,Central African Republic,2011,386000.0
 CAF,Central African Republic,2012,400000.0
 CAF,Central African Republic,2013,400000.0
@@ -296,6 +287,15 @@ CHN,China,2016,166668037.0
 CHN,China,2017,164079107.0
 CHN,China,2018,161388433.0
 CHN,China,2019,163489855.0
+CIV,C?te d'Ivoire,2011,1700303.0
+CIV,C?te d'Ivoire,2012,1708464.0
+CIV,C?te d'Ivoire,2013,1725207.0
+CIV,C?te d'Ivoire,2014,1740000.0
+CIV,C?te d'Ivoire,2015,1755736.0
+CIV,C?te d'Ivoire,2016,1880780.0
+CIV,C?te d'Ivoire,2017,1981306.0
+CIV,C?te d'Ivoire,2018,2101203.0
+CIV,C?te d'Ivoire,2019,2182087.0
 CMR,Cameroon,2011,2879280.0
 CMR,Cameroon,2012,2974297.0
 CMR,Cameroon,2013,2952624.0

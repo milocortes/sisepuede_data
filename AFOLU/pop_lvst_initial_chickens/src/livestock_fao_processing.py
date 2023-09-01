@@ -22,7 +22,7 @@ m49_fao_countries = pd.read_json("https://data.apps.fao.org/catalog/dataset/1712
 cw_fao_names_iso_code3 = {i:j for i,j in zip(m49_fao_countries["country_name_en"], m49_fao_countries["ISO3"])}
 fao_data["iso_code3"] = fao_data["Area"].replace(cw_fao_names_iso_code3)
 
-fao_data["iso_code3"] = fao_data["iso_code3"].replace({'T?rkiye': 'TUR', 'United Kingdom of Great Britain and Northern Ireland' : "GBR"})
+fao_data["iso_code3"] = fao_data["iso_code3"].replace({'T?rkiye': 'TUR', 'United Kingdom of Great Britain and Northern Ireland' : "GBR", "C?te d'Ivoire" : "CIV"})
 
 # Cargamos el crosswalk entre Items de FAO ---> sisepuede
 cw =  pd.read_csv(os.path.join(data_path, "items_classification.csv"))[["Item_Fao", "File_Sisepuede"]]
