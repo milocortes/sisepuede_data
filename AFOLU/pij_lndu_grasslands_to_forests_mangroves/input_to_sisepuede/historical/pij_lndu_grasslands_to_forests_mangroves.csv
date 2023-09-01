@@ -68,9 +68,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Belize,BLZ,0.0
 2016,Belize,BLZ,0.0009285493322139
 2017,Belize,BLZ,0.0009285493322139
-2018,Belize,BLZ,0.0009004114736619637
-2019,Belize,BLZ,0.0008722736151100273
-2020,Belize,BLZ,0.0008441357565580909
+2018,Belize,BLZ,0.0009004114736619
+2019,Belize,BLZ,0.00087227361511
+2020,Belize,BLZ,0.0008441357565580001
 2015,Benin,BEN,2.775557561562892e-17
 2016,Benin,BEN,0.0
 2017,Benin,BEN,0.0
@@ -134,9 +134,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Cambodia,KHM,0.0011482471682128
 2016,Cambodia,KHM,0.0024999999999999
 2017,Cambodia,KHM,0.0024999999999999
-2018,Cambodia,KHM,0.002424242424242327
-2019,Cambodia,KHM,0.0023484848484847548
-2020,Cambodia,KHM,0.0022727272727271807
+2018,Cambodia,KHM,0.0024242424242423
+2019,Cambodia,KHM,0.0023484848484847
+2020,Cambodia,KHM,0.0022727272727271
 2015,Cameroon,CMR,0.0
 2016,Cameroon,CMR,0.0
 2017,Cameroon,CMR,0.0
@@ -152,9 +152,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Cayman Islands,CYM,0.0
 2016,Cayman Islands,CYM,0.0
 2017,Cayman Islands,CYM,0.0007119284208213
-2018,Cayman Islands,CYM,0.0006903548323115655
-2019,Cayman Islands,CYM,0.000668781243801831
-2020,Cayman Islands,CYM,0.0006472076552920965
+2018,Cayman Islands,CYM,0.0006903548323115
+2019,Cayman Islands,CYM,0.0006687812438018
+2020,Cayman Islands,CYM,0.0006472076552919999
 2015,Central African Republic,CAF,0.0
 2016,Central African Republic,CAF,0.0
 2017,Central African Republic,CAF,0.0
@@ -182,9 +182,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Colombia,COL,0.0
 2016,Colombia,COL,0.0003927651887828
 2017,Colombia,COL,0.0004584036470226
-2018,Colombia,COL,0.0004445126274158546
-2019,Colombia,COL,0.00043062160780910915
-2020,Colombia,COL,0.0004167305882023637
+2018,Colombia,COL,0.0004445126274158
+2019,Colombia,COL,0.0004306216078091
+2020,Colombia,COL,0.0004167305882023
 2015,Congo,COG,0.0
 2016,Congo,COG,0.0
 2017,Congo,COG,0.0
@@ -224,9 +224,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Democratic Republic of the Congo,COD,0.0035989039925172
 2016,Democratic Republic of the Congo,COD,0.0
 2017,Democratic Republic of the Congo,COD,0.0079129728076144
-2018,Democratic Republic of the Congo,COD,0.007673185752838207
-2019,Democratic Republic of the Congo,COD,0.007433398698062013
-2020,Democratic Republic of the Congo,COD,0.007193611643285819
+2018,Democratic Republic of the Congo,COD,0.0076731857528382
+2019,Democratic Republic of the Congo,COD,0.007433398698061999
+2020,Democratic Republic of the Congo,COD,0.0071936116432858
 2015,Djibouti,DJI,0.0
 2016,Djibouti,DJI,0.0
 2017,Djibouti,DJI,0.0
@@ -248,15 +248,15 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Ecuador,ECU,0.0
 2016,Ecuador,ECU,0.0006540345528922
 2017,Ecuador,ECU,0.0006540345528922
-2018,Ecuador,ECU,0.0006342153240166788
-2019,Ecuador,ECU,0.0006143960951411577
-2020,Ecuador,ECU,0.0005945768662656364
+2018,Ecuador,ECU,0.0006342153240166
+2019,Ecuador,ECU,0.0006143960951411
+2020,Ecuador,ECU,0.0005945768662656
 2015,El Salvador,SLV,0.0145822769463283
 2016,El Salvador,SLV,0.014795349762091
 2017,El Salvador,SLV,0.0150854223317342
-2018,El Salvador,SLV,0.014628288321681646
-2019,El Salvador,SLV,0.014171154311629098
-2020,El Salvador,SLV,0.013714020301576544
+2018,El Salvador,SLV,0.0146282883216816
+2019,El Salvador,SLV,0.014171154311629
+2020,El Salvador,SLV,0.0137140203015765
 2015,Equatorial Guinea,GNQ,0.0024999999999999
 2016,Equatorial Guinea,GNQ,0.0
 2017,Equatorial Guinea,GNQ,0.0
@@ -302,9 +302,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Gambia,GMB,0.0053323750000001
 2016,Gambia,GMB,0.0051369194542252
 2017,Gambia,GMB,0.0051173125
-2018,Gambia,GMB,0.004962242424242425
-2019,Gambia,GMB,0.004807172348484849
-2020,Gambia,GMB,0.004652102272727273
+2018,Gambia,GMB,0.0049622424242424
+2019,Gambia,GMB,0.0048071723484848
+2020,Gambia,GMB,0.0046521022727272
 2015,Georgia,GEO,0.0
 2016,Georgia,GEO,0.0
 2017,Georgia,GEO,0.0
@@ -326,9 +326,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Guadeloupe,GLP,0.0
 2016,Guadeloupe,GLP,0.0081965828135449
 2017,Guadeloupe,GLP,0.0081965828135449
-2018,Guadeloupe,GLP,0.007948201516164752
-2019,Guadeloupe,GLP,0.007699820218784605
-2020,Guadeloupe,GLP,0.0074514389214044565
+2018,Guadeloupe,GLP,0.0079482015161647
+2019,Guadeloupe,GLP,0.0076998202187846
+2020,Guadeloupe,GLP,0.0074514389214044
 2015,Guam,GUM,0.0
 2016,Guam,GUM,0.0
 2017,Guam,GUM,0.0
@@ -386,9 +386,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Indonesia,IDN,0.0
 2016,Indonesia,IDN,0.0
 2017,Indonesia,IDN,0.0121493587814377
-2018,Indonesia,IDN,0.011781196394121406
-2019,Indonesia,IDN,0.011413034006805113
-2020,Indonesia,IDN,0.01104487161948882
+2018,Indonesia,IDN,0.0117811963941214
+2019,Indonesia,IDN,0.0114130340068051
+2020,Indonesia,IDN,0.0110448716194888
 2015,Iran (Islamic Republic of),IRN,0.0
 2016,Iran (Islamic Republic of),IRN,0.0
 2017,Iran (Islamic Republic of),IRN,0.0
@@ -494,9 +494,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Malaysia,MYS,0.0024999999999999
 2016,Malaysia,MYS,0.0
 2017,Malaysia,MYS,0.0003333333333333
-2018,Malaysia,MYS,0.0003232323232322909
-2019,Malaysia,MYS,0.00031313131313128183
-2020,Malaysia,MYS,0.0003030303030302727
+2018,Malaysia,MYS,0.0003232323232322
+2019,Malaysia,MYS,0.0003131313131312
+2020,Malaysia,MYS,0.0003030303030302
 2015,Maldives,MDV,0.0
 2016,Maldives,MDV,0.0
 2017,Maldives,MDV,0.0
@@ -602,9 +602,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Nicaragua,NIC,0.0010710708475533
 2016,Nicaragua,NIC,0.0018996986431984
 2017,Nicaragua,NIC,0.0023391558124014
-2018,Nicaragua,NIC,0.0022682723029346912
-2019,Nicaragua,NIC,0.0021973887934679816
-2020,Nicaragua,NIC,0.002126505284001273
+2018,Nicaragua,NIC,0.0022682723029346
+2019,Nicaragua,NIC,0.0021973887934679
+2020,Nicaragua,NIC,0.0021265052840012
 2015,Niger,NER,0.0
 2016,Niger,NER,0.0
 2017,Niger,NER,0.0
@@ -620,9 +620,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Northern Mariana Islands,MNP,0.0001562499999999
 2016,Northern Mariana Islands,MNP,0.0
 2017,Northern Mariana Islands,MNP,0.0001562499999999
-2018,Northern Mariana Islands,MNP,0.00015151515151505456
-2019,Northern Mariana Islands,MNP,0.00014678030303020908
-2020,Northern Mariana Islands,MNP,0.00014204545454536368
+2018,Northern Mariana Islands,MNP,0.00015151515151499997
+2019,Northern Mariana Islands,MNP,0.0001467803030302
+2020,Northern Mariana Islands,MNP,0.0001420454545453
 2015,Oman,OMN,0.0
 2016,Oman,OMN,0.0
 2017,Oman,OMN,0.0
@@ -638,14 +638,14 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Panama,PAN,0.0024999999999999
 2016,Panama,PAN,0.0022002482260331
 2017,Panama,PAN,0.0019083001719926
-2018,Panama,PAN,0.0018504728940534304
-2019,Panama,PAN,0.0017926456161142606
-2020,Panama,PAN,0.001734818338175091
+2018,Panama,PAN,0.0018504728940534
+2019,Panama,PAN,0.0017926456161142
+2020,Panama,PAN,0.0017348183381749999
 2015,Papua New Guinea,PNG,0.0
 2016,Papua New Guinea,PNG,4.142707644555344e-17
 2017,Papua New Guinea,PNG,0.0
 2018,Papua New Guinea,PNG,3.371872569872633e-19
-2019,Papua New Guinea,PNG,6.743745139745267e-19
+2019,Papua New Guinea,PNG,6.743745139745268e-19
 2020,Papua New Guinea,PNG,1.01156177096179e-18
 2015,Paraguay,PRY,0.0
 2016,Paraguay,PRY,0.0
@@ -662,9 +662,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Philippines,PHL,0.0
 2016,Philippines,PHL,0.0
 2017,Philippines,PHL,0.0004179925882013
-2018,Philippines,PHL,0.00040532614613459397
-2019,Philippines,PHL,0.0003926597040678879
-2020,Philippines,PHL,0.00037999326200118173
+2018,Philippines,PHL,0.0004053261461345
+2019,Philippines,PHL,0.0003926597040678
+2020,Philippines,PHL,0.0003799932620011
 2015,Qatar,QAT,0.0
 2016,Qatar,QAT,0.0
 2017,Qatar,QAT,0.0
@@ -722,9 +722,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Samoa,WSM,0.1175496688741721
 2016,Samoa,WSM,0.011140878988561002
 2017,Samoa,WSM,0.011140878988561002
-2018,Samoa,WSM,0.010803276594968242
-2019,Samoa,WSM,0.010465674201375485
-2020,Samoa,WSM,0.010128071807782729
+2018,Samoa,WSM,0.0108032765949682
+2019,Samoa,WSM,0.0104656742013754
+2020,Samoa,WSM,0.0101280718077827
 2015,Saudi Arabia,SAU,0.0
 2016,Saudi Arabia,SAU,0.0
 2017,Saudi Arabia,SAU,0.0
@@ -746,9 +746,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Sierra Leone,SLE,0.0020602476704845
 2016,Sierra Leone,SLE,0.001951946223329
 2017,Sierra Leone,SLE,0.000654856308273
-2018,Sierra Leone,SLE,0.0006350121777192728
-2019,Sierra Leone,SLE,0.0006151680471655455
-2020,Sierra Leone,SLE,0.0005953239166118183
+2018,Sierra Leone,SLE,0.0006350121777192
+2019,Sierra Leone,SLE,0.0006151680471655
+2020,Sierra Leone,SLE,0.0005953239166118
 2015,Solomon Islands,SLB,0.0
 2016,Solomon Islands,SLB,0.0
 2017,Solomon Islands,SLB,0.0
@@ -770,9 +770,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Sri Lanka,LKA,0.0
 2016,Sri Lanka,LKA,0.0
 2017,Sri Lanka,LKA,0.0004012128569529
-2018,Sri Lanka,LKA,0.0003890548915906909
-2019,Sri Lanka,LKA,0.0003768969262284818
-2020,Sri Lanka,LKA,0.0003647389608662727
+2018,Sri Lanka,LKA,0.0003890548915906
+2019,Sri Lanka,LKA,0.0003768969262284
+2020,Sri Lanka,LKA,0.0003647389608662
 2015,Sudan,SDN,0.0
 2016,Sudan,SDN,0.0
 2017,Sudan,SDN,0.0
@@ -818,9 +818,9 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2015,Tonga,TON,0.0
 2016,Tonga,TON,0.0
 2017,Tonga,TON,0.0001785714285714
-2018,Tonga,TON,0.00017316017316014546
-2019,Tonga,TON,0.00016774891774889091
-2020,Tonga,TON,0.00016233766233763634
+2018,Tonga,TON,0.0001731601731601
+2019,Tonga,TON,0.0001677489177488
+2020,Tonga,TON,0.0001623376623376
 2015,Trinidad and Tobago,TTO,0.0
 2016,Trinidad and Tobago,TTO,0.0
 2017,Trinidad and Tobago,TTO,0.0
@@ -899,3 +899,189 @@ Year,Nation,iso_code3,pij_lndu_grasslands_to_forests_mangroves
 2018,Zimbabwe,ZWE,0.0
 2019,Zimbabwe,ZWE,0.0
 2020,Zimbabwe,ZWE,0.0
+2015,Armenia,ARM,0.0
+2016,Armenia,ARM,0.0
+2017,Armenia,ARM,0.0
+2018,Armenia,ARM,0.0
+2019,Armenia,ARM,0.0
+2020,Armenia,ARM,0.0
+2015,Australia,AUS,0.0
+2016,Australia,AUS,0.0
+2017,Australia,AUS,0.0
+2018,Australia,AUS,0.0
+2019,Australia,AUS,0.0
+2020,Australia,AUS,0.0
+2015,Croatia,HRV,0.0
+2016,Croatia,HRV,0.0
+2017,Croatia,HRV,0.0
+2018,Croatia,HRV,0.0
+2019,Croatia,HRV,0.0
+2020,Croatia,HRV,0.0
+2015,Cyprus,CYP,0.0
+2016,Cyprus,CYP,0.0
+2017,Cyprus,CYP,0.0
+2018,Cyprus,CYP,0.0
+2019,Cyprus,CYP,0.0
+2020,Cyprus,CYP,0.0
+2015,Egypt,EGY,0.0
+2016,Egypt,EGY,0.0
+2017,Egypt,EGY,0.0
+2018,Egypt,EGY,0.0
+2019,Egypt,EGY,0.0
+2020,Egypt,EGY,0.0
+2015,Ethiopia,ETH,0.0
+2016,Ethiopia,ETH,0.0
+2017,Ethiopia,ETH,0.0
+2018,Ethiopia,ETH,0.0
+2019,Ethiopia,ETH,0.0
+2020,Ethiopia,ETH,0.0
+2015,Finland,FIN,0.0
+2016,Finland,FIN,0.0
+2017,Finland,FIN,0.0
+2018,Finland,FIN,0.0
+2019,Finland,FIN,0.0
+2020,Finland,FIN,0.0
+2015,Greece,GRC,0.0
+2016,Greece,GRC,0.0
+2017,Greece,GRC,0.0
+2018,Greece,GRC,0.0
+2019,Greece,GRC,0.0
+2020,Greece,GRC,0.0
+2015,Japan,JPN,2.4122379786123844e-06
+2016,Japan,JPN,2.4122379786123844e-06
+2017,Japan,JPN,2.4122379786123844e-06
+2018,Japan,JPN,2.4122379786123844e-06
+2019,Japan,JPN,2.4122379786123844e-06
+2020,Japan,JPN,2.4122379786123844e-06
+2015,Kenya,KEN,0.0
+2016,Kenya,KEN,0.0
+2017,Kenya,KEN,0.0
+2018,Kenya,KEN,0.0
+2019,Kenya,KEN,0.0
+2020,Kenya,KEN,0.0
+2015,Kyrgyzstan,KGZ,0.0
+2016,Kyrgyzstan,KGZ,0.0
+2017,Kyrgyzstan,KGZ,0.0
+2018,Kyrgyzstan,KGZ,0.0
+2019,Kyrgyzstan,KGZ,0.0
+2020,Kyrgyzstan,KGZ,0.0
+2015,Lebanon,LBN,0.0
+2016,Lebanon,LBN,0.0
+2017,Lebanon,LBN,0.0
+2018,Lebanon,LBN,0.0
+2019,Lebanon,LBN,0.0
+2020,Lebanon,LBN,0.0
+2015,Lithuania,LTU,0.0
+2016,Lithuania,LTU,0.0
+2017,Lithuania,LTU,0.0
+2018,Lithuania,LTU,0.0
+2019,Lithuania,LTU,0.0
+2020,Lithuania,LTU,0.0
+2015,Luxembourg,LUX,0.0
+2016,Luxembourg,LUX,0.0
+2017,Luxembourg,LUX,0.0
+2018,Luxembourg,LUX,0.0
+2019,Luxembourg,LUX,0.0
+2020,Luxembourg,LUX,0.0
+2015,Mongolia,MNG,0.0
+2016,Mongolia,MNG,0.0
+2017,Mongolia,MNG,0.0
+2018,Mongolia,MNG,0.0
+2019,Mongolia,MNG,0.0
+2020,Mongolia,MNG,0.0
+2015,Myanmar,MMR,0.0
+2016,Myanmar,MMR,0.0
+2017,Myanmar,MMR,0.0
+2018,Myanmar,MMR,0.0
+2019,Myanmar,MMR,0.0
+2020,Myanmar,MMR,0.0
+2015,North Macedonia,MKD,0.0
+2016,North Macedonia,MKD,0.0
+2017,North Macedonia,MKD,0.0
+2018,North Macedonia,MKD,0.0
+2019,North Macedonia,MKD,0.0
+2020,North Macedonia,MKD,0.0
+2015,Norway,NOR,0.0
+2016,Norway,NOR,0.0
+2017,Norway,NOR,0.0
+2018,Norway,NOR,0.0
+2019,Norway,NOR,0.0
+2020,Norway,NOR,0.0
+2015,Portugal,PRT,0.0
+2016,Portugal,PRT,0.0
+2017,Portugal,PRT,0.0
+2018,Portugal,PRT,0.0
+2019,Portugal,PRT,0.0
+2020,Portugal,PRT,0.0
+2015,Republic of Korea,KOR,0.0
+2016,Republic of Korea,KOR,0.0
+2017,Republic of Korea,KOR,0.0
+2018,Republic of Korea,KOR,0.0
+2019,Republic of Korea,KOR,0.0
+2020,Republic of Korea,KOR,0.0
+2015,Singapore,SGP,0.0
+2016,Singapore,SGP,0.0
+2017,Singapore,SGP,0.0
+2018,Singapore,SGP,0.0
+2019,Singapore,SGP,0.0
+2020,Singapore,SGP,0.0
+2015,Slovakia,SVK,0.0
+2016,Slovakia,SVK,0.0
+2017,Slovakia,SVK,0.0
+2018,Slovakia,SVK,0.0
+2019,Slovakia,SVK,0.0
+2020,Slovakia,SVK,0.0
+2015,Slovenia,SVN,0.0
+2016,Slovenia,SVN,0.0
+2017,Slovenia,SVN,0.0
+2018,Slovenia,SVN,0.0
+2019,Slovenia,SVN,0.0
+2020,Slovenia,SVN,0.0
+2015,South Sudan,SSD,0.0
+2016,South Sudan,SSD,0.0
+2017,South Sudan,SSD,0.0
+2018,South Sudan,SSD,0.0
+2019,South Sudan,SSD,0.0
+2020,South Sudan,SSD,0.0
+2015,Spain,ESP,0.0
+2016,Spain,ESP,0.0
+2017,Spain,ESP,0.0
+2018,Spain,ESP,0.0
+2019,Spain,ESP,0.0
+2020,Spain,ESP,0.0
+2015,Sweden,SWE,0.0
+2016,Sweden,SWE,0.0
+2017,Sweden,SWE,0.0
+2018,Sweden,SWE,0.0
+2019,Sweden,SWE,0.0
+2020,Sweden,SWE,0.0
+2015,Turkey,TUR,0.0
+2016,Turkey,TUR,0.0
+2017,Turkey,TUR,0.0
+2018,Turkey,TUR,0.0
+2019,Turkey,TUR,0.0
+2020,Turkey,TUR,0.0
+2015,United Arab Emirates,ARE,0.0
+2016,United Arab Emirates,ARE,0.0
+2017,United Arab Emirates,ARE,0.0
+2018,United Arab Emirates,ARE,0.0
+2019,United Arab Emirates,ARE,0.0
+2020,United Arab Emirates,ARE,0.0
+2015,United Kingdom,GBR,0.0
+2016,United Kingdom,GBR,0.0
+2017,United Kingdom,GBR,0.0
+2018,United Kingdom,GBR,0.0
+2019,United Kingdom,GBR,0.0
+2020,United Kingdom,GBR,0.0
+2015,Uzbekistan,UZB,0.0
+2016,Uzbekistan,UZB,0.0
+2017,Uzbekistan,UZB,0.0
+2018,Uzbekistan,UZB,0.0
+2019,Uzbekistan,UZB,0.0
+2020,Uzbekistan,UZB,0.0
+2015,Viet Nam,VNM,0.0
+2016,Viet Nam,VNM,0.0
+2017,Viet Nam,VNM,0.0
+2018,Viet Nam,VNM,0.0
+2019,Viet Nam,VNM,0.0
+2020,Viet Nam,VNM,0.0
