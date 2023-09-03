@@ -35,7 +35,7 @@ fao_data["iso_code3"] = fao_data["Area"].replace(cw_fao_names_iso_code3)
 #fao_data["iso_code3"].unique()
 
 # Cargamos el crosswalk entre Items de FAO ---> sisepuede
-cw = pd.read_csv("https://raw.githubusercontent.com/egobiernoytp/lac_decarbonization/main/ref/data_crosswalks/fao_crop_categories.csv")
+cw = pd.read_csv("https://raw.githubusercontent.com/jcsyme/sisepuede/main/ref/data_crosswalks/fao_crop_categories.csv")
 cw = cw.rename(columns = {"fao_crop" : "Item", "``$CAT-AGRICULTURE$``" : "sisepuede_item"})
 
 cw_fao_item_sisepuede_item = { i:j for i,j in zip(cw["Item"], cw["sisepuede_item"])}
@@ -54,12 +54,16 @@ fao_data = fao_data.pivot(index=['iso_code3', 'Area', 'Year'], columns='sisepued
 
 fao_data = fao_data.rename(columns = {"Area" : "Nation"})
 
+
+  
 ## Hacemos interpolación para cubrir los datos faltantes
 ## Y guardamos datos históricos
 
 path_historical_data = "../input_to_sisepuede/historical"
 
 for sise_var in [i for i in fao_data.columns if "yf_agrc" in i]:
+    # Convertion Hectogram to Ton (metric) : 1 hg = 0.0001 t
+    fao_data[sise_var] *= 0.0001 
 
     if sisepuede_var == sise_var:
 
