@@ -1,20 +1,21 @@
-avgload_trns_freight_tonne_per_vehicle_road_heavy_freight
-
-Acccording to URL:
-
-https://ops.fhwa.dot.gov/freight/freight_analysis/nat_freight_stats/docs/04factsfigures/table3_4.htm#:~:text=The%2060%2C000%20to%2080%2C000%20pounds,allowed%20on%20the%20highway%20system.&text=Excludes%20trucks%20with%20an%20average,of%204%2C536%20kilograms%20or%20less).
-
-
-"The 60,000 to 80,000 pounds average weight category is the largest both in number of trucks and VMT because in most cases 80,000 pounds is the maximum allowed on the highway system."
-
-We will take the average of these quantities, i.e., (80000+60000)/2=70000 pounds per vehicle.
-
-1 pound= 0.0004535920000001679 tonn
-
-70000 pound= 31.751466 tonn
+variable :
+  name : avgload_trns_freight_tonne_per_vehicle_road_heavy_freight
+  subsector :   Energy transport
+  longname :  Average Freight Vehicle Load
+  units: tonne
+resources:
+    - url:   https://ops.fhwa.dot.gov/freight/freight_analysis/nat_freight_stats/docs/04factsfigures/table3_4.htm#:~:text=The%2060%2C000%20to%2080%2C000%20pounds,allowed%20on%20the%20highway%20system.&text=Excludes%20trucks%20with%20an%20average,of%204%2C536%20kilograms%20or%20less).
+      descrip:   US department of transportation
 
 
+aditional_information:
+  "The 60,000 to 80,000 pounds average weight category is the largest both in number of trucks and VMT because in most cases 80,000 pounds is the maximum allowed on the highway system."
 
-Assumptions:
+  We will take the average of these quantities, i.e., (80000+60000)/2=70000 pounds per vehicle.
 
-Average vehicle capacity is the average load, meaning that in average the maximum capacity of all vehicles is reached.
+  1 pound= 0.0004535920000001679 tonn
+
+  70000 pound= 31.751466 tonn
+
+  Assumptions:
+    Average vehicle capacity is the average load, meaning that in average the maximum capacity of all vehicles is reached.
