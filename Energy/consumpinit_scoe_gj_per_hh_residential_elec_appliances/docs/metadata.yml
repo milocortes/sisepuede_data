@@ -15,6 +15,6 @@ Assumptions:
         If it is present for some years:
             the missing historic values are obtained as the last historical mean
         Else:
-            A mean PJ/GDP/CAP for some significant countries is computed and imputed qithe the respective GDP and Population of the missing countries.
+            A mean PJ/GDP/CAP for some significant countries is computed and imputed with the corresponding GDP and Population of the missing countries.
 
     Projected values for energy are obtained by computing the growth ratio of GDP per caprita and applied to the last historical value.
