@@ -14,7 +14,7 @@ aditional_information:
 
       assumptions: 
 	
-	-Data value of countries not present in the data set are found as follow:
+	-Data value of countries not present in the data set are found as follows:
 
 	country_val = 1/N_df*sum_N(MT-Km_df/TJ_df)*TJ_coutry
 

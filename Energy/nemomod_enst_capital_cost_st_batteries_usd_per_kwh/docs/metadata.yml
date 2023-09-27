@@ -1,4 +1,21 @@
 2-02-2022
 
-URL: https://www.iea.org/data-and-statistics/charts/announced-capital-costs-per-unit-of-new-ev-and-energy-storage-battery-manufacturing-capacity-2010-2019
+URL: 
+
+date:        2023-03-27
+variable :
+  name : frac_inen_energy
+  subsector :   nemomod
+  longname :  Capital cost of producing batteries 
+  units: USD/KWh
+
+resources:
+    - url:   https://www.iea.org/data-and-statistics/charts/announced-capital-costs-per-unit-of-new-ev-and-energy-storage-battery-manufacturing-capacity-2010-2019
+      descrip:   IEA, Announced capital costs per unit of new EV and energy storage battery manufacturing capacity, 2010-2019
+
+
+aditional_information:
+      assumptions: >
+            -Every nation has the same reported values
+            -projected values are the last historical value
 
