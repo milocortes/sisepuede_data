@@ -4,11 +4,30 @@ import glob
 from datetime import datetime
 import sys 
 
+# Cargamos programas de SSP
+import define_transformations_integrated as dtr
+import sisepuede as ssp
+import setup_analysis as sa
+import support_classes as sc    
+import sisepuede_file_structure as sfs
+import support_functions as sf
+
+# Usamos utilerias para obtener información de los países
+file_struct = sfs.SISEPUEDEFileStructure()
+model_attributes = file_struct.model_attributes
+regions = sc.Regions(model_attributes)
+
+regions_table = regions.attributes.table.copy()
+
+iso2region = {i:j for i,j in regions_table[["iso_alpha_3", "region"]].to_records(index = False)}
+region2iso = {i:j for i,j in regions_table[["region", "iso_alpha_3"]].to_records(index = False)}
+
+# Sectores a procesar
 sisepuede_sector = ["AFOLU", "CircularEconomy", "IPPU", "SocioEconomic", "Energy"]
 
 var_to_index = ["iso_code3", "Year"]
 
-country = sys.argv[1]
+country = region2iso[sys.argv[1]]
 
 countries = []
 countries.append(country)
