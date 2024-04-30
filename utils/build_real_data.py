@@ -5,6 +5,9 @@ from datetime import datetime
 import sys 
 
 # Cargamos programas de SSP
+# Cargamos la ruta del sisepuede para hacer uso de algunas utilerías
+SSP_PYTHON_PATH = '/opt/sisepuede/python'
+sys.path.append(SSP_PYTHON_PATH)
 import define_transformations_integrated as dtr
 import sisepuede as ssp
 import setup_analysis as sa
