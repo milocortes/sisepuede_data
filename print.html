@@ -1,0 +1,900 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>SISEPUEDE configuration in Apptainer</title>
+        <meta name="robots" content="noindex">
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="index.html">Introduction</a></li><li class="chapter-item expanded "><a href="ssp.html"><strong aria-hidden="true">1.</strong> SISEPUEDE model configuration</a></li><li class="chapter-item expanded "><a href="cb.html"><strong aria-hidden="true">2.</strong> Cost and Benefits module configuration</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">SISEPUEDE configuration in Apptainer</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="sisepuede-modules-configuration-in-apptainer"><a class="header" href="#sisepuede-modules-configuration-in-apptainer">SISEPUEDE modules configuration in Apptainer</a></h1>
+<ul>
+<li><a href="./ssp.html">SISEPUEDE model configuration</a></li>
+<li><a href="./cb.html">Cost and Benefits module configuration</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="sisepuede-model-configuration"><a class="header" href="#sisepuede-model-configuration">SISEPUEDE model configuration</a></h1>
+<h2 id="apptainer"><a class="header" href="#apptainer">Apptainer</a></h2>
+<p><a href="https://apptainer.org/">Apptainer</a> is a container technology that simplifies the creation and execution of containers. Apptainers represents an alternative to Docker in scientific computing.</p>
+<p>We are going to use Apptainer in order to create a image for the SISEPUEDE model execution.</p>
+<p>The Apptainer installations steps can be found in the next URL:</p>
+<ul>
+<li><a href="https://apptainer.org/docs/admin/main/installation.html">https://apptainer.org/docs/admin/main/installation.html</a></li>
+</ul>
+<h3 id="download-and-interact-with-pre-built-images"><a class="header" href="#download-and-interact-with-pre-built-images">Download and interact with pre-built images</a></h3>
+<p>We can download pre-built images from repositories like:</p>
+<ul>
+<li>https://hub.docker.com</li>
+<li>https://quay.io</li>
+</ul>
+<blockquote>
+<p>Docker Hub download example : <code>apptainer pull docker://alpine</code></p>
+</blockquote>
+<blockquote>
+<p>Quay download example : <code>apptainer pull docker://quay.io/jitesoft/alpine</code></p>
+</blockquote>
+<h3 id="image-configuration-from-sandbox"><a class="header" href="#image-configuration-from-sandbox">Image configuration from sandbox</a></h3>
+<p>The image configuration steps are the next</p>
+<p>The steps to configure the image using the sandbox format are as follows:</p>
+<ul>
+<li>
+<ol>
+<li>Build the image in sandbox format:</li>
+</ol>
+</li>
+</ul>
+<pre><code class="language-bash">apptainer build --sandbox &lt;URI&gt; | &lt;imagen&gt;
+</code></pre>
+<ul>
+<li>
+<ol start="2">
+<li>Request a shell in the sandbox directory:</li>
+</ol>
+</li>
+</ul>
+<pre><code class="language-bash">apptainer shell --writable &lt;DIR&gt;
+</code></pre>
+<ul>
+<li>
+<ol start="3">
+<li>Make the required configurations.</li>
+</ol>
+</li>
+<li>
+<ol start="4">
+<li>Convert the sandbox to SIF format:</li>
+</ol>
+</li>
+</ul>
+<pre><code class="language-bash">apptainer build imagen.sif &lt;DIR&gt;
+</code></pre>
+<h3 id="image-construction-of-sisepuede-model-from-sandbox-format"><a class="header" href="#image-construction-of-sisepuede-model-from-sandbox-format">Image construction of SISEPUEDE model from sandbox format</a></h3>
+<h4 id="1-build-the-image-in-sandbox-format"><a class="header" href="#1-build-the-image-in-sandbox-format">1) Build the image in sandbox format</a></h4>
+<p>We will configure the image to run SISEPUEDE from a pre-built Ubuntu 22.04.4 LTS image from Docker Hub:</p>
+<pre><code class="language-bash">apptainer pull docker://ubuntu:22.04
+</code></pre>
+<blockquote>
+<p>We will use the sandbox format to make changes to the container image. Next we will build
+the image defining steps in a definition file. </p>
+</blockquote>
+<p>The downloaded image is immutable. Since we must to do configuration changes, we will create a sandbox from the image:</p>
+<pre><code class="language-bash">apptainer build --sandbox ssp_model ubuntu_22.04.sif
+</code></pre>
+<h4 id="2-request-a-shell-in-the-sandbox-directory"><a class="header" href="#2-request-a-shell-in-the-sandbox-directory">2) Request a shell in the sandbox directory</a></h4>
+<p>We request a shell in the container generated by Apptainer from the sandbox format:</p>
+<pre><code class="language-bash">apptainer shell -pfw --no-mount home ssp_model
+</code></pre>
+<p>The flags used mean the following:</p>
+<ul>
+<li>-w, --writable : by default all Apptainer containers are available as read only. This option makes the file system accessible as read/write.</li>
+<li>-f, --fakeroot : run container with the appearance of running as root</li>
+<li>-p, --pid : run container in a new PID namespace</li>
+</ul>
+<p>Inside the sandbox we have to update packages:</p>
+<pre><code class="language-bash">Apptainer&gt; apt update
+</code></pre>
+<blockquote>
+<p>We add <code>Apptainer&gt;</code> at the beginning of the prompt In order to make explicit that we are working in a  new shell within the container and we can interact with it as though it were a virtual machine.</p>
+</blockquote>
+<p>Python 3.11 installation in the sandbox:</p>
+<pre><code class="language-bash">Apptainer&gt; apt install -y python3.11 python3.11-venv python3-venv python3-dev python3-pip
+</code></pre>
+<p>Create the file <code>requirements.txt</code> for the Python packages installation:</p>
+<pre><code class="language-bash">Apptainer&gt; echo &quot;
+julia==0.6.2
+geopy==2.1.0
+munch==2.5.0
+numpy==1.23.5
+pandas==2.2.1
+pyDOE2==1.3.0
+PyYAML==6.0
+SQLAlchemy==2.0.29
+XlsxWriter==3.2.0
+openpyxl
+&quot; &gt; requirements.txt
+
+Apptainer&gt; pip install -r requirements.txt
+</code></pre>
+<p>Julia 1.8.1 installation:</p>
+<pre><code class="language-bash">Apptainer&gt; cd /opt
+Apptainer&gt; apt install -y wget
+Apptainer&gt; wget https://julialang-s3.julialang.org/bin/linux/x64/1.8/julia-1.8.1-linux-x86_64.tar.gz
+Apptainer&gt; tar zxvf julia-1.8.1-linux-x86_64.tar.gz
+Apptainer&gt; export PATH=/opt/julia-1.8.1/bin:$PATH
+</code></pre>
+<p>The SISEPUEDE repository is cloned for installing the packages in the julia's environment. Also, the NemoMod repository is cloned and locally installed:</p>
+<pre><code class="language-bash">Apptainer&gt; apt install -y git
+Apptainer&gt; git clone https://github.com/jcsyme/sisepuede.git
+Apptainer&gt; wget https://github.com/sei-international/NemoMod.jl/archive/refs/tags/v1.9.zip
+Apptainer&gt; apt install unzip
+Apptainer&gt; unzip v1.9.zip 
+Apptainer&gt; julia -e 'using Pkg; \
+    cd(&quot;sisepuede/julia&quot;);\
+    Pkg.activate(&quot;.&quot;);\
+    Pkg.rm(&quot;NemoMod&quot;); \
+    Pkg.rm(&quot;Gurobi&quot;); \
+    Pkg.rm(&quot;GAMS&quot;); \
+    Pkg.develop(path = &quot;/opt/NemoMod.jl-1.9&quot;); \
+    Pkg.instantiate()'
+
+Apptainer&gt; julia -e 'using Pkg; \
+    cd(&quot;sisepuede/julia&quot;);\
+    Pkg.activate(&quot;.&quot;);\
+    Pkg.add(&quot;PyCall&quot;);\
+    Pkg.build(&quot;PyCall&quot;)'
+</code></pre>
+<p>Install the <code>julia</code> package in Python: </p>
+<pre><code class="language-bash">Apptainer&gt; python3 -c &quot;import julia; julia.install()&quot;
+</code></pre>
+<p>Clone the SISEPUEDE data repository:</p>
+<pre><code class="language-bash">Apptainer&gt; git clone https://github.com/milocortes/sisepuede_data.git
+Apptainer&gt; mkdir -p /opt/ssp_input_data
+</code></pre>
+<p>Define a bash program <code>build-ssp-templates.sh</code> that builds the data templates needed for the SISEPUEDE execution.</p>
+<pre><code class="language-bash">Apptainer&gt; echo '
+#/bin/bash
+PAIS=$1
+mkdir &quot;/opt/sisepuede/ref/ingestion/calibrated/${PAIS}&quot;
+for sector in af ce en ip se
+do
+    cp &quot;/opt/sisepuede/ref/ingestion/demo/model_input_variables_${sector}_demo.xlsx&quot; &quot;/opt/sisepuede/ref/ingestion/calibrated/${PAIS}/model_input_variables_${PAIS}_${sector}_calibrated.xlsx&quot;
+done
+' &gt; build-ssp-templates.sh
+</code></pre>
+<p>Download the Python programs that build the input data to SISEPUEDE.</p>
+<pre><code class="language-bash">Apptainer&gt; wget https://raw.githubusercontent.com/milocortes/sisepuede_data/main/utils/build_real_data.py
+Apptainer&gt; wget https://raw.githubusercontent.com/milocortes/sisepuede_data/main/utils/build_ssp_input_data.py
+Apptainer&gt; wget https://raw.githubusercontent.com/milocortes/sisepuede_data/main/utils/merge_ssp_input_output_data.py
+</code></pre>
+<h4 id="execute-sisepuede-model"><a class="header" href="#execute-sisepuede-model">Execute SISEPUEDE model</a></h4>
+<p>So far we have already the environment for the SISEPUEDE model execution. We are going to test the model execution with Armenia. We have to follow the next steps:</p>
+<ul>
+<li>
+<ol>
+<li>Build data templates:</li>
+</ol>
+<pre><code class="language-bash">Apptainer&gt; bash /opt/build-ssp-templates.sh armenia
+</code></pre>
+</li>
+<li>
+<ol start="2">
+<li>Build input data for the country from the SISEPUEDE repository:</li>
+</ol>
+<pre><code class="language-bash">Apptainer&gt; python3 /opt/build_real_data.py &quot;$2&quot;
+</code></pre>
+</li>
+<li>
+<ol start="3">
+<li>Populate the templates created in step 1 with the data created in the step 2:</li>
+</ol>
+<pre><code class="language-bash">Apptainer&gt; python3 /opt/build_ssp_input_data.py
+</code></pre>
+</li>
+</ul>
+<p>We are going to use the program <code>sisepuede_cl.py</code> that is the command line utility to run SISEPUEDE:</p>
+<pre><code class="language-bash">Apptainer&gt; cd /opt/sisepuede/python
+Apptainer&gt; python3 sisepuede_cl.py  --regions armenia --keys-strategy 1015,5009 --keys-design 0 --keys-future 0 --database-type csv --save-inputs
+</code></pre>
+<blockquote>
+<p>You can find additional information about the command line utility running the instruction <code>Apptainer&gt; python3 sisepuede_cl.py --help</code></p>
+</blockquote>
+<p>The outputs of the execution are in the directory <code>/opt/sisepuede/out</code>:</p>
+<pre><code class="language-bash">Apptainer&gt; apt install tree
+Apptainer&gt; tree /opt/sisepuede/out
+/opt/sisepuede/out
+|-- sisepuede_run_2024-05-01T23;06;30.231232
+|   `-- sisepuede_run_2024-05-01T23;06;30.231232_model_attributes.pkl
+`-- sisepuede_run_2024-05-01T23;06;30.916459
+    |-- sisepuede_run_2024-05-01T23;06;30.916459_log.log
+    |-- sisepuede_run_2024-05-01T23;06;30.916459_model_attributes.pkl
+    `-- sisepuede_run_2024-05-01T23;06;30.916459_output_database
+        |-- ANALYSIS_METADATA.csv
+        |-- ATTRIBUTE_DESIGN.csv
+        |-- ATTRIBUTE_PRIMARY.csv
+        |-- ATTRIBUTE_STRATEGY.csv
+        |-- MODEL_BASE_INPUT_DATABASE.csv
+        |-- MODEL_INPUT.csv
+        `-- MODEL_OUTPUT.csv
+
+3 directories, 10 files
+</code></pre>
+<h4 id="creating-apptainer-image-from-definition-file"><a class="header" href="#creating-apptainer-image-from-definition-file">Creating Apptainer image from Definition File</a></h4>
+<p>For a reproducible, verifiable and production-quality container, the Apptainer documentation recommends that you build a SIF file using an Apptainer definition file. The Apptainer definition file can be thinked like a Dockerfile that contains a script of instructions. </p>
+<p>Create the definition file <code>ssp_model.def</code> with the content:</p>
+<pre><code class="language-bash">Bootstrap : docker
+From: ubuntu:22.04
+
+%post
+    echo &quot;Update the available packages&quot;
+    apt update
+
+    echo &quot;Install Python 3.11 and packages required&quot;
+    apt install -y python3.11 python3.11-venv python3-venv python3-dev python3-pip
+    echo &quot;
+          julia==0.6.2
+          geopy==2.1.0
+          munch==2.5.0
+          numpy==1.23.5
+          pandas==2.2.1
+          pyDOE2==1.3.0
+          PyYAML==6.0
+          SQLAlchemy==2.0.29
+          XlsxWriter==3.2.0
+          openpyxl
+          tqdm
+          &quot; &gt; requirements.txt
+    pip install -r requirements.txt
+
+    echo &quot;Download and install Julia 1.8.1&quot;
+    cd /opt
+    apt install -y wget
+    wget https://julialang-s3.julialang.org/bin/linux/x64/1.8/julia-1.8.1-linux-x86_64.tar.gz
+    tar zxvf julia-1.8.1-linux-x86_64.tar.gz
+    export PATH=/opt/julia-1.8.1/bin:$PATH
+
+    echo &quot;Clone SISEPUEDE repository&quot;
+    apt install -y git
+    git clone https://github.com/jcsyme/sisepuede.git
+
+    echo &quot;Clone SISEPUEDE data repository&quot;
+    git clone https://github.com/milocortes/sisepuede_data.git
+    mkdir -p /opt/ssp_input_data
+    
+    echo &quot;Install NemoMod in Julia&quot;
+    wget https://github.com/sei-international/NemoMod.jl/archive/refs/tags/v1.9.zip
+    apt install unzip
+    unzip v1.9.zip 
+    julia -e 'using Pkg; \
+        cd(&quot;sisepuede/julia&quot;);\
+        Pkg.activate(&quot;.&quot;);\
+        Pkg.rm(&quot;NemoMod&quot;); \
+        Pkg.rm(&quot;Gurobi&quot;); \
+        Pkg.rm(&quot;GAMS&quot;); \
+        Pkg.develop(path = &quot;/opt/NemoMod.jl-1.9&quot;); \
+        Pkg.instantiate()'
+
+    julia -e 'using Pkg; \
+        cd(&quot;sisepuede/julia&quot;);\
+        Pkg.activate(&quot;.&quot;);\
+        Pkg.add(&quot;PyCall&quot;);\
+        Pkg.build(&quot;PyCall&quot;)'
+
+    python3 -c &quot;import julia; julia.install()&quot;
+    apt install -y rsync
+    apt install -y zip
+
+    echo '
+    #!/bin/bash
+    echo  &gt;&gt; /opt/sisepuede/docs/source/csvs/attribute_dim_time_period.csv
+    for i in {2051..2070}; do indice=&quot;$(( $i - 2015))&quot;; echo &quot;$indice,$i&quot; &gt;&gt; /opt/sisepuede/docs/source/csvs/attribute_dim_time_period.csv ; done
+    ' &gt; configura-sisepuede.sh
+
+    echo &quot;
+    #!/bin/bash
+    python3 /opt/sisepuede/python/sisepuede_cl.py \$*
+    &quot; &gt; ejecuta-sisepuede.sh
+
+    echo '
+    #/bin/bash
+    PAIS=$1
+    mkdir &quot;/opt/sisepuede/ref/ingestion/calibrated/${PAIS}&quot;
+    for sector in af ce en ip se
+    do
+        cp &quot;/opt/sisepuede/ref/ingestion/demo/model_input_variables_${sector}_demo.xlsx&quot; &quot;/opt/sisepuede/ref/ingestion/calibrated/${PAIS}/model_input_variables_${PAIS}_${sector}_calibrated.xlsx&quot;
+    done
+    ' &gt; build-ssp-templates.sh
+
+    echo &quot;Download programs to generate model input data&quot;
+    wget https://raw.githubusercontent.com/milocortes/sisepuede_data/main/utils/build_real_data.py
+    wget https://raw.githubusercontent.com/milocortes/sisepuede_data/main/utils/build_ssp_input_data.py
+    wget https://raw.githubusercontent.com/milocortes/sisepuede_data/main/utils/merge_ssp_input_output_data.py
+
+%environment
+    export PATH=/opt/julia-1.8.1/bin:$PATH
+%runscript
+
+    echo &quot;Create input data for the SISEPUEDE model execution&quot;
+    bash /opt/build-ssp-templates.sh &quot;$2&quot;
+    python3 /opt/build_real_data.py &quot;$2&quot;
+    python3 /opt/build_ssp_input_data.py
+    
+    echo &quot;Execute SISEPUEDE model&quot;
+    bash /opt/ejecuta-sisepuede.sh $*
+
+    echo &quot;Merge input and output data&quot;
+    mkdir /opt/SSP_RESULTS 
+    find /opt/sisepuede/out/ -type f -name &quot;*.csv&quot; -exec mv  &quot;{}&quot; /opt/SSP_RESULTS \;
+    python3 /opt/merge_ssp_input_output_data.py
+
+    echo &quot;Compress results and retrieve them to the user file system where the container is running&quot;
+    find /opt/SSP_RESULTS/ -type f -name &quot;*.csv&quot; -exec zip -r -j &quot;ssp_$2.zip&quot; &quot;{}&quot;  \;
+
+</code></pre>
+<p>Build the SIF</p>
+<pre><code class="language-bash">apptainer build sisepuede_cl.sif ssp_model.def
+</code></pre>
+<p>We can create a symbolic link for <code>sisepuede cl.sif</code>in order to be executed like any other system executable:</p>
+<pre><code class="language-bash">SIF_PATH=&quot;$(pwd)/sisepuede_cl.sif&quot;
+sudo ln -sv $SIF_PATH /usr/local/bin/sisepuede_cl
+</code></pre>
+<p>We must to configure some Apptainer environment variables for the SIF execution:</p>
+<pre><code class="language-bash">export APPTAINER_WRITABLE_TMPFS=&quot;true&quot;
+export APPTAINER_NO_HOME=&quot;true&quot;
+export APPTAINER_FAKEROOT=&quot;true&quot;
+</code></pre>
+<p>Execute the SIF for Armenia:</p>
+<pre><code class="language-bash">sisepuede_cl --regions armenia --keys-strategy 1015,5009 --keys-design 0 --keys-future 0 --database-type csv --save-inputs
+</code></pre>
+<p>The execution return a zip file <code>ssp_armenia.zip</code> with the SISEPUEDE model output on it.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="apptainer-image-configuration-for-the-costs-and-benefits-module"><a class="header" href="#apptainer-image-configuration-for-the-costs-and-benefits-module">Apptainer image configuration for the Costs and Benefits module</a></h1>
+<h2 id="apptainer-1"><a class="header" href="#apptainer-1">Apptainer</a></h2>
+<p><a href="https://apptainer.org/">Apptainer</a> is a container technology that simplifies the creation and execution of containers. Apptainers represents an alternative to Docker in scientific computing.</p>
+<p>We are going to use Apptainer in order to create a image for the Costs and Benefits module.</p>
+<p>The Apptainer installations steps can be found in the next URL:</p>
+<ul>
+<li><a href="https://apptainer.org/docs/admin/main/installation.html">https://apptainer.org/docs/admin/main/installation.html</a></li>
+</ul>
+<h3 id="download-and-interact-with-pre-built-images-1"><a class="header" href="#download-and-interact-with-pre-built-images-1">Download and interact with pre-built images</a></h3>
+<p>We can download pre-built images from repositories like:</p>
+<ul>
+<li>https://hub.docker.com</li>
+<li>https://quay.io</li>
+</ul>
+<blockquote>
+<p>Docker Hub download example : <code>apptainer pull docker://alpine</code></p>
+</blockquote>
+<blockquote>
+<p>Quay download example : <code>apptainer pull docker://quay.io/jitesoft/alpine</code></p>
+</blockquote>
+<h3 id="image-configuration-from-sandbox-1"><a class="header" href="#image-configuration-from-sandbox-1">Image configuration from sandbox</a></h3>
+<p>The image configuration steps are the next</p>
+<p>The steps to configure the image using the sandbox format are as follows:</p>
+<ul>
+<li>
+<ol>
+<li>Build the image in sandbox format:</li>
+</ol>
+</li>
+</ul>
+<pre><code class="language-bash">apptainer build --sandbox &lt;URI&gt; | &lt;imagen&gt;
+</code></pre>
+<ul>
+<li>
+<ol start="2">
+<li>Request a shell in the sandbox directory:</li>
+</ol>
+</li>
+</ul>
+<pre><code class="language-bash">apptainer shell --writable &lt;DIR&gt;
+</code></pre>
+<ul>
+<li>
+<ol start="3">
+<li>Make the required configurations.</li>
+</ol>
+</li>
+<li>
+<ol start="4">
+<li>Convert the sandbox to SIF format:</li>
+</ol>
+</li>
+</ul>
+<pre><code class="language-bash">apptainer build imagen.sif &lt;DIR&gt;
+</code></pre>
+<h2 id="costs-and-benefits-module"><a class="header" href="#costs-and-benefits-module">Costs and Benefits module</a></h2>
+<p>The <a href="https://github.com/nidiot/sisepuede_costs_benefits">Costs and benefits</a> repository contains data for 26 LAC countries.</p>
+<blockquote>
+<p>The 26 LAC countries (ISO CODE 3) are the next: ARG, BHS, BRB, BLZ, BOL, BRA, CHL, COL, CRI, DOM, ECU, SLV, GTM, GUY, HTI, HND, JAM, MEX, NIC, PAN, PRY, PER, SUR, TTO, URY, VEN</p>
+</blockquote>
+<p>To scale the analysis to more countries, it is necessary to add information to the following files:</p>
+<ul>
+<li><code>AGRC_LVST_productivity_cost_gdp.csv</code></li>
+<li><code>ENTC_REDUCE_LOSSES_cost_file.xlsx</code> (sheet name Annual Loss Reduction Cost).</li>
+<li><code>LNDU_soil_carbon_fractions.csv</code></li>
+</ul>
+<p>We will use K-means to construct groups with the objective of imputing the existing values ​​to the rest of the countries.</p>
+<h2 id="building-the-image-for-the-costs-and-benefits-module-execution"><a class="header" href="#building-the-image-for-the-costs-and-benefits-module-execution">Building the image for the Costs and Benefits module execution</a></h2>
+<h4 id="1-build-the-image-in-sandbox-format-1"><a class="header" href="#1-build-the-image-in-sandbox-format-1">1) Build the image in sandbox format</a></h4>
+<p>We will configure the image to run SISEPUEDE from a pre-built Ubuntu 22.04.4 LTS image from Docker Hub:</p>
+<pre><code class="language-bash">apptainer pull docker://ubuntu:22.04
+</code></pre>
+<blockquote>
+<p>We will use the sandbox format to make changes to the container image. Next we will build
+the image defining steps in a definition file. </p>
+</blockquote>
+<p>The downloaded image is immutable. Since we must to do configuration changes, we will create a sandbox from the image:</p>
+<pre><code class="language-bash">apptainer build --sandbox cb_module ubuntu_22.04.sif
+</code></pre>
+<h4 id="2-request-a-shell-in-the-sandbox-directory-1"><a class="header" href="#2-request-a-shell-in-the-sandbox-directory-1">2) Request a shell in the sandbox directory</a></h4>
+<p>We request a shell in the container generated by Apptainer from the sandbox format:</p>
+<pre><code class="language-bash">apptainer shell -pfw --no-mount home cb_module
+</code></pre>
+<p>The flags used mean the following:</p>
+<ul>
+<li>-w, --writable : by default all Apptainer containers are available as read only. This option makes the file system accessible as read/write.</li>
+<li>-f, --fakeroot : run container with the appearance of running as root</li>
+<li>-p, --pid : run container in a new PID namespace</li>
+</ul>
+<p>Inside the sandbox we have to update packages:</p>
+<pre><code class="language-bash">Apptainer&gt; apt update
+</code></pre>
+<blockquote>
+<p>We add <code>Apptainer&gt;</code> at the beginning of the prompt In order to make explicit that we are working in a  new shell within the container and we can interact with it as though it were a virtual machine.</p>
+</blockquote>
+<p>Python 3.11 installation in the sandbox:</p>
+<pre><code class="language-bash">Apptainer&gt; apt install -y python3.11 python3.11-venv python3-venv python3-dev python3-pip
+</code></pre>
+<p>Create the file <code>requirements.txt</code> for the Python packages installation:</p>
+<pre><code class="language-bash">Apptainer&gt; echo &quot;
+pandas==2.2.1
+scikit-learn
+openpyxl
+munch==2.5.0
+PyYAML==6.0
+geopy==2.1.0
+SQLAlchemy==2.0.29
+julia==0.6.2
+&quot; &gt; requirements.txt
+
+Apptainer&gt; pip install -r requirements.txt
+</code></pre>
+<p>Install git to download the Costs and Benefits repository:</p>
+<pre><code class="language-bash">Apptainer&gt; apt install -y git
+Apptainer&gt; cd /opt
+Apptainer&gt; git clone https://github.com/nidiot/sisepuede_costs_benefits.git
+</code></pre>
+<p>Clone the SISEPUEDE repository:</p>
+<pre><code class="language-bash">Apptainer&gt; git clone https://github.com/jcsyme/sisepuede.git
+</code></pre>
+<p>Create a directory where the country file will be read in ISO Code 3:</p>
+<pre><code class="language-bash">Apptainer&gt; mkdir -p /opt/sisepuede_data/Energy/nemomod_entc_residual_capacity_pp_gas_gw/raw_data
+Apptainer&gt; cd /opt/sisepuede_data/Energy/nemomod_entc_residual_capacity_pp_gas_gw/raw_data
+Apptainer&gt; apt install -y wget
+Apptainer&gt; wget https://raw.githubusercontent.com/milocortes/sisepuede_data/main/Energy/nemomod_entc_residual_capacity_pp_gas_gw/raw_data/iso3_all_countries.csv
+Apptainer&gt; cd /opt
+</code></pre>
+<p>Install R and packages needed:</p>
+<pre><code class="language-bash">Apptainer&gt; apt install -y r-base r-base-dev
+Apptainer&gt; LC_ALL=C.UTF-8 R -e 'install.packages(c(&quot;purrr&quot;, &quot;stringr&quot;, &quot;tidyr&quot;, &quot;data.table&quot;, &quot;readxl&quot;, &quot;dplyr&quot;, &quot;reshape2&quot;, &quot;lhs&quot;, &quot;reshape&quot;))'
+</code></pre>
+<p>Download the Python program that impute data for the rest of countries with K-Means</p>
+<pre><code class="language-bash">Apptainer&gt; wget https://raw.githubusercontent.com/milocortes/sisepuede_data/main/utils/actualiza_datos_cb.py
+Apptainer&gt; python3 actualiza_datos_cb.py
+</code></pre>
+<p>We override some of the program lines in the Costs and Benefits repository, particularly those related to local routes:</p>
+<pre><code class="language-bash">Apptainer&gt; mkdir -p /opt/ssp
+Apptainer&gt; mkdir -p /opt/cb
+Apptainer&gt; FILE_CB=&quot;/opt/sisepuede_costs_benefits/Main/cb_calculate_costs_and_benefits_script.R&quot;
+Apptainer&gt; sed -i '6s/.*/setwd(&quot;\/opt\/sisepuede_costs_benefits\/Main\/&quot;)/' $FILE_CB
+Apptainer&gt; sed -i '13s/.*/path_to_model_results&lt;-&quot;\/opt\/cb\/&quot;/' $FILE_CB
+Apptainer&gt; sed -i '14s/.*/path_to_ssp_results&lt;-&quot;\/opt\/ssp\/&quot;/' $FILE_CB
+Apptainer&gt; sed -i '15s/.*/data_filename&lt;-paste0(path_to_ssp_results,/' $FILE_CB
+Apptainer&gt; sed -i '16s/.*/                       list.files(path=path_to_ssp_results, /' $FILE_CB
+Apptainer&gt; sed -i '17s/.*/                                 pattern = glob2rx(&quot;sisepuede_results_sisepuede_run_*&quot;))) #path to model output runs/' $FILE_CB
+Apptainer&gt; sed -i '22s/.*/primary_filename&lt;-paste0(path_to_ssp_results, &quot;ATTRIBUTE_PRIMARY.csv&quot;) #path to model output primary filename/' $FILE_CB
+Apptainer&gt; sed -i '23s/.*/strategy_filename&lt;-paste0(path_to_ssp_results, &quot;ATTRIBUTE_STRATEGY.csv&quot;) #path to model output strategy filename/' $FILE_CB
+Apptainer&gt; CB_CONFIG_FILE=&quot;/opt/sisepuede_costs_benefits/Main/cb_config.R&quot;
+Apptainer&gt; sed -i '19s/.*/sisepuede_data_git_path&lt;-&quot;\/opt\/sisepuede_data\/&quot;/' $CB_CONFIG_FILE
+Apptainer&gt; sed -i '20s/.*/ssp_costs_benefits_git_path&lt;-&quot;\/opt\/sisepuede_costs_benefits\/&quot;/' $CB_CONFIG_FILE
+Apptainer&gt; sed -i '195,$d' $FILE_CB
+</code></pre>
+<p>Execute bash file that fix some csv files:</p>
+<pre><code class="language-bash">Apptainer&gt; cd /opt/sisepuede_costs_benefits/cost_factors
+Apptainer&gt; bash append_newlines_to_csvs.sh
+
+Apptainer&gt; cd /opt/sisepuede_costs_benefits/strategy_specific_cb_files
+Apptainer&gt; bash append_newlines_to_csvs.sh
+
+Apptainer&gt; cd /opt
+</code></pre>
+<h4 id="execute-costs-and-benefits-module"><a class="header" href="#execute-costs-and-benefits-module">Execute Costs and Benefits module</a></h4>
+<p>In order to execute the Costs and Benefits module, we need data from the SISEPUEDE model to be processed.</p>
+<p>Since the sandbox is viewed for our operating system like another directory in the system, we can move files between the host system and the sandbox using commands like <code>cp</code>, <code>mv</code>, <code>rsync</code>, etc.</p>
+<p>Suppose that we have the zip file <code>ssp_armenia.zip</code> that contains the outputs of the SISEPUEDE model:</p>
+<pre><code class="language-bash">unzip -l ssp_armenia.zip 
+Archive:  ssp_armenia.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+  6428502  2024-04-30 19:52   sisepuede_results_sisepuede_run_armenia.csv
+      114  2024-04-30 19:46   ATTRIBUTE_PRIMARY.csv
+      691  2024-04-30 19:41   ANALYSIS_METADATA.csv
+  4012586  2024-04-30 19:41   MODEL_BASE_INPUT_DATABASE.csv
+  3333377  2024-04-30 19:46   MODEL_OUTPUT.csv
+  3223195  2024-04-30 19:46   MODEL_INPUT.csv
+      460  2024-04-30 19:41   ATTRIBUTE_DESIGN.csv
+    16745  2024-04-30 19:41   ATTRIBUTE_STRATEGY.csv
+---------                     -------
+ 17015670                     8 files
+</code></pre>
+<p>The <code>ssp_armenia.zip</code> file can be downloaded from the  URL:</p>
+<ul>
+<li><a href="https://github.com/milocortes/sisepuede_data/tree/main/test_data">https://github.com/milocortes/sisepuede_data/tree/main/test_data</a></li>
+</ul>
+<p>We must copy this file to the directory <code>/opt/ssp</code> inside the sandbox:</p>
+<pre><code class="language-bash">ls
+total 33104
+-rw-r--r--  1 milo milo     3081 May  1 14:34 cb_model.def
+drwxr-xr-x 18 milo milo     4096 Apr 28 20:31 cb_module
+-rw-r--r--  1 milo milo  4077591 May  1 14:34 ssp_armenia.zip
+-rwxr-xr-x  1 milo milo 29810688 May  1 14:36 ubuntu_22.04.sif
+
+cp ssp_armenia.zip cb_module/opt/ssp
+</code></pre>
+<p>Access to the sandbox again:</p>
+<pre><code class="language-bash">apptainer shell -pfw --no-mount home cb_module
+</code></pre>
+<p>And you will see the <code>ssp_armenia.zip</code> file in the directory <code>/opt/ssp</code>:</p>
+<pre><code class="language-bash">Apptainer&gt; ls /opt/ssp
+ssp_armenia.zip
+</code></pre>
+<p>Unzip the <code>ssp_armenia.zip</code> in the directory <code>/opt/ssp</code>:</p>
+<pre><code class="language-bash">Apptainer&gt; apt install unzip
+Apptainer&gt;  unzip /opt/ssp/ssp_armenia.zip -d /opt/ssp
+Archive:  /opt/ssp/ssp_armenia.zip
+  inflating: /opt/ssp/sisepuede_results_sisepuede_run_armenia.csv  
+  inflating: /opt/ssp/ATTRIBUTE_PRIMARY.csv  
+  inflating: /opt/ssp/ANALYSIS_METADATA.csv  
+  inflating: /opt/ssp/MODEL_BASE_INPUT_DATABASE.csv  
+  inflating: /opt/ssp/MODEL_OUTPUT.csv  
+  inflating: /opt/ssp/MODEL_INPUT.csv  
+  inflating: /opt/ssp/ATTRIBUTE_DESIGN.csv  
+  inflating: /opt/ssp/ATTRIBUTE_STRATEGY.csv 
+</code></pre>
+<p>So far we have already the environment for the Costs and Benefits module execution. Run the next command for execute the Costs and Benefits main program:</p>
+<pre><code class="language-bash">Apptainer&gt; FILE_CB=&quot;/opt/sisepuede_costs_benefits/Main/cb_calculate_costs_and_benefits_script.R&quot;
+Apptainer&gt; LC_ALL=C.UTF-8 Rscript $FILE_CB
+</code></pre>
+<p>The outputs of the execution are in the directory <code>/opt/cb</code>:</p>
+<pre><code class="language-bash">Apptainer&gt; apt install tree
+Apptainer&gt; tree /opt/cb
+/opt/cb
+|-- cost_benefit_results.csv
+|-- economy_wide_cost_benefit_results.csv
+|-- net_benefit_net_ghg.csv
+`-- sisepuede_results_TRIMMED_LONG.csv
+
+0 directories, 4 files
+</code></pre>
+<h3 id="creating-apptainer-image-from-definition-file-1"><a class="header" href="#creating-apptainer-image-from-definition-file-1">Creating Apptainer image from Definition File</a></h3>
+<p>For a reproducible, verifiable and production-quality container, the Apptainer documentation recommends that you build a SIF file using an Apptainer definition file. The Apptainer definition file can be thinked like a Dockerfile that contains a script of instructions. </p>
+<p>Create the definition file <code>cb_model.def</code> with the content:</p>
+<pre><code class="language-bash">Bootstrap : docker
+From: ubuntu:22.04
+
+%post
+    apt update
+    DEBIAN_FRONTEND=noninteractive TZ=America/Mexico_City apt -y install tzdata
+    apt install -y python3.11 python3.11-venv python3-venv python3-dev python3-pip
+    apt install -y git
+    cd /opt
+    git clone https://github.com/nidiot/sisepuede_costs_benefits.git
+    git clone https://github.com/jcsyme/sisepuede.git
+    mkdir -p /opt/sisepuede_data/Energy/nemomod_entc_residual_capacity_pp_gas_gw/raw_data
+    cd /opt/sisepuede_data/Energy/nemomod_entc_residual_capacity_pp_gas_gw/raw_data
+    apt install -y wget
+    wget https://raw.githubusercontent.com/milocortes/sisepuede_data/main/Energy/nemomod_entc_residual_capacity_pp_gas_gw/raw_data/iso3_all_countries.csv
+    cd /opt
+
+    apt install -y r-base r-base-dev
+    LC_ALL=C.UTF-8 R -e 'install.packages(c(&quot;purrr&quot;, &quot;stringr&quot;, &quot;tidyr&quot;, &quot;data.table&quot;, &quot;readxl&quot;, &quot;dplyr&quot;, &quot;reshape2&quot;, &quot;lhs&quot;, &quot;reshape&quot;))'
+
+
+    wget https://raw.githubusercontent.com/milocortes/sisepuede_data/main/utils/actualiza_datos_cb.py
+
+    echo &quot;
+    pandas==2.2.1
+    scikit-learn
+    openpyxl
+    munch==2.5.0
+    PyYAML==6.0
+    geopy==2.1.0
+    SQLAlchemy==2.0.29
+    julia==0.6.2
+    &quot; &gt; requirements.txt
+
+    pip3 install -r requirements.txt
+
+    python3 actualiza_datos_cb.py
+
+
+    mkdir -p /opt/ssp
+    mkdir -p /opt/cb
+
+    FILE_CB=&quot;/opt/sisepuede_costs_benefits/Main/cb_calculate_costs_and_benefits_script.R&quot;
+    sed -i '6s/.*/setwd(&quot;\/opt\/sisepuede_costs_benefits\/Main\/&quot;)/' $FILE_CB
+
+    sed -i '13s/.*/path_to_model_results&lt;-&quot;\/opt\/cb\/&quot;/' $FILE_CB
+
+    sed -i '14s/.*/path_to_ssp_results&lt;-&quot;\/opt\/ssp\/&quot;/' $FILE_CB
+
+    sed -i '15s/.*/data_filename&lt;-paste0(path_to_ssp_results,/' $FILE_CB
+
+    sed -i '16s/.*/                       list.files(path=path_to_ssp_results, /' $FILE_CB
+
+    sed -i '17s/.*/                                 pattern = glob2rx(&quot;sisepuede_results_sisepuede_run_*&quot;))) #path to model output runs/' $FILE_CB
+
+    sed -i '22s/.*/primary_filename&lt;-paste0(path_to_ssp_results, &quot;ATTRIBUTE_PRIMARY.csv&quot;) #path to model output primary filename/' $FILE_CB
+
+    sed -i '23s/.*/strategy_filename&lt;-paste0(path_to_ssp_results, &quot;ATTRIBUTE_STRATEGY.csv&quot;) #path to model output strategy filename/' $FILE_CB
+
+    CB_CONFIG_FILE=&quot;/opt/sisepuede_costs_benefits/Main/cb_config.R&quot;
+
+    sed -i '19s/.*/sisepuede_data_git_path&lt;-&quot;\/opt\/sisepuede_data\/&quot;/' $CB_CONFIG_FILE
+
+    sed -i '20s/.*/ssp_costs_benefits_git_path&lt;-&quot;\/opt\/sisepuede_costs_benefits\/&quot;/' $CB_CONFIG_FILE
+
+    sed -i '195,$d' $FILE_CB
+
+    cd /opt/sisepuede_costs_benefits/cost_factors
+    bash append_newlines_to_csvs.sh
+
+    cd /opt/sisepuede_costs_benefits/strategy_specific_cb_files
+    bash append_newlines_to_csvs.sh
+
+    cd /opt
+
+    apt install unzip zip
+
+    echo &quot;
+    #!/bin/bash
+    cp \$1 /opt/ssp
+    cd /opt/ssp
+    unzip *
+    
+    LC_ALL=C.UTF-8 Rscript $FILE_CB
+    &quot; &gt; ejecuta-cb
+
+%environment
+    FILE_CB=&quot;/opt/sisepuede_costs_benefits/Main/cb_calculate_costs_and_benefits_script.R&quot;
+
+%runscript
+    bash /opt/ejecuta-cb $*
+    country=$2
+    zip &quot;cb_${country}.zip&quot; -r -j /opt/cb
+
+</code></pre>
+<p>Build the SIF</p>
+<pre><code class="language-bash">apptainer build cb_cl.sif cb_model.def
+</code></pre>
+<p>We can create a symbolic link for <code>cb_cl.sif</code>in order to be executed like any other system executable:</p>
+<pre><code class="language-bash">SIF_PATH=&quot;$(pwd)/cb_cl.sif&quot;
+sudo ln -sv $SIF_PATH /usr/local/bin/cb_cl
+</code></pre>
+<p>We must to configure some Apptainer environment variables for the SIF execution:</p>
+<pre><code class="language-bash">export APPTAINER_WRITABLE_TMPFS=&quot;true&quot;
+</code></pre>
+<p>Execute the SIF for the zip file <code>ssp_armenia.zip</code> that contains the outputs of the SISEPUEDE model:</p>
+<pre><code class="language-bash">./cb_cl.sif ssp_armenia.zip armenia
+</code></pre>
+<p>The execution return a zip file <code>cb_armenia.zip</code> with the SISEPUEDE model output on it.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+        <script>
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+
+    </div>
+    </body>
+</html>

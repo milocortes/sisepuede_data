@@ -1,1 +1,0 @@
-# Observe data Energy sector
