@@ -1,2146 +1,1285 @@
-"Nation","area_gnrl_country_ha","iso_code3","Year"
-"Afghanistan",65286000,"AFG",2010
-"Albania",2875000,"ALB",2010
-"Algeria",238174100,"DZA",2010
-"American Samoa",20000,"ASM",2010
-"Andorra",47000,"AND",2010
-"Angola",124670000,"AGO",2010
-"Antigua and Barbuda",44000,"ATG",2010
-"Argentina",278040000,"ARG",2010
-"Armenia",2974000,"ARM",2010
-"Aruba",18000,"ABW",2010
-"Australia",774122000,"AUS",2010
-"Austria",8387900,"AUT",2010
-"Azerbaijan",8660000,"AZE",2010
-"Bahamas",1388000,"BHS",2010
-"Bahrain",78500,"BHR",2010
-"Bangladesh",14757000,"BGD",2010
-"Barbados",43000,"BRB",2010
-"Belarus",20761000,"BLR",2010
-"Belgium",3053000,"BEL",2010
-"Belize",2297000,"BLZ",2010
-"Benin",11476000,"BEN",2010
-"Bermuda",429000,"BMU",2010
-"Bhutan",3839000,"BTN",2010
-"Bolivia",109858000,"BOL",2010
-"Bosnia and Herzegovina",5121000,"BIH",2010
-"Botswana",58173000,"BWA",2010
-"Brazil",851577000,"BRA",2010
-"British Virgin Islands",15000,"VGB",2010
-"Brunei Darussalam",577000,"BRN",2010
-"Bulgaria",11100000,"BGR",2010
-"Burkina Faso",27422000,"BFA",2010
-"Burundi",2783000,"BDI",2010
-"Cabo Verde",403000,"CPV",2010
-"Cambodia",18104000,"KHM",2010
-"Cameroon",47544000,"CMR",2010
-"Canada",987975000,"CAN",2010
-"Cayman Islands",26400,"CYM",2010
-"Central African Republic",62298000,"CAF",2010
-"Chad",128400000,"TCD",2010
-"Channel Islands",19800,"CHI",2010
-"Chile",75670000,"CHL",2010
-"China",960001290,"CHN",2010
-"Colombia",114061905,"COL",2010
-"Comoros",186100,"COM",2010
-"Costa Rica",5110000,"CRI",2010
-"Croatia",8807000,"HRV",2010
-"Cuba",10988000,"CUB",2010
-"Cyprus",925000,"CYP",2010
-"Czechia",7887101,"CZE",2010
-"Denmark",4292000,"DNK",2010
-"Djibouti",2320000,"DJI",2010
-"Dominica",75000,"DMA",2010
-"Dominican Republic",4867000,"DOM",2010
-"Ecuador",25637000,"ECU",2010
-"Egypt",100145000,"EGY",2010
-"El Salvador",2104000,"SLV",2010
-"Equatorial Guinea",2805000,"GNQ",2010
-"Eritrea",12163032.7,"ERI",2010
-"Estonia",4534000,"EST",2010
-"Eswatini",1736000,"SWZ",2010
-"Ethiopia",113623954.4,"ETH",2010
-"Faroe Islands",1295967,"FRO",2010
-"Fiji",1827000,"FJI",2010
-"Finland",33846000,"FIN",2010
-"France",54908687,"FRA",2010
-"French Polynesia",347100,"PYF",2010
-"Gabon",26767000,"GAB",2010
-"Georgia",6970000,"GEO",2010
-"Germany",35759000,"DEU",2010
-"Ghana",23853000,"GHA",2010
-"Gibraltar",1000,"GIB",2010
-"Greece",13196000,"GRC",2010
-"Greenland",41045000,"GRL",2010
-"Grenada",34000,"GRD",2010
-"Guam",54000,"GUM",2010
-"Guatemala",10889000,"GTM",2010
-"Guinea",24586000,"GIN",2010
-"Guinea-Bissau",3613000,"GNB",2010
-"Guyana",21497000,"GUY",2010
-"Haiti",2775000,"HTI",2010
-"Honduras",11249000,"HND",2010
-"Hungary",9303000,"HUN",2010
-"Iceland",10300000,"ISL",2010
-"India",328726000,"IND",2010
-"Indonesia",191690677,"IDN",2010
-"Iraq",43505200,"IRQ",2010
-"Ireland",7028000,"IRL",2010
-"Isle of Man",57000,"IMN",2010
-"Israel",2207000,"ISR",2010
-"Italy",30206800,"ITA",2010
-"Jamaica",1099000,"JAM",2010
-"Japan",37797400,"JPN",2010
-"Jordan",8931800,"JOR",2010
-"Kazakhstan",272490000,"KAZ",2010
-"Kenya",58037000,"KEN",2010
-"Kiribati",81000,"KIR",2010
-"Korea",10041000,"KOR",2010
-"Kuwait",1782000,"KWT",2010
-"Latvia",6459000,"LVA",2010
-"Lebanon",1045000,"LBN",2010
-"Lesotho",3036000,"LSO",2010
-"Liberia",11137000,"LBR",2010
-"Libya",175954000,"LBY",2010
-"Liechtenstein",16000,"LIE",2010
-"Lithuania",6529000,"LTU",2010
-"Luxembourg",259000,"LUX",2010
-"Madagascar",58729500,"MDG",2010
-"Malawi",11848000,"MWI",2010
-"Malaysia",33024100,"MYS",2010
-"Maldives",30000,"MDV",2010
-"Mali",124019000,"MLI",2010
-"Malta",32000,"MLT",2010
-"Marshall Islands",18000,"MHL",2010
-"Mauritania",103070000,"MRT",2010
-"Mauritius",204000,"MUS",2010
-"Mexico",196437500,"MEX",2010
-"Monaco",7492,"MCO",2010
-"Mongolia",156411574.9,"MNG",2010
-"Montenegro",1381000,"MNE",2010
-"Morocco",44655000,"MAR",2010
-"Mozambique",79938000,"MOZ",2010
-"Myanmar",67659000,"MMR",2010
-"Namibia",82429000,"NAM",2010
-"Nauru",2000,"NRU",2010
-"Nepal",14718000,"NPL",2010
-"Netherlands",4154000,"NLD",2010
-"New Caledonia",1858000,"NCL",2010
-"New Zealand",26771000,"NZL",2010
-"Nicaragua",13037000,"NIC",2010
-"Niger",126700000,"NER",2010
-"Nigeria",92377000,"NGA",2010
-"North Macedonia",2571000,"MKD",2010
-"Northern Mariana Islands",46000,"MNP",2010
-"Norway",62449900,"NOR",2010
-"Oman",30950000,"OMN",2010
-"Pakistan",79610000,"PAK",2010
-"Palau",46000,"PLW",2010
-"Panama",7532000,"PAN",2010
-"Papua New Guinea",46284000,"PNG",2010
-"Paraguay",40675200,"PRY",2010
-"Peru",128522000,"PER",2010
-"Philippines",3e+07,"PHL",2010
-"Poland",31271000,"POL",2010
-"Portugal",9223000,"PRT",2010
-"Puerto Rico",887000,"PRI",2010
-"Qatar",1149000,"QAT",2010
-"Romania",23840000,"ROU",2010
-"Russian Federation",1709825000,"RUS",2010
-"Rwanda",2634000,"RWA",2010
-"Samoa",284000,"WSM",2010
-"San Marino",6000,"SMR",2010
-"Sao Tome and Principe",96000,"STP",2010
-"Saudi Arabia",214969000,"SAU",2010
-"Senegal",19671000,"SEN",2010
-"Serbia",8499000,"SRB",2010
-"Seychelles",46000,"SYC",2010
-"Sierra Leone",7230000,"SLE",2010
-"Singapore",72800,"SGP",2010
-"Sint Maarten (Dutch part)",3400,"SXM",2010
-"Slovenia",2048000,"SVN",2010
-"Solomon Islands",2890000,"SLB",2010
-"Somalia",63766000,"SOM",2010
-"South Africa",121909000,"ZAF",2010
-"South Sudan",64688300,"SSD",2010
-"Spain",50596989.1,"ESP",2010
-"Sri Lanka",6561000,"LKA",2010
-"Sudan",187800000,"SDN",2010
-"Suriname",16382000,"SUR",2010
-"Sweden",52886070.4,"SWE",2010
-"Switzerland",4129039,"CHE",2010
-"Syrian Arab Republic",18518000,"SYR",2010
-"Tajikistan",14138000,"TJK",2010
-"Thailand",51312000,"THA",2010
-"Timor-Leste",1487000,"TLS",2010
-"Togo",5679000,"TGO",2010
-"Tonga",75000,"TON",2010
-"Trinidad and Tobago",513000,"TTO",2010
-"Tunisia",16361000,"TUN",2010
-"Turkey",78535000,"TUR",2010
-"Turkmenistan",48810000,"TKM",2010
-"Turks and Caicos Islands",95000,"TCA",2010
-"Tuvalu",3000,"TUV",2010
-"Uganda",24155000,"UGA",2010
-"Ukraine",60355000,"UKR",2010
-"United Arab Emirates",9864790,"ARE",2010
-"United Kingdom",24361000,"GBR",2010
-"United States",983151000,"USA",2010
-"Uruguay",17622000,"URY",2010
-"Uzbekistan",44892400,"UZB",2010
-"Vanuatu",1219000,"VUT",2010
-"Venezuela",91205000,"VEN",2010
-"Vietnam",33134000,"VNM",2010
-"World",13500322514,"WLD",2010
-"Zambia",75261000,"ZMB",2010
-"Zimbabwe",39076000,"ZWE",2010
-"Afghanistan",65286000,"AFG",2011
-"Albania",2875000,"ALB",2011
-"Algeria",238174100,"DZA",2011
-"American Samoa",20000,"ASM",2011
-"Andorra",47000,"AND",2011
-"Angola",124670000,"AGO",2011
-"Antigua and Barbuda",44000,"ATG",2011
-"Argentina",278040000,"ARG",2011
-"Armenia",2974000,"ARM",2011
-"Aruba",18000,"ABW",2011
-"Australia",774122000,"AUS",2011
-"Austria",8387900,"AUT",2011
-"Azerbaijan",8660000,"AZE",2011
-"Bahamas",1388000,"BHS",2011
-"Bahrain",78500,"BHR",2011
-"Bangladesh",14757000,"BGD",2011
-"Barbados",43000,"BRB",2011
-"Belarus",20761000,"BLR",2011
-"Belgium",3053000,"BEL",2011
-"Belize",2297000,"BLZ",2011
-"Benin",11476000,"BEN",2011
-"Bermuda",429000,"BMU",2011
-"Bhutan",3839000,"BTN",2011
-"Bolivia",109858000,"BOL",2011
-"Bosnia and Herzegovina",5121000,"BIH",2011
-"Botswana",58173000,"BWA",2011
-"Brazil",851577000,"BRA",2011
-"British Virgin Islands",15000,"VGB",2011
-"Brunei Darussalam",577000,"BRN",2011
-"Bulgaria",11100000,"BGR",2011
-"Burkina Faso",27422000,"BFA",2011
-"Burundi",2783000,"BDI",2011
-"Cabo Verde",403000,"CPV",2011
-"Cambodia",18104000,"KHM",2011
-"Cameroon",47544000,"CMR",2011
-"Canada",987975000,"CAN",2011
-"Cayman Islands",26400,"CYM",2011
-"Central African Republic",62298000,"CAF",2011
-"Chad",128400000,"TCD",2011
-"Channel Islands",19800,"CHI",2011
-"Chile",75670000,"CHL",2011
-"China",960001290,"CHN",2011
-"Colombia",114061905,"COL",2011
-"Comoros",186100,"COM",2011
-"Costa Rica",5110000,"CRI",2011
-"Croatia",8807000,"HRV",2011
-"Cuba",10988000,"CUB",2011
-"Cyprus",925000,"CYP",2011
-"Czechia",7887101,"CZE",2011
-"Denmark",4292000,"DNK",2011
-"Djibouti",2320000,"DJI",2011
-"Dominica",75000,"DMA",2011
-"Dominican Republic",4867000,"DOM",2011
-"Ecuador",25637000,"ECU",2011
-"Egypt",100145000,"EGY",2011
-"El Salvador",2104000,"SLV",2011
-"Equatorial Guinea",2805000,"GNQ",2011
-"Eritrea",12163032.7,"ERI",2011
-"Estonia",4534000,"EST",2011
-"Eswatini",1736000,"SWZ",2011
-"Ethiopia",113623954.4,"ETH",2011
-"Faroe Islands",1295967,"FRO",2011
-"Fiji",1827000,"FJI",2011
-"Finland",33846000,"FIN",2011
-"France",54908687,"FRA",2011
-"French Polynesia",347100,"PYF",2011
-"Gabon",26767000,"GAB",2011
-"Georgia",6970000,"GEO",2011
-"Germany",35759000,"DEU",2011
-"Ghana",23853000,"GHA",2011
-"Gibraltar",1000,"GIB",2011
-"Greece",13196000,"GRC",2011
-"Greenland",41045000,"GRL",2011
-"Grenada",34000,"GRD",2011
-"Guam",54000,"GUM",2011
-"Guatemala",10889000,"GTM",2011
-"Guinea",24586000,"GIN",2011
-"Guinea-Bissau",3613000,"GNB",2011
-"Guyana",21497000,"GUY",2011
-"Haiti",2775000,"HTI",2011
-"Honduras",11249000,"HND",2011
-"Hungary",9303000,"HUN",2011
-"Iceland",10300000,"ISL",2011
-"India",328726000,"IND",2011
-"Indonesia",191690677,"IDN",2011
-"Iraq",43505200,"IRQ",2011
-"Ireland",7028000,"IRL",2011
-"Isle of Man",57000,"IMN",2011
-"Israel",2207000,"ISR",2011
-"Italy",30206800,"ITA",2011
-"Jamaica",1099000,"JAM",2011
-"Japan",37797400,"JPN",2011
-"Jordan",8931800,"JOR",2011
-"Kazakhstan",272490000,"KAZ",2011
-"Kenya",58037000,"KEN",2011
-"Kiribati",81000,"KIR",2011
-"Korea",10041000,"KOR",2011
-"Kuwait",1782000,"KWT",2011
-"Latvia",6459000,"LVA",2011
-"Lebanon",1045000,"LBN",2011
-"Lesotho",3036000,"LSO",2011
-"Liberia",11137000,"LBR",2011
-"Libya",175954000,"LBY",2011
-"Liechtenstein",16000,"LIE",2011
-"Lithuania",6529000,"LTU",2011
-"Luxembourg",259000,"LUX",2011
-"Madagascar",58729500,"MDG",2011
-"Malawi",11848000,"MWI",2011
-"Malaysia",33024100,"MYS",2011
-"Maldives",30000,"MDV",2011
-"Mali",124019000,"MLI",2011
-"Malta",32000,"MLT",2011
-"Marshall Islands",18000,"MHL",2011
-"Mauritania",103070000,"MRT",2011
-"Mauritius",204000,"MUS",2011
-"Mexico",196437500,"MEX",2011
-"Monaco",7492,"MCO",2011
-"Mongolia",156411574.9,"MNG",2011
-"Montenegro",1381000,"MNE",2011
-"Morocco",44655000,"MAR",2011
-"Mozambique",79938000,"MOZ",2011
-"Myanmar",67659000,"MMR",2011
-"Namibia",82429000,"NAM",2011
-"Nauru",2000,"NRU",2011
-"Nepal",14718000,"NPL",2011
-"Netherlands",4154000,"NLD",2011
-"New Caledonia",1858000,"NCL",2011
-"New Zealand",26771000,"NZL",2011
-"Nicaragua",13037000,"NIC",2011
-"Niger",126700000,"NER",2011
-"Nigeria",92377000,"NGA",2011
-"North Macedonia",2571000,"MKD",2011
-"Northern Mariana Islands",46000,"MNP",2011
-"Norway",62449900,"NOR",2011
-"Oman",30950000,"OMN",2011
-"Pakistan",79610000,"PAK",2011
-"Palau",46000,"PLW",2011
-"Panama",7532000,"PAN",2011
-"Papua New Guinea",46284000,"PNG",2011
-"Paraguay",40675200,"PRY",2011
-"Peru",128522000,"PER",2011
-"Philippines",3e+07,"PHL",2011
-"Poland",31271000,"POL",2011
-"Portugal",9223000,"PRT",2011
-"Puerto Rico",887000,"PRI",2011
-"Qatar",1149000,"QAT",2011
-"Romania",23840000,"ROU",2011
-"Russian Federation",1709825000,"RUS",2011
-"Rwanda",2634000,"RWA",2011
-"Samoa",284000,"WSM",2011
-"San Marino",6000,"SMR",2011
-"Sao Tome and Principe",96000,"STP",2011
-"Saudi Arabia",214969000,"SAU",2011
-"Senegal",19671000,"SEN",2011
-"Serbia",8499000,"SRB",2011
-"Seychelles",46000,"SYC",2011
-"Sierra Leone",7230000,"SLE",2011
-"Singapore",72800,"SGP",2011
-"Sint Maarten (Dutch part)",3400,"SXM",2011
-"Slovenia",2048000,"SVN",2011
-"Solomon Islands",2890000,"SLB",2011
-"Somalia",63766000,"SOM",2011
-"South Africa",121909000,"ZAF",2011
-"South Sudan",64688300,"SSD",2011
-"Spain",50596989.1,"ESP",2011
-"Sri Lanka",6561000,"LKA",2011
-"Sudan",187800000,"SDN",2011
-"Suriname",16382000,"SUR",2011
-"Sweden",52886070.4,"SWE",2011
-"Switzerland",4129039,"CHE",2011
-"Syrian Arab Republic",18518000,"SYR",2011
-"Tajikistan",14138000,"TJK",2011
-"Thailand",51312000,"THA",2011
-"Timor-Leste",1487000,"TLS",2011
-"Togo",5679000,"TGO",2011
-"Tonga",75000,"TON",2011
-"Trinidad and Tobago",513000,"TTO",2011
-"Tunisia",16361000,"TUN",2011
-"Turkey",78535000,"TUR",2011
-"Turkmenistan",48810000,"TKM",2011
-"Turks and Caicos Islands",95000,"TCA",2011
-"Tuvalu",3000,"TUV",2011
-"Uganda",24155000,"UGA",2011
-"Ukraine",60355000,"UKR",2011
-"United Arab Emirates",9864790,"ARE",2011
-"United Kingdom",24361000,"GBR",2011
-"United States",983151000,"USA",2011
-"Uruguay",17622000,"URY",2011
-"Uzbekistan",44892400,"UZB",2011
-"Vanuatu",1219000,"VUT",2011
-"Venezuela",91205000,"VEN",2011
-"Vietnam",33134000,"VNM",2011
-"World",13500322514,"WLD",2011
-"Zambia",75261000,"ZMB",2011
-"Zimbabwe",39076000,"ZWE",2011
-"Afghanistan",65286000,"AFG",2012
-"Albania",2875000,"ALB",2012
-"Algeria",238174100,"DZA",2012
-"American Samoa",20000,"ASM",2012
-"Andorra",47000,"AND",2012
-"Angola",124670000,"AGO",2012
-"Antigua and Barbuda",44000,"ATG",2012
-"Argentina",278040000,"ARG",2012
-"Armenia",2974000,"ARM",2012
-"Aruba",18000,"ABW",2012
-"Australia",774122000,"AUS",2012
-"Austria",8387900,"AUT",2012
-"Azerbaijan",8660000,"AZE",2012
-"Bahamas",1388000,"BHS",2012
-"Bahrain",78500,"BHR",2012
-"Bangladesh",14757000,"BGD",2012
-"Barbados",43000,"BRB",2012
-"Belarus",20761000,"BLR",2012
-"Belgium",3053000,"BEL",2012
-"Belize",2297000,"BLZ",2012
-"Benin",11476000,"BEN",2012
-"Bermuda",429000,"BMU",2012
-"Bhutan",3839000,"BTN",2012
-"Bolivia",109858000,"BOL",2012
-"Bosnia and Herzegovina",5121000,"BIH",2012
-"Botswana",58173000,"BWA",2012
-"Brazil",851577000,"BRA",2012
-"British Virgin Islands",15000,"VGB",2012
-"Brunei Darussalam",577000,"BRN",2012
-"Bulgaria",11100000,"BGR",2012
-"Burkina Faso",27422000,"BFA",2012
-"Burundi",2783000,"BDI",2012
-"Cabo Verde",403000,"CPV",2012
-"Cambodia",18104000,"KHM",2012
-"Cameroon",47544000,"CMR",2012
-"Canada",987975000,"CAN",2012
-"Cayman Islands",26400,"CYM",2012
-"Central African Republic",62298000,"CAF",2012
-"Chad",128400000,"TCD",2012
-"Channel Islands",19800,"CHI",2012
-"Chile",75670000,"CHL",2012
-"China",960001290,"CHN",2012
-"Colombia",114061905,"COL",2012
-"Comoros",186100,"COM",2012
-"Costa Rica",5110000,"CRI",2012
-"Croatia",8807000,"HRV",2012
-"Cuba",10988000,"CUB",2012
-"Cyprus",925000,"CYP",2012
-"Czechia",7887101,"CZE",2012
-"Denmark",4292000,"DNK",2012
-"Djibouti",2320000,"DJI",2012
-"Dominica",75000,"DMA",2012
-"Dominican Republic",4867000,"DOM",2012
-"Ecuador",25637000,"ECU",2012
-"Egypt",100145000,"EGY",2012
-"El Salvador",2104000,"SLV",2012
-"Equatorial Guinea",2805000,"GNQ",2012
-"Eritrea",12163032.7,"ERI",2012
-"Estonia",4534000,"EST",2012
-"Eswatini",1736000,"SWZ",2012
-"Ethiopia",113623954.4,"ETH",2012
-"Faroe Islands",1295967,"FRO",2012
-"Fiji",1827000,"FJI",2012
-"Finland",33846000,"FIN",2012
-"France",54908687,"FRA",2012
-"French Polynesia",347100,"PYF",2012
-"Gabon",26767000,"GAB",2012
-"Georgia",6970000,"GEO",2012
-"Germany",35759000,"DEU",2012
-"Ghana",23853000,"GHA",2012
-"Gibraltar",1000,"GIB",2012
-"Greece",13196000,"GRC",2012
-"Greenland",41045000,"GRL",2012
-"Grenada",34000,"GRD",2012
-"Guam",54000,"GUM",2012
-"Guatemala",10889000,"GTM",2012
-"Guinea",24586000,"GIN",2012
-"Guinea-Bissau",3613000,"GNB",2012
-"Guyana",21497000,"GUY",2012
-"Haiti",2775000,"HTI",2012
-"Honduras",11249000,"HND",2012
-"Hungary",9303000,"HUN",2012
-"Iceland",10300000,"ISL",2012
-"India",328726000,"IND",2012
-"Indonesia",191690677,"IDN",2012
-"Iraq",43505200,"IRQ",2012
-"Ireland",7028000,"IRL",2012
-"Isle of Man",57000,"IMN",2012
-"Israel",2207000,"ISR",2012
-"Italy",30206800,"ITA",2012
-"Jamaica",1099000,"JAM",2012
-"Japan",37797400,"JPN",2012
-"Jordan",8931800,"JOR",2012
-"Kazakhstan",272490000,"KAZ",2012
-"Kenya",58037000,"KEN",2012
-"Kiribati",81000,"KIR",2012
-"Korea",10041000,"KOR",2012
-"Kuwait",1782000,"KWT",2012
-"Latvia",6459000,"LVA",2012
-"Lebanon",1045000,"LBN",2012
-"Lesotho",3036000,"LSO",2012
-"Liberia",11137000,"LBR",2012
-"Libya",175954000,"LBY",2012
-"Liechtenstein",16000,"LIE",2012
-"Lithuania",6529000,"LTU",2012
-"Luxembourg",259000,"LUX",2012
-"Madagascar",58729500,"MDG",2012
-"Malawi",11848000,"MWI",2012
-"Malaysia",33024100,"MYS",2012
-"Maldives",30000,"MDV",2012
-"Mali",124019000,"MLI",2012
-"Malta",32000,"MLT",2012
-"Marshall Islands",18000,"MHL",2012
-"Mauritania",103070000,"MRT",2012
-"Mauritius",204000,"MUS",2012
-"Mexico",196437500,"MEX",2012
-"Monaco",7492,"MCO",2012
-"Mongolia",156411574.9,"MNG",2012
-"Montenegro",1381000,"MNE",2012
-"Morocco",44655000,"MAR",2012
-"Mozambique",79938000,"MOZ",2012
-"Myanmar",67659000,"MMR",2012
-"Namibia",82429000,"NAM",2012
-"Nauru",2000,"NRU",2012
-"Nepal",14718000,"NPL",2012
-"Netherlands",4154000,"NLD",2012
-"New Caledonia",1858000,"NCL",2012
-"New Zealand",26771000,"NZL",2012
-"Nicaragua",13037000,"NIC",2012
-"Niger",126700000,"NER",2012
-"Nigeria",92377000,"NGA",2012
-"North Macedonia",2571000,"MKD",2012
-"Northern Mariana Islands",46000,"MNP",2012
-"Norway",62449900,"NOR",2012
-"Oman",30950000,"OMN",2012
-"Pakistan",79610000,"PAK",2012
-"Palau",46000,"PLW",2012
-"Panama",7532000,"PAN",2012
-"Papua New Guinea",46284000,"PNG",2012
-"Paraguay",40675200,"PRY",2012
-"Peru",128522000,"PER",2012
-"Philippines",3e+07,"PHL",2012
-"Poland",31271000,"POL",2012
-"Portugal",9223000,"PRT",2012
-"Puerto Rico",887000,"PRI",2012
-"Qatar",1149000,"QAT",2012
-"Romania",23840000,"ROU",2012
-"Russian Federation",1709825000,"RUS",2012
-"Rwanda",2634000,"RWA",2012
-"Samoa",284000,"WSM",2012
-"San Marino",6000,"SMR",2012
-"Sao Tome and Principe",96000,"STP",2012
-"Saudi Arabia",214969000,"SAU",2012
-"Senegal",19671000,"SEN",2012
-"Serbia",8499000,"SRB",2012
-"Seychelles",46000,"SYC",2012
-"Sierra Leone",7230000,"SLE",2012
-"Singapore",72800,"SGP",2012
-"Sint Maarten (Dutch part)",3400,"SXM",2012
-"Slovenia",2048000,"SVN",2012
-"Solomon Islands",2890000,"SLB",2012
-"Somalia",63766000,"SOM",2012
-"South Africa",121909000,"ZAF",2012
-"South Sudan",64688300,"SSD",2012
-"Spain",50596989.1,"ESP",2012
-"Sri Lanka",6561000,"LKA",2012
-"Sudan",187800000,"SDN",2012
-"Suriname",16382000,"SUR",2012
-"Sweden",52886070.4,"SWE",2012
-"Switzerland",4129039,"CHE",2012
-"Syrian Arab Republic",18518000,"SYR",2012
-"Tajikistan",14138000,"TJK",2012
-"Thailand",51312000,"THA",2012
-"Timor-Leste",1487000,"TLS",2012
-"Togo",5679000,"TGO",2012
-"Tonga",75000,"TON",2012
-"Trinidad and Tobago",513000,"TTO",2012
-"Tunisia",16361000,"TUN",2012
-"Turkey",78535000,"TUR",2012
-"Turkmenistan",48810000,"TKM",2012
-"Turks and Caicos Islands",95000,"TCA",2012
-"Tuvalu",3000,"TUV",2012
-"Uganda",24155000,"UGA",2012
-"Ukraine",60355000,"UKR",2012
-"United Arab Emirates",9864790,"ARE",2012
-"United Kingdom",24361000,"GBR",2012
-"United States",983151000,"USA",2012
-"Uruguay",17622000,"URY",2012
-"Uzbekistan",44892400,"UZB",2012
-"Vanuatu",1219000,"VUT",2012
-"Venezuela",91205000,"VEN",2012
-"Vietnam",33134000,"VNM",2012
-"World",13500322514,"WLD",2012
-"Zambia",75261000,"ZMB",2012
-"Zimbabwe",39076000,"ZWE",2012
-"Afghanistan",65286000,"AFG",2013
-"Albania",2875000,"ALB",2013
-"Algeria",238174100,"DZA",2013
-"American Samoa",20000,"ASM",2013
-"Andorra",47000,"AND",2013
-"Angola",124670000,"AGO",2013
-"Antigua and Barbuda",44000,"ATG",2013
-"Argentina",278040000,"ARG",2013
-"Armenia",2974000,"ARM",2013
-"Aruba",18000,"ABW",2013
-"Australia",774122000,"AUS",2013
-"Austria",8387900,"AUT",2013
-"Azerbaijan",8660000,"AZE",2013
-"Bahamas",1388000,"BHS",2013
-"Bahrain",78500,"BHR",2013
-"Bangladesh",14757000,"BGD",2013
-"Barbados",43000,"BRB",2013
-"Belarus",20761000,"BLR",2013
-"Belgium",3053000,"BEL",2013
-"Belize",2297000,"BLZ",2013
-"Benin",11476000,"BEN",2013
-"Bermuda",429000,"BMU",2013
-"Bhutan",3839000,"BTN",2013
-"Bolivia",109858000,"BOL",2013
-"Bosnia and Herzegovina",5121000,"BIH",2013
-"Botswana",58173000,"BWA",2013
-"Brazil",851577000,"BRA",2013
-"British Virgin Islands",15000,"VGB",2013
-"Brunei Darussalam",577000,"BRN",2013
-"Bulgaria",11100000,"BGR",2013
-"Burkina Faso",27422000,"BFA",2013
-"Burundi",2783000,"BDI",2013
-"Cabo Verde",403000,"CPV",2013
-"Cambodia",18104000,"KHM",2013
-"Cameroon",47544000,"CMR",2013
-"Canada",987975000,"CAN",2013
-"Cayman Islands",26400,"CYM",2013
-"Central African Republic",62298000,"CAF",2013
-"Chad",128400000,"TCD",2013
-"Channel Islands",19800,"CHI",2013
-"Chile",75670000,"CHL",2013
-"China",960001290,"CHN",2013
-"Colombia",114061905,"COL",2013
-"Comoros",186100,"COM",2013
-"Costa Rica",5110000,"CRI",2013
-"Croatia",8807000,"HRV",2013
-"Cuba",10988000,"CUB",2013
-"Cyprus",925000,"CYP",2013
-"Czechia",7887101,"CZE",2013
-"Denmark",4292000,"DNK",2013
-"Djibouti",2320000,"DJI",2013
-"Dominica",75000,"DMA",2013
-"Dominican Republic",4867000,"DOM",2013
-"Ecuador",25637000,"ECU",2013
-"Egypt",100145000,"EGY",2013
-"El Salvador",2104000,"SLV",2013
-"Equatorial Guinea",2805000,"GNQ",2013
-"Eritrea",12163032.7,"ERI",2013
-"Estonia",4534000,"EST",2013
-"Eswatini",1736000,"SWZ",2013
-"Ethiopia",113623954.4,"ETH",2013
-"Faroe Islands",1295967,"FRO",2013
-"Fiji",1827000,"FJI",2013
-"Finland",33846000,"FIN",2013
-"France",54908687,"FRA",2013
-"French Polynesia",347100,"PYF",2013
-"Gabon",26767000,"GAB",2013
-"Georgia",6970000,"GEO",2013
-"Germany",35759000,"DEU",2013
-"Ghana",23853000,"GHA",2013
-"Gibraltar",1000,"GIB",2013
-"Greece",13196000,"GRC",2013
-"Greenland",41045000,"GRL",2013
-"Grenada",34000,"GRD",2013
-"Guam",54000,"GUM",2013
-"Guatemala",10889000,"GTM",2013
-"Guinea",24586000,"GIN",2013
-"Guinea-Bissau",3613000,"GNB",2013
-"Guyana",21497000,"GUY",2013
-"Haiti",2775000,"HTI",2013
-"Honduras",11249000,"HND",2013
-"Hungary",9303000,"HUN",2013
-"Iceland",10300000,"ISL",2013
-"India",328726000,"IND",2013
-"Indonesia",191690677,"IDN",2013
-"Iraq",43505200,"IRQ",2013
-"Ireland",7028000,"IRL",2013
-"Isle of Man",57000,"IMN",2013
-"Israel",2207000,"ISR",2013
-"Italy",30206800,"ITA",2013
-"Jamaica",1099000,"JAM",2013
-"Japan",37797400,"JPN",2013
-"Jordan",8931800,"JOR",2013
-"Kazakhstan",272490000,"KAZ",2013
-"Kenya",58037000,"KEN",2013
-"Kiribati",81000,"KIR",2013
-"Korea",10041000,"KOR",2013
-"Kuwait",1782000,"KWT",2013
-"Latvia",6459000,"LVA",2013
-"Lebanon",1045000,"LBN",2013
-"Lesotho",3036000,"LSO",2013
-"Liberia",11137000,"LBR",2013
-"Libya",175954000,"LBY",2013
-"Liechtenstein",16000,"LIE",2013
-"Lithuania",6529000,"LTU",2013
-"Luxembourg",259000,"LUX",2013
-"Madagascar",58729500,"MDG",2013
-"Malawi",11848000,"MWI",2013
-"Malaysia",33024100,"MYS",2013
-"Maldives",30000,"MDV",2013
-"Mali",124019000,"MLI",2013
-"Malta",32000,"MLT",2013
-"Marshall Islands",18000,"MHL",2013
-"Mauritania",103070000,"MRT",2013
-"Mauritius",204000,"MUS",2013
-"Mexico",196437500,"MEX",2013
-"Monaco",7492,"MCO",2013
-"Mongolia",156411574.9,"MNG",2013
-"Montenegro",1381000,"MNE",2013
-"Morocco",44655000,"MAR",2013
-"Mozambique",79938000,"MOZ",2013
-"Myanmar",67659000,"MMR",2013
-"Namibia",82429000,"NAM",2013
-"Nauru",2000,"NRU",2013
-"Nepal",14718000,"NPL",2013
-"Netherlands",4154000,"NLD",2013
-"New Caledonia",1858000,"NCL",2013
-"New Zealand",26771000,"NZL",2013
-"Nicaragua",13037000,"NIC",2013
-"Niger",126700000,"NER",2013
-"Nigeria",92377000,"NGA",2013
-"North Macedonia",2571000,"MKD",2013
-"Northern Mariana Islands",46000,"MNP",2013
-"Norway",62449900,"NOR",2013
-"Oman",30950000,"OMN",2013
-"Pakistan",79610000,"PAK",2013
-"Palau",46000,"PLW",2013
-"Panama",7532000,"PAN",2013
-"Papua New Guinea",46284000,"PNG",2013
-"Paraguay",40675200,"PRY",2013
-"Peru",128522000,"PER",2013
-"Philippines",3e+07,"PHL",2013
-"Poland",31271000,"POL",2013
-"Portugal",9223000,"PRT",2013
-"Puerto Rico",887000,"PRI",2013
-"Qatar",1149000,"QAT",2013
-"Romania",23840000,"ROU",2013
-"Russian Federation",1709825000,"RUS",2013
-"Rwanda",2634000,"RWA",2013
-"Samoa",284000,"WSM",2013
-"San Marino",6000,"SMR",2013
-"Sao Tome and Principe",96000,"STP",2013
-"Saudi Arabia",214969000,"SAU",2013
-"Senegal",19671000,"SEN",2013
-"Serbia",8499000,"SRB",2013
-"Seychelles",46000,"SYC",2013
-"Sierra Leone",7230000,"SLE",2013
-"Singapore",72800,"SGP",2013
-"Sint Maarten (Dutch part)",3400,"SXM",2013
-"Slovenia",2048000,"SVN",2013
-"Solomon Islands",2890000,"SLB",2013
-"Somalia",63766000,"SOM",2013
-"South Africa",121909000,"ZAF",2013
-"South Sudan",64688300,"SSD",2013
-"Spain",50596989.1,"ESP",2013
-"Sri Lanka",6561000,"LKA",2013
-"Sudan",187800000,"SDN",2013
-"Suriname",16382000,"SUR",2013
-"Sweden",52886070.4,"SWE",2013
-"Switzerland",4129039,"CHE",2013
-"Syrian Arab Republic",18518000,"SYR",2013
-"Tajikistan",14138000,"TJK",2013
-"Thailand",51312000,"THA",2013
-"Timor-Leste",1487000,"TLS",2013
-"Togo",5679000,"TGO",2013
-"Tonga",75000,"TON",2013
-"Trinidad and Tobago",513000,"TTO",2013
-"Tunisia",16361000,"TUN",2013
-"Turkey",78535000,"TUR",2013
-"Turkmenistan",48810000,"TKM",2013
-"Turks and Caicos Islands",95000,"TCA",2013
-"Tuvalu",3000,"TUV",2013
-"Uganda",24155000,"UGA",2013
-"Ukraine",60355000,"UKR",2013
-"United Arab Emirates",9864790,"ARE",2013
-"United Kingdom",24361000,"GBR",2013
-"United States",983151000,"USA",2013
-"Uruguay",17622000,"URY",2013
-"Uzbekistan",44892400,"UZB",2013
-"Vanuatu",1219000,"VUT",2013
-"Venezuela",91205000,"VEN",2013
-"Vietnam",33134000,"VNM",2013
-"World",13500322514,"WLD",2013
-"Zambia",75261000,"ZMB",2013
-"Zimbabwe",39076000,"ZWE",2013
-"Afghanistan",65286000,"AFG",2014
-"Albania",2875000,"ALB",2014
-"Algeria",238174100,"DZA",2014
-"American Samoa",20000,"ASM",2014
-"Andorra",47000,"AND",2014
-"Angola",124670000,"AGO",2014
-"Antigua and Barbuda",44000,"ATG",2014
-"Argentina",278040000,"ARG",2014
-"Armenia",2974000,"ARM",2014
-"Aruba",18000,"ABW",2014
-"Australia",774122000,"AUS",2014
-"Austria",8387900,"AUT",2014
-"Azerbaijan",8660000,"AZE",2014
-"Bahamas",1388000,"BHS",2014
-"Bahrain",78500,"BHR",2014
-"Bangladesh",14757000,"BGD",2014
-"Barbados",43000,"BRB",2014
-"Belarus",20761000,"BLR",2014
-"Belgium",3053000,"BEL",2014
-"Belize",2297000,"BLZ",2014
-"Benin",11476000,"BEN",2014
-"Bermuda",429000,"BMU",2014
-"Bhutan",3839000,"BTN",2014
-"Bolivia",109858000,"BOL",2014
-"Bosnia and Herzegovina",5121000,"BIH",2014
-"Botswana",58173000,"BWA",2014
-"Brazil",851577000,"BRA",2014
-"British Virgin Islands",15000,"VGB",2014
-"Brunei Darussalam",577000,"BRN",2014
-"Bulgaria",11100000,"BGR",2014
-"Burkina Faso",27422000,"BFA",2014
-"Burundi",2783000,"BDI",2014
-"Cabo Verde",403000,"CPV",2014
-"Cambodia",18104000,"KHM",2014
-"Cameroon",47544000,"CMR",2014
-"Canada",987975000,"CAN",2014
-"Cayman Islands",26400,"CYM",2014
-"Central African Republic",62298000,"CAF",2014
-"Chad",128400000,"TCD",2014
-"Channel Islands",19800,"CHI",2014
-"Chile",75670000,"CHL",2014
-"China",960001290,"CHN",2014
-"Colombia",114061905,"COL",2014
-"Comoros",186100,"COM",2014
-"Costa Rica",5110000,"CRI",2014
-"Croatia",8807000,"HRV",2014
-"Cuba",10988000,"CUB",2014
-"Cyprus",925000,"CYP",2014
-"Czechia",7887101,"CZE",2014
-"Denmark",4292000,"DNK",2014
-"Djibouti",2320000,"DJI",2014
-"Dominica",75000,"DMA",2014
-"Dominican Republic",4867000,"DOM",2014
-"Ecuador",25637000,"ECU",2014
-"Egypt",100145000,"EGY",2014
-"El Salvador",2104000,"SLV",2014
-"Equatorial Guinea",2805000,"GNQ",2014
-"Eritrea",12163032.7,"ERI",2014
-"Estonia",4534000,"EST",2014
-"Eswatini",1736000,"SWZ",2014
-"Ethiopia",113623954.4,"ETH",2014
-"Faroe Islands",1295967,"FRO",2014
-"Fiji",1827000,"FJI",2014
-"Finland",33846000,"FIN",2014
-"France",54908687,"FRA",2014
-"French Polynesia",347100,"PYF",2014
-"Gabon",26767000,"GAB",2014
-"Georgia",6970000,"GEO",2014
-"Germany",35759000,"DEU",2014
-"Ghana",23853000,"GHA",2014
-"Gibraltar",1000,"GIB",2014
-"Greece",13196000,"GRC",2014
-"Greenland",41045000,"GRL",2014
-"Grenada",34000,"GRD",2014
-"Guam",54000,"GUM",2014
-"Guatemala",10889000,"GTM",2014
-"Guinea",24586000,"GIN",2014
-"Guinea-Bissau",3613000,"GNB",2014
-"Guyana",21497000,"GUY",2014
-"Haiti",2775000,"HTI",2014
-"Honduras",11249000,"HND",2014
-"Hungary",9303000,"HUN",2014
-"Iceland",10300000,"ISL",2014
-"India",328726000,"IND",2014
-"Indonesia",191690677,"IDN",2014
-"Iraq",43505200,"IRQ",2014
-"Ireland",7028000,"IRL",2014
-"Isle of Man",57000,"IMN",2014
-"Israel",2207000,"ISR",2014
-"Italy",30206800,"ITA",2014
-"Jamaica",1099000,"JAM",2014
-"Japan",37797400,"JPN",2014
-"Jordan",8931800,"JOR",2014
-"Kazakhstan",272490000,"KAZ",2014
-"Kenya",58037000,"KEN",2014
-"Kiribati",81000,"KIR",2014
-"Korea",10041000,"KOR",2014
-"Kuwait",1782000,"KWT",2014
-"Latvia",6459000,"LVA",2014
-"Lebanon",1045000,"LBN",2014
-"Lesotho",3036000,"LSO",2014
-"Liberia",11137000,"LBR",2014
-"Libya",175954000,"LBY",2014
-"Liechtenstein",16000,"LIE",2014
-"Lithuania",6529000,"LTU",2014
-"Luxembourg",259000,"LUX",2014
-"Madagascar",58729500,"MDG",2014
-"Malawi",11848000,"MWI",2014
-"Malaysia",33024100,"MYS",2014
-"Maldives",30000,"MDV",2014
-"Mali",124019000,"MLI",2014
-"Malta",32000,"MLT",2014
-"Marshall Islands",18000,"MHL",2014
-"Mauritania",103070000,"MRT",2014
-"Mauritius",204000,"MUS",2014
-"Mexico",196437500,"MEX",2014
-"Monaco",7492,"MCO",2014
-"Mongolia",156411574.9,"MNG",2014
-"Montenegro",1381000,"MNE",2014
-"Morocco",44655000,"MAR",2014
-"Mozambique",79938000,"MOZ",2014
-"Myanmar",67659000,"MMR",2014
-"Namibia",82429000,"NAM",2014
-"Nauru",2000,"NRU",2014
-"Nepal",14718000,"NPL",2014
-"Netherlands",4154000,"NLD",2014
-"New Caledonia",1858000,"NCL",2014
-"New Zealand",26771000,"NZL",2014
-"Nicaragua",13037000,"NIC",2014
-"Niger",126700000,"NER",2014
-"Nigeria",92377000,"NGA",2014
-"North Macedonia",2571000,"MKD",2014
-"Northern Mariana Islands",46000,"MNP",2014
-"Norway",62449900,"NOR",2014
-"Oman",30950000,"OMN",2014
-"Pakistan",79610000,"PAK",2014
-"Palau",46000,"PLW",2014
-"Panama",7532000,"PAN",2014
-"Papua New Guinea",46284000,"PNG",2014
-"Paraguay",40675200,"PRY",2014
-"Peru",128522000,"PER",2014
-"Philippines",3e+07,"PHL",2014
-"Poland",31271000,"POL",2014
-"Portugal",9223000,"PRT",2014
-"Puerto Rico",887000,"PRI",2014
-"Qatar",1149000,"QAT",2014
-"Romania",23840000,"ROU",2014
-"Russian Federation",1709825000,"RUS",2014
-"Rwanda",2634000,"RWA",2014
-"Samoa",284000,"WSM",2014
-"San Marino",6000,"SMR",2014
-"Sao Tome and Principe",96000,"STP",2014
-"Saudi Arabia",214969000,"SAU",2014
-"Senegal",19671000,"SEN",2014
-"Serbia",8499000,"SRB",2014
-"Seychelles",46000,"SYC",2014
-"Sierra Leone",7230000,"SLE",2014
-"Singapore",72800,"SGP",2014
-"Sint Maarten (Dutch part)",3400,"SXM",2014
-"Slovenia",2048000,"SVN",2014
-"Solomon Islands",2890000,"SLB",2014
-"Somalia",63766000,"SOM",2014
-"South Africa",121909000,"ZAF",2014
-"South Sudan",64688300,"SSD",2014
-"Spain",50596989.1,"ESP",2014
-"Sri Lanka",6561000,"LKA",2014
-"Sudan",187800000,"SDN",2014
-"Suriname",16382000,"SUR",2014
-"Sweden",52886070.4,"SWE",2014
-"Switzerland",4129039,"CHE",2014
-"Syrian Arab Republic",18518000,"SYR",2014
-"Tajikistan",14138000,"TJK",2014
-"Thailand",51312000,"THA",2014
-"Timor-Leste",1487000,"TLS",2014
-"Togo",5679000,"TGO",2014
-"Tonga",75000,"TON",2014
-"Trinidad and Tobago",513000,"TTO",2014
-"Tunisia",16361000,"TUN",2014
-"Turkey",78535000,"TUR",2014
-"Turkmenistan",48810000,"TKM",2014
-"Turks and Caicos Islands",95000,"TCA",2014
-"Tuvalu",3000,"TUV",2014
-"Uganda",24155000,"UGA",2014
-"Ukraine",60355000,"UKR",2014
-"United Arab Emirates",9864790,"ARE",2014
-"United Kingdom",24361000,"GBR",2014
-"United States",983151000,"USA",2014
-"Uruguay",17622000,"URY",2014
-"Uzbekistan",44892400,"UZB",2014
-"Vanuatu",1219000,"VUT",2014
-"Venezuela",91205000,"VEN",2014
-"Vietnam",33134000,"VNM",2014
-"World",13500322514,"WLD",2014
-"Zambia",75261000,"ZMB",2014
-"Zimbabwe",39076000,"ZWE",2014
-"Afghanistan",65286000,"AFG",2015
-"Albania",2875000,"ALB",2015
-"Algeria",238174100,"DZA",2015
-"American Samoa",20000,"ASM",2015
-"Andorra",47000,"AND",2015
-"Angola",124670000,"AGO",2015
-"Antigua and Barbuda",44000,"ATG",2015
-"Argentina",278040000,"ARG",2015
-"Armenia",2974000,"ARM",2015
-"Aruba",18000,"ABW",2015
-"Australia",774122000,"AUS",2015
-"Austria",8387900,"AUT",2015
-"Azerbaijan",8660000,"AZE",2015
-"Bahamas",1388000,"BHS",2015
-"Bahrain",78500,"BHR",2015
-"Bangladesh",14757000,"BGD",2015
-"Barbados",43000,"BRB",2015
-"Belarus",20761000,"BLR",2015
-"Belgium",3053000,"BEL",2015
-"Belize",2297000,"BLZ",2015
-"Benin",11476000,"BEN",2015
-"Bermuda",429000,"BMU",2015
-"Bhutan",3839000,"BTN",2015
-"Bolivia",109858000,"BOL",2015
-"Bosnia and Herzegovina",5121000,"BIH",2015
-"Botswana",58173000,"BWA",2015
-"Brazil",851577000,"BRA",2015
-"British Virgin Islands",15000,"VGB",2015
-"Brunei Darussalam",577000,"BRN",2015
-"Bulgaria",11100000,"BGR",2015
-"Burkina Faso",27422000,"BFA",2015
-"Burundi",2783000,"BDI",2015
-"Cabo Verde",403000,"CPV",2015
-"Cambodia",18104000,"KHM",2015
-"Cameroon",47544000,"CMR",2015
-"Canada",987975000,"CAN",2015
-"Cayman Islands",26400,"CYM",2015
-"Central African Republic",62298000,"CAF",2015
-"Chad",128400000,"TCD",2015
-"Channel Islands",19800,"CHI",2015
-"Chile",75670000,"CHL",2015
-"China",960001290,"CHN",2015
-"Colombia",114061905,"COL",2015
-"Comoros",186100,"COM",2015
-"Costa Rica",5110000,"CRI",2015
-"Croatia",8807000,"HRV",2015
-"Cuba",10988000,"CUB",2015
-"Cyprus",925000,"CYP",2015
-"Czechia",7887101,"CZE",2015
-"Denmark",4292000,"DNK",2015
-"Djibouti",2320000,"DJI",2015
-"Dominica",75000,"DMA",2015
-"Dominican Republic",4867000,"DOM",2015
-"Ecuador",25637000,"ECU",2015
-"Egypt",100145000,"EGY",2015
-"El Salvador",2104000,"SLV",2015
-"Equatorial Guinea",2805000,"GNQ",2015
-"Eritrea",12163032.7,"ERI",2015
-"Estonia",4534000,"EST",2015
-"Eswatini",1736000,"SWZ",2015
-"Ethiopia",113623954.4,"ETH",2015
-"Faroe Islands",1295967,"FRO",2015
-"Fiji",1827000,"FJI",2015
-"Finland",33846000,"FIN",2015
-"France",54908687,"FRA",2015
-"French Polynesia",347100,"PYF",2015
-"Gabon",26767000,"GAB",2015
-"Georgia",6970000,"GEO",2015
-"Germany",35759000,"DEU",2015
-"Ghana",23853000,"GHA",2015
-"Gibraltar",1000,"GIB",2015
-"Greece",13196000,"GRC",2015
-"Greenland",41045000,"GRL",2015
-"Grenada",34000,"GRD",2015
-"Guam",54000,"GUM",2015
-"Guatemala",10889000,"GTM",2015
-"Guinea",24586000,"GIN",2015
-"Guinea-Bissau",3613000,"GNB",2015
-"Guyana",21497000,"GUY",2015
-"Haiti",2775000,"HTI",2015
-"Honduras",11249000,"HND",2015
-"Hungary",9303000,"HUN",2015
-"Iceland",10300000,"ISL",2015
-"India",328726000,"IND",2015
-"Indonesia",191690677,"IDN",2015
-"Iraq",43505200,"IRQ",2015
-"Ireland",7028000,"IRL",2015
-"Isle of Man",57000,"IMN",2015
-"Israel",2207000,"ISR",2015
-"Italy",30206800,"ITA",2015
-"Jamaica",1099000,"JAM",2015
-"Japan",37797400,"JPN",2015
-"Jordan",8931800,"JOR",2015
-"Kazakhstan",272490000,"KAZ",2015
-"Kenya",58037000,"KEN",2015
-"Kiribati",81000,"KIR",2015
-"Korea",10041000,"KOR",2015
-"Kuwait",1782000,"KWT",2015
-"Latvia",6459000,"LVA",2015
-"Lebanon",1045000,"LBN",2015
-"Lesotho",3036000,"LSO",2015
-"Liberia",11137000,"LBR",2015
-"Libya",175954000,"LBY",2015
-"Liechtenstein",16000,"LIE",2015
-"Lithuania",6529000,"LTU",2015
-"Luxembourg",259000,"LUX",2015
-"Madagascar",58729500,"MDG",2015
-"Malawi",11848000,"MWI",2015
-"Malaysia",33024100,"MYS",2015
-"Maldives",30000,"MDV",2015
-"Mali",124019000,"MLI",2015
-"Malta",32000,"MLT",2015
-"Marshall Islands",18000,"MHL",2015
-"Mauritania",103070000,"MRT",2015
-"Mauritius",204000,"MUS",2015
-"Mexico",196437500,"MEX",2015
-"Monaco",7492,"MCO",2015
-"Mongolia",156411574.9,"MNG",2015
-"Montenegro",1381000,"MNE",2015
-"Morocco",44655000,"MAR",2015
-"Mozambique",79938000,"MOZ",2015
-"Myanmar",67659000,"MMR",2015
-"Namibia",82429000,"NAM",2015
-"Nauru",2000,"NRU",2015
-"Nepal",14718000,"NPL",2015
-"Netherlands",4154000,"NLD",2015
-"New Caledonia",1858000,"NCL",2015
-"New Zealand",26771000,"NZL",2015
-"Nicaragua",13037000,"NIC",2015
-"Niger",126700000,"NER",2015
-"Nigeria",92377000,"NGA",2015
-"North Macedonia",2571000,"MKD",2015
-"Northern Mariana Islands",46000,"MNP",2015
-"Norway",62449900,"NOR",2015
-"Oman",30950000,"OMN",2015
-"Pakistan",79610000,"PAK",2015
-"Palau",46000,"PLW",2015
-"Panama",7532000,"PAN",2015
-"Papua New Guinea",46284000,"PNG",2015
-"Paraguay",40675200,"PRY",2015
-"Peru",128522000,"PER",2015
-"Philippines",3e+07,"PHL",2015
-"Poland",31271000,"POL",2015
-"Portugal",9223000,"PRT",2015
-"Puerto Rico",887000,"PRI",2015
-"Qatar",1149000,"QAT",2015
-"Romania",23840000,"ROU",2015
-"Russian Federation",1709825000,"RUS",2015
-"Rwanda",2634000,"RWA",2015
-"Samoa",284000,"WSM",2015
-"San Marino",6000,"SMR",2015
-"Sao Tome and Principe",96000,"STP",2015
-"Saudi Arabia",214969000,"SAU",2015
-"Senegal",19671000,"SEN",2015
-"Serbia",8499000,"SRB",2015
-"Seychelles",46000,"SYC",2015
-"Sierra Leone",7230000,"SLE",2015
-"Singapore",72800,"SGP",2015
-"Sint Maarten (Dutch part)",3400,"SXM",2015
-"Slovenia",2048000,"SVN",2015
-"Solomon Islands",2890000,"SLB",2015
-"Somalia",63766000,"SOM",2015
-"South Africa",121909000,"ZAF",2015
-"South Sudan",64688300,"SSD",2015
-"Spain",50596989.1,"ESP",2015
-"Sri Lanka",6561000,"LKA",2015
-"Sudan",187800000,"SDN",2015
-"Suriname",16382000,"SUR",2015
-"Sweden",52886070.4,"SWE",2015
-"Switzerland",4129039,"CHE",2015
-"Syrian Arab Republic",18518000,"SYR",2015
-"Tajikistan",14138000,"TJK",2015
-"Thailand",51312000,"THA",2015
-"Timor-Leste",1487000,"TLS",2015
-"Togo",5679000,"TGO",2015
-"Tonga",75000,"TON",2015
-"Trinidad and Tobago",513000,"TTO",2015
-"Tunisia",16361000,"TUN",2015
-"Turkey",78535000,"TUR",2015
-"Turkmenistan",48810000,"TKM",2015
-"Turks and Caicos Islands",95000,"TCA",2015
-"Tuvalu",3000,"TUV",2015
-"Uganda",24155000,"UGA",2015
-"Ukraine",60355000,"UKR",2015
-"United Arab Emirates",9864790,"ARE",2015
-"United Kingdom",24361000,"GBR",2015
-"United States",983151000,"USA",2015
-"Uruguay",17622000,"URY",2015
-"Uzbekistan",44892400,"UZB",2015
-"Vanuatu",1219000,"VUT",2015
-"Venezuela",91205000,"VEN",2015
-"Vietnam",33134000,"VNM",2015
-"World",13500322514,"WLD",2015
-"Zambia",75261000,"ZMB",2015
-"Zimbabwe",39076000,"ZWE",2015
-"Afghanistan",65286000,"AFG",2016
-"Albania",2875000,"ALB",2016
-"Algeria",238174100,"DZA",2016
-"American Samoa",20000,"ASM",2016
-"Andorra",47000,"AND",2016
-"Angola",124670000,"AGO",2016
-"Antigua and Barbuda",44000,"ATG",2016
-"Argentina",278040000,"ARG",2016
-"Armenia",2974000,"ARM",2016
-"Aruba",18000,"ABW",2016
-"Australia",774122000,"AUS",2016
-"Austria",8387900,"AUT",2016
-"Azerbaijan",8660000,"AZE",2016
-"Bahamas",1388000,"BHS",2016
-"Bahrain",78500,"BHR",2016
-"Bangladesh",14757000,"BGD",2016
-"Barbados",43000,"BRB",2016
-"Belarus",20761000,"BLR",2016
-"Belgium",3053000,"BEL",2016
-"Belize",2297000,"BLZ",2016
-"Benin",11476000,"BEN",2016
-"Bermuda",429000,"BMU",2016
-"Bhutan",3839000,"BTN",2016
-"Bolivia",109858000,"BOL",2016
-"Bosnia and Herzegovina",5121000,"BIH",2016
-"Botswana",58173000,"BWA",2016
-"Brazil",851577000,"BRA",2016
-"British Virgin Islands",15000,"VGB",2016
-"Brunei Darussalam",577000,"BRN",2016
-"Bulgaria",11100000,"BGR",2016
-"Burkina Faso",27422000,"BFA",2016
-"Burundi",2783000,"BDI",2016
-"Cabo Verde",403000,"CPV",2016
-"Cambodia",18104000,"KHM",2016
-"Cameroon",47544000,"CMR",2016
-"Canada",987975000,"CAN",2016
-"Cayman Islands",26400,"CYM",2016
-"Central African Republic",62298000,"CAF",2016
-"Chad",128400000,"TCD",2016
-"Channel Islands",19800,"CHI",2016
-"Chile",75670000,"CHL",2016
-"China",960001290,"CHN",2016
-"Colombia",114061905,"COL",2016
-"Comoros",186100,"COM",2016
-"Costa Rica",5110000,"CRI",2016
-"Croatia",8807000,"HRV",2016
-"Cuba",10988000,"CUB",2016
-"Cyprus",925000,"CYP",2016
-"Czechia",7887101,"CZE",2016
-"Denmark",4292000,"DNK",2016
-"Djibouti",2320000,"DJI",2016
-"Dominica",75000,"DMA",2016
-"Dominican Republic",4867000,"DOM",2016
-"Ecuador",25637000,"ECU",2016
-"Egypt",100145000,"EGY",2016
-"El Salvador",2104000,"SLV",2016
-"Equatorial Guinea",2805000,"GNQ",2016
-"Eritrea",12163032.7,"ERI",2016
-"Estonia",4534000,"EST",2016
-"Eswatini",1736000,"SWZ",2016
-"Ethiopia",113623954.4,"ETH",2016
-"Faroe Islands",1295967,"FRO",2016
-"Fiji",1827000,"FJI",2016
-"Finland",33846000,"FIN",2016
-"France",54908687,"FRA",2016
-"French Polynesia",347100,"PYF",2016
-"Gabon",26767000,"GAB",2016
-"Georgia",6970000,"GEO",2016
-"Germany",35759000,"DEU",2016
-"Ghana",23853000,"GHA",2016
-"Gibraltar",1000,"GIB",2016
-"Greece",13196000,"GRC",2016
-"Greenland",41045000,"GRL",2016
-"Grenada",34000,"GRD",2016
-"Guam",54000,"GUM",2016
-"Guatemala",10889000,"GTM",2016
-"Guinea",24586000,"GIN",2016
-"Guinea-Bissau",3613000,"GNB",2016
-"Guyana",21497000,"GUY",2016
-"Haiti",2775000,"HTI",2016
-"Honduras",11249000,"HND",2016
-"Hungary",9303000,"HUN",2016
-"Iceland",10300000,"ISL",2016
-"India",328726000,"IND",2016
-"Indonesia",191690677,"IDN",2016
-"Iraq",43505200,"IRQ",2016
-"Ireland",7028000,"IRL",2016
-"Isle of Man",57000,"IMN",2016
-"Israel",2207000,"ISR",2016
-"Italy",30206800,"ITA",2016
-"Jamaica",1099000,"JAM",2016
-"Japan",37797400,"JPN",2016
-"Jordan",8931800,"JOR",2016
-"Kazakhstan",272490000,"KAZ",2016
-"Kenya",58037000,"KEN",2016
-"Kiribati",81000,"KIR",2016
-"Korea",10041000,"KOR",2016
-"Kuwait",1782000,"KWT",2016
-"Latvia",6459000,"LVA",2016
-"Lebanon",1045000,"LBN",2016
-"Lesotho",3036000,"LSO",2016
-"Liberia",11137000,"LBR",2016
-"Libya",175954000,"LBY",2016
-"Liechtenstein",16000,"LIE",2016
-"Lithuania",6529000,"LTU",2016
-"Luxembourg",259000,"LUX",2016
-"Madagascar",58729500,"MDG",2016
-"Malawi",11848000,"MWI",2016
-"Malaysia",33024100,"MYS",2016
-"Maldives",30000,"MDV",2016
-"Mali",124019000,"MLI",2016
-"Malta",32000,"MLT",2016
-"Marshall Islands",18000,"MHL",2016
-"Mauritania",103070000,"MRT",2016
-"Mauritius",204000,"MUS",2016
-"Mexico",196437500,"MEX",2016
-"Monaco",7492,"MCO",2016
-"Mongolia",156411574.9,"MNG",2016
-"Montenegro",1381000,"MNE",2016
-"Morocco",44655000,"MAR",2016
-"Mozambique",79938000,"MOZ",2016
-"Myanmar",67659000,"MMR",2016
-"Namibia",82429000,"NAM",2016
-"Nauru",2000,"NRU",2016
-"Nepal",14718000,"NPL",2016
-"Netherlands",4154000,"NLD",2016
-"New Caledonia",1858000,"NCL",2016
-"New Zealand",26771000,"NZL",2016
-"Nicaragua",13037000,"NIC",2016
-"Niger",126700000,"NER",2016
-"Nigeria",92377000,"NGA",2016
-"North Macedonia",2571000,"MKD",2016
-"Northern Mariana Islands",46000,"MNP",2016
-"Norway",62449900,"NOR",2016
-"Oman",30950000,"OMN",2016
-"Pakistan",79610000,"PAK",2016
-"Palau",46000,"PLW",2016
-"Panama",7532000,"PAN",2016
-"Papua New Guinea",46284000,"PNG",2016
-"Paraguay",40675200,"PRY",2016
-"Peru",128522000,"PER",2016
-"Philippines",3e+07,"PHL",2016
-"Poland",31271000,"POL",2016
-"Portugal",9223000,"PRT",2016
-"Puerto Rico",887000,"PRI",2016
-"Qatar",1149000,"QAT",2016
-"Romania",23840000,"ROU",2016
-"Russian Federation",1709825000,"RUS",2016
-"Rwanda",2634000,"RWA",2016
-"Samoa",284000,"WSM",2016
-"San Marino",6000,"SMR",2016
-"Sao Tome and Principe",96000,"STP",2016
-"Saudi Arabia",214969000,"SAU",2016
-"Senegal",19671000,"SEN",2016
-"Serbia",8499000,"SRB",2016
-"Seychelles",46000,"SYC",2016
-"Sierra Leone",7230000,"SLE",2016
-"Singapore",72800,"SGP",2016
-"Sint Maarten (Dutch part)",3400,"SXM",2016
-"Slovenia",2048000,"SVN",2016
-"Solomon Islands",2890000,"SLB",2016
-"Somalia",63766000,"SOM",2016
-"South Africa",121909000,"ZAF",2016
-"South Sudan",64688300,"SSD",2016
-"Spain",50596989.1,"ESP",2016
-"Sri Lanka",6561000,"LKA",2016
-"Sudan",187800000,"SDN",2016
-"Suriname",16382000,"SUR",2016
-"Sweden",52886070.4,"SWE",2016
-"Switzerland",4129039,"CHE",2016
-"Syrian Arab Republic",18518000,"SYR",2016
-"Tajikistan",14138000,"TJK",2016
-"Thailand",51312000,"THA",2016
-"Timor-Leste",1487000,"TLS",2016
-"Togo",5679000,"TGO",2016
-"Tonga",75000,"TON",2016
-"Trinidad and Tobago",513000,"TTO",2016
-"Tunisia",16361000,"TUN",2016
-"Turkey",78535000,"TUR",2016
-"Turkmenistan",48810000,"TKM",2016
-"Turks and Caicos Islands",95000,"TCA",2016
-"Tuvalu",3000,"TUV",2016
-"Uganda",24155000,"UGA",2016
-"Ukraine",60355000,"UKR",2016
-"United Arab Emirates",9864790,"ARE",2016
-"United Kingdom",24361000,"GBR",2016
-"United States",983151000,"USA",2016
-"Uruguay",17622000,"URY",2016
-"Uzbekistan",44892400,"UZB",2016
-"Vanuatu",1219000,"VUT",2016
-"Venezuela",91205000,"VEN",2016
-"Vietnam",33134000,"VNM",2016
-"World",13500322514,"WLD",2016
-"Zambia",75261000,"ZMB",2016
-"Zimbabwe",39076000,"ZWE",2016
-"Afghanistan",65286000,"AFG",2017
-"Albania",2875000,"ALB",2017
-"Algeria",238174100,"DZA",2017
-"American Samoa",20000,"ASM",2017
-"Andorra",47000,"AND",2017
-"Angola",124670000,"AGO",2017
-"Antigua and Barbuda",44000,"ATG",2017
-"Argentina",278040000,"ARG",2017
-"Armenia",2974000,"ARM",2017
-"Aruba",18000,"ABW",2017
-"Australia",774122000,"AUS",2017
-"Austria",8387900,"AUT",2017
-"Azerbaijan",8660000,"AZE",2017
-"Bahamas",1388000,"BHS",2017
-"Bahrain",78500,"BHR",2017
-"Bangladesh",14757000,"BGD",2017
-"Barbados",43000,"BRB",2017
-"Belarus",20761000,"BLR",2017
-"Belgium",3053000,"BEL",2017
-"Belize",2297000,"BLZ",2017
-"Benin",11476000,"BEN",2017
-"Bermuda",429000,"BMU",2017
-"Bhutan",3839000,"BTN",2017
-"Bolivia",109858000,"BOL",2017
-"Bosnia and Herzegovina",5121000,"BIH",2017
-"Botswana",58173000,"BWA",2017
-"Brazil",851577000,"BRA",2017
-"British Virgin Islands",15000,"VGB",2017
-"Brunei Darussalam",577000,"BRN",2017
-"Bulgaria",11100000,"BGR",2017
-"Burkina Faso",27422000,"BFA",2017
-"Burundi",2783000,"BDI",2017
-"Cabo Verde",403000,"CPV",2017
-"Cambodia",18104000,"KHM",2017
-"Cameroon",47544000,"CMR",2017
-"Canada",987975000,"CAN",2017
-"Cayman Islands",26400,"CYM",2017
-"Central African Republic",62298000,"CAF",2017
-"Chad",128400000,"TCD",2017
-"Channel Islands",19800,"CHI",2017
-"Chile",75670000,"CHL",2017
-"China",960001290,"CHN",2017
-"Colombia",114061905,"COL",2017
-"Comoros",186100,"COM",2017
-"Costa Rica",5110000,"CRI",2017
-"Croatia",8807000,"HRV",2017
-"Cuba",10988000,"CUB",2017
-"Cyprus",925000,"CYP",2017
-"Czechia",7887101,"CZE",2017
-"Denmark",4292000,"DNK",2017
-"Djibouti",2320000,"DJI",2017
-"Dominica",75000,"DMA",2017
-"Dominican Republic",4867000,"DOM",2017
-"Ecuador",25637000,"ECU",2017
-"Egypt",100145000,"EGY",2017
-"El Salvador",2104000,"SLV",2017
-"Equatorial Guinea",2805000,"GNQ",2017
-"Eritrea",12163032.7,"ERI",2017
-"Estonia",4534000,"EST",2017
-"Eswatini",1736000,"SWZ",2017
-"Ethiopia",113623954.4,"ETH",2017
-"Faroe Islands",1295967,"FRO",2017
-"Fiji",1827000,"FJI",2017
-"Finland",33846000,"FIN",2017
-"France",54908687,"FRA",2017
-"French Polynesia",347100,"PYF",2017
-"Gabon",26767000,"GAB",2017
-"Georgia",6970000,"GEO",2017
-"Germany",35759000,"DEU",2017
-"Ghana",23853000,"GHA",2017
-"Gibraltar",1000,"GIB",2017
-"Greece",13196000,"GRC",2017
-"Greenland",41045000,"GRL",2017
-"Grenada",34000,"GRD",2017
-"Guam",54000,"GUM",2017
-"Guatemala",10889000,"GTM",2017
-"Guinea",24586000,"GIN",2017
-"Guinea-Bissau",3613000,"GNB",2017
-"Guyana",21497000,"GUY",2017
-"Haiti",2775000,"HTI",2017
-"Honduras",11249000,"HND",2017
-"Hungary",9303000,"HUN",2017
-"Iceland",10300000,"ISL",2017
-"India",328726000,"IND",2017
-"Indonesia",191690677,"IDN",2017
-"Iraq",43505200,"IRQ",2017
-"Ireland",7028000,"IRL",2017
-"Isle of Man",57000,"IMN",2017
-"Israel",2207000,"ISR",2017
-"Italy",30206800,"ITA",2017
-"Jamaica",1099000,"JAM",2017
-"Japan",37797400,"JPN",2017
-"Jordan",8931800,"JOR",2017
-"Kazakhstan",272490000,"KAZ",2017
-"Kenya",58037000,"KEN",2017
-"Kiribati",81000,"KIR",2017
-"Korea",10041000,"KOR",2017
-"Kuwait",1782000,"KWT",2017
-"Latvia",6459000,"LVA",2017
-"Lebanon",1045000,"LBN",2017
-"Lesotho",3036000,"LSO",2017
-"Liberia",11137000,"LBR",2017
-"Libya",175954000,"LBY",2017
-"Liechtenstein",16000,"LIE",2017
-"Lithuania",6529000,"LTU",2017
-"Luxembourg",259000,"LUX",2017
-"Madagascar",58729500,"MDG",2017
-"Malawi",11848000,"MWI",2017
-"Malaysia",33024100,"MYS",2017
-"Maldives",30000,"MDV",2017
-"Mali",124019000,"MLI",2017
-"Malta",32000,"MLT",2017
-"Marshall Islands",18000,"MHL",2017
-"Mauritania",103070000,"MRT",2017
-"Mauritius",204000,"MUS",2017
-"Mexico",196437500,"MEX",2017
-"Monaco",7492,"MCO",2017
-"Mongolia",156411574.9,"MNG",2017
-"Montenegro",1381000,"MNE",2017
-"Morocco",44655000,"MAR",2017
-"Mozambique",79938000,"MOZ",2017
-"Myanmar",67659000,"MMR",2017
-"Namibia",82429000,"NAM",2017
-"Nauru",2000,"NRU",2017
-"Nepal",14718000,"NPL",2017
-"Netherlands",4154000,"NLD",2017
-"New Caledonia",1858000,"NCL",2017
-"New Zealand",26771000,"NZL",2017
-"Nicaragua",13037000,"NIC",2017
-"Niger",126700000,"NER",2017
-"Nigeria",92377000,"NGA",2017
-"North Macedonia",2571000,"MKD",2017
-"Northern Mariana Islands",46000,"MNP",2017
-"Norway",62449900,"NOR",2017
-"Oman",30950000,"OMN",2017
-"Pakistan",79610000,"PAK",2017
-"Palau",46000,"PLW",2017
-"Panama",7532000,"PAN",2017
-"Papua New Guinea",46284000,"PNG",2017
-"Paraguay",40675200,"PRY",2017
-"Peru",128522000,"PER",2017
-"Philippines",3e+07,"PHL",2017
-"Poland",31271000,"POL",2017
-"Portugal",9223000,"PRT",2017
-"Puerto Rico",887000,"PRI",2017
-"Qatar",1149000,"QAT",2017
-"Romania",23840000,"ROU",2017
-"Russian Federation",1709825000,"RUS",2017
-"Rwanda",2634000,"RWA",2017
-"Samoa",284000,"WSM",2017
-"San Marino",6000,"SMR",2017
-"Sao Tome and Principe",96000,"STP",2017
-"Saudi Arabia",214969000,"SAU",2017
-"Senegal",19671000,"SEN",2017
-"Serbia",8499000,"SRB",2017
-"Seychelles",46000,"SYC",2017
-"Sierra Leone",7230000,"SLE",2017
-"Singapore",72800,"SGP",2017
-"Sint Maarten (Dutch part)",3400,"SXM",2017
-"Slovenia",2048000,"SVN",2017
-"Solomon Islands",2890000,"SLB",2017
-"Somalia",63766000,"SOM",2017
-"South Africa",121909000,"ZAF",2017
-"South Sudan",64688300,"SSD",2017
-"Spain",50596989.1,"ESP",2017
-"Sri Lanka",6561000,"LKA",2017
-"Sudan",187800000,"SDN",2017
-"Suriname",16382000,"SUR",2017
-"Sweden",52886070.4,"SWE",2017
-"Switzerland",4129039,"CHE",2017
-"Syrian Arab Republic",18518000,"SYR",2017
-"Tajikistan",14138000,"TJK",2017
-"Thailand",51312000,"THA",2017
-"Timor-Leste",1487000,"TLS",2017
-"Togo",5679000,"TGO",2017
-"Tonga",75000,"TON",2017
-"Trinidad and Tobago",513000,"TTO",2017
-"Tunisia",16361000,"TUN",2017
-"Turkey",78535000,"TUR",2017
-"Turkmenistan",48810000,"TKM",2017
-"Turks and Caicos Islands",95000,"TCA",2017
-"Tuvalu",3000,"TUV",2017
-"Uganda",24155000,"UGA",2017
-"Ukraine",60355000,"UKR",2017
-"United Arab Emirates",9864790,"ARE",2017
-"United Kingdom",24361000,"GBR",2017
-"United States",983151000,"USA",2017
-"Uruguay",17622000,"URY",2017
-"Uzbekistan",44892400,"UZB",2017
-"Vanuatu",1219000,"VUT",2017
-"Venezuela",91205000,"VEN",2017
-"Vietnam",33134000,"VNM",2017
-"World",13500322514,"WLD",2017
-"Zambia",75261000,"ZMB",2017
-"Zimbabwe",39076000,"ZWE",2017
-"Afghanistan",65286000,"AFG",2018
-"Albania",2875000,"ALB",2018
-"Algeria",238174100,"DZA",2018
-"American Samoa",20000,"ASM",2018
-"Andorra",47000,"AND",2018
-"Angola",124670000,"AGO",2018
-"Antigua and Barbuda",44000,"ATG",2018
-"Argentina",278040000,"ARG",2018
-"Armenia",2974000,"ARM",2018
-"Aruba",18000,"ABW",2018
-"Australia",774122000,"AUS",2018
-"Austria",8387900,"AUT",2018
-"Azerbaijan",8660000,"AZE",2018
-"Bahamas",1388000,"BHS",2018
-"Bahrain",78500,"BHR",2018
-"Bangladesh",14757000,"BGD",2018
-"Barbados",43000,"BRB",2018
-"Belarus",20761000,"BLR",2018
-"Belgium",3053000,"BEL",2018
-"Belize",2297000,"BLZ",2018
-"Benin",11476000,"BEN",2018
-"Bermuda",429000,"BMU",2018
-"Bhutan",3839000,"BTN",2018
-"Bolivia",109858000,"BOL",2018
-"Bosnia and Herzegovina",5121000,"BIH",2018
-"Botswana",58173000,"BWA",2018
-"Brazil",851577000,"BRA",2018
-"British Virgin Islands",15000,"VGB",2018
-"Brunei Darussalam",577000,"BRN",2018
-"Bulgaria",11100000,"BGR",2018
-"Burkina Faso",27422000,"BFA",2018
-"Burundi",2783000,"BDI",2018
-"Cabo Verde",403000,"CPV",2018
-"Cambodia",18104000,"KHM",2018
-"Cameroon",47544000,"CMR",2018
-"Canada",987975000,"CAN",2018
-"Cayman Islands",26400,"CYM",2018
-"Central African Republic",62298000,"CAF",2018
-"Chad",128400000,"TCD",2018
-"Channel Islands",19800,"CHI",2018
-"Chile",75670000,"CHL",2018
-"China",960001290,"CHN",2018
-"Colombia",114061905,"COL",2018
-"Comoros",186100,"COM",2018
-"Costa Rica",5110000,"CRI",2018
-"Croatia",8807000,"HRV",2018
-"Cuba",10988000,"CUB",2018
-"Cyprus",925000,"CYP",2018
-"Czechia",7887101,"CZE",2018
-"Denmark",4292000,"DNK",2018
-"Djibouti",2320000,"DJI",2018
-"Dominica",75000,"DMA",2018
-"Dominican Republic",4867000,"DOM",2018
-"Ecuador",25637000,"ECU",2018
-"Egypt",100145000,"EGY",2018
-"El Salvador",2104000,"SLV",2018
-"Equatorial Guinea",2805000,"GNQ",2018
-"Eritrea",12163032.7,"ERI",2018
-"Estonia",4534000,"EST",2018
-"Eswatini",1736000,"SWZ",2018
-"Ethiopia",113623954.4,"ETH",2018
-"Faroe Islands",1295967,"FRO",2018
-"Fiji",1827000,"FJI",2018
-"Finland",33846000,"FIN",2018
-"France",54908687,"FRA",2018
-"French Polynesia",347100,"PYF",2018
-"Gabon",26767000,"GAB",2018
-"Georgia",6970000,"GEO",2018
-"Germany",35759000,"DEU",2018
-"Ghana",23853000,"GHA",2018
-"Gibraltar",1000,"GIB",2018
-"Greece",13196000,"GRC",2018
-"Greenland",41045000,"GRL",2018
-"Grenada",34000,"GRD",2018
-"Guam",54000,"GUM",2018
-"Guatemala",10889000,"GTM",2018
-"Guinea",24586000,"GIN",2018
-"Guinea-Bissau",3613000,"GNB",2018
-"Guyana",21497000,"GUY",2018
-"Haiti",2775000,"HTI",2018
-"Honduras",11249000,"HND",2018
-"Hungary",9303000,"HUN",2018
-"Iceland",10300000,"ISL",2018
-"India",328726000,"IND",2018
-"Indonesia",191690677,"IDN",2018
-"Iraq",43505200,"IRQ",2018
-"Ireland",7028000,"IRL",2018
-"Isle of Man",57000,"IMN",2018
-"Israel",2207000,"ISR",2018
-"Italy",30206800,"ITA",2018
-"Jamaica",1099000,"JAM",2018
-"Japan",37797400,"JPN",2018
-"Jordan",8931800,"JOR",2018
-"Kazakhstan",272490000,"KAZ",2018
-"Kenya",58037000,"KEN",2018
-"Kiribati",81000,"KIR",2018
-"Korea",10041000,"KOR",2018
-"Kuwait",1782000,"KWT",2018
-"Latvia",6459000,"LVA",2018
-"Lebanon",1045000,"LBN",2018
-"Lesotho",3036000,"LSO",2018
-"Liberia",11137000,"LBR",2018
-"Libya",175954000,"LBY",2018
-"Liechtenstein",16000,"LIE",2018
-"Lithuania",6529000,"LTU",2018
-"Luxembourg",259000,"LUX",2018
-"Madagascar",58729500,"MDG",2018
-"Malawi",11848000,"MWI",2018
-"Malaysia",33024100,"MYS",2018
-"Maldives",30000,"MDV",2018
-"Mali",124019000,"MLI",2018
-"Malta",32000,"MLT",2018
-"Marshall Islands",18000,"MHL",2018
-"Mauritania",103070000,"MRT",2018
-"Mauritius",204000,"MUS",2018
-"Mexico",196437500,"MEX",2018
-"Monaco",7492,"MCO",2018
-"Mongolia",156411574.9,"MNG",2018
-"Montenegro",1381000,"MNE",2018
-"Morocco",44655000,"MAR",2018
-"Mozambique",79938000,"MOZ",2018
-"Myanmar",67659000,"MMR",2018
-"Namibia",82429000,"NAM",2018
-"Nauru",2000,"NRU",2018
-"Nepal",14718000,"NPL",2018
-"Netherlands",4154000,"NLD",2018
-"New Caledonia",1858000,"NCL",2018
-"New Zealand",26771000,"NZL",2018
-"Nicaragua",13037000,"NIC",2018
-"Niger",126700000,"NER",2018
-"Nigeria",92377000,"NGA",2018
-"North Macedonia",2571000,"MKD",2018
-"Northern Mariana Islands",46000,"MNP",2018
-"Norway",62449900,"NOR",2018
-"Oman",30950000,"OMN",2018
-"Pakistan",79610000,"PAK",2018
-"Palau",46000,"PLW",2018
-"Panama",7532000,"PAN",2018
-"Papua New Guinea",46284000,"PNG",2018
-"Paraguay",40675200,"PRY",2018
-"Peru",128522000,"PER",2018
-"Philippines",3e+07,"PHL",2018
-"Poland",31271000,"POL",2018
-"Portugal",9223000,"PRT",2018
-"Puerto Rico",887000,"PRI",2018
-"Qatar",1149000,"QAT",2018
-"Romania",23840000,"ROU",2018
-"Russian Federation",1709825000,"RUS",2018
-"Rwanda",2634000,"RWA",2018
-"Samoa",284000,"WSM",2018
-"San Marino",6000,"SMR",2018
-"Sao Tome and Principe",96000,"STP",2018
-"Saudi Arabia",214969000,"SAU",2018
-"Senegal",19671000,"SEN",2018
-"Serbia",8499000,"SRB",2018
-"Seychelles",46000,"SYC",2018
-"Sierra Leone",7230000,"SLE",2018
-"Singapore",72800,"SGP",2018
-"Sint Maarten (Dutch part)",3400,"SXM",2018
-"Slovenia",2048000,"SVN",2018
-"Solomon Islands",2890000,"SLB",2018
-"Somalia",63766000,"SOM",2018
-"South Africa",121909000,"ZAF",2018
-"South Sudan",64688300,"SSD",2018
-"Spain",50596989.1,"ESP",2018
-"Sri Lanka",6561000,"LKA",2018
-"Sudan",187800000,"SDN",2018
-"Suriname",16382000,"SUR",2018
-"Sweden",52886070.4,"SWE",2018
-"Switzerland",4129039,"CHE",2018
-"Syrian Arab Republic",18518000,"SYR",2018
-"Tajikistan",14138000,"TJK",2018
-"Thailand",51312000,"THA",2018
-"Timor-Leste",1487000,"TLS",2018
-"Togo",5679000,"TGO",2018
-"Tonga",75000,"TON",2018
-"Trinidad and Tobago",513000,"TTO",2018
-"Tunisia",16361000,"TUN",2018
-"Turkey",78535000,"TUR",2018
-"Turkmenistan",48810000,"TKM",2018
-"Turks and Caicos Islands",95000,"TCA",2018
-"Tuvalu",3000,"TUV",2018
-"Uganda",24155000,"UGA",2018
-"Ukraine",60355000,"UKR",2018
-"United Arab Emirates",9864790,"ARE",2018
-"United Kingdom",24361000,"GBR",2018
-"United States",983151000,"USA",2018
-"Uruguay",17622000,"URY",2018
-"Uzbekistan",44892400,"UZB",2018
-"Vanuatu",1219000,"VUT",2018
-"Venezuela",91205000,"VEN",2018
-"Vietnam",33134000,"VNM",2018
-"World",13500322514,"WLD",2018
-"Zambia",75261000,"ZMB",2018
-"Zimbabwe",39076000,"ZWE",2018
-"Afghanistan",65286000,"AFG",2019
-"Albania",2875000,"ALB",2019
-"Algeria",238174100,"DZA",2019
-"American Samoa",20000,"ASM",2019
-"Andorra",47000,"AND",2019
-"Angola",124670000,"AGO",2019
-"Antigua and Barbuda",44000,"ATG",2019
-"Argentina",278040000,"ARG",2019
-"Armenia",2974000,"ARM",2019
-"Aruba",18000,"ABW",2019
-"Australia",774122000,"AUS",2019
-"Austria",8387900,"AUT",2019
-"Azerbaijan",8660000,"AZE",2019
-"Bahamas",1388000,"BHS",2019
-"Bahrain",78500,"BHR",2019
-"Bangladesh",14757000,"BGD",2019
-"Barbados",43000,"BRB",2019
-"Belarus",20761000,"BLR",2019
-"Belgium",3053000,"BEL",2019
-"Belize",2297000,"BLZ",2019
-"Benin",11476000,"BEN",2019
-"Bermuda",429000,"BMU",2019
-"Bhutan",3839000,"BTN",2019
-"Bolivia",109858000,"BOL",2019
-"Bosnia and Herzegovina",5121000,"BIH",2019
-"Botswana",58173000,"BWA",2019
-"Brazil",851577000,"BRA",2019
-"British Virgin Islands",15000,"VGB",2019
-"Brunei Darussalam",577000,"BRN",2019
-"Bulgaria",11100000,"BGR",2019
-"Burkina Faso",27422000,"BFA",2019
-"Burundi",2783000,"BDI",2019
-"Cabo Verde",403000,"CPV",2019
-"Cambodia",18104000,"KHM",2019
-"Cameroon",47544000,"CMR",2019
-"Canada",987975000,"CAN",2019
-"Cayman Islands",26400,"CYM",2019
-"Central African Republic",62298000,"CAF",2019
-"Chad",128400000,"TCD",2019
-"Channel Islands",19800,"CHI",2019
-"Chile",75670000,"CHL",2019
-"China",960001290,"CHN",2019
-"Colombia",114061905,"COL",2019
-"Comoros",186100,"COM",2019
-"Costa Rica",5110000,"CRI",2019
-"Croatia",8807000,"HRV",2019
-"Cuba",10988000,"CUB",2019
-"Cyprus",925000,"CYP",2019
-"Czechia",7887101,"CZE",2019
-"Denmark",4292000,"DNK",2019
-"Djibouti",2320000,"DJI",2019
-"Dominica",75000,"DMA",2019
-"Dominican Republic",4867000,"DOM",2019
-"Ecuador",25637000,"ECU",2019
-"Egypt",100145000,"EGY",2019
-"El Salvador",2104000,"SLV",2019
-"Equatorial Guinea",2805000,"GNQ",2019
-"Eritrea",12163032.7,"ERI",2019
-"Estonia",4534000,"EST",2019
-"Eswatini",1736000,"SWZ",2019
-"Ethiopia",113623954.4,"ETH",2019
-"Faroe Islands",1295967,"FRO",2019
-"Fiji",1827000,"FJI",2019
-"Finland",33846000,"FIN",2019
-"France",54908687,"FRA",2019
-"French Polynesia",347100,"PYF",2019
-"Gabon",26767000,"GAB",2019
-"Georgia",6970000,"GEO",2019
-"Germany",35759000,"DEU",2019
-"Ghana",23853000,"GHA",2019
-"Gibraltar",1000,"GIB",2019
-"Greece",13196000,"GRC",2019
-"Greenland",41045000,"GRL",2019
-"Grenada",34000,"GRD",2019
-"Guam",54000,"GUM",2019
-"Guatemala",10889000,"GTM",2019
-"Guinea",24586000,"GIN",2019
-"Guinea-Bissau",3613000,"GNB",2019
-"Guyana",21497000,"GUY",2019
-"Haiti",2775000,"HTI",2019
-"Honduras",11249000,"HND",2019
-"Hungary",9303000,"HUN",2019
-"Iceland",10300000,"ISL",2019
-"India",328726000,"IND",2019
-"Indonesia",191690677,"IDN",2019
-"Iraq",43505200,"IRQ",2019
-"Ireland",7028000,"IRL",2019
-"Isle of Man",57000,"IMN",2019
-"Israel",2207000,"ISR",2019
-"Italy",30206800,"ITA",2019
-"Jamaica",1099000,"JAM",2019
-"Japan",37797400,"JPN",2019
-"Jordan",8931800,"JOR",2019
-"Kazakhstan",272490000,"KAZ",2019
-"Kenya",58037000,"KEN",2019
-"Kiribati",81000,"KIR",2019
-"Korea",10041000,"KOR",2019
-"Kuwait",1782000,"KWT",2019
-"Latvia",6459000,"LVA",2019
-"Lebanon",1045000,"LBN",2019
-"Lesotho",3036000,"LSO",2019
-"Liberia",11137000,"LBR",2019
-"Libya",175954000,"LBY",2019
-"Liechtenstein",16000,"LIE",2019
-"Lithuania",6529000,"LTU",2019
-"Luxembourg",259000,"LUX",2019
-"Madagascar",58729500,"MDG",2019
-"Malawi",11848000,"MWI",2019
-"Malaysia",33024100,"MYS",2019
-"Maldives",30000,"MDV",2019
-"Mali",124019000,"MLI",2019
-"Malta",32000,"MLT",2019
-"Marshall Islands",18000,"MHL",2019
-"Mauritania",103070000,"MRT",2019
-"Mauritius",204000,"MUS",2019
-"Mexico",196437500,"MEX",2019
-"Monaco",7492,"MCO",2019
-"Mongolia",156411574.9,"MNG",2019
-"Montenegro",1381000,"MNE",2019
-"Morocco",44655000,"MAR",2019
-"Mozambique",79938000,"MOZ",2019
-"Myanmar",67659000,"MMR",2019
-"Namibia",82429000,"NAM",2019
-"Nauru",2000,"NRU",2019
-"Nepal",14718000,"NPL",2019
-"Netherlands",4154000,"NLD",2019
-"New Caledonia",1858000,"NCL",2019
-"New Zealand",26771000,"NZL",2019
-"Nicaragua",13037000,"NIC",2019
-"Niger",126700000,"NER",2019
-"Nigeria",92377000,"NGA",2019
-"North Macedonia",2571000,"MKD",2019
-"Northern Mariana Islands",46000,"MNP",2019
-"Norway",62449900,"NOR",2019
-"Oman",30950000,"OMN",2019
-"Pakistan",79610000,"PAK",2019
-"Palau",46000,"PLW",2019
-"Panama",7532000,"PAN",2019
-"Papua New Guinea",46284000,"PNG",2019
-"Paraguay",40675200,"PRY",2019
-"Peru",128522000,"PER",2019
-"Philippines",3e+07,"PHL",2019
-"Poland",31271000,"POL",2019
-"Portugal",9223000,"PRT",2019
-"Puerto Rico",887000,"PRI",2019
-"Qatar",1149000,"QAT",2019
-"Romania",23840000,"ROU",2019
-"Russian Federation",1709825000,"RUS",2019
-"Rwanda",2634000,"RWA",2019
-"Samoa",284000,"WSM",2019
-"San Marino",6000,"SMR",2019
-"Sao Tome and Principe",96000,"STP",2019
-"Saudi Arabia",214969000,"SAU",2019
-"Senegal",19671000,"SEN",2019
-"Serbia",8499000,"SRB",2019
-"Seychelles",46000,"SYC",2019
-"Sierra Leone",7230000,"SLE",2019
-"Singapore",72800,"SGP",2019
-"Sint Maarten (Dutch part)",3400,"SXM",2019
-"Slovenia",2048000,"SVN",2019
-"Solomon Islands",2890000,"SLB",2019
-"Somalia",63766000,"SOM",2019
-"South Africa",121909000,"ZAF",2019
-"South Sudan",64688300,"SSD",2019
-"Spain",50596989.1,"ESP",2019
-"Sri Lanka",6561000,"LKA",2019
-"Sudan",187800000,"SDN",2019
-"Suriname",16382000,"SUR",2019
-"Sweden",52886070.4,"SWE",2019
-"Switzerland",4129039,"CHE",2019
-"Syrian Arab Republic",18518000,"SYR",2019
-"Tajikistan",14138000,"TJK",2019
-"Thailand",51312000,"THA",2019
-"Timor-Leste",1487000,"TLS",2019
-"Togo",5679000,"TGO",2019
-"Tonga",75000,"TON",2019
-"Trinidad and Tobago",513000,"TTO",2019
-"Tunisia",16361000,"TUN",2019
-"Turkey",78535000,"TUR",2019
-"Turkmenistan",48810000,"TKM",2019
-"Turks and Caicos Islands",95000,"TCA",2019
-"Tuvalu",3000,"TUV",2019
-"Uganda",24155000,"UGA",2019
-"Ukraine",60355000,"UKR",2019
-"United Arab Emirates",9864790,"ARE",2019
-"United Kingdom",24361000,"GBR",2019
-"United States",983151000,"USA",2019
-"Uruguay",17622000,"URY",2019
-"Uzbekistan",44892400,"UZB",2019
-"Vanuatu",1219000,"VUT",2019
-"Venezuela",91205000,"VEN",2019
-"Vietnam",33134000,"VNM",2019
-"World",13500322514,"WLD",2019
-"Zambia",75261000,"ZMB",2019
-"Zimbabwe",39076000,"ZWE",2019
-"Afghanistan",65286000,"AFG",2020
-"Albania",2875000,"ALB",2020
-"Algeria",238174100,"DZA",2020
-"American Samoa",20000,"ASM",2020
-"Andorra",47000,"AND",2020
-"Angola",124670000,"AGO",2020
-"Antigua and Barbuda",44000,"ATG",2020
-"Argentina",278040000,"ARG",2020
-"Armenia",2974000,"ARM",2020
-"Aruba",18000,"ABW",2020
-"Australia",774122000,"AUS",2020
-"Austria",8387900,"AUT",2020
-"Azerbaijan",8660000,"AZE",2020
-"Bahamas",1388000,"BHS",2020
-"Bahrain",78500,"BHR",2020
-"Bangladesh",14757000,"BGD",2020
-"Barbados",43000,"BRB",2020
-"Belarus",20761000,"BLR",2020
-"Belgium",3053000,"BEL",2020
-"Belize",2297000,"BLZ",2020
-"Benin",11476000,"BEN",2020
-"Bermuda",429000,"BMU",2020
-"Bhutan",3839000,"BTN",2020
-"Bolivia",109858000,"BOL",2020
-"Bosnia and Herzegovina",5121000,"BIH",2020
-"Botswana",58173000,"BWA",2020
-"Brazil",851577000,"BRA",2020
-"British Virgin Islands",15000,"VGB",2020
-"Brunei Darussalam",577000,"BRN",2020
-"Bulgaria",11100000,"BGR",2020
-"Burkina Faso",27422000,"BFA",2020
-"Burundi",2783000,"BDI",2020
-"Cabo Verde",403000,"CPV",2020
-"Cambodia",18104000,"KHM",2020
-"Cameroon",47544000,"CMR",2020
-"Canada",987975000,"CAN",2020
-"Cayman Islands",26400,"CYM",2020
-"Central African Republic",62298000,"CAF",2020
-"Chad",128400000,"TCD",2020
-"Channel Islands",19800,"CHI",2020
-"Chile",75670000,"CHL",2020
-"China",960001290,"CHN",2020
-"Colombia",114061905,"COL",2020
-"Comoros",186100,"COM",2020
-"Costa Rica",5110000,"CRI",2020
-"Croatia",8807000,"HRV",2020
-"Cuba",10988000,"CUB",2020
-"Cyprus",925000,"CYP",2020
-"Czechia",7887101,"CZE",2020
-"Denmark",4292000,"DNK",2020
-"Djibouti",2320000,"DJI",2020
-"Dominica",75000,"DMA",2020
-"Dominican Republic",4867000,"DOM",2020
-"Ecuador",25637000,"ECU",2020
-"Egypt",100145000,"EGY",2020
-"El Salvador",2104000,"SLV",2020
-"Equatorial Guinea",2805000,"GNQ",2020
-"Eritrea",12163032.7,"ERI",2020
-"Estonia",4534000,"EST",2020
-"Eswatini",1736000,"SWZ",2020
-"Ethiopia",113623954.4,"ETH",2020
-"Faroe Islands",1295967,"FRO",2020
-"Fiji",1827000,"FJI",2020
-"Finland",33846000,"FIN",2020
-"France",54908687,"FRA",2020
-"French Polynesia",347100,"PYF",2020
-"Gabon",26767000,"GAB",2020
-"Georgia",6970000,"GEO",2020
-"Germany",35759000,"DEU",2020
-"Ghana",23853000,"GHA",2020
-"Gibraltar",1000,"GIB",2020
-"Greece",13196000,"GRC",2020
-"Greenland",41045000,"GRL",2020
-"Grenada",34000,"GRD",2020
-"Guam",54000,"GUM",2020
-"Guatemala",10889000,"GTM",2020
-"Guinea",24586000,"GIN",2020
-"Guinea-Bissau",3613000,"GNB",2020
-"Guyana",21497000,"GUY",2020
-"Haiti",2775000,"HTI",2020
-"Honduras",11249000,"HND",2020
-"Hungary",9303000,"HUN",2020
-"Iceland",10300000,"ISL",2020
-"India",328726000,"IND",2020
-"Indonesia",191690677,"IDN",2020
-"Iraq",43505200,"IRQ",2020
-"Ireland",7028000,"IRL",2020
-"Isle of Man",57000,"IMN",2020
-"Israel",2207000,"ISR",2020
-"Italy",30206800,"ITA",2020
-"Jamaica",1099000,"JAM",2020
-"Japan",37797400,"JPN",2020
-"Jordan",8931800,"JOR",2020
-"Kazakhstan",272490000,"KAZ",2020
-"Kenya",58037000,"KEN",2020
-"Kiribati",81000,"KIR",2020
-"Korea",10041000,"KOR",2020
-"Kuwait",1782000,"KWT",2020
-"Latvia",6459000,"LVA",2020
-"Lebanon",1045000,"LBN",2020
-"Lesotho",3036000,"LSO",2020
-"Liberia",11137000,"LBR",2020
-"Libya",175954000,"LBY",2020
-"Liechtenstein",16000,"LIE",2020
-"Lithuania",6529000,"LTU",2020
-"Luxembourg",259000,"LUX",2020
-"Madagascar",58729500,"MDG",2020
-"Malawi",11848000,"MWI",2020
-"Malaysia",33024100,"MYS",2020
-"Maldives",30000,"MDV",2020
-"Mali",124019000,"MLI",2020
-"Malta",32000,"MLT",2020
-"Marshall Islands",18000,"MHL",2020
-"Mauritania",103070000,"MRT",2020
-"Mauritius",204000,"MUS",2020
-"Mexico",196437500,"MEX",2020
-"Monaco",7492,"MCO",2020
-"Mongolia",156411574.9,"MNG",2020
-"Montenegro",1381000,"MNE",2020
-"Morocco",44655000,"MAR",2020
-"Mozambique",79938000,"MOZ",2020
-"Myanmar",67659000,"MMR",2020
-"Namibia",82429000,"NAM",2020
-"Nauru",2000,"NRU",2020
-"Nepal",14718000,"NPL",2020
-"Netherlands",4154000,"NLD",2020
-"New Caledonia",1858000,"NCL",2020
-"New Zealand",26771000,"NZL",2020
-"Nicaragua",13037000,"NIC",2020
-"Niger",126700000,"NER",2020
-"Nigeria",92377000,"NGA",2020
-"North Macedonia",2571000,"MKD",2020
-"Northern Mariana Islands",46000,"MNP",2020
-"Norway",62449900,"NOR",2020
-"Oman",30950000,"OMN",2020
-"Pakistan",79610000,"PAK",2020
-"Palau",46000,"PLW",2020
-"Panama",7532000,"PAN",2020
-"Papua New Guinea",46284000,"PNG",2020
-"Paraguay",40675200,"PRY",2020
-"Peru",128522000,"PER",2020
-"Philippines",3e+07,"PHL",2020
-"Poland",31271000,"POL",2020
-"Portugal",9223000,"PRT",2020
-"Puerto Rico",887000,"PRI",2020
-"Qatar",1149000,"QAT",2020
-"Romania",23840000,"ROU",2020
-"Russian Federation",1709825000,"RUS",2020
-"Rwanda",2634000,"RWA",2020
-"Samoa",284000,"WSM",2020
-"San Marino",6000,"SMR",2020
-"Sao Tome and Principe",96000,"STP",2020
-"Saudi Arabia",214969000,"SAU",2020
-"Senegal",19671000,"SEN",2020
-"Serbia",8499000,"SRB",2020
-"Seychelles",46000,"SYC",2020
-"Sierra Leone",7230000,"SLE",2020
-"Singapore",72800,"SGP",2020
-"Sint Maarten (Dutch part)",3400,"SXM",2020
-"Slovenia",2048000,"SVN",2020
-"Solomon Islands",2890000,"SLB",2020
-"Somalia",63766000,"SOM",2020
-"South Africa",121909000,"ZAF",2020
-"South Sudan",64688300,"SSD",2020
-"Spain",50596989.1,"ESP",2020
-"Sri Lanka",6561000,"LKA",2020
-"Sudan",187800000,"SDN",2020
-"Suriname",16382000,"SUR",2020
-"Sweden",52886070.4,"SWE",2020
-"Switzerland",4129039,"CHE",2020
-"Syrian Arab Republic",18518000,"SYR",2020
-"Tajikistan",14138000,"TJK",2020
-"Thailand",51312000,"THA",2020
-"Timor-Leste",1487000,"TLS",2020
-"Togo",5679000,"TGO",2020
-"Tonga",75000,"TON",2020
-"Trinidad and Tobago",513000,"TTO",2020
-"Tunisia",16361000,"TUN",2020
-"Turkey",78535000,"TUR",2020
-"Turkmenistan",48810000,"TKM",2020
-"Turks and Caicos Islands",95000,"TCA",2020
-"Tuvalu",3000,"TUV",2020
-"Uganda",24155000,"UGA",2020
-"Ukraine",60355000,"UKR",2020
-"United Arab Emirates",9864790,"ARE",2020
-"United Kingdom",24361000,"GBR",2020
-"United States",983151000,"USA",2020
-"Uruguay",17622000,"URY",2020
-"Uzbekistan",44892400,"UZB",2020
-"Vanuatu",1219000,"VUT",2020
-"Venezuela",91205000,"VEN",2020
-"Vietnam",33134000,"VNM",2020
-"World",13500322514,"WLD",2020
-"Zambia",75261000,"ZMB",2020
-"Zimbabwe",39076000,"ZWE",2020
+Year,iso_code3,area_gnrl_country_ha
+2015,ABW,18000.0
+2016,ABW,18000.0
+2017,ABW,18000.0
+2018,ABW,18000.0
+2019,ABW,18000.0
+2020,ABW,18000.0
+2015,AFG,65286000.0
+2016,AFG,65286000.0
+2017,AFG,65286000.0
+2018,AFG,65286000.0
+2019,AFG,65286000.0
+2020,AFG,65286000.0
+2015,AGO,124670000.0
+2016,AGO,124670000.0
+2017,AGO,124670000.0
+2018,AGO,124670000.0
+2019,AGO,124670000.0
+2020,AGO,124670000.0
+2015,ALB,2875000.0
+2016,ALB,2875000.0
+2017,ALB,2875000.0
+2018,ALB,2875000.0
+2019,ALB,2875000.0
+2020,ALB,2875000.0
+2015,AND,47000.0
+2016,AND,47000.0
+2017,AND,47000.0
+2018,AND,47000.0
+2019,AND,47000.0
+2020,AND,47000.0
+2015,ARE,9864790.0
+2016,ARE,9864790.0
+2017,ARE,9864790.0
+2018,ARE,9864790.0
+2019,ARE,9864790.0
+2020,ARE,9864790.0
+2015,ARG,278040000.0
+2016,ARG,278040000.0
+2017,ARG,278040000.0
+2018,ARG,278040000.0
+2019,ARG,278040000.0
+2020,ARG,278040000.0
+2015,ARM,2974000.0
+2016,ARM,2974000.0
+2017,ARM,2974000.0
+2018,ARM,2974000.0
+2019,ARM,2974000.0
+2020,ARM,2974000.0
+2015,ASM,20000.0
+2016,ASM,20000.0
+2017,ASM,20000.0
+2018,ASM,20000.0
+2019,ASM,20000.0
+2020,ASM,20000.0
+2015,ATG,44000.0
+2016,ATG,44000.0
+2017,ATG,44000.0
+2018,ATG,44000.0
+2019,ATG,44000.0
+2020,ATG,44000.0
+2015,AUS,774122000.0
+2016,AUS,774122000.0
+2017,AUS,774122000.0
+2018,AUS,774122000.0
+2019,AUS,774122000.0
+2020,AUS,774122000.0
+2015,AUT,8387900.0
+2016,AUT,8387900.0
+2017,AUT,8387900.0
+2018,AUT,8387900.0
+2019,AUT,8387900.0
+2020,AUT,8387900.0
+2015,AZE,8660000.0
+2016,AZE,8660000.0
+2017,AZE,8660000.0
+2018,AZE,8660000.0
+2019,AZE,8660000.0
+2020,AZE,8660000.0
+2015,BDI,2783000.0
+2016,BDI,2783000.0
+2017,BDI,2783000.0
+2018,BDI,2783000.0
+2019,BDI,2783000.0
+2020,BDI,2783000.0
+2015,BEL,3053000.0
+2016,BEL,3053000.0
+2017,BEL,3053000.0
+2018,BEL,3053000.0
+2019,BEL,3053000.0
+2020,BEL,3053000.0
+2015,BEN,11476000.0
+2016,BEN,11476000.0
+2017,BEN,11476000.0
+2018,BEN,11476000.0
+2019,BEN,11476000.0
+2020,BEN,11476000.0
+2015,BFA,27422000.0
+2016,BFA,27422000.0
+2017,BFA,27422000.0
+2018,BFA,27422000.0
+2019,BFA,27422000.0
+2020,BFA,27422000.0
+2015,BGD,14763000.0
+2016,BGD,14763000.0
+2017,BGD,14797700.0
+2018,BGD,14757000.0
+2019,BGD,14757000.0
+2020,BGD,14757000.0
+2015,BGR,11100000.0
+2016,BGR,11100000.0
+2017,BGR,11100000.0
+2018,BGR,11100000.0
+2019,BGR,11100000.0
+2020,BGR,11100000.0
+2015,BHR,77800.0
+2016,BHR,77900.0
+2017,BHR,78000.0
+2018,BHR,78000.0
+2019,BHR,78300.0
+2020,BHR,78500.0
+2015,BHS,1388000.0
+2016,BHS,1388000.0
+2017,BHS,1388000.0
+2018,BHS,1388000.0
+2019,BHS,1388000.0
+2020,BHS,1388000.0
+2015,BIH,5121000.0
+2016,BIH,5121000.0
+2017,BIH,5121000.0
+2018,BIH,5121000.0
+2019,BIH,5121000.0
+2020,BIH,5121000.0
+2015,BLR,20760000.0
+2016,BLR,20760000.0
+2017,BLR,20760000.0
+2018,BLR,20760000.0
+2019,BLR,20760000.0
+2020,BLR,20761000.0
+2015,BLZ,2297000.0
+2016,BLZ,2297000.0
+2017,BLZ,2297000.0
+2018,BLZ,2297000.0
+2019,BLZ,2297000.0
+2020,BLZ,2297000.0
+2015,BMU,429000.0
+2016,BMU,429000.0
+2017,BMU,429000.0
+2018,BMU,429000.0
+2019,BMU,429000.0
+2020,BMU,429000.0
+2015,BOL,109858000.0
+2016,BOL,109858000.0
+2017,BOL,109858000.0
+2018,BOL,109858000.0
+2019,BOL,109858000.0
+2020,BOL,109858000.0
+2015,BRA,851577000.0
+2016,BRA,851577000.0
+2017,BRA,851577000.0
+2018,BRA,851577000.0
+2019,BRA,851577000.0
+2020,BRA,851577000.0
+2015,BRB,43000.0
+2016,BRB,43000.0
+2017,BRB,43000.0
+2018,BRB,43000.0
+2019,BRB,43000.0
+2020,BRB,43000.0
+2015,BRN,577000.0
+2016,BRN,577000.0
+2017,BRN,577000.0
+2018,BRN,577000.0
+2019,BRN,577000.0
+2020,BRN,577000.0
+2015,BTN,3839400.0
+2016,BTN,3839400.0
+2017,BTN,3839400.0
+2018,BTN,3839000.0
+2019,BTN,3839000.0
+2020,BTN,3839000.0
+2015,BWA,58173000.0
+2016,BWA,58173000.0
+2017,BWA,58173000.0
+2018,BWA,58173000.0
+2019,BWA,58173000.0
+2020,BWA,58173000.0
+2015,CAF,62298000.0
+2016,CAF,62298000.0
+2017,CAF,62298000.0
+2018,CAF,62298000.0
+2019,CAF,62298000.0
+2020,CAF,62298000.0
+2015,CAN,987975000.0
+2016,CAN,987975000.0
+2017,CAN,987975000.0
+2018,CAN,987975000.0
+2019,CAN,987975000.0
+2020,CAN,987975000.0
+2015,CHE,4129070.0
+2016,CHE,4129070.0
+2017,CHE,4129070.0
+2018,CHE,4129070.0
+2019,CHE,4129070.0
+2020,CHE,4129070.0
+2015,CHL,75609600.0
+2016,CHL,75670000.0
+2017,CHL,75670000.0
+2018,CHL,75670000.0
+2019,CHL,75670000.0
+2020,CHL,75670000.0
+2015,CHN,956291100.0
+2016,CHN,956291000.0
+2017,CHN,956291000.0
+2018,CHN,956291000.0
+2019,CHN,956291000.0
+2020,CHN,956291000.0
+2015,CIV,32246000.0
+2016,CIV,32246000.0
+2017,CIV,32246000.0
+2018,CIV,32246000.0
+2019,CIV,32246000.0
+2020,CIV,32246000.0
+2015,CMR,47544000.0
+2016,CMR,47544000.0
+2017,CMR,47544000.0
+2018,CMR,47544000.0
+2019,CMR,47544000.0
+2020,CMR,47544000.0
+2015,COD,234486000.0
+2016,COD,234486000.0
+2017,COD,234486000.0
+2018,COD,234486000.0
+2019,COD,234486000.0
+2020,COD,234486000.0
+2015,COG,34200000.0
+2016,COG,34200000.0
+2017,COG,34200000.0
+2018,COG,34200000.0
+2019,COG,34200000.0
+2020,COG,34200000.0
+2015,COL,114174900.0
+2016,COL,114174900.0
+2017,COL,114174900.0
+2018,COL,114175000.0
+2019,COL,114175000.0
+2020,COL,114061905.0
+2015,COM,186100.0
+2016,COM,186100.0
+2017,COM,186100.0
+2018,COM,186100.0
+2019,COM,186100.0
+2020,COM,186100.0
+2015,CPV,403000.0
+2016,CPV,403000.0
+2017,CPV,403000.0
+2018,CPV,403000.0
+2019,CPV,403000.0
+2020,CPV,403000.0
+2015,CRI,5110000.0
+2016,CRI,5110000.0
+2017,CRI,5110000.0
+2018,CRI,5110000.0
+2019,CRI,5110000.0
+2020,CRI,5110000.0
+2015,CUB,10988000.0
+2016,CUB,10988000.0
+2017,CUB,10988000.0
+2018,CUB,10988000.0
+2019,CUB,10988000.0
+2020,CUB,10988000.0
+2015,CUW,44400.0
+2016,CUW,44400.0
+2017,CUW,44400.0
+2018,CUW,44400.0
+2019,CUW,44400.0
+2020,CUW,44400.0
+2015,CYM,26400.0
+2016,CYM,26400.0
+2017,CYM,26400.0
+2018,CYM,26400.0
+2019,CYM,26400.0
+2020,CYM,26400.0
+2015,CYP,925100.0
+2016,CYP,925100.0
+2017,CYP,925100.0
+2018,CYP,925000.0
+2019,CYP,925000.0
+2020,CYP,925000.0
+2015,CZE,7887000.0
+2016,CZE,7887000.0
+2017,CZE,7887000.0
+2018,CZE,7887000.0
+2019,CZE,7887004.0
+2020,CZE,7887101.0
+2015,DEU,35741000.0
+2016,DEU,35758000.0
+2017,DEU,35758000.0
+2018,DEU,35758000.0
+2019,DEU,35758000.0
+2020,DEU,35759000.0
+2015,DJI,2320000.0
+2016,DJI,2320000.0
+2017,DJI,2320000.0
+2018,DJI,2320000.0
+2019,DJI,2320000.0
+2020,DJI,2320000.0
+2015,DMA,75000.0
+2016,DMA,75000.0
+2017,DMA,75000.0
+2018,DMA,75000.0
+2019,DMA,75000.0
+2020,DMA,75000.0
+2015,DNK,4292000.0
+2016,DNK,4292000.0
+2017,DNK,4292000.0
+2018,DNK,4292000.0
+2019,DNK,4292000.0
+2020,DNK,4292000.0
+2015,DOM,4867000.0
+2016,DOM,4867000.0
+2017,DOM,4867000.0
+2018,DOM,4867000.0
+2019,DOM,14683931.0
+2020,DOM,14683931.0
+2015,DZA,238174100.0
+2016,DZA,238174100.0
+2017,DZA,238174100.0
+2018,DZA,238174100.0
+2019,DZA,238174100.0
+2020,DZA,238174100.0
+2015,ECU,25637000.0
+2016,ECU,25637000.0
+2017,ECU,25637000.0
+2018,ECU,25637000.0
+2019,ECU,25637000.0
+2020,ECU,25637000.0
+2015,EGY,100145000.0
+2016,EGY,100145000.0
+2017,EGY,100145000.0
+2018,EGY,100145000.0
+2019,EGY,100145000.0
+2020,EGY,100145000.0
+2015,ERI,12167540.5
+2016,ERI,12166424.4
+2017,ERI,12165801.8
+2018,ERI,12166488.7
+2019,ERI,12166810.6
+2020,ERI,12163032.7
+2015,ESP,50592400.0
+2016,ESP,50593500.0
+2017,ESP,50593523.0
+2018,ESP,50595728.9
+2019,ESP,50595279.6
+2020,ESP,50596989.1
+2015,EST,4534000.0
+2016,EST,4534000.0
+2017,EST,4534000.0
+2018,EST,4534000.0
+2019,EST,4534000.0
+2020,EST,4534000.0
+2015,ETH,113624413.6
+2016,ETH,113624267.6
+2017,ETH,113624326.5
+2018,ETH,113624249.6
+2019,ETH,113624301.2
+2020,ETH,113623954.4
+2015,FIN,33844600.0
+2016,FIN,33845000.0
+2017,FIN,33845000.0
+2018,FIN,33845000.0
+2019,FIN,33846000.0
+2020,FIN,33846000.0
+2015,FJI,1827000.0
+2016,FJI,1827000.0
+2017,FJI,1827000.0
+2018,FJI,1827000.0
+2019,FJI,1827000.0
+2020,FJI,1827000.0
+2015,FRA,54908700.0
+2016,FRA,54908700.0
+2017,FRA,54908700.0
+2018,FRA,54908700.0
+2019,FRA,54908700.0
+2020,FRA,54908687.0
+2015,FRO,139600.0
+2016,FRO,139600.0
+2017,FRO,139600.0
+2018,FRO,139600.0
+2019,FRO,139600.0
+2020,FRO,1295967.0
+2015,FSM,70000.0
+2016,FSM,70000.0
+2017,FSM,70000.0
+2018,FSM,70000.0
+2019,FSM,70000.0
+2020,FSM,70000.0
+2015,GAB,26767000.0
+2016,GAB,26767000.0
+2017,GAB,26767000.0
+2018,GAB,26767000.0
+2019,GAB,26767000.0
+2020,GAB,26767000.0
+2015,GBR,24361000.0
+2016,GBR,24361000.0
+2017,GBR,24361000.0
+2018,GBR,24361000.0
+2019,GBR,24361000.0
+2020,GBR,24361000.0
+2015,GEO,6970000.0
+2016,GEO,6970000.0
+2017,GEO,6970000.0
+2018,GEO,6970000.0
+2019,GEO,6970000.0
+2020,GEO,6970000.0
+2015,GHA,23854000.0
+2016,GHA,23854000.0
+2017,GHA,23854000.0
+2018,GHA,23854000.0
+2019,GHA,23853000.0
+2020,GHA,23853000.0
+2015,GIB,1000.0
+2016,GIB,1000.0
+2017,GIB,1000.0
+2018,GIB,1000.0
+2019,GIB,1000.0
+2020,GIB,1000.0
+2015,GIN,24586000.0
+2016,GIN,24586000.0
+2017,GIN,24586000.0
+2018,GIN,24586000.0
+2019,GIN,24586000.0
+2020,GIN,24586000.0
+2015,GMB,1130000.0
+2016,GMB,1130000.0
+2017,GMB,1130000.0
+2018,GMB,1130000.0
+2019,GMB,1130000.0
+2020,GMB,1130000.0
+2015,GNB,3613000.0
+2016,GNB,3613000.0
+2017,GNB,3613000.0
+2018,GNB,3613000.0
+2019,GNB,3613000.0
+2020,GNB,3613000.0
+2015,GNQ,2805000.0
+2016,GNQ,2805000.0
+2017,GNQ,2805000.0
+2018,GNQ,2805000.0
+2019,GNQ,2805000.0
+2020,GNQ,2805000.0
+2015,GRC,13196000.0
+2016,GRC,13196000.0
+2017,GRC,13196000.0
+2018,GRC,13196000.0
+2019,GRC,13196000.0
+2020,GRC,13196000.0
+2015,GRD,34000.0
+2016,GRD,34000.0
+2017,GRD,34000.0
+2018,GRD,34000.0
+2019,GRD,34000.0
+2020,GRD,34000.0
+2015,GRL,41045000.0
+2016,GRL,41045000.0
+2017,GRL,41045000.0
+2018,GRL,41045000.0
+2019,GRL,41045000.0
+2020,GRL,41045000.0
+2015,GTM,10889000.0
+2016,GTM,10889000.0
+2017,GTM,10889000.0
+2018,GTM,10889000.0
+2019,GTM,10889000.0
+2020,GTM,10889000.0
+2015,GUM,54000.0
+2016,GUM,54000.0
+2017,GUM,54000.0
+2018,GUM,54000.0
+2019,GUM,54000.0
+2020,GUM,54000.0
+2015,GUY,21497000.0
+2016,GUY,21497000.0
+2017,GUY,21497000.0
+2018,GUY,21497000.0
+2019,GUY,21497000.0
+2020,GUY,21497000.0
+2015,HKG,110600.0
+2016,HKG,111000.0
+2017,HKG,111000.0
+2018,HKG,111000.0
+2019,HKG,111000.0
+2020,HKG,111000.0
+2015,HND,11249000.0
+2016,HND,11249000.0
+2017,HND,11249000.0
+2018,HND,11249000.0
+2019,HND,11249000.0
+2020,HND,11249000.0
+2015,HRV,8807300.0
+2016,HRV,8807300.0
+2017,HRV,8807300.0
+2018,HRV,8807300.0
+2019,HRV,8807300.0
+2020,HRV,8807000.0
+2015,HTI,2775000.0
+2016,HTI,2775000.0
+2017,HTI,2775000.0
+2018,HTI,2775000.0
+2019,HTI,2775000.0
+2020,HTI,2775000.0
+2015,HUN,9303000.0
+2016,HUN,9303000.0
+2017,HUN,9303000.0
+2018,HUN,9303000.0
+2019,HUN,9303000.0
+2020,HUN,9303000.0
+2015,IDN,191358000.0
+2016,IDN,191358000.0
+2017,IDN,191682000.0
+2018,IDN,191686220.0
+2019,IDN,191690677.0
+2020,IDN,191690677.0
+2015,IMN,57000.0
+2016,IMN,57000.0
+2017,IMN,57000.0
+2018,IMN,57000.0
+2019,IMN,57000.0
+2020,IMN,57000.0
+2015,IND,328726000.0
+2016,IND,328726000.0
+2017,IND,328726000.0
+2018,IND,328726000.0
+2019,IND,328726000.0
+2020,IND,328726000.0
+2015,IRL,7028000.0
+2016,IRL,7028000.0
+2017,IRL,7028000.0
+2018,IRL,7028000.0
+2019,IRL,7028000.0
+2020,IRL,7028000.0
+2015,IRN,174515000.0
+2016,IRN,174515000.0
+2017,IRN,174515000.0
+2018,IRN,174515000.0
+2019,IRN,174515000.0
+2020,IRN,174515000.0
+2015,IRQ,43505200.0
+2016,IRQ,43505200.0
+2017,IRQ,43505200.0
+2018,IRQ,43505200.0
+2019,IRQ,43505200.0
+2020,IRQ,43505200.0
+2015,ISL,10300000.0
+2016,ISL,10300000.0
+2017,ISL,10300000.0
+2018,ISL,10300000.0
+2019,ISL,10300000.0
+2020,ISL,10300000.0
+2015,ISR,2207000.0
+2016,ISR,2207000.0
+2017,ISR,2207000.0
+2018,ISR,2207000.0
+2019,ISR,2207000.0
+2020,ISR,2207000.0
+2015,ITA,30206900.0
+2016,ITA,30206900.0
+2017,ITA,30206900.0
+2018,ITA,30206900.0
+2019,ITA,30206800.0
+2020,ITA,30206800.0
+2015,JAM,1099000.0
+2016,JAM,1099000.0
+2017,JAM,1099000.0
+2018,JAM,1099000.0
+2019,JAM,1099000.0
+2020,JAM,1099000.0
+2015,JOR,8932000.0
+2016,JOR,8932000.0
+2017,JOR,8932000.0
+2018,JOR,8932000.0
+2019,JOR,8931800.0
+2020,JOR,8931800.0
+2015,JPN,37797100.0
+2016,JPN,37797000.0
+2017,JPN,37797000.0
+2018,JPN,37797400.0
+2019,JPN,37797400.0
+2020,JPN,37797400.0
+2015,KAZ,272490200.0
+2016,KAZ,272490200.0
+2017,KAZ,272490200.0
+2018,KAZ,272490200.0
+2019,KAZ,272490200.0
+2020,KAZ,272490000.0
+2015,KEN,58037000.0
+2016,KEN,58037000.0
+2017,KEN,58037000.0
+2018,KEN,58037000.0
+2019,KEN,58037000.0
+2020,KEN,58037000.0
+2015,KGZ,19994900.0
+2016,KGZ,19995000.0
+2017,KGZ,19995000.0
+2018,KGZ,19995000.0
+2019,KGZ,19994900.0
+2020,KGZ,19995000.0
+2015,KHM,18104000.0
+2016,KHM,18104000.0
+2017,KHM,18104000.0
+2018,KHM,18104000.0
+2019,KHM,18104000.0
+2020,KHM,18104000.0
+2015,KIR,81000.0
+2016,KIR,81000.0
+2017,KIR,81000.0
+2018,KIR,81000.0
+2019,KIR,81000.0
+2020,KIR,81000.0
+2015,KNA,26000.0
+2016,KNA,26000.0
+2017,KNA,26000.0
+2018,KNA,26000.0
+2019,KNA,26000.0
+2020,KNA,26000.0
+2015,KOR,10029500.0
+2016,KOR,10033900.0
+2017,KOR,10036000.0
+2018,KOR,10038000.0
+2019,KOR,10040000.0
+2020,KOR,10041000.0
+2015,KWT,1782000.0
+2016,KWT,1782000.0
+2017,KWT,1782000.0
+2018,KWT,1782000.0
+2019,KWT,1782000.0
+2020,KWT,1782000.0
+2015,LAO,23680000.0
+2016,LAO,23680000.0
+2017,LAO,23680000.0
+2018,LAO,23680000.0
+2019,LAO,23680000.0
+2020,LAO,23680000.0
+2015,LBN,1045000.0
+2016,LBN,1045000.0
+2017,LBN,1045000.0
+2018,LBN,1045000.0
+2019,LBN,1045000.0
+2020,LBN,1045000.0
+2015,LBR,11137000.0
+2016,LBR,11137000.0
+2017,LBR,11137000.0
+2018,LBR,11137000.0
+2019,LBR,11137000.0
+2020,LBR,11137000.0
+2015,LBY,175954000.0
+2016,LBY,175954000.0
+2017,LBY,175954000.0
+2018,LBY,175954000.0
+2019,LBY,175954000.0
+2020,LBY,175954000.0
+2015,LCA,62000.0
+2016,LCA,62000.0
+2017,LCA,62000.0
+2018,LCA,62000.0
+2019,LCA,62000.0
+2020,LCA,62000.0
+2015,LIE,16000.0
+2016,LIE,16000.0
+2017,LIE,16000.0
+2018,LIE,16000.0
+2019,LIE,16000.0
+2020,LIE,16000.0
+2015,LKA,6561000.0
+2016,LKA,6561000.0
+2017,LKA,6561000.0
+2018,LKA,6561000.0
+2019,LKA,6561000.0
+2020,LKA,6561000.0
+2015,LSO,3036000.0
+2016,LSO,3036000.0
+2017,LSO,3036000.0
+2018,LSO,3036000.0
+2019,LSO,3036000.0
+2020,LSO,3036000.0
+2015,LTU,6528600.0
+2016,LTU,6528600.0
+2017,LTU,6528600.0
+2018,LTU,6529000.0
+2019,LTU,6529000.0
+2020,LTU,6529000.0
+2015,LUX,259000.0
+2016,LUX,259000.0
+2017,LUX,259000.0
+2018,LUX,259000.0
+2019,LUX,259000.0
+2020,LUX,259000.0
+2015,LVA,6459400.0
+2016,LVA,6459400.0
+2017,LVA,6459400.0
+2018,LVA,6459400.0
+2019,LVA,6459400.0
+2020,LVA,6459000.0
+2015,MAC,3040.0
+2016,MAC,3050.0
+2017,MAC,3080.0
+2018,MAC,3290.0
+2019,MAC,3290.0
+2020,MAC,3290.0
+2015,MAF,5000.0
+2016,MAF,5000.0
+2017,MAF,5000.0
+2018,MAF,5000.0
+2019,MAF,5000.0
+2020,MAF,5000.0
+2015,MAR,44655000.0
+2016,MAR,44655000.0
+2017,MAR,44655000.0
+2018,MAR,44655000.0
+2019,MAR,44655000.0
+2020,MAR,44655000.0
+2015,MCO,7492.0
+2016,MCO,7492.0
+2017,MCO,7492.0
+2018,MCO,7492.0
+2019,MCO,7492.0
+2020,MCO,7492.0
+2015,MDA,3385000.0
+2016,MDA,3385000.0
+2017,MDA,3385000.0
+2018,MDA,3385000.0
+2019,MDA,3385000.0
+2020,MDA,3385000.0
+2015,MDG,58729500.0
+2016,MDG,58729500.0
+2017,MDG,58729500.0
+2018,MDG,58729500.0
+2019,MDG,58729500.0
+2020,MDG,58729500.0
+2015,MDV,30000.0
+2016,MDV,30000.0
+2017,MDV,30000.0
+2018,MDV,30000.0
+2019,MDV,30000.0
+2020,MDV,30000.0
+2015,MEX,196437500.0
+2016,MEX,196437500.0
+2017,MEX,196437500.0
+2018,MEX,196437500.0
+2019,MEX,196437500.0
+2020,MEX,196437500.0
+2015,MHL,18000.0
+2016,MHL,18000.0
+2017,MHL,18000.0
+2018,MHL,18000.0
+2019,MHL,18000.0
+2020,MHL,18000.0
+2015,MKD,2571000.0
+2016,MKD,2571000.0
+2017,MKD,2571000.0
+2018,MKD,2571000.0
+2019,MKD,2571000.0
+2020,MKD,2571000.0
+2015,MLI,124019000.0
+2016,MLI,124019000.0
+2017,MLI,124019000.0
+2018,MLI,124019000.0
+2019,MLI,124019000.0
+2020,MLI,124019000.0
+2015,MLT,32000.0
+2016,MLT,32000.0
+2017,MLT,32000.0
+2018,MLT,32000.0
+2019,MLT,32000.0
+2020,MLT,32000.0
+2015,MMR,67659000.0
+2016,MMR,67659000.0
+2017,MMR,67659000.0
+2018,MMR,67659000.0
+2019,MMR,67659000.0
+2020,MMR,67659000.0
+2015,MNE,1381000.0
+2016,MNE,1381000.0
+2017,MNE,1381000.0
+2018,MNE,1381000.0
+2019,MNE,1381000.0
+2020,MNE,1381000.0
+2015,MNG,156412000.0
+2016,MNG,156412000.0
+2017,MNG,156411600.0
+2018,MNG,156411600.0
+2019,MNG,156411600.0
+2020,MNG,156411574.9
+2015,MNP,46000.0
+2016,MNP,46000.0
+2017,MNP,46000.0
+2018,MNP,46000.0
+2019,MNP,46000.0
+2020,MNP,46000.0
+2015,MOZ,79938000.0
+2016,MOZ,79938000.0
+2017,MOZ,79938000.0
+2018,MOZ,79938000.0
+2019,MOZ,79938000.0
+2020,MOZ,79938000.0
+2015,MRT,103070000.0
+2016,MRT,103070000.0
+2017,MRT,103070000.0
+2018,MRT,103070000.0
+2019,MRT,103070000.0
+2020,MRT,103070000.0
+2015,MUS,200700.0
+2016,MUS,200700.0
+2017,MUS,200700.0
+2018,MUS,200700.0
+2019,MUS,200700.0
+2020,MUS,200700.0
+2015,MWI,11848000.0
+2016,MWI,11848000.0
+2017,MWI,11848000.0
+2018,MWI,11848000.0
+2019,MWI,11848000.0
+2020,MWI,11848000.0
+2015,MYS,33034500.0
+2016,MYS,33071300.0
+2017,MYS,33062100.0
+2018,MYS,33052400.0
+2019,MYS,33024100.0
+2020,MYS,33024100.0
+2015,NAM,82429000.0
+2016,NAM,82429000.0
+2017,NAM,82429000.0
+2018,NAM,82429000.0
+2019,NAM,82429000.0
+2020,NAM,82429000.0
+2015,NCL,1858000.0
+2016,NCL,1858000.0
+2017,NCL,1858000.0
+2018,NCL,1858000.0
+2019,NCL,1858000.0
+2020,NCL,1858000.0
+2015,NER,126700000.0
+2016,NER,126700000.0
+2017,NER,126700000.0
+2018,NER,126700000.0
+2019,NER,126700000.0
+2020,NER,126700000.0
+2015,NGA,92377000.0
+2016,NGA,92377000.0
+2017,NGA,92377000.0
+2018,NGA,92377000.0
+2019,NGA,92377000.0
+2020,NGA,92377000.0
+2015,NIC,13037000.0
+2016,NIC,13037000.0
+2017,NIC,13037000.0
+2018,NIC,13037000.0
+2019,NIC,13037000.0
+2020,NIC,13037000.0
+2015,NLD,4154000.0
+2016,NLD,4154000.0
+2017,NLD,4154000.0
+2018,NLD,4154000.0
+2019,NLD,4154000.0
+2020,NLD,4154000.0
+2015,NOR,62518478.0
+2016,NOR,62519400.0
+2017,NOR,62521700.0
+2018,NOR,62522200.0
+2019,NOR,62521800.0
+2020,NOR,62449900.0
+2015,NPL,14718000.0
+2016,NPL,14718000.0
+2017,NPL,14718000.0
+2018,NPL,14718000.0
+2019,NPL,14718000.0
+2020,NPL,14718000.0
+2015,NRU,2000.0
+2016,NRU,2000.0
+2017,NRU,2000.0
+2018,NRU,2000.0
+2019,NRU,2000.0
+2020,NRU,2000.0
+2015,NZL,26771000.0
+2016,NZL,26771000.0
+2017,NZL,26771000.0
+2018,NZL,26771000.0
+2019,NZL,26771000.0
+2020,NZL,26771000.0
+2015,OMN,30950000.0
+2016,OMN,30950000.0
+2017,OMN,30950000.0
+2018,OMN,30950000.0
+2019,OMN,30950000.0
+2020,OMN,30950000.0
+2015,PAK,79610000.0
+2016,PAK,79610000.0
+2017,PAK,79610000.0
+2018,PAK,79610000.0
+2019,PAK,79610000.0
+2020,PAK,79610000.0
+2015,PAN,7532000.0
+2016,PAN,7532000.0
+2017,PAN,7532000.0
+2018,PAN,7532000.0
+2019,PAN,7532000.0
+2020,PAN,7532000.0
+2015,PER,128522000.0
+2016,PER,128522000.0
+2017,PER,128522000.0
+2018,PER,128522000.0
+2019,PER,128522000.0
+2020,PER,128522000.0
+2015,PHL,30000000.0
+2016,PHL,30000000.0
+2017,PHL,30000000.0
+2018,PHL,30000000.0
+2019,PHL,30000000.0
+2020,PHL,30000000.0
+2015,PLW,46000.0
+2016,PLW,46000.0
+2017,PLW,46000.0
+2018,PLW,46000.0
+2019,PLW,46000.0
+2020,PLW,46000.0
+2015,PNG,46284000.0
+2016,PNG,46284000.0
+2017,PNG,46284000.0
+2018,PNG,46284000.0
+2019,PNG,46284000.0
+2020,PNG,46284000.0
+2015,POL,31268000.0
+2016,POL,31268000.0
+2017,POL,31268000.0
+2018,POL,31269000.0
+2019,POL,31269000.0
+2020,POL,31271000.0
+2015,PRI,887000.0
+2016,PRI,887000.0
+2017,PRI,887000.0
+2018,PRI,887000.0
+2019,PRI,887000.0
+2020,PRI,887000.0
+2015,PRK,12054000.0
+2016,PRK,12054000.0
+2017,PRK,12054000.0
+2018,PRK,12054000.0
+2019,PRK,12054000.0
+2020,PRK,12054000.0
+2015,PRT,9222560.0
+2016,PRT,9222560.0
+2017,PRT,9222560.0
+2018,PRT,9222560.0
+2019,PRT,9223000.0
+2020,PRT,9223000.0
+2015,PRY,40675200.0
+2016,PRY,40675200.0
+2017,PRY,40675200.0
+2018,PRY,40675200.0
+2019,PRY,40675200.0
+2020,PRY,40675200.0
+2015,PYF,347100.0
+2016,PYF,347100.0
+2017,PYF,347100.0
+2018,PYF,347100.0
+2019,PYF,347100.0
+2020,PYF,347100.0
+2015,QAT,1149000.0
+2016,QAT,1149000.0
+2017,QAT,1149000.0
+2018,QAT,1149000.0
+2019,QAT,1149000.0
+2020,QAT,1149000.0
+2015,ROU,23840000.0
+2016,ROU,23840000.0
+2017,ROU,23840000.0
+2018,ROU,23840000.0
+2019,ROU,23840000.0
+2020,ROU,23840000.0
+2015,RUS,1709825000.0
+2016,RUS,1709825000.0
+2017,RUS,1709825000.0
+2018,RUS,1709825000.0
+2019,RUS,1709825000.0
+2020,RUS,1709825000.0
+2015,RWA,2634000.0
+2016,RWA,2634000.0
+2017,RWA,2634000.0
+2018,RWA,2634000.0
+2019,RWA,2634000.0
+2020,RWA,2634000.0
+2015,SAU,214969000.0
+2016,SAU,214969000.0
+2017,SAU,214969000.0
+2018,SAU,214969000.0
+2019,SAU,214969000.0
+2020,SAU,214969000.0
+2015,SDN,187800000.0
+2016,SDN,187800000.0
+2017,SDN,187800000.0
+2018,SDN,187800000.0
+2019,SDN,187800000.0
+2020,SDN,187800000.0
+2015,SEN,19671000.0
+2016,SEN,19671000.0
+2017,SEN,19671000.0
+2018,SEN,19671000.0
+2019,SEN,19671000.0
+2020,SEN,19671000.0
+2015,SGP,71900.0
+2016,SGP,71900.0
+2017,SGP,72200.0
+2018,SGP,72400.0
+2019,SGP,72600.0
+2020,SGP,72800.0
+2015,SLB,2890000.0
+2016,SLB,2890000.0
+2017,SLB,2890000.0
+2018,SLB,2890000.0
+2019,SLB,2890000.0
+2020,SLB,2890000.0
+2015,SLE,7230000.0
+2016,SLE,7230000.0
+2017,SLE,7230000.0
+2018,SLE,7230000.0
+2019,SLE,7230000.0
+2020,SLE,7230000.0
+2015,SLV,2104000.0
+2016,SLV,2104000.0
+2017,SLV,2104000.0
+2018,SLV,2104000.0
+2019,SLV,2104000.0
+2020,SLV,2104000.0
+2015,SMR,6000.0
+2016,SMR,6000.0
+2017,SMR,6000.0
+2018,SMR,6000.0
+2019,SMR,6000.0
+2020,SMR,6000.0
+2015,SOM,63766000.0
+2016,SOM,63766000.0
+2017,SOM,63766000.0
+2018,SOM,63766000.0
+2019,SOM,63766000.0
+2020,SOM,63766000.0
+2015,SRB,8836000.0
+2016,SRB,8836000.0
+2017,SRB,8836000.0
+2018,SRB,8836000.0
+2019,SRB,8836000.0
+2020,SRB,8499000.0
+2015,SSD,64688300.0
+2016,SSD,64688300.0
+2017,SSD,64688300.0
+2018,SSD,64688300.0
+2019,SSD,64688300.0
+2020,SSD,64688300.0
+2015,STP,96000.0
+2016,STP,96000.0
+2017,STP,96000.0
+2018,STP,96000.0
+2019,STP,96000.0
+2020,STP,96000.0
+2015,SUR,16382000.0
+2016,SUR,16382000.0
+2017,SUR,16382000.0
+2018,SUR,16382000.0
+2019,SUR,16382000.0
+2020,SUR,16382000.0
+2015,SVK,4903000.0
+2016,SVK,4903000.0
+2017,SVK,4903000.0
+2018,SVK,4903000.0
+2019,SVK,4903000.0
+2020,SVK,4903000.0
+2015,SVN,2067500.0
+2016,SVN,2067500.0
+2017,SVN,2048000.0
+2018,SVN,2048000.0
+2019,SVN,2048000.0
+2020,SVN,2048000.0
+2015,SWE,52844929.0
+2016,SWE,52844929.0
+2017,SWE,52844929.0
+2018,SWE,52844929.0
+2019,SWE,52886106.0
+2020,SWE,52886070.4
+2015,SWZ,1736000.0
+2016,SWZ,1736000.0
+2017,SWZ,1736000.0
+2018,SWZ,1736000.0
+2019,SWZ,1736000.0
+2020,SWZ,1736000.0
+2015,SXM,3400.0
+2016,SXM,3400.0
+2017,SXM,3400.0
+2018,SXM,3400.0
+2019,SXM,3400.0
+2020,SXM,3400.0
+2015,SYC,46000.0
+2016,SYC,46000.0
+2017,SYC,46000.0
+2018,SYC,46000.0
+2019,SYC,46000.0
+2020,SYC,46000.0
+2015,SYR,18518000.0
+2016,SYR,18518000.0
+2017,SYR,18518000.0
+2018,SYR,18518000.0
+2019,SYR,18518000.0
+2020,SYR,18518000.0
+2015,TCA,95000.0
+2016,TCA,95000.0
+2017,TCA,95000.0
+2018,TCA,95000.0
+2019,TCA,95000.0
+2020,TCA,95000.0
+2015,TCD,128400000.0
+2016,TCD,128400000.0
+2017,TCD,128400000.0
+2018,TCD,128400000.0
+2019,TCD,128400000.0
+2020,TCD,128400000.0
+2015,TGO,5679000.0
+2016,TGO,5679000.0
+2017,TGO,5679000.0
+2018,TGO,5679000.0
+2019,TGO,5679000.0
+2020,TGO,5679000.0
+2015,THA,51312000.0
+2016,THA,51312000.0
+2017,THA,51312000.0
+2018,THA,51312000.0
+2019,THA,51312000.0
+2020,THA,51312000.0
+2015,TJK,14138000.0
+2016,TJK,14138000.0
+2017,TJK,14138000.0
+2018,TJK,14138000.0
+2019,TJK,14138000.0
+2020,TJK,14138000.0
+2015,TKM,48810000.0
+2016,TKM,48810000.0
+2017,TKM,48810000.0
+2018,TKM,48810000.0
+2019,TKM,48810000.0
+2020,TKM,48810000.0
+2015,TLS,1487000.0
+2016,TLS,1487000.0
+2017,TLS,1487000.0
+2018,TLS,1487000.0
+2019,TLS,1487000.0
+2020,TLS,1487000.0
+2015,TON,75000.0
+2016,TON,75000.0
+2017,TON,75000.0
+2018,TON,75000.0
+2019,TON,75000.0
+2020,TON,75000.0
+2015,TTO,513000.0
+2016,TTO,513000.0
+2017,TTO,513000.0
+2018,TTO,513000.0
+2019,TTO,513000.0
+2020,TTO,513000.0
+2015,TUN,16361000.0
+2016,TUN,16361000.0
+2017,TUN,16361000.0
+2018,TUN,16361000.0
+2019,TUN,16361000.0
+2020,TUN,16361000.0
+2015,TUR,78535000.0
+2016,TUR,78535000.0
+2017,TUR,78535000.0
+2018,TUR,78535000.0
+2019,TUR,78535000.0
+2020,TUR,78535000.0
+2015,TUV,3000.0
+2016,TUV,3000.0
+2017,TUV,3000.0
+2018,TUV,3000.0
+2019,TUV,3000.0
+2020,TUV,3000.0
+2015,TZA,94730000.0
+2016,TZA,94730000.0
+2017,TZA,94730000.0
+2018,TZA,94730000.0
+2019,TZA,94730000.0
+2020,TZA,94730000.0
+2015,UGA,24155000.0
+2016,UGA,24155000.0
+2017,UGA,24155000.0
+2018,UGA,24155000.0
+2019,UGA,24155000.0
+2020,UGA,24155000.0
+2015,UKR,60355000.0
+2016,UKR,60355000.0
+2017,UKR,60355000.0
+2018,UKR,60355000.0
+2019,UKR,60355000.0
+2020,UKR,60355000.0
+2015,URY,17622000.0
+2016,URY,17622000.0
+2017,URY,17622000.0
+2018,URY,17622000.0
+2019,URY,17622000.0
+2020,URY,17622000.0
+2015,USA,983151000.0
+2016,USA,983151000.0
+2017,USA,983151000.0
+2018,USA,983151000.0
+2019,USA,983151000.0
+2020,USA,983151000.0
+2015,UZB,44892400.0
+2016,UZB,44892400.0
+2017,UZB,44892400.0
+2018,UZB,44892400.0
+2019,UZB,44892400.0
+2020,UZB,44892400.0
+2015,VCT,39000.0
+2016,VCT,39000.0
+2017,VCT,39000.0
+2018,VCT,39000.0
+2019,VCT,39000.0
+2020,VCT,39000.0
+2015,VEN,91205000.0
+2016,VEN,91205000.0
+2017,VEN,91205000.0
+2018,VEN,91205000.0
+2019,VEN,91205000.0
+2020,VEN,91205000.0
+2015,VGB,15000.0
+2016,VGB,15000.0
+2017,VGB,15000.0
+2018,VGB,15000.0
+2019,VGB,15000.0
+2020,VGB,15000.0
+2015,VIR,35000.0
+2016,VIR,35000.0
+2017,VIR,35000.0
+2018,VIR,35000.0
+2019,VIR,35000.0
+2020,VIR,35000.0
+2015,VNM,33123000.0
+2016,VNM,33123000.0
+2017,VNM,33123000.0
+2018,VNM,33124000.0
+2019,VNM,33131000.0
+2020,VNM,33134000.0
+2015,VUT,1219000.0
+2016,VUT,1219000.0
+2017,VUT,1219000.0
+2018,VUT,1219000.0
+2019,VUT,1219000.0
+2020,VUT,1219000.0
+2015,WSM,284000.0
+2016,WSM,284000.0
+2017,WSM,284000.0
+2018,WSM,284000.0
+2019,WSM,284000.0
+2020,WSM,284000.0
+2015,YEM,52797000.0
+2016,YEM,52797000.0
+2017,YEM,52797000.0
+2018,YEM,52797000.0
+2019,YEM,52797000.0
+2020,YEM,52797000.0
+2015,ZAF,121909000.0
+2016,ZAF,121909000.0
+2017,ZAF,121909000.0
+2018,ZAF,121909000.0
+2019,ZAF,121909000.0
+2020,ZAF,121909000.0
+2015,ZMB,75261000.0
+2016,ZMB,75261000.0
+2017,ZMB,75261000.0
+2018,ZMB,75261000.0
+2019,ZMB,75261000.0
+2020,ZMB,75261000.0
+2015,ZWE,39076000.0
+2016,ZWE,39076000.0
+2017,ZWE,39076000.0
+2018,ZWE,39076000.0
+2019,ZWE,39076000.0
+2020,ZWE,39076000.0
