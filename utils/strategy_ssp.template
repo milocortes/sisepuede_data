@@ -1,0 +1,12 @@
+        self.{{tx_function_name}} = sc.Transformation(
+            "{{tx_code}}",
+            [   {% for i in lista_transformaciones-%}
+                {{ i }}
+                {% endfor %}
+            ],
+            attr_strategy
+        )
+
+        all_transformations.append(self.{{tx_function_name}})
+
+
