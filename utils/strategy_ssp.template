@@ -1,7 +1,7 @@
         self.{{tx_function_name}} = sc.Transformation(
             "{{tx_code}}",
             [   {% for i in lista_transformaciones-%}
-                {{ i }}
+                {{ i }},
                 {% endfor %}
             ],
             attr_strategy
