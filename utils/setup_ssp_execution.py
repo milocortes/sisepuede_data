@@ -7,11 +7,7 @@ with open('ssp_config_params.yml', 'r') as file:
 
 cl_instrucciones = []
 
-if 'new_strategy_params' in ssp_params:
-   print("CREAMOS LA NUEVA ESTRATEGIA CON PARÁMETROS")
-   build_new_strategy = "python3 /opt/build_new_strategy.py"
-   cl_instrucciones.append(build_new_strategy)
-   
+
 ### Ejecutamos SSP con los parámetros obtenidos del yml
 regions = ssp_params["ssp_config_params"]["regions"]
 keys_strategy = ssp_params["ssp_config_params"]["keys_strategy"]
@@ -34,6 +30,12 @@ cl_instrucciones.append(build_ssp_templates)
 build_real_data = f"python3 /opt/build_real_data.py {regions}"
 cl_instrucciones.append(build_real_data)
 
+##### Construimos el código para ejecutar la nueva estrategia
+if 'new_strategy_params' in ssp_params:
+   print("CREAMOS LA NUEVA ESTRATEGIA CON PARÁMETROS")
+   build_new_strategy = "python3 /opt/build_new_strategy.py"
+   cl_instrucciones.append(build_new_strategy)
+   
 ##### Construye ejecución para la creación de templates
 build_ssp_input_data = f"python3 /opt/build_ssp_input_data.py {keys_strategy}"
 cl_instrucciones.append(build_ssp_input_data)
