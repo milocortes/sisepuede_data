@@ -129,7 +129,8 @@ strategy_codes_keep = [
     "PFLO:BETTER_BASE",
     "LNDU:PLUR"]
  
-strategies_keep = get_strategies_from_codes(strategy_codes_keep)
+#strategies_keep = get_strategies_from_codes(strategy_codes_keep)
+strategies_keep = [int(i) for i in sys.argv[1].split(",")]
  
 transformations_integrated.build_strategies_to_templates(strategies = strategies_keep)
 

@@ -17,19 +17,20 @@ import setup_analysis as sa
 import support_classes as sc    
 import sisepuede_file_structure as sfs
 import support_functions as sf
+import subprocess
 
 # Get data from yaml
 import yaml
 
-with open('ssp_new_strategy_params.yml', 'r') as file:
+with open('ssp_config_params.yml', 'r') as file:
     ssp_strategy_metadata = yaml.safe_load(file)
 
-tx_function_name = ssp_strategy_metadata["strategy_function_name"]
-tx_code = ssp_strategy_metadata["strategy_code"]
-tx_id = ssp_strategy_metadata["strategy_id"]
-tx_description =  ssp_strategy_metadata["Description"]
-tx_name = ssp_strategy_metadata["strategy"]
-tx_baseline_strategy_id = ssp_strategy_metadata["baseline_strategy_id"]
+tx_function_name = ssp_strategy_metadata["new_strategy_params"]["strategy_function_name"]
+tx_code = ssp_strategy_metadata["new_strategy_params"]["strategy_code"]
+tx_id = ssp_strategy_metadata["new_strategy_params"]["strategy_id"]
+tx_description =  ssp_strategy_metadata["new_strategy_params"]["Description"]
+tx_name = ssp_strategy_metadata["new_strategy_params"]["strategy"]
+tx_baseline_strategy_id = ssp_strategy_metadata["new_strategy_params"]["baseline_strategy_id"]
 
 strategy_data_to_csv = pd.DataFrame({'strategy_id' : [tx_id] ,
  'strategy' : [tx_name],
@@ -109,7 +110,7 @@ transformations_integrated = dtr.TransformationsIntegrated(
 )
 
 ### Definimos las transformaciones a aplicar
-transformaciones_activas = ssp_strategy_metadata["transformaciones_activas"]
+transformaciones_activas = ssp_strategy_metadata["new_strategy_params"]["transformaciones_activas"]
 
 
 tx_afolu = [i for i in dir(transformations_integrated.transformations_afolu) if i.startswith("transformation")]
@@ -139,7 +140,7 @@ file_loader = FileSystemLoader('.')
 env = Environment(loader=file_loader)
 
 # Cargamos el template
-template_ssp_strategy = env.get_template('strategy_ssp.template')
+template_ssp_strategy = env.get_template('templates/template_strategy_ssp')
 
 # Enviamos la lista de tablas al template
 output_tables = template_ssp_strategy.render(tx_function_name = tx_function_name,
@@ -149,10 +150,15 @@ output_tables = template_ssp_strategy.render(tx_function_name = tx_function_name
 with open("strategy_ssp.txt", "w") as text_file:
     text_file.write(output_tables)
 
-# Actualizamos csv
-
+# Actualizamos csv con el registro de estrategias
 att_inventario = pd.read_csv("/opt/sisepuede/docs/source/csvs/attribute_dim_strategy_id.csv")
 
-att_inventario = pd.concat([att_inventario,strategy_data_to_csv], ignore_index = True)
- 
-att_inventario.to_csv("/opt/sisepuede/docs/source/csvs/attribute_dim_strategy_id.csv", index = False)
+if not int(tx_id) in att_inventario.strategy_id.to_list():
+   att_inventario = pd.concat([att_inventario,strategy_data_to_csv], ignore_index = True)
+   att_inventario.to_csv("/opt/sisepuede/docs/source/csvs/attribute_dim_strategy_id.csv", index = False)
+   
+   # Agregamos el chunk de código al programa sisepuede/python/define_transformations_integrated.py
+   comando = 'sed -i -e "901r /opt/strategy_ssp.txt" /opt/sisepuede/python/define_transformations_integrated.py'
+   subprocess.run(comando, shell=True)
+   
+
