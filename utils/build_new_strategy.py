@@ -147,7 +147,7 @@ output_tables = template_ssp_strategy.render(tx_function_name = tx_function_name
                                              tx_code = tx_code,
                                              lista_transformaciones = lista_transformaciones)
 
-with open("strategy_ssp.txt", "w") as text_file:
+with open("/opt/strategy_ssp.txt", "w") as text_file:
     text_file.write(output_tables)
 
 # Actualizamos csv con el registro de estrategias
