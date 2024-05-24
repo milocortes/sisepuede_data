@@ -4,7 +4,7 @@ from tx_original_params import afolu_original_params, energy_original_params
 import yaml
 
 # Cargamos parámetros del usuario 
-with open('ssp_config_params.yml', 'r') as file:
+with open('/opt/ssp_config_params.yml', 'r') as file:
     ssp_params = yaml.safe_load(file)
 
 # Definimos la configuración de jinja

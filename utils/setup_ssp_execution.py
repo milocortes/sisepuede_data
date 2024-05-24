@@ -1,6 +1,6 @@
 import yaml
 
-with open('ssp_config_params.yml', 'r') as file:
+with open('/opt/ssp_config_params.yml', 'r') as file:
     ssp_params = yaml.safe_load(file)
 
 ### Crea nueva estrategia

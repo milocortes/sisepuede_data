@@ -136,11 +136,11 @@ import pandas as pd
 from jinja2 import Environment, FileSystemLoader
 
 # Definimos la configuración de jinja
-file_loader = FileSystemLoader('.')
+file_loader = FileSystemLoader('/opt/templates')
 env = Environment(loader=file_loader)
 
 # Cargamos el template
-template_ssp_strategy = env.get_template('/opt/templates/template_strategy_ssp')
+template_ssp_strategy = env.get_template('template_strategy_ssp')
 
 # Enviamos la lista de tablas al template
 output_tables = template_ssp_strategy.render(tx_function_name = tx_function_name,
