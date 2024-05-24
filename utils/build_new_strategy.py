@@ -22,7 +22,7 @@ import subprocess
 # Get data from yaml
 import yaml
 
-with open('ssp_config_params.yml', 'r') as file:
+with open('/opt/ssp_config_params.yml', 'r') as file:
     ssp_strategy_metadata = yaml.safe_load(file)
 
 tx_function_name = ssp_strategy_metadata["new_strategy_params"]["strategy_function_name"]
@@ -140,7 +140,7 @@ file_loader = FileSystemLoader('.')
 env = Environment(loader=file_loader)
 
 # Cargamos el template
-template_ssp_strategy = env.get_template('templates/template_strategy_ssp')
+template_ssp_strategy = env.get_template('/opt/templates/template_strategy_ssp')
 
 # Enviamos la lista de tablas al template
 output_tables = template_ssp_strategy.render(tx_function_name = tx_function_name,
