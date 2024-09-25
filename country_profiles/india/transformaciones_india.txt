@@ -1,0 +1,209 @@
+cat define_transformations_afolu.py | grep DEC_CH4_RICE -n
+nano +633 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_agrc_improve_rice_management -n
+nano +1358 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep DEC_LOSS -n
+nano +676 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_agrc_reduce_supply_chain_losses -n
+nano +1483 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep INC_PRODUCTIVITY -n
+nano +657 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_agrc_increase_crop_productivity, -n
+nano +667 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep transformation_agrc_increase_crop_productivity -n
+nano +1454 define_transformations_afolu.py
+nano +1387 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep DEC_DEFORESTATION -n
+nano +750 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_lndu_stop_deforestation -n
+nano +1531 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep INC_REFORESTATION -n
+nano +723 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_lndu_increase_reforestation -n
+nano +1501 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep INC_SILVOPASTURE -n
+nano +707 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_lndu_expand_silvopasture -n
+nano +1577 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep NC_CAPTURE_BIOGAS -n
+nano +800 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_lsmm_increase_biogas_capture -n
+nano +1864 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep NC_MANAGEMENT_CATTLE_PIGS -n
+nano +776 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_lsmm_improve_manure_management_cattle_pigs -n
+nano +1734 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep INC_MANAGEMENT_OTHER -n
+nano +784 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_lsmm_improve_manure_management_other -n
+nano +1778 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep NC_MANAGEMENT_POULTRY -n
+nano +792 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_lsmm_improve_manure_management_poultry -n
+nano +1824 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep DEC_ENTERIC_FERMENTATION -n
+nano +865 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_lvst_reduce_enteric_fermentatio -n
+nano +1966 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep INC_PRODUCTIVITY -n
+nano +846 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_lvst_increase_productivity -n
+nano +1937 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep DEC_LIME_APPLIED -n
+nano +886 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_soil_reduce_excess_lime -n
+nano +2036 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep DEC_N_APPLIED -n
+nano +878 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_soil_reduce_excess_fertilizer -n
+nano +2005 define_transformations_afolu.py
+
+cat define_transformations_afolu.py | grep INC_CAPTURE_BIOGAS -n
+nano +800 define_transformations_afolu.py
+cat define_transformations_afolu.py | grep transformation_lsmm_increase_biogas_capture -n
+nano +1864 define_transformations_afolu.py
+
+cat define_transformations_circular_economy.py | grep DEC_CONSUMER_FOOD_WASTE -n
+nano +547 define_transformations_circular_economy.py
+cat define_transformations_circular_economy.py | grep transformation_waso_decrease_food_waste -n
+nano +1067 define_transformations_circular_economy.py
+
+cat define_transformations_circular_economy.py | grep :INC_CAPTURE_BIOGAS -n
+nano +470 define_transformations_circular_economy.py
+cat define_transformations_circular_economy.py | grep transformation_trww_increase_biogas_capture -n
+nano +893 define_transformations_circular_economy.py
+
+cat define_transformations_circular_economy.py | grep NC_ENERGY_FROM_INCINERATION -n
+nano +579 define_transformations_circular_economy.py
+cat define_transformations_circular_economy.py | grep transformation_waso_increase_energy_from_incineration -n
+nano +1205 define_transformations_circular_economy.py
+
+cat define_transformations_circular_economy.py | grep NC_LANDFILLING -n
+nano +587 define_transformations_circular_economy.py
+cat define_transformations_circular_economy.py | grep transformation_waso_increase_landfilling -n
+nano +1234 define_transformations_circular_economy.py
+
+cat define_transformations_circular_economy.py | grep NC_RECYCLING -n
+nano +595 define_transformations_circular_economy.py
+cat define_transformations_circular_economy.py | grep transformation_waso_increase_recycling -n
+nano +1263 define_transformations_circular_economy.py
+
+cat define_transformations_circular_economy.py | grep NC_COMPLIANCE_SEPTIC -n
+nano +478 define_transformations_circular_economy.py
+cat define_transformations_circular_economy.py | grep transformation_trww_increase_septic_compliance -n
+nano +939 define_transformations_circular_economy.py
+
+cat define_transformations_circular_economy.py | grep NC_TREATMENT_INDUSTRIAL -n
+nano +502 define_transformations_circular_economy.py
+cat define_transformations_circular_economy.py | grep transformation_wali_improve_sanitation_industrial -n
+nano +957 define_transformations_circular_economy.py
+
+cat define_transformations_circular_economy.py | grep INC_TREATMENT_URBAN -n
+nano +518 define_transformations_circular_economy.py
+cat define_transformations_circular_economy.py | grep transformation_wali_improve_sanitation_urban -n
+nano +1027 define_transformations_circular_economy.py
+
+cat define_transformations_circular_economy.py | grep NC_ANAEROBIC_AND_COMPOST -n
+nano +555 define_transformations_circular_economy.py
+cat define_transformations_circular_economy.py | grep transformation_waso_increase_anaerobic_treatment_and_composting -n
+nano +1117 define_transformations_circular_economy.py
+
+cat define_transformations_circular_economy.py | grep INC_ENERGY_FROM_BIOGAS -n
+nano +571 define_transformations_circular_economy.py
+cat define_transformations_circular_economy.py | grep transformation_waso_increase_energy_from_bioga -n
+nano +1176 define_transformations_circular_economy.py
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+################             TRANSPORTE    **************
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+cat define_transformations_energy.py | grep TRNS:FUEL_SWITCH_LIGHT_DUTY -n 
+nano +1341 define_transformations_energy.py 
+cat define_transformations_energy.py | grep "transformation_trns_electrify_road_light_duty(" -n
+nano +2585 define_transformations_energy.py
+
+
+cat define_transformations_energy.py | grep TRNS:FUEL_SWITCH_MEDIUM_DUTY -n
+nano +1406 define_transformations_energy.py 
+cat define_transformations_energy.py | grep "transformation_trns_fuel_switch_road_medium_duty(" -n
+nano +2718 define_transformations_energy.py
+
+
+cat define_transformations_energy.py | grep TRNS:FUEL_SWITCH_RAIL -n
+nano +1368 define_transformations_energy.py 
+cat define_transformations_energy.py | grep "transformation_trns_electrify_rail(" -n
+nano +2620 define_transformations_energy.py
+
+
+cat define_transformations_energy.py | grep TRNS:FUEL_SWITCH_MARITIME -n
+nano +1387 define_transformations_energy.py 
+cat define_transformations_energy.py | grep "transformation_trns_fuel_switch_maritime(" -n
+nano +2657 define_transformations_energy.py
+
+
+cat define_transformations_energy.py | grep TRNS:INC_EFFICIENCY -n
+nano +1428 define_transformations_energy.py 
+cat define_transformations_energy.py | grep "transformation_trns_increase_efficiency_electric(" -n
+nano +2779 define_transformations_energy.py
+cat define_transformations_energy.py | grep "transformation_trns_increase_efficiency_non_electric(" -n
+nano +2808 define_transformations_energy.py
+
+
+cat define_transformations_energy.py | grep TRNS:INC_OCCUPANCY -n
+nano +1448 define_transformations_energy.py 
+cat define_transformations_energy.py | grep "transformation_trns_increase_occupancy_light_duty(" -n
+nano +2837 define_transformations_energy.py
+
+
+cat define_transformations_energy.py | grep TRNS:MODE_SHIFT_PASSENGER -n  
+nano +1486 define_transformations_energy.py 
+cat define_transformations_energy.py | grep "transformation_trns_mode_shift_public_private(" -n
+nano +2904 define_transformations_energy.py
+
+
+cat define_transformations_energy.py | grep TRNS:MODE_SHIFT_REGIONA -n 
+nano +1505 define_transformations_energy.py 
+cat define_transformations_energy.py | grep "transformation_trns_mode_shift_regional(" -n
+nano +2944 define_transformations_energy.py
+
+
+cat define_transformations_ippu.py | grep  IPPU:DEC_DEMAND -n 
+nano +458 define_transformations_ippu.py 
+cat define_transformations_ippu.py | grep "transformation_ippu_reduce_demand(" -n
+nano +838 define_transformations_ippu.py
+
+
+cat define_transformations_ippu.py | grep IPPU:DEC_CLINKER -n 
+nano +466 define_transformations_ippu.py 
+cat define_transformations_ippu.py | grep "transformation_ippu_reduce_cement_clinker(" -n
+nano +804 define_transformations_ippu.py
+
+
+cat define_transformations_ippu.py | grep IPPU:DEC_N2O -n 
+nano +490 define_transformations_ippu.py 
+cat define_transformations_ippu.py | grep "transformation_ippu_reduce_n2o(" -n
+nano +896 define_transformations_ippu.py
+
+nano +867 define_transformations_ippu.py
+nano +928 define_transformations_ippu.py
+nano +957 define_transformations_ippu.py
+
+
