@@ -7,7 +7,7 @@ import os
 #PATH_INPUT = "/home/milo/Documents/egap/BancoMundial/paises/armenia/ssp_model/opt/SSP_RESULTS"
 #PATH_INPUT = "/home/milo/Documents/egap/BancoMundial/paises/armenia/5009_light/salidas"
 #PATH_INPUT = "/home/milo/Documents/egap/BancoMundial/paises/india/ssp_india/opt/SSP_RESULTS"
-PATH_INPUT = "/home/milo/Documents/egtp/sisepuede/BancoMundial/paises/india_2070/ssp_india/opt/SSP_RESULTS"
+PATH_INPUT = "/home/milo/Documents/egtp/SISEPUEDE/sisepuede_data/country_profiles/india/ssp_india/opt/SSP_RESULTS"
 #PATH_INPUT = "/home/milo/Documents/egap/BancoMundial/paises/iran/ssp_iran/opt/SSP_RESULTS"
 
 
@@ -74,11 +74,13 @@ for estrategia in df.primary_id.unique():
     print(df_lndu_strategy.loc[[2015,2050], cols_porcentaje].pct_change()*100)
 
     print("\nRAZONES\n")
-    simulacion_ssp = (df_lndu_strategy.div(all_lndu_Area, axis = 0).loc[[2015,2020,2050]].T*100).round()
-    simulacion_ssp.columns = ["2015_SSP", "2020_SSP", "2050_SSP"]
+    simulacion_ssp = (df_lndu_strategy.div(all_lndu_Area, axis = 0).loc[[2015,2020,2070]].T*100).round()
+    simulacion_ssp.columns = ["2015_SSP", "2020_SSP", "2070_SSP"]
 
-    simulacion_times = pd.DataFrame({""})
-    print(pd.concat([df_data_TIMES,simulacion_ssp], axis = 1))
+    #simulacion_times = pd.DataFrame({""})
+    #print(pd.concat([df_data_TIMES,simulacion_ssp], axis = 1))
+    #print(pd.concat([simulacion_ssp], axis = 1))
+    print(simulacion_ssp[["2015_SSP", "2070_SSP"]])
 
     ### Ploteamos cuanda lndu se va a forest primary
     """
