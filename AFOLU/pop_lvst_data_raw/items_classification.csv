@@ -1,0 +1,10 @@
+Item_Fao,File_Sisepuede,Notes
+Buffalo,pop_lvst_initial_buffalo,Item_Fao modified oct 4 2024
+Cattle,pop_lvst_initial_cattle_dairy,
+Cattle,pop_lvst_initial_cattle_nondairy,I assume 50% of cattle in FAO is nondairy
+Chickens,pop_lvst_initial_chickens,
+Goats,pop_lvst_initial_goats,
+Horses,pop_lvst_initial_horses,
+Mules and hinnies,pop_lvst_initial_mules,Item_Fao modified in oct 4 2024
+Swine / pigs,pop_lvst_initial_pigs,Item_Fao modified in oct 4 2024
+Sheep,pop_lvst_initial_sheep,
