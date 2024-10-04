@@ -23,7 +23,7 @@ livestock_types = [
 
 # Path for raw data and FAOSTAT data
 data_path = os.path.join(base_path, "pop_lvst_data_raw")
-fao_data_file_name = "FAOSTAT_data_en_10-4-2024.csv"
+fao_data_file_name = "FAOSTAT_data.csv"
 items_classification_file = "items_classification.csv"
 
 # Load FAOSTAT data
@@ -31,10 +31,10 @@ encode = "ISO-8859-1"
 fao_data = pd.read_csv(os.path.join(data_path, fao_data_file_name), encoding=encode)
 
 # Load country and item classification data
-m49_fao_countries = pd.read_json("../AFOLU/pop_lvst_data_raw/m49_countries.json")
+m49_fao_countries = pd.read_json("../AFOLU/pop_lvst_data_raw/m49-countries.json")
 cw_fao_names_iso_code3 = {i: j for i, j in zip(m49_fao_countries["country_name_en"], m49_fao_countries["ISO3"])}
 fao_data["iso_code3"] = fao_data["Area"].replace(cw_fao_names_iso_code3)
-fao_data["iso_code3"] = fao_data["iso_code3"].replace({'TÃ¼rkiye': 'TUR', 'United Kingdom of Great Britain and Northern Ireland': "GBR", "CÃ´te d'Ivoire": "CIV"}) # This was manually checked
+fao_data["iso_code3"] = fao_data["iso_code3"].replace({'TÃ¼rkiye': 'TUR', 'United Kingdom of Great Britain and Northern Ireland': "GBR", "CÃ´te d'Ivoire": "CIV"})  # Manually checked
 
 # Load item classification crosswalk
 cw = pd.read_csv(os.path.join(data_path, items_classification_file))[["Item_Fao", "File_Sisepuede"]]
@@ -46,19 +46,20 @@ fao_data["sisepuede_item"] = fao_data["Item"].replace(cw_dict)
 fao_data_grouped = fao_data.groupby(["iso_code3", "Area", "Year", "sisepuede_item"])["Value"].mean().reset_index()
 fao_data_pivot = fao_data_grouped.pivot_table(index=['iso_code3', 'Area', 'Year'], columns='sisepuede_item', values='Value').reset_index()
 fao_data_pivot = fao_data_pivot.rename(columns={"Area": "Nation"})
+fao_data_pivot["pop_lvst_initial_cattle_dairy"] = fao_data_pivot["pop_lvst_initial_cattle_nondairy"].copy()
 
-# Loop through each livestock type folder
+# Prevent interpolation from affecting rows with value == 0
 for livestock_type in livestock_types:
     # Copy relevant data (specific to each livestock type)
     fao_data_livestock = fao_data_pivot.copy()
-    fao_data_livestock["pop_lvst_initial_cattle_dairy"] = fao_data_pivot["pop_lvst_initial_cattle_nondairy"].copy()
 
     # Historical data handling
     path_historical_data = os.path.join(base_path, livestock_type, "input_to_sisepuede", "historical")
 
     if fao_data_livestock[livestock_type].isna().any():
+        # Ensure only non-zero rows are interpolated
         fao_data_livestock[livestock_type] = fao_data_livestock.groupby(["Nation"])[livestock_type].apply(
-            lambda x: x.interpolate().fillna(method='bfill')).reset_index()[livestock_type].fillna(0)
+            lambda x: x if (x == 0).all() else x.interpolate().bfill().fillna(0)).reset_index(drop=True)
 
     # Save historical data
     historical_file_path = os.path.join(path_historical_data, f"{livestock_type}.csv")
