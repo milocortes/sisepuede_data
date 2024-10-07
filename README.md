@@ -1,10 +1,14 @@
 # sisepuede_data
 
-### How to update livestock data
-1. Make sure you have the most up to date csv file with FAO data inside [AFOLU/pop_lvst_data_raw](AFOLU/pop_lvst_data_raw).
-2. Make sure the name of the file is `FAOSTAT_data`
-2. Run the [initial_lvst_processing](data_processing_scripts.AFOLU/intial_lvst_processing.py) script so all intial livestock data is updated.
+### How to Update Livestock Data
+
+1. Ensure that you have the most up-to-date CSV file with FAO data in the [AFOLU/pop_lvst_data_raw](AFOLU/pop_lvst_data_raw) directory.
+2. Make sure the file is named `FAOSTAT_data`.
+3. Run the [initial_lvst_processing](data_processing_scripts.AFOLU/initial_lvst_processing.py) script to update all initial livestock data.
+4. You can check the [initial_lvst_processing.ipynb](data_processing_scripts.AFOLU/initial_lvst_processing.ipynb) notebook to debug the preprocessing code or test new features.
 
 #### TODO:
-- Being able to download the livestock data automatically through the API.
-- The HTTP request for the m49 countries JSON is not working for me (Juan Antonio).
+- Enable automatic downloading of livestock data via the API.
+- The HTTP request for the m49 countries JSON isn't working for me (Juan Antonio), so I downloaded the file manually.
+- The projected data method could be improved with a more robust imputation technique.
+- Eliminate the redundant files in the initial lvst data folders.
