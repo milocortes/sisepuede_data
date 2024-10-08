@@ -1,1989 +1,5545 @@
-iso_code3,Nation,pop_lvst_initial_mules,Year
-AFG,Afghanistan,23968,2023
-AFG,Afghanistan,23968,2024
-AFG,Afghanistan,23968,2025
-AFG,Afghanistan,23968,2026
-AFG,Afghanistan,23968,2027
-AFG,Afghanistan,23968,2028
-AFG,Afghanistan,23968,2029
-AFG,Afghanistan,23968,2030
-AFG,Afghanistan,23968,2031
-AFG,Afghanistan,23968,2032
-AFG,Afghanistan,23968,2033
-AFG,Afghanistan,23968,2034
-AFG,Afghanistan,23968,2035
-AFG,Afghanistan,23968,2036
-AFG,Afghanistan,23968,2037
-AFG,Afghanistan,23968,2038
-AFG,Afghanistan,23968,2039
-AFG,Afghanistan,23968,2040
-AFG,Afghanistan,23968,2041
-AFG,Afghanistan,23968,2042
-AFG,Afghanistan,23968,2043
-AFG,Afghanistan,23968,2044
-AFG,Afghanistan,23968,2045
-AFG,Afghanistan,23968,2046
-AFG,Afghanistan,23968,2047
-AFG,Afghanistan,23968,2048
-AFG,Afghanistan,23968,2049
-AFG,Afghanistan,23968,2050
-ALB,Albania,0,2023
-ALB,Albania,0,2024
-ALB,Albania,0,2025
-ALB,Albania,0,2026
-ALB,Albania,0,2027
-ALB,Albania,0,2028
-ALB,Albania,0,2029
-ALB,Albania,0,2030
-ALB,Albania,0,2031
-ALB,Albania,0,2032
-ALB,Albania,0,2033
-ALB,Albania,0,2034
-ALB,Albania,0,2035
-ALB,Albania,0,2036
-ALB,Albania,0,2037
-ALB,Albania,0,2038
-ALB,Albania,0,2039
-ALB,Albania,0,2040
-ALB,Albania,0,2041
-ALB,Albania,0,2042
-ALB,Albania,0,2043
-ALB,Albania,0,2044
-ALB,Albania,0,2045
-ALB,Albania,0,2046
-ALB,Albania,0,2047
-ALB,Albania,0,2048
-ALB,Albania,0,2049
-ALB,Albania,0,2050
-DZA,Algeria,16396,2023
-DZA,Algeria,16396,2024
-DZA,Algeria,16396,2025
-DZA,Algeria,16396,2026
-DZA,Algeria,16396,2027
-DZA,Algeria,16396,2028
-DZA,Algeria,16396,2029
-DZA,Algeria,16396,2030
-DZA,Algeria,16396,2031
-DZA,Algeria,16396,2032
-DZA,Algeria,16396,2033
-DZA,Algeria,16396,2034
-DZA,Algeria,16396,2035
-DZA,Algeria,16396,2036
-DZA,Algeria,16396,2037
-DZA,Algeria,16396,2038
-DZA,Algeria,16396,2039
-DZA,Algeria,16396,2040
-DZA,Algeria,16396,2041
-DZA,Algeria,16396,2042
-DZA,Algeria,16396,2043
-DZA,Algeria,16396,2044
-DZA,Algeria,16396,2045
-DZA,Algeria,16396,2046
-DZA,Algeria,16396,2047
-DZA,Algeria,16396,2048
-DZA,Algeria,16396,2049
-DZA,Algeria,16396,2050
-ARG,Argentina,41930,2023
-ARG,Argentina,41930,2024
-ARG,Argentina,41930,2025
-ARG,Argentina,41930,2026
-ARG,Argentina,41930,2027
-ARG,Argentina,41930,2028
-ARG,Argentina,41930,2029
-ARG,Argentina,41930,2030
-ARG,Argentina,41930,2031
-ARG,Argentina,41930,2032
-ARG,Argentina,41930,2033
-ARG,Argentina,41930,2034
-ARG,Argentina,41930,2035
-ARG,Argentina,41930,2036
-ARG,Argentina,41930,2037
-ARG,Argentina,41930,2038
-ARG,Argentina,41930,2039
-ARG,Argentina,41930,2040
-ARG,Argentina,41930,2041
-ARG,Argentina,41930,2042
-ARG,Argentina,41930,2043
-ARG,Argentina,41930,2044
-ARG,Argentina,41930,2045
-ARG,Argentina,41930,2046
-ARG,Argentina,41930,2047
-ARG,Argentina,41930,2048
-ARG,Argentina,41930,2049
-ARG,Argentina,41930,2050
-ARM,Armenia,17,2023
-ARM,Armenia,17,2024
-ARM,Armenia,17,2025
-ARM,Armenia,17,2026
-ARM,Armenia,17,2027
-ARM,Armenia,17,2028
-ARM,Armenia,17,2029
-ARM,Armenia,17,2030
-ARM,Armenia,17,2031
-ARM,Armenia,17,2032
-ARM,Armenia,17,2033
-ARM,Armenia,17,2034
-ARM,Armenia,17,2035
-ARM,Armenia,17,2036
-ARM,Armenia,17,2037
-ARM,Armenia,17,2038
-ARM,Armenia,17,2039
-ARM,Armenia,17,2040
-ARM,Armenia,17,2041
-ARM,Armenia,17,2042
-ARM,Armenia,17,2043
-ARM,Armenia,17,2044
-ARM,Armenia,17,2045
-ARM,Armenia,17,2046
-ARM,Armenia,17,2047
-ARM,Armenia,17,2048
-ARM,Armenia,17,2049
-ARM,Armenia,17,2050
-AZE,Azerbaijan,54,2023
-AZE,Azerbaijan,54,2024
-AZE,Azerbaijan,54,2025
-AZE,Azerbaijan,54,2026
-AZE,Azerbaijan,54,2027
-AZE,Azerbaijan,54,2028
-AZE,Azerbaijan,54,2029
-AZE,Azerbaijan,54,2030
-AZE,Azerbaijan,54,2031
-AZE,Azerbaijan,54,2032
-AZE,Azerbaijan,54,2033
-AZE,Azerbaijan,54,2034
-AZE,Azerbaijan,54,2035
-AZE,Azerbaijan,54,2036
-AZE,Azerbaijan,54,2037
-AZE,Azerbaijan,54,2038
-AZE,Azerbaijan,54,2039
-AZE,Azerbaijan,54,2040
-AZE,Azerbaijan,54,2041
-AZE,Azerbaijan,54,2042
-AZE,Azerbaijan,54,2043
-AZE,Azerbaijan,54,2044
-AZE,Azerbaijan,54,2045
-AZE,Azerbaijan,54,2046
-AZE,Azerbaijan,54,2047
-AZE,Azerbaijan,54,2048
-AZE,Azerbaijan,54,2049
-AZE,Azerbaijan,54,2050
-BRB,Barbados,2000,2023
-BRB,Barbados,2000,2024
-BRB,Barbados,2000,2025
-BRB,Barbados,2000,2026
-BRB,Barbados,2000,2027
-BRB,Barbados,2000,2028
-BRB,Barbados,2000,2029
-BRB,Barbados,2000,2030
-BRB,Barbados,2000,2031
-BRB,Barbados,2000,2032
-BRB,Barbados,2000,2033
-BRB,Barbados,2000,2034
-BRB,Barbados,2000,2035
-BRB,Barbados,2000,2036
-BRB,Barbados,2000,2037
-BRB,Barbados,2000,2038
-BRB,Barbados,2000,2039
-BRB,Barbados,2000,2040
-BRB,Barbados,2000,2041
-BRB,Barbados,2000,2042
-BRB,Barbados,2000,2043
-BRB,Barbados,2000,2044
-BRB,Barbados,2000,2045
-BRB,Barbados,2000,2046
-BRB,Barbados,2000,2047
-BRB,Barbados,2000,2048
-BRB,Barbados,2000,2049
-BRB,Barbados,2000,2050
-BLZ,Belize,4587,2023
-BLZ,Belize,4587,2024
-BLZ,Belize,4587,2025
-BLZ,Belize,4587,2026
-BLZ,Belize,4587,2027
-BLZ,Belize,4587,2028
-BLZ,Belize,4587,2029
-BLZ,Belize,4587,2030
-BLZ,Belize,4587,2031
-BLZ,Belize,4587,2032
-BLZ,Belize,4587,2033
-BLZ,Belize,4587,2034
-BLZ,Belize,4587,2035
-BLZ,Belize,4587,2036
-BLZ,Belize,4587,2037
-BLZ,Belize,4587,2038
-BLZ,Belize,4587,2039
-BLZ,Belize,4587,2040
-BLZ,Belize,4587,2041
-BLZ,Belize,4587,2042
-BLZ,Belize,4587,2043
-BLZ,Belize,4587,2044
-BLZ,Belize,4587,2045
-BLZ,Belize,4587,2046
-BLZ,Belize,4587,2047
-BLZ,Belize,4587,2048
-BLZ,Belize,4587,2049
-BLZ,Belize,4587,2050
-BTN,Bhutan,4979,2023
-BTN,Bhutan,4979,2024
-BTN,Bhutan,4979,2025
-BTN,Bhutan,4979,2026
-BTN,Bhutan,4979,2027
-BTN,Bhutan,4979,2028
-BTN,Bhutan,4979,2029
-BTN,Bhutan,4979,2030
-BTN,Bhutan,4979,2031
-BTN,Bhutan,4979,2032
-BTN,Bhutan,4979,2033
-BTN,Bhutan,4979,2034
-BTN,Bhutan,4979,2035
-BTN,Bhutan,4979,2036
-BTN,Bhutan,4979,2037
-BTN,Bhutan,4979,2038
-BTN,Bhutan,4979,2039
-BTN,Bhutan,4979,2040
-BTN,Bhutan,4979,2041
-BTN,Bhutan,4979,2042
-BTN,Bhutan,4979,2043
-BTN,Bhutan,4979,2044
-BTN,Bhutan,4979,2045
-BTN,Bhutan,4979,2046
-BTN,Bhutan,4979,2047
-BTN,Bhutan,4979,2048
-BTN,Bhutan,4979,2049
-BTN,Bhutan,4979,2050
-BOL,Bolivia (Plurinational State of),83171,2023
-BOL,Bolivia (Plurinational State of),83171,2024
-BOL,Bolivia (Plurinational State of),83171,2025
-BOL,Bolivia (Plurinational State of),83171,2026
-BOL,Bolivia (Plurinational State of),83171,2027
-BOL,Bolivia (Plurinational State of),83171,2028
-BOL,Bolivia (Plurinational State of),83171,2029
-BOL,Bolivia (Plurinational State of),83171,2030
-BOL,Bolivia (Plurinational State of),83171,2031
-BOL,Bolivia (Plurinational State of),83171,2032
-BOL,Bolivia (Plurinational State of),83171,2033
-BOL,Bolivia (Plurinational State of),83171,2034
-BOL,Bolivia (Plurinational State of),83171,2035
-BOL,Bolivia (Plurinational State of),83171,2036
-BOL,Bolivia (Plurinational State of),83171,2037
-BOL,Bolivia (Plurinational State of),83171,2038
-BOL,Bolivia (Plurinational State of),83171,2039
-BOL,Bolivia (Plurinational State of),83171,2040
-BOL,Bolivia (Plurinational State of),83171,2041
-BOL,Bolivia (Plurinational State of),83171,2042
-BOL,Bolivia (Plurinational State of),83171,2043
-BOL,Bolivia (Plurinational State of),83171,2044
-BOL,Bolivia (Plurinational State of),83171,2045
-BOL,Bolivia (Plurinational State of),83171,2046
-BOL,Bolivia (Plurinational State of),83171,2047
-BOL,Bolivia (Plurinational State of),83171,2048
-BOL,Bolivia (Plurinational State of),83171,2049
-BOL,Bolivia (Plurinational State of),83171,2050
-BWA,Botswana,3340,2023
-BWA,Botswana,3340,2024
-BWA,Botswana,3340,2025
-BWA,Botswana,3340,2026
-BWA,Botswana,3340,2027
-BWA,Botswana,3340,2028
-BWA,Botswana,3340,2029
-BWA,Botswana,3340,2030
-BWA,Botswana,3340,2031
-BWA,Botswana,3340,2032
-BWA,Botswana,3340,2033
-BWA,Botswana,3340,2034
-BWA,Botswana,3340,2035
-BWA,Botswana,3340,2036
-BWA,Botswana,3340,2037
-BWA,Botswana,3340,2038
-BWA,Botswana,3340,2039
-BWA,Botswana,3340,2040
-BWA,Botswana,3340,2041
-BWA,Botswana,3340,2042
-BWA,Botswana,3340,2043
-BWA,Botswana,3340,2044
-BWA,Botswana,3340,2045
-BWA,Botswana,3340,2046
-BWA,Botswana,3340,2047
-BWA,Botswana,3340,2048
-BWA,Botswana,3340,2049
-BWA,Botswana,3340,2050
-BRA,Brazil,1185419,2023
-BRA,Brazil,1185419,2024
-BRA,Brazil,1185419,2025
-BRA,Brazil,1185419,2026
-BRA,Brazil,1185419,2027
-BRA,Brazil,1185419,2028
-BRA,Brazil,1185419,2029
-BRA,Brazil,1185419,2030
-BRA,Brazil,1185419,2031
-BRA,Brazil,1185419,2032
-BRA,Brazil,1185419,2033
-BRA,Brazil,1185419,2034
-BRA,Brazil,1185419,2035
-BRA,Brazil,1185419,2036
-BRA,Brazil,1185419,2037
-BRA,Brazil,1185419,2038
-BRA,Brazil,1185419,2039
-BRA,Brazil,1185419,2040
-BRA,Brazil,1185419,2041
-BRA,Brazil,1185419,2042
-BRA,Brazil,1185419,2043
-BRA,Brazil,1185419,2044
-BRA,Brazil,1185419,2045
-BRA,Brazil,1185419,2046
-BRA,Brazil,1185419,2047
-BRA,Brazil,1185419,2048
-BRA,Brazil,1185419,2049
-BRA,Brazil,1185419,2050
-CPV,Cabo Verde,1933,2023
-CPV,Cabo Verde,1933,2024
-CPV,Cabo Verde,1933,2025
-CPV,Cabo Verde,1933,2026
-CPV,Cabo Verde,1933,2027
-CPV,Cabo Verde,1933,2028
-CPV,Cabo Verde,1933,2029
-CPV,Cabo Verde,1933,2030
-CPV,Cabo Verde,1933,2031
-CPV,Cabo Verde,1933,2032
-CPV,Cabo Verde,1933,2033
-CPV,Cabo Verde,1933,2034
-CPV,Cabo Verde,1933,2035
-CPV,Cabo Verde,1933,2036
-CPV,Cabo Verde,1933,2037
-CPV,Cabo Verde,1933,2038
-CPV,Cabo Verde,1933,2039
-CPV,Cabo Verde,1933,2040
-CPV,Cabo Verde,1933,2041
-CPV,Cabo Verde,1933,2042
-CPV,Cabo Verde,1933,2043
-CPV,Cabo Verde,1933,2044
-CPV,Cabo Verde,1933,2045
-CPV,Cabo Verde,1933,2046
-CPV,Cabo Verde,1933,2047
-CPV,Cabo Verde,1933,2048
-CPV,Cabo Verde,1933,2049
-CPV,Cabo Verde,1933,2050
-CAN,Canada,4000,2023
-CAN,Canada,4000,2024
-CAN,Canada,4000,2025
-CAN,Canada,4000,2026
-CAN,Canada,4000,2027
-CAN,Canada,4000,2028
-CAN,Canada,4000,2029
-CAN,Canada,4000,2030
-CAN,Canada,4000,2031
-CAN,Canada,4000,2032
-CAN,Canada,4000,2033
-CAN,Canada,4000,2034
-CAN,Canada,4000,2035
-CAN,Canada,4000,2036
-CAN,Canada,4000,2037
-CAN,Canada,4000,2038
-CAN,Canada,4000,2039
-CAN,Canada,4000,2040
-CAN,Canada,4000,2041
-CAN,Canada,4000,2042
-CAN,Canada,4000,2043
-CAN,Canada,4000,2044
-CAN,Canada,4000,2045
-CAN,Canada,4000,2046
-CAN,Canada,4000,2047
-CAN,Canada,4000,2048
-CAN,Canada,4000,2049
-CAN,Canada,4000,2050
-CHL,Chile,6760,2023
-CHL,Chile,6760,2024
-CHL,Chile,6760,2025
-CHL,Chile,6760,2026
-CHL,Chile,6760,2027
-CHL,Chile,6760,2028
-CHL,Chile,6760,2029
-CHL,Chile,6760,2030
-CHL,Chile,6760,2031
-CHL,Chile,6760,2032
-CHL,Chile,6760,2033
-CHL,Chile,6760,2034
-CHL,Chile,6760,2035
-CHL,Chile,6760,2036
-CHL,Chile,6760,2037
-CHL,Chile,6760,2038
-CHL,Chile,6760,2039
-CHL,Chile,6760,2040
-CHL,Chile,6760,2041
-CHL,Chile,6760,2042
-CHL,Chile,6760,2043
-CHL,Chile,6760,2044
-CHL,Chile,6760,2045
-CHL,Chile,6760,2046
-CHL,Chile,6760,2047
-CHL,Chile,6760,2048
-CHL,Chile,6760,2049
-CHL,Chile,6760,2050
-CHN,China,488000,2023
-CHN,China,488000,2024
-CHN,China,488000,2025
-CHN,China,488000,2026
-CHN,China,488000,2027
-CHN,China,488000,2028
-CHN,China,488000,2029
-CHN,China,488000,2030
-CHN,China,488000,2031
-CHN,China,488000,2032
-CHN,China,488000,2033
-CHN,China,488000,2034
-CHN,China,488000,2035
-CHN,China,488000,2036
-CHN,China,488000,2037
-CHN,China,488000,2038
-CHN,China,488000,2039
-CHN,China,488000,2040
-CHN,China,488000,2041
-CHN,China,488000,2042
-CHN,China,488000,2043
-CHN,China,488000,2044
-CHN,China,488000,2045
-CHN,China,488000,2046
-CHN,China,488000,2047
-CHN,China,488000,2048
-CHN,China,488000,2049
-CHN,China,488000,2050
-"China, mainland","China, mainland",488000,2023
-"China, mainland","China, mainland",488000,2024
-"China, mainland","China, mainland",488000,2025
-"China, mainland","China, mainland",488000,2026
-"China, mainland","China, mainland",488000,2027
-"China, mainland","China, mainland",488000,2028
-"China, mainland","China, mainland",488000,2029
-"China, mainland","China, mainland",488000,2030
-"China, mainland","China, mainland",488000,2031
-"China, mainland","China, mainland",488000,2032
-"China, mainland","China, mainland",488000,2033
-"China, mainland","China, mainland",488000,2034
-"China, mainland","China, mainland",488000,2035
-"China, mainland","China, mainland",488000,2036
-"China, mainland","China, mainland",488000,2037
-"China, mainland","China, mainland",488000,2038
-"China, mainland","China, mainland",488000,2039
-"China, mainland","China, mainland",488000,2040
-"China, mainland","China, mainland",488000,2041
-"China, mainland","China, mainland",488000,2042
-"China, mainland","China, mainland",488000,2043
-"China, mainland","China, mainland",488000,2044
-"China, mainland","China, mainland",488000,2045
-"China, mainland","China, mainland",488000,2046
-"China, mainland","China, mainland",488000,2047
-"China, mainland","China, mainland",488000,2048
-"China, mainland","China, mainland",488000,2049
-"China, mainland","China, mainland",488000,2050
-COL,Colombia,173875,2023
-COL,Colombia,173875,2024
-COL,Colombia,173875,2025
-COL,Colombia,173875,2026
-COL,Colombia,173875,2027
-COL,Colombia,173875,2028
-COL,Colombia,173875,2029
-COL,Colombia,173875,2030
-COL,Colombia,173875,2031
-COL,Colombia,173875,2032
-COL,Colombia,173875,2033
-COL,Colombia,173875,2034
-COL,Colombia,173875,2035
-COL,Colombia,173875,2036
-COL,Colombia,173875,2037
-COL,Colombia,173875,2038
-COL,Colombia,173875,2039
-COL,Colombia,173875,2040
-COL,Colombia,173875,2041
-COL,Colombia,173875,2042
-COL,Colombia,173875,2043
-COL,Colombia,173875,2044
-COL,Colombia,173875,2045
-COL,Colombia,173875,2046
-COL,Colombia,173875,2047
-COL,Colombia,173875,2048
-COL,Colombia,173875,2049
-COL,Colombia,173875,2050
-CRI,Costa Rica,4938,2023
-CRI,Costa Rica,4938,2024
-CRI,Costa Rica,4938,2025
-CRI,Costa Rica,4938,2026
-CRI,Costa Rica,4938,2027
-CRI,Costa Rica,4938,2028
-CRI,Costa Rica,4938,2029
-CRI,Costa Rica,4938,2030
-CRI,Costa Rica,4938,2031
-CRI,Costa Rica,4938,2032
-CRI,Costa Rica,4938,2033
-CRI,Costa Rica,4938,2034
-CRI,Costa Rica,4938,2035
-CRI,Costa Rica,4938,2036
-CRI,Costa Rica,4938,2037
-CRI,Costa Rica,4938,2038
-CRI,Costa Rica,4938,2039
-CRI,Costa Rica,4938,2040
-CRI,Costa Rica,4938,2041
-CRI,Costa Rica,4938,2042
-CRI,Costa Rica,4938,2043
-CRI,Costa Rica,4938,2044
-CRI,Costa Rica,4938,2045
-CRI,Costa Rica,4938,2046
-CRI,Costa Rica,4938,2047
-CRI,Costa Rica,4938,2048
-CRI,Costa Rica,4938,2049
-CRI,Costa Rica,4938,2050
-CUB,Cuba,21600,2023
-CUB,Cuba,21600,2024
-CUB,Cuba,21600,2025
-CUB,Cuba,21600,2026
-CUB,Cuba,21600,2027
-CUB,Cuba,21600,2028
-CUB,Cuba,21600,2029
-CUB,Cuba,21600,2030
-CUB,Cuba,21600,2031
-CUB,Cuba,21600,2032
-CUB,Cuba,21600,2033
-CUB,Cuba,21600,2034
-CUB,Cuba,21600,2035
-CUB,Cuba,21600,2036
-CUB,Cuba,21600,2037
-CUB,Cuba,21600,2038
-CUB,Cuba,21600,2039
-CUB,Cuba,21600,2040
-CUB,Cuba,21600,2041
-CUB,Cuba,21600,2042
-CUB,Cuba,21600,2043
-CUB,Cuba,21600,2044
-CUB,Cuba,21600,2045
-CUB,Cuba,21600,2046
-CUB,Cuba,21600,2047
-CUB,Cuba,21600,2048
-CUB,Cuba,21600,2049
-CUB,Cuba,21600,2050
-DOM,Dominican Republic,147233,2023
-DOM,Dominican Republic,147233,2024
-DOM,Dominican Republic,147233,2025
-DOM,Dominican Republic,147233,2026
-DOM,Dominican Republic,147233,2027
-DOM,Dominican Republic,147233,2028
-DOM,Dominican Republic,147233,2029
-DOM,Dominican Republic,147233,2030
-DOM,Dominican Republic,147233,2031
-DOM,Dominican Republic,147233,2032
-DOM,Dominican Republic,147233,2033
-DOM,Dominican Republic,147233,2034
-DOM,Dominican Republic,147233,2035
-DOM,Dominican Republic,147233,2036
-DOM,Dominican Republic,147233,2037
-DOM,Dominican Republic,147233,2038
-DOM,Dominican Republic,147233,2039
-DOM,Dominican Republic,147233,2040
-DOM,Dominican Republic,147233,2041
-DOM,Dominican Republic,147233,2042
-DOM,Dominican Republic,147233,2043
-DOM,Dominican Republic,147233,2044
-DOM,Dominican Republic,147233,2045
-DOM,Dominican Republic,147233,2046
-DOM,Dominican Republic,147233,2047
-DOM,Dominican Republic,147233,2048
-DOM,Dominican Republic,147233,2049
-DOM,Dominican Republic,147233,2050
-ECU,Ecuador,61914,2023
-ECU,Ecuador,61914,2024
-ECU,Ecuador,61914,2025
-ECU,Ecuador,61914,2026
-ECU,Ecuador,61914,2027
-ECU,Ecuador,61914,2028
-ECU,Ecuador,61914,2029
-ECU,Ecuador,61914,2030
-ECU,Ecuador,61914,2031
-ECU,Ecuador,61914,2032
-ECU,Ecuador,61914,2033
-ECU,Ecuador,61914,2034
-ECU,Ecuador,61914,2035
-ECU,Ecuador,61914,2036
-ECU,Ecuador,61914,2037
-ECU,Ecuador,61914,2038
-ECU,Ecuador,61914,2039
-ECU,Ecuador,61914,2040
-ECU,Ecuador,61914,2041
-ECU,Ecuador,61914,2042
-ECU,Ecuador,61914,2043
-ECU,Ecuador,61914,2044
-ECU,Ecuador,61914,2045
-ECU,Ecuador,61914,2046
-ECU,Ecuador,61914,2047
-ECU,Ecuador,61914,2048
-ECU,Ecuador,61914,2049
-ECU,Ecuador,61914,2050
-EGY,Egypt,3207,2023
-EGY,Egypt,3207,2024
-EGY,Egypt,3207,2025
-EGY,Egypt,3207,2026
-EGY,Egypt,3207,2027
-EGY,Egypt,3207,2028
-EGY,Egypt,3207,2029
-EGY,Egypt,3207,2030
-EGY,Egypt,3207,2031
-EGY,Egypt,3207,2032
-EGY,Egypt,3207,2033
-EGY,Egypt,3207,2034
-EGY,Egypt,3207,2035
-EGY,Egypt,3207,2036
-EGY,Egypt,3207,2037
-EGY,Egypt,3207,2038
-EGY,Egypt,3207,2039
-EGY,Egypt,3207,2040
-EGY,Egypt,3207,2041
-EGY,Egypt,3207,2042
-EGY,Egypt,3207,2043
-EGY,Egypt,3207,2044
-EGY,Egypt,3207,2045
-EGY,Egypt,3207,2046
-EGY,Egypt,3207,2047
-EGY,Egypt,3207,2048
-EGY,Egypt,3207,2049
-EGY,Egypt,3207,2050
-SLV,El Salvador,23871,2023
-SLV,El Salvador,23871,2024
-SLV,El Salvador,23871,2025
-SLV,El Salvador,23871,2026
-SLV,El Salvador,23871,2027
-SLV,El Salvador,23871,2028
-SLV,El Salvador,23871,2029
-SLV,El Salvador,23871,2030
-SLV,El Salvador,23871,2031
-SLV,El Salvador,23871,2032
-SLV,El Salvador,23871,2033
-SLV,El Salvador,23871,2034
-SLV,El Salvador,23871,2035
-SLV,El Salvador,23871,2036
-SLV,El Salvador,23871,2037
-SLV,El Salvador,23871,2038
-SLV,El Salvador,23871,2039
-SLV,El Salvador,23871,2040
-SLV,El Salvador,23871,2041
-SLV,El Salvador,23871,2042
-SLV,El Salvador,23871,2043
-SLV,El Salvador,23871,2044
-SLV,El Salvador,23871,2045
-SLV,El Salvador,23871,2046
-SLV,El Salvador,23871,2047
-SLV,El Salvador,23871,2048
-SLV,El Salvador,23871,2049
-SLV,El Salvador,23871,2050
-SWZ,Eswatini,109,2023
-SWZ,Eswatini,109,2024
-SWZ,Eswatini,109,2025
-SWZ,Eswatini,109,2026
-SWZ,Eswatini,109,2027
-SWZ,Eswatini,109,2028
-SWZ,Eswatini,109,2029
-SWZ,Eswatini,109,2030
-SWZ,Eswatini,109,2031
-SWZ,Eswatini,109,2032
-SWZ,Eswatini,109,2033
-SWZ,Eswatini,109,2034
-SWZ,Eswatini,109,2035
-SWZ,Eswatini,109,2036
-SWZ,Eswatini,109,2037
-SWZ,Eswatini,109,2038
-SWZ,Eswatini,109,2039
-SWZ,Eswatini,109,2040
-SWZ,Eswatini,109,2041
-SWZ,Eswatini,109,2042
-SWZ,Eswatini,109,2043
-SWZ,Eswatini,109,2044
-SWZ,Eswatini,109,2045
-SWZ,Eswatini,109,2046
-SWZ,Eswatini,109,2047
-SWZ,Eswatini,109,2048
-SWZ,Eswatini,109,2049
-SWZ,Eswatini,109,2050
-ETH,Ethiopia,365896,2023
-ETH,Ethiopia,365896,2024
-ETH,Ethiopia,365896,2025
-ETH,Ethiopia,365896,2026
-ETH,Ethiopia,365896,2027
-ETH,Ethiopia,365896,2028
-ETH,Ethiopia,365896,2029
-ETH,Ethiopia,365896,2030
-ETH,Ethiopia,365896,2031
-ETH,Ethiopia,365896,2032
-ETH,Ethiopia,365896,2033
-ETH,Ethiopia,365896,2034
-ETH,Ethiopia,365896,2035
-ETH,Ethiopia,365896,2036
-ETH,Ethiopia,365896,2037
-ETH,Ethiopia,365896,2038
-ETH,Ethiopia,365896,2039
-ETH,Ethiopia,365896,2040
-ETH,Ethiopia,365896,2041
-ETH,Ethiopia,365896,2042
-ETH,Ethiopia,365896,2043
-ETH,Ethiopia,365896,2044
-ETH,Ethiopia,365896,2045
-ETH,Ethiopia,365896,2046
-ETH,Ethiopia,365896,2047
-ETH,Ethiopia,365896,2048
-ETH,Ethiopia,365896,2049
-ETH,Ethiopia,365896,2050
-GEO,Georgia,94,2023
-GEO,Georgia,94,2024
-GEO,Georgia,94,2025
-GEO,Georgia,94,2026
-GEO,Georgia,94,2027
-GEO,Georgia,94,2028
-GEO,Georgia,94,2029
-GEO,Georgia,94,2030
-GEO,Georgia,94,2031
-GEO,Georgia,94,2032
-GEO,Georgia,94,2033
-GEO,Georgia,94,2034
-GEO,Georgia,94,2035
-GEO,Georgia,94,2036
-GEO,Georgia,94,2037
-GEO,Georgia,94,2038
-GEO,Georgia,94,2039
-GEO,Georgia,94,2040
-GEO,Georgia,94,2041
-GEO,Georgia,94,2042
-GEO,Georgia,94,2043
-GEO,Georgia,94,2044
-GEO,Georgia,94,2045
-GEO,Georgia,94,2046
-GEO,Georgia,94,2047
-GEO,Georgia,94,2048
-GEO,Georgia,94,2049
-GEO,Georgia,94,2050
-GRD,Grenada,50,2023
-GRD,Grenada,50,2024
-GRD,Grenada,50,2025
-GRD,Grenada,50,2026
-GRD,Grenada,50,2027
-GRD,Grenada,50,2028
-GRD,Grenada,50,2029
-GRD,Grenada,50,2030
-GRD,Grenada,50,2031
-GRD,Grenada,50,2032
-GRD,Grenada,50,2033
-GRD,Grenada,50,2034
-GRD,Grenada,50,2035
-GRD,Grenada,50,2036
-GRD,Grenada,50,2037
-GRD,Grenada,50,2038
-GRD,Grenada,50,2039
-GRD,Grenada,50,2040
-GRD,Grenada,50,2041
-GRD,Grenada,50,2042
-GRD,Grenada,50,2043
-GRD,Grenada,50,2044
-GRD,Grenada,50,2045
-GRD,Grenada,50,2046
-GRD,Grenada,50,2047
-GRD,Grenada,50,2048
-GRD,Grenada,50,2049
-GRD,Grenada,50,2050
-GTM,Guatemala,38402,2023
-GTM,Guatemala,38402,2024
-GTM,Guatemala,38402,2025
-GTM,Guatemala,38402,2026
-GTM,Guatemala,38402,2027
-GTM,Guatemala,38402,2028
-GTM,Guatemala,38402,2029
-GTM,Guatemala,38402,2030
-GTM,Guatemala,38402,2031
-GTM,Guatemala,38402,2032
-GTM,Guatemala,38402,2033
-GTM,Guatemala,38402,2034
-GTM,Guatemala,38402,2035
-GTM,Guatemala,38402,2036
-GTM,Guatemala,38402,2037
-GTM,Guatemala,38402,2038
-GTM,Guatemala,38402,2039
-GTM,Guatemala,38402,2040
-GTM,Guatemala,38402,2041
-GTM,Guatemala,38402,2042
-GTM,Guatemala,38402,2043
-GTM,Guatemala,38402,2044
-GTM,Guatemala,38402,2045
-GTM,Guatemala,38402,2046
-GTM,Guatemala,38402,2047
-GTM,Guatemala,38402,2048
-GTM,Guatemala,38402,2049
-GTM,Guatemala,38402,2050
-GUY,Guyana,153,2023
-GUY,Guyana,153,2024
-GUY,Guyana,153,2025
-GUY,Guyana,153,2026
-GUY,Guyana,153,2027
-GUY,Guyana,153,2028
-GUY,Guyana,153,2029
-GUY,Guyana,153,2030
-GUY,Guyana,153,2031
-GUY,Guyana,153,2032
-GUY,Guyana,153,2033
-GUY,Guyana,153,2034
-GUY,Guyana,153,2035
-GUY,Guyana,153,2036
-GUY,Guyana,153,2037
-GUY,Guyana,153,2038
-GUY,Guyana,153,2039
-GUY,Guyana,153,2040
-GUY,Guyana,153,2041
-GUY,Guyana,153,2042
-GUY,Guyana,153,2043
-GUY,Guyana,153,2044
-GUY,Guyana,153,2045
-GUY,Guyana,153,2046
-GUY,Guyana,153,2047
-GUY,Guyana,153,2048
-GUY,Guyana,153,2049
-GUY,Guyana,153,2050
-HTI,Haiti,103166,2023
-HTI,Haiti,103166,2024
-HTI,Haiti,103166,2025
-HTI,Haiti,103166,2026
-HTI,Haiti,103166,2027
-HTI,Haiti,103166,2028
-HTI,Haiti,103166,2029
-HTI,Haiti,103166,2030
-HTI,Haiti,103166,2031
-HTI,Haiti,103166,2032
-HTI,Haiti,103166,2033
-HTI,Haiti,103166,2034
-HTI,Haiti,103166,2035
-HTI,Haiti,103166,2036
-HTI,Haiti,103166,2037
-HTI,Haiti,103166,2038
-HTI,Haiti,103166,2039
-HTI,Haiti,103166,2040
-HTI,Haiti,103166,2041
-HTI,Haiti,103166,2042
-HTI,Haiti,103166,2043
-HTI,Haiti,103166,2044
-HTI,Haiti,103166,2045
-HTI,Haiti,103166,2046
-HTI,Haiti,103166,2047
-HTI,Haiti,103166,2048
-HTI,Haiti,103166,2049
-HTI,Haiti,103166,2050
-HND,Honduras,70327,2023
-HND,Honduras,70327,2024
-HND,Honduras,70327,2025
-HND,Honduras,70327,2026
-HND,Honduras,70327,2027
-HND,Honduras,70327,2028
-HND,Honduras,70327,2029
-HND,Honduras,70327,2030
-HND,Honduras,70327,2031
-HND,Honduras,70327,2032
-HND,Honduras,70327,2033
-HND,Honduras,70327,2034
-HND,Honduras,70327,2035
-HND,Honduras,70327,2036
-HND,Honduras,70327,2037
-HND,Honduras,70327,2038
-HND,Honduras,70327,2039
-HND,Honduras,70327,2040
-HND,Honduras,70327,2041
-HND,Honduras,70327,2042
-HND,Honduras,70327,2043
-HND,Honduras,70327,2044
-HND,Honduras,70327,2045
-HND,Honduras,70327,2046
-HND,Honduras,70327,2047
-HND,Honduras,70327,2048
-HND,Honduras,70327,2049
-HND,Honduras,70327,2050
-IND,India,102331,2023
-IND,India,102331,2024
-IND,India,102331,2025
-IND,India,102331,2026
-IND,India,102331,2027
-IND,India,102331,2028
-IND,India,102331,2029
-IND,India,102331,2030
-IND,India,102331,2031
-IND,India,102331,2032
-IND,India,102331,2033
-IND,India,102331,2034
-IND,India,102331,2035
-IND,India,102331,2036
-IND,India,102331,2037
-IND,India,102331,2038
-IND,India,102331,2039
-IND,India,102331,2040
-IND,India,102331,2041
-IND,India,102331,2042
-IND,India,102331,2043
-IND,India,102331,2044
-IND,India,102331,2045
-IND,India,102331,2046
-IND,India,102331,2047
-IND,India,102331,2048
-IND,India,102331,2049
-IND,India,102331,2050
-IRN,Iran (Islamic Republic of),180681,2023
-IRN,Iran (Islamic Republic of),180681,2024
-IRN,Iran (Islamic Republic of),180681,2025
-IRN,Iran (Islamic Republic of),180681,2026
-IRN,Iran (Islamic Republic of),180681,2027
-IRN,Iran (Islamic Republic of),180681,2028
-IRN,Iran (Islamic Republic of),180681,2029
-IRN,Iran (Islamic Republic of),180681,2030
-IRN,Iran (Islamic Republic of),180681,2031
-IRN,Iran (Islamic Republic of),180681,2032
-IRN,Iran (Islamic Republic of),180681,2033
-IRN,Iran (Islamic Republic of),180681,2034
-IRN,Iran (Islamic Republic of),180681,2035
-IRN,Iran (Islamic Republic of),180681,2036
-IRN,Iran (Islamic Republic of),180681,2037
-IRN,Iran (Islamic Republic of),180681,2038
-IRN,Iran (Islamic Republic of),180681,2039
-IRN,Iran (Islamic Republic of),180681,2040
-IRN,Iran (Islamic Republic of),180681,2041
-IRN,Iran (Islamic Republic of),180681,2042
-IRN,Iran (Islamic Republic of),180681,2043
-IRN,Iran (Islamic Republic of),180681,2044
-IRN,Iran (Islamic Republic of),180681,2045
-IRN,Iran (Islamic Republic of),180681,2046
-IRN,Iran (Islamic Republic of),180681,2047
-IRN,Iran (Islamic Republic of),180681,2048
-IRN,Iran (Islamic Republic of),180681,2049
-IRN,Iran (Islamic Republic of),180681,2050
-IRQ,Iraq,10400,2023
-IRQ,Iraq,10400,2024
-IRQ,Iraq,10400,2025
-IRQ,Iraq,10400,2026
-IRQ,Iraq,10400,2027
-IRQ,Iraq,10400,2028
-IRQ,Iraq,10400,2029
-IRQ,Iraq,10400,2030
-IRQ,Iraq,10400,2031
-IRQ,Iraq,10400,2032
-IRQ,Iraq,10400,2033
-IRQ,Iraq,10400,2034
-IRQ,Iraq,10400,2035
-IRQ,Iraq,10400,2036
-IRQ,Iraq,10400,2037
-IRQ,Iraq,10400,2038
-IRQ,Iraq,10400,2039
-IRQ,Iraq,10400,2040
-IRQ,Iraq,10400,2041
-IRQ,Iraq,10400,2042
-IRQ,Iraq,10400,2043
-IRQ,Iraq,10400,2044
-IRQ,Iraq,10400,2045
-IRQ,Iraq,10400,2046
-IRQ,Iraq,10400,2047
-IRQ,Iraq,10400,2048
-IRQ,Iraq,10400,2049
-IRQ,Iraq,10400,2050
-ISR,Israel,1600,2023
-ISR,Israel,1600,2024
-ISR,Israel,1600,2025
-ISR,Israel,1600,2026
-ISR,Israel,1600,2027
-ISR,Israel,1600,2028
-ISR,Israel,1600,2029
-ISR,Israel,1600,2030
-ISR,Israel,1600,2031
-ISR,Israel,1600,2032
-ISR,Israel,1600,2033
-ISR,Israel,1600,2034
-ISR,Israel,1600,2035
-ISR,Israel,1600,2036
-ISR,Israel,1600,2037
-ISR,Israel,1600,2038
-ISR,Israel,1600,2039
-ISR,Israel,1600,2040
-ISR,Israel,1600,2041
-ISR,Israel,1600,2042
-ISR,Israel,1600,2043
-ISR,Israel,1600,2044
-ISR,Israel,1600,2045
-ISR,Israel,1600,2046
-ISR,Israel,1600,2047
-ISR,Israel,1600,2048
-ISR,Israel,1600,2049
-ISR,Israel,1600,2050
-JAM,Jamaica,10000,2023
-JAM,Jamaica,10000,2024
-JAM,Jamaica,10000,2025
-JAM,Jamaica,10000,2026
-JAM,Jamaica,10000,2027
-JAM,Jamaica,10000,2028
-JAM,Jamaica,10000,2029
-JAM,Jamaica,10000,2030
-JAM,Jamaica,10000,2031
-JAM,Jamaica,10000,2032
-JAM,Jamaica,10000,2033
-JAM,Jamaica,10000,2034
-JAM,Jamaica,10000,2035
-JAM,Jamaica,10000,2036
-JAM,Jamaica,10000,2037
-JAM,Jamaica,10000,2038
-JAM,Jamaica,10000,2039
-JAM,Jamaica,10000,2040
-JAM,Jamaica,10000,2041
-JAM,Jamaica,10000,2042
-JAM,Jamaica,10000,2043
-JAM,Jamaica,10000,2044
-JAM,Jamaica,10000,2045
-JAM,Jamaica,10000,2046
-JAM,Jamaica,10000,2047
-JAM,Jamaica,10000,2048
-JAM,Jamaica,10000,2049
-JAM,Jamaica,10000,2050
-JOR,Jordan,624,2023
-JOR,Jordan,624,2024
-JOR,Jordan,624,2025
-JOR,Jordan,624,2026
-JOR,Jordan,624,2027
-JOR,Jordan,624,2028
-JOR,Jordan,624,2029
-JOR,Jordan,624,2030
-JOR,Jordan,624,2031
-JOR,Jordan,624,2032
-JOR,Jordan,624,2033
-JOR,Jordan,624,2034
-JOR,Jordan,624,2035
-JOR,Jordan,624,2036
-JOR,Jordan,624,2037
-JOR,Jordan,624,2038
-JOR,Jordan,624,2039
-JOR,Jordan,624,2040
-JOR,Jordan,624,2041
-JOR,Jordan,624,2042
-JOR,Jordan,624,2043
-JOR,Jordan,624,2044
-JOR,Jordan,624,2045
-JOR,Jordan,624,2046
-JOR,Jordan,624,2047
-JOR,Jordan,624,2048
-JOR,Jordan,624,2049
-JOR,Jordan,624,2050
-KGZ,Kyrgyzstan,500,2023
-KGZ,Kyrgyzstan,500,2024
-KGZ,Kyrgyzstan,500,2025
-KGZ,Kyrgyzstan,500,2026
-KGZ,Kyrgyzstan,500,2027
-KGZ,Kyrgyzstan,500,2028
-KGZ,Kyrgyzstan,500,2029
-KGZ,Kyrgyzstan,500,2030
-KGZ,Kyrgyzstan,500,2031
-KGZ,Kyrgyzstan,500,2032
-KGZ,Kyrgyzstan,500,2033
-KGZ,Kyrgyzstan,500,2034
-KGZ,Kyrgyzstan,500,2035
-KGZ,Kyrgyzstan,500,2036
-KGZ,Kyrgyzstan,500,2037
-KGZ,Kyrgyzstan,500,2038
-KGZ,Kyrgyzstan,500,2039
-KGZ,Kyrgyzstan,500,2040
-KGZ,Kyrgyzstan,500,2041
-KGZ,Kyrgyzstan,500,2042
-KGZ,Kyrgyzstan,500,2043
-KGZ,Kyrgyzstan,500,2044
-KGZ,Kyrgyzstan,500,2045
-KGZ,Kyrgyzstan,500,2046
-KGZ,Kyrgyzstan,500,2047
-KGZ,Kyrgyzstan,500,2048
-KGZ,Kyrgyzstan,500,2049
-KGZ,Kyrgyzstan,500,2050
-LBN,Lebanon,14904,2023
-LBN,Lebanon,14904,2024
-LBN,Lebanon,14904,2025
-LBN,Lebanon,14904,2026
-LBN,Lebanon,14904,2027
-LBN,Lebanon,14904,2028
-LBN,Lebanon,14904,2029
-LBN,Lebanon,14904,2030
-LBN,Lebanon,14904,2031
-LBN,Lebanon,14904,2032
-LBN,Lebanon,14904,2033
-LBN,Lebanon,14904,2034
-LBN,Lebanon,14904,2035
-LBN,Lebanon,14904,2036
-LBN,Lebanon,14904,2037
-LBN,Lebanon,14904,2038
-LBN,Lebanon,14904,2039
-LBN,Lebanon,14904,2040
-LBN,Lebanon,14904,2041
-LBN,Lebanon,14904,2042
-LBN,Lebanon,14904,2043
-LBN,Lebanon,14904,2044
-LBN,Lebanon,14904,2045
-LBN,Lebanon,14904,2046
-LBN,Lebanon,14904,2047
-LBN,Lebanon,14904,2048
-LBN,Lebanon,14904,2049
-LBN,Lebanon,14904,2050
-LSO,Lesotho,1203,2023
-LSO,Lesotho,1203,2024
-LSO,Lesotho,1203,2025
-LSO,Lesotho,1203,2026
-LSO,Lesotho,1203,2027
-LSO,Lesotho,1203,2028
-LSO,Lesotho,1203,2029
-LSO,Lesotho,1203,2030
-LSO,Lesotho,1203,2031
-LSO,Lesotho,1203,2032
-LSO,Lesotho,1203,2033
-LSO,Lesotho,1203,2034
-LSO,Lesotho,1203,2035
-LSO,Lesotho,1203,2036
-LSO,Lesotho,1203,2037
-LSO,Lesotho,1203,2038
-LSO,Lesotho,1203,2039
-LSO,Lesotho,1203,2040
-LSO,Lesotho,1203,2041
-LSO,Lesotho,1203,2042
-LSO,Lesotho,1203,2043
-LSO,Lesotho,1203,2044
-LSO,Lesotho,1203,2045
-LSO,Lesotho,1203,2046
-LSO,Lesotho,1203,2047
-LSO,Lesotho,1203,2048
-LSO,Lesotho,1203,2049
-LSO,Lesotho,1203,2050
-LBY,Libya,0,2023
-LBY,Libya,0,2024
-LBY,Libya,0,2025
-LBY,Libya,0,2026
-LBY,Libya,0,2027
-LBY,Libya,0,2028
-LBY,Libya,0,2029
-LBY,Libya,0,2030
-LBY,Libya,0,2031
-LBY,Libya,0,2032
-LBY,Libya,0,2033
-LBY,Libya,0,2034
-LBY,Libya,0,2035
-LBY,Libya,0,2036
-LBY,Libya,0,2037
-LBY,Libya,0,2038
-LBY,Libya,0,2039
-LBY,Libya,0,2040
-LBY,Libya,0,2041
-LBY,Libya,0,2042
-LBY,Libya,0,2043
-LBY,Libya,0,2044
-LBY,Libya,0,2045
-LBY,Libya,0,2046
-LBY,Libya,0,2047
-LBY,Libya,0,2048
-LBY,Libya,0,2049
-LBY,Libya,0,2050
-MUS,Mauritius,20,2023
-MUS,Mauritius,20,2024
-MUS,Mauritius,20,2025
-MUS,Mauritius,20,2026
-MUS,Mauritius,20,2027
-MUS,Mauritius,20,2028
-MUS,Mauritius,20,2029
-MUS,Mauritius,20,2030
-MUS,Mauritius,20,2031
-MUS,Mauritius,20,2032
-MUS,Mauritius,20,2033
-MUS,Mauritius,20,2034
-MUS,Mauritius,20,2035
-MUS,Mauritius,20,2036
-MUS,Mauritius,20,2037
-MUS,Mauritius,20,2038
-MUS,Mauritius,20,2039
-MUS,Mauritius,20,2040
-MUS,Mauritius,20,2041
-MUS,Mauritius,20,2042
-MUS,Mauritius,20,2043
-MUS,Mauritius,20,2044
-MUS,Mauritius,20,2045
-MUS,Mauritius,20,2046
-MUS,Mauritius,20,2047
-MUS,Mauritius,20,2048
-MUS,Mauritius,20,2049
-MUS,Mauritius,20,2050
-MEX,Mexico,3290959,2023
-MEX,Mexico,3290959,2024
-MEX,Mexico,3290959,2025
-MEX,Mexico,3290959,2026
-MEX,Mexico,3290959,2027
-MEX,Mexico,3290959,2028
-MEX,Mexico,3290959,2029
-MEX,Mexico,3290959,2030
-MEX,Mexico,3290959,2031
-MEX,Mexico,3290959,2032
-MEX,Mexico,3290959,2033
-MEX,Mexico,3290959,2034
-MEX,Mexico,3290959,2035
-MEX,Mexico,3290959,2036
-MEX,Mexico,3290959,2037
-MEX,Mexico,3290959,2038
-MEX,Mexico,3290959,2039
-MEX,Mexico,3290959,2040
-MEX,Mexico,3290959,2041
-MEX,Mexico,3290959,2042
-MEX,Mexico,3290959,2043
-MEX,Mexico,3290959,2044
-MEX,Mexico,3290959,2045
-MEX,Mexico,3290959,2046
-MEX,Mexico,3290959,2047
-MEX,Mexico,3290959,2048
-MEX,Mexico,3290959,2049
-MEX,Mexico,3290959,2050
-MAR,Morocco,381990,2023
-MAR,Morocco,381990,2024
-MAR,Morocco,381990,2025
-MAR,Morocco,381990,2026
-MAR,Morocco,381990,2027
-MAR,Morocco,381990,2028
-MAR,Morocco,381990,2029
-MAR,Morocco,381990,2030
-MAR,Morocco,381990,2031
-MAR,Morocco,381990,2032
-MAR,Morocco,381990,2033
-MAR,Morocco,381990,2034
-MAR,Morocco,381990,2035
-MAR,Morocco,381990,2036
-MAR,Morocco,381990,2037
-MAR,Morocco,381990,2038
-MAR,Morocco,381990,2039
-MAR,Morocco,381990,2040
-MAR,Morocco,381990,2041
-MAR,Morocco,381990,2042
-MAR,Morocco,381990,2043
-MAR,Morocco,381990,2044
-MAR,Morocco,381990,2045
-MAR,Morocco,381990,2046
-MAR,Morocco,381990,2047
-MAR,Morocco,381990,2048
-MAR,Morocco,381990,2049
-MAR,Morocco,381990,2050
-MMR,Myanmar,1058,2023
-MMR,Myanmar,1058,2024
-MMR,Myanmar,1058,2025
-MMR,Myanmar,1058,2026
-MMR,Myanmar,1058,2027
-MMR,Myanmar,1058,2028
-MMR,Myanmar,1058,2029
-MMR,Myanmar,1058,2030
-MMR,Myanmar,1058,2031
-MMR,Myanmar,1058,2032
-MMR,Myanmar,1058,2033
-MMR,Myanmar,1058,2034
-MMR,Myanmar,1058,2035
-MMR,Myanmar,1058,2036
-MMR,Myanmar,1058,2037
-MMR,Myanmar,1058,2038
-MMR,Myanmar,1058,2039
-MMR,Myanmar,1058,2040
-MMR,Myanmar,1058,2041
-MMR,Myanmar,1058,2042
-MMR,Myanmar,1058,2043
-MMR,Myanmar,1058,2044
-MMR,Myanmar,1058,2045
-MMR,Myanmar,1058,2046
-MMR,Myanmar,1058,2047
-MMR,Myanmar,1058,2048
-MMR,Myanmar,1058,2049
-MMR,Myanmar,1058,2050
-NAM,Namibia,6793,2023
-NAM,Namibia,6793,2024
-NAM,Namibia,6793,2025
-NAM,Namibia,6793,2026
-NAM,Namibia,6793,2027
-NAM,Namibia,6793,2028
-NAM,Namibia,6793,2029
-NAM,Namibia,6793,2030
-NAM,Namibia,6793,2031
-NAM,Namibia,6793,2032
-NAM,Namibia,6793,2033
-NAM,Namibia,6793,2034
-NAM,Namibia,6793,2035
-NAM,Namibia,6793,2036
-NAM,Namibia,6793,2037
-NAM,Namibia,6793,2038
-NAM,Namibia,6793,2039
-NAM,Namibia,6793,2040
-NAM,Namibia,6793,2041
-NAM,Namibia,6793,2042
-NAM,Namibia,6793,2043
-NAM,Namibia,6793,2044
-NAM,Namibia,6793,2045
-NAM,Namibia,6793,2046
-NAM,Namibia,6793,2047
-NAM,Namibia,6793,2048
-NAM,Namibia,6793,2049
-NAM,Namibia,6793,2050
-NIC,Nicaragua,48415,2023
-NIC,Nicaragua,48415,2024
-NIC,Nicaragua,48415,2025
-NIC,Nicaragua,48415,2026
-NIC,Nicaragua,48415,2027
-NIC,Nicaragua,48415,2028
-NIC,Nicaragua,48415,2029
-NIC,Nicaragua,48415,2030
-NIC,Nicaragua,48415,2031
-NIC,Nicaragua,48415,2032
-NIC,Nicaragua,48415,2033
-NIC,Nicaragua,48415,2034
-NIC,Nicaragua,48415,2035
-NIC,Nicaragua,48415,2036
-NIC,Nicaragua,48415,2037
-NIC,Nicaragua,48415,2038
-NIC,Nicaragua,48415,2039
-NIC,Nicaragua,48415,2040
-NIC,Nicaragua,48415,2041
-NIC,Nicaragua,48415,2042
-NIC,Nicaragua,48415,2043
-NIC,Nicaragua,48415,2044
-NIC,Nicaragua,48415,2045
-NIC,Nicaragua,48415,2046
-NIC,Nicaragua,48415,2047
-NIC,Nicaragua,48415,2048
-NIC,Nicaragua,48415,2049
-NIC,Nicaragua,48415,2050
-PAK,Pakistan,206000,2023
-PAK,Pakistan,206000,2024
-PAK,Pakistan,206000,2025
-PAK,Pakistan,206000,2026
-PAK,Pakistan,206000,2027
-PAK,Pakistan,206000,2028
-PAK,Pakistan,206000,2029
-PAK,Pakistan,206000,2030
-PAK,Pakistan,206000,2031
-PAK,Pakistan,206000,2032
-PAK,Pakistan,206000,2033
-PAK,Pakistan,206000,2034
-PAK,Pakistan,206000,2035
-PAK,Pakistan,206000,2036
-PAK,Pakistan,206000,2037
-PAK,Pakistan,206000,2038
-PAK,Pakistan,206000,2039
-PAK,Pakistan,206000,2040
-PAK,Pakistan,206000,2041
-PAK,Pakistan,206000,2042
-PAK,Pakistan,206000,2043
-PAK,Pakistan,206000,2044
-PAK,Pakistan,206000,2045
-PAK,Pakistan,206000,2046
-PAK,Pakistan,206000,2047
-PAK,Pakistan,206000,2048
-PAK,Pakistan,206000,2049
-PAK,Pakistan,206000,2050
-PAN,Panama,2143,2023
-PAN,Panama,2143,2024
-PAN,Panama,2143,2025
-PAN,Panama,2143,2026
-PAN,Panama,2143,2027
-PAN,Panama,2143,2028
-PAN,Panama,2143,2029
-PAN,Panama,2143,2030
-PAN,Panama,2143,2031
-PAN,Panama,2143,2032
-PAN,Panama,2143,2033
-PAN,Panama,2143,2034
-PAN,Panama,2143,2035
-PAN,Panama,2143,2036
-PAN,Panama,2143,2037
-PAN,Panama,2143,2038
-PAN,Panama,2143,2039
-PAN,Panama,2143,2040
-PAN,Panama,2143,2041
-PAN,Panama,2143,2042
-PAN,Panama,2143,2043
-PAN,Panama,2143,2044
-PAN,Panama,2143,2045
-PAN,Panama,2143,2046
-PAN,Panama,2143,2047
-PAN,Panama,2143,2048
-PAN,Panama,2143,2049
-PAN,Panama,2143,2050
-PRY,Paraguay,10439,2023
-PRY,Paraguay,10439,2024
-PRY,Paraguay,10439,2025
-PRY,Paraguay,10439,2026
-PRY,Paraguay,10439,2027
-PRY,Paraguay,10439,2028
-PRY,Paraguay,10439,2029
-PRY,Paraguay,10439,2030
-PRY,Paraguay,10439,2031
-PRY,Paraguay,10439,2032
-PRY,Paraguay,10439,2033
-PRY,Paraguay,10439,2034
-PRY,Paraguay,10439,2035
-PRY,Paraguay,10439,2036
-PRY,Paraguay,10439,2037
-PRY,Paraguay,10439,2038
-PRY,Paraguay,10439,2039
-PRY,Paraguay,10439,2040
-PRY,Paraguay,10439,2041
-PRY,Paraguay,10439,2042
-PRY,Paraguay,10439,2043
-PRY,Paraguay,10439,2044
-PRY,Paraguay,10439,2045
-PRY,Paraguay,10439,2046
-PRY,Paraguay,10439,2047
-PRY,Paraguay,10439,2048
-PRY,Paraguay,10439,2049
-PRY,Paraguay,10439,2050
-PER,Peru,312337,2023
-PER,Peru,312337,2024
-PER,Peru,312337,2025
-PER,Peru,312337,2026
-PER,Peru,312337,2027
-PER,Peru,312337,2028
-PER,Peru,312337,2029
-PER,Peru,312337,2030
-PER,Peru,312337,2031
-PER,Peru,312337,2032
-PER,Peru,312337,2033
-PER,Peru,312337,2034
-PER,Peru,312337,2035
-PER,Peru,312337,2036
-PER,Peru,312337,2037
-PER,Peru,312337,2038
-PER,Peru,312337,2039
-PER,Peru,312337,2040
-PER,Peru,312337,2041
-PER,Peru,312337,2042
-PER,Peru,312337,2043
-PER,Peru,312337,2044
-PER,Peru,312337,2045
-PER,Peru,312337,2046
-PER,Peru,312337,2047
-PER,Peru,312337,2048
-PER,Peru,312337,2049
-PER,Peru,312337,2050
-PRI,Puerto Rico,2618,2023
-PRI,Puerto Rico,2618,2024
-PRI,Puerto Rico,2618,2025
-PRI,Puerto Rico,2618,2026
-PRI,Puerto Rico,2618,2027
-PRI,Puerto Rico,2618,2028
-PRI,Puerto Rico,2618,2029
-PRI,Puerto Rico,2618,2030
-PRI,Puerto Rico,2618,2031
-PRI,Puerto Rico,2618,2032
-PRI,Puerto Rico,2618,2033
-PRI,Puerto Rico,2618,2034
-PRI,Puerto Rico,2618,2035
-PRI,Puerto Rico,2618,2036
-PRI,Puerto Rico,2618,2037
-PRI,Puerto Rico,2618,2038
-PRI,Puerto Rico,2618,2039
-PRI,Puerto Rico,2618,2040
-PRI,Puerto Rico,2618,2041
-PRI,Puerto Rico,2618,2042
-PRI,Puerto Rico,2618,2043
-PRI,Puerto Rico,2618,2044
-PRI,Puerto Rico,2618,2045
-PRI,Puerto Rico,2618,2046
-PRI,Puerto Rico,2618,2047
-PRI,Puerto Rico,2618,2048
-PRI,Puerto Rico,2618,2049
-PRI,Puerto Rico,2618,2050
-KOR,Republic of Korea,0,2023
-KOR,Republic of Korea,0,2024
-KOR,Republic of Korea,0,2025
-KOR,Republic of Korea,0,2026
-KOR,Republic of Korea,0,2027
-KOR,Republic of Korea,0,2028
-KOR,Republic of Korea,0,2029
-KOR,Republic of Korea,0,2030
-KOR,Republic of Korea,0,2031
-KOR,Republic of Korea,0,2032
-KOR,Republic of Korea,0,2033
-KOR,Republic of Korea,0,2034
-KOR,Republic of Korea,0,2035
-KOR,Republic of Korea,0,2036
-KOR,Republic of Korea,0,2037
-KOR,Republic of Korea,0,2038
-KOR,Republic of Korea,0,2039
-KOR,Republic of Korea,0,2040
-KOR,Republic of Korea,0,2041
-KOR,Republic of Korea,0,2042
-KOR,Republic of Korea,0,2043
-KOR,Republic of Korea,0,2044
-KOR,Republic of Korea,0,2045
-KOR,Republic of Korea,0,2046
-KOR,Republic of Korea,0,2047
-KOR,Republic of Korea,0,2048
-KOR,Republic of Korea,0,2049
-KOR,Republic of Korea,0,2050
-RUS,Russian Federation,152,2023
-RUS,Russian Federation,152,2024
-RUS,Russian Federation,152,2025
-RUS,Russian Federation,152,2026
-RUS,Russian Federation,152,2027
-RUS,Russian Federation,152,2028
-RUS,Russian Federation,152,2029
-RUS,Russian Federation,152,2030
-RUS,Russian Federation,152,2031
-RUS,Russian Federation,152,2032
-RUS,Russian Federation,152,2033
-RUS,Russian Federation,152,2034
-RUS,Russian Federation,152,2035
-RUS,Russian Federation,152,2036
-RUS,Russian Federation,152,2037
-RUS,Russian Federation,152,2038
-RUS,Russian Federation,152,2039
-RUS,Russian Federation,152,2040
-RUS,Russian Federation,152,2041
-RUS,Russian Federation,152,2042
-RUS,Russian Federation,152,2043
-RUS,Russian Federation,152,2044
-RUS,Russian Federation,152,2045
-RUS,Russian Federation,152,2046
-RUS,Russian Federation,152,2047
-RUS,Russian Federation,152,2048
-RUS,Russian Federation,152,2049
-RUS,Russian Federation,152,2050
-LCA,Saint Lucia,1106,2023
-LCA,Saint Lucia,1106,2024
-LCA,Saint Lucia,1106,2025
-LCA,Saint Lucia,1106,2026
-LCA,Saint Lucia,1106,2027
-LCA,Saint Lucia,1106,2028
-LCA,Saint Lucia,1106,2029
-LCA,Saint Lucia,1106,2030
-LCA,Saint Lucia,1106,2031
-LCA,Saint Lucia,1106,2032
-LCA,Saint Lucia,1106,2033
-LCA,Saint Lucia,1106,2034
-LCA,Saint Lucia,1106,2035
-LCA,Saint Lucia,1106,2036
-LCA,Saint Lucia,1106,2037
-LCA,Saint Lucia,1106,2038
-LCA,Saint Lucia,1106,2039
-LCA,Saint Lucia,1106,2040
-LCA,Saint Lucia,1106,2041
-LCA,Saint Lucia,1106,2042
-LCA,Saint Lucia,1106,2043
-LCA,Saint Lucia,1106,2044
-LCA,Saint Lucia,1106,2045
-LCA,Saint Lucia,1106,2046
-LCA,Saint Lucia,1106,2047
-LCA,Saint Lucia,1106,2048
-LCA,Saint Lucia,1106,2049
-LCA,Saint Lucia,1106,2050
-STP,Sao Tome and Principe,32,2023
-STP,Sao Tome and Principe,32,2024
-STP,Sao Tome and Principe,32,2025
-STP,Sao Tome and Principe,32,2026
-STP,Sao Tome and Principe,32,2027
-STP,Sao Tome and Principe,32,2028
-STP,Sao Tome and Principe,32,2029
-STP,Sao Tome and Principe,32,2030
-STP,Sao Tome and Principe,32,2031
-STP,Sao Tome and Principe,32,2032
-STP,Sao Tome and Principe,32,2033
-STP,Sao Tome and Principe,32,2034
-STP,Sao Tome and Principe,32,2035
-STP,Sao Tome and Principe,32,2036
-STP,Sao Tome and Principe,32,2037
-STP,Sao Tome and Principe,32,2038
-STP,Sao Tome and Principe,32,2039
-STP,Sao Tome and Principe,32,2040
-STP,Sao Tome and Principe,32,2041
-STP,Sao Tome and Principe,32,2042
-STP,Sao Tome and Principe,32,2043
-STP,Sao Tome and Principe,32,2044
-STP,Sao Tome and Principe,32,2045
-STP,Sao Tome and Principe,32,2046
-STP,Sao Tome and Principe,32,2047
-STP,Sao Tome and Principe,32,2048
-STP,Sao Tome and Principe,32,2049
-STP,Sao Tome and Principe,32,2050
-SOM,Somalia,22430,2023
-SOM,Somalia,22430,2024
-SOM,Somalia,22430,2025
-SOM,Somalia,22430,2026
-SOM,Somalia,22430,2027
-SOM,Somalia,22430,2028
-SOM,Somalia,22430,2029
-SOM,Somalia,22430,2030
-SOM,Somalia,22430,2031
-SOM,Somalia,22430,2032
-SOM,Somalia,22430,2033
-SOM,Somalia,22430,2034
-SOM,Somalia,22430,2035
-SOM,Somalia,22430,2036
-SOM,Somalia,22430,2037
-SOM,Somalia,22430,2038
-SOM,Somalia,22430,2039
-SOM,Somalia,22430,2040
-SOM,Somalia,22430,2041
-SOM,Somalia,22430,2042
-SOM,Somalia,22430,2043
-SOM,Somalia,22430,2044
-SOM,Somalia,22430,2045
-SOM,Somalia,22430,2046
-SOM,Somalia,22430,2047
-SOM,Somalia,22430,2048
-SOM,Somalia,22430,2049
-SOM,Somalia,22430,2050
-ZAF,South Africa,15991,2023
-ZAF,South Africa,15991,2024
-ZAF,South Africa,15991,2025
-ZAF,South Africa,15991,2026
-ZAF,South Africa,15991,2027
-ZAF,South Africa,15991,2028
-ZAF,South Africa,15991,2029
-ZAF,South Africa,15991,2030
-ZAF,South Africa,15991,2031
-ZAF,South Africa,15991,2032
-ZAF,South Africa,15991,2033
-ZAF,South Africa,15991,2034
-ZAF,South Africa,15991,2035
-ZAF,South Africa,15991,2036
-ZAF,South Africa,15991,2037
-ZAF,South Africa,15991,2038
-ZAF,South Africa,15991,2039
-ZAF,South Africa,15991,2040
-ZAF,South Africa,15991,2041
-ZAF,South Africa,15991,2042
-ZAF,South Africa,15991,2043
-ZAF,South Africa,15991,2044
-ZAF,South Africa,15991,2045
-ZAF,South Africa,15991,2046
-ZAF,South Africa,15991,2047
-ZAF,South Africa,15991,2048
-ZAF,South Africa,15991,2049
-ZAF,South Africa,15991,2050
-SSD,South Sudan,0,2023
-SSD,South Sudan,0,2024
-SSD,South Sudan,0,2025
-SSD,South Sudan,0,2026
-SSD,South Sudan,0,2027
-SSD,South Sudan,0,2028
-SSD,South Sudan,0,2029
-SSD,South Sudan,0,2030
-SSD,South Sudan,0,2031
-SSD,South Sudan,0,2032
-SSD,South Sudan,0,2033
-SSD,South Sudan,0,2034
-SSD,South Sudan,0,2035
-SSD,South Sudan,0,2036
-SSD,South Sudan,0,2037
-SSD,South Sudan,0,2038
-SSD,South Sudan,0,2039
-SSD,South Sudan,0,2040
-SSD,South Sudan,0,2041
-SSD,South Sudan,0,2042
-SSD,South Sudan,0,2043
-SSD,South Sudan,0,2044
-SSD,South Sudan,0,2045
-SSD,South Sudan,0,2046
-SSD,South Sudan,0,2047
-SSD,South Sudan,0,2048
-SSD,South Sudan,0,2049
-SSD,South Sudan,0,2050
-SDN,Sudan,641,2023
-SDN,Sudan,641,2024
-SDN,Sudan,641,2025
-SDN,Sudan,641,2026
-SDN,Sudan,641,2027
-SDN,Sudan,641,2028
-SDN,Sudan,641,2029
-SDN,Sudan,641,2030
-SDN,Sudan,641,2031
-SDN,Sudan,641,2032
-SDN,Sudan,641,2033
-SDN,Sudan,641,2034
-SDN,Sudan,641,2035
-SDN,Sudan,641,2036
-SDN,Sudan,641,2037
-SDN,Sudan,641,2038
-SDN,Sudan,641,2039
-SDN,Sudan,641,2040
-SDN,Sudan,641,2041
-SDN,Sudan,641,2042
-SDN,Sudan,641,2043
-SDN,Sudan,641,2044
-SDN,Sudan,641,2045
-SDN,Sudan,641,2046
-SDN,Sudan,641,2047
-SDN,Sudan,641,2048
-SDN,Sudan,641,2049
-SDN,Sudan,641,2050
-CHE,Switzerland,770,2023
-CHE,Switzerland,770,2024
-CHE,Switzerland,770,2025
-CHE,Switzerland,770,2026
-CHE,Switzerland,770,2027
-CHE,Switzerland,770,2028
-CHE,Switzerland,770,2029
-CHE,Switzerland,770,2030
-CHE,Switzerland,770,2031
-CHE,Switzerland,770,2032
-CHE,Switzerland,770,2033
-CHE,Switzerland,770,2034
-CHE,Switzerland,770,2035
-CHE,Switzerland,770,2036
-CHE,Switzerland,770,2037
-CHE,Switzerland,770,2038
-CHE,Switzerland,770,2039
-CHE,Switzerland,770,2040
-CHE,Switzerland,770,2041
-CHE,Switzerland,770,2042
-CHE,Switzerland,770,2043
-CHE,Switzerland,770,2044
-CHE,Switzerland,770,2045
-CHE,Switzerland,770,2046
-CHE,Switzerland,770,2047
-CHE,Switzerland,770,2048
-CHE,Switzerland,770,2049
-CHE,Switzerland,770,2050
-SYR,Syrian Arab Republic,1770,2023
-SYR,Syrian Arab Republic,1770,2024
-SYR,Syrian Arab Republic,1770,2025
-SYR,Syrian Arab Republic,1770,2026
-SYR,Syrian Arab Republic,1770,2027
-SYR,Syrian Arab Republic,1770,2028
-SYR,Syrian Arab Republic,1770,2029
-SYR,Syrian Arab Republic,1770,2030
-SYR,Syrian Arab Republic,1770,2031
-SYR,Syrian Arab Republic,1770,2032
-SYR,Syrian Arab Republic,1770,2033
-SYR,Syrian Arab Republic,1770,2034
-SYR,Syrian Arab Republic,1770,2035
-SYR,Syrian Arab Republic,1770,2036
-SYR,Syrian Arab Republic,1770,2037
-SYR,Syrian Arab Republic,1770,2038
-SYR,Syrian Arab Republic,1770,2039
-SYR,Syrian Arab Republic,1770,2040
-SYR,Syrian Arab Republic,1770,2041
-SYR,Syrian Arab Republic,1770,2042
-SYR,Syrian Arab Republic,1770,2043
-SYR,Syrian Arab Republic,1770,2044
-SYR,Syrian Arab Republic,1770,2045
-SYR,Syrian Arab Republic,1770,2046
-SYR,Syrian Arab Republic,1770,2047
-SYR,Syrian Arab Republic,1770,2048
-SYR,Syrian Arab Republic,1770,2049
-SYR,Syrian Arab Republic,1770,2050
-THA,Thailand,52,2023
-THA,Thailand,52,2024
-THA,Thailand,52,2025
-THA,Thailand,52,2026
-THA,Thailand,52,2027
-THA,Thailand,52,2028
-THA,Thailand,52,2029
-THA,Thailand,52,2030
-THA,Thailand,52,2031
-THA,Thailand,52,2032
-THA,Thailand,52,2033
-THA,Thailand,52,2034
-THA,Thailand,52,2035
-THA,Thailand,52,2036
-THA,Thailand,52,2037
-THA,Thailand,52,2038
-THA,Thailand,52,2039
-THA,Thailand,52,2040
-THA,Thailand,52,2041
-THA,Thailand,52,2042
-THA,Thailand,52,2043
-THA,Thailand,52,2044
-THA,Thailand,52,2045
-THA,Thailand,52,2046
-THA,Thailand,52,2047
-THA,Thailand,52,2048
-THA,Thailand,52,2049
-THA,Thailand,52,2050
-TTO,Trinidad and Tobago,2032,2023
-TTO,Trinidad and Tobago,2032,2024
-TTO,Trinidad and Tobago,2032,2025
-TTO,Trinidad and Tobago,2032,2026
-TTO,Trinidad and Tobago,2032,2027
-TTO,Trinidad and Tobago,2032,2028
-TTO,Trinidad and Tobago,2032,2029
-TTO,Trinidad and Tobago,2032,2030
-TTO,Trinidad and Tobago,2032,2031
-TTO,Trinidad and Tobago,2032,2032
-TTO,Trinidad and Tobago,2032,2033
-TTO,Trinidad and Tobago,2032,2034
-TTO,Trinidad and Tobago,2032,2035
-TTO,Trinidad and Tobago,2032,2036
-TTO,Trinidad and Tobago,2032,2037
-TTO,Trinidad and Tobago,2032,2038
-TTO,Trinidad and Tobago,2032,2039
-TTO,Trinidad and Tobago,2032,2040
-TTO,Trinidad and Tobago,2032,2041
-TTO,Trinidad and Tobago,2032,2042
-TTO,Trinidad and Tobago,2032,2043
-TTO,Trinidad and Tobago,2032,2044
-TTO,Trinidad and Tobago,2032,2045
-TTO,Trinidad and Tobago,2032,2046
-TTO,Trinidad and Tobago,2032,2047
-TTO,Trinidad and Tobago,2032,2048
-TTO,Trinidad and Tobago,2032,2049
-TTO,Trinidad and Tobago,2032,2050
-TUN,Tunisia,82619,2023
-TUN,Tunisia,82619,2024
-TUN,Tunisia,82619,2025
-TUN,Tunisia,82619,2026
-TUN,Tunisia,82619,2027
-TUN,Tunisia,82619,2028
-TUN,Tunisia,82619,2029
-TUN,Tunisia,82619,2030
-TUN,Tunisia,82619,2031
-TUN,Tunisia,82619,2032
-TUN,Tunisia,82619,2033
-TUN,Tunisia,82619,2034
-TUN,Tunisia,82619,2035
-TUN,Tunisia,82619,2036
-TUN,Tunisia,82619,2037
-TUN,Tunisia,82619,2038
-TUN,Tunisia,82619,2039
-TUN,Tunisia,82619,2040
-TUN,Tunisia,82619,2041
-TUN,Tunisia,82619,2042
-TUN,Tunisia,82619,2043
-TUN,Tunisia,82619,2044
-TUN,Tunisia,82619,2045
-TUN,Tunisia,82619,2046
-TUN,Tunisia,82619,2047
-TUN,Tunisia,82619,2048
-TUN,Tunisia,82619,2049
-TUN,Tunisia,82619,2050
-TUR,Türkiye,19018,2023
-TUR,Türkiye,19018,2024
-TUR,Türkiye,19018,2025
-TUR,Türkiye,19018,2026
-TUR,Türkiye,19018,2027
-TUR,Türkiye,19018,2028
-TUR,Türkiye,19018,2029
-TUR,Türkiye,19018,2030
-TUR,Türkiye,19018,2031
-TUR,Türkiye,19018,2032
-TUR,Türkiye,19018,2033
-TUR,Türkiye,19018,2034
-TUR,Türkiye,19018,2035
-TUR,Türkiye,19018,2036
-TUR,Türkiye,19018,2037
-TUR,Türkiye,19018,2038
-TUR,Türkiye,19018,2039
-TUR,Türkiye,19018,2040
-TUR,Türkiye,19018,2041
-TUR,Türkiye,19018,2042
-TUR,Türkiye,19018,2043
-TUR,Türkiye,19018,2044
-TUR,Türkiye,19018,2045
-TUR,Türkiye,19018,2046
-TUR,Türkiye,19018,2047
-TUR,Türkiye,19018,2048
-TUR,Türkiye,19018,2049
-TUR,Türkiye,19018,2050
-USA,United States of America,0,2023
-USA,United States of America,0,2024
-USA,United States of America,0,2025
-USA,United States of America,0,2026
-USA,United States of America,0,2027
-USA,United States of America,0,2028
-USA,United States of America,0,2029
-USA,United States of America,0,2030
-USA,United States of America,0,2031
-USA,United States of America,0,2032
-USA,United States of America,0,2033
-USA,United States of America,0,2034
-USA,United States of America,0,2035
-USA,United States of America,0,2036
-USA,United States of America,0,2037
-USA,United States of America,0,2038
-USA,United States of America,0,2039
-USA,United States of America,0,2040
-USA,United States of America,0,2041
-USA,United States of America,0,2042
-USA,United States of America,0,2043
-USA,United States of America,0,2044
-USA,United States of America,0,2045
-USA,United States of America,0,2046
-USA,United States of America,0,2047
-USA,United States of America,0,2048
-USA,United States of America,0,2049
-USA,United States of America,0,2050
-URY,Uruguay,4096,2023
-URY,Uruguay,4096,2024
-URY,Uruguay,4096,2025
-URY,Uruguay,4096,2026
-URY,Uruguay,4096,2027
-URY,Uruguay,4096,2028
-URY,Uruguay,4096,2029
-URY,Uruguay,4096,2030
-URY,Uruguay,4096,2031
-URY,Uruguay,4096,2032
-URY,Uruguay,4096,2033
-URY,Uruguay,4096,2034
-URY,Uruguay,4096,2035
-URY,Uruguay,4096,2036
-URY,Uruguay,4096,2037
-URY,Uruguay,4096,2038
-URY,Uruguay,4096,2039
-URY,Uruguay,4096,2040
-URY,Uruguay,4096,2041
-URY,Uruguay,4096,2042
-URY,Uruguay,4096,2043
-URY,Uruguay,4096,2044
-URY,Uruguay,4096,2045
-URY,Uruguay,4096,2046
-URY,Uruguay,4096,2047
-URY,Uruguay,4096,2048
-URY,Uruguay,4096,2049
-URY,Uruguay,4096,2050
-VEN,Venezuela (Bolivarian Republic of),72000,2023
-VEN,Venezuela (Bolivarian Republic of),72000,2024
-VEN,Venezuela (Bolivarian Republic of),72000,2025
-VEN,Venezuela (Bolivarian Republic of),72000,2026
-VEN,Venezuela (Bolivarian Republic of),72000,2027
-VEN,Venezuela (Bolivarian Republic of),72000,2028
-VEN,Venezuela (Bolivarian Republic of),72000,2029
-VEN,Venezuela (Bolivarian Republic of),72000,2030
-VEN,Venezuela (Bolivarian Republic of),72000,2031
-VEN,Venezuela (Bolivarian Republic of),72000,2032
-VEN,Venezuela (Bolivarian Republic of),72000,2033
-VEN,Venezuela (Bolivarian Republic of),72000,2034
-VEN,Venezuela (Bolivarian Republic of),72000,2035
-VEN,Venezuela (Bolivarian Republic of),72000,2036
-VEN,Venezuela (Bolivarian Republic of),72000,2037
-VEN,Venezuela (Bolivarian Republic of),72000,2038
-VEN,Venezuela (Bolivarian Republic of),72000,2039
-VEN,Venezuela (Bolivarian Republic of),72000,2040
-VEN,Venezuela (Bolivarian Republic of),72000,2041
-VEN,Venezuela (Bolivarian Republic of),72000,2042
-VEN,Venezuela (Bolivarian Republic of),72000,2043
-VEN,Venezuela (Bolivarian Republic of),72000,2044
-VEN,Venezuela (Bolivarian Republic of),72000,2045
-VEN,Venezuela (Bolivarian Republic of),72000,2046
-VEN,Venezuela (Bolivarian Republic of),72000,2047
-VEN,Venezuela (Bolivarian Republic of),72000,2048
-VEN,Venezuela (Bolivarian Republic of),72000,2049
-VEN,Venezuela (Bolivarian Republic of),72000,2050
-ZWE,Zimbabwe,1249,2023
-ZWE,Zimbabwe,1249,2024
-ZWE,Zimbabwe,1249,2025
-ZWE,Zimbabwe,1249,2026
-ZWE,Zimbabwe,1249,2027
-ZWE,Zimbabwe,1249,2028
-ZWE,Zimbabwe,1249,2029
-ZWE,Zimbabwe,1249,2030
-ZWE,Zimbabwe,1249,2031
-ZWE,Zimbabwe,1249,2032
-ZWE,Zimbabwe,1249,2033
-ZWE,Zimbabwe,1249,2034
-ZWE,Zimbabwe,1249,2035
-ZWE,Zimbabwe,1249,2036
-ZWE,Zimbabwe,1249,2037
-ZWE,Zimbabwe,1249,2038
-ZWE,Zimbabwe,1249,2039
-ZWE,Zimbabwe,1249,2040
-ZWE,Zimbabwe,1249,2041
-ZWE,Zimbabwe,1249,2042
-ZWE,Zimbabwe,1249,2043
-ZWE,Zimbabwe,1249,2044
-ZWE,Zimbabwe,1249,2045
-ZWE,Zimbabwe,1249,2046
-ZWE,Zimbabwe,1249,2047
-ZWE,Zimbabwe,1249,2048
-ZWE,Zimbabwe,1249,2049
-ZWE,Zimbabwe,1249,2050
+iso_code3,Nation,Year,pop_lvst_initial_mules
+AFG,Afghanistan,2023,23968.0
+AFG,Afghanistan,2024,23968.0
+AFG,Afghanistan,2025,23968.0
+AFG,Afghanistan,2026,23968.0
+AFG,Afghanistan,2027,23968.0
+AFG,Afghanistan,2028,23968.0
+AFG,Afghanistan,2029,23968.0
+AFG,Afghanistan,2030,23968.0
+AFG,Afghanistan,2031,23968.0
+AFG,Afghanistan,2032,23968.0
+AFG,Afghanistan,2033,23968.0
+AFG,Afghanistan,2034,23968.0
+AFG,Afghanistan,2035,23968.0
+AFG,Afghanistan,2036,23968.0
+AFG,Afghanistan,2037,23968.0
+AFG,Afghanistan,2038,23968.0
+AFG,Afghanistan,2039,23968.0
+AFG,Afghanistan,2040,23968.0
+AFG,Afghanistan,2041,23968.0
+AFG,Afghanistan,2042,23968.0
+AFG,Afghanistan,2043,23968.0
+AFG,Afghanistan,2044,23968.0
+AFG,Afghanistan,2045,23968.0
+AFG,Afghanistan,2046,23968.0
+AFG,Afghanistan,2047,23968.0
+AFG,Afghanistan,2048,23968.0
+AFG,Afghanistan,2049,23968.0
+AFG,Afghanistan,2050,23968.0
+AGO,Angola,2023,0.0
+AGO,Angola,2024,0.0
+AGO,Angola,2025,0.0
+AGO,Angola,2026,0.0
+AGO,Angola,2027,0.0
+AGO,Angola,2028,0.0
+AGO,Angola,2029,0.0
+AGO,Angola,2030,0.0
+AGO,Angola,2031,0.0
+AGO,Angola,2032,0.0
+AGO,Angola,2033,0.0
+AGO,Angola,2034,0.0
+AGO,Angola,2035,0.0
+AGO,Angola,2036,0.0
+AGO,Angola,2037,0.0
+AGO,Angola,2038,0.0
+AGO,Angola,2039,0.0
+AGO,Angola,2040,0.0
+AGO,Angola,2041,0.0
+AGO,Angola,2042,0.0
+AGO,Angola,2043,0.0
+AGO,Angola,2044,0.0
+AGO,Angola,2045,0.0
+AGO,Angola,2046,0.0
+AGO,Angola,2047,0.0
+AGO,Angola,2048,0.0
+AGO,Angola,2049,0.0
+AGO,Angola,2050,0.0
+ALB,Albania,2023,0.0
+ALB,Albania,2024,0.0
+ALB,Albania,2025,0.0
+ALB,Albania,2026,0.0
+ALB,Albania,2027,0.0
+ALB,Albania,2028,0.0
+ALB,Albania,2029,0.0
+ALB,Albania,2030,0.0
+ALB,Albania,2031,0.0
+ALB,Albania,2032,0.0
+ALB,Albania,2033,0.0
+ALB,Albania,2034,0.0
+ALB,Albania,2035,0.0
+ALB,Albania,2036,0.0
+ALB,Albania,2037,0.0
+ALB,Albania,2038,0.0
+ALB,Albania,2039,0.0
+ALB,Albania,2040,0.0
+ALB,Albania,2041,0.0
+ALB,Albania,2042,0.0
+ALB,Albania,2043,0.0
+ALB,Albania,2044,0.0
+ALB,Albania,2045,0.0
+ALB,Albania,2046,0.0
+ALB,Albania,2047,0.0
+ALB,Albania,2048,0.0
+ALB,Albania,2049,0.0
+ALB,Albania,2050,0.0
+ARE,United Arab Emirates,2023,0.0
+ARE,United Arab Emirates,2024,0.0
+ARE,United Arab Emirates,2025,0.0
+ARE,United Arab Emirates,2026,0.0
+ARE,United Arab Emirates,2027,0.0
+ARE,United Arab Emirates,2028,0.0
+ARE,United Arab Emirates,2029,0.0
+ARE,United Arab Emirates,2030,0.0
+ARE,United Arab Emirates,2031,0.0
+ARE,United Arab Emirates,2032,0.0
+ARE,United Arab Emirates,2033,0.0
+ARE,United Arab Emirates,2034,0.0
+ARE,United Arab Emirates,2035,0.0
+ARE,United Arab Emirates,2036,0.0
+ARE,United Arab Emirates,2037,0.0
+ARE,United Arab Emirates,2038,0.0
+ARE,United Arab Emirates,2039,0.0
+ARE,United Arab Emirates,2040,0.0
+ARE,United Arab Emirates,2041,0.0
+ARE,United Arab Emirates,2042,0.0
+ARE,United Arab Emirates,2043,0.0
+ARE,United Arab Emirates,2044,0.0
+ARE,United Arab Emirates,2045,0.0
+ARE,United Arab Emirates,2046,0.0
+ARE,United Arab Emirates,2047,0.0
+ARE,United Arab Emirates,2048,0.0
+ARE,United Arab Emirates,2049,0.0
+ARE,United Arab Emirates,2050,0.0
+ARG,Argentina,2023,41930.0
+ARG,Argentina,2024,41930.0
+ARG,Argentina,2025,41930.0
+ARG,Argentina,2026,41930.0
+ARG,Argentina,2027,41930.0
+ARG,Argentina,2028,41930.0
+ARG,Argentina,2029,41930.0
+ARG,Argentina,2030,41930.0
+ARG,Argentina,2031,41930.0
+ARG,Argentina,2032,41930.0
+ARG,Argentina,2033,41930.0
+ARG,Argentina,2034,41930.0
+ARG,Argentina,2035,41930.0
+ARG,Argentina,2036,41930.0
+ARG,Argentina,2037,41930.0
+ARG,Argentina,2038,41930.0
+ARG,Argentina,2039,41930.0
+ARG,Argentina,2040,41930.0
+ARG,Argentina,2041,41930.0
+ARG,Argentina,2042,41930.0
+ARG,Argentina,2043,41930.0
+ARG,Argentina,2044,41930.0
+ARG,Argentina,2045,41930.0
+ARG,Argentina,2046,41930.0
+ARG,Argentina,2047,41930.0
+ARG,Argentina,2048,41930.0
+ARG,Argentina,2049,41930.0
+ARG,Argentina,2050,41930.0
+ARM,Armenia,2023,17.0
+ARM,Armenia,2024,17.0
+ARM,Armenia,2025,17.0
+ARM,Armenia,2026,17.0
+ARM,Armenia,2027,17.0
+ARM,Armenia,2028,17.0
+ARM,Armenia,2029,17.0
+ARM,Armenia,2030,17.0
+ARM,Armenia,2031,17.0
+ARM,Armenia,2032,17.0
+ARM,Armenia,2033,17.0
+ARM,Armenia,2034,17.0
+ARM,Armenia,2035,17.0
+ARM,Armenia,2036,17.0
+ARM,Armenia,2037,17.0
+ARM,Armenia,2038,17.0
+ARM,Armenia,2039,17.0
+ARM,Armenia,2040,17.0
+ARM,Armenia,2041,17.0
+ARM,Armenia,2042,17.0
+ARM,Armenia,2043,17.0
+ARM,Armenia,2044,17.0
+ARM,Armenia,2045,17.0
+ARM,Armenia,2046,17.0
+ARM,Armenia,2047,17.0
+ARM,Armenia,2048,17.0
+ARM,Armenia,2049,17.0
+ARM,Armenia,2050,17.0
+ATG,Antigua and Barbuda,2023,0.0
+ATG,Antigua and Barbuda,2024,0.0
+ATG,Antigua and Barbuda,2025,0.0
+ATG,Antigua and Barbuda,2026,0.0
+ATG,Antigua and Barbuda,2027,0.0
+ATG,Antigua and Barbuda,2028,0.0
+ATG,Antigua and Barbuda,2029,0.0
+ATG,Antigua and Barbuda,2030,0.0
+ATG,Antigua and Barbuda,2031,0.0
+ATG,Antigua and Barbuda,2032,0.0
+ATG,Antigua and Barbuda,2033,0.0
+ATG,Antigua and Barbuda,2034,0.0
+ATG,Antigua and Barbuda,2035,0.0
+ATG,Antigua and Barbuda,2036,0.0
+ATG,Antigua and Barbuda,2037,0.0
+ATG,Antigua and Barbuda,2038,0.0
+ATG,Antigua and Barbuda,2039,0.0
+ATG,Antigua and Barbuda,2040,0.0
+ATG,Antigua and Barbuda,2041,0.0
+ATG,Antigua and Barbuda,2042,0.0
+ATG,Antigua and Barbuda,2043,0.0
+ATG,Antigua and Barbuda,2044,0.0
+ATG,Antigua and Barbuda,2045,0.0
+ATG,Antigua and Barbuda,2046,0.0
+ATG,Antigua and Barbuda,2047,0.0
+ATG,Antigua and Barbuda,2048,0.0
+ATG,Antigua and Barbuda,2049,0.0
+ATG,Antigua and Barbuda,2050,0.0
+AUS,Australia,2023,0.0
+AUS,Australia,2024,0.0
+AUS,Australia,2025,0.0
+AUS,Australia,2026,0.0
+AUS,Australia,2027,0.0
+AUS,Australia,2028,0.0
+AUS,Australia,2029,0.0
+AUS,Australia,2030,0.0
+AUS,Australia,2031,0.0
+AUS,Australia,2032,0.0
+AUS,Australia,2033,0.0
+AUS,Australia,2034,0.0
+AUS,Australia,2035,0.0
+AUS,Australia,2036,0.0
+AUS,Australia,2037,0.0
+AUS,Australia,2038,0.0
+AUS,Australia,2039,0.0
+AUS,Australia,2040,0.0
+AUS,Australia,2041,0.0
+AUS,Australia,2042,0.0
+AUS,Australia,2043,0.0
+AUS,Australia,2044,0.0
+AUS,Australia,2045,0.0
+AUS,Australia,2046,0.0
+AUS,Australia,2047,0.0
+AUS,Australia,2048,0.0
+AUS,Australia,2049,0.0
+AUS,Australia,2050,0.0
+AUT,Austria,2023,0.0
+AUT,Austria,2024,0.0
+AUT,Austria,2025,0.0
+AUT,Austria,2026,0.0
+AUT,Austria,2027,0.0
+AUT,Austria,2028,0.0
+AUT,Austria,2029,0.0
+AUT,Austria,2030,0.0
+AUT,Austria,2031,0.0
+AUT,Austria,2032,0.0
+AUT,Austria,2033,0.0
+AUT,Austria,2034,0.0
+AUT,Austria,2035,0.0
+AUT,Austria,2036,0.0
+AUT,Austria,2037,0.0
+AUT,Austria,2038,0.0
+AUT,Austria,2039,0.0
+AUT,Austria,2040,0.0
+AUT,Austria,2041,0.0
+AUT,Austria,2042,0.0
+AUT,Austria,2043,0.0
+AUT,Austria,2044,0.0
+AUT,Austria,2045,0.0
+AUT,Austria,2046,0.0
+AUT,Austria,2047,0.0
+AUT,Austria,2048,0.0
+AUT,Austria,2049,0.0
+AUT,Austria,2050,0.0
+AZE,Azerbaijan,2023,54.0
+AZE,Azerbaijan,2024,54.0
+AZE,Azerbaijan,2025,54.0
+AZE,Azerbaijan,2026,54.0
+AZE,Azerbaijan,2027,54.0
+AZE,Azerbaijan,2028,54.0
+AZE,Azerbaijan,2029,54.0
+AZE,Azerbaijan,2030,54.0
+AZE,Azerbaijan,2031,54.0
+AZE,Azerbaijan,2032,54.0
+AZE,Azerbaijan,2033,54.0
+AZE,Azerbaijan,2034,54.0
+AZE,Azerbaijan,2035,54.0
+AZE,Azerbaijan,2036,54.0
+AZE,Azerbaijan,2037,54.0
+AZE,Azerbaijan,2038,54.0
+AZE,Azerbaijan,2039,54.0
+AZE,Azerbaijan,2040,54.0
+AZE,Azerbaijan,2041,54.0
+AZE,Azerbaijan,2042,54.0
+AZE,Azerbaijan,2043,54.0
+AZE,Azerbaijan,2044,54.0
+AZE,Azerbaijan,2045,54.0
+AZE,Azerbaijan,2046,54.0
+AZE,Azerbaijan,2047,54.0
+AZE,Azerbaijan,2048,54.0
+AZE,Azerbaijan,2049,54.0
+AZE,Azerbaijan,2050,54.0
+BDI,Burundi,2023,0.0
+BDI,Burundi,2024,0.0
+BDI,Burundi,2025,0.0
+BDI,Burundi,2026,0.0
+BDI,Burundi,2027,0.0
+BDI,Burundi,2028,0.0
+BDI,Burundi,2029,0.0
+BDI,Burundi,2030,0.0
+BDI,Burundi,2031,0.0
+BDI,Burundi,2032,0.0
+BDI,Burundi,2033,0.0
+BDI,Burundi,2034,0.0
+BDI,Burundi,2035,0.0
+BDI,Burundi,2036,0.0
+BDI,Burundi,2037,0.0
+BDI,Burundi,2038,0.0
+BDI,Burundi,2039,0.0
+BDI,Burundi,2040,0.0
+BDI,Burundi,2041,0.0
+BDI,Burundi,2042,0.0
+BDI,Burundi,2043,0.0
+BDI,Burundi,2044,0.0
+BDI,Burundi,2045,0.0
+BDI,Burundi,2046,0.0
+BDI,Burundi,2047,0.0
+BDI,Burundi,2048,0.0
+BDI,Burundi,2049,0.0
+BDI,Burundi,2050,0.0
+BEL,Belgium,2023,0.0
+BEL,Belgium,2024,0.0
+BEL,Belgium,2025,0.0
+BEL,Belgium,2026,0.0
+BEL,Belgium,2027,0.0
+BEL,Belgium,2028,0.0
+BEL,Belgium,2029,0.0
+BEL,Belgium,2030,0.0
+BEL,Belgium,2031,0.0
+BEL,Belgium,2032,0.0
+BEL,Belgium,2033,0.0
+BEL,Belgium,2034,0.0
+BEL,Belgium,2035,0.0
+BEL,Belgium,2036,0.0
+BEL,Belgium,2037,0.0
+BEL,Belgium,2038,0.0
+BEL,Belgium,2039,0.0
+BEL,Belgium,2040,0.0
+BEL,Belgium,2041,0.0
+BEL,Belgium,2042,0.0
+BEL,Belgium,2043,0.0
+BEL,Belgium,2044,0.0
+BEL,Belgium,2045,0.0
+BEL,Belgium,2046,0.0
+BEL,Belgium,2047,0.0
+BEL,Belgium,2048,0.0
+BEL,Belgium,2049,0.0
+BEL,Belgium,2050,0.0
+BEN,Benin,2023,0.0
+BEN,Benin,2024,0.0
+BEN,Benin,2025,0.0
+BEN,Benin,2026,0.0
+BEN,Benin,2027,0.0
+BEN,Benin,2028,0.0
+BEN,Benin,2029,0.0
+BEN,Benin,2030,0.0
+BEN,Benin,2031,0.0
+BEN,Benin,2032,0.0
+BEN,Benin,2033,0.0
+BEN,Benin,2034,0.0
+BEN,Benin,2035,0.0
+BEN,Benin,2036,0.0
+BEN,Benin,2037,0.0
+BEN,Benin,2038,0.0
+BEN,Benin,2039,0.0
+BEN,Benin,2040,0.0
+BEN,Benin,2041,0.0
+BEN,Benin,2042,0.0
+BEN,Benin,2043,0.0
+BEN,Benin,2044,0.0
+BEN,Benin,2045,0.0
+BEN,Benin,2046,0.0
+BEN,Benin,2047,0.0
+BEN,Benin,2048,0.0
+BEN,Benin,2049,0.0
+BEN,Benin,2050,0.0
+BFA,Burkina Faso,2023,0.0
+BFA,Burkina Faso,2024,0.0
+BFA,Burkina Faso,2025,0.0
+BFA,Burkina Faso,2026,0.0
+BFA,Burkina Faso,2027,0.0
+BFA,Burkina Faso,2028,0.0
+BFA,Burkina Faso,2029,0.0
+BFA,Burkina Faso,2030,0.0
+BFA,Burkina Faso,2031,0.0
+BFA,Burkina Faso,2032,0.0
+BFA,Burkina Faso,2033,0.0
+BFA,Burkina Faso,2034,0.0
+BFA,Burkina Faso,2035,0.0
+BFA,Burkina Faso,2036,0.0
+BFA,Burkina Faso,2037,0.0
+BFA,Burkina Faso,2038,0.0
+BFA,Burkina Faso,2039,0.0
+BFA,Burkina Faso,2040,0.0
+BFA,Burkina Faso,2041,0.0
+BFA,Burkina Faso,2042,0.0
+BFA,Burkina Faso,2043,0.0
+BFA,Burkina Faso,2044,0.0
+BFA,Burkina Faso,2045,0.0
+BFA,Burkina Faso,2046,0.0
+BFA,Burkina Faso,2047,0.0
+BFA,Burkina Faso,2048,0.0
+BFA,Burkina Faso,2049,0.0
+BFA,Burkina Faso,2050,0.0
+BGD,Bangladesh,2023,0.0
+BGD,Bangladesh,2024,0.0
+BGD,Bangladesh,2025,0.0
+BGD,Bangladesh,2026,0.0
+BGD,Bangladesh,2027,0.0
+BGD,Bangladesh,2028,0.0
+BGD,Bangladesh,2029,0.0
+BGD,Bangladesh,2030,0.0
+BGD,Bangladesh,2031,0.0
+BGD,Bangladesh,2032,0.0
+BGD,Bangladesh,2033,0.0
+BGD,Bangladesh,2034,0.0
+BGD,Bangladesh,2035,0.0
+BGD,Bangladesh,2036,0.0
+BGD,Bangladesh,2037,0.0
+BGD,Bangladesh,2038,0.0
+BGD,Bangladesh,2039,0.0
+BGD,Bangladesh,2040,0.0
+BGD,Bangladesh,2041,0.0
+BGD,Bangladesh,2042,0.0
+BGD,Bangladesh,2043,0.0
+BGD,Bangladesh,2044,0.0
+BGD,Bangladesh,2045,0.0
+BGD,Bangladesh,2046,0.0
+BGD,Bangladesh,2047,0.0
+BGD,Bangladesh,2048,0.0
+BGD,Bangladesh,2049,0.0
+BGD,Bangladesh,2050,0.0
+BGR,Bulgaria,2023,0.0
+BGR,Bulgaria,2024,0.0
+BGR,Bulgaria,2025,0.0
+BGR,Bulgaria,2026,0.0
+BGR,Bulgaria,2027,0.0
+BGR,Bulgaria,2028,0.0
+BGR,Bulgaria,2029,0.0
+BGR,Bulgaria,2030,0.0
+BGR,Bulgaria,2031,0.0
+BGR,Bulgaria,2032,0.0
+BGR,Bulgaria,2033,0.0
+BGR,Bulgaria,2034,0.0
+BGR,Bulgaria,2035,0.0
+BGR,Bulgaria,2036,0.0
+BGR,Bulgaria,2037,0.0
+BGR,Bulgaria,2038,0.0
+BGR,Bulgaria,2039,0.0
+BGR,Bulgaria,2040,0.0
+BGR,Bulgaria,2041,0.0
+BGR,Bulgaria,2042,0.0
+BGR,Bulgaria,2043,0.0
+BGR,Bulgaria,2044,0.0
+BGR,Bulgaria,2045,0.0
+BGR,Bulgaria,2046,0.0
+BGR,Bulgaria,2047,0.0
+BGR,Bulgaria,2048,0.0
+BGR,Bulgaria,2049,0.0
+BGR,Bulgaria,2050,0.0
+BHR,Bahrain,2023,0.0
+BHR,Bahrain,2024,0.0
+BHR,Bahrain,2025,0.0
+BHR,Bahrain,2026,0.0
+BHR,Bahrain,2027,0.0
+BHR,Bahrain,2028,0.0
+BHR,Bahrain,2029,0.0
+BHR,Bahrain,2030,0.0
+BHR,Bahrain,2031,0.0
+BHR,Bahrain,2032,0.0
+BHR,Bahrain,2033,0.0
+BHR,Bahrain,2034,0.0
+BHR,Bahrain,2035,0.0
+BHR,Bahrain,2036,0.0
+BHR,Bahrain,2037,0.0
+BHR,Bahrain,2038,0.0
+BHR,Bahrain,2039,0.0
+BHR,Bahrain,2040,0.0
+BHR,Bahrain,2041,0.0
+BHR,Bahrain,2042,0.0
+BHR,Bahrain,2043,0.0
+BHR,Bahrain,2044,0.0
+BHR,Bahrain,2045,0.0
+BHR,Bahrain,2046,0.0
+BHR,Bahrain,2047,0.0
+BHR,Bahrain,2048,0.0
+BHR,Bahrain,2049,0.0
+BHR,Bahrain,2050,0.0
+BHS,Bahamas,2023,0.0
+BHS,Bahamas,2024,0.0
+BHS,Bahamas,2025,0.0
+BHS,Bahamas,2026,0.0
+BHS,Bahamas,2027,0.0
+BHS,Bahamas,2028,0.0
+BHS,Bahamas,2029,0.0
+BHS,Bahamas,2030,0.0
+BHS,Bahamas,2031,0.0
+BHS,Bahamas,2032,0.0
+BHS,Bahamas,2033,0.0
+BHS,Bahamas,2034,0.0
+BHS,Bahamas,2035,0.0
+BHS,Bahamas,2036,0.0
+BHS,Bahamas,2037,0.0
+BHS,Bahamas,2038,0.0
+BHS,Bahamas,2039,0.0
+BHS,Bahamas,2040,0.0
+BHS,Bahamas,2041,0.0
+BHS,Bahamas,2042,0.0
+BHS,Bahamas,2043,0.0
+BHS,Bahamas,2044,0.0
+BHS,Bahamas,2045,0.0
+BHS,Bahamas,2046,0.0
+BHS,Bahamas,2047,0.0
+BHS,Bahamas,2048,0.0
+BHS,Bahamas,2049,0.0
+BHS,Bahamas,2050,0.0
+BIH,Bosnia and Herzegovina,2023,0.0
+BIH,Bosnia and Herzegovina,2024,0.0
+BIH,Bosnia and Herzegovina,2025,0.0
+BIH,Bosnia and Herzegovina,2026,0.0
+BIH,Bosnia and Herzegovina,2027,0.0
+BIH,Bosnia and Herzegovina,2028,0.0
+BIH,Bosnia and Herzegovina,2029,0.0
+BIH,Bosnia and Herzegovina,2030,0.0
+BIH,Bosnia and Herzegovina,2031,0.0
+BIH,Bosnia and Herzegovina,2032,0.0
+BIH,Bosnia and Herzegovina,2033,0.0
+BIH,Bosnia and Herzegovina,2034,0.0
+BIH,Bosnia and Herzegovina,2035,0.0
+BIH,Bosnia and Herzegovina,2036,0.0
+BIH,Bosnia and Herzegovina,2037,0.0
+BIH,Bosnia and Herzegovina,2038,0.0
+BIH,Bosnia and Herzegovina,2039,0.0
+BIH,Bosnia and Herzegovina,2040,0.0
+BIH,Bosnia and Herzegovina,2041,0.0
+BIH,Bosnia and Herzegovina,2042,0.0
+BIH,Bosnia and Herzegovina,2043,0.0
+BIH,Bosnia and Herzegovina,2044,0.0
+BIH,Bosnia and Herzegovina,2045,0.0
+BIH,Bosnia and Herzegovina,2046,0.0
+BIH,Bosnia and Herzegovina,2047,0.0
+BIH,Bosnia and Herzegovina,2048,0.0
+BIH,Bosnia and Herzegovina,2049,0.0
+BIH,Bosnia and Herzegovina,2050,0.0
+BLR,Belarus,2023,0.0
+BLR,Belarus,2024,0.0
+BLR,Belarus,2025,0.0
+BLR,Belarus,2026,0.0
+BLR,Belarus,2027,0.0
+BLR,Belarus,2028,0.0
+BLR,Belarus,2029,0.0
+BLR,Belarus,2030,0.0
+BLR,Belarus,2031,0.0
+BLR,Belarus,2032,0.0
+BLR,Belarus,2033,0.0
+BLR,Belarus,2034,0.0
+BLR,Belarus,2035,0.0
+BLR,Belarus,2036,0.0
+BLR,Belarus,2037,0.0
+BLR,Belarus,2038,0.0
+BLR,Belarus,2039,0.0
+BLR,Belarus,2040,0.0
+BLR,Belarus,2041,0.0
+BLR,Belarus,2042,0.0
+BLR,Belarus,2043,0.0
+BLR,Belarus,2044,0.0
+BLR,Belarus,2045,0.0
+BLR,Belarus,2046,0.0
+BLR,Belarus,2047,0.0
+BLR,Belarus,2048,0.0
+BLR,Belarus,2049,0.0
+BLR,Belarus,2050,0.0
+BLZ,Belize,2023,4587.0
+BLZ,Belize,2024,4587.0
+BLZ,Belize,2025,4587.0
+BLZ,Belize,2026,4587.0
+BLZ,Belize,2027,4587.0
+BLZ,Belize,2028,4587.0
+BLZ,Belize,2029,4587.0
+BLZ,Belize,2030,4587.0
+BLZ,Belize,2031,4587.0
+BLZ,Belize,2032,4587.0
+BLZ,Belize,2033,4587.0
+BLZ,Belize,2034,4587.0
+BLZ,Belize,2035,4587.0
+BLZ,Belize,2036,4587.0
+BLZ,Belize,2037,4587.0
+BLZ,Belize,2038,4587.0
+BLZ,Belize,2039,4587.0
+BLZ,Belize,2040,4587.0
+BLZ,Belize,2041,4587.0
+BLZ,Belize,2042,4587.0
+BLZ,Belize,2043,4587.0
+BLZ,Belize,2044,4587.0
+BLZ,Belize,2045,4587.0
+BLZ,Belize,2046,4587.0
+BLZ,Belize,2047,4587.0
+BLZ,Belize,2048,4587.0
+BLZ,Belize,2049,4587.0
+BLZ,Belize,2050,4587.0
+BOL,Bolivia (Plurinational State of),2023,83171.0
+BOL,Bolivia (Plurinational State of),2024,83171.0
+BOL,Bolivia (Plurinational State of),2025,83171.0
+BOL,Bolivia (Plurinational State of),2026,83171.0
+BOL,Bolivia (Plurinational State of),2027,83171.0
+BOL,Bolivia (Plurinational State of),2028,83171.0
+BOL,Bolivia (Plurinational State of),2029,83171.0
+BOL,Bolivia (Plurinational State of),2030,83171.0
+BOL,Bolivia (Plurinational State of),2031,83171.0
+BOL,Bolivia (Plurinational State of),2032,83171.0
+BOL,Bolivia (Plurinational State of),2033,83171.0
+BOL,Bolivia (Plurinational State of),2034,83171.0
+BOL,Bolivia (Plurinational State of),2035,83171.0
+BOL,Bolivia (Plurinational State of),2036,83171.0
+BOL,Bolivia (Plurinational State of),2037,83171.0
+BOL,Bolivia (Plurinational State of),2038,83171.0
+BOL,Bolivia (Plurinational State of),2039,83171.0
+BOL,Bolivia (Plurinational State of),2040,83171.0
+BOL,Bolivia (Plurinational State of),2041,83171.0
+BOL,Bolivia (Plurinational State of),2042,83171.0
+BOL,Bolivia (Plurinational State of),2043,83171.0
+BOL,Bolivia (Plurinational State of),2044,83171.0
+BOL,Bolivia (Plurinational State of),2045,83171.0
+BOL,Bolivia (Plurinational State of),2046,83171.0
+BOL,Bolivia (Plurinational State of),2047,83171.0
+BOL,Bolivia (Plurinational State of),2048,83171.0
+BOL,Bolivia (Plurinational State of),2049,83171.0
+BOL,Bolivia (Plurinational State of),2050,83171.0
+BRA,Brazil,2023,1185419.0
+BRA,Brazil,2024,1185419.0
+BRA,Brazil,2025,1185419.0
+BRA,Brazil,2026,1185419.0
+BRA,Brazil,2027,1185419.0
+BRA,Brazil,2028,1185419.0
+BRA,Brazil,2029,1185419.0
+BRA,Brazil,2030,1185419.0
+BRA,Brazil,2031,1185419.0
+BRA,Brazil,2032,1185419.0
+BRA,Brazil,2033,1185419.0
+BRA,Brazil,2034,1185419.0
+BRA,Brazil,2035,1185419.0
+BRA,Brazil,2036,1185419.0
+BRA,Brazil,2037,1185419.0
+BRA,Brazil,2038,1185419.0
+BRA,Brazil,2039,1185419.0
+BRA,Brazil,2040,1185419.0
+BRA,Brazil,2041,1185419.0
+BRA,Brazil,2042,1185419.0
+BRA,Brazil,2043,1185419.0
+BRA,Brazil,2044,1185419.0
+BRA,Brazil,2045,1185419.0
+BRA,Brazil,2046,1185419.0
+BRA,Brazil,2047,1185419.0
+BRA,Brazil,2048,1185419.0
+BRA,Brazil,2049,1185419.0
+BRA,Brazil,2050,1185419.0
+BRB,Barbados,2023,2000.0
+BRB,Barbados,2024,2000.0
+BRB,Barbados,2025,2000.0
+BRB,Barbados,2026,2000.0
+BRB,Barbados,2027,2000.0
+BRB,Barbados,2028,2000.0
+BRB,Barbados,2029,2000.0
+BRB,Barbados,2030,2000.0
+BRB,Barbados,2031,2000.0
+BRB,Barbados,2032,2000.0
+BRB,Barbados,2033,2000.0
+BRB,Barbados,2034,2000.0
+BRB,Barbados,2035,2000.0
+BRB,Barbados,2036,2000.0
+BRB,Barbados,2037,2000.0
+BRB,Barbados,2038,2000.0
+BRB,Barbados,2039,2000.0
+BRB,Barbados,2040,2000.0
+BRB,Barbados,2041,2000.0
+BRB,Barbados,2042,2000.0
+BRB,Barbados,2043,2000.0
+BRB,Barbados,2044,2000.0
+BRB,Barbados,2045,2000.0
+BRB,Barbados,2046,2000.0
+BRB,Barbados,2047,2000.0
+BRB,Barbados,2048,2000.0
+BRB,Barbados,2049,2000.0
+BRB,Barbados,2050,2000.0
+BRN,Brunei Darussalam,2023,0.0
+BRN,Brunei Darussalam,2024,0.0
+BRN,Brunei Darussalam,2025,0.0
+BRN,Brunei Darussalam,2026,0.0
+BRN,Brunei Darussalam,2027,0.0
+BRN,Brunei Darussalam,2028,0.0
+BRN,Brunei Darussalam,2029,0.0
+BRN,Brunei Darussalam,2030,0.0
+BRN,Brunei Darussalam,2031,0.0
+BRN,Brunei Darussalam,2032,0.0
+BRN,Brunei Darussalam,2033,0.0
+BRN,Brunei Darussalam,2034,0.0
+BRN,Brunei Darussalam,2035,0.0
+BRN,Brunei Darussalam,2036,0.0
+BRN,Brunei Darussalam,2037,0.0
+BRN,Brunei Darussalam,2038,0.0
+BRN,Brunei Darussalam,2039,0.0
+BRN,Brunei Darussalam,2040,0.0
+BRN,Brunei Darussalam,2041,0.0
+BRN,Brunei Darussalam,2042,0.0
+BRN,Brunei Darussalam,2043,0.0
+BRN,Brunei Darussalam,2044,0.0
+BRN,Brunei Darussalam,2045,0.0
+BRN,Brunei Darussalam,2046,0.0
+BRN,Brunei Darussalam,2047,0.0
+BRN,Brunei Darussalam,2048,0.0
+BRN,Brunei Darussalam,2049,0.0
+BRN,Brunei Darussalam,2050,0.0
+BTN,Bhutan,2023,4979.0
+BTN,Bhutan,2024,4979.0
+BTN,Bhutan,2025,4979.0
+BTN,Bhutan,2026,4979.0
+BTN,Bhutan,2027,4979.0
+BTN,Bhutan,2028,4979.0
+BTN,Bhutan,2029,4979.0
+BTN,Bhutan,2030,4979.0
+BTN,Bhutan,2031,4979.0
+BTN,Bhutan,2032,4979.0
+BTN,Bhutan,2033,4979.0
+BTN,Bhutan,2034,4979.0
+BTN,Bhutan,2035,4979.0
+BTN,Bhutan,2036,4979.0
+BTN,Bhutan,2037,4979.0
+BTN,Bhutan,2038,4979.0
+BTN,Bhutan,2039,4979.0
+BTN,Bhutan,2040,4979.0
+BTN,Bhutan,2041,4979.0
+BTN,Bhutan,2042,4979.0
+BTN,Bhutan,2043,4979.0
+BTN,Bhutan,2044,4979.0
+BTN,Bhutan,2045,4979.0
+BTN,Bhutan,2046,4979.0
+BTN,Bhutan,2047,4979.0
+BTN,Bhutan,2048,4979.0
+BTN,Bhutan,2049,4979.0
+BTN,Bhutan,2050,4979.0
+BWA,Botswana,2023,3340.0
+BWA,Botswana,2024,3340.0
+BWA,Botswana,2025,3340.0
+BWA,Botswana,2026,3340.0
+BWA,Botswana,2027,3340.0
+BWA,Botswana,2028,3340.0
+BWA,Botswana,2029,3340.0
+BWA,Botswana,2030,3340.0
+BWA,Botswana,2031,3340.0
+BWA,Botswana,2032,3340.0
+BWA,Botswana,2033,3340.0
+BWA,Botswana,2034,3340.0
+BWA,Botswana,2035,3340.0
+BWA,Botswana,2036,3340.0
+BWA,Botswana,2037,3340.0
+BWA,Botswana,2038,3340.0
+BWA,Botswana,2039,3340.0
+BWA,Botswana,2040,3340.0
+BWA,Botswana,2041,3340.0
+BWA,Botswana,2042,3340.0
+BWA,Botswana,2043,3340.0
+BWA,Botswana,2044,3340.0
+BWA,Botswana,2045,3340.0
+BWA,Botswana,2046,3340.0
+BWA,Botswana,2047,3340.0
+BWA,Botswana,2048,3340.0
+BWA,Botswana,2049,3340.0
+BWA,Botswana,2050,3340.0
+CAF,Central African Republic,2023,0.0
+CAF,Central African Republic,2024,0.0
+CAF,Central African Republic,2025,0.0
+CAF,Central African Republic,2026,0.0
+CAF,Central African Republic,2027,0.0
+CAF,Central African Republic,2028,0.0
+CAF,Central African Republic,2029,0.0
+CAF,Central African Republic,2030,0.0
+CAF,Central African Republic,2031,0.0
+CAF,Central African Republic,2032,0.0
+CAF,Central African Republic,2033,0.0
+CAF,Central African Republic,2034,0.0
+CAF,Central African Republic,2035,0.0
+CAF,Central African Republic,2036,0.0
+CAF,Central African Republic,2037,0.0
+CAF,Central African Republic,2038,0.0
+CAF,Central African Republic,2039,0.0
+CAF,Central African Republic,2040,0.0
+CAF,Central African Republic,2041,0.0
+CAF,Central African Republic,2042,0.0
+CAF,Central African Republic,2043,0.0
+CAF,Central African Republic,2044,0.0
+CAF,Central African Republic,2045,0.0
+CAF,Central African Republic,2046,0.0
+CAF,Central African Republic,2047,0.0
+CAF,Central African Republic,2048,0.0
+CAF,Central African Republic,2049,0.0
+CAF,Central African Republic,2050,0.0
+CAN,Canada,2023,4000.0
+CAN,Canada,2024,4000.0
+CAN,Canada,2025,4000.0
+CAN,Canada,2026,4000.0
+CAN,Canada,2027,4000.0
+CAN,Canada,2028,4000.0
+CAN,Canada,2029,4000.0
+CAN,Canada,2030,4000.0
+CAN,Canada,2031,4000.0
+CAN,Canada,2032,4000.0
+CAN,Canada,2033,4000.0
+CAN,Canada,2034,4000.0
+CAN,Canada,2035,4000.0
+CAN,Canada,2036,4000.0
+CAN,Canada,2037,4000.0
+CAN,Canada,2038,4000.0
+CAN,Canada,2039,4000.0
+CAN,Canada,2040,4000.0
+CAN,Canada,2041,4000.0
+CAN,Canada,2042,4000.0
+CAN,Canada,2043,4000.0
+CAN,Canada,2044,4000.0
+CAN,Canada,2045,4000.0
+CAN,Canada,2046,4000.0
+CAN,Canada,2047,4000.0
+CAN,Canada,2048,4000.0
+CAN,Canada,2049,4000.0
+CAN,Canada,2050,4000.0
+CHE,Switzerland,2023,770.0
+CHE,Switzerland,2024,770.0
+CHE,Switzerland,2025,770.0
+CHE,Switzerland,2026,770.0
+CHE,Switzerland,2027,770.0
+CHE,Switzerland,2028,770.0
+CHE,Switzerland,2029,770.0
+CHE,Switzerland,2030,770.0
+CHE,Switzerland,2031,770.0
+CHE,Switzerland,2032,770.0
+CHE,Switzerland,2033,770.0
+CHE,Switzerland,2034,770.0
+CHE,Switzerland,2035,770.0
+CHE,Switzerland,2036,770.0
+CHE,Switzerland,2037,770.0
+CHE,Switzerland,2038,770.0
+CHE,Switzerland,2039,770.0
+CHE,Switzerland,2040,770.0
+CHE,Switzerland,2041,770.0
+CHE,Switzerland,2042,770.0
+CHE,Switzerland,2043,770.0
+CHE,Switzerland,2044,770.0
+CHE,Switzerland,2045,770.0
+CHE,Switzerland,2046,770.0
+CHE,Switzerland,2047,770.0
+CHE,Switzerland,2048,770.0
+CHE,Switzerland,2049,770.0
+CHE,Switzerland,2050,770.0
+CHL,Chile,2023,6760.0
+CHL,Chile,2024,6760.0
+CHL,Chile,2025,6760.0
+CHL,Chile,2026,6760.0
+CHL,Chile,2027,6760.0
+CHL,Chile,2028,6760.0
+CHL,Chile,2029,6760.0
+CHL,Chile,2030,6760.0
+CHL,Chile,2031,6760.0
+CHL,Chile,2032,6760.0
+CHL,Chile,2033,6760.0
+CHL,Chile,2034,6760.0
+CHL,Chile,2035,6760.0
+CHL,Chile,2036,6760.0
+CHL,Chile,2037,6760.0
+CHL,Chile,2038,6760.0
+CHL,Chile,2039,6760.0
+CHL,Chile,2040,6760.0
+CHL,Chile,2041,6760.0
+CHL,Chile,2042,6760.0
+CHL,Chile,2043,6760.0
+CHL,Chile,2044,6760.0
+CHL,Chile,2045,6760.0
+CHL,Chile,2046,6760.0
+CHL,Chile,2047,6760.0
+CHL,Chile,2048,6760.0
+CHL,Chile,2049,6760.0
+CHL,Chile,2050,6760.0
+CHN,"China, mainland",2023,488000.0
+CHN,"China, mainland",2024,488000.0
+CHN,"China, mainland",2025,488000.0
+CHN,"China, mainland",2026,488000.0
+CHN,"China, mainland",2027,488000.0
+CHN,"China, mainland",2028,488000.0
+CHN,"China, mainland",2029,488000.0
+CHN,"China, mainland",2030,488000.0
+CHN,"China, mainland",2031,488000.0
+CHN,"China, mainland",2032,488000.0
+CHN,"China, mainland",2033,488000.0
+CHN,"China, mainland",2034,488000.0
+CHN,"China, mainland",2035,488000.0
+CHN,"China, mainland",2036,488000.0
+CHN,"China, mainland",2037,488000.0
+CHN,"China, mainland",2038,488000.0
+CHN,"China, mainland",2039,488000.0
+CHN,"China, mainland",2040,488000.0
+CHN,"China, mainland",2041,488000.0
+CHN,"China, mainland",2042,488000.0
+CHN,"China, mainland",2043,488000.0
+CHN,"China, mainland",2044,488000.0
+CHN,"China, mainland",2045,488000.0
+CHN,"China, mainland",2046,488000.0
+CHN,"China, mainland",2047,488000.0
+CHN,"China, mainland",2048,488000.0
+CHN,"China, mainland",2049,488000.0
+CHN,"China, mainland",2050,488000.0
+CIV,Côte d'Ivoire,2023,0.0
+CIV,Côte d'Ivoire,2024,0.0
+CIV,Côte d'Ivoire,2025,0.0
+CIV,Côte d'Ivoire,2026,0.0
+CIV,Côte d'Ivoire,2027,0.0
+CIV,Côte d'Ivoire,2028,0.0
+CIV,Côte d'Ivoire,2029,0.0
+CIV,Côte d'Ivoire,2030,0.0
+CIV,Côte d'Ivoire,2031,0.0
+CIV,Côte d'Ivoire,2032,0.0
+CIV,Côte d'Ivoire,2033,0.0
+CIV,Côte d'Ivoire,2034,0.0
+CIV,Côte d'Ivoire,2035,0.0
+CIV,Côte d'Ivoire,2036,0.0
+CIV,Côte d'Ivoire,2037,0.0
+CIV,Côte d'Ivoire,2038,0.0
+CIV,Côte d'Ivoire,2039,0.0
+CIV,Côte d'Ivoire,2040,0.0
+CIV,Côte d'Ivoire,2041,0.0
+CIV,Côte d'Ivoire,2042,0.0
+CIV,Côte d'Ivoire,2043,0.0
+CIV,Côte d'Ivoire,2044,0.0
+CIV,Côte d'Ivoire,2045,0.0
+CIV,Côte d'Ivoire,2046,0.0
+CIV,Côte d'Ivoire,2047,0.0
+CIV,Côte d'Ivoire,2048,0.0
+CIV,Côte d'Ivoire,2049,0.0
+CIV,Côte d'Ivoire,2050,0.0
+CMR,Cameroon,2023,0.0
+CMR,Cameroon,2024,0.0
+CMR,Cameroon,2025,0.0
+CMR,Cameroon,2026,0.0
+CMR,Cameroon,2027,0.0
+CMR,Cameroon,2028,0.0
+CMR,Cameroon,2029,0.0
+CMR,Cameroon,2030,0.0
+CMR,Cameroon,2031,0.0
+CMR,Cameroon,2032,0.0
+CMR,Cameroon,2033,0.0
+CMR,Cameroon,2034,0.0
+CMR,Cameroon,2035,0.0
+CMR,Cameroon,2036,0.0
+CMR,Cameroon,2037,0.0
+CMR,Cameroon,2038,0.0
+CMR,Cameroon,2039,0.0
+CMR,Cameroon,2040,0.0
+CMR,Cameroon,2041,0.0
+CMR,Cameroon,2042,0.0
+CMR,Cameroon,2043,0.0
+CMR,Cameroon,2044,0.0
+CMR,Cameroon,2045,0.0
+CMR,Cameroon,2046,0.0
+CMR,Cameroon,2047,0.0
+CMR,Cameroon,2048,0.0
+CMR,Cameroon,2049,0.0
+CMR,Cameroon,2050,0.0
+COD,Democratic Republic of the Congo,2023,0.0
+COD,Democratic Republic of the Congo,2024,0.0
+COD,Democratic Republic of the Congo,2025,0.0
+COD,Democratic Republic of the Congo,2026,0.0
+COD,Democratic Republic of the Congo,2027,0.0
+COD,Democratic Republic of the Congo,2028,0.0
+COD,Democratic Republic of the Congo,2029,0.0
+COD,Democratic Republic of the Congo,2030,0.0
+COD,Democratic Republic of the Congo,2031,0.0
+COD,Democratic Republic of the Congo,2032,0.0
+COD,Democratic Republic of the Congo,2033,0.0
+COD,Democratic Republic of the Congo,2034,0.0
+COD,Democratic Republic of the Congo,2035,0.0
+COD,Democratic Republic of the Congo,2036,0.0
+COD,Democratic Republic of the Congo,2037,0.0
+COD,Democratic Republic of the Congo,2038,0.0
+COD,Democratic Republic of the Congo,2039,0.0
+COD,Democratic Republic of the Congo,2040,0.0
+COD,Democratic Republic of the Congo,2041,0.0
+COD,Democratic Republic of the Congo,2042,0.0
+COD,Democratic Republic of the Congo,2043,0.0
+COD,Democratic Republic of the Congo,2044,0.0
+COD,Democratic Republic of the Congo,2045,0.0
+COD,Democratic Republic of the Congo,2046,0.0
+COD,Democratic Republic of the Congo,2047,0.0
+COD,Democratic Republic of the Congo,2048,0.0
+COD,Democratic Republic of the Congo,2049,0.0
+COD,Democratic Republic of the Congo,2050,0.0
+COG,Congo,2023,0.0
+COG,Congo,2024,0.0
+COG,Congo,2025,0.0
+COG,Congo,2026,0.0
+COG,Congo,2027,0.0
+COG,Congo,2028,0.0
+COG,Congo,2029,0.0
+COG,Congo,2030,0.0
+COG,Congo,2031,0.0
+COG,Congo,2032,0.0
+COG,Congo,2033,0.0
+COG,Congo,2034,0.0
+COG,Congo,2035,0.0
+COG,Congo,2036,0.0
+COG,Congo,2037,0.0
+COG,Congo,2038,0.0
+COG,Congo,2039,0.0
+COG,Congo,2040,0.0
+COG,Congo,2041,0.0
+COG,Congo,2042,0.0
+COG,Congo,2043,0.0
+COG,Congo,2044,0.0
+COG,Congo,2045,0.0
+COG,Congo,2046,0.0
+COG,Congo,2047,0.0
+COG,Congo,2048,0.0
+COG,Congo,2049,0.0
+COG,Congo,2050,0.0
+COK,Cook Islands,2023,0.0
+COK,Cook Islands,2024,0.0
+COK,Cook Islands,2025,0.0
+COK,Cook Islands,2026,0.0
+COK,Cook Islands,2027,0.0
+COK,Cook Islands,2028,0.0
+COK,Cook Islands,2029,0.0
+COK,Cook Islands,2030,0.0
+COK,Cook Islands,2031,0.0
+COK,Cook Islands,2032,0.0
+COK,Cook Islands,2033,0.0
+COK,Cook Islands,2034,0.0
+COK,Cook Islands,2035,0.0
+COK,Cook Islands,2036,0.0
+COK,Cook Islands,2037,0.0
+COK,Cook Islands,2038,0.0
+COK,Cook Islands,2039,0.0
+COK,Cook Islands,2040,0.0
+COK,Cook Islands,2041,0.0
+COK,Cook Islands,2042,0.0
+COK,Cook Islands,2043,0.0
+COK,Cook Islands,2044,0.0
+COK,Cook Islands,2045,0.0
+COK,Cook Islands,2046,0.0
+COK,Cook Islands,2047,0.0
+COK,Cook Islands,2048,0.0
+COK,Cook Islands,2049,0.0
+COK,Cook Islands,2050,0.0
+COL,Colombia,2023,173875.0
+COL,Colombia,2024,173875.0
+COL,Colombia,2025,173875.0
+COL,Colombia,2026,173875.0
+COL,Colombia,2027,173875.0
+COL,Colombia,2028,173875.0
+COL,Colombia,2029,173875.0
+COL,Colombia,2030,173875.0
+COL,Colombia,2031,173875.0
+COL,Colombia,2032,173875.0
+COL,Colombia,2033,173875.0
+COL,Colombia,2034,173875.0
+COL,Colombia,2035,173875.0
+COL,Colombia,2036,173875.0
+COL,Colombia,2037,173875.0
+COL,Colombia,2038,173875.0
+COL,Colombia,2039,173875.0
+COL,Colombia,2040,173875.0
+COL,Colombia,2041,173875.0
+COL,Colombia,2042,173875.0
+COL,Colombia,2043,173875.0
+COL,Colombia,2044,173875.0
+COL,Colombia,2045,173875.0
+COL,Colombia,2046,173875.0
+COL,Colombia,2047,173875.0
+COL,Colombia,2048,173875.0
+COL,Colombia,2049,173875.0
+COL,Colombia,2050,173875.0
+COM,Comoros,2023,0.0
+COM,Comoros,2024,0.0
+COM,Comoros,2025,0.0
+COM,Comoros,2026,0.0
+COM,Comoros,2027,0.0
+COM,Comoros,2028,0.0
+COM,Comoros,2029,0.0
+COM,Comoros,2030,0.0
+COM,Comoros,2031,0.0
+COM,Comoros,2032,0.0
+COM,Comoros,2033,0.0
+COM,Comoros,2034,0.0
+COM,Comoros,2035,0.0
+COM,Comoros,2036,0.0
+COM,Comoros,2037,0.0
+COM,Comoros,2038,0.0
+COM,Comoros,2039,0.0
+COM,Comoros,2040,0.0
+COM,Comoros,2041,0.0
+COM,Comoros,2042,0.0
+COM,Comoros,2043,0.0
+COM,Comoros,2044,0.0
+COM,Comoros,2045,0.0
+COM,Comoros,2046,0.0
+COM,Comoros,2047,0.0
+COM,Comoros,2048,0.0
+COM,Comoros,2049,0.0
+COM,Comoros,2050,0.0
+CPV,Cabo Verde,2023,1933.0
+CPV,Cabo Verde,2024,1933.0
+CPV,Cabo Verde,2025,1933.0
+CPV,Cabo Verde,2026,1933.0
+CPV,Cabo Verde,2027,1933.0
+CPV,Cabo Verde,2028,1933.0
+CPV,Cabo Verde,2029,1933.0
+CPV,Cabo Verde,2030,1933.0
+CPV,Cabo Verde,2031,1933.0
+CPV,Cabo Verde,2032,1933.0
+CPV,Cabo Verde,2033,1933.0
+CPV,Cabo Verde,2034,1933.0
+CPV,Cabo Verde,2035,1933.0
+CPV,Cabo Verde,2036,1933.0
+CPV,Cabo Verde,2037,1933.0
+CPV,Cabo Verde,2038,1933.0
+CPV,Cabo Verde,2039,1933.0
+CPV,Cabo Verde,2040,1933.0
+CPV,Cabo Verde,2041,1933.0
+CPV,Cabo Verde,2042,1933.0
+CPV,Cabo Verde,2043,1933.0
+CPV,Cabo Verde,2044,1933.0
+CPV,Cabo Verde,2045,1933.0
+CPV,Cabo Verde,2046,1933.0
+CPV,Cabo Verde,2047,1933.0
+CPV,Cabo Verde,2048,1933.0
+CPV,Cabo Verde,2049,1933.0
+CPV,Cabo Verde,2050,1933.0
+CRI,Costa Rica,2023,4938.0
+CRI,Costa Rica,2024,4938.0
+CRI,Costa Rica,2025,4938.0
+CRI,Costa Rica,2026,4938.0
+CRI,Costa Rica,2027,4938.0
+CRI,Costa Rica,2028,4938.0
+CRI,Costa Rica,2029,4938.0
+CRI,Costa Rica,2030,4938.0
+CRI,Costa Rica,2031,4938.0
+CRI,Costa Rica,2032,4938.0
+CRI,Costa Rica,2033,4938.0
+CRI,Costa Rica,2034,4938.0
+CRI,Costa Rica,2035,4938.0
+CRI,Costa Rica,2036,4938.0
+CRI,Costa Rica,2037,4938.0
+CRI,Costa Rica,2038,4938.0
+CRI,Costa Rica,2039,4938.0
+CRI,Costa Rica,2040,4938.0
+CRI,Costa Rica,2041,4938.0
+CRI,Costa Rica,2042,4938.0
+CRI,Costa Rica,2043,4938.0
+CRI,Costa Rica,2044,4938.0
+CRI,Costa Rica,2045,4938.0
+CRI,Costa Rica,2046,4938.0
+CRI,Costa Rica,2047,4938.0
+CRI,Costa Rica,2048,4938.0
+CRI,Costa Rica,2049,4938.0
+CRI,Costa Rica,2050,4938.0
+CUB,Cuba,2023,21600.0
+CUB,Cuba,2024,21600.0
+CUB,Cuba,2025,21600.0
+CUB,Cuba,2026,21600.0
+CUB,Cuba,2027,21600.0
+CUB,Cuba,2028,21600.0
+CUB,Cuba,2029,21600.0
+CUB,Cuba,2030,21600.0
+CUB,Cuba,2031,21600.0
+CUB,Cuba,2032,21600.0
+CUB,Cuba,2033,21600.0
+CUB,Cuba,2034,21600.0
+CUB,Cuba,2035,21600.0
+CUB,Cuba,2036,21600.0
+CUB,Cuba,2037,21600.0
+CUB,Cuba,2038,21600.0
+CUB,Cuba,2039,21600.0
+CUB,Cuba,2040,21600.0
+CUB,Cuba,2041,21600.0
+CUB,Cuba,2042,21600.0
+CUB,Cuba,2043,21600.0
+CUB,Cuba,2044,21600.0
+CUB,Cuba,2045,21600.0
+CUB,Cuba,2046,21600.0
+CUB,Cuba,2047,21600.0
+CUB,Cuba,2048,21600.0
+CUB,Cuba,2049,21600.0
+CUB,Cuba,2050,21600.0
+CYP,Cyprus,2023,0.0
+CYP,Cyprus,2024,0.0
+CYP,Cyprus,2025,0.0
+CYP,Cyprus,2026,0.0
+CYP,Cyprus,2027,0.0
+CYP,Cyprus,2028,0.0
+CYP,Cyprus,2029,0.0
+CYP,Cyprus,2030,0.0
+CYP,Cyprus,2031,0.0
+CYP,Cyprus,2032,0.0
+CYP,Cyprus,2033,0.0
+CYP,Cyprus,2034,0.0
+CYP,Cyprus,2035,0.0
+CYP,Cyprus,2036,0.0
+CYP,Cyprus,2037,0.0
+CYP,Cyprus,2038,0.0
+CYP,Cyprus,2039,0.0
+CYP,Cyprus,2040,0.0
+CYP,Cyprus,2041,0.0
+CYP,Cyprus,2042,0.0
+CYP,Cyprus,2043,0.0
+CYP,Cyprus,2044,0.0
+CYP,Cyprus,2045,0.0
+CYP,Cyprus,2046,0.0
+CYP,Cyprus,2047,0.0
+CYP,Cyprus,2048,0.0
+CYP,Cyprus,2049,0.0
+CYP,Cyprus,2050,0.0
+CZE,Czechia,2023,0.0
+CZE,Czechia,2024,0.0
+CZE,Czechia,2025,0.0
+CZE,Czechia,2026,0.0
+CZE,Czechia,2027,0.0
+CZE,Czechia,2028,0.0
+CZE,Czechia,2029,0.0
+CZE,Czechia,2030,0.0
+CZE,Czechia,2031,0.0
+CZE,Czechia,2032,0.0
+CZE,Czechia,2033,0.0
+CZE,Czechia,2034,0.0
+CZE,Czechia,2035,0.0
+CZE,Czechia,2036,0.0
+CZE,Czechia,2037,0.0
+CZE,Czechia,2038,0.0
+CZE,Czechia,2039,0.0
+CZE,Czechia,2040,0.0
+CZE,Czechia,2041,0.0
+CZE,Czechia,2042,0.0
+CZE,Czechia,2043,0.0
+CZE,Czechia,2044,0.0
+CZE,Czechia,2045,0.0
+CZE,Czechia,2046,0.0
+CZE,Czechia,2047,0.0
+CZE,Czechia,2048,0.0
+CZE,Czechia,2049,0.0
+CZE,Czechia,2050,0.0
+DEU,Germany,2023,0.0
+DEU,Germany,2024,0.0
+DEU,Germany,2025,0.0
+DEU,Germany,2026,0.0
+DEU,Germany,2027,0.0
+DEU,Germany,2028,0.0
+DEU,Germany,2029,0.0
+DEU,Germany,2030,0.0
+DEU,Germany,2031,0.0
+DEU,Germany,2032,0.0
+DEU,Germany,2033,0.0
+DEU,Germany,2034,0.0
+DEU,Germany,2035,0.0
+DEU,Germany,2036,0.0
+DEU,Germany,2037,0.0
+DEU,Germany,2038,0.0
+DEU,Germany,2039,0.0
+DEU,Germany,2040,0.0
+DEU,Germany,2041,0.0
+DEU,Germany,2042,0.0
+DEU,Germany,2043,0.0
+DEU,Germany,2044,0.0
+DEU,Germany,2045,0.0
+DEU,Germany,2046,0.0
+DEU,Germany,2047,0.0
+DEU,Germany,2048,0.0
+DEU,Germany,2049,0.0
+DEU,Germany,2050,0.0
+DJI,Djibouti,2023,0.0
+DJI,Djibouti,2024,0.0
+DJI,Djibouti,2025,0.0
+DJI,Djibouti,2026,0.0
+DJI,Djibouti,2027,0.0
+DJI,Djibouti,2028,0.0
+DJI,Djibouti,2029,0.0
+DJI,Djibouti,2030,0.0
+DJI,Djibouti,2031,0.0
+DJI,Djibouti,2032,0.0
+DJI,Djibouti,2033,0.0
+DJI,Djibouti,2034,0.0
+DJI,Djibouti,2035,0.0
+DJI,Djibouti,2036,0.0
+DJI,Djibouti,2037,0.0
+DJI,Djibouti,2038,0.0
+DJI,Djibouti,2039,0.0
+DJI,Djibouti,2040,0.0
+DJI,Djibouti,2041,0.0
+DJI,Djibouti,2042,0.0
+DJI,Djibouti,2043,0.0
+DJI,Djibouti,2044,0.0
+DJI,Djibouti,2045,0.0
+DJI,Djibouti,2046,0.0
+DJI,Djibouti,2047,0.0
+DJI,Djibouti,2048,0.0
+DJI,Djibouti,2049,0.0
+DJI,Djibouti,2050,0.0
+DMA,Dominica,2023,0.0
+DMA,Dominica,2024,0.0
+DMA,Dominica,2025,0.0
+DMA,Dominica,2026,0.0
+DMA,Dominica,2027,0.0
+DMA,Dominica,2028,0.0
+DMA,Dominica,2029,0.0
+DMA,Dominica,2030,0.0
+DMA,Dominica,2031,0.0
+DMA,Dominica,2032,0.0
+DMA,Dominica,2033,0.0
+DMA,Dominica,2034,0.0
+DMA,Dominica,2035,0.0
+DMA,Dominica,2036,0.0
+DMA,Dominica,2037,0.0
+DMA,Dominica,2038,0.0
+DMA,Dominica,2039,0.0
+DMA,Dominica,2040,0.0
+DMA,Dominica,2041,0.0
+DMA,Dominica,2042,0.0
+DMA,Dominica,2043,0.0
+DMA,Dominica,2044,0.0
+DMA,Dominica,2045,0.0
+DMA,Dominica,2046,0.0
+DMA,Dominica,2047,0.0
+DMA,Dominica,2048,0.0
+DMA,Dominica,2049,0.0
+DMA,Dominica,2050,0.0
+DNK,Denmark,2023,0.0
+DNK,Denmark,2024,0.0
+DNK,Denmark,2025,0.0
+DNK,Denmark,2026,0.0
+DNK,Denmark,2027,0.0
+DNK,Denmark,2028,0.0
+DNK,Denmark,2029,0.0
+DNK,Denmark,2030,0.0
+DNK,Denmark,2031,0.0
+DNK,Denmark,2032,0.0
+DNK,Denmark,2033,0.0
+DNK,Denmark,2034,0.0
+DNK,Denmark,2035,0.0
+DNK,Denmark,2036,0.0
+DNK,Denmark,2037,0.0
+DNK,Denmark,2038,0.0
+DNK,Denmark,2039,0.0
+DNK,Denmark,2040,0.0
+DNK,Denmark,2041,0.0
+DNK,Denmark,2042,0.0
+DNK,Denmark,2043,0.0
+DNK,Denmark,2044,0.0
+DNK,Denmark,2045,0.0
+DNK,Denmark,2046,0.0
+DNK,Denmark,2047,0.0
+DNK,Denmark,2048,0.0
+DNK,Denmark,2049,0.0
+DNK,Denmark,2050,0.0
+DOM,Dominican Republic,2023,147233.0
+DOM,Dominican Republic,2024,147233.0
+DOM,Dominican Republic,2025,147233.0
+DOM,Dominican Republic,2026,147233.0
+DOM,Dominican Republic,2027,147233.0
+DOM,Dominican Republic,2028,147233.0
+DOM,Dominican Republic,2029,147233.0
+DOM,Dominican Republic,2030,147233.0
+DOM,Dominican Republic,2031,147233.0
+DOM,Dominican Republic,2032,147233.0
+DOM,Dominican Republic,2033,147233.0
+DOM,Dominican Republic,2034,147233.0
+DOM,Dominican Republic,2035,147233.0
+DOM,Dominican Republic,2036,147233.0
+DOM,Dominican Republic,2037,147233.0
+DOM,Dominican Republic,2038,147233.0
+DOM,Dominican Republic,2039,147233.0
+DOM,Dominican Republic,2040,147233.0
+DOM,Dominican Republic,2041,147233.0
+DOM,Dominican Republic,2042,147233.0
+DOM,Dominican Republic,2043,147233.0
+DOM,Dominican Republic,2044,147233.0
+DOM,Dominican Republic,2045,147233.0
+DOM,Dominican Republic,2046,147233.0
+DOM,Dominican Republic,2047,147233.0
+DOM,Dominican Republic,2048,147233.0
+DOM,Dominican Republic,2049,147233.0
+DOM,Dominican Republic,2050,147233.0
+DZA,Algeria,2023,16396.0
+DZA,Algeria,2024,16396.0
+DZA,Algeria,2025,16396.0
+DZA,Algeria,2026,16396.0
+DZA,Algeria,2027,16396.0
+DZA,Algeria,2028,16396.0
+DZA,Algeria,2029,16396.0
+DZA,Algeria,2030,16396.0
+DZA,Algeria,2031,16396.0
+DZA,Algeria,2032,16396.0
+DZA,Algeria,2033,16396.0
+DZA,Algeria,2034,16396.0
+DZA,Algeria,2035,16396.0
+DZA,Algeria,2036,16396.0
+DZA,Algeria,2037,16396.0
+DZA,Algeria,2038,16396.0
+DZA,Algeria,2039,16396.0
+DZA,Algeria,2040,16396.0
+DZA,Algeria,2041,16396.0
+DZA,Algeria,2042,16396.0
+DZA,Algeria,2043,16396.0
+DZA,Algeria,2044,16396.0
+DZA,Algeria,2045,16396.0
+DZA,Algeria,2046,16396.0
+DZA,Algeria,2047,16396.0
+DZA,Algeria,2048,16396.0
+DZA,Algeria,2049,16396.0
+DZA,Algeria,2050,16396.0
+ECU,Ecuador,2023,61914.0
+ECU,Ecuador,2024,61914.0
+ECU,Ecuador,2025,61914.0
+ECU,Ecuador,2026,61914.0
+ECU,Ecuador,2027,61914.0
+ECU,Ecuador,2028,61914.0
+ECU,Ecuador,2029,61914.0
+ECU,Ecuador,2030,61914.0
+ECU,Ecuador,2031,61914.0
+ECU,Ecuador,2032,61914.0
+ECU,Ecuador,2033,61914.0
+ECU,Ecuador,2034,61914.0
+ECU,Ecuador,2035,61914.0
+ECU,Ecuador,2036,61914.0
+ECU,Ecuador,2037,61914.0
+ECU,Ecuador,2038,61914.0
+ECU,Ecuador,2039,61914.0
+ECU,Ecuador,2040,61914.0
+ECU,Ecuador,2041,61914.0
+ECU,Ecuador,2042,61914.0
+ECU,Ecuador,2043,61914.0
+ECU,Ecuador,2044,61914.0
+ECU,Ecuador,2045,61914.0
+ECU,Ecuador,2046,61914.0
+ECU,Ecuador,2047,61914.0
+ECU,Ecuador,2048,61914.0
+ECU,Ecuador,2049,61914.0
+ECU,Ecuador,2050,61914.0
+EGY,Egypt,2023,3207.0
+EGY,Egypt,2024,3207.0
+EGY,Egypt,2025,3207.0
+EGY,Egypt,2026,3207.0
+EGY,Egypt,2027,3207.0
+EGY,Egypt,2028,3207.0
+EGY,Egypt,2029,3207.0
+EGY,Egypt,2030,3207.0
+EGY,Egypt,2031,3207.0
+EGY,Egypt,2032,3207.0
+EGY,Egypt,2033,3207.0
+EGY,Egypt,2034,3207.0
+EGY,Egypt,2035,3207.0
+EGY,Egypt,2036,3207.0
+EGY,Egypt,2037,3207.0
+EGY,Egypt,2038,3207.0
+EGY,Egypt,2039,3207.0
+EGY,Egypt,2040,3207.0
+EGY,Egypt,2041,3207.0
+EGY,Egypt,2042,3207.0
+EGY,Egypt,2043,3207.0
+EGY,Egypt,2044,3207.0
+EGY,Egypt,2045,3207.0
+EGY,Egypt,2046,3207.0
+EGY,Egypt,2047,3207.0
+EGY,Egypt,2048,3207.0
+EGY,Egypt,2049,3207.0
+EGY,Egypt,2050,3207.0
+ERI,Eritrea,2023,0.0
+ERI,Eritrea,2024,0.0
+ERI,Eritrea,2025,0.0
+ERI,Eritrea,2026,0.0
+ERI,Eritrea,2027,0.0
+ERI,Eritrea,2028,0.0
+ERI,Eritrea,2029,0.0
+ERI,Eritrea,2030,0.0
+ERI,Eritrea,2031,0.0
+ERI,Eritrea,2032,0.0
+ERI,Eritrea,2033,0.0
+ERI,Eritrea,2034,0.0
+ERI,Eritrea,2035,0.0
+ERI,Eritrea,2036,0.0
+ERI,Eritrea,2037,0.0
+ERI,Eritrea,2038,0.0
+ERI,Eritrea,2039,0.0
+ERI,Eritrea,2040,0.0
+ERI,Eritrea,2041,0.0
+ERI,Eritrea,2042,0.0
+ERI,Eritrea,2043,0.0
+ERI,Eritrea,2044,0.0
+ERI,Eritrea,2045,0.0
+ERI,Eritrea,2046,0.0
+ERI,Eritrea,2047,0.0
+ERI,Eritrea,2048,0.0
+ERI,Eritrea,2049,0.0
+ERI,Eritrea,2050,0.0
+ESP,Spain,2023,0.0
+ESP,Spain,2024,0.0
+ESP,Spain,2025,0.0
+ESP,Spain,2026,0.0
+ESP,Spain,2027,0.0
+ESP,Spain,2028,0.0
+ESP,Spain,2029,0.0
+ESP,Spain,2030,0.0
+ESP,Spain,2031,0.0
+ESP,Spain,2032,0.0
+ESP,Spain,2033,0.0
+ESP,Spain,2034,0.0
+ESP,Spain,2035,0.0
+ESP,Spain,2036,0.0
+ESP,Spain,2037,0.0
+ESP,Spain,2038,0.0
+ESP,Spain,2039,0.0
+ESP,Spain,2040,0.0
+ESP,Spain,2041,0.0
+ESP,Spain,2042,0.0
+ESP,Spain,2043,0.0
+ESP,Spain,2044,0.0
+ESP,Spain,2045,0.0
+ESP,Spain,2046,0.0
+ESP,Spain,2047,0.0
+ESP,Spain,2048,0.0
+ESP,Spain,2049,0.0
+ESP,Spain,2050,0.0
+EST,Estonia,2023,0.0
+EST,Estonia,2024,0.0
+EST,Estonia,2025,0.0
+EST,Estonia,2026,0.0
+EST,Estonia,2027,0.0
+EST,Estonia,2028,0.0
+EST,Estonia,2029,0.0
+EST,Estonia,2030,0.0
+EST,Estonia,2031,0.0
+EST,Estonia,2032,0.0
+EST,Estonia,2033,0.0
+EST,Estonia,2034,0.0
+EST,Estonia,2035,0.0
+EST,Estonia,2036,0.0
+EST,Estonia,2037,0.0
+EST,Estonia,2038,0.0
+EST,Estonia,2039,0.0
+EST,Estonia,2040,0.0
+EST,Estonia,2041,0.0
+EST,Estonia,2042,0.0
+EST,Estonia,2043,0.0
+EST,Estonia,2044,0.0
+EST,Estonia,2045,0.0
+EST,Estonia,2046,0.0
+EST,Estonia,2047,0.0
+EST,Estonia,2048,0.0
+EST,Estonia,2049,0.0
+EST,Estonia,2050,0.0
+ETH,Ethiopia,2023,365896.0
+ETH,Ethiopia,2024,365896.0
+ETH,Ethiopia,2025,365896.0
+ETH,Ethiopia,2026,365896.0
+ETH,Ethiopia,2027,365896.0
+ETH,Ethiopia,2028,365896.0
+ETH,Ethiopia,2029,365896.0
+ETH,Ethiopia,2030,365896.0
+ETH,Ethiopia,2031,365896.0
+ETH,Ethiopia,2032,365896.0
+ETH,Ethiopia,2033,365896.0
+ETH,Ethiopia,2034,365896.0
+ETH,Ethiopia,2035,365896.0
+ETH,Ethiopia,2036,365896.0
+ETH,Ethiopia,2037,365896.0
+ETH,Ethiopia,2038,365896.0
+ETH,Ethiopia,2039,365896.0
+ETH,Ethiopia,2040,365896.0
+ETH,Ethiopia,2041,365896.0
+ETH,Ethiopia,2042,365896.0
+ETH,Ethiopia,2043,365896.0
+ETH,Ethiopia,2044,365896.0
+ETH,Ethiopia,2045,365896.0
+ETH,Ethiopia,2046,365896.0
+ETH,Ethiopia,2047,365896.0
+ETH,Ethiopia,2048,365896.0
+ETH,Ethiopia,2049,365896.0
+ETH,Ethiopia,2050,365896.0
+F351,China,2023,488000.0
+F351,China,2024,488000.0
+F351,China,2025,488000.0
+F351,China,2026,488000.0
+F351,China,2027,488000.0
+F351,China,2028,488000.0
+F351,China,2029,488000.0
+F351,China,2030,488000.0
+F351,China,2031,488000.0
+F351,China,2032,488000.0
+F351,China,2033,488000.0
+F351,China,2034,488000.0
+F351,China,2035,488000.0
+F351,China,2036,488000.0
+F351,China,2037,488000.0
+F351,China,2038,488000.0
+F351,China,2039,488000.0
+F351,China,2040,488000.0
+F351,China,2041,488000.0
+F351,China,2042,488000.0
+F351,China,2043,488000.0
+F351,China,2044,488000.0
+F351,China,2045,488000.0
+F351,China,2046,488000.0
+F351,China,2047,488000.0
+F351,China,2048,488000.0
+F351,China,2049,488000.0
+F351,China,2050,488000.0
+FIN,Finland,2023,0.0
+FIN,Finland,2024,0.0
+FIN,Finland,2025,0.0
+FIN,Finland,2026,0.0
+FIN,Finland,2027,0.0
+FIN,Finland,2028,0.0
+FIN,Finland,2029,0.0
+FIN,Finland,2030,0.0
+FIN,Finland,2031,0.0
+FIN,Finland,2032,0.0
+FIN,Finland,2033,0.0
+FIN,Finland,2034,0.0
+FIN,Finland,2035,0.0
+FIN,Finland,2036,0.0
+FIN,Finland,2037,0.0
+FIN,Finland,2038,0.0
+FIN,Finland,2039,0.0
+FIN,Finland,2040,0.0
+FIN,Finland,2041,0.0
+FIN,Finland,2042,0.0
+FIN,Finland,2043,0.0
+FIN,Finland,2044,0.0
+FIN,Finland,2045,0.0
+FIN,Finland,2046,0.0
+FIN,Finland,2047,0.0
+FIN,Finland,2048,0.0
+FIN,Finland,2049,0.0
+FIN,Finland,2050,0.0
+FJI,Fiji,2023,0.0
+FJI,Fiji,2024,0.0
+FJI,Fiji,2025,0.0
+FJI,Fiji,2026,0.0
+FJI,Fiji,2027,0.0
+FJI,Fiji,2028,0.0
+FJI,Fiji,2029,0.0
+FJI,Fiji,2030,0.0
+FJI,Fiji,2031,0.0
+FJI,Fiji,2032,0.0
+FJI,Fiji,2033,0.0
+FJI,Fiji,2034,0.0
+FJI,Fiji,2035,0.0
+FJI,Fiji,2036,0.0
+FJI,Fiji,2037,0.0
+FJI,Fiji,2038,0.0
+FJI,Fiji,2039,0.0
+FJI,Fiji,2040,0.0
+FJI,Fiji,2041,0.0
+FJI,Fiji,2042,0.0
+FJI,Fiji,2043,0.0
+FJI,Fiji,2044,0.0
+FJI,Fiji,2045,0.0
+FJI,Fiji,2046,0.0
+FJI,Fiji,2047,0.0
+FJI,Fiji,2048,0.0
+FJI,Fiji,2049,0.0
+FJI,Fiji,2050,0.0
+FRA,France,2023,0.0
+FRA,France,2024,0.0
+FRA,France,2025,0.0
+FRA,France,2026,0.0
+FRA,France,2027,0.0
+FRA,France,2028,0.0
+FRA,France,2029,0.0
+FRA,France,2030,0.0
+FRA,France,2031,0.0
+FRA,France,2032,0.0
+FRA,France,2033,0.0
+FRA,France,2034,0.0
+FRA,France,2035,0.0
+FRA,France,2036,0.0
+FRA,France,2037,0.0
+FRA,France,2038,0.0
+FRA,France,2039,0.0
+FRA,France,2040,0.0
+FRA,France,2041,0.0
+FRA,France,2042,0.0
+FRA,France,2043,0.0
+FRA,France,2044,0.0
+FRA,France,2045,0.0
+FRA,France,2046,0.0
+FRA,France,2047,0.0
+FRA,France,2048,0.0
+FRA,France,2049,0.0
+FRA,France,2050,0.0
+FRO,Faroe Islands,2023,0.0
+FRO,Faroe Islands,2024,0.0
+FRO,Faroe Islands,2025,0.0
+FRO,Faroe Islands,2026,0.0
+FRO,Faroe Islands,2027,0.0
+FRO,Faroe Islands,2028,0.0
+FRO,Faroe Islands,2029,0.0
+FRO,Faroe Islands,2030,0.0
+FRO,Faroe Islands,2031,0.0
+FRO,Faroe Islands,2032,0.0
+FRO,Faroe Islands,2033,0.0
+FRO,Faroe Islands,2034,0.0
+FRO,Faroe Islands,2035,0.0
+FRO,Faroe Islands,2036,0.0
+FRO,Faroe Islands,2037,0.0
+FRO,Faroe Islands,2038,0.0
+FRO,Faroe Islands,2039,0.0
+FRO,Faroe Islands,2040,0.0
+FRO,Faroe Islands,2041,0.0
+FRO,Faroe Islands,2042,0.0
+FRO,Faroe Islands,2043,0.0
+FRO,Faroe Islands,2044,0.0
+FRO,Faroe Islands,2045,0.0
+FRO,Faroe Islands,2046,0.0
+FRO,Faroe Islands,2047,0.0
+FRO,Faroe Islands,2048,0.0
+FRO,Faroe Islands,2049,0.0
+FRO,Faroe Islands,2050,0.0
+FSM,Micronesia (Federated States of),2023,0.0
+FSM,Micronesia (Federated States of),2024,0.0
+FSM,Micronesia (Federated States of),2025,0.0
+FSM,Micronesia (Federated States of),2026,0.0
+FSM,Micronesia (Federated States of),2027,0.0
+FSM,Micronesia (Federated States of),2028,0.0
+FSM,Micronesia (Federated States of),2029,0.0
+FSM,Micronesia (Federated States of),2030,0.0
+FSM,Micronesia (Federated States of),2031,0.0
+FSM,Micronesia (Federated States of),2032,0.0
+FSM,Micronesia (Federated States of),2033,0.0
+FSM,Micronesia (Federated States of),2034,0.0
+FSM,Micronesia (Federated States of),2035,0.0
+FSM,Micronesia (Federated States of),2036,0.0
+FSM,Micronesia (Federated States of),2037,0.0
+FSM,Micronesia (Federated States of),2038,0.0
+FSM,Micronesia (Federated States of),2039,0.0
+FSM,Micronesia (Federated States of),2040,0.0
+FSM,Micronesia (Federated States of),2041,0.0
+FSM,Micronesia (Federated States of),2042,0.0
+FSM,Micronesia (Federated States of),2043,0.0
+FSM,Micronesia (Federated States of),2044,0.0
+FSM,Micronesia (Federated States of),2045,0.0
+FSM,Micronesia (Federated States of),2046,0.0
+FSM,Micronesia (Federated States of),2047,0.0
+FSM,Micronesia (Federated States of),2048,0.0
+FSM,Micronesia (Federated States of),2049,0.0
+FSM,Micronesia (Federated States of),2050,0.0
+GAB,Gabon,2023,0.0
+GAB,Gabon,2024,0.0
+GAB,Gabon,2025,0.0
+GAB,Gabon,2026,0.0
+GAB,Gabon,2027,0.0
+GAB,Gabon,2028,0.0
+GAB,Gabon,2029,0.0
+GAB,Gabon,2030,0.0
+GAB,Gabon,2031,0.0
+GAB,Gabon,2032,0.0
+GAB,Gabon,2033,0.0
+GAB,Gabon,2034,0.0
+GAB,Gabon,2035,0.0
+GAB,Gabon,2036,0.0
+GAB,Gabon,2037,0.0
+GAB,Gabon,2038,0.0
+GAB,Gabon,2039,0.0
+GAB,Gabon,2040,0.0
+GAB,Gabon,2041,0.0
+GAB,Gabon,2042,0.0
+GAB,Gabon,2043,0.0
+GAB,Gabon,2044,0.0
+GAB,Gabon,2045,0.0
+GAB,Gabon,2046,0.0
+GAB,Gabon,2047,0.0
+GAB,Gabon,2048,0.0
+GAB,Gabon,2049,0.0
+GAB,Gabon,2050,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2023,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2024,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2025,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2026,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2027,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2028,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2029,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2030,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2031,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2032,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2033,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2034,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2035,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2036,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2037,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2038,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2039,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2040,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2041,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2042,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2043,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2044,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2045,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2046,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2047,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2048,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2049,0.0
+GBR,United Kingdom of Great Britain and Northern Ireland,2050,0.0
+GEO,Georgia,2023,94.0
+GEO,Georgia,2024,94.0
+GEO,Georgia,2025,94.0
+GEO,Georgia,2026,94.0
+GEO,Georgia,2027,94.0
+GEO,Georgia,2028,94.0
+GEO,Georgia,2029,94.0
+GEO,Georgia,2030,94.0
+GEO,Georgia,2031,94.0
+GEO,Georgia,2032,94.0
+GEO,Georgia,2033,94.0
+GEO,Georgia,2034,94.0
+GEO,Georgia,2035,94.0
+GEO,Georgia,2036,94.0
+GEO,Georgia,2037,94.0
+GEO,Georgia,2038,94.0
+GEO,Georgia,2039,94.0
+GEO,Georgia,2040,94.0
+GEO,Georgia,2041,94.0
+GEO,Georgia,2042,94.0
+GEO,Georgia,2043,94.0
+GEO,Georgia,2044,94.0
+GEO,Georgia,2045,94.0
+GEO,Georgia,2046,94.0
+GEO,Georgia,2047,94.0
+GEO,Georgia,2048,94.0
+GEO,Georgia,2049,94.0
+GEO,Georgia,2050,94.0
+GHA,Ghana,2023,0.0
+GHA,Ghana,2024,0.0
+GHA,Ghana,2025,0.0
+GHA,Ghana,2026,0.0
+GHA,Ghana,2027,0.0
+GHA,Ghana,2028,0.0
+GHA,Ghana,2029,0.0
+GHA,Ghana,2030,0.0
+GHA,Ghana,2031,0.0
+GHA,Ghana,2032,0.0
+GHA,Ghana,2033,0.0
+GHA,Ghana,2034,0.0
+GHA,Ghana,2035,0.0
+GHA,Ghana,2036,0.0
+GHA,Ghana,2037,0.0
+GHA,Ghana,2038,0.0
+GHA,Ghana,2039,0.0
+GHA,Ghana,2040,0.0
+GHA,Ghana,2041,0.0
+GHA,Ghana,2042,0.0
+GHA,Ghana,2043,0.0
+GHA,Ghana,2044,0.0
+GHA,Ghana,2045,0.0
+GHA,Ghana,2046,0.0
+GHA,Ghana,2047,0.0
+GHA,Ghana,2048,0.0
+GHA,Ghana,2049,0.0
+GHA,Ghana,2050,0.0
+GIN,Guinea,2023,0.0
+GIN,Guinea,2024,0.0
+GIN,Guinea,2025,0.0
+GIN,Guinea,2026,0.0
+GIN,Guinea,2027,0.0
+GIN,Guinea,2028,0.0
+GIN,Guinea,2029,0.0
+GIN,Guinea,2030,0.0
+GIN,Guinea,2031,0.0
+GIN,Guinea,2032,0.0
+GIN,Guinea,2033,0.0
+GIN,Guinea,2034,0.0
+GIN,Guinea,2035,0.0
+GIN,Guinea,2036,0.0
+GIN,Guinea,2037,0.0
+GIN,Guinea,2038,0.0
+GIN,Guinea,2039,0.0
+GIN,Guinea,2040,0.0
+GIN,Guinea,2041,0.0
+GIN,Guinea,2042,0.0
+GIN,Guinea,2043,0.0
+GIN,Guinea,2044,0.0
+GIN,Guinea,2045,0.0
+GIN,Guinea,2046,0.0
+GIN,Guinea,2047,0.0
+GIN,Guinea,2048,0.0
+GIN,Guinea,2049,0.0
+GIN,Guinea,2050,0.0
+GMB,Gambia,2023,0.0
+GMB,Gambia,2024,0.0
+GMB,Gambia,2025,0.0
+GMB,Gambia,2026,0.0
+GMB,Gambia,2027,0.0
+GMB,Gambia,2028,0.0
+GMB,Gambia,2029,0.0
+GMB,Gambia,2030,0.0
+GMB,Gambia,2031,0.0
+GMB,Gambia,2032,0.0
+GMB,Gambia,2033,0.0
+GMB,Gambia,2034,0.0
+GMB,Gambia,2035,0.0
+GMB,Gambia,2036,0.0
+GMB,Gambia,2037,0.0
+GMB,Gambia,2038,0.0
+GMB,Gambia,2039,0.0
+GMB,Gambia,2040,0.0
+GMB,Gambia,2041,0.0
+GMB,Gambia,2042,0.0
+GMB,Gambia,2043,0.0
+GMB,Gambia,2044,0.0
+GMB,Gambia,2045,0.0
+GMB,Gambia,2046,0.0
+GMB,Gambia,2047,0.0
+GMB,Gambia,2048,0.0
+GMB,Gambia,2049,0.0
+GMB,Gambia,2050,0.0
+GNB,Guinea-Bissau,2023,0.0
+GNB,Guinea-Bissau,2024,0.0
+GNB,Guinea-Bissau,2025,0.0
+GNB,Guinea-Bissau,2026,0.0
+GNB,Guinea-Bissau,2027,0.0
+GNB,Guinea-Bissau,2028,0.0
+GNB,Guinea-Bissau,2029,0.0
+GNB,Guinea-Bissau,2030,0.0
+GNB,Guinea-Bissau,2031,0.0
+GNB,Guinea-Bissau,2032,0.0
+GNB,Guinea-Bissau,2033,0.0
+GNB,Guinea-Bissau,2034,0.0
+GNB,Guinea-Bissau,2035,0.0
+GNB,Guinea-Bissau,2036,0.0
+GNB,Guinea-Bissau,2037,0.0
+GNB,Guinea-Bissau,2038,0.0
+GNB,Guinea-Bissau,2039,0.0
+GNB,Guinea-Bissau,2040,0.0
+GNB,Guinea-Bissau,2041,0.0
+GNB,Guinea-Bissau,2042,0.0
+GNB,Guinea-Bissau,2043,0.0
+GNB,Guinea-Bissau,2044,0.0
+GNB,Guinea-Bissau,2045,0.0
+GNB,Guinea-Bissau,2046,0.0
+GNB,Guinea-Bissau,2047,0.0
+GNB,Guinea-Bissau,2048,0.0
+GNB,Guinea-Bissau,2049,0.0
+GNB,Guinea-Bissau,2050,0.0
+GNQ,Equatorial Guinea,2023,0.0
+GNQ,Equatorial Guinea,2024,0.0
+GNQ,Equatorial Guinea,2025,0.0
+GNQ,Equatorial Guinea,2026,0.0
+GNQ,Equatorial Guinea,2027,0.0
+GNQ,Equatorial Guinea,2028,0.0
+GNQ,Equatorial Guinea,2029,0.0
+GNQ,Equatorial Guinea,2030,0.0
+GNQ,Equatorial Guinea,2031,0.0
+GNQ,Equatorial Guinea,2032,0.0
+GNQ,Equatorial Guinea,2033,0.0
+GNQ,Equatorial Guinea,2034,0.0
+GNQ,Equatorial Guinea,2035,0.0
+GNQ,Equatorial Guinea,2036,0.0
+GNQ,Equatorial Guinea,2037,0.0
+GNQ,Equatorial Guinea,2038,0.0
+GNQ,Equatorial Guinea,2039,0.0
+GNQ,Equatorial Guinea,2040,0.0
+GNQ,Equatorial Guinea,2041,0.0
+GNQ,Equatorial Guinea,2042,0.0
+GNQ,Equatorial Guinea,2043,0.0
+GNQ,Equatorial Guinea,2044,0.0
+GNQ,Equatorial Guinea,2045,0.0
+GNQ,Equatorial Guinea,2046,0.0
+GNQ,Equatorial Guinea,2047,0.0
+GNQ,Equatorial Guinea,2048,0.0
+GNQ,Equatorial Guinea,2049,0.0
+GNQ,Equatorial Guinea,2050,0.0
+GRC,Greece,2023,0.0
+GRC,Greece,2024,0.0
+GRC,Greece,2025,0.0
+GRC,Greece,2026,0.0
+GRC,Greece,2027,0.0
+GRC,Greece,2028,0.0
+GRC,Greece,2029,0.0
+GRC,Greece,2030,0.0
+GRC,Greece,2031,0.0
+GRC,Greece,2032,0.0
+GRC,Greece,2033,0.0
+GRC,Greece,2034,0.0
+GRC,Greece,2035,0.0
+GRC,Greece,2036,0.0
+GRC,Greece,2037,0.0
+GRC,Greece,2038,0.0
+GRC,Greece,2039,0.0
+GRC,Greece,2040,0.0
+GRC,Greece,2041,0.0
+GRC,Greece,2042,0.0
+GRC,Greece,2043,0.0
+GRC,Greece,2044,0.0
+GRC,Greece,2045,0.0
+GRC,Greece,2046,0.0
+GRC,Greece,2047,0.0
+GRC,Greece,2048,0.0
+GRC,Greece,2049,0.0
+GRC,Greece,2050,0.0
+GRD,Grenada,2023,50.0
+GRD,Grenada,2024,50.0
+GRD,Grenada,2025,50.0
+GRD,Grenada,2026,50.0
+GRD,Grenada,2027,50.0
+GRD,Grenada,2028,50.0
+GRD,Grenada,2029,50.0
+GRD,Grenada,2030,50.0
+GRD,Grenada,2031,50.0
+GRD,Grenada,2032,50.0
+GRD,Grenada,2033,50.0
+GRD,Grenada,2034,50.0
+GRD,Grenada,2035,50.0
+GRD,Grenada,2036,50.0
+GRD,Grenada,2037,50.0
+GRD,Grenada,2038,50.0
+GRD,Grenada,2039,50.0
+GRD,Grenada,2040,50.0
+GRD,Grenada,2041,50.0
+GRD,Grenada,2042,50.0
+GRD,Grenada,2043,50.0
+GRD,Grenada,2044,50.0
+GRD,Grenada,2045,50.0
+GRD,Grenada,2046,50.0
+GRD,Grenada,2047,50.0
+GRD,Grenada,2048,50.0
+GRD,Grenada,2049,50.0
+GRD,Grenada,2050,50.0
+GTM,Guatemala,2023,38402.0
+GTM,Guatemala,2024,38402.0
+GTM,Guatemala,2025,38402.0
+GTM,Guatemala,2026,38402.0
+GTM,Guatemala,2027,38402.0
+GTM,Guatemala,2028,38402.0
+GTM,Guatemala,2029,38402.0
+GTM,Guatemala,2030,38402.0
+GTM,Guatemala,2031,38402.0
+GTM,Guatemala,2032,38402.0
+GTM,Guatemala,2033,38402.0
+GTM,Guatemala,2034,38402.0
+GTM,Guatemala,2035,38402.0
+GTM,Guatemala,2036,38402.0
+GTM,Guatemala,2037,38402.0
+GTM,Guatemala,2038,38402.0
+GTM,Guatemala,2039,38402.0
+GTM,Guatemala,2040,38402.0
+GTM,Guatemala,2041,38402.0
+GTM,Guatemala,2042,38402.0
+GTM,Guatemala,2043,38402.0
+GTM,Guatemala,2044,38402.0
+GTM,Guatemala,2045,38402.0
+GTM,Guatemala,2046,38402.0
+GTM,Guatemala,2047,38402.0
+GTM,Guatemala,2048,38402.0
+GTM,Guatemala,2049,38402.0
+GTM,Guatemala,2050,38402.0
+GUY,Guyana,2023,153.0
+GUY,Guyana,2024,153.0
+GUY,Guyana,2025,153.0
+GUY,Guyana,2026,153.0
+GUY,Guyana,2027,153.0
+GUY,Guyana,2028,153.0
+GUY,Guyana,2029,153.0
+GUY,Guyana,2030,153.0
+GUY,Guyana,2031,153.0
+GUY,Guyana,2032,153.0
+GUY,Guyana,2033,153.0
+GUY,Guyana,2034,153.0
+GUY,Guyana,2035,153.0
+GUY,Guyana,2036,153.0
+GUY,Guyana,2037,153.0
+GUY,Guyana,2038,153.0
+GUY,Guyana,2039,153.0
+GUY,Guyana,2040,153.0
+GUY,Guyana,2041,153.0
+GUY,Guyana,2042,153.0
+GUY,Guyana,2043,153.0
+GUY,Guyana,2044,153.0
+GUY,Guyana,2045,153.0
+GUY,Guyana,2046,153.0
+GUY,Guyana,2047,153.0
+GUY,Guyana,2048,153.0
+GUY,Guyana,2049,153.0
+GUY,Guyana,2050,153.0
+HKG,"China, Hong Kong SAR",2023,0.0
+HKG,"China, Hong Kong SAR",2024,0.0
+HKG,"China, Hong Kong SAR",2025,0.0
+HKG,"China, Hong Kong SAR",2026,0.0
+HKG,"China, Hong Kong SAR",2027,0.0
+HKG,"China, Hong Kong SAR",2028,0.0
+HKG,"China, Hong Kong SAR",2029,0.0
+HKG,"China, Hong Kong SAR",2030,0.0
+HKG,"China, Hong Kong SAR",2031,0.0
+HKG,"China, Hong Kong SAR",2032,0.0
+HKG,"China, Hong Kong SAR",2033,0.0
+HKG,"China, Hong Kong SAR",2034,0.0
+HKG,"China, Hong Kong SAR",2035,0.0
+HKG,"China, Hong Kong SAR",2036,0.0
+HKG,"China, Hong Kong SAR",2037,0.0
+HKG,"China, Hong Kong SAR",2038,0.0
+HKG,"China, Hong Kong SAR",2039,0.0
+HKG,"China, Hong Kong SAR",2040,0.0
+HKG,"China, Hong Kong SAR",2041,0.0
+HKG,"China, Hong Kong SAR",2042,0.0
+HKG,"China, Hong Kong SAR",2043,0.0
+HKG,"China, Hong Kong SAR",2044,0.0
+HKG,"China, Hong Kong SAR",2045,0.0
+HKG,"China, Hong Kong SAR",2046,0.0
+HKG,"China, Hong Kong SAR",2047,0.0
+HKG,"China, Hong Kong SAR",2048,0.0
+HKG,"China, Hong Kong SAR",2049,0.0
+HKG,"China, Hong Kong SAR",2050,0.0
+HND,Honduras,2023,70327.0
+HND,Honduras,2024,70327.0
+HND,Honduras,2025,70327.0
+HND,Honduras,2026,70327.0
+HND,Honduras,2027,70327.0
+HND,Honduras,2028,70327.0
+HND,Honduras,2029,70327.0
+HND,Honduras,2030,70327.0
+HND,Honduras,2031,70327.0
+HND,Honduras,2032,70327.0
+HND,Honduras,2033,70327.0
+HND,Honduras,2034,70327.0
+HND,Honduras,2035,70327.0
+HND,Honduras,2036,70327.0
+HND,Honduras,2037,70327.0
+HND,Honduras,2038,70327.0
+HND,Honduras,2039,70327.0
+HND,Honduras,2040,70327.0
+HND,Honduras,2041,70327.0
+HND,Honduras,2042,70327.0
+HND,Honduras,2043,70327.0
+HND,Honduras,2044,70327.0
+HND,Honduras,2045,70327.0
+HND,Honduras,2046,70327.0
+HND,Honduras,2047,70327.0
+HND,Honduras,2048,70327.0
+HND,Honduras,2049,70327.0
+HND,Honduras,2050,70327.0
+HRV,Croatia,2023,0.0
+HRV,Croatia,2024,0.0
+HRV,Croatia,2025,0.0
+HRV,Croatia,2026,0.0
+HRV,Croatia,2027,0.0
+HRV,Croatia,2028,0.0
+HRV,Croatia,2029,0.0
+HRV,Croatia,2030,0.0
+HRV,Croatia,2031,0.0
+HRV,Croatia,2032,0.0
+HRV,Croatia,2033,0.0
+HRV,Croatia,2034,0.0
+HRV,Croatia,2035,0.0
+HRV,Croatia,2036,0.0
+HRV,Croatia,2037,0.0
+HRV,Croatia,2038,0.0
+HRV,Croatia,2039,0.0
+HRV,Croatia,2040,0.0
+HRV,Croatia,2041,0.0
+HRV,Croatia,2042,0.0
+HRV,Croatia,2043,0.0
+HRV,Croatia,2044,0.0
+HRV,Croatia,2045,0.0
+HRV,Croatia,2046,0.0
+HRV,Croatia,2047,0.0
+HRV,Croatia,2048,0.0
+HRV,Croatia,2049,0.0
+HRV,Croatia,2050,0.0
+HTI,Haiti,2023,103166.0
+HTI,Haiti,2024,103166.0
+HTI,Haiti,2025,103166.0
+HTI,Haiti,2026,103166.0
+HTI,Haiti,2027,103166.0
+HTI,Haiti,2028,103166.0
+HTI,Haiti,2029,103166.0
+HTI,Haiti,2030,103166.0
+HTI,Haiti,2031,103166.0
+HTI,Haiti,2032,103166.0
+HTI,Haiti,2033,103166.0
+HTI,Haiti,2034,103166.0
+HTI,Haiti,2035,103166.0
+HTI,Haiti,2036,103166.0
+HTI,Haiti,2037,103166.0
+HTI,Haiti,2038,103166.0
+HTI,Haiti,2039,103166.0
+HTI,Haiti,2040,103166.0
+HTI,Haiti,2041,103166.0
+HTI,Haiti,2042,103166.0
+HTI,Haiti,2043,103166.0
+HTI,Haiti,2044,103166.0
+HTI,Haiti,2045,103166.0
+HTI,Haiti,2046,103166.0
+HTI,Haiti,2047,103166.0
+HTI,Haiti,2048,103166.0
+HTI,Haiti,2049,103166.0
+HTI,Haiti,2050,103166.0
+HUN,Hungary,2023,0.0
+HUN,Hungary,2024,0.0
+HUN,Hungary,2025,0.0
+HUN,Hungary,2026,0.0
+HUN,Hungary,2027,0.0
+HUN,Hungary,2028,0.0
+HUN,Hungary,2029,0.0
+HUN,Hungary,2030,0.0
+HUN,Hungary,2031,0.0
+HUN,Hungary,2032,0.0
+HUN,Hungary,2033,0.0
+HUN,Hungary,2034,0.0
+HUN,Hungary,2035,0.0
+HUN,Hungary,2036,0.0
+HUN,Hungary,2037,0.0
+HUN,Hungary,2038,0.0
+HUN,Hungary,2039,0.0
+HUN,Hungary,2040,0.0
+HUN,Hungary,2041,0.0
+HUN,Hungary,2042,0.0
+HUN,Hungary,2043,0.0
+HUN,Hungary,2044,0.0
+HUN,Hungary,2045,0.0
+HUN,Hungary,2046,0.0
+HUN,Hungary,2047,0.0
+HUN,Hungary,2048,0.0
+HUN,Hungary,2049,0.0
+HUN,Hungary,2050,0.0
+IDN,Indonesia,2023,0.0
+IDN,Indonesia,2024,0.0
+IDN,Indonesia,2025,0.0
+IDN,Indonesia,2026,0.0
+IDN,Indonesia,2027,0.0
+IDN,Indonesia,2028,0.0
+IDN,Indonesia,2029,0.0
+IDN,Indonesia,2030,0.0
+IDN,Indonesia,2031,0.0
+IDN,Indonesia,2032,0.0
+IDN,Indonesia,2033,0.0
+IDN,Indonesia,2034,0.0
+IDN,Indonesia,2035,0.0
+IDN,Indonesia,2036,0.0
+IDN,Indonesia,2037,0.0
+IDN,Indonesia,2038,0.0
+IDN,Indonesia,2039,0.0
+IDN,Indonesia,2040,0.0
+IDN,Indonesia,2041,0.0
+IDN,Indonesia,2042,0.0
+IDN,Indonesia,2043,0.0
+IDN,Indonesia,2044,0.0
+IDN,Indonesia,2045,0.0
+IDN,Indonesia,2046,0.0
+IDN,Indonesia,2047,0.0
+IDN,Indonesia,2048,0.0
+IDN,Indonesia,2049,0.0
+IDN,Indonesia,2050,0.0
+IND,India,2023,102331.0
+IND,India,2024,102331.0
+IND,India,2025,102331.0
+IND,India,2026,102331.0
+IND,India,2027,102331.0
+IND,India,2028,102331.0
+IND,India,2029,102331.0
+IND,India,2030,102331.0
+IND,India,2031,102331.0
+IND,India,2032,102331.0
+IND,India,2033,102331.0
+IND,India,2034,102331.0
+IND,India,2035,102331.0
+IND,India,2036,102331.0
+IND,India,2037,102331.0
+IND,India,2038,102331.0
+IND,India,2039,102331.0
+IND,India,2040,102331.0
+IND,India,2041,102331.0
+IND,India,2042,102331.0
+IND,India,2043,102331.0
+IND,India,2044,102331.0
+IND,India,2045,102331.0
+IND,India,2046,102331.0
+IND,India,2047,102331.0
+IND,India,2048,102331.0
+IND,India,2049,102331.0
+IND,India,2050,102331.0
+IRL,Ireland,2023,0.0
+IRL,Ireland,2024,0.0
+IRL,Ireland,2025,0.0
+IRL,Ireland,2026,0.0
+IRL,Ireland,2027,0.0
+IRL,Ireland,2028,0.0
+IRL,Ireland,2029,0.0
+IRL,Ireland,2030,0.0
+IRL,Ireland,2031,0.0
+IRL,Ireland,2032,0.0
+IRL,Ireland,2033,0.0
+IRL,Ireland,2034,0.0
+IRL,Ireland,2035,0.0
+IRL,Ireland,2036,0.0
+IRL,Ireland,2037,0.0
+IRL,Ireland,2038,0.0
+IRL,Ireland,2039,0.0
+IRL,Ireland,2040,0.0
+IRL,Ireland,2041,0.0
+IRL,Ireland,2042,0.0
+IRL,Ireland,2043,0.0
+IRL,Ireland,2044,0.0
+IRL,Ireland,2045,0.0
+IRL,Ireland,2046,0.0
+IRL,Ireland,2047,0.0
+IRL,Ireland,2048,0.0
+IRL,Ireland,2049,0.0
+IRL,Ireland,2050,0.0
+IRN,Iran (Islamic Republic of),2023,180681.0
+IRN,Iran (Islamic Republic of),2024,180681.0
+IRN,Iran (Islamic Republic of),2025,180681.0
+IRN,Iran (Islamic Republic of),2026,180681.0
+IRN,Iran (Islamic Republic of),2027,180681.0
+IRN,Iran (Islamic Republic of),2028,180681.0
+IRN,Iran (Islamic Republic of),2029,180681.0
+IRN,Iran (Islamic Republic of),2030,180681.0
+IRN,Iran (Islamic Republic of),2031,180681.0
+IRN,Iran (Islamic Republic of),2032,180681.0
+IRN,Iran (Islamic Republic of),2033,180681.0
+IRN,Iran (Islamic Republic of),2034,180681.0
+IRN,Iran (Islamic Republic of),2035,180681.0
+IRN,Iran (Islamic Republic of),2036,180681.0
+IRN,Iran (Islamic Republic of),2037,180681.0
+IRN,Iran (Islamic Republic of),2038,180681.0
+IRN,Iran (Islamic Republic of),2039,180681.0
+IRN,Iran (Islamic Republic of),2040,180681.0
+IRN,Iran (Islamic Republic of),2041,180681.0
+IRN,Iran (Islamic Republic of),2042,180681.0
+IRN,Iran (Islamic Republic of),2043,180681.0
+IRN,Iran (Islamic Republic of),2044,180681.0
+IRN,Iran (Islamic Republic of),2045,180681.0
+IRN,Iran (Islamic Republic of),2046,180681.0
+IRN,Iran (Islamic Republic of),2047,180681.0
+IRN,Iran (Islamic Republic of),2048,180681.0
+IRN,Iran (Islamic Republic of),2049,180681.0
+IRN,Iran (Islamic Republic of),2050,180681.0
+IRQ,Iraq,2023,10400.0
+IRQ,Iraq,2024,10400.0
+IRQ,Iraq,2025,10400.0
+IRQ,Iraq,2026,10400.0
+IRQ,Iraq,2027,10400.0
+IRQ,Iraq,2028,10400.0
+IRQ,Iraq,2029,10400.0
+IRQ,Iraq,2030,10400.0
+IRQ,Iraq,2031,10400.0
+IRQ,Iraq,2032,10400.0
+IRQ,Iraq,2033,10400.0
+IRQ,Iraq,2034,10400.0
+IRQ,Iraq,2035,10400.0
+IRQ,Iraq,2036,10400.0
+IRQ,Iraq,2037,10400.0
+IRQ,Iraq,2038,10400.0
+IRQ,Iraq,2039,10400.0
+IRQ,Iraq,2040,10400.0
+IRQ,Iraq,2041,10400.0
+IRQ,Iraq,2042,10400.0
+IRQ,Iraq,2043,10400.0
+IRQ,Iraq,2044,10400.0
+IRQ,Iraq,2045,10400.0
+IRQ,Iraq,2046,10400.0
+IRQ,Iraq,2047,10400.0
+IRQ,Iraq,2048,10400.0
+IRQ,Iraq,2049,10400.0
+IRQ,Iraq,2050,10400.0
+ISL,Iceland,2023,0.0
+ISL,Iceland,2024,0.0
+ISL,Iceland,2025,0.0
+ISL,Iceland,2026,0.0
+ISL,Iceland,2027,0.0
+ISL,Iceland,2028,0.0
+ISL,Iceland,2029,0.0
+ISL,Iceland,2030,0.0
+ISL,Iceland,2031,0.0
+ISL,Iceland,2032,0.0
+ISL,Iceland,2033,0.0
+ISL,Iceland,2034,0.0
+ISL,Iceland,2035,0.0
+ISL,Iceland,2036,0.0
+ISL,Iceland,2037,0.0
+ISL,Iceland,2038,0.0
+ISL,Iceland,2039,0.0
+ISL,Iceland,2040,0.0
+ISL,Iceland,2041,0.0
+ISL,Iceland,2042,0.0
+ISL,Iceland,2043,0.0
+ISL,Iceland,2044,0.0
+ISL,Iceland,2045,0.0
+ISL,Iceland,2046,0.0
+ISL,Iceland,2047,0.0
+ISL,Iceland,2048,0.0
+ISL,Iceland,2049,0.0
+ISL,Iceland,2050,0.0
+ISR,Israel,2023,1600.0
+ISR,Israel,2024,1600.0
+ISR,Israel,2025,1600.0
+ISR,Israel,2026,1600.0
+ISR,Israel,2027,1600.0
+ISR,Israel,2028,1600.0
+ISR,Israel,2029,1600.0
+ISR,Israel,2030,1600.0
+ISR,Israel,2031,1600.0
+ISR,Israel,2032,1600.0
+ISR,Israel,2033,1600.0
+ISR,Israel,2034,1600.0
+ISR,Israel,2035,1600.0
+ISR,Israel,2036,1600.0
+ISR,Israel,2037,1600.0
+ISR,Israel,2038,1600.0
+ISR,Israel,2039,1600.0
+ISR,Israel,2040,1600.0
+ISR,Israel,2041,1600.0
+ISR,Israel,2042,1600.0
+ISR,Israel,2043,1600.0
+ISR,Israel,2044,1600.0
+ISR,Israel,2045,1600.0
+ISR,Israel,2046,1600.0
+ISR,Israel,2047,1600.0
+ISR,Israel,2048,1600.0
+ISR,Israel,2049,1600.0
+ISR,Israel,2050,1600.0
+ITA,Italy,2023,0.0
+ITA,Italy,2024,0.0
+ITA,Italy,2025,0.0
+ITA,Italy,2026,0.0
+ITA,Italy,2027,0.0
+ITA,Italy,2028,0.0
+ITA,Italy,2029,0.0
+ITA,Italy,2030,0.0
+ITA,Italy,2031,0.0
+ITA,Italy,2032,0.0
+ITA,Italy,2033,0.0
+ITA,Italy,2034,0.0
+ITA,Italy,2035,0.0
+ITA,Italy,2036,0.0
+ITA,Italy,2037,0.0
+ITA,Italy,2038,0.0
+ITA,Italy,2039,0.0
+ITA,Italy,2040,0.0
+ITA,Italy,2041,0.0
+ITA,Italy,2042,0.0
+ITA,Italy,2043,0.0
+ITA,Italy,2044,0.0
+ITA,Italy,2045,0.0
+ITA,Italy,2046,0.0
+ITA,Italy,2047,0.0
+ITA,Italy,2048,0.0
+ITA,Italy,2049,0.0
+ITA,Italy,2050,0.0
+JAM,Jamaica,2023,10000.0
+JAM,Jamaica,2024,10000.0
+JAM,Jamaica,2025,10000.0
+JAM,Jamaica,2026,10000.0
+JAM,Jamaica,2027,10000.0
+JAM,Jamaica,2028,10000.0
+JAM,Jamaica,2029,10000.0
+JAM,Jamaica,2030,10000.0
+JAM,Jamaica,2031,10000.0
+JAM,Jamaica,2032,10000.0
+JAM,Jamaica,2033,10000.0
+JAM,Jamaica,2034,10000.0
+JAM,Jamaica,2035,10000.0
+JAM,Jamaica,2036,10000.0
+JAM,Jamaica,2037,10000.0
+JAM,Jamaica,2038,10000.0
+JAM,Jamaica,2039,10000.0
+JAM,Jamaica,2040,10000.0
+JAM,Jamaica,2041,10000.0
+JAM,Jamaica,2042,10000.0
+JAM,Jamaica,2043,10000.0
+JAM,Jamaica,2044,10000.0
+JAM,Jamaica,2045,10000.0
+JAM,Jamaica,2046,10000.0
+JAM,Jamaica,2047,10000.0
+JAM,Jamaica,2048,10000.0
+JAM,Jamaica,2049,10000.0
+JAM,Jamaica,2050,10000.0
+JOR,Jordan,2023,624.0
+JOR,Jordan,2024,624.0
+JOR,Jordan,2025,624.0
+JOR,Jordan,2026,624.0
+JOR,Jordan,2027,624.0
+JOR,Jordan,2028,624.0
+JOR,Jordan,2029,624.0
+JOR,Jordan,2030,624.0
+JOR,Jordan,2031,624.0
+JOR,Jordan,2032,624.0
+JOR,Jordan,2033,624.0
+JOR,Jordan,2034,624.0
+JOR,Jordan,2035,624.0
+JOR,Jordan,2036,624.0
+JOR,Jordan,2037,624.0
+JOR,Jordan,2038,624.0
+JOR,Jordan,2039,624.0
+JOR,Jordan,2040,624.0
+JOR,Jordan,2041,624.0
+JOR,Jordan,2042,624.0
+JOR,Jordan,2043,624.0
+JOR,Jordan,2044,624.0
+JOR,Jordan,2045,624.0
+JOR,Jordan,2046,624.0
+JOR,Jordan,2047,624.0
+JOR,Jordan,2048,624.0
+JOR,Jordan,2049,624.0
+JOR,Jordan,2050,624.0
+JPN,Japan,2023,0.0
+JPN,Japan,2024,0.0
+JPN,Japan,2025,0.0
+JPN,Japan,2026,0.0
+JPN,Japan,2027,0.0
+JPN,Japan,2028,0.0
+JPN,Japan,2029,0.0
+JPN,Japan,2030,0.0
+JPN,Japan,2031,0.0
+JPN,Japan,2032,0.0
+JPN,Japan,2033,0.0
+JPN,Japan,2034,0.0
+JPN,Japan,2035,0.0
+JPN,Japan,2036,0.0
+JPN,Japan,2037,0.0
+JPN,Japan,2038,0.0
+JPN,Japan,2039,0.0
+JPN,Japan,2040,0.0
+JPN,Japan,2041,0.0
+JPN,Japan,2042,0.0
+JPN,Japan,2043,0.0
+JPN,Japan,2044,0.0
+JPN,Japan,2045,0.0
+JPN,Japan,2046,0.0
+JPN,Japan,2047,0.0
+JPN,Japan,2048,0.0
+JPN,Japan,2049,0.0
+JPN,Japan,2050,0.0
+KAZ,Kazakhstan,2023,0.0
+KAZ,Kazakhstan,2024,0.0
+KAZ,Kazakhstan,2025,0.0
+KAZ,Kazakhstan,2026,0.0
+KAZ,Kazakhstan,2027,0.0
+KAZ,Kazakhstan,2028,0.0
+KAZ,Kazakhstan,2029,0.0
+KAZ,Kazakhstan,2030,0.0
+KAZ,Kazakhstan,2031,0.0
+KAZ,Kazakhstan,2032,0.0
+KAZ,Kazakhstan,2033,0.0
+KAZ,Kazakhstan,2034,0.0
+KAZ,Kazakhstan,2035,0.0
+KAZ,Kazakhstan,2036,0.0
+KAZ,Kazakhstan,2037,0.0
+KAZ,Kazakhstan,2038,0.0
+KAZ,Kazakhstan,2039,0.0
+KAZ,Kazakhstan,2040,0.0
+KAZ,Kazakhstan,2041,0.0
+KAZ,Kazakhstan,2042,0.0
+KAZ,Kazakhstan,2043,0.0
+KAZ,Kazakhstan,2044,0.0
+KAZ,Kazakhstan,2045,0.0
+KAZ,Kazakhstan,2046,0.0
+KAZ,Kazakhstan,2047,0.0
+KAZ,Kazakhstan,2048,0.0
+KAZ,Kazakhstan,2049,0.0
+KAZ,Kazakhstan,2050,0.0
+KEN,Kenya,2023,0.0
+KEN,Kenya,2024,0.0
+KEN,Kenya,2025,0.0
+KEN,Kenya,2026,0.0
+KEN,Kenya,2027,0.0
+KEN,Kenya,2028,0.0
+KEN,Kenya,2029,0.0
+KEN,Kenya,2030,0.0
+KEN,Kenya,2031,0.0
+KEN,Kenya,2032,0.0
+KEN,Kenya,2033,0.0
+KEN,Kenya,2034,0.0
+KEN,Kenya,2035,0.0
+KEN,Kenya,2036,0.0
+KEN,Kenya,2037,0.0
+KEN,Kenya,2038,0.0
+KEN,Kenya,2039,0.0
+KEN,Kenya,2040,0.0
+KEN,Kenya,2041,0.0
+KEN,Kenya,2042,0.0
+KEN,Kenya,2043,0.0
+KEN,Kenya,2044,0.0
+KEN,Kenya,2045,0.0
+KEN,Kenya,2046,0.0
+KEN,Kenya,2047,0.0
+KEN,Kenya,2048,0.0
+KEN,Kenya,2049,0.0
+KEN,Kenya,2050,0.0
+KGZ,Kyrgyzstan,2023,500.0
+KGZ,Kyrgyzstan,2024,500.0
+KGZ,Kyrgyzstan,2025,500.0
+KGZ,Kyrgyzstan,2026,500.0
+KGZ,Kyrgyzstan,2027,500.0
+KGZ,Kyrgyzstan,2028,500.0
+KGZ,Kyrgyzstan,2029,500.0
+KGZ,Kyrgyzstan,2030,500.0
+KGZ,Kyrgyzstan,2031,500.0
+KGZ,Kyrgyzstan,2032,500.0
+KGZ,Kyrgyzstan,2033,500.0
+KGZ,Kyrgyzstan,2034,500.0
+KGZ,Kyrgyzstan,2035,500.0
+KGZ,Kyrgyzstan,2036,500.0
+KGZ,Kyrgyzstan,2037,500.0
+KGZ,Kyrgyzstan,2038,500.0
+KGZ,Kyrgyzstan,2039,500.0
+KGZ,Kyrgyzstan,2040,500.0
+KGZ,Kyrgyzstan,2041,500.0
+KGZ,Kyrgyzstan,2042,500.0
+KGZ,Kyrgyzstan,2043,500.0
+KGZ,Kyrgyzstan,2044,500.0
+KGZ,Kyrgyzstan,2045,500.0
+KGZ,Kyrgyzstan,2046,500.0
+KGZ,Kyrgyzstan,2047,500.0
+KGZ,Kyrgyzstan,2048,500.0
+KGZ,Kyrgyzstan,2049,500.0
+KGZ,Kyrgyzstan,2050,500.0
+KHM,Cambodia,2023,0.0
+KHM,Cambodia,2024,0.0
+KHM,Cambodia,2025,0.0
+KHM,Cambodia,2026,0.0
+KHM,Cambodia,2027,0.0
+KHM,Cambodia,2028,0.0
+KHM,Cambodia,2029,0.0
+KHM,Cambodia,2030,0.0
+KHM,Cambodia,2031,0.0
+KHM,Cambodia,2032,0.0
+KHM,Cambodia,2033,0.0
+KHM,Cambodia,2034,0.0
+KHM,Cambodia,2035,0.0
+KHM,Cambodia,2036,0.0
+KHM,Cambodia,2037,0.0
+KHM,Cambodia,2038,0.0
+KHM,Cambodia,2039,0.0
+KHM,Cambodia,2040,0.0
+KHM,Cambodia,2041,0.0
+KHM,Cambodia,2042,0.0
+KHM,Cambodia,2043,0.0
+KHM,Cambodia,2044,0.0
+KHM,Cambodia,2045,0.0
+KHM,Cambodia,2046,0.0
+KHM,Cambodia,2047,0.0
+KHM,Cambodia,2048,0.0
+KHM,Cambodia,2049,0.0
+KHM,Cambodia,2050,0.0
+KIR,Kiribati,2023,0.0
+KIR,Kiribati,2024,0.0
+KIR,Kiribati,2025,0.0
+KIR,Kiribati,2026,0.0
+KIR,Kiribati,2027,0.0
+KIR,Kiribati,2028,0.0
+KIR,Kiribati,2029,0.0
+KIR,Kiribati,2030,0.0
+KIR,Kiribati,2031,0.0
+KIR,Kiribati,2032,0.0
+KIR,Kiribati,2033,0.0
+KIR,Kiribati,2034,0.0
+KIR,Kiribati,2035,0.0
+KIR,Kiribati,2036,0.0
+KIR,Kiribati,2037,0.0
+KIR,Kiribati,2038,0.0
+KIR,Kiribati,2039,0.0
+KIR,Kiribati,2040,0.0
+KIR,Kiribati,2041,0.0
+KIR,Kiribati,2042,0.0
+KIR,Kiribati,2043,0.0
+KIR,Kiribati,2044,0.0
+KIR,Kiribati,2045,0.0
+KIR,Kiribati,2046,0.0
+KIR,Kiribati,2047,0.0
+KIR,Kiribati,2048,0.0
+KIR,Kiribati,2049,0.0
+KIR,Kiribati,2050,0.0
+KNA,Saint Kitts and Nevis,2023,0.0
+KNA,Saint Kitts and Nevis,2024,0.0
+KNA,Saint Kitts and Nevis,2025,0.0
+KNA,Saint Kitts and Nevis,2026,0.0
+KNA,Saint Kitts and Nevis,2027,0.0
+KNA,Saint Kitts and Nevis,2028,0.0
+KNA,Saint Kitts and Nevis,2029,0.0
+KNA,Saint Kitts and Nevis,2030,0.0
+KNA,Saint Kitts and Nevis,2031,0.0
+KNA,Saint Kitts and Nevis,2032,0.0
+KNA,Saint Kitts and Nevis,2033,0.0
+KNA,Saint Kitts and Nevis,2034,0.0
+KNA,Saint Kitts and Nevis,2035,0.0
+KNA,Saint Kitts and Nevis,2036,0.0
+KNA,Saint Kitts and Nevis,2037,0.0
+KNA,Saint Kitts and Nevis,2038,0.0
+KNA,Saint Kitts and Nevis,2039,0.0
+KNA,Saint Kitts and Nevis,2040,0.0
+KNA,Saint Kitts and Nevis,2041,0.0
+KNA,Saint Kitts and Nevis,2042,0.0
+KNA,Saint Kitts and Nevis,2043,0.0
+KNA,Saint Kitts and Nevis,2044,0.0
+KNA,Saint Kitts and Nevis,2045,0.0
+KNA,Saint Kitts and Nevis,2046,0.0
+KNA,Saint Kitts and Nevis,2047,0.0
+KNA,Saint Kitts and Nevis,2048,0.0
+KNA,Saint Kitts and Nevis,2049,0.0
+KNA,Saint Kitts and Nevis,2050,0.0
+KOR,Republic of Korea,2023,0.0
+KOR,Republic of Korea,2024,0.0
+KOR,Republic of Korea,2025,0.0
+KOR,Republic of Korea,2026,0.0
+KOR,Republic of Korea,2027,0.0
+KOR,Republic of Korea,2028,0.0
+KOR,Republic of Korea,2029,0.0
+KOR,Republic of Korea,2030,0.0
+KOR,Republic of Korea,2031,0.0
+KOR,Republic of Korea,2032,0.0
+KOR,Republic of Korea,2033,0.0
+KOR,Republic of Korea,2034,0.0
+KOR,Republic of Korea,2035,0.0
+KOR,Republic of Korea,2036,0.0
+KOR,Republic of Korea,2037,0.0
+KOR,Republic of Korea,2038,0.0
+KOR,Republic of Korea,2039,0.0
+KOR,Republic of Korea,2040,0.0
+KOR,Republic of Korea,2041,0.0
+KOR,Republic of Korea,2042,0.0
+KOR,Republic of Korea,2043,0.0
+KOR,Republic of Korea,2044,0.0
+KOR,Republic of Korea,2045,0.0
+KOR,Republic of Korea,2046,0.0
+KOR,Republic of Korea,2047,0.0
+KOR,Republic of Korea,2048,0.0
+KOR,Republic of Korea,2049,0.0
+KOR,Republic of Korea,2050,0.0
+KWT,Kuwait,2023,0.0
+KWT,Kuwait,2024,0.0
+KWT,Kuwait,2025,0.0
+KWT,Kuwait,2026,0.0
+KWT,Kuwait,2027,0.0
+KWT,Kuwait,2028,0.0
+KWT,Kuwait,2029,0.0
+KWT,Kuwait,2030,0.0
+KWT,Kuwait,2031,0.0
+KWT,Kuwait,2032,0.0
+KWT,Kuwait,2033,0.0
+KWT,Kuwait,2034,0.0
+KWT,Kuwait,2035,0.0
+KWT,Kuwait,2036,0.0
+KWT,Kuwait,2037,0.0
+KWT,Kuwait,2038,0.0
+KWT,Kuwait,2039,0.0
+KWT,Kuwait,2040,0.0
+KWT,Kuwait,2041,0.0
+KWT,Kuwait,2042,0.0
+KWT,Kuwait,2043,0.0
+KWT,Kuwait,2044,0.0
+KWT,Kuwait,2045,0.0
+KWT,Kuwait,2046,0.0
+KWT,Kuwait,2047,0.0
+KWT,Kuwait,2048,0.0
+KWT,Kuwait,2049,0.0
+KWT,Kuwait,2050,0.0
+LAO,Lao People's Democratic Republic,2023,0.0
+LAO,Lao People's Democratic Republic,2024,0.0
+LAO,Lao People's Democratic Republic,2025,0.0
+LAO,Lao People's Democratic Republic,2026,0.0
+LAO,Lao People's Democratic Republic,2027,0.0
+LAO,Lao People's Democratic Republic,2028,0.0
+LAO,Lao People's Democratic Republic,2029,0.0
+LAO,Lao People's Democratic Republic,2030,0.0
+LAO,Lao People's Democratic Republic,2031,0.0
+LAO,Lao People's Democratic Republic,2032,0.0
+LAO,Lao People's Democratic Republic,2033,0.0
+LAO,Lao People's Democratic Republic,2034,0.0
+LAO,Lao People's Democratic Republic,2035,0.0
+LAO,Lao People's Democratic Republic,2036,0.0
+LAO,Lao People's Democratic Republic,2037,0.0
+LAO,Lao People's Democratic Republic,2038,0.0
+LAO,Lao People's Democratic Republic,2039,0.0
+LAO,Lao People's Democratic Republic,2040,0.0
+LAO,Lao People's Democratic Republic,2041,0.0
+LAO,Lao People's Democratic Republic,2042,0.0
+LAO,Lao People's Democratic Republic,2043,0.0
+LAO,Lao People's Democratic Republic,2044,0.0
+LAO,Lao People's Democratic Republic,2045,0.0
+LAO,Lao People's Democratic Republic,2046,0.0
+LAO,Lao People's Democratic Republic,2047,0.0
+LAO,Lao People's Democratic Republic,2048,0.0
+LAO,Lao People's Democratic Republic,2049,0.0
+LAO,Lao People's Democratic Republic,2050,0.0
+LBN,Lebanon,2023,14904.0
+LBN,Lebanon,2024,14904.0
+LBN,Lebanon,2025,14904.0
+LBN,Lebanon,2026,14904.0
+LBN,Lebanon,2027,14904.0
+LBN,Lebanon,2028,14904.0
+LBN,Lebanon,2029,14904.0
+LBN,Lebanon,2030,14904.0
+LBN,Lebanon,2031,14904.0
+LBN,Lebanon,2032,14904.0
+LBN,Lebanon,2033,14904.0
+LBN,Lebanon,2034,14904.0
+LBN,Lebanon,2035,14904.0
+LBN,Lebanon,2036,14904.0
+LBN,Lebanon,2037,14904.0
+LBN,Lebanon,2038,14904.0
+LBN,Lebanon,2039,14904.0
+LBN,Lebanon,2040,14904.0
+LBN,Lebanon,2041,14904.0
+LBN,Lebanon,2042,14904.0
+LBN,Lebanon,2043,14904.0
+LBN,Lebanon,2044,14904.0
+LBN,Lebanon,2045,14904.0
+LBN,Lebanon,2046,14904.0
+LBN,Lebanon,2047,14904.0
+LBN,Lebanon,2048,14904.0
+LBN,Lebanon,2049,14904.0
+LBN,Lebanon,2050,14904.0
+LBR,Liberia,2023,0.0
+LBR,Liberia,2024,0.0
+LBR,Liberia,2025,0.0
+LBR,Liberia,2026,0.0
+LBR,Liberia,2027,0.0
+LBR,Liberia,2028,0.0
+LBR,Liberia,2029,0.0
+LBR,Liberia,2030,0.0
+LBR,Liberia,2031,0.0
+LBR,Liberia,2032,0.0
+LBR,Liberia,2033,0.0
+LBR,Liberia,2034,0.0
+LBR,Liberia,2035,0.0
+LBR,Liberia,2036,0.0
+LBR,Liberia,2037,0.0
+LBR,Liberia,2038,0.0
+LBR,Liberia,2039,0.0
+LBR,Liberia,2040,0.0
+LBR,Liberia,2041,0.0
+LBR,Liberia,2042,0.0
+LBR,Liberia,2043,0.0
+LBR,Liberia,2044,0.0
+LBR,Liberia,2045,0.0
+LBR,Liberia,2046,0.0
+LBR,Liberia,2047,0.0
+LBR,Liberia,2048,0.0
+LBR,Liberia,2049,0.0
+LBR,Liberia,2050,0.0
+LBY,Libya,2023,0.0
+LBY,Libya,2024,0.0
+LBY,Libya,2025,0.0
+LBY,Libya,2026,0.0
+LBY,Libya,2027,0.0
+LBY,Libya,2028,0.0
+LBY,Libya,2029,0.0
+LBY,Libya,2030,0.0
+LBY,Libya,2031,0.0
+LBY,Libya,2032,0.0
+LBY,Libya,2033,0.0
+LBY,Libya,2034,0.0
+LBY,Libya,2035,0.0
+LBY,Libya,2036,0.0
+LBY,Libya,2037,0.0
+LBY,Libya,2038,0.0
+LBY,Libya,2039,0.0
+LBY,Libya,2040,0.0
+LBY,Libya,2041,0.0
+LBY,Libya,2042,0.0
+LBY,Libya,2043,0.0
+LBY,Libya,2044,0.0
+LBY,Libya,2045,0.0
+LBY,Libya,2046,0.0
+LBY,Libya,2047,0.0
+LBY,Libya,2048,0.0
+LBY,Libya,2049,0.0
+LBY,Libya,2050,0.0
+LCA,Saint Lucia,2023,1106.0
+LCA,Saint Lucia,2024,1106.0
+LCA,Saint Lucia,2025,1106.0
+LCA,Saint Lucia,2026,1106.0
+LCA,Saint Lucia,2027,1106.0
+LCA,Saint Lucia,2028,1106.0
+LCA,Saint Lucia,2029,1106.0
+LCA,Saint Lucia,2030,1106.0
+LCA,Saint Lucia,2031,1106.0
+LCA,Saint Lucia,2032,1106.0
+LCA,Saint Lucia,2033,1106.0
+LCA,Saint Lucia,2034,1106.0
+LCA,Saint Lucia,2035,1106.0
+LCA,Saint Lucia,2036,1106.0
+LCA,Saint Lucia,2037,1106.0
+LCA,Saint Lucia,2038,1106.0
+LCA,Saint Lucia,2039,1106.0
+LCA,Saint Lucia,2040,1106.0
+LCA,Saint Lucia,2041,1106.0
+LCA,Saint Lucia,2042,1106.0
+LCA,Saint Lucia,2043,1106.0
+LCA,Saint Lucia,2044,1106.0
+LCA,Saint Lucia,2045,1106.0
+LCA,Saint Lucia,2046,1106.0
+LCA,Saint Lucia,2047,1106.0
+LCA,Saint Lucia,2048,1106.0
+LCA,Saint Lucia,2049,1106.0
+LCA,Saint Lucia,2050,1106.0
+LKA,Sri Lanka,2023,0.0
+LKA,Sri Lanka,2024,0.0
+LKA,Sri Lanka,2025,0.0
+LKA,Sri Lanka,2026,0.0
+LKA,Sri Lanka,2027,0.0
+LKA,Sri Lanka,2028,0.0
+LKA,Sri Lanka,2029,0.0
+LKA,Sri Lanka,2030,0.0
+LKA,Sri Lanka,2031,0.0
+LKA,Sri Lanka,2032,0.0
+LKA,Sri Lanka,2033,0.0
+LKA,Sri Lanka,2034,0.0
+LKA,Sri Lanka,2035,0.0
+LKA,Sri Lanka,2036,0.0
+LKA,Sri Lanka,2037,0.0
+LKA,Sri Lanka,2038,0.0
+LKA,Sri Lanka,2039,0.0
+LKA,Sri Lanka,2040,0.0
+LKA,Sri Lanka,2041,0.0
+LKA,Sri Lanka,2042,0.0
+LKA,Sri Lanka,2043,0.0
+LKA,Sri Lanka,2044,0.0
+LKA,Sri Lanka,2045,0.0
+LKA,Sri Lanka,2046,0.0
+LKA,Sri Lanka,2047,0.0
+LKA,Sri Lanka,2048,0.0
+LKA,Sri Lanka,2049,0.0
+LKA,Sri Lanka,2050,0.0
+LSO,Lesotho,2023,1203.0
+LSO,Lesotho,2024,1203.0
+LSO,Lesotho,2025,1203.0
+LSO,Lesotho,2026,1203.0
+LSO,Lesotho,2027,1203.0
+LSO,Lesotho,2028,1203.0
+LSO,Lesotho,2029,1203.0
+LSO,Lesotho,2030,1203.0
+LSO,Lesotho,2031,1203.0
+LSO,Lesotho,2032,1203.0
+LSO,Lesotho,2033,1203.0
+LSO,Lesotho,2034,1203.0
+LSO,Lesotho,2035,1203.0
+LSO,Lesotho,2036,1203.0
+LSO,Lesotho,2037,1203.0
+LSO,Lesotho,2038,1203.0
+LSO,Lesotho,2039,1203.0
+LSO,Lesotho,2040,1203.0
+LSO,Lesotho,2041,1203.0
+LSO,Lesotho,2042,1203.0
+LSO,Lesotho,2043,1203.0
+LSO,Lesotho,2044,1203.0
+LSO,Lesotho,2045,1203.0
+LSO,Lesotho,2046,1203.0
+LSO,Lesotho,2047,1203.0
+LSO,Lesotho,2048,1203.0
+LSO,Lesotho,2049,1203.0
+LSO,Lesotho,2050,1203.0
+LTU,Lithuania,2023,0.0
+LTU,Lithuania,2024,0.0
+LTU,Lithuania,2025,0.0
+LTU,Lithuania,2026,0.0
+LTU,Lithuania,2027,0.0
+LTU,Lithuania,2028,0.0
+LTU,Lithuania,2029,0.0
+LTU,Lithuania,2030,0.0
+LTU,Lithuania,2031,0.0
+LTU,Lithuania,2032,0.0
+LTU,Lithuania,2033,0.0
+LTU,Lithuania,2034,0.0
+LTU,Lithuania,2035,0.0
+LTU,Lithuania,2036,0.0
+LTU,Lithuania,2037,0.0
+LTU,Lithuania,2038,0.0
+LTU,Lithuania,2039,0.0
+LTU,Lithuania,2040,0.0
+LTU,Lithuania,2041,0.0
+LTU,Lithuania,2042,0.0
+LTU,Lithuania,2043,0.0
+LTU,Lithuania,2044,0.0
+LTU,Lithuania,2045,0.0
+LTU,Lithuania,2046,0.0
+LTU,Lithuania,2047,0.0
+LTU,Lithuania,2048,0.0
+LTU,Lithuania,2049,0.0
+LTU,Lithuania,2050,0.0
+LUX,Luxembourg,2023,0.0
+LUX,Luxembourg,2024,0.0
+LUX,Luxembourg,2025,0.0
+LUX,Luxembourg,2026,0.0
+LUX,Luxembourg,2027,0.0
+LUX,Luxembourg,2028,0.0
+LUX,Luxembourg,2029,0.0
+LUX,Luxembourg,2030,0.0
+LUX,Luxembourg,2031,0.0
+LUX,Luxembourg,2032,0.0
+LUX,Luxembourg,2033,0.0
+LUX,Luxembourg,2034,0.0
+LUX,Luxembourg,2035,0.0
+LUX,Luxembourg,2036,0.0
+LUX,Luxembourg,2037,0.0
+LUX,Luxembourg,2038,0.0
+LUX,Luxembourg,2039,0.0
+LUX,Luxembourg,2040,0.0
+LUX,Luxembourg,2041,0.0
+LUX,Luxembourg,2042,0.0
+LUX,Luxembourg,2043,0.0
+LUX,Luxembourg,2044,0.0
+LUX,Luxembourg,2045,0.0
+LUX,Luxembourg,2046,0.0
+LUX,Luxembourg,2047,0.0
+LUX,Luxembourg,2048,0.0
+LUX,Luxembourg,2049,0.0
+LUX,Luxembourg,2050,0.0
+LVA,Latvia,2023,0.0
+LVA,Latvia,2024,0.0
+LVA,Latvia,2025,0.0
+LVA,Latvia,2026,0.0
+LVA,Latvia,2027,0.0
+LVA,Latvia,2028,0.0
+LVA,Latvia,2029,0.0
+LVA,Latvia,2030,0.0
+LVA,Latvia,2031,0.0
+LVA,Latvia,2032,0.0
+LVA,Latvia,2033,0.0
+LVA,Latvia,2034,0.0
+LVA,Latvia,2035,0.0
+LVA,Latvia,2036,0.0
+LVA,Latvia,2037,0.0
+LVA,Latvia,2038,0.0
+LVA,Latvia,2039,0.0
+LVA,Latvia,2040,0.0
+LVA,Latvia,2041,0.0
+LVA,Latvia,2042,0.0
+LVA,Latvia,2043,0.0
+LVA,Latvia,2044,0.0
+LVA,Latvia,2045,0.0
+LVA,Latvia,2046,0.0
+LVA,Latvia,2047,0.0
+LVA,Latvia,2048,0.0
+LVA,Latvia,2049,0.0
+LVA,Latvia,2050,0.0
+MAC,"China, Macao SAR",2023,0.0
+MAC,"China, Macao SAR",2024,0.0
+MAC,"China, Macao SAR",2025,0.0
+MAC,"China, Macao SAR",2026,0.0
+MAC,"China, Macao SAR",2027,0.0
+MAC,"China, Macao SAR",2028,0.0
+MAC,"China, Macao SAR",2029,0.0
+MAC,"China, Macao SAR",2030,0.0
+MAC,"China, Macao SAR",2031,0.0
+MAC,"China, Macao SAR",2032,0.0
+MAC,"China, Macao SAR",2033,0.0
+MAC,"China, Macao SAR",2034,0.0
+MAC,"China, Macao SAR",2035,0.0
+MAC,"China, Macao SAR",2036,0.0
+MAC,"China, Macao SAR",2037,0.0
+MAC,"China, Macao SAR",2038,0.0
+MAC,"China, Macao SAR",2039,0.0
+MAC,"China, Macao SAR",2040,0.0
+MAC,"China, Macao SAR",2041,0.0
+MAC,"China, Macao SAR",2042,0.0
+MAC,"China, Macao SAR",2043,0.0
+MAC,"China, Macao SAR",2044,0.0
+MAC,"China, Macao SAR",2045,0.0
+MAC,"China, Macao SAR",2046,0.0
+MAC,"China, Macao SAR",2047,0.0
+MAC,"China, Macao SAR",2048,0.0
+MAC,"China, Macao SAR",2049,0.0
+MAC,"China, Macao SAR",2050,0.0
+MAR,Morocco,2023,381990.0
+MAR,Morocco,2024,381990.0
+MAR,Morocco,2025,381990.0
+MAR,Morocco,2026,381990.0
+MAR,Morocco,2027,381990.0
+MAR,Morocco,2028,381990.0
+MAR,Morocco,2029,381990.0
+MAR,Morocco,2030,381990.0
+MAR,Morocco,2031,381990.0
+MAR,Morocco,2032,381990.0
+MAR,Morocco,2033,381990.0
+MAR,Morocco,2034,381990.0
+MAR,Morocco,2035,381990.0
+MAR,Morocco,2036,381990.0
+MAR,Morocco,2037,381990.0
+MAR,Morocco,2038,381990.0
+MAR,Morocco,2039,381990.0
+MAR,Morocco,2040,381990.0
+MAR,Morocco,2041,381990.0
+MAR,Morocco,2042,381990.0
+MAR,Morocco,2043,381990.0
+MAR,Morocco,2044,381990.0
+MAR,Morocco,2045,381990.0
+MAR,Morocco,2046,381990.0
+MAR,Morocco,2047,381990.0
+MAR,Morocco,2048,381990.0
+MAR,Morocco,2049,381990.0
+MAR,Morocco,2050,381990.0
+MDA,Republic of Moldova,2023,0.0
+MDA,Republic of Moldova,2024,0.0
+MDA,Republic of Moldova,2025,0.0
+MDA,Republic of Moldova,2026,0.0
+MDA,Republic of Moldova,2027,0.0
+MDA,Republic of Moldova,2028,0.0
+MDA,Republic of Moldova,2029,0.0
+MDA,Republic of Moldova,2030,0.0
+MDA,Republic of Moldova,2031,0.0
+MDA,Republic of Moldova,2032,0.0
+MDA,Republic of Moldova,2033,0.0
+MDA,Republic of Moldova,2034,0.0
+MDA,Republic of Moldova,2035,0.0
+MDA,Republic of Moldova,2036,0.0
+MDA,Republic of Moldova,2037,0.0
+MDA,Republic of Moldova,2038,0.0
+MDA,Republic of Moldova,2039,0.0
+MDA,Republic of Moldova,2040,0.0
+MDA,Republic of Moldova,2041,0.0
+MDA,Republic of Moldova,2042,0.0
+MDA,Republic of Moldova,2043,0.0
+MDA,Republic of Moldova,2044,0.0
+MDA,Republic of Moldova,2045,0.0
+MDA,Republic of Moldova,2046,0.0
+MDA,Republic of Moldova,2047,0.0
+MDA,Republic of Moldova,2048,0.0
+MDA,Republic of Moldova,2049,0.0
+MDA,Republic of Moldova,2050,0.0
+MDG,Madagascar,2023,0.0
+MDG,Madagascar,2024,0.0
+MDG,Madagascar,2025,0.0
+MDG,Madagascar,2026,0.0
+MDG,Madagascar,2027,0.0
+MDG,Madagascar,2028,0.0
+MDG,Madagascar,2029,0.0
+MDG,Madagascar,2030,0.0
+MDG,Madagascar,2031,0.0
+MDG,Madagascar,2032,0.0
+MDG,Madagascar,2033,0.0
+MDG,Madagascar,2034,0.0
+MDG,Madagascar,2035,0.0
+MDG,Madagascar,2036,0.0
+MDG,Madagascar,2037,0.0
+MDG,Madagascar,2038,0.0
+MDG,Madagascar,2039,0.0
+MDG,Madagascar,2040,0.0
+MDG,Madagascar,2041,0.0
+MDG,Madagascar,2042,0.0
+MDG,Madagascar,2043,0.0
+MDG,Madagascar,2044,0.0
+MDG,Madagascar,2045,0.0
+MDG,Madagascar,2046,0.0
+MDG,Madagascar,2047,0.0
+MDG,Madagascar,2048,0.0
+MDG,Madagascar,2049,0.0
+MDG,Madagascar,2050,0.0
+MEX,Mexico,2023,3290959.0
+MEX,Mexico,2024,3290959.0
+MEX,Mexico,2025,3290959.0
+MEX,Mexico,2026,3290959.0
+MEX,Mexico,2027,3290959.0
+MEX,Mexico,2028,3290959.0
+MEX,Mexico,2029,3290959.0
+MEX,Mexico,2030,3290959.0
+MEX,Mexico,2031,3290959.0
+MEX,Mexico,2032,3290959.0
+MEX,Mexico,2033,3290959.0
+MEX,Mexico,2034,3290959.0
+MEX,Mexico,2035,3290959.0
+MEX,Mexico,2036,3290959.0
+MEX,Mexico,2037,3290959.0
+MEX,Mexico,2038,3290959.0
+MEX,Mexico,2039,3290959.0
+MEX,Mexico,2040,3290959.0
+MEX,Mexico,2041,3290959.0
+MEX,Mexico,2042,3290959.0
+MEX,Mexico,2043,3290959.0
+MEX,Mexico,2044,3290959.0
+MEX,Mexico,2045,3290959.0
+MEX,Mexico,2046,3290959.0
+MEX,Mexico,2047,3290959.0
+MEX,Mexico,2048,3290959.0
+MEX,Mexico,2049,3290959.0
+MEX,Mexico,2050,3290959.0
+MKD,North Macedonia,2023,0.0
+MKD,North Macedonia,2024,0.0
+MKD,North Macedonia,2025,0.0
+MKD,North Macedonia,2026,0.0
+MKD,North Macedonia,2027,0.0
+MKD,North Macedonia,2028,0.0
+MKD,North Macedonia,2029,0.0
+MKD,North Macedonia,2030,0.0
+MKD,North Macedonia,2031,0.0
+MKD,North Macedonia,2032,0.0
+MKD,North Macedonia,2033,0.0
+MKD,North Macedonia,2034,0.0
+MKD,North Macedonia,2035,0.0
+MKD,North Macedonia,2036,0.0
+MKD,North Macedonia,2037,0.0
+MKD,North Macedonia,2038,0.0
+MKD,North Macedonia,2039,0.0
+MKD,North Macedonia,2040,0.0
+MKD,North Macedonia,2041,0.0
+MKD,North Macedonia,2042,0.0
+MKD,North Macedonia,2043,0.0
+MKD,North Macedonia,2044,0.0
+MKD,North Macedonia,2045,0.0
+MKD,North Macedonia,2046,0.0
+MKD,North Macedonia,2047,0.0
+MKD,North Macedonia,2048,0.0
+MKD,North Macedonia,2049,0.0
+MKD,North Macedonia,2050,0.0
+MLI,Mali,2023,0.0
+MLI,Mali,2024,0.0
+MLI,Mali,2025,0.0
+MLI,Mali,2026,0.0
+MLI,Mali,2027,0.0
+MLI,Mali,2028,0.0
+MLI,Mali,2029,0.0
+MLI,Mali,2030,0.0
+MLI,Mali,2031,0.0
+MLI,Mali,2032,0.0
+MLI,Mali,2033,0.0
+MLI,Mali,2034,0.0
+MLI,Mali,2035,0.0
+MLI,Mali,2036,0.0
+MLI,Mali,2037,0.0
+MLI,Mali,2038,0.0
+MLI,Mali,2039,0.0
+MLI,Mali,2040,0.0
+MLI,Mali,2041,0.0
+MLI,Mali,2042,0.0
+MLI,Mali,2043,0.0
+MLI,Mali,2044,0.0
+MLI,Mali,2045,0.0
+MLI,Mali,2046,0.0
+MLI,Mali,2047,0.0
+MLI,Mali,2048,0.0
+MLI,Mali,2049,0.0
+MLI,Mali,2050,0.0
+MLT,Malta,2023,0.0
+MLT,Malta,2024,0.0
+MLT,Malta,2025,0.0
+MLT,Malta,2026,0.0
+MLT,Malta,2027,0.0
+MLT,Malta,2028,0.0
+MLT,Malta,2029,0.0
+MLT,Malta,2030,0.0
+MLT,Malta,2031,0.0
+MLT,Malta,2032,0.0
+MLT,Malta,2033,0.0
+MLT,Malta,2034,0.0
+MLT,Malta,2035,0.0
+MLT,Malta,2036,0.0
+MLT,Malta,2037,0.0
+MLT,Malta,2038,0.0
+MLT,Malta,2039,0.0
+MLT,Malta,2040,0.0
+MLT,Malta,2041,0.0
+MLT,Malta,2042,0.0
+MLT,Malta,2043,0.0
+MLT,Malta,2044,0.0
+MLT,Malta,2045,0.0
+MLT,Malta,2046,0.0
+MLT,Malta,2047,0.0
+MLT,Malta,2048,0.0
+MLT,Malta,2049,0.0
+MLT,Malta,2050,0.0
+MMR,Myanmar,2023,1058.0
+MMR,Myanmar,2024,1058.0
+MMR,Myanmar,2025,1058.0
+MMR,Myanmar,2026,1058.0
+MMR,Myanmar,2027,1058.0
+MMR,Myanmar,2028,1058.0
+MMR,Myanmar,2029,1058.0
+MMR,Myanmar,2030,1058.0
+MMR,Myanmar,2031,1058.0
+MMR,Myanmar,2032,1058.0
+MMR,Myanmar,2033,1058.0
+MMR,Myanmar,2034,1058.0
+MMR,Myanmar,2035,1058.0
+MMR,Myanmar,2036,1058.0
+MMR,Myanmar,2037,1058.0
+MMR,Myanmar,2038,1058.0
+MMR,Myanmar,2039,1058.0
+MMR,Myanmar,2040,1058.0
+MMR,Myanmar,2041,1058.0
+MMR,Myanmar,2042,1058.0
+MMR,Myanmar,2043,1058.0
+MMR,Myanmar,2044,1058.0
+MMR,Myanmar,2045,1058.0
+MMR,Myanmar,2046,1058.0
+MMR,Myanmar,2047,1058.0
+MMR,Myanmar,2048,1058.0
+MMR,Myanmar,2049,1058.0
+MMR,Myanmar,2050,1058.0
+MNE,Montenegro,2023,0.0
+MNE,Montenegro,2024,0.0
+MNE,Montenegro,2025,0.0
+MNE,Montenegro,2026,0.0
+MNE,Montenegro,2027,0.0
+MNE,Montenegro,2028,0.0
+MNE,Montenegro,2029,0.0
+MNE,Montenegro,2030,0.0
+MNE,Montenegro,2031,0.0
+MNE,Montenegro,2032,0.0
+MNE,Montenegro,2033,0.0
+MNE,Montenegro,2034,0.0
+MNE,Montenegro,2035,0.0
+MNE,Montenegro,2036,0.0
+MNE,Montenegro,2037,0.0
+MNE,Montenegro,2038,0.0
+MNE,Montenegro,2039,0.0
+MNE,Montenegro,2040,0.0
+MNE,Montenegro,2041,0.0
+MNE,Montenegro,2042,0.0
+MNE,Montenegro,2043,0.0
+MNE,Montenegro,2044,0.0
+MNE,Montenegro,2045,0.0
+MNE,Montenegro,2046,0.0
+MNE,Montenegro,2047,0.0
+MNE,Montenegro,2048,0.0
+MNE,Montenegro,2049,0.0
+MNE,Montenegro,2050,0.0
+MNG,Mongolia,2023,0.0
+MNG,Mongolia,2024,0.0
+MNG,Mongolia,2025,0.0
+MNG,Mongolia,2026,0.0
+MNG,Mongolia,2027,0.0
+MNG,Mongolia,2028,0.0
+MNG,Mongolia,2029,0.0
+MNG,Mongolia,2030,0.0
+MNG,Mongolia,2031,0.0
+MNG,Mongolia,2032,0.0
+MNG,Mongolia,2033,0.0
+MNG,Mongolia,2034,0.0
+MNG,Mongolia,2035,0.0
+MNG,Mongolia,2036,0.0
+MNG,Mongolia,2037,0.0
+MNG,Mongolia,2038,0.0
+MNG,Mongolia,2039,0.0
+MNG,Mongolia,2040,0.0
+MNG,Mongolia,2041,0.0
+MNG,Mongolia,2042,0.0
+MNG,Mongolia,2043,0.0
+MNG,Mongolia,2044,0.0
+MNG,Mongolia,2045,0.0
+MNG,Mongolia,2046,0.0
+MNG,Mongolia,2047,0.0
+MNG,Mongolia,2048,0.0
+MNG,Mongolia,2049,0.0
+MNG,Mongolia,2050,0.0
+MOZ,Mozambique,2023,0.0
+MOZ,Mozambique,2024,0.0
+MOZ,Mozambique,2025,0.0
+MOZ,Mozambique,2026,0.0
+MOZ,Mozambique,2027,0.0
+MOZ,Mozambique,2028,0.0
+MOZ,Mozambique,2029,0.0
+MOZ,Mozambique,2030,0.0
+MOZ,Mozambique,2031,0.0
+MOZ,Mozambique,2032,0.0
+MOZ,Mozambique,2033,0.0
+MOZ,Mozambique,2034,0.0
+MOZ,Mozambique,2035,0.0
+MOZ,Mozambique,2036,0.0
+MOZ,Mozambique,2037,0.0
+MOZ,Mozambique,2038,0.0
+MOZ,Mozambique,2039,0.0
+MOZ,Mozambique,2040,0.0
+MOZ,Mozambique,2041,0.0
+MOZ,Mozambique,2042,0.0
+MOZ,Mozambique,2043,0.0
+MOZ,Mozambique,2044,0.0
+MOZ,Mozambique,2045,0.0
+MOZ,Mozambique,2046,0.0
+MOZ,Mozambique,2047,0.0
+MOZ,Mozambique,2048,0.0
+MOZ,Mozambique,2049,0.0
+MOZ,Mozambique,2050,0.0
+MRT,Mauritania,2023,0.0
+MRT,Mauritania,2024,0.0
+MRT,Mauritania,2025,0.0
+MRT,Mauritania,2026,0.0
+MRT,Mauritania,2027,0.0
+MRT,Mauritania,2028,0.0
+MRT,Mauritania,2029,0.0
+MRT,Mauritania,2030,0.0
+MRT,Mauritania,2031,0.0
+MRT,Mauritania,2032,0.0
+MRT,Mauritania,2033,0.0
+MRT,Mauritania,2034,0.0
+MRT,Mauritania,2035,0.0
+MRT,Mauritania,2036,0.0
+MRT,Mauritania,2037,0.0
+MRT,Mauritania,2038,0.0
+MRT,Mauritania,2039,0.0
+MRT,Mauritania,2040,0.0
+MRT,Mauritania,2041,0.0
+MRT,Mauritania,2042,0.0
+MRT,Mauritania,2043,0.0
+MRT,Mauritania,2044,0.0
+MRT,Mauritania,2045,0.0
+MRT,Mauritania,2046,0.0
+MRT,Mauritania,2047,0.0
+MRT,Mauritania,2048,0.0
+MRT,Mauritania,2049,0.0
+MRT,Mauritania,2050,0.0
+MUS,Mauritius,2023,20.0
+MUS,Mauritius,2024,20.0
+MUS,Mauritius,2025,20.0
+MUS,Mauritius,2026,20.0
+MUS,Mauritius,2027,20.0
+MUS,Mauritius,2028,20.0
+MUS,Mauritius,2029,20.0
+MUS,Mauritius,2030,20.0
+MUS,Mauritius,2031,20.0
+MUS,Mauritius,2032,20.0
+MUS,Mauritius,2033,20.0
+MUS,Mauritius,2034,20.0
+MUS,Mauritius,2035,20.0
+MUS,Mauritius,2036,20.0
+MUS,Mauritius,2037,20.0
+MUS,Mauritius,2038,20.0
+MUS,Mauritius,2039,20.0
+MUS,Mauritius,2040,20.0
+MUS,Mauritius,2041,20.0
+MUS,Mauritius,2042,20.0
+MUS,Mauritius,2043,20.0
+MUS,Mauritius,2044,20.0
+MUS,Mauritius,2045,20.0
+MUS,Mauritius,2046,20.0
+MUS,Mauritius,2047,20.0
+MUS,Mauritius,2048,20.0
+MUS,Mauritius,2049,20.0
+MUS,Mauritius,2050,20.0
+MWI,Malawi,2023,0.0
+MWI,Malawi,2024,0.0
+MWI,Malawi,2025,0.0
+MWI,Malawi,2026,0.0
+MWI,Malawi,2027,0.0
+MWI,Malawi,2028,0.0
+MWI,Malawi,2029,0.0
+MWI,Malawi,2030,0.0
+MWI,Malawi,2031,0.0
+MWI,Malawi,2032,0.0
+MWI,Malawi,2033,0.0
+MWI,Malawi,2034,0.0
+MWI,Malawi,2035,0.0
+MWI,Malawi,2036,0.0
+MWI,Malawi,2037,0.0
+MWI,Malawi,2038,0.0
+MWI,Malawi,2039,0.0
+MWI,Malawi,2040,0.0
+MWI,Malawi,2041,0.0
+MWI,Malawi,2042,0.0
+MWI,Malawi,2043,0.0
+MWI,Malawi,2044,0.0
+MWI,Malawi,2045,0.0
+MWI,Malawi,2046,0.0
+MWI,Malawi,2047,0.0
+MWI,Malawi,2048,0.0
+MWI,Malawi,2049,0.0
+MWI,Malawi,2050,0.0
+MYS,Malaysia,2023,0.0
+MYS,Malaysia,2024,0.0
+MYS,Malaysia,2025,0.0
+MYS,Malaysia,2026,0.0
+MYS,Malaysia,2027,0.0
+MYS,Malaysia,2028,0.0
+MYS,Malaysia,2029,0.0
+MYS,Malaysia,2030,0.0
+MYS,Malaysia,2031,0.0
+MYS,Malaysia,2032,0.0
+MYS,Malaysia,2033,0.0
+MYS,Malaysia,2034,0.0
+MYS,Malaysia,2035,0.0
+MYS,Malaysia,2036,0.0
+MYS,Malaysia,2037,0.0
+MYS,Malaysia,2038,0.0
+MYS,Malaysia,2039,0.0
+MYS,Malaysia,2040,0.0
+MYS,Malaysia,2041,0.0
+MYS,Malaysia,2042,0.0
+MYS,Malaysia,2043,0.0
+MYS,Malaysia,2044,0.0
+MYS,Malaysia,2045,0.0
+MYS,Malaysia,2046,0.0
+MYS,Malaysia,2047,0.0
+MYS,Malaysia,2048,0.0
+MYS,Malaysia,2049,0.0
+MYS,Malaysia,2050,0.0
+NAM,Namibia,2023,6793.0
+NAM,Namibia,2024,6793.0
+NAM,Namibia,2025,6793.0
+NAM,Namibia,2026,6793.0
+NAM,Namibia,2027,6793.0
+NAM,Namibia,2028,6793.0
+NAM,Namibia,2029,6793.0
+NAM,Namibia,2030,6793.0
+NAM,Namibia,2031,6793.0
+NAM,Namibia,2032,6793.0
+NAM,Namibia,2033,6793.0
+NAM,Namibia,2034,6793.0
+NAM,Namibia,2035,6793.0
+NAM,Namibia,2036,6793.0
+NAM,Namibia,2037,6793.0
+NAM,Namibia,2038,6793.0
+NAM,Namibia,2039,6793.0
+NAM,Namibia,2040,6793.0
+NAM,Namibia,2041,6793.0
+NAM,Namibia,2042,6793.0
+NAM,Namibia,2043,6793.0
+NAM,Namibia,2044,6793.0
+NAM,Namibia,2045,6793.0
+NAM,Namibia,2046,6793.0
+NAM,Namibia,2047,6793.0
+NAM,Namibia,2048,6793.0
+NAM,Namibia,2049,6793.0
+NAM,Namibia,2050,6793.0
+NCL,New Caledonia,2023,0.0
+NCL,New Caledonia,2024,0.0
+NCL,New Caledonia,2025,0.0
+NCL,New Caledonia,2026,0.0
+NCL,New Caledonia,2027,0.0
+NCL,New Caledonia,2028,0.0
+NCL,New Caledonia,2029,0.0
+NCL,New Caledonia,2030,0.0
+NCL,New Caledonia,2031,0.0
+NCL,New Caledonia,2032,0.0
+NCL,New Caledonia,2033,0.0
+NCL,New Caledonia,2034,0.0
+NCL,New Caledonia,2035,0.0
+NCL,New Caledonia,2036,0.0
+NCL,New Caledonia,2037,0.0
+NCL,New Caledonia,2038,0.0
+NCL,New Caledonia,2039,0.0
+NCL,New Caledonia,2040,0.0
+NCL,New Caledonia,2041,0.0
+NCL,New Caledonia,2042,0.0
+NCL,New Caledonia,2043,0.0
+NCL,New Caledonia,2044,0.0
+NCL,New Caledonia,2045,0.0
+NCL,New Caledonia,2046,0.0
+NCL,New Caledonia,2047,0.0
+NCL,New Caledonia,2048,0.0
+NCL,New Caledonia,2049,0.0
+NCL,New Caledonia,2050,0.0
+NER,Niger,2023,0.0
+NER,Niger,2024,0.0
+NER,Niger,2025,0.0
+NER,Niger,2026,0.0
+NER,Niger,2027,0.0
+NER,Niger,2028,0.0
+NER,Niger,2029,0.0
+NER,Niger,2030,0.0
+NER,Niger,2031,0.0
+NER,Niger,2032,0.0
+NER,Niger,2033,0.0
+NER,Niger,2034,0.0
+NER,Niger,2035,0.0
+NER,Niger,2036,0.0
+NER,Niger,2037,0.0
+NER,Niger,2038,0.0
+NER,Niger,2039,0.0
+NER,Niger,2040,0.0
+NER,Niger,2041,0.0
+NER,Niger,2042,0.0
+NER,Niger,2043,0.0
+NER,Niger,2044,0.0
+NER,Niger,2045,0.0
+NER,Niger,2046,0.0
+NER,Niger,2047,0.0
+NER,Niger,2048,0.0
+NER,Niger,2049,0.0
+NER,Niger,2050,0.0
+NGA,Nigeria,2023,0.0
+NGA,Nigeria,2024,0.0
+NGA,Nigeria,2025,0.0
+NGA,Nigeria,2026,0.0
+NGA,Nigeria,2027,0.0
+NGA,Nigeria,2028,0.0
+NGA,Nigeria,2029,0.0
+NGA,Nigeria,2030,0.0
+NGA,Nigeria,2031,0.0
+NGA,Nigeria,2032,0.0
+NGA,Nigeria,2033,0.0
+NGA,Nigeria,2034,0.0
+NGA,Nigeria,2035,0.0
+NGA,Nigeria,2036,0.0
+NGA,Nigeria,2037,0.0
+NGA,Nigeria,2038,0.0
+NGA,Nigeria,2039,0.0
+NGA,Nigeria,2040,0.0
+NGA,Nigeria,2041,0.0
+NGA,Nigeria,2042,0.0
+NGA,Nigeria,2043,0.0
+NGA,Nigeria,2044,0.0
+NGA,Nigeria,2045,0.0
+NGA,Nigeria,2046,0.0
+NGA,Nigeria,2047,0.0
+NGA,Nigeria,2048,0.0
+NGA,Nigeria,2049,0.0
+NGA,Nigeria,2050,0.0
+NIC,Nicaragua,2023,48415.0
+NIC,Nicaragua,2024,48415.0
+NIC,Nicaragua,2025,48415.0
+NIC,Nicaragua,2026,48415.0
+NIC,Nicaragua,2027,48415.0
+NIC,Nicaragua,2028,48415.0
+NIC,Nicaragua,2029,48415.0
+NIC,Nicaragua,2030,48415.0
+NIC,Nicaragua,2031,48415.0
+NIC,Nicaragua,2032,48415.0
+NIC,Nicaragua,2033,48415.0
+NIC,Nicaragua,2034,48415.0
+NIC,Nicaragua,2035,48415.0
+NIC,Nicaragua,2036,48415.0
+NIC,Nicaragua,2037,48415.0
+NIC,Nicaragua,2038,48415.0
+NIC,Nicaragua,2039,48415.0
+NIC,Nicaragua,2040,48415.0
+NIC,Nicaragua,2041,48415.0
+NIC,Nicaragua,2042,48415.0
+NIC,Nicaragua,2043,48415.0
+NIC,Nicaragua,2044,48415.0
+NIC,Nicaragua,2045,48415.0
+NIC,Nicaragua,2046,48415.0
+NIC,Nicaragua,2047,48415.0
+NIC,Nicaragua,2048,48415.0
+NIC,Nicaragua,2049,48415.0
+NIC,Nicaragua,2050,48415.0
+NIU,Niue,2023,0.0
+NIU,Niue,2024,0.0
+NIU,Niue,2025,0.0
+NIU,Niue,2026,0.0
+NIU,Niue,2027,0.0
+NIU,Niue,2028,0.0
+NIU,Niue,2029,0.0
+NIU,Niue,2030,0.0
+NIU,Niue,2031,0.0
+NIU,Niue,2032,0.0
+NIU,Niue,2033,0.0
+NIU,Niue,2034,0.0
+NIU,Niue,2035,0.0
+NIU,Niue,2036,0.0
+NIU,Niue,2037,0.0
+NIU,Niue,2038,0.0
+NIU,Niue,2039,0.0
+NIU,Niue,2040,0.0
+NIU,Niue,2041,0.0
+NIU,Niue,2042,0.0
+NIU,Niue,2043,0.0
+NIU,Niue,2044,0.0
+NIU,Niue,2045,0.0
+NIU,Niue,2046,0.0
+NIU,Niue,2047,0.0
+NIU,Niue,2048,0.0
+NIU,Niue,2049,0.0
+NIU,Niue,2050,0.0
+NLD,Netherlands (Kingdom of the),2023,0.0
+NLD,Netherlands (Kingdom of the),2024,0.0
+NLD,Netherlands (Kingdom of the),2025,0.0
+NLD,Netherlands (Kingdom of the),2026,0.0
+NLD,Netherlands (Kingdom of the),2027,0.0
+NLD,Netherlands (Kingdom of the),2028,0.0
+NLD,Netherlands (Kingdom of the),2029,0.0
+NLD,Netherlands (Kingdom of the),2030,0.0
+NLD,Netherlands (Kingdom of the),2031,0.0
+NLD,Netherlands (Kingdom of the),2032,0.0
+NLD,Netherlands (Kingdom of the),2033,0.0
+NLD,Netherlands (Kingdom of the),2034,0.0
+NLD,Netherlands (Kingdom of the),2035,0.0
+NLD,Netherlands (Kingdom of the),2036,0.0
+NLD,Netherlands (Kingdom of the),2037,0.0
+NLD,Netherlands (Kingdom of the),2038,0.0
+NLD,Netherlands (Kingdom of the),2039,0.0
+NLD,Netherlands (Kingdom of the),2040,0.0
+NLD,Netherlands (Kingdom of the),2041,0.0
+NLD,Netherlands (Kingdom of the),2042,0.0
+NLD,Netherlands (Kingdom of the),2043,0.0
+NLD,Netherlands (Kingdom of the),2044,0.0
+NLD,Netherlands (Kingdom of the),2045,0.0
+NLD,Netherlands (Kingdom of the),2046,0.0
+NLD,Netherlands (Kingdom of the),2047,0.0
+NLD,Netherlands (Kingdom of the),2048,0.0
+NLD,Netherlands (Kingdom of the),2049,0.0
+NLD,Netherlands (Kingdom of the),2050,0.0
+NOR,Norway,2023,0.0
+NOR,Norway,2024,0.0
+NOR,Norway,2025,0.0
+NOR,Norway,2026,0.0
+NOR,Norway,2027,0.0
+NOR,Norway,2028,0.0
+NOR,Norway,2029,0.0
+NOR,Norway,2030,0.0
+NOR,Norway,2031,0.0
+NOR,Norway,2032,0.0
+NOR,Norway,2033,0.0
+NOR,Norway,2034,0.0
+NOR,Norway,2035,0.0
+NOR,Norway,2036,0.0
+NOR,Norway,2037,0.0
+NOR,Norway,2038,0.0
+NOR,Norway,2039,0.0
+NOR,Norway,2040,0.0
+NOR,Norway,2041,0.0
+NOR,Norway,2042,0.0
+NOR,Norway,2043,0.0
+NOR,Norway,2044,0.0
+NOR,Norway,2045,0.0
+NOR,Norway,2046,0.0
+NOR,Norway,2047,0.0
+NOR,Norway,2048,0.0
+NOR,Norway,2049,0.0
+NOR,Norway,2050,0.0
+NPL,Nepal,2023,0.0
+NPL,Nepal,2024,0.0
+NPL,Nepal,2025,0.0
+NPL,Nepal,2026,0.0
+NPL,Nepal,2027,0.0
+NPL,Nepal,2028,0.0
+NPL,Nepal,2029,0.0
+NPL,Nepal,2030,0.0
+NPL,Nepal,2031,0.0
+NPL,Nepal,2032,0.0
+NPL,Nepal,2033,0.0
+NPL,Nepal,2034,0.0
+NPL,Nepal,2035,0.0
+NPL,Nepal,2036,0.0
+NPL,Nepal,2037,0.0
+NPL,Nepal,2038,0.0
+NPL,Nepal,2039,0.0
+NPL,Nepal,2040,0.0
+NPL,Nepal,2041,0.0
+NPL,Nepal,2042,0.0
+NPL,Nepal,2043,0.0
+NPL,Nepal,2044,0.0
+NPL,Nepal,2045,0.0
+NPL,Nepal,2046,0.0
+NPL,Nepal,2047,0.0
+NPL,Nepal,2048,0.0
+NPL,Nepal,2049,0.0
+NPL,Nepal,2050,0.0
+NRU,Nauru,2023,0.0
+NRU,Nauru,2024,0.0
+NRU,Nauru,2025,0.0
+NRU,Nauru,2026,0.0
+NRU,Nauru,2027,0.0
+NRU,Nauru,2028,0.0
+NRU,Nauru,2029,0.0
+NRU,Nauru,2030,0.0
+NRU,Nauru,2031,0.0
+NRU,Nauru,2032,0.0
+NRU,Nauru,2033,0.0
+NRU,Nauru,2034,0.0
+NRU,Nauru,2035,0.0
+NRU,Nauru,2036,0.0
+NRU,Nauru,2037,0.0
+NRU,Nauru,2038,0.0
+NRU,Nauru,2039,0.0
+NRU,Nauru,2040,0.0
+NRU,Nauru,2041,0.0
+NRU,Nauru,2042,0.0
+NRU,Nauru,2043,0.0
+NRU,Nauru,2044,0.0
+NRU,Nauru,2045,0.0
+NRU,Nauru,2046,0.0
+NRU,Nauru,2047,0.0
+NRU,Nauru,2048,0.0
+NRU,Nauru,2049,0.0
+NRU,Nauru,2050,0.0
+NZL,New Zealand,2023,0.0
+NZL,New Zealand,2024,0.0
+NZL,New Zealand,2025,0.0
+NZL,New Zealand,2026,0.0
+NZL,New Zealand,2027,0.0
+NZL,New Zealand,2028,0.0
+NZL,New Zealand,2029,0.0
+NZL,New Zealand,2030,0.0
+NZL,New Zealand,2031,0.0
+NZL,New Zealand,2032,0.0
+NZL,New Zealand,2033,0.0
+NZL,New Zealand,2034,0.0
+NZL,New Zealand,2035,0.0
+NZL,New Zealand,2036,0.0
+NZL,New Zealand,2037,0.0
+NZL,New Zealand,2038,0.0
+NZL,New Zealand,2039,0.0
+NZL,New Zealand,2040,0.0
+NZL,New Zealand,2041,0.0
+NZL,New Zealand,2042,0.0
+NZL,New Zealand,2043,0.0
+NZL,New Zealand,2044,0.0
+NZL,New Zealand,2045,0.0
+NZL,New Zealand,2046,0.0
+NZL,New Zealand,2047,0.0
+NZL,New Zealand,2048,0.0
+NZL,New Zealand,2049,0.0
+NZL,New Zealand,2050,0.0
+OMN,Oman,2023,0.0
+OMN,Oman,2024,0.0
+OMN,Oman,2025,0.0
+OMN,Oman,2026,0.0
+OMN,Oman,2027,0.0
+OMN,Oman,2028,0.0
+OMN,Oman,2029,0.0
+OMN,Oman,2030,0.0
+OMN,Oman,2031,0.0
+OMN,Oman,2032,0.0
+OMN,Oman,2033,0.0
+OMN,Oman,2034,0.0
+OMN,Oman,2035,0.0
+OMN,Oman,2036,0.0
+OMN,Oman,2037,0.0
+OMN,Oman,2038,0.0
+OMN,Oman,2039,0.0
+OMN,Oman,2040,0.0
+OMN,Oman,2041,0.0
+OMN,Oman,2042,0.0
+OMN,Oman,2043,0.0
+OMN,Oman,2044,0.0
+OMN,Oman,2045,0.0
+OMN,Oman,2046,0.0
+OMN,Oman,2047,0.0
+OMN,Oman,2048,0.0
+OMN,Oman,2049,0.0
+OMN,Oman,2050,0.0
+PAK,Pakistan,2023,206000.0
+PAK,Pakistan,2024,206000.0
+PAK,Pakistan,2025,206000.0
+PAK,Pakistan,2026,206000.0
+PAK,Pakistan,2027,206000.0
+PAK,Pakistan,2028,206000.0
+PAK,Pakistan,2029,206000.0
+PAK,Pakistan,2030,206000.0
+PAK,Pakistan,2031,206000.0
+PAK,Pakistan,2032,206000.0
+PAK,Pakistan,2033,206000.0
+PAK,Pakistan,2034,206000.0
+PAK,Pakistan,2035,206000.0
+PAK,Pakistan,2036,206000.0
+PAK,Pakistan,2037,206000.0
+PAK,Pakistan,2038,206000.0
+PAK,Pakistan,2039,206000.0
+PAK,Pakistan,2040,206000.0
+PAK,Pakistan,2041,206000.0
+PAK,Pakistan,2042,206000.0
+PAK,Pakistan,2043,206000.0
+PAK,Pakistan,2044,206000.0
+PAK,Pakistan,2045,206000.0
+PAK,Pakistan,2046,206000.0
+PAK,Pakistan,2047,206000.0
+PAK,Pakistan,2048,206000.0
+PAK,Pakistan,2049,206000.0
+PAK,Pakistan,2050,206000.0
+PAN,Panama,2023,2143.0
+PAN,Panama,2024,2143.0
+PAN,Panama,2025,2143.0
+PAN,Panama,2026,2143.0
+PAN,Panama,2027,2143.0
+PAN,Panama,2028,2143.0
+PAN,Panama,2029,2143.0
+PAN,Panama,2030,2143.0
+PAN,Panama,2031,2143.0
+PAN,Panama,2032,2143.0
+PAN,Panama,2033,2143.0
+PAN,Panama,2034,2143.0
+PAN,Panama,2035,2143.0
+PAN,Panama,2036,2143.0
+PAN,Panama,2037,2143.0
+PAN,Panama,2038,2143.0
+PAN,Panama,2039,2143.0
+PAN,Panama,2040,2143.0
+PAN,Panama,2041,2143.0
+PAN,Panama,2042,2143.0
+PAN,Panama,2043,2143.0
+PAN,Panama,2044,2143.0
+PAN,Panama,2045,2143.0
+PAN,Panama,2046,2143.0
+PAN,Panama,2047,2143.0
+PAN,Panama,2048,2143.0
+PAN,Panama,2049,2143.0
+PAN,Panama,2050,2143.0
+PER,Peru,2023,312337.0
+PER,Peru,2024,312337.0
+PER,Peru,2025,312337.0
+PER,Peru,2026,312337.0
+PER,Peru,2027,312337.0
+PER,Peru,2028,312337.0
+PER,Peru,2029,312337.0
+PER,Peru,2030,312337.0
+PER,Peru,2031,312337.0
+PER,Peru,2032,312337.0
+PER,Peru,2033,312337.0
+PER,Peru,2034,312337.0
+PER,Peru,2035,312337.0
+PER,Peru,2036,312337.0
+PER,Peru,2037,312337.0
+PER,Peru,2038,312337.0
+PER,Peru,2039,312337.0
+PER,Peru,2040,312337.0
+PER,Peru,2041,312337.0
+PER,Peru,2042,312337.0
+PER,Peru,2043,312337.0
+PER,Peru,2044,312337.0
+PER,Peru,2045,312337.0
+PER,Peru,2046,312337.0
+PER,Peru,2047,312337.0
+PER,Peru,2048,312337.0
+PER,Peru,2049,312337.0
+PER,Peru,2050,312337.0
+PHL,Philippines,2023,0.0
+PHL,Philippines,2024,0.0
+PHL,Philippines,2025,0.0
+PHL,Philippines,2026,0.0
+PHL,Philippines,2027,0.0
+PHL,Philippines,2028,0.0
+PHL,Philippines,2029,0.0
+PHL,Philippines,2030,0.0
+PHL,Philippines,2031,0.0
+PHL,Philippines,2032,0.0
+PHL,Philippines,2033,0.0
+PHL,Philippines,2034,0.0
+PHL,Philippines,2035,0.0
+PHL,Philippines,2036,0.0
+PHL,Philippines,2037,0.0
+PHL,Philippines,2038,0.0
+PHL,Philippines,2039,0.0
+PHL,Philippines,2040,0.0
+PHL,Philippines,2041,0.0
+PHL,Philippines,2042,0.0
+PHL,Philippines,2043,0.0
+PHL,Philippines,2044,0.0
+PHL,Philippines,2045,0.0
+PHL,Philippines,2046,0.0
+PHL,Philippines,2047,0.0
+PHL,Philippines,2048,0.0
+PHL,Philippines,2049,0.0
+PHL,Philippines,2050,0.0
+PNG,Papua New Guinea,2023,0.0
+PNG,Papua New Guinea,2024,0.0
+PNG,Papua New Guinea,2025,0.0
+PNG,Papua New Guinea,2026,0.0
+PNG,Papua New Guinea,2027,0.0
+PNG,Papua New Guinea,2028,0.0
+PNG,Papua New Guinea,2029,0.0
+PNG,Papua New Guinea,2030,0.0
+PNG,Papua New Guinea,2031,0.0
+PNG,Papua New Guinea,2032,0.0
+PNG,Papua New Guinea,2033,0.0
+PNG,Papua New Guinea,2034,0.0
+PNG,Papua New Guinea,2035,0.0
+PNG,Papua New Guinea,2036,0.0
+PNG,Papua New Guinea,2037,0.0
+PNG,Papua New Guinea,2038,0.0
+PNG,Papua New Guinea,2039,0.0
+PNG,Papua New Guinea,2040,0.0
+PNG,Papua New Guinea,2041,0.0
+PNG,Papua New Guinea,2042,0.0
+PNG,Papua New Guinea,2043,0.0
+PNG,Papua New Guinea,2044,0.0
+PNG,Papua New Guinea,2045,0.0
+PNG,Papua New Guinea,2046,0.0
+PNG,Papua New Guinea,2047,0.0
+PNG,Papua New Guinea,2048,0.0
+PNG,Papua New Guinea,2049,0.0
+PNG,Papua New Guinea,2050,0.0
+POL,Poland,2023,0.0
+POL,Poland,2024,0.0
+POL,Poland,2025,0.0
+POL,Poland,2026,0.0
+POL,Poland,2027,0.0
+POL,Poland,2028,0.0
+POL,Poland,2029,0.0
+POL,Poland,2030,0.0
+POL,Poland,2031,0.0
+POL,Poland,2032,0.0
+POL,Poland,2033,0.0
+POL,Poland,2034,0.0
+POL,Poland,2035,0.0
+POL,Poland,2036,0.0
+POL,Poland,2037,0.0
+POL,Poland,2038,0.0
+POL,Poland,2039,0.0
+POL,Poland,2040,0.0
+POL,Poland,2041,0.0
+POL,Poland,2042,0.0
+POL,Poland,2043,0.0
+POL,Poland,2044,0.0
+POL,Poland,2045,0.0
+POL,Poland,2046,0.0
+POL,Poland,2047,0.0
+POL,Poland,2048,0.0
+POL,Poland,2049,0.0
+POL,Poland,2050,0.0
+PRI,Puerto Rico,2023,2618.0
+PRI,Puerto Rico,2024,2618.0
+PRI,Puerto Rico,2025,2618.0
+PRI,Puerto Rico,2026,2618.0
+PRI,Puerto Rico,2027,2618.0
+PRI,Puerto Rico,2028,2618.0
+PRI,Puerto Rico,2029,2618.0
+PRI,Puerto Rico,2030,2618.0
+PRI,Puerto Rico,2031,2618.0
+PRI,Puerto Rico,2032,2618.0
+PRI,Puerto Rico,2033,2618.0
+PRI,Puerto Rico,2034,2618.0
+PRI,Puerto Rico,2035,2618.0
+PRI,Puerto Rico,2036,2618.0
+PRI,Puerto Rico,2037,2618.0
+PRI,Puerto Rico,2038,2618.0
+PRI,Puerto Rico,2039,2618.0
+PRI,Puerto Rico,2040,2618.0
+PRI,Puerto Rico,2041,2618.0
+PRI,Puerto Rico,2042,2618.0
+PRI,Puerto Rico,2043,2618.0
+PRI,Puerto Rico,2044,2618.0
+PRI,Puerto Rico,2045,2618.0
+PRI,Puerto Rico,2046,2618.0
+PRI,Puerto Rico,2047,2618.0
+PRI,Puerto Rico,2048,2618.0
+PRI,Puerto Rico,2049,2618.0
+PRI,Puerto Rico,2050,2618.0
+PRK,Democratic People's Republic of Korea,2023,0.0
+PRK,Democratic People's Republic of Korea,2024,0.0
+PRK,Democratic People's Republic of Korea,2025,0.0
+PRK,Democratic People's Republic of Korea,2026,0.0
+PRK,Democratic People's Republic of Korea,2027,0.0
+PRK,Democratic People's Republic of Korea,2028,0.0
+PRK,Democratic People's Republic of Korea,2029,0.0
+PRK,Democratic People's Republic of Korea,2030,0.0
+PRK,Democratic People's Republic of Korea,2031,0.0
+PRK,Democratic People's Republic of Korea,2032,0.0
+PRK,Democratic People's Republic of Korea,2033,0.0
+PRK,Democratic People's Republic of Korea,2034,0.0
+PRK,Democratic People's Republic of Korea,2035,0.0
+PRK,Democratic People's Republic of Korea,2036,0.0
+PRK,Democratic People's Republic of Korea,2037,0.0
+PRK,Democratic People's Republic of Korea,2038,0.0
+PRK,Democratic People's Republic of Korea,2039,0.0
+PRK,Democratic People's Republic of Korea,2040,0.0
+PRK,Democratic People's Republic of Korea,2041,0.0
+PRK,Democratic People's Republic of Korea,2042,0.0
+PRK,Democratic People's Republic of Korea,2043,0.0
+PRK,Democratic People's Republic of Korea,2044,0.0
+PRK,Democratic People's Republic of Korea,2045,0.0
+PRK,Democratic People's Republic of Korea,2046,0.0
+PRK,Democratic People's Republic of Korea,2047,0.0
+PRK,Democratic People's Republic of Korea,2048,0.0
+PRK,Democratic People's Republic of Korea,2049,0.0
+PRK,Democratic People's Republic of Korea,2050,0.0
+PRT,Portugal,2023,0.0
+PRT,Portugal,2024,0.0
+PRT,Portugal,2025,0.0
+PRT,Portugal,2026,0.0
+PRT,Portugal,2027,0.0
+PRT,Portugal,2028,0.0
+PRT,Portugal,2029,0.0
+PRT,Portugal,2030,0.0
+PRT,Portugal,2031,0.0
+PRT,Portugal,2032,0.0
+PRT,Portugal,2033,0.0
+PRT,Portugal,2034,0.0
+PRT,Portugal,2035,0.0
+PRT,Portugal,2036,0.0
+PRT,Portugal,2037,0.0
+PRT,Portugal,2038,0.0
+PRT,Portugal,2039,0.0
+PRT,Portugal,2040,0.0
+PRT,Portugal,2041,0.0
+PRT,Portugal,2042,0.0
+PRT,Portugal,2043,0.0
+PRT,Portugal,2044,0.0
+PRT,Portugal,2045,0.0
+PRT,Portugal,2046,0.0
+PRT,Portugal,2047,0.0
+PRT,Portugal,2048,0.0
+PRT,Portugal,2049,0.0
+PRT,Portugal,2050,0.0
+PRY,Paraguay,2023,10439.0
+PRY,Paraguay,2024,10439.0
+PRY,Paraguay,2025,10439.0
+PRY,Paraguay,2026,10439.0
+PRY,Paraguay,2027,10439.0
+PRY,Paraguay,2028,10439.0
+PRY,Paraguay,2029,10439.0
+PRY,Paraguay,2030,10439.0
+PRY,Paraguay,2031,10439.0
+PRY,Paraguay,2032,10439.0
+PRY,Paraguay,2033,10439.0
+PRY,Paraguay,2034,10439.0
+PRY,Paraguay,2035,10439.0
+PRY,Paraguay,2036,10439.0
+PRY,Paraguay,2037,10439.0
+PRY,Paraguay,2038,10439.0
+PRY,Paraguay,2039,10439.0
+PRY,Paraguay,2040,10439.0
+PRY,Paraguay,2041,10439.0
+PRY,Paraguay,2042,10439.0
+PRY,Paraguay,2043,10439.0
+PRY,Paraguay,2044,10439.0
+PRY,Paraguay,2045,10439.0
+PRY,Paraguay,2046,10439.0
+PRY,Paraguay,2047,10439.0
+PRY,Paraguay,2048,10439.0
+PRY,Paraguay,2049,10439.0
+PRY,Paraguay,2050,10439.0
+PSE,Palestine,2023,0.0
+PSE,Palestine,2024,0.0
+PSE,Palestine,2025,0.0
+PSE,Palestine,2026,0.0
+PSE,Palestine,2027,0.0
+PSE,Palestine,2028,0.0
+PSE,Palestine,2029,0.0
+PSE,Palestine,2030,0.0
+PSE,Palestine,2031,0.0
+PSE,Palestine,2032,0.0
+PSE,Palestine,2033,0.0
+PSE,Palestine,2034,0.0
+PSE,Palestine,2035,0.0
+PSE,Palestine,2036,0.0
+PSE,Palestine,2037,0.0
+PSE,Palestine,2038,0.0
+PSE,Palestine,2039,0.0
+PSE,Palestine,2040,0.0
+PSE,Palestine,2041,0.0
+PSE,Palestine,2042,0.0
+PSE,Palestine,2043,0.0
+PSE,Palestine,2044,0.0
+PSE,Palestine,2045,0.0
+PSE,Palestine,2046,0.0
+PSE,Palestine,2047,0.0
+PSE,Palestine,2048,0.0
+PSE,Palestine,2049,0.0
+PSE,Palestine,2050,0.0
+PYF,French Polynesia,2023,0.0
+PYF,French Polynesia,2024,0.0
+PYF,French Polynesia,2025,0.0
+PYF,French Polynesia,2026,0.0
+PYF,French Polynesia,2027,0.0
+PYF,French Polynesia,2028,0.0
+PYF,French Polynesia,2029,0.0
+PYF,French Polynesia,2030,0.0
+PYF,French Polynesia,2031,0.0
+PYF,French Polynesia,2032,0.0
+PYF,French Polynesia,2033,0.0
+PYF,French Polynesia,2034,0.0
+PYF,French Polynesia,2035,0.0
+PYF,French Polynesia,2036,0.0
+PYF,French Polynesia,2037,0.0
+PYF,French Polynesia,2038,0.0
+PYF,French Polynesia,2039,0.0
+PYF,French Polynesia,2040,0.0
+PYF,French Polynesia,2041,0.0
+PYF,French Polynesia,2042,0.0
+PYF,French Polynesia,2043,0.0
+PYF,French Polynesia,2044,0.0
+PYF,French Polynesia,2045,0.0
+PYF,French Polynesia,2046,0.0
+PYF,French Polynesia,2047,0.0
+PYF,French Polynesia,2048,0.0
+PYF,French Polynesia,2049,0.0
+PYF,French Polynesia,2050,0.0
+QAT,Qatar,2023,0.0
+QAT,Qatar,2024,0.0
+QAT,Qatar,2025,0.0
+QAT,Qatar,2026,0.0
+QAT,Qatar,2027,0.0
+QAT,Qatar,2028,0.0
+QAT,Qatar,2029,0.0
+QAT,Qatar,2030,0.0
+QAT,Qatar,2031,0.0
+QAT,Qatar,2032,0.0
+QAT,Qatar,2033,0.0
+QAT,Qatar,2034,0.0
+QAT,Qatar,2035,0.0
+QAT,Qatar,2036,0.0
+QAT,Qatar,2037,0.0
+QAT,Qatar,2038,0.0
+QAT,Qatar,2039,0.0
+QAT,Qatar,2040,0.0
+QAT,Qatar,2041,0.0
+QAT,Qatar,2042,0.0
+QAT,Qatar,2043,0.0
+QAT,Qatar,2044,0.0
+QAT,Qatar,2045,0.0
+QAT,Qatar,2046,0.0
+QAT,Qatar,2047,0.0
+QAT,Qatar,2048,0.0
+QAT,Qatar,2049,0.0
+QAT,Qatar,2050,0.0
+ROU,Romania,2023,0.0
+ROU,Romania,2024,0.0
+ROU,Romania,2025,0.0
+ROU,Romania,2026,0.0
+ROU,Romania,2027,0.0
+ROU,Romania,2028,0.0
+ROU,Romania,2029,0.0
+ROU,Romania,2030,0.0
+ROU,Romania,2031,0.0
+ROU,Romania,2032,0.0
+ROU,Romania,2033,0.0
+ROU,Romania,2034,0.0
+ROU,Romania,2035,0.0
+ROU,Romania,2036,0.0
+ROU,Romania,2037,0.0
+ROU,Romania,2038,0.0
+ROU,Romania,2039,0.0
+ROU,Romania,2040,0.0
+ROU,Romania,2041,0.0
+ROU,Romania,2042,0.0
+ROU,Romania,2043,0.0
+ROU,Romania,2044,0.0
+ROU,Romania,2045,0.0
+ROU,Romania,2046,0.0
+ROU,Romania,2047,0.0
+ROU,Romania,2048,0.0
+ROU,Romania,2049,0.0
+ROU,Romania,2050,0.0
+RUS,Russian Federation,2023,152.0
+RUS,Russian Federation,2024,152.0
+RUS,Russian Federation,2025,152.0
+RUS,Russian Federation,2026,152.0
+RUS,Russian Federation,2027,152.0
+RUS,Russian Federation,2028,152.0
+RUS,Russian Federation,2029,152.0
+RUS,Russian Federation,2030,152.0
+RUS,Russian Federation,2031,152.0
+RUS,Russian Federation,2032,152.0
+RUS,Russian Federation,2033,152.0
+RUS,Russian Federation,2034,152.0
+RUS,Russian Federation,2035,152.0
+RUS,Russian Federation,2036,152.0
+RUS,Russian Federation,2037,152.0
+RUS,Russian Federation,2038,152.0
+RUS,Russian Federation,2039,152.0
+RUS,Russian Federation,2040,152.0
+RUS,Russian Federation,2041,152.0
+RUS,Russian Federation,2042,152.0
+RUS,Russian Federation,2043,152.0
+RUS,Russian Federation,2044,152.0
+RUS,Russian Federation,2045,152.0
+RUS,Russian Federation,2046,152.0
+RUS,Russian Federation,2047,152.0
+RUS,Russian Federation,2048,152.0
+RUS,Russian Federation,2049,152.0
+RUS,Russian Federation,2050,152.0
+RWA,Rwanda,2023,0.0
+RWA,Rwanda,2024,0.0
+RWA,Rwanda,2025,0.0
+RWA,Rwanda,2026,0.0
+RWA,Rwanda,2027,0.0
+RWA,Rwanda,2028,0.0
+RWA,Rwanda,2029,0.0
+RWA,Rwanda,2030,0.0
+RWA,Rwanda,2031,0.0
+RWA,Rwanda,2032,0.0
+RWA,Rwanda,2033,0.0
+RWA,Rwanda,2034,0.0
+RWA,Rwanda,2035,0.0
+RWA,Rwanda,2036,0.0
+RWA,Rwanda,2037,0.0
+RWA,Rwanda,2038,0.0
+RWA,Rwanda,2039,0.0
+RWA,Rwanda,2040,0.0
+RWA,Rwanda,2041,0.0
+RWA,Rwanda,2042,0.0
+RWA,Rwanda,2043,0.0
+RWA,Rwanda,2044,0.0
+RWA,Rwanda,2045,0.0
+RWA,Rwanda,2046,0.0
+RWA,Rwanda,2047,0.0
+RWA,Rwanda,2048,0.0
+RWA,Rwanda,2049,0.0
+RWA,Rwanda,2050,0.0
+SAU,Saudi Arabia,2023,0.0
+SAU,Saudi Arabia,2024,0.0
+SAU,Saudi Arabia,2025,0.0
+SAU,Saudi Arabia,2026,0.0
+SAU,Saudi Arabia,2027,0.0
+SAU,Saudi Arabia,2028,0.0
+SAU,Saudi Arabia,2029,0.0
+SAU,Saudi Arabia,2030,0.0
+SAU,Saudi Arabia,2031,0.0
+SAU,Saudi Arabia,2032,0.0
+SAU,Saudi Arabia,2033,0.0
+SAU,Saudi Arabia,2034,0.0
+SAU,Saudi Arabia,2035,0.0
+SAU,Saudi Arabia,2036,0.0
+SAU,Saudi Arabia,2037,0.0
+SAU,Saudi Arabia,2038,0.0
+SAU,Saudi Arabia,2039,0.0
+SAU,Saudi Arabia,2040,0.0
+SAU,Saudi Arabia,2041,0.0
+SAU,Saudi Arabia,2042,0.0
+SAU,Saudi Arabia,2043,0.0
+SAU,Saudi Arabia,2044,0.0
+SAU,Saudi Arabia,2045,0.0
+SAU,Saudi Arabia,2046,0.0
+SAU,Saudi Arabia,2047,0.0
+SAU,Saudi Arabia,2048,0.0
+SAU,Saudi Arabia,2049,0.0
+SAU,Saudi Arabia,2050,0.0
+SDN,Sudan,2023,641.0
+SDN,Sudan,2024,641.0
+SDN,Sudan,2025,641.0
+SDN,Sudan,2026,641.0
+SDN,Sudan,2027,641.0
+SDN,Sudan,2028,641.0
+SDN,Sudan,2029,641.0
+SDN,Sudan,2030,641.0
+SDN,Sudan,2031,641.0
+SDN,Sudan,2032,641.0
+SDN,Sudan,2033,641.0
+SDN,Sudan,2034,641.0
+SDN,Sudan,2035,641.0
+SDN,Sudan,2036,641.0
+SDN,Sudan,2037,641.0
+SDN,Sudan,2038,641.0
+SDN,Sudan,2039,641.0
+SDN,Sudan,2040,641.0
+SDN,Sudan,2041,641.0
+SDN,Sudan,2042,641.0
+SDN,Sudan,2043,641.0
+SDN,Sudan,2044,641.0
+SDN,Sudan,2045,641.0
+SDN,Sudan,2046,641.0
+SDN,Sudan,2047,641.0
+SDN,Sudan,2048,641.0
+SDN,Sudan,2049,641.0
+SDN,Sudan,2050,641.0
+SEN,Senegal,2023,0.0
+SEN,Senegal,2024,0.0
+SEN,Senegal,2025,0.0
+SEN,Senegal,2026,0.0
+SEN,Senegal,2027,0.0
+SEN,Senegal,2028,0.0
+SEN,Senegal,2029,0.0
+SEN,Senegal,2030,0.0
+SEN,Senegal,2031,0.0
+SEN,Senegal,2032,0.0
+SEN,Senegal,2033,0.0
+SEN,Senegal,2034,0.0
+SEN,Senegal,2035,0.0
+SEN,Senegal,2036,0.0
+SEN,Senegal,2037,0.0
+SEN,Senegal,2038,0.0
+SEN,Senegal,2039,0.0
+SEN,Senegal,2040,0.0
+SEN,Senegal,2041,0.0
+SEN,Senegal,2042,0.0
+SEN,Senegal,2043,0.0
+SEN,Senegal,2044,0.0
+SEN,Senegal,2045,0.0
+SEN,Senegal,2046,0.0
+SEN,Senegal,2047,0.0
+SEN,Senegal,2048,0.0
+SEN,Senegal,2049,0.0
+SEN,Senegal,2050,0.0
+SGP,Singapore,2023,0.0
+SGP,Singapore,2024,0.0
+SGP,Singapore,2025,0.0
+SGP,Singapore,2026,0.0
+SGP,Singapore,2027,0.0
+SGP,Singapore,2028,0.0
+SGP,Singapore,2029,0.0
+SGP,Singapore,2030,0.0
+SGP,Singapore,2031,0.0
+SGP,Singapore,2032,0.0
+SGP,Singapore,2033,0.0
+SGP,Singapore,2034,0.0
+SGP,Singapore,2035,0.0
+SGP,Singapore,2036,0.0
+SGP,Singapore,2037,0.0
+SGP,Singapore,2038,0.0
+SGP,Singapore,2039,0.0
+SGP,Singapore,2040,0.0
+SGP,Singapore,2041,0.0
+SGP,Singapore,2042,0.0
+SGP,Singapore,2043,0.0
+SGP,Singapore,2044,0.0
+SGP,Singapore,2045,0.0
+SGP,Singapore,2046,0.0
+SGP,Singapore,2047,0.0
+SGP,Singapore,2048,0.0
+SGP,Singapore,2049,0.0
+SGP,Singapore,2050,0.0
+SLB,Solomon Islands,2023,0.0
+SLB,Solomon Islands,2024,0.0
+SLB,Solomon Islands,2025,0.0
+SLB,Solomon Islands,2026,0.0
+SLB,Solomon Islands,2027,0.0
+SLB,Solomon Islands,2028,0.0
+SLB,Solomon Islands,2029,0.0
+SLB,Solomon Islands,2030,0.0
+SLB,Solomon Islands,2031,0.0
+SLB,Solomon Islands,2032,0.0
+SLB,Solomon Islands,2033,0.0
+SLB,Solomon Islands,2034,0.0
+SLB,Solomon Islands,2035,0.0
+SLB,Solomon Islands,2036,0.0
+SLB,Solomon Islands,2037,0.0
+SLB,Solomon Islands,2038,0.0
+SLB,Solomon Islands,2039,0.0
+SLB,Solomon Islands,2040,0.0
+SLB,Solomon Islands,2041,0.0
+SLB,Solomon Islands,2042,0.0
+SLB,Solomon Islands,2043,0.0
+SLB,Solomon Islands,2044,0.0
+SLB,Solomon Islands,2045,0.0
+SLB,Solomon Islands,2046,0.0
+SLB,Solomon Islands,2047,0.0
+SLB,Solomon Islands,2048,0.0
+SLB,Solomon Islands,2049,0.0
+SLB,Solomon Islands,2050,0.0
+SLE,Sierra Leone,2023,0.0
+SLE,Sierra Leone,2024,0.0
+SLE,Sierra Leone,2025,0.0
+SLE,Sierra Leone,2026,0.0
+SLE,Sierra Leone,2027,0.0
+SLE,Sierra Leone,2028,0.0
+SLE,Sierra Leone,2029,0.0
+SLE,Sierra Leone,2030,0.0
+SLE,Sierra Leone,2031,0.0
+SLE,Sierra Leone,2032,0.0
+SLE,Sierra Leone,2033,0.0
+SLE,Sierra Leone,2034,0.0
+SLE,Sierra Leone,2035,0.0
+SLE,Sierra Leone,2036,0.0
+SLE,Sierra Leone,2037,0.0
+SLE,Sierra Leone,2038,0.0
+SLE,Sierra Leone,2039,0.0
+SLE,Sierra Leone,2040,0.0
+SLE,Sierra Leone,2041,0.0
+SLE,Sierra Leone,2042,0.0
+SLE,Sierra Leone,2043,0.0
+SLE,Sierra Leone,2044,0.0
+SLE,Sierra Leone,2045,0.0
+SLE,Sierra Leone,2046,0.0
+SLE,Sierra Leone,2047,0.0
+SLE,Sierra Leone,2048,0.0
+SLE,Sierra Leone,2049,0.0
+SLE,Sierra Leone,2050,0.0
+SLV,El Salvador,2023,23871.0
+SLV,El Salvador,2024,23871.0
+SLV,El Salvador,2025,23871.0
+SLV,El Salvador,2026,23871.0
+SLV,El Salvador,2027,23871.0
+SLV,El Salvador,2028,23871.0
+SLV,El Salvador,2029,23871.0
+SLV,El Salvador,2030,23871.0
+SLV,El Salvador,2031,23871.0
+SLV,El Salvador,2032,23871.0
+SLV,El Salvador,2033,23871.0
+SLV,El Salvador,2034,23871.0
+SLV,El Salvador,2035,23871.0
+SLV,El Salvador,2036,23871.0
+SLV,El Salvador,2037,23871.0
+SLV,El Salvador,2038,23871.0
+SLV,El Salvador,2039,23871.0
+SLV,El Salvador,2040,23871.0
+SLV,El Salvador,2041,23871.0
+SLV,El Salvador,2042,23871.0
+SLV,El Salvador,2043,23871.0
+SLV,El Salvador,2044,23871.0
+SLV,El Salvador,2045,23871.0
+SLV,El Salvador,2046,23871.0
+SLV,El Salvador,2047,23871.0
+SLV,El Salvador,2048,23871.0
+SLV,El Salvador,2049,23871.0
+SLV,El Salvador,2050,23871.0
+SOM,Somalia,2023,22430.0
+SOM,Somalia,2024,22430.0
+SOM,Somalia,2025,22430.0
+SOM,Somalia,2026,22430.0
+SOM,Somalia,2027,22430.0
+SOM,Somalia,2028,22430.0
+SOM,Somalia,2029,22430.0
+SOM,Somalia,2030,22430.0
+SOM,Somalia,2031,22430.0
+SOM,Somalia,2032,22430.0
+SOM,Somalia,2033,22430.0
+SOM,Somalia,2034,22430.0
+SOM,Somalia,2035,22430.0
+SOM,Somalia,2036,22430.0
+SOM,Somalia,2037,22430.0
+SOM,Somalia,2038,22430.0
+SOM,Somalia,2039,22430.0
+SOM,Somalia,2040,22430.0
+SOM,Somalia,2041,22430.0
+SOM,Somalia,2042,22430.0
+SOM,Somalia,2043,22430.0
+SOM,Somalia,2044,22430.0
+SOM,Somalia,2045,22430.0
+SOM,Somalia,2046,22430.0
+SOM,Somalia,2047,22430.0
+SOM,Somalia,2048,22430.0
+SOM,Somalia,2049,22430.0
+SOM,Somalia,2050,22430.0
+SRB,Serbia,2023,0.0
+SRB,Serbia,2024,0.0
+SRB,Serbia,2025,0.0
+SRB,Serbia,2026,0.0
+SRB,Serbia,2027,0.0
+SRB,Serbia,2028,0.0
+SRB,Serbia,2029,0.0
+SRB,Serbia,2030,0.0
+SRB,Serbia,2031,0.0
+SRB,Serbia,2032,0.0
+SRB,Serbia,2033,0.0
+SRB,Serbia,2034,0.0
+SRB,Serbia,2035,0.0
+SRB,Serbia,2036,0.0
+SRB,Serbia,2037,0.0
+SRB,Serbia,2038,0.0
+SRB,Serbia,2039,0.0
+SRB,Serbia,2040,0.0
+SRB,Serbia,2041,0.0
+SRB,Serbia,2042,0.0
+SRB,Serbia,2043,0.0
+SRB,Serbia,2044,0.0
+SRB,Serbia,2045,0.0
+SRB,Serbia,2046,0.0
+SRB,Serbia,2047,0.0
+SRB,Serbia,2048,0.0
+SRB,Serbia,2049,0.0
+SRB,Serbia,2050,0.0
+SSD,South Sudan,2023,0.0
+SSD,South Sudan,2024,0.0
+SSD,South Sudan,2025,0.0
+SSD,South Sudan,2026,0.0
+SSD,South Sudan,2027,0.0
+SSD,South Sudan,2028,0.0
+SSD,South Sudan,2029,0.0
+SSD,South Sudan,2030,0.0
+SSD,South Sudan,2031,0.0
+SSD,South Sudan,2032,0.0
+SSD,South Sudan,2033,0.0
+SSD,South Sudan,2034,0.0
+SSD,South Sudan,2035,0.0
+SSD,South Sudan,2036,0.0
+SSD,South Sudan,2037,0.0
+SSD,South Sudan,2038,0.0
+SSD,South Sudan,2039,0.0
+SSD,South Sudan,2040,0.0
+SSD,South Sudan,2041,0.0
+SSD,South Sudan,2042,0.0
+SSD,South Sudan,2043,0.0
+SSD,South Sudan,2044,0.0
+SSD,South Sudan,2045,0.0
+SSD,South Sudan,2046,0.0
+SSD,South Sudan,2047,0.0
+SSD,South Sudan,2048,0.0
+SSD,South Sudan,2049,0.0
+SSD,South Sudan,2050,0.0
+STP,Sao Tome and Principe,2023,32.0
+STP,Sao Tome and Principe,2024,32.0
+STP,Sao Tome and Principe,2025,32.0
+STP,Sao Tome and Principe,2026,32.0
+STP,Sao Tome and Principe,2027,32.0
+STP,Sao Tome and Principe,2028,32.0
+STP,Sao Tome and Principe,2029,32.0
+STP,Sao Tome and Principe,2030,32.0
+STP,Sao Tome and Principe,2031,32.0
+STP,Sao Tome and Principe,2032,32.0
+STP,Sao Tome and Principe,2033,32.0
+STP,Sao Tome and Principe,2034,32.0
+STP,Sao Tome and Principe,2035,32.0
+STP,Sao Tome and Principe,2036,32.0
+STP,Sao Tome and Principe,2037,32.0
+STP,Sao Tome and Principe,2038,32.0
+STP,Sao Tome and Principe,2039,32.0
+STP,Sao Tome and Principe,2040,32.0
+STP,Sao Tome and Principe,2041,32.0
+STP,Sao Tome and Principe,2042,32.0
+STP,Sao Tome and Principe,2043,32.0
+STP,Sao Tome and Principe,2044,32.0
+STP,Sao Tome and Principe,2045,32.0
+STP,Sao Tome and Principe,2046,32.0
+STP,Sao Tome and Principe,2047,32.0
+STP,Sao Tome and Principe,2048,32.0
+STP,Sao Tome and Principe,2049,32.0
+STP,Sao Tome and Principe,2050,32.0
+SUR,Suriname,2023,0.0
+SUR,Suriname,2024,0.0
+SUR,Suriname,2025,0.0
+SUR,Suriname,2026,0.0
+SUR,Suriname,2027,0.0
+SUR,Suriname,2028,0.0
+SUR,Suriname,2029,0.0
+SUR,Suriname,2030,0.0
+SUR,Suriname,2031,0.0
+SUR,Suriname,2032,0.0
+SUR,Suriname,2033,0.0
+SUR,Suriname,2034,0.0
+SUR,Suriname,2035,0.0
+SUR,Suriname,2036,0.0
+SUR,Suriname,2037,0.0
+SUR,Suriname,2038,0.0
+SUR,Suriname,2039,0.0
+SUR,Suriname,2040,0.0
+SUR,Suriname,2041,0.0
+SUR,Suriname,2042,0.0
+SUR,Suriname,2043,0.0
+SUR,Suriname,2044,0.0
+SUR,Suriname,2045,0.0
+SUR,Suriname,2046,0.0
+SUR,Suriname,2047,0.0
+SUR,Suriname,2048,0.0
+SUR,Suriname,2049,0.0
+SUR,Suriname,2050,0.0
+SVK,Slovakia,2023,0.0
+SVK,Slovakia,2024,0.0
+SVK,Slovakia,2025,0.0
+SVK,Slovakia,2026,0.0
+SVK,Slovakia,2027,0.0
+SVK,Slovakia,2028,0.0
+SVK,Slovakia,2029,0.0
+SVK,Slovakia,2030,0.0
+SVK,Slovakia,2031,0.0
+SVK,Slovakia,2032,0.0
+SVK,Slovakia,2033,0.0
+SVK,Slovakia,2034,0.0
+SVK,Slovakia,2035,0.0
+SVK,Slovakia,2036,0.0
+SVK,Slovakia,2037,0.0
+SVK,Slovakia,2038,0.0
+SVK,Slovakia,2039,0.0
+SVK,Slovakia,2040,0.0
+SVK,Slovakia,2041,0.0
+SVK,Slovakia,2042,0.0
+SVK,Slovakia,2043,0.0
+SVK,Slovakia,2044,0.0
+SVK,Slovakia,2045,0.0
+SVK,Slovakia,2046,0.0
+SVK,Slovakia,2047,0.0
+SVK,Slovakia,2048,0.0
+SVK,Slovakia,2049,0.0
+SVK,Slovakia,2050,0.0
+SVN,Slovenia,2023,0.0
+SVN,Slovenia,2024,0.0
+SVN,Slovenia,2025,0.0
+SVN,Slovenia,2026,0.0
+SVN,Slovenia,2027,0.0
+SVN,Slovenia,2028,0.0
+SVN,Slovenia,2029,0.0
+SVN,Slovenia,2030,0.0
+SVN,Slovenia,2031,0.0
+SVN,Slovenia,2032,0.0
+SVN,Slovenia,2033,0.0
+SVN,Slovenia,2034,0.0
+SVN,Slovenia,2035,0.0
+SVN,Slovenia,2036,0.0
+SVN,Slovenia,2037,0.0
+SVN,Slovenia,2038,0.0
+SVN,Slovenia,2039,0.0
+SVN,Slovenia,2040,0.0
+SVN,Slovenia,2041,0.0
+SVN,Slovenia,2042,0.0
+SVN,Slovenia,2043,0.0
+SVN,Slovenia,2044,0.0
+SVN,Slovenia,2045,0.0
+SVN,Slovenia,2046,0.0
+SVN,Slovenia,2047,0.0
+SVN,Slovenia,2048,0.0
+SVN,Slovenia,2049,0.0
+SVN,Slovenia,2050,0.0
+SWE,Sweden,2023,0.0
+SWE,Sweden,2024,0.0
+SWE,Sweden,2025,0.0
+SWE,Sweden,2026,0.0
+SWE,Sweden,2027,0.0
+SWE,Sweden,2028,0.0
+SWE,Sweden,2029,0.0
+SWE,Sweden,2030,0.0
+SWE,Sweden,2031,0.0
+SWE,Sweden,2032,0.0
+SWE,Sweden,2033,0.0
+SWE,Sweden,2034,0.0
+SWE,Sweden,2035,0.0
+SWE,Sweden,2036,0.0
+SWE,Sweden,2037,0.0
+SWE,Sweden,2038,0.0
+SWE,Sweden,2039,0.0
+SWE,Sweden,2040,0.0
+SWE,Sweden,2041,0.0
+SWE,Sweden,2042,0.0
+SWE,Sweden,2043,0.0
+SWE,Sweden,2044,0.0
+SWE,Sweden,2045,0.0
+SWE,Sweden,2046,0.0
+SWE,Sweden,2047,0.0
+SWE,Sweden,2048,0.0
+SWE,Sweden,2049,0.0
+SWE,Sweden,2050,0.0
+SWZ,Eswatini,2023,109.0
+SWZ,Eswatini,2024,109.0
+SWZ,Eswatini,2025,109.0
+SWZ,Eswatini,2026,109.0
+SWZ,Eswatini,2027,109.0
+SWZ,Eswatini,2028,109.0
+SWZ,Eswatini,2029,109.0
+SWZ,Eswatini,2030,109.0
+SWZ,Eswatini,2031,109.0
+SWZ,Eswatini,2032,109.0
+SWZ,Eswatini,2033,109.0
+SWZ,Eswatini,2034,109.0
+SWZ,Eswatini,2035,109.0
+SWZ,Eswatini,2036,109.0
+SWZ,Eswatini,2037,109.0
+SWZ,Eswatini,2038,109.0
+SWZ,Eswatini,2039,109.0
+SWZ,Eswatini,2040,109.0
+SWZ,Eswatini,2041,109.0
+SWZ,Eswatini,2042,109.0
+SWZ,Eswatini,2043,109.0
+SWZ,Eswatini,2044,109.0
+SWZ,Eswatini,2045,109.0
+SWZ,Eswatini,2046,109.0
+SWZ,Eswatini,2047,109.0
+SWZ,Eswatini,2048,109.0
+SWZ,Eswatini,2049,109.0
+SWZ,Eswatini,2050,109.0
+SYC,Seychelles,2023,0.0
+SYC,Seychelles,2024,0.0
+SYC,Seychelles,2025,0.0
+SYC,Seychelles,2026,0.0
+SYC,Seychelles,2027,0.0
+SYC,Seychelles,2028,0.0
+SYC,Seychelles,2029,0.0
+SYC,Seychelles,2030,0.0
+SYC,Seychelles,2031,0.0
+SYC,Seychelles,2032,0.0
+SYC,Seychelles,2033,0.0
+SYC,Seychelles,2034,0.0
+SYC,Seychelles,2035,0.0
+SYC,Seychelles,2036,0.0
+SYC,Seychelles,2037,0.0
+SYC,Seychelles,2038,0.0
+SYC,Seychelles,2039,0.0
+SYC,Seychelles,2040,0.0
+SYC,Seychelles,2041,0.0
+SYC,Seychelles,2042,0.0
+SYC,Seychelles,2043,0.0
+SYC,Seychelles,2044,0.0
+SYC,Seychelles,2045,0.0
+SYC,Seychelles,2046,0.0
+SYC,Seychelles,2047,0.0
+SYC,Seychelles,2048,0.0
+SYC,Seychelles,2049,0.0
+SYC,Seychelles,2050,0.0
+SYR,Syrian Arab Republic,2023,1770.0
+SYR,Syrian Arab Republic,2024,1770.0
+SYR,Syrian Arab Republic,2025,1770.0
+SYR,Syrian Arab Republic,2026,1770.0
+SYR,Syrian Arab Republic,2027,1770.0
+SYR,Syrian Arab Republic,2028,1770.0
+SYR,Syrian Arab Republic,2029,1770.0
+SYR,Syrian Arab Republic,2030,1770.0
+SYR,Syrian Arab Republic,2031,1770.0
+SYR,Syrian Arab Republic,2032,1770.0
+SYR,Syrian Arab Republic,2033,1770.0
+SYR,Syrian Arab Republic,2034,1770.0
+SYR,Syrian Arab Republic,2035,1770.0
+SYR,Syrian Arab Republic,2036,1770.0
+SYR,Syrian Arab Republic,2037,1770.0
+SYR,Syrian Arab Republic,2038,1770.0
+SYR,Syrian Arab Republic,2039,1770.0
+SYR,Syrian Arab Republic,2040,1770.0
+SYR,Syrian Arab Republic,2041,1770.0
+SYR,Syrian Arab Republic,2042,1770.0
+SYR,Syrian Arab Republic,2043,1770.0
+SYR,Syrian Arab Republic,2044,1770.0
+SYR,Syrian Arab Republic,2045,1770.0
+SYR,Syrian Arab Republic,2046,1770.0
+SYR,Syrian Arab Republic,2047,1770.0
+SYR,Syrian Arab Republic,2048,1770.0
+SYR,Syrian Arab Republic,2049,1770.0
+SYR,Syrian Arab Republic,2050,1770.0
+TCD,Chad,2023,0.0
+TCD,Chad,2024,0.0
+TCD,Chad,2025,0.0
+TCD,Chad,2026,0.0
+TCD,Chad,2027,0.0
+TCD,Chad,2028,0.0
+TCD,Chad,2029,0.0
+TCD,Chad,2030,0.0
+TCD,Chad,2031,0.0
+TCD,Chad,2032,0.0
+TCD,Chad,2033,0.0
+TCD,Chad,2034,0.0
+TCD,Chad,2035,0.0
+TCD,Chad,2036,0.0
+TCD,Chad,2037,0.0
+TCD,Chad,2038,0.0
+TCD,Chad,2039,0.0
+TCD,Chad,2040,0.0
+TCD,Chad,2041,0.0
+TCD,Chad,2042,0.0
+TCD,Chad,2043,0.0
+TCD,Chad,2044,0.0
+TCD,Chad,2045,0.0
+TCD,Chad,2046,0.0
+TCD,Chad,2047,0.0
+TCD,Chad,2048,0.0
+TCD,Chad,2049,0.0
+TCD,Chad,2050,0.0
+TGO,Togo,2023,0.0
+TGO,Togo,2024,0.0
+TGO,Togo,2025,0.0
+TGO,Togo,2026,0.0
+TGO,Togo,2027,0.0
+TGO,Togo,2028,0.0
+TGO,Togo,2029,0.0
+TGO,Togo,2030,0.0
+TGO,Togo,2031,0.0
+TGO,Togo,2032,0.0
+TGO,Togo,2033,0.0
+TGO,Togo,2034,0.0
+TGO,Togo,2035,0.0
+TGO,Togo,2036,0.0
+TGO,Togo,2037,0.0
+TGO,Togo,2038,0.0
+TGO,Togo,2039,0.0
+TGO,Togo,2040,0.0
+TGO,Togo,2041,0.0
+TGO,Togo,2042,0.0
+TGO,Togo,2043,0.0
+TGO,Togo,2044,0.0
+TGO,Togo,2045,0.0
+TGO,Togo,2046,0.0
+TGO,Togo,2047,0.0
+TGO,Togo,2048,0.0
+TGO,Togo,2049,0.0
+TGO,Togo,2050,0.0
+THA,Thailand,2023,52.0
+THA,Thailand,2024,52.0
+THA,Thailand,2025,52.0
+THA,Thailand,2026,52.0
+THA,Thailand,2027,52.0
+THA,Thailand,2028,52.0
+THA,Thailand,2029,52.0
+THA,Thailand,2030,52.0
+THA,Thailand,2031,52.0
+THA,Thailand,2032,52.0
+THA,Thailand,2033,52.0
+THA,Thailand,2034,52.0
+THA,Thailand,2035,52.0
+THA,Thailand,2036,52.0
+THA,Thailand,2037,52.0
+THA,Thailand,2038,52.0
+THA,Thailand,2039,52.0
+THA,Thailand,2040,52.0
+THA,Thailand,2041,52.0
+THA,Thailand,2042,52.0
+THA,Thailand,2043,52.0
+THA,Thailand,2044,52.0
+THA,Thailand,2045,52.0
+THA,Thailand,2046,52.0
+THA,Thailand,2047,52.0
+THA,Thailand,2048,52.0
+THA,Thailand,2049,52.0
+THA,Thailand,2050,52.0
+TJK,Tajikistan,2023,0.0
+TJK,Tajikistan,2024,0.0
+TJK,Tajikistan,2025,0.0
+TJK,Tajikistan,2026,0.0
+TJK,Tajikistan,2027,0.0
+TJK,Tajikistan,2028,0.0
+TJK,Tajikistan,2029,0.0
+TJK,Tajikistan,2030,0.0
+TJK,Tajikistan,2031,0.0
+TJK,Tajikistan,2032,0.0
+TJK,Tajikistan,2033,0.0
+TJK,Tajikistan,2034,0.0
+TJK,Tajikistan,2035,0.0
+TJK,Tajikistan,2036,0.0
+TJK,Tajikistan,2037,0.0
+TJK,Tajikistan,2038,0.0
+TJK,Tajikistan,2039,0.0
+TJK,Tajikistan,2040,0.0
+TJK,Tajikistan,2041,0.0
+TJK,Tajikistan,2042,0.0
+TJK,Tajikistan,2043,0.0
+TJK,Tajikistan,2044,0.0
+TJK,Tajikistan,2045,0.0
+TJK,Tajikistan,2046,0.0
+TJK,Tajikistan,2047,0.0
+TJK,Tajikistan,2048,0.0
+TJK,Tajikistan,2049,0.0
+TJK,Tajikistan,2050,0.0
+TKL,Tokelau,2023,0.0
+TKL,Tokelau,2024,0.0
+TKL,Tokelau,2025,0.0
+TKL,Tokelau,2026,0.0
+TKL,Tokelau,2027,0.0
+TKL,Tokelau,2028,0.0
+TKL,Tokelau,2029,0.0
+TKL,Tokelau,2030,0.0
+TKL,Tokelau,2031,0.0
+TKL,Tokelau,2032,0.0
+TKL,Tokelau,2033,0.0
+TKL,Tokelau,2034,0.0
+TKL,Tokelau,2035,0.0
+TKL,Tokelau,2036,0.0
+TKL,Tokelau,2037,0.0
+TKL,Tokelau,2038,0.0
+TKL,Tokelau,2039,0.0
+TKL,Tokelau,2040,0.0
+TKL,Tokelau,2041,0.0
+TKL,Tokelau,2042,0.0
+TKL,Tokelau,2043,0.0
+TKL,Tokelau,2044,0.0
+TKL,Tokelau,2045,0.0
+TKL,Tokelau,2046,0.0
+TKL,Tokelau,2047,0.0
+TKL,Tokelau,2048,0.0
+TKL,Tokelau,2049,0.0
+TKL,Tokelau,2050,0.0
+TKM,Turkmenistan,2023,0.0
+TKM,Turkmenistan,2024,0.0
+TKM,Turkmenistan,2025,0.0
+TKM,Turkmenistan,2026,0.0
+TKM,Turkmenistan,2027,0.0
+TKM,Turkmenistan,2028,0.0
+TKM,Turkmenistan,2029,0.0
+TKM,Turkmenistan,2030,0.0
+TKM,Turkmenistan,2031,0.0
+TKM,Turkmenistan,2032,0.0
+TKM,Turkmenistan,2033,0.0
+TKM,Turkmenistan,2034,0.0
+TKM,Turkmenistan,2035,0.0
+TKM,Turkmenistan,2036,0.0
+TKM,Turkmenistan,2037,0.0
+TKM,Turkmenistan,2038,0.0
+TKM,Turkmenistan,2039,0.0
+TKM,Turkmenistan,2040,0.0
+TKM,Turkmenistan,2041,0.0
+TKM,Turkmenistan,2042,0.0
+TKM,Turkmenistan,2043,0.0
+TKM,Turkmenistan,2044,0.0
+TKM,Turkmenistan,2045,0.0
+TKM,Turkmenistan,2046,0.0
+TKM,Turkmenistan,2047,0.0
+TKM,Turkmenistan,2048,0.0
+TKM,Turkmenistan,2049,0.0
+TKM,Turkmenistan,2050,0.0
+TLS,Timor-Leste,2023,0.0
+TLS,Timor-Leste,2024,0.0
+TLS,Timor-Leste,2025,0.0
+TLS,Timor-Leste,2026,0.0
+TLS,Timor-Leste,2027,0.0
+TLS,Timor-Leste,2028,0.0
+TLS,Timor-Leste,2029,0.0
+TLS,Timor-Leste,2030,0.0
+TLS,Timor-Leste,2031,0.0
+TLS,Timor-Leste,2032,0.0
+TLS,Timor-Leste,2033,0.0
+TLS,Timor-Leste,2034,0.0
+TLS,Timor-Leste,2035,0.0
+TLS,Timor-Leste,2036,0.0
+TLS,Timor-Leste,2037,0.0
+TLS,Timor-Leste,2038,0.0
+TLS,Timor-Leste,2039,0.0
+TLS,Timor-Leste,2040,0.0
+TLS,Timor-Leste,2041,0.0
+TLS,Timor-Leste,2042,0.0
+TLS,Timor-Leste,2043,0.0
+TLS,Timor-Leste,2044,0.0
+TLS,Timor-Leste,2045,0.0
+TLS,Timor-Leste,2046,0.0
+TLS,Timor-Leste,2047,0.0
+TLS,Timor-Leste,2048,0.0
+TLS,Timor-Leste,2049,0.0
+TLS,Timor-Leste,2050,0.0
+TON,Tonga,2023,0.0
+TON,Tonga,2024,0.0
+TON,Tonga,2025,0.0
+TON,Tonga,2026,0.0
+TON,Tonga,2027,0.0
+TON,Tonga,2028,0.0
+TON,Tonga,2029,0.0
+TON,Tonga,2030,0.0
+TON,Tonga,2031,0.0
+TON,Tonga,2032,0.0
+TON,Tonga,2033,0.0
+TON,Tonga,2034,0.0
+TON,Tonga,2035,0.0
+TON,Tonga,2036,0.0
+TON,Tonga,2037,0.0
+TON,Tonga,2038,0.0
+TON,Tonga,2039,0.0
+TON,Tonga,2040,0.0
+TON,Tonga,2041,0.0
+TON,Tonga,2042,0.0
+TON,Tonga,2043,0.0
+TON,Tonga,2044,0.0
+TON,Tonga,2045,0.0
+TON,Tonga,2046,0.0
+TON,Tonga,2047,0.0
+TON,Tonga,2048,0.0
+TON,Tonga,2049,0.0
+TON,Tonga,2050,0.0
+TTO,Trinidad and Tobago,2023,2032.0
+TTO,Trinidad and Tobago,2024,2032.0
+TTO,Trinidad and Tobago,2025,2032.0
+TTO,Trinidad and Tobago,2026,2032.0
+TTO,Trinidad and Tobago,2027,2032.0
+TTO,Trinidad and Tobago,2028,2032.0
+TTO,Trinidad and Tobago,2029,2032.0
+TTO,Trinidad and Tobago,2030,2032.0
+TTO,Trinidad and Tobago,2031,2032.0
+TTO,Trinidad and Tobago,2032,2032.0
+TTO,Trinidad and Tobago,2033,2032.0
+TTO,Trinidad and Tobago,2034,2032.0
+TTO,Trinidad and Tobago,2035,2032.0
+TTO,Trinidad and Tobago,2036,2032.0
+TTO,Trinidad and Tobago,2037,2032.0
+TTO,Trinidad and Tobago,2038,2032.0
+TTO,Trinidad and Tobago,2039,2032.0
+TTO,Trinidad and Tobago,2040,2032.0
+TTO,Trinidad and Tobago,2041,2032.0
+TTO,Trinidad and Tobago,2042,2032.0
+TTO,Trinidad and Tobago,2043,2032.0
+TTO,Trinidad and Tobago,2044,2032.0
+TTO,Trinidad and Tobago,2045,2032.0
+TTO,Trinidad and Tobago,2046,2032.0
+TTO,Trinidad and Tobago,2047,2032.0
+TTO,Trinidad and Tobago,2048,2032.0
+TTO,Trinidad and Tobago,2049,2032.0
+TTO,Trinidad and Tobago,2050,2032.0
+TUN,Tunisia,2023,82619.0
+TUN,Tunisia,2024,82619.0
+TUN,Tunisia,2025,82619.0
+TUN,Tunisia,2026,82619.0
+TUN,Tunisia,2027,82619.0
+TUN,Tunisia,2028,82619.0
+TUN,Tunisia,2029,82619.0
+TUN,Tunisia,2030,82619.0
+TUN,Tunisia,2031,82619.0
+TUN,Tunisia,2032,82619.0
+TUN,Tunisia,2033,82619.0
+TUN,Tunisia,2034,82619.0
+TUN,Tunisia,2035,82619.0
+TUN,Tunisia,2036,82619.0
+TUN,Tunisia,2037,82619.0
+TUN,Tunisia,2038,82619.0
+TUN,Tunisia,2039,82619.0
+TUN,Tunisia,2040,82619.0
+TUN,Tunisia,2041,82619.0
+TUN,Tunisia,2042,82619.0
+TUN,Tunisia,2043,82619.0
+TUN,Tunisia,2044,82619.0
+TUN,Tunisia,2045,82619.0
+TUN,Tunisia,2046,82619.0
+TUN,Tunisia,2047,82619.0
+TUN,Tunisia,2048,82619.0
+TUN,Tunisia,2049,82619.0
+TUN,Tunisia,2050,82619.0
+TUR,Türkiye,2023,19018.0
+TUR,Türkiye,2024,19018.0
+TUR,Türkiye,2025,19018.0
+TUR,Türkiye,2026,19018.0
+TUR,Türkiye,2027,19018.0
+TUR,Türkiye,2028,19018.0
+TUR,Türkiye,2029,19018.0
+TUR,Türkiye,2030,19018.0
+TUR,Türkiye,2031,19018.0
+TUR,Türkiye,2032,19018.0
+TUR,Türkiye,2033,19018.0
+TUR,Türkiye,2034,19018.0
+TUR,Türkiye,2035,19018.0
+TUR,Türkiye,2036,19018.0
+TUR,Türkiye,2037,19018.0
+TUR,Türkiye,2038,19018.0
+TUR,Türkiye,2039,19018.0
+TUR,Türkiye,2040,19018.0
+TUR,Türkiye,2041,19018.0
+TUR,Türkiye,2042,19018.0
+TUR,Türkiye,2043,19018.0
+TUR,Türkiye,2044,19018.0
+TUR,Türkiye,2045,19018.0
+TUR,Türkiye,2046,19018.0
+TUR,Türkiye,2047,19018.0
+TUR,Türkiye,2048,19018.0
+TUR,Türkiye,2049,19018.0
+TUR,Türkiye,2050,19018.0
+TUV,Tuvalu,2023,0.0
+TUV,Tuvalu,2024,0.0
+TUV,Tuvalu,2025,0.0
+TUV,Tuvalu,2026,0.0
+TUV,Tuvalu,2027,0.0
+TUV,Tuvalu,2028,0.0
+TUV,Tuvalu,2029,0.0
+TUV,Tuvalu,2030,0.0
+TUV,Tuvalu,2031,0.0
+TUV,Tuvalu,2032,0.0
+TUV,Tuvalu,2033,0.0
+TUV,Tuvalu,2034,0.0
+TUV,Tuvalu,2035,0.0
+TUV,Tuvalu,2036,0.0
+TUV,Tuvalu,2037,0.0
+TUV,Tuvalu,2038,0.0
+TUV,Tuvalu,2039,0.0
+TUV,Tuvalu,2040,0.0
+TUV,Tuvalu,2041,0.0
+TUV,Tuvalu,2042,0.0
+TUV,Tuvalu,2043,0.0
+TUV,Tuvalu,2044,0.0
+TUV,Tuvalu,2045,0.0
+TUV,Tuvalu,2046,0.0
+TUV,Tuvalu,2047,0.0
+TUV,Tuvalu,2048,0.0
+TUV,Tuvalu,2049,0.0
+TUV,Tuvalu,2050,0.0
+TWN,"China, Taiwan Province of",2023,0.0
+TWN,"China, Taiwan Province of",2024,0.0
+TWN,"China, Taiwan Province of",2025,0.0
+TWN,"China, Taiwan Province of",2026,0.0
+TWN,"China, Taiwan Province of",2027,0.0
+TWN,"China, Taiwan Province of",2028,0.0
+TWN,"China, Taiwan Province of",2029,0.0
+TWN,"China, Taiwan Province of",2030,0.0
+TWN,"China, Taiwan Province of",2031,0.0
+TWN,"China, Taiwan Province of",2032,0.0
+TWN,"China, Taiwan Province of",2033,0.0
+TWN,"China, Taiwan Province of",2034,0.0
+TWN,"China, Taiwan Province of",2035,0.0
+TWN,"China, Taiwan Province of",2036,0.0
+TWN,"China, Taiwan Province of",2037,0.0
+TWN,"China, Taiwan Province of",2038,0.0
+TWN,"China, Taiwan Province of",2039,0.0
+TWN,"China, Taiwan Province of",2040,0.0
+TWN,"China, Taiwan Province of",2041,0.0
+TWN,"China, Taiwan Province of",2042,0.0
+TWN,"China, Taiwan Province of",2043,0.0
+TWN,"China, Taiwan Province of",2044,0.0
+TWN,"China, Taiwan Province of",2045,0.0
+TWN,"China, Taiwan Province of",2046,0.0
+TWN,"China, Taiwan Province of",2047,0.0
+TWN,"China, Taiwan Province of",2048,0.0
+TWN,"China, Taiwan Province of",2049,0.0
+TWN,"China, Taiwan Province of",2050,0.0
+TZA,United Republic of Tanzania,2023,0.0
+TZA,United Republic of Tanzania,2024,0.0
+TZA,United Republic of Tanzania,2025,0.0
+TZA,United Republic of Tanzania,2026,0.0
+TZA,United Republic of Tanzania,2027,0.0
+TZA,United Republic of Tanzania,2028,0.0
+TZA,United Republic of Tanzania,2029,0.0
+TZA,United Republic of Tanzania,2030,0.0
+TZA,United Republic of Tanzania,2031,0.0
+TZA,United Republic of Tanzania,2032,0.0
+TZA,United Republic of Tanzania,2033,0.0
+TZA,United Republic of Tanzania,2034,0.0
+TZA,United Republic of Tanzania,2035,0.0
+TZA,United Republic of Tanzania,2036,0.0
+TZA,United Republic of Tanzania,2037,0.0
+TZA,United Republic of Tanzania,2038,0.0
+TZA,United Republic of Tanzania,2039,0.0
+TZA,United Republic of Tanzania,2040,0.0
+TZA,United Republic of Tanzania,2041,0.0
+TZA,United Republic of Tanzania,2042,0.0
+TZA,United Republic of Tanzania,2043,0.0
+TZA,United Republic of Tanzania,2044,0.0
+TZA,United Republic of Tanzania,2045,0.0
+TZA,United Republic of Tanzania,2046,0.0
+TZA,United Republic of Tanzania,2047,0.0
+TZA,United Republic of Tanzania,2048,0.0
+TZA,United Republic of Tanzania,2049,0.0
+TZA,United Republic of Tanzania,2050,0.0
+UGA,Uganda,2023,0.0
+UGA,Uganda,2024,0.0
+UGA,Uganda,2025,0.0
+UGA,Uganda,2026,0.0
+UGA,Uganda,2027,0.0
+UGA,Uganda,2028,0.0
+UGA,Uganda,2029,0.0
+UGA,Uganda,2030,0.0
+UGA,Uganda,2031,0.0
+UGA,Uganda,2032,0.0
+UGA,Uganda,2033,0.0
+UGA,Uganda,2034,0.0
+UGA,Uganda,2035,0.0
+UGA,Uganda,2036,0.0
+UGA,Uganda,2037,0.0
+UGA,Uganda,2038,0.0
+UGA,Uganda,2039,0.0
+UGA,Uganda,2040,0.0
+UGA,Uganda,2041,0.0
+UGA,Uganda,2042,0.0
+UGA,Uganda,2043,0.0
+UGA,Uganda,2044,0.0
+UGA,Uganda,2045,0.0
+UGA,Uganda,2046,0.0
+UGA,Uganda,2047,0.0
+UGA,Uganda,2048,0.0
+UGA,Uganda,2049,0.0
+UGA,Uganda,2050,0.0
+UKR,Ukraine,2023,0.0
+UKR,Ukraine,2024,0.0
+UKR,Ukraine,2025,0.0
+UKR,Ukraine,2026,0.0
+UKR,Ukraine,2027,0.0
+UKR,Ukraine,2028,0.0
+UKR,Ukraine,2029,0.0
+UKR,Ukraine,2030,0.0
+UKR,Ukraine,2031,0.0
+UKR,Ukraine,2032,0.0
+UKR,Ukraine,2033,0.0
+UKR,Ukraine,2034,0.0
+UKR,Ukraine,2035,0.0
+UKR,Ukraine,2036,0.0
+UKR,Ukraine,2037,0.0
+UKR,Ukraine,2038,0.0
+UKR,Ukraine,2039,0.0
+UKR,Ukraine,2040,0.0
+UKR,Ukraine,2041,0.0
+UKR,Ukraine,2042,0.0
+UKR,Ukraine,2043,0.0
+UKR,Ukraine,2044,0.0
+UKR,Ukraine,2045,0.0
+UKR,Ukraine,2046,0.0
+UKR,Ukraine,2047,0.0
+UKR,Ukraine,2048,0.0
+UKR,Ukraine,2049,0.0
+UKR,Ukraine,2050,0.0
+URY,Uruguay,2023,4096.0
+URY,Uruguay,2024,4096.0
+URY,Uruguay,2025,4096.0
+URY,Uruguay,2026,4096.0
+URY,Uruguay,2027,4096.0
+URY,Uruguay,2028,4096.0
+URY,Uruguay,2029,4096.0
+URY,Uruguay,2030,4096.0
+URY,Uruguay,2031,4096.0
+URY,Uruguay,2032,4096.0
+URY,Uruguay,2033,4096.0
+URY,Uruguay,2034,4096.0
+URY,Uruguay,2035,4096.0
+URY,Uruguay,2036,4096.0
+URY,Uruguay,2037,4096.0
+URY,Uruguay,2038,4096.0
+URY,Uruguay,2039,4096.0
+URY,Uruguay,2040,4096.0
+URY,Uruguay,2041,4096.0
+URY,Uruguay,2042,4096.0
+URY,Uruguay,2043,4096.0
+URY,Uruguay,2044,4096.0
+URY,Uruguay,2045,4096.0
+URY,Uruguay,2046,4096.0
+URY,Uruguay,2047,4096.0
+URY,Uruguay,2048,4096.0
+URY,Uruguay,2049,4096.0
+URY,Uruguay,2050,4096.0
+USA,United States of America,2023,0.0
+USA,United States of America,2024,0.0
+USA,United States of America,2025,0.0
+USA,United States of America,2026,0.0
+USA,United States of America,2027,0.0
+USA,United States of America,2028,0.0
+USA,United States of America,2029,0.0
+USA,United States of America,2030,0.0
+USA,United States of America,2031,0.0
+USA,United States of America,2032,0.0
+USA,United States of America,2033,0.0
+USA,United States of America,2034,0.0
+USA,United States of America,2035,0.0
+USA,United States of America,2036,0.0
+USA,United States of America,2037,0.0
+USA,United States of America,2038,0.0
+USA,United States of America,2039,0.0
+USA,United States of America,2040,0.0
+USA,United States of America,2041,0.0
+USA,United States of America,2042,0.0
+USA,United States of America,2043,0.0
+USA,United States of America,2044,0.0
+USA,United States of America,2045,0.0
+USA,United States of America,2046,0.0
+USA,United States of America,2047,0.0
+USA,United States of America,2048,0.0
+USA,United States of America,2049,0.0
+USA,United States of America,2050,0.0
+UZB,Uzbekistan,2023,0.0
+UZB,Uzbekistan,2024,0.0
+UZB,Uzbekistan,2025,0.0
+UZB,Uzbekistan,2026,0.0
+UZB,Uzbekistan,2027,0.0
+UZB,Uzbekistan,2028,0.0
+UZB,Uzbekistan,2029,0.0
+UZB,Uzbekistan,2030,0.0
+UZB,Uzbekistan,2031,0.0
+UZB,Uzbekistan,2032,0.0
+UZB,Uzbekistan,2033,0.0
+UZB,Uzbekistan,2034,0.0
+UZB,Uzbekistan,2035,0.0
+UZB,Uzbekistan,2036,0.0
+UZB,Uzbekistan,2037,0.0
+UZB,Uzbekistan,2038,0.0
+UZB,Uzbekistan,2039,0.0
+UZB,Uzbekistan,2040,0.0
+UZB,Uzbekistan,2041,0.0
+UZB,Uzbekistan,2042,0.0
+UZB,Uzbekistan,2043,0.0
+UZB,Uzbekistan,2044,0.0
+UZB,Uzbekistan,2045,0.0
+UZB,Uzbekistan,2046,0.0
+UZB,Uzbekistan,2047,0.0
+UZB,Uzbekistan,2048,0.0
+UZB,Uzbekistan,2049,0.0
+UZB,Uzbekistan,2050,0.0
+VCT,Saint Vincent and the Grenadines,2023,0.0
+VCT,Saint Vincent and the Grenadines,2024,0.0
+VCT,Saint Vincent and the Grenadines,2025,0.0
+VCT,Saint Vincent and the Grenadines,2026,0.0
+VCT,Saint Vincent and the Grenadines,2027,0.0
+VCT,Saint Vincent and the Grenadines,2028,0.0
+VCT,Saint Vincent and the Grenadines,2029,0.0
+VCT,Saint Vincent and the Grenadines,2030,0.0
+VCT,Saint Vincent and the Grenadines,2031,0.0
+VCT,Saint Vincent and the Grenadines,2032,0.0
+VCT,Saint Vincent and the Grenadines,2033,0.0
+VCT,Saint Vincent and the Grenadines,2034,0.0
+VCT,Saint Vincent and the Grenadines,2035,0.0
+VCT,Saint Vincent and the Grenadines,2036,0.0
+VCT,Saint Vincent and the Grenadines,2037,0.0
+VCT,Saint Vincent and the Grenadines,2038,0.0
+VCT,Saint Vincent and the Grenadines,2039,0.0
+VCT,Saint Vincent and the Grenadines,2040,0.0
+VCT,Saint Vincent and the Grenadines,2041,0.0
+VCT,Saint Vincent and the Grenadines,2042,0.0
+VCT,Saint Vincent and the Grenadines,2043,0.0
+VCT,Saint Vincent and the Grenadines,2044,0.0
+VCT,Saint Vincent and the Grenadines,2045,0.0
+VCT,Saint Vincent and the Grenadines,2046,0.0
+VCT,Saint Vincent and the Grenadines,2047,0.0
+VCT,Saint Vincent and the Grenadines,2048,0.0
+VCT,Saint Vincent and the Grenadines,2049,0.0
+VCT,Saint Vincent and the Grenadines,2050,0.0
+VEN,Venezuela (Bolivarian Republic of),2023,72000.0
+VEN,Venezuela (Bolivarian Republic of),2024,72000.0
+VEN,Venezuela (Bolivarian Republic of),2025,72000.0
+VEN,Venezuela (Bolivarian Republic of),2026,72000.0
+VEN,Venezuela (Bolivarian Republic of),2027,72000.0
+VEN,Venezuela (Bolivarian Republic of),2028,72000.0
+VEN,Venezuela (Bolivarian Republic of),2029,72000.0
+VEN,Venezuela (Bolivarian Republic of),2030,72000.0
+VEN,Venezuela (Bolivarian Republic of),2031,72000.0
+VEN,Venezuela (Bolivarian Republic of),2032,72000.0
+VEN,Venezuela (Bolivarian Republic of),2033,72000.0
+VEN,Venezuela (Bolivarian Republic of),2034,72000.0
+VEN,Venezuela (Bolivarian Republic of),2035,72000.0
+VEN,Venezuela (Bolivarian Republic of),2036,72000.0
+VEN,Venezuela (Bolivarian Republic of),2037,72000.0
+VEN,Venezuela (Bolivarian Republic of),2038,72000.0
+VEN,Venezuela (Bolivarian Republic of),2039,72000.0
+VEN,Venezuela (Bolivarian Republic of),2040,72000.0
+VEN,Venezuela (Bolivarian Republic of),2041,72000.0
+VEN,Venezuela (Bolivarian Republic of),2042,72000.0
+VEN,Venezuela (Bolivarian Republic of),2043,72000.0
+VEN,Venezuela (Bolivarian Republic of),2044,72000.0
+VEN,Venezuela (Bolivarian Republic of),2045,72000.0
+VEN,Venezuela (Bolivarian Republic of),2046,72000.0
+VEN,Venezuela (Bolivarian Republic of),2047,72000.0
+VEN,Venezuela (Bolivarian Republic of),2048,72000.0
+VEN,Venezuela (Bolivarian Republic of),2049,72000.0
+VEN,Venezuela (Bolivarian Republic of),2050,72000.0
+VNM,Viet Nam,2023,0.0
+VNM,Viet Nam,2024,0.0
+VNM,Viet Nam,2025,0.0
+VNM,Viet Nam,2026,0.0
+VNM,Viet Nam,2027,0.0
+VNM,Viet Nam,2028,0.0
+VNM,Viet Nam,2029,0.0
+VNM,Viet Nam,2030,0.0
+VNM,Viet Nam,2031,0.0
+VNM,Viet Nam,2032,0.0
+VNM,Viet Nam,2033,0.0
+VNM,Viet Nam,2034,0.0
+VNM,Viet Nam,2035,0.0
+VNM,Viet Nam,2036,0.0
+VNM,Viet Nam,2037,0.0
+VNM,Viet Nam,2038,0.0
+VNM,Viet Nam,2039,0.0
+VNM,Viet Nam,2040,0.0
+VNM,Viet Nam,2041,0.0
+VNM,Viet Nam,2042,0.0
+VNM,Viet Nam,2043,0.0
+VNM,Viet Nam,2044,0.0
+VNM,Viet Nam,2045,0.0
+VNM,Viet Nam,2046,0.0
+VNM,Viet Nam,2047,0.0
+VNM,Viet Nam,2048,0.0
+VNM,Viet Nam,2049,0.0
+VNM,Viet Nam,2050,0.0
+VUT,Vanuatu,2023,0.0
+VUT,Vanuatu,2024,0.0
+VUT,Vanuatu,2025,0.0
+VUT,Vanuatu,2026,0.0
+VUT,Vanuatu,2027,0.0
+VUT,Vanuatu,2028,0.0
+VUT,Vanuatu,2029,0.0
+VUT,Vanuatu,2030,0.0
+VUT,Vanuatu,2031,0.0
+VUT,Vanuatu,2032,0.0
+VUT,Vanuatu,2033,0.0
+VUT,Vanuatu,2034,0.0
+VUT,Vanuatu,2035,0.0
+VUT,Vanuatu,2036,0.0
+VUT,Vanuatu,2037,0.0
+VUT,Vanuatu,2038,0.0
+VUT,Vanuatu,2039,0.0
+VUT,Vanuatu,2040,0.0
+VUT,Vanuatu,2041,0.0
+VUT,Vanuatu,2042,0.0
+VUT,Vanuatu,2043,0.0
+VUT,Vanuatu,2044,0.0
+VUT,Vanuatu,2045,0.0
+VUT,Vanuatu,2046,0.0
+VUT,Vanuatu,2047,0.0
+VUT,Vanuatu,2048,0.0
+VUT,Vanuatu,2049,0.0
+VUT,Vanuatu,2050,0.0
+WSM,Samoa,2023,0.0
+WSM,Samoa,2024,0.0
+WSM,Samoa,2025,0.0
+WSM,Samoa,2026,0.0
+WSM,Samoa,2027,0.0
+WSM,Samoa,2028,0.0
+WSM,Samoa,2029,0.0
+WSM,Samoa,2030,0.0
+WSM,Samoa,2031,0.0
+WSM,Samoa,2032,0.0
+WSM,Samoa,2033,0.0
+WSM,Samoa,2034,0.0
+WSM,Samoa,2035,0.0
+WSM,Samoa,2036,0.0
+WSM,Samoa,2037,0.0
+WSM,Samoa,2038,0.0
+WSM,Samoa,2039,0.0
+WSM,Samoa,2040,0.0
+WSM,Samoa,2041,0.0
+WSM,Samoa,2042,0.0
+WSM,Samoa,2043,0.0
+WSM,Samoa,2044,0.0
+WSM,Samoa,2045,0.0
+WSM,Samoa,2046,0.0
+WSM,Samoa,2047,0.0
+WSM,Samoa,2048,0.0
+WSM,Samoa,2049,0.0
+WSM,Samoa,2050,0.0
+YEM,Yemen,2023,0.0
+YEM,Yemen,2024,0.0
+YEM,Yemen,2025,0.0
+YEM,Yemen,2026,0.0
+YEM,Yemen,2027,0.0
+YEM,Yemen,2028,0.0
+YEM,Yemen,2029,0.0
+YEM,Yemen,2030,0.0
+YEM,Yemen,2031,0.0
+YEM,Yemen,2032,0.0
+YEM,Yemen,2033,0.0
+YEM,Yemen,2034,0.0
+YEM,Yemen,2035,0.0
+YEM,Yemen,2036,0.0
+YEM,Yemen,2037,0.0
+YEM,Yemen,2038,0.0
+YEM,Yemen,2039,0.0
+YEM,Yemen,2040,0.0
+YEM,Yemen,2041,0.0
+YEM,Yemen,2042,0.0
+YEM,Yemen,2043,0.0
+YEM,Yemen,2044,0.0
+YEM,Yemen,2045,0.0
+YEM,Yemen,2046,0.0
+YEM,Yemen,2047,0.0
+YEM,Yemen,2048,0.0
+YEM,Yemen,2049,0.0
+YEM,Yemen,2050,0.0
+ZAF,South Africa,2023,15991.0
+ZAF,South Africa,2024,15991.0
+ZAF,South Africa,2025,15991.0
+ZAF,South Africa,2026,15991.0
+ZAF,South Africa,2027,15991.0
+ZAF,South Africa,2028,15991.0
+ZAF,South Africa,2029,15991.0
+ZAF,South Africa,2030,15991.0
+ZAF,South Africa,2031,15991.0
+ZAF,South Africa,2032,15991.0
+ZAF,South Africa,2033,15991.0
+ZAF,South Africa,2034,15991.0
+ZAF,South Africa,2035,15991.0
+ZAF,South Africa,2036,15991.0
+ZAF,South Africa,2037,15991.0
+ZAF,South Africa,2038,15991.0
+ZAF,South Africa,2039,15991.0
+ZAF,South Africa,2040,15991.0
+ZAF,South Africa,2041,15991.0
+ZAF,South Africa,2042,15991.0
+ZAF,South Africa,2043,15991.0
+ZAF,South Africa,2044,15991.0
+ZAF,South Africa,2045,15991.0
+ZAF,South Africa,2046,15991.0
+ZAF,South Africa,2047,15991.0
+ZAF,South Africa,2048,15991.0
+ZAF,South Africa,2049,15991.0
+ZAF,South Africa,2050,15991.0
+ZMB,Zambia,2023,0.0
+ZMB,Zambia,2024,0.0
+ZMB,Zambia,2025,0.0
+ZMB,Zambia,2026,0.0
+ZMB,Zambia,2027,0.0
+ZMB,Zambia,2028,0.0
+ZMB,Zambia,2029,0.0
+ZMB,Zambia,2030,0.0
+ZMB,Zambia,2031,0.0
+ZMB,Zambia,2032,0.0
+ZMB,Zambia,2033,0.0
+ZMB,Zambia,2034,0.0
+ZMB,Zambia,2035,0.0
+ZMB,Zambia,2036,0.0
+ZMB,Zambia,2037,0.0
+ZMB,Zambia,2038,0.0
+ZMB,Zambia,2039,0.0
+ZMB,Zambia,2040,0.0
+ZMB,Zambia,2041,0.0
+ZMB,Zambia,2042,0.0
+ZMB,Zambia,2043,0.0
+ZMB,Zambia,2044,0.0
+ZMB,Zambia,2045,0.0
+ZMB,Zambia,2046,0.0
+ZMB,Zambia,2047,0.0
+ZMB,Zambia,2048,0.0
+ZMB,Zambia,2049,0.0
+ZMB,Zambia,2050,0.0
+ZWE,Zimbabwe,2023,1249.0
+ZWE,Zimbabwe,2024,1249.0
+ZWE,Zimbabwe,2025,1249.0
+ZWE,Zimbabwe,2026,1249.0
+ZWE,Zimbabwe,2027,1249.0
+ZWE,Zimbabwe,2028,1249.0
+ZWE,Zimbabwe,2029,1249.0
+ZWE,Zimbabwe,2030,1249.0
+ZWE,Zimbabwe,2031,1249.0
+ZWE,Zimbabwe,2032,1249.0
+ZWE,Zimbabwe,2033,1249.0
+ZWE,Zimbabwe,2034,1249.0
+ZWE,Zimbabwe,2035,1249.0
+ZWE,Zimbabwe,2036,1249.0
+ZWE,Zimbabwe,2037,1249.0
+ZWE,Zimbabwe,2038,1249.0
+ZWE,Zimbabwe,2039,1249.0
+ZWE,Zimbabwe,2040,1249.0
+ZWE,Zimbabwe,2041,1249.0
+ZWE,Zimbabwe,2042,1249.0
+ZWE,Zimbabwe,2043,1249.0
+ZWE,Zimbabwe,2044,1249.0
+ZWE,Zimbabwe,2045,1249.0
+ZWE,Zimbabwe,2046,1249.0
+ZWE,Zimbabwe,2047,1249.0
+ZWE,Zimbabwe,2048,1249.0
+ZWE,Zimbabwe,2049,1249.0
+ZWE,Zimbabwe,2050,1249.0
