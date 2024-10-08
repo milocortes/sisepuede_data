@@ -1,1 +1,11 @@
-Hola!
+latest update date: '2024-10-08'
+variable:
+  name: yf_agrc_bevs_and_spices_tonne_ha
+  subsector: Agriculture
+  longname: Crop Yield Factor
+  units: Tonnes per Hectare
+resources:
+  url: https://www.fao.org/faostat/en/#data/QCL
+  descrip: FAOSTAT Crops and livestock products
+additional_information:
+  assumptions: The projected values are equal to the last historical value.
