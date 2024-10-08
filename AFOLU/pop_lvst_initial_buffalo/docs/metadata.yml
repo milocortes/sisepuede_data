@@ -1,15 +1,11 @@
-date:        2023-04-18
-variable :
-  name : 
-  subsector : Livestock Manure Management
-  longname :  
-  units: 
-
+latest update date: '2024-10-08'
+variable:
+  name: pop_lvst_initial_buffalo
+  subsector: Agriculture
+  longname: Initial Livestock
+  units: number of animals
 resources:
-    - url:   https://www.fao.org/faostat/en/#data
-      descrip:   FAOSTAT
-
-
-aditional_information:
-      assumptions: >
-            - The projected values are equal to the last historical value.
+  url: https://www.fao.org/faostat/en/#data/QCL
+  descrip: FAOSTAT Crops and livestock products
+additional_information:
+  assumptions: The projected values are equal to the last historical value.
