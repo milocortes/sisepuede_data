@@ -18,5 +18,7 @@ The following data inputs were updated with the data provided by Sonya (Industri
 - **prodinit_ippu_rubber_and_leather_tonne:** Leather data is available, but rubber data is not.
 - **prodinit_ippu_textiles_tonne:** No data in the new source.
 
+Data was only updated for `iso_code3 == 'IRN'`.
+
 ### Important:
 - Projected data was not updated since the scripts to do so aren't available in the repository.
