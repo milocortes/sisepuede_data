@@ -99,7 +99,7 @@ for estrategia in df.primary_id.unique():
     df_emisiones_strategy.reset_index(drop=True)
     df_emisiones_strategy = df_emisiones_strategy.reset_index(drop=True)
     df_emisiones_strategy["time_period"] = df_emisiones_strategy["time_period"] + 2015
-    df_emisiones_strategy = df_emisiones_strategy.set_index("time_period").drop(columns = ["emission_co2e_subsector_total_entc"])
+    df_emisiones_strategy = df_emisiones_strategy.set_index("time_period").drop(columns = ["emission_co2e_subsector_total_soil"])
     df_emisiones_strategy.plot.area(title = f"EMISIONES\nEstrategia : {strategy_mapping[estrategia][1]}\nCODE:{strategy_mapping[estrategia][0]}")
     plt.show()
 
