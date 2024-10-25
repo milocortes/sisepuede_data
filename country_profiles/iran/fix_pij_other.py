@@ -123,4 +123,4 @@ df['pij_lndu_other_to_settlements'] += (1-param_to_share)*df['pij_lndu_other_to_
 df['pij_lndu_other_to_other'] = param_to_share*df['pij_lndu_other_to_other']
 
 
-df.to_csv("real_data.csv")
+df.to_csv("real_data.csv", index = False)

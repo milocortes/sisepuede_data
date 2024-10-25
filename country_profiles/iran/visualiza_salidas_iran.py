@@ -2,6 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt 
 import os
 
+from grupos_subsectores_emisiones import componen_emisiones_subsector
+
 #contenedor = "tanzania_pij_uno"
 #PATH_INPUT = f"/home/milo/Documents/egap/SISEPUEDE/{contenedor}/ssp_tanzania/opt/SSP_RESULTS"
 #PATH_INPUT = "/home/milo/Documents/egap/BancoMundial/paises/armenia/ssp_model/opt/SSP_RESULTS"
@@ -21,7 +23,12 @@ strategy_mapping = {
    126126: [5007,'PFLO: All transformations without stopping deforestation and partial land use reallocation'],
    125125: [5006,'PFLO: Supply side technologies and transformations'],
    127127: [5008,'PFLO: All transformations'], 
-   128128: [5009,'PFLO: All transformations with partial land use reallocation']
+   128128: [5009,'PFLO: All transformations with partial land use reallocation'],
+   14014: [1014, "LNDU: Expand sustainable grazing practices"], 
+   119119: [4008, "IP: All IP transformations"], 
+   120120: [5001, "PFLO: Better baseline"], 
+   123123: [5004, "PFLO: Change consumer behavior"], 
+   124124: [5005, "PFLO: Industrial point of capture CCSQ"]
 }
 
 
@@ -56,6 +63,11 @@ data_TIMES = [('area_lndu_croplands', 26.0, 28.0),
 emisiones_subsector = [i for i in df.columns if i.startswith("emission_co2e_subsector_total_")]
 
 df_data_TIMES = pd.DataFrame(data_TIMES, columns = ["ssp_var", "2015_TIMES", "2050_TIMES"]).set_index("ssp_var")
+
+guarda_emisiones_totales = {}
+subsectores_lista = ['agrc','ccsq','entc','fgtv','frst','inen','ippu','lndu','lsmm','lvst','scoe','trns','trww','waso']
+guarda_emisiones = {i : pd.DataFrame() for i in subsectores_lista}
+
 
 for estrategia in df.primary_id.unique():
     df_lndu_strategy = df.query(f"primary_id=={estrategia}")[["time_period"]+areas]
@@ -103,6 +115,29 @@ for estrategia in df.primary_id.unique():
     df_emisiones_strategy.plot.area(title = f"EMISIONES\nEstrategia : {strategy_mapping[estrategia][1]}\nCODE:{strategy_mapping[estrategia][0]}")
     plt.show()
 
+    for i in subsectores_lista:
+        query_subsector = [k for k in df_emisiones_strategy.columns if i in k]
+        guarda_emisiones[i] = pd.concat([guarda_emisiones[i], df_emisiones_strategy[query_subsector]], axis = 1)
+        guarda_emisiones[i] = guarda_emisiones[i].rename(columns = {query_subsector[0] : f"{query_subsector[0]}_{strategy_mapping[estrategia][1]}"})
+
+
+    """
+    for sub_sector in df_emisiones_strategy.columns:
+
+        df_sub_emisiones_strategy = df.query(f"primary_id=={estrategia}")[["time_period"]+componen_emisiones_subsector[sub_sector]]
+        df_sub_emisiones_strategy.reset_index(drop=True)
+        df_sub_emisiones_strategy = df_sub_emisiones_strategy.reset_index(drop=True)
+        df_sub_emisiones_strategy["time_period"] = df_sub_emisiones_strategy["time_period"] + 2015
+        df_sub_emisiones_strategy = df_sub_emisiones_strategy.set_index("time_period")
+        try:
+            df_sub_emisiones_strategy.plot.area(title = f"EMISIONES\nEstrategia : {strategy_mapping[estrategia][1]}\nCODE:{strategy_mapping[estrategia][0]}\nSUBSECTOR : {sub_sector}")
+            plt.show()    
+        except:
+            print("NO jalo")
+
+    """
+
+    """
     ########### AREA LNDU CONVERSION FROM FOREST SECONDARY
     df_conversion_from_forest_sec = df.query(f"primary_id=={estrategia}")[["time_period"]+["area_lndu_conversion_from_forests_secondary"]]
     df_conversion_from_forest_sec.reset_index(drop=True)
@@ -138,5 +173,22 @@ for estrategia in df.primary_id.unique():
     df_conversion_from_forest_sec = df_conversion_from_forest_sec.set_index("time_period")
     df_conversion_from_forest_sec.plot.area(title = f"AREA LNDU CONVERSION FROM FOREST PRIMARY TO CROPLANDS\nEstrategia : {strategy_mapping[estrategia][1]}\nCODE:{strategy_mapping[estrategia][0]}")
     plt.show()
+    """
+
+    guarda_emisiones_totales[estrategia] = df_emisiones_strategy.sum(axis = 1).to_list()
 
 
+for k,v in guarda_emisiones_totales.items():
+    plt.plot(range(2015, 2051), v, label = f"EMISIONES\nEstrategia : {strategy_mapping[k][1]}")
+
+plt.title("Emisiones estretgias")
+plt.legend()
+plt.show()
+
+
+for k,v in guarda_emisiones.items():
+    v.plot()
+    plt.show()
+
+
+    

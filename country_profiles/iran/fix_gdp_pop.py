@@ -27,7 +27,7 @@ plt.legend()
 plt.show()
 
 ## Agrega gdp
-df["gdp_mmm_usd"] = gdp_long["Nominal GDP (billion US$)"].to_numpy()
+#df["gdp_mmm_usd"] = gdp_long["Nominal GDP (billion US$)"].to_numpy()
 
 ## Checa población
 iran_pop_total = gdp_long["Population (million)"].to_numpy()*1_000
