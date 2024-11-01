@@ -34,7 +34,7 @@ strategy_mapping = {
 
 df = pd.read_csv(DATA_PATH)
 
-to_lndu = "forest_primary"
+to_lndu = "forests_mangroves"
 
 conversion_to_primary_secondary = [i for i in df.columns if i.endswith(to_lndu) and i.startswith("area_lndu_conversion_from_") and "_to_" in i]
 
@@ -50,6 +50,15 @@ areas = [ 'area_lndu_croplands',
  'area_lndu_other',
  'area_lndu_settlements',
  'area_lndu_wetlands']
+
+crop_emisions = ['emission_co2e_co2_lndu_conversion_croplands_to_croplands',
+ 'emission_co2e_co2_lndu_conversion_forests_mangroves_to_croplands',
+ 'emission_co2e_co2_lndu_conversion_forests_primary_to_croplands',
+ 'emission_co2e_co2_lndu_conversion_forests_secondary_to_croplands',
+ 'emission_co2e_co2_lndu_conversion_grasslands_to_croplands',
+ 'emission_co2e_co2_lndu_conversion_other_to_croplands',
+ 'emission_co2e_co2_lndu_conversion_settlements_to_croplands',
+ 'emission_co2e_co2_lndu_conversion_wetlands_to_croplands']
 
 data_TIMES = [('area_lndu_croplands', 26.0, 28.0),
                 ('area_lndu_forests_mangroves', 0.0, 0.0),
@@ -67,10 +76,20 @@ df_data_TIMES = pd.DataFrame(data_TIMES, columns = ["ssp_var", "2015_TIMES", "20
 guarda_emisiones_totales = {}
 subsectores_lista = ['agrc','ccsq','entc','fgtv','frst','inen','ippu','lndu','lsmm','lvst','scoe','trns','trww','waso']
 guarda_emisiones = {i : pd.DataFrame() for i in subsectores_lista}
+guarda_emisiones["crops"] = pd.DataFrame()
+
+guarda_lndu_bosques = {}
+bosques_lista = ["area_lndu_forests_mangroves", "area_lndu_forests_primary", "area_lndu_forests_secondary"]
+df_bosques = pd.DataFrame()
 
 
 for estrategia in df.primary_id.unique():
-    df_lndu_strategy = df.query(f"primary_id=={estrategia}")[["time_period"]+areas]
+    df_lndu_strategy = df.query(f"primary_id=={estrategia}")[["time_period"]+areas].reset_index(drop = True)
+    df_bosques_0 = df_lndu_strategy[bosques_lista].iloc[[0]].rename(columns = {i: f"{i}_0" for i in bosques_lista}).reset_index(drop = True)
+    df_bosques_35 = df_lndu_strategy[bosques_lista].iloc[[35]].rename(columns = {i: f"{i}_35" for i in bosques_lista}).reset_index(drop = True)
+
+    df_bosques = pd.concat([df_bosques, pd.concat([df_bosques_0,df_bosques_35, pd.DataFrame({"estrategia" : [strategy_mapping[estrategia][0]]})] , axis = 1)])
+
     all_lndu_Area = df_lndu_strategy.sum(axis=1).to_numpy()
     df_lndu_strategy.reset_index(drop=True)
     df_lndu_strategy = df_lndu_strategy.reset_index(drop=True)
@@ -117,9 +136,17 @@ for estrategia in df.primary_id.unique():
 
     for i in subsectores_lista:
         query_subsector = [k for k in df_emisiones_strategy.columns if i in k]
-        guarda_emisiones[i] = pd.concat([guarda_emisiones[i], df_emisiones_strategy[query_subsector]], axis = 1)
-        guarda_emisiones[i] = guarda_emisiones[i].rename(columns = {query_subsector[0] : f"{query_subsector[0]}_{strategy_mapping[estrategia][1]}"})
 
+        if query_subsector:
+            guarda_emisiones[i] = pd.concat([guarda_emisiones[i], df_emisiones_strategy[query_subsector]], axis = 1)
+            guarda_emisiones[i] = guarda_emisiones[i].rename(columns = {query_subsector[0] : f"{query_subsector[0]}_{strategy_mapping[estrategia][0]}_{strategy_mapping[estrategia][1]}"})
+
+
+    guarda_emisiones["crops"] = pd.concat([guarda_emisiones["crops"], pd.DataFrame({"crops" : df.query(f"primary_id=={estrategia}").reset_index(drop=True)[crop_emisions].sum(axis = 1).to_numpy()
+})  ], axis = 1)
+    guarda_emisiones["crops"] = guarda_emisiones["crops"].rename(columns = {"crops": f"crops_{strategy_mapping[estrategia][0]}_{strategy_mapping[estrategia][1]}"})
+
+    guarda_lndu_bosques[strategy_mapping[estrategia][0]] = df.query(f"primary_id=={estrategia}")[['area_lndu_forests_mangroves','area_lndu_forests_primary','area_lndu_forests_secondary']].sum(axis = 1).to_numpy()
 
     """
     for sub_sector in df_emisiones_strategy.columns:
@@ -187,8 +214,9 @@ plt.show()
 
 
 for k,v in guarda_emisiones.items():
-    v.plot()
-    plt.show()
+    if not v.empty:
+        v.plot()
+        plt.show()
 
 
     
