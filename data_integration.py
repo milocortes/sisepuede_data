@@ -7,11 +7,7 @@ sisepuede_sector = ["AFOLU", "CircularEconomy", "IPPU", "SocioEconomic", "Energy
 
 var_to_index = ["iso_code3", "Year"]
 
-countries = ["ARG", "BHS", "BRB", "BMU", "BOL", "BRA", "CHL", "CHN", "COL", "CRI", "DOM", "ECU", "SLV", "GTM", "GUY",
-             "HTI", "HND", "IND", "JPN", "MEX", "PAN", "PRY", "PER", "RUS", "SUR", "TUR", "URY", "VEN"]
-
-country = "IND"
-countries = ["IND"]
+countries = ["MEX"]
 
 acumula_countries = []
 
@@ -64,7 +60,7 @@ for idx, country in enumerate(countries):
 
     #real_data = pd.concat([real_data, join_ippu_data], axis = 1)
 
-    fake_data_complete = pd.read_csv("https://raw.githubusercontent.com/jcsyme/sisepuede/main/ref/fake_data/fake_data_complete.csv")
+    fake_data_complete = pd.read_csv("https://raw.githubusercontent.com/jcsyme/sisepuede/refs/heads/main/sisepuede/ref/fake_data/fake_data_complete.csv")
     fake_data_complete = fake_data_complete[list(set(fake_data_complete.columns) - set(real_data.columns)) ]
 
     mix_data = pd.concat([real_data, fake_data_complete], axis = 1)
