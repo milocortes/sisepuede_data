@@ -31,7 +31,7 @@ ALB,Albania,2015,116.0
 ALB,Albania,2016,119.0
 ALB,Albania,2017,109.0
 ALB,Albania,2018,69.0
-ALB,Albania,2019,43.0
+ALB,Albania,2019,37.0
 ALB,Albania,2020,0.0
 ALB,Albania,2021,0.0
 ALB,Albania,2022,0.0
@@ -274,7 +274,7 @@ BRA,Brazil,2018,1389873.0
 BRA,Brazil,2019,1433989.0
 BRA,Brazil,2020,1502254.0
 BRA,Brazil,2021,1551812.0
-BRA,Brazil,2022,1598268.0
+BRA,Brazil,2022,1597741.0
 BRB,Barbados,2011,0.0
 BRB,Barbados,2012,0.0
 BRB,Barbados,2013,0.0
@@ -310,7 +310,7 @@ BTN,Bhutan,2018,52015.0
 BTN,Bhutan,2019,52750.0
 BTN,Bhutan,2020,52365.0
 BTN,Bhutan,2021,50535.0
-BTN,Bhutan,2022,55413.0
+BTN,Bhutan,2022,55902.0
 BWA,Botswana,2011,0.0
 BWA,Botswana,2012,0.0
 BWA,Botswana,2013,0.0
@@ -379,10 +379,10 @@ CHN,"China, mainland",2015,27021840.0
 CHN,"China, mainland",2016,27167370.0
 CHN,"China, mainland",2017,26503470.0
 CHN,"China, mainland",2018,27116250.0
-CHN,"China, mainland",2019,27364881.0
-CHN,"China, mainland",2020,27141563.0
-CHN,"China, mainland",2021,26893752.0
-CHN,"China, mainland",2022,26872877.0
+CHN,"China, mainland",2019,27414810.0
+CHN,"China, mainland",2020,28686180.0
+CHN,"China, mainland",2021,29451750.0
+CHN,"China, mainland",2022,30647550.0
 CIV,Côte d'Ivoire,2011,0.0
 CIV,Côte d'Ivoire,2012,0.0
 CIV,Côte d'Ivoire,2013,0.0
@@ -622,7 +622,7 @@ EGY,Egypt,2018,3445177.0
 EGY,Egypt,2019,1427000.0
 EGY,Egypt,2020,1348000.0
 EGY,Egypt,2021,1428000.0
-EGY,Egypt,2022,1419927.0
+EGY,Egypt,2022,1570000.0
 ERI,Eritrea,2011,0.0
 ERI,Eritrea,2012,0.0
 ERI,Eritrea,2013,0.0
@@ -635,13 +635,13 @@ ERI,Eritrea,2019,0.0
 ERI,Eritrea,2020,0.0
 ERI,Eritrea,2021,0.0
 ERI,Eritrea,2022,0.0
-ESP,Spain,2011,0.0
-ESP,Spain,2012,0.0
-ESP,Spain,2013,0.0
-ESP,Spain,2014,0.0
-ESP,Spain,2015,0.0
-ESP,Spain,2016,0.0
-ESP,Spain,2017,0.0
+ESP,Spain,2011,1130.0
+ESP,Spain,2012,1130.0
+ESP,Spain,2013,1130.0
+ESP,Spain,2014,1130.0
+ESP,Spain,2015,1130.0
+ESP,Spain,2016,1130.0
+ESP,Spain,2017,1130.0
 ESP,Spain,2018,1130.0
 ESP,Spain,2019,970.0
 ESP,Spain,2020,960.0
@@ -672,6 +672,17 @@ ETH,Ethiopia,2020,0.0
 ETH,Ethiopia,2021,0.0
 ETH,Ethiopia,2022,0.0
 F206,Sudan (former),2011,0.0
+F206,Sudan (former),2012,0.0
+F206,Sudan (former),2013,0.0
+F206,Sudan (former),2014,0.0
+F206,Sudan (former),2015,0.0
+F206,Sudan (former),2016,0.0
+F206,Sudan (former),2017,0.0
+F206,Sudan (former),2018,0.0
+F206,Sudan (former),2019,0.0
+F206,Sudan (former),2020,0.0
+F206,Sudan (former),2021,0.0
+F206,Sudan (former),2022,0.0
 F351,China,2011,28156124.0
 F351,China,2012,27415677.0
 F351,China,2013,26960757.0
@@ -680,10 +691,10 @@ F351,China,2015,27024579.0
 F351,China,2016,27169986.0
 F351,China,2017,26505817.0
 F351,China,2018,27118621.0
-F351,China,2019,27367183.0
-F351,China,2020,27144007.0
-F351,China,2021,26896085.0
-F351,China,2022,26875125.0
+F351,China,2019,27417100.0
+F351,China,2020,28688627.0
+F351,China,2021,29454082.0
+F351,China,2022,30649798.0
 FIN,Finland,2011,0.0
 FIN,Finland,2012,0.0
 FIN,Finland,2013,0.0
@@ -740,10 +751,10 @@ FSM,Micronesia (Federated States of),2015,161.0
 FSM,Micronesia (Federated States of),2016,162.0
 FSM,Micronesia (Federated States of),2017,163.0
 FSM,Micronesia (Federated States of),2018,163.0
-FSM,Micronesia (Federated States of),2019,171.0
-FSM,Micronesia (Federated States of),2020,174.0
-FSM,Micronesia (Federated States of),2021,177.0
-FSM,Micronesia (Federated States of),2022,179.0
+FSM,Micronesia (Federated States of),2019,163.0
+FSM,Micronesia (Federated States of),2020,166.0
+FSM,Micronesia (Federated States of),2021,167.0
+FSM,Micronesia (Federated States of),2022,167.0
 GAB,Gabon,2011,0.0
 GAB,Gabon,2012,0.0
 GAB,Gabon,2013,0.0
@@ -776,10 +787,10 @@ GEO,Georgia,2015,19300.0
 GEO,Georgia,2016,18822.0
 GEO,Georgia,2017,18668.0
 GEO,Georgia,2018,18557.0
-GEO,Georgia,2019,18884.0
-GEO,Georgia,2020,19170.0
-GEO,Georgia,2021,19277.0
-GEO,Georgia,2022,19384.0
+GEO,Georgia,2019,18549.0
+GEO,Georgia,2020,19030.0
+GEO,Georgia,2021,19368.0
+GEO,Georgia,2022,19513.0
 GHA,Ghana,2011,0.0
 GHA,Ghana,2012,0.0
 GHA,Ghana,2013,0.0
@@ -896,10 +907,10 @@ HKG,"China, Hong Kong SAR",2015,302.0
 HKG,"China, Hong Kong SAR",2016,305.0
 HKG,"China, Hong Kong SAR",2017,310.0
 HKG,"China, Hong Kong SAR",2018,314.0
-HKG,"China, Hong Kong SAR",2019,330.0
-HKG,"China, Hong Kong SAR",2020,328.0
-HKG,"China, Hong Kong SAR",2021,331.0
-HKG,"China, Hong Kong SAR",2022,334.0
+HKG,"China, Hong Kong SAR",2019,318.0
+HKG,"China, Hong Kong SAR",2020,331.0
+HKG,"China, Hong Kong SAR",2021,330.0
+HKG,"China, Hong Kong SAR",2022,333.0
 HND,Honduras,2011,0.0
 HND,Honduras,2012,0.0
 HND,Honduras,2013,0.0
@@ -936,13 +947,13 @@ HTI,Haiti,2019,0.0
 HTI,Haiti,2020,0.0
 HTI,Haiti,2021,0.0
 HTI,Haiti,2022,0.0
-HUN,Hungary,2011,0.0
-HUN,Hungary,2012,0.0
-HUN,Hungary,2013,0.0
-HUN,Hungary,2014,0.0
-HUN,Hungary,2015,0.0
-HUN,Hungary,2016,0.0
-HUN,Hungary,2017,0.0
+HUN,Hungary,2011,7000.0
+HUN,Hungary,2012,7000.0
+HUN,Hungary,2013,7000.0
+HUN,Hungary,2014,7000.0
+HUN,Hungary,2015,7000.0
+HUN,Hungary,2016,7000.0
+HUN,Hungary,2017,7000.0
 HUN,Hungary,2018,7000.0
 HUN,Hungary,2019,6000.0
 HUN,Hungary,2020,7500.0
@@ -969,9 +980,9 @@ IND,India,2016,110361500.0
 IND,India,2017,110233529.0
 IND,India,2018,110045533.0
 IND,India,2019,109851678.0
-IND,India,2020,109669812.0
-IND,India,2021,111590341.0
-IND,India,2022,111856246.0
+IND,India,2020,109665841.0
+IND,India,2021,111436558.0
+IND,India,2022,111737493.0
 IRL,Ireland,2011,0.0
 IRL,Ireland,2012,0.0
 IRL,Ireland,2013,0.0
@@ -992,10 +1003,10 @@ IRN,Iran (Islamic Republic of),2015,101056.0
 IRN,Iran (Islamic Republic of),2016,125143.0
 IRN,Iran (Islamic Republic of),2017,126765.0
 IRN,Iran (Islamic Republic of),2018,136062.0
-IRN,Iran (Islamic Republic of),2019,144962.0
+IRN,Iran (Islamic Republic of),2019,142602.0
 IRN,Iran (Islamic Republic of),2020,171156.0
-IRN,Iran (Islamic Republic of),2021,157764.0
-IRN,Iran (Islamic Republic of),2022,132644.0
+IRN,Iran (Islamic Republic of),2021,200000.0
+IRN,Iran (Islamic Republic of),2022,190000.0
 IRQ,Iraq,2011,302000.0
 IRQ,Iraq,2012,312000.0
 IRQ,Iraq,2013,180662.0
@@ -1064,10 +1075,10 @@ JOR,Jordan,2015,99.0
 JOR,Jordan,2016,98.0
 JOR,Jordan,2017,96.0
 JOR,Jordan,2018,94.0
-JOR,Jordan,2019,94.0
-JOR,Jordan,2020,94.0
+JOR,Jordan,2019,92.0
+JOR,Jordan,2020,93.0
 JOR,Jordan,2021,94.0
-JOR,Jordan,2022,94.0
+JOR,Jordan,2022,93.0
 JPN,Japan,2011,0.0
 JPN,Japan,2012,0.0
 JPN,Japan,2013,0.0
@@ -1088,10 +1099,10 @@ KAZ,Kazakhstan,2015,10000.0
 KAZ,Kazakhstan,2016,10067.0
 KAZ,Kazakhstan,2017,10066.0
 KAZ,Kazakhstan,2018,9991.0
-KAZ,Kazakhstan,2019,9759.0
-KAZ,Kazakhstan,2020,9654.0
-KAZ,Kazakhstan,2021,9549.0
-KAZ,Kazakhstan,2022,9452.0
+KAZ,Kazakhstan,2019,9883.0
+KAZ,Kazakhstan,2020,9754.0
+KAZ,Kazakhstan,2021,9661.0
+KAZ,Kazakhstan,2022,9571.0
 KEN,Kenya,2011,0.0
 KEN,Kenya,2012,0.0
 KEN,Kenya,2013,0.0
@@ -1124,10 +1135,10 @@ KHM,Cambodia,2015,682000.0
 KHM,Cambodia,2016,680574.0
 KHM,Cambodia,2017,678842.0
 KHM,Cambodia,2018,676882.0
-KHM,Cambodia,2019,675715.0
-KHM,Cambodia,2020,677243.0
-KHM,Cambodia,2021,675962.0
-KHM,Cambodia,2022,674681.0
+KHM,Cambodia,2019,673786.0
+KHM,Cambodia,2020,669539.0
+KHM,Cambodia,2021,668928.0
+KHM,Cambodia,2022,667098.0
 KIR,Kiribati,2011,0.0
 KIR,Kiribati,2012,0.0
 KIR,Kiribati,2013,0.0
@@ -1186,8 +1197,8 @@ LAO,Lao People's Democratic Republic,2017,1189000.0
 LAO,Lao People's Democratic Republic,2018,1200040.0
 LAO,Lao People's Democratic Republic,2019,1222000.0
 LAO,Lao People's Democratic Republic,2020,1234000.0
-LAO,Lao People's Democratic Republic,2021,1243242.0
-LAO,Lao People's Democratic Republic,2022,1208634.0
+LAO,Lao People's Democratic Republic,2021,1243323.0
+LAO,Lao People's Democratic Republic,2022,1206765.0
 LBN,Lebanon,2011,0.0
 LBN,Lebanon,2012,0.0
 LBN,Lebanon,2013,0.0
@@ -1364,10 +1375,10 @@ MKD,North Macedonia,2015,644.0
 MKD,North Macedonia,2016,635.0
 MKD,North Macedonia,2017,629.0
 MKD,North Macedonia,2018,630.0
-MKD,North Macedonia,2019,646.0
-MKD,North Macedonia,2020,649.0
-MKD,North Macedonia,2021,648.0
-MKD,North Macedonia,2022,647.0
+MKD,North Macedonia,2019,630.0
+MKD,North Macedonia,2020,634.0
+MKD,North Macedonia,2021,637.0
+MKD,North Macedonia,2022,636.0
 MLI,Mali,2011,0.0
 MLI,Mali,2012,0.0
 MLI,Mali,2013,0.0
@@ -1402,8 +1413,8 @@ MMR,Myanmar,2017,3867966.0
 MMR,Myanmar,2018,1902258.0
 MMR,Myanmar,2019,1942064.0
 MMR,Myanmar,2020,1983014.0
-MMR,Myanmar,2021,2025000.0
-MMR,Myanmar,2022,2000000.0
+MMR,Myanmar,2021,2047000.0
+MMR,Myanmar,2022,2073000.0
 MNE,Montenegro,2011,0.0
 MNE,Montenegro,2012,0.0
 MNE,Montenegro,2013,0.0
@@ -1487,7 +1498,7 @@ MYS,Malaysia,2018,106988.0
 MYS,Malaysia,2019,101695.0
 MYS,Malaysia,2020,64250.0
 MYS,Malaysia,2021,66571.0
-MYS,Malaysia,2022,64733.0
+MYS,Malaysia,2022,70374.0
 NAM,Namibia,2011,0.0
 NAM,Namibia,2012,0.0
 NAM,Namibia,2013,0.0
@@ -1788,13 +1799,13 @@ QAT,Qatar,2019,0.0
 QAT,Qatar,2020,0.0
 QAT,Qatar,2021,0.0
 QAT,Qatar,2022,0.0
-ROU,Romania,2011,0.0
-ROU,Romania,2012,0.0
-ROU,Romania,2013,0.0
-ROU,Romania,2014,0.0
-ROU,Romania,2015,0.0
-ROU,Romania,2016,0.0
-ROU,Romania,2017,0.0
+ROU,Romania,2011,18900.0
+ROU,Romania,2012,18900.0
+ROU,Romania,2013,18900.0
+ROU,Romania,2014,18900.0
+ROU,Romania,2015,18900.0
+ROU,Romania,2016,18900.0
+ROU,Romania,2017,18900.0
 ROU,Romania,2018,18900.0
 ROU,Romania,2019,19000.0
 ROU,Romania,2020,19600.0
@@ -1836,6 +1847,7 @@ SAU,Saudi Arabia,2019,0.0
 SAU,Saudi Arabia,2020,0.0
 SAU,Saudi Arabia,2021,0.0
 SAU,Saudi Arabia,2022,0.0
+SDN,Sudan,2011,0.0
 SDN,Sudan,2012,0.0
 SDN,Sudan,2013,0.0
 SDN,Sudan,2014,0.0
@@ -1931,6 +1943,7 @@ SRB,Serbia,2019,0.0
 SRB,Serbia,2020,0.0
 SRB,Serbia,2021,0.0
 SRB,Serbia,2022,0.0
+SSD,South Sudan,2011,0.0
 SSD,South Sudan,2012,0.0
 SSD,South Sudan,2013,0.0
 SSD,South Sudan,2014,0.0
@@ -1965,7 +1978,7 @@ SUR,Suriname,2018,905.0
 SUR,Suriname,2019,891.0
 SUR,Suriname,2020,901.0
 SUR,Suriname,2021,1151.0
-SUR,Suriname,2022,1047.0
+SUR,Suriname,2022,1123.0
 SVK,Slovakia,2011,0.0
 SVK,Slovakia,2012,0.0
 SVK,Slovakia,2013,0.0
@@ -2070,10 +2083,10 @@ THA,Thailand,2015,990000.0
 THA,Thailand,2016,1160124.0
 THA,Thailand,2017,1160163.0
 THA,Thailand,2018,1153970.0
-THA,Thailand,2019,1046839.0
-THA,Thailand,2020,982914.0
-THA,Thailand,2021,867626.0
-THA,Thailand,2022,735248.0
+THA,Thailand,2019,1157173.0
+THA,Thailand,2020,1106791.0
+THA,Thailand,2021,1044492.0
+THA,Thailand,2022,971690.0
 TJK,Tajikistan,2011,15000.0
 TJK,Tajikistan,2012,15000.0
 TJK,Tajikistan,2013,15000.0
@@ -2082,10 +2095,10 @@ TJK,Tajikistan,2015,15214.0
 TJK,Tajikistan,2016,15402.0
 TJK,Tajikistan,2017,15499.0
 TJK,Tajikistan,2018,15554.0
-TJK,Tajikistan,2019,15592.0
-TJK,Tajikistan,2020,15524.0
-TJK,Tajikistan,2021,15572.0
-TJK,Tajikistan,2022,15620.0
+TJK,Tajikistan,2019,15601.0
+TJK,Tajikistan,2020,15652.0
+TJK,Tajikistan,2021,15581.0
+TJK,Tajikistan,2022,15627.0
 TKL,Tokelau,2011,0.0
 TKL,Tokelau,2012,0.0
 TKL,Tokelau,2013,0.0
@@ -2119,9 +2132,9 @@ TLS,Timor-Leste,2016,126115.0
 TLS,Timor-Leste,2017,125400.0
 TLS,Timor-Leste,2018,126335.0
 TLS,Timor-Leste,2019,127475.0
-TLS,Timor-Leste,2020,127287.0
+TLS,Timor-Leste,2020,127306.0
 TLS,Timor-Leste,2021,126410.0
-TLS,Timor-Leste,2022,127352.0
+TLS,Timor-Leste,2022,126798.0
 TON,Tonga,2011,0.0
 TON,Tonga,2012,0.0
 TON,Tonga,2013,0.0
@@ -2142,10 +2155,10 @@ TTO,Trinidad and Tobago,2015,6295.0
 TTO,Trinidad and Tobago,2016,6385.0
 TTO,Trinidad and Tobago,2017,6468.0
 TTO,Trinidad and Tobago,2018,6543.0
-TTO,Trinidad and Tobago,2019,6238.0
-TTO,Trinidad and Tobago,2020,6304.0
-TTO,Trinidad and Tobago,2021,6341.0
-TTO,Trinidad and Tobago,2022,6378.0
+TTO,Trinidad and Tobago,2019,6614.0
+TTO,Trinidad and Tobago,2020,6350.0
+TTO,Trinidad and Tobago,2021,6424.0
+TTO,Trinidad and Tobago,2022,6467.0
 TUN,Tunisia,2011,0.0
 TUN,Tunisia,2012,0.0
 TUN,Tunisia,2013,0.0
@@ -2300,8 +2313,8 @@ VNM,Viet Nam,2017,2491662.0
 VNM,Viet Nam,2018,2425105.0
 VNM,Viet Nam,2019,2387887.0
 VNM,Viet Nam,2020,2332754.0
-VNM,Viet Nam,2021,2264700.0
-VNM,Viet Nam,2022,2231600.0
+VNM,Viet Nam,2021,2262852.0
+VNM,Viet Nam,2022,2231105.0
 VUT,Vanuatu,2011,0.0
 VUT,Vanuatu,2012,0.0
 VUT,Vanuatu,2013,0.0
