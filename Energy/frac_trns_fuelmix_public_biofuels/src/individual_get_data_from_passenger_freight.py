@@ -6,8 +6,8 @@ import itertools
 import sys 
 import os 
 
-sisepuede_var = sys.argv[1]
-#sisepuede_var = "frac_trns_fuelmix_public_biofuels"
+# sisepuede_var = sys.argv[1]
+sisepuede_var = "frac_trns_fuelmix_public_biofuels"
 
 # Set directories
 dir_path = os.path.dirname(os.path.realpath(__file__))
