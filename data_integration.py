@@ -71,4 +71,4 @@ all_mix_data = pd.concat(acumula_countries, ignore_index = True)
 
 today_date = str( datetime.now())[:10].replace("-","")
 
-all_mix_data.to_csv(f"real_data_{today_date}.csv", index = False)
+all_mix_data.to_csv(f"real_data_outputs/{countries[0]}_real_data_{today_date}.csv", index = False)
