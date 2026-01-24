@@ -257,6 +257,16 @@ BHR,Bahrain,2017,0.0
 BHR,Bahrain,2018,0.0
 BHR,Bahrain,2019,0.0
 BHR,Bahrain,2020,0.0
+BHS,"Bahamas, The",2011,0.0
+BHS,"Bahamas, The",2012,0.0
+BHS,"Bahamas, The",2013,0.0
+BHS,"Bahamas, The",2014,0.0
+BHS,"Bahamas, The",2015,0.0
+BHS,"Bahamas, The",2016,0.0
+BHS,"Bahamas, The",2017,0.0
+BHS,"Bahamas, The",2018,0.0
+BHS,"Bahamas, The",2019,0.0
+BHS,"Bahamas, The",2020,0.0
 BIH,Bosnia and Herzegovina,2000,0.0
 BIH,Bosnia and Herzegovina,2001,0.0
 BIH,Bosnia and Herzegovina,2002,0.0
@@ -463,6 +473,16 @@ CHN,China,2017,0.0
 CHN,China,2018,0.0
 CHN,China,2019,0.0
 CHN,China,2020,0.0
+CIV,Cote d'Ivoire,2011,0.0
+CIV,Cote d'Ivoire,2012,0.0
+CIV,Cote d'Ivoire,2013,0.0
+CIV,Cote d'Ivoire,2014,0.0
+CIV,Cote d'Ivoire,2015,0.0
+CIV,Cote d'Ivoire,2016,0.0
+CIV,Cote d'Ivoire,2017,0.0
+CIV,Cote d'Ivoire,2018,0.0
+CIV,Cote d'Ivoire,2019,0.0
+CIV,Cote d'Ivoire,2020,0.0
 CMR,Cameroon,2011,0.0
 CMR,Cameroon,2012,0.0
 CMR,Cameroon,2013,0.0
@@ -473,6 +493,26 @@ CMR,Cameroon,2017,0.0
 CMR,Cameroon,2018,0.0
 CMR,Cameroon,2019,0.0
 CMR,Cameroon,2020,0.0
+COD,"Congo, Dem. Rep.",2011,0.0
+COD,"Congo, Dem. Rep.",2012,0.0
+COD,"Congo, Dem. Rep.",2013,0.0
+COD,"Congo, Dem. Rep.",2014,0.0
+COD,"Congo, Dem. Rep.",2015,0.0
+COD,"Congo, Dem. Rep.",2016,0.0
+COD,"Congo, Dem. Rep.",2017,0.0
+COD,"Congo, Dem. Rep.",2018,0.0
+COD,"Congo, Dem. Rep.",2019,0.0
+COD,"Congo, Dem. Rep.",2020,0.0
+COG,"Congo, Rep.",2011,0.0
+COG,"Congo, Rep.",2012,0.0
+COG,"Congo, Rep.",2013,0.0
+COG,"Congo, Rep.",2014,0.0
+COG,"Congo, Rep.",2015,0.0
+COG,"Congo, Rep.",2016,0.0
+COG,"Congo, Rep.",2017,0.0
+COG,"Congo, Rep.",2018,0.0
+COG,"Congo, Rep.",2019,0.0
+COG,"Congo, Rep.",2020,0.0
 COL,Colombia,2000,0.0
 COL,Colombia,2001,0.0
 COL,Colombia,2002,0.0
@@ -555,6 +595,16 @@ CYP,Cyprus,2017,0.0
 CYP,Cyprus,2018,0.0
 CYP,Cyprus,2019,0.0
 CYP,Cyprus,2020,0.0
+CZE,Czechia,2011,0.0
+CZE,Czechia,2012,0.0
+CZE,Czechia,2013,0.0
+CZE,Czechia,2014,0.0
+CZE,Czechia,2015,0.0
+CZE,Czechia,2016,0.0
+CZE,Czechia,2017,0.0
+CZE,Czechia,2018,0.0
+CZE,Czechia,2019,0.0
+CZE,Czechia,2020,0.0
 DEU,Germany,2000,0.0
 DEU,Germany,2001,0.0
 DEU,Germany,2002,0.0
@@ -637,6 +687,16 @@ ECU,Ecuador,2017,0.0
 ECU,Ecuador,2018,0.0
 ECU,Ecuador,2019,0.0
 ECU,Ecuador,2020,0.0
+EGY,"Egypt, Arab Rep.",2011,0.0
+EGY,"Egypt, Arab Rep.",2012,0.0
+EGY,"Egypt, Arab Rep.",2013,0.0
+EGY,"Egypt, Arab Rep.",2014,0.0
+EGY,"Egypt, Arab Rep.",2015,0.0
+EGY,"Egypt, Arab Rep.",2016,0.0
+EGY,"Egypt, Arab Rep.",2017,0.0
+EGY,"Egypt, Arab Rep.",2018,0.0
+EGY,"Egypt, Arab Rep.",2019,0.0
+EGY,"Egypt, Arab Rep.",2020,0.0
 ESP,Spain,2000,0.0
 ESP,Spain,2001,0.0
 ESP,Spain,2002,0.0
@@ -813,6 +873,16 @@ GIN,Guinea,2017,0.0
 GIN,Guinea,2018,0.0
 GIN,Guinea,2019,0.0
 GIN,Guinea,2020,0.0
+GMB,"Gambia, The",2011,0.0
+GMB,"Gambia, The",2012,0.0
+GMB,"Gambia, The",2013,0.0
+GMB,"Gambia, The",2014,0.0
+GMB,"Gambia, The",2015,0.0
+GMB,"Gambia, The",2016,0.0
+GMB,"Gambia, The",2017,0.0
+GMB,"Gambia, The",2018,0.0
+GMB,"Gambia, The",2019,0.0
+GMB,"Gambia, The",2020,0.0
 GNB,Guinea-Bissau,2011,0.0
 GNB,Guinea-Bissau,2012,0.0
 GNB,Guinea-Bissau,2013,0.0
@@ -874,6 +944,16 @@ GUY,Guyana,2017,0.0
 GUY,Guyana,2018,0.0
 GUY,Guyana,2019,0.0
 GUY,Guyana,2020,0.0
+HKG,"Hong Kong SAR, China",2011,0.0
+HKG,"Hong Kong SAR, China",2012,0.0
+HKG,"Hong Kong SAR, China",2013,0.0
+HKG,"Hong Kong SAR, China",2014,0.0
+HKG,"Hong Kong SAR, China",2015,0.0
+HKG,"Hong Kong SAR, China",2016,0.0
+HKG,"Hong Kong SAR, China",2017,0.0
+HKG,"Hong Kong SAR, China",2018,0.0
+HKG,"Hong Kong SAR, China",2019,0.0
+HKG,"Hong Kong SAR, China",2020,0.0
 HND,Honduras,2011,0.0
 HND,Honduras,2012,0.0
 HND,Honduras,2013,0.0
@@ -977,6 +1057,16 @@ IRL,Ireland,2017,0.0
 IRL,Ireland,2018,0.0
 IRL,Ireland,2019,0.0
 IRL,Ireland,2020,0.0
+IRN,"Iran, Islamic Rep.",2011,0.0
+IRN,"Iran, Islamic Rep.",2012,0.0
+IRN,"Iran, Islamic Rep.",2013,0.0
+IRN,"Iran, Islamic Rep.",2014,0.0
+IRN,"Iran, Islamic Rep.",2015,0.0
+IRN,"Iran, Islamic Rep.",2016,0.0
+IRN,"Iran, Islamic Rep.",2017,0.0
+IRN,"Iran, Islamic Rep.",2018,0.0
+IRN,"Iran, Islamic Rep.",2019,0.0
+IRN,"Iran, Islamic Rep.",2020,0.0
 IRQ,Iraq,2011,0.0
 IRQ,Iraq,2012,0.0
 IRQ,Iraq,2013,0.0
@@ -1100,6 +1190,16 @@ KEN,Kenya,2017,0.0
 KEN,Kenya,2018,0.0
 KEN,Kenya,2019,0.0
 KEN,Kenya,2020,0.0
+KGZ,Kyrgyz Republic,2011,0.0
+KGZ,Kyrgyz Republic,2012,0.0
+KGZ,Kyrgyz Republic,2013,0.0
+KGZ,Kyrgyz Republic,2014,0.0
+KGZ,Kyrgyz Republic,2015,0.0
+KGZ,Kyrgyz Republic,2016,0.0
+KGZ,Kyrgyz Republic,2017,0.0
+KGZ,Kyrgyz Republic,2018,0.0
+KGZ,Kyrgyz Republic,2019,0.0
+KGZ,Kyrgyz Republic,2020,0.0
 KHM,Cambodia,2011,0.0
 KHM,Cambodia,2012,0.0
 KHM,Cambodia,2013,0.0
@@ -1110,6 +1210,16 @@ KHM,Cambodia,2017,0.0
 KHM,Cambodia,2018,0.0
 KHM,Cambodia,2019,0.0
 KHM,Cambodia,2020,0.0
+KOR,"Korea, Rep.",2011,0.0
+KOR,"Korea, Rep.",2012,0.0
+KOR,"Korea, Rep.",2013,0.0
+KOR,"Korea, Rep.",2014,0.0
+KOR,"Korea, Rep.",2015,0.0
+KOR,"Korea, Rep.",2016,0.0
+KOR,"Korea, Rep.",2017,0.0
+KOR,"Korea, Rep.",2018,0.0
+KOR,"Korea, Rep.",2019,0.0
+KOR,"Korea, Rep.",2020,0.0
 KWT,Kuwait,2011,0.0
 KWT,Kuwait,2012,0.0
 KWT,Kuwait,2013,0.0
@@ -1120,6 +1230,16 @@ KWT,Kuwait,2017,0.0
 KWT,Kuwait,2018,0.0
 KWT,Kuwait,2019,0.0
 KWT,Kuwait,2020,0.0
+LAO,Lao PDR,2011,0.0
+LAO,Lao PDR,2012,0.0
+LAO,Lao PDR,2013,0.0
+LAO,Lao PDR,2014,0.0
+LAO,Lao PDR,2015,0.0
+LAO,Lao PDR,2016,0.0
+LAO,Lao PDR,2017,0.0
+LAO,Lao PDR,2018,0.0
+LAO,Lao PDR,2019,0.0
+LAO,Lao PDR,2020,0.0
 LBN,Lebanon,2011,0.0
 LBN,Lebanon,2012,0.0
 LBN,Lebanon,2013,0.0
@@ -1150,6 +1270,16 @@ LBY,Libya,2017,0.0
 LBY,Libya,2018,0.0
 LBY,Libya,2019,0.0
 LBY,Libya,2020,0.0
+LCA,St. Lucia,2011,0.0
+LCA,St. Lucia,2012,0.0
+LCA,St. Lucia,2013,0.0
+LCA,St. Lucia,2014,0.0
+LCA,St. Lucia,2015,0.0
+LCA,St. Lucia,2016,0.0
+LCA,St. Lucia,2017,0.0
+LCA,St. Lucia,2018,0.0
+LCA,St. Lucia,2019,0.0
+LCA,St. Lucia,2020,0.0
 LKA,Sri Lanka,2011,0.0
 LKA,Sri Lanka,2012,0.0
 LKA,Sri Lanka,2013,0.0
@@ -1233,6 +1363,16 @@ LVA,Latvia,2017,0.0
 LVA,Latvia,2018,0.0
 LVA,Latvia,2019,0.0
 LVA,Latvia,2020,0.0
+MAC,"Macao SAR, China",2011,0.0
+MAC,"Macao SAR, China",2012,0.0
+MAC,"Macao SAR, China",2013,0.0
+MAC,"Macao SAR, China",2014,0.0
+MAC,"Macao SAR, China",2015,0.0
+MAC,"Macao SAR, China",2016,0.0
+MAC,"Macao SAR, China",2017,0.0
+MAC,"Macao SAR, China",2018,0.0
+MAC,"Macao SAR, China",2019,0.0
+MAC,"Macao SAR, China",2020,0.0
 MAR,Morocco,2000,0.0
 MAR,Morocco,2001,0.0
 MAR,Morocco,2002,0.0
@@ -1254,6 +1394,16 @@ MAR,Morocco,2017,0.0
 MAR,Morocco,2018,0.0
 MAR,Morocco,2019,0.0
 MAR,Morocco,2020,0.0
+MDA,Moldova,2011,0.0
+MDA,Moldova,2012,0.0
+MDA,Moldova,2013,0.0
+MDA,Moldova,2014,0.0
+MDA,Moldova,2015,0.0
+MDA,Moldova,2016,0.0
+MDA,Moldova,2017,0.0
+MDA,Moldova,2018,0.0
+MDA,Moldova,2019,0.0
+MDA,Moldova,2020,0.0
 MDG,Madagascar,2011,0.0
 MDG,Madagascar,2012,0.0
 MDG,Madagascar,2013,0.0
@@ -2037,6 +2187,16 @@ TUR,Turkiye,2017,0.0
 TUR,Turkiye,2018,0.0
 TUR,Turkiye,2019,0.0
 TUR,Turkiye,2020,0.0
+TZA,Tanzania,2011,0.0
+TZA,Tanzania,2012,0.0
+TZA,Tanzania,2013,0.0
+TZA,Tanzania,2014,0.0
+TZA,Tanzania,2015,0.0
+TZA,Tanzania,2016,0.0
+TZA,Tanzania,2017,0.0
+TZA,Tanzania,2018,0.0
+TZA,Tanzania,2019,0.0
+TZA,Tanzania,2020,0.0
 UGA,Uganda,2011,0.0
 UGA,Uganda,2012,0.0
 UGA,Uganda,2013,0.0
@@ -2120,6 +2280,26 @@ UZB,Uzbekistan,2017,0.0
 UZB,Uzbekistan,2018,0.0
 UZB,Uzbekistan,2019,0.0
 UZB,Uzbekistan,2020,0.0
+VCT,St. Vincent and the Grenadines,2011,0.0
+VCT,St. Vincent and the Grenadines,2012,0.0
+VCT,St. Vincent and the Grenadines,2013,0.0
+VCT,St. Vincent and the Grenadines,2014,0.0
+VCT,St. Vincent and the Grenadines,2015,0.0
+VCT,St. Vincent and the Grenadines,2016,0.0
+VCT,St. Vincent and the Grenadines,2017,0.0
+VCT,St. Vincent and the Grenadines,2018,0.0
+VCT,St. Vincent and the Grenadines,2019,0.0
+VCT,St. Vincent and the Grenadines,2020,0.0
+VEN,"Venezuela, RB",2011,0.0
+VEN,"Venezuela, RB",2012,0.0
+VEN,"Venezuela, RB",2013,0.0
+VEN,"Venezuela, RB",2014,0.0
+VEN,"Venezuela, RB",2015,0.0
+VEN,"Venezuela, RB",2016,0.0
+VEN,"Venezuela, RB",2017,0.0
+VEN,"Venezuela, RB",2018,0.0
+VEN,"Venezuela, RB",2019,0.0
+VEN,"Venezuela, RB",2020,0.0
 VNM,Vietnam,2011,0.0
 VNM,Vietnam,2012,0.0
 VNM,Vietnam,2013,0.0
@@ -2171,6 +2351,16 @@ XKX,Kosovo,2017,0.0
 XKX,Kosovo,2018,0.0
 XKX,Kosovo,2019,0.0
 XKX,Kosovo,2020,0.0
+YEM,"Yemen, Rep.",2011,0.0
+YEM,"Yemen, Rep.",2012,0.0
+YEM,"Yemen, Rep.",2013,0.0
+YEM,"Yemen, Rep.",2014,0.0
+YEM,"Yemen, Rep.",2015,0.0
+YEM,"Yemen, Rep.",2016,0.0
+YEM,"Yemen, Rep.",2017,0.0
+YEM,"Yemen, Rep.",2018,0.0
+YEM,"Yemen, Rep.",2019,0.0
+YEM,"Yemen, Rep.",2020,0.0
 ZAF,South Africa,2000,0.0
 ZAF,South Africa,2001,0.0
 ZAF,South Africa,2002,0.0
@@ -2212,23 +2402,3 @@ ZWE,Zimbabwe,2017,0.0
 ZWE,Zimbabwe,2018,0.0
 ZWE,Zimbabwe,2019,0.0
 ZWE,Zimbabwe,2020,0.0
-BHS,"Bahamas, The",2011,0.0
-BHS,"Bahamas, The",2012,0.0
-BHS,"Bahamas, The",2013,0.0
-BHS,"Bahamas, The",2014,0.0
-BHS,"Bahamas, The",2015,0.0
-BHS,"Bahamas, The",2016,0.0
-BHS,"Bahamas, The",2017,0.0
-BHS,"Bahamas, The",2018,0.0
-BHS,"Bahamas, The",2019,0.0
-BHS,"Bahamas, The",2020,0.0
-VEN,"Venezuela, RB",2011,0.0
-VEN,"Venezuela, RB",2012,0.0
-VEN,"Venezuela, RB",2013,0.0
-VEN,"Venezuela, RB",2014,0.0
-VEN,"Venezuela, RB",2015,0.0
-VEN,"Venezuela, RB",2016,0.0
-VEN,"Venezuela, RB",2017,0.0
-VEN,"Venezuela, RB",2018,0.0
-VEN,"Venezuela, RB",2019,0.0
-VEN,"Venezuela, RB",2020,0.0

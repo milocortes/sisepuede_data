@@ -1,0 +1,73 @@
+Energy Source,Industry,frac_inen_prefix,frac_inen_suffix,col_name,fraction
+Natural Gas ,"Manufacturing of computer, electronic, and optical products",frac_inen_energy_electronics,natural_gas,frac_inen_energy_electronics_natural_gas,0.6409365451960939
+Fuel Oil ,"Manufacturing of computer, electronic, and optical products",frac_inen_energy_electronics,oil,frac_inen_energy_electronics_oil,0.0
+Diesel,"Manufacturing of computer, electronic, and optical products",frac_inen_energy_electronics,diesel,frac_inen_energy_electronics_diesel,0.036577329244979875
+Gasoline ,"Manufacturing of computer, electronic, and optical products",frac_inen_energy_electronics,gasoline,frac_inen_energy_electronics_gasoline,0.018108936828403525
+Kerosene ,"Manufacturing of computer, electronic, and optical products",frac_inen_energy_electronics,kerosene,frac_inen_energy_electronics_kerosene,0.00029410002668685427
+Liquefied Gas,"Manufacturing of computer, electronic, and optical products",frac_inen_energy_electronics,hydrocarbon_gas_liquids,frac_inen_energy_electronics_hydrocarbon_gas_liquids,0.02326657988900447
+Coal and Charcoal,"Manufacturing of computer, electronic, and optical products",frac_inen_energy_electronics,coal,frac_inen_energy_electronics_coal,0.0
+Purchased Electricity ,"Manufacturing of computer, electronic, and optical products",frac_inen_energy_electronics,electricity,frac_inen_energy_electronics_electricity,0.28081650881483133
+Natural Gas ,Production of base metals,frac_inen_energy_metals,natural_gas,frac_inen_energy_metals_natural_gas,0.7133842325844731
+Fuel Oil ,Production of base metals,frac_inen_energy_metals,oil,frac_inen_energy_metals_oil,0.0019896400484692425
+Diesel,Production of base metals,frac_inen_energy_metals,diesel,frac_inen_energy_metals_diesel,0.009809246820503381
+Gasoline ,Production of base metals,frac_inen_energy_metals,gasoline,frac_inen_energy_metals_gasoline,0.0005471875828494586
+Kerosene ,Production of base metals,frac_inen_energy_metals,kerosene,frac_inen_energy_metals_kerosene,0.00015674341795151076
+Liquefied Gas,Production of base metals,frac_inen_energy_metals,hydrocarbon_gas_liquids,frac_inen_energy_metals_hydrocarbon_gas_liquids,0.0007632811812892995
+Coal and Charcoal,Production of base metals,frac_inen_energy_metals,coal,frac_inen_energy_metals_coal,0.005608269383908234
+Purchased Electricity ,Production of base metals,frac_inen_energy_metals,electricity,frac_inen_energy_metals_electricity,0.26774139898055577
+Natural Gas ,Production of chemicals and chemical products,frac_inen_energy_chemicals,natural_gas,frac_inen_energy_chemicals_natural_gas,0.8578118294009618
+Fuel Oil ,Production of chemicals and chemical products,frac_inen_energy_chemicals,oil,frac_inen_energy_chemicals_oil,1.0592216799375007e-06
+Diesel,Production of chemicals and chemical products,frac_inen_energy_chemicals,diesel,frac_inen_energy_chemicals_diesel,0.0053912397468168895
+Gasoline ,Production of chemicals and chemical products,frac_inen_energy_chemicals,gasoline,frac_inen_energy_chemicals_gasoline,0.0008539577586366122
+Kerosene ,Production of chemicals and chemical products,frac_inen_energy_chemicals,kerosene,frac_inen_energy_chemicals_kerosene,0.00011642170289613054
+Liquefied Gas,Production of chemicals and chemical products,frac_inen_energy_chemicals,hydrocarbon_gas_liquids,frac_inen_energy_chemicals_hydrocarbon_gas_liquids,0.0009601314917793474
+Coal and Charcoal,Production of chemicals and chemical products,frac_inen_energy_chemicals,coal,frac_inen_energy_chemicals_coal,0.007271556832770942
+Purchased Electricity ,Production of chemicals and chemical products,frac_inen_energy_chemicals,electricity,frac_inen_energy_chemicals_electricity,0.12759380384445831
+Natural Gas ,Production of leather and related products,frac_inen_energy_rubber_and_leather,natural_gas,frac_inen_energy_rubber_and_leather_natural_gas,0.5970443877973768
+Fuel Oil ,Production of leather and related products,frac_inen_energy_rubber_and_leather,oil,frac_inen_energy_rubber_and_leather_oil,0.0
+Diesel,Production of leather and related products,frac_inen_energy_rubber_and_leather,diesel,frac_inen_energy_rubber_and_leather_diesel,0.027353060160160647
+Gasoline ,Production of leather and related products,frac_inen_energy_rubber_and_leather,gasoline,frac_inen_energy_rubber_and_leather_gasoline,0.014992518362910576
+Kerosene ,Production of leather and related products,frac_inen_energy_rubber_and_leather,kerosene,frac_inen_energy_rubber_and_leather_kerosene,0.0024662595226374357
+Liquefied Gas,Production of leather and related products,frac_inen_energy_rubber_and_leather,hydrocarbon_gas_liquids,frac_inen_energy_rubber_and_leather_hydrocarbon_gas_liquids,0.005863458904610346
+Coal and Charcoal,Production of leather and related products,frac_inen_energy_rubber_and_leather,coal,frac_inen_energy_rubber_and_leather_coal,0.0007311046015723623
+Purchased Electricity ,Production of leather and related products,frac_inen_energy_rubber_and_leather,electricity,frac_inen_energy_rubber_and_leather_electricity,0.35154921065073186
+Natural Gas ,Production of other unclassified manufactured goods,frac_inen_energy_other_product_manufacturing,natural_gas,frac_inen_energy_other_product_manufacturing_natural_gas,0.6116462521369453
+Fuel Oil ,Production of other unclassified manufactured goods,frac_inen_energy_other_product_manufacturing,oil,frac_inen_energy_other_product_manufacturing_oil,0.0
+Diesel,Production of other unclassified manufactured goods,frac_inen_energy_other_product_manufacturing,diesel,frac_inen_energy_other_product_manufacturing_diesel,0.011134714626410119
+Gasoline ,Production of other unclassified manufactured goods,frac_inen_energy_other_product_manufacturing,gasoline,frac_inen_energy_other_product_manufacturing_gasoline,0.019230513584724065
+Kerosene ,Production of other unclassified manufactured goods,frac_inen_energy_other_product_manufacturing,kerosene,frac_inen_energy_other_product_manufacturing_kerosene,8.242028496148846e-05
+Liquefied Gas,Production of other unclassified manufactured goods,frac_inen_energy_other_product_manufacturing,hydrocarbon_gas_liquids,frac_inen_energy_other_product_manufacturing_hydrocarbon_gas_liquids,0.006684019238489741
+Coal and Charcoal,Production of other unclassified manufactured goods,frac_inen_energy_other_product_manufacturing,coal,frac_inen_energy_other_product_manufacturing_coal,0.0003828555172404625
+Purchased Electricity ,Production of other unclassified manufactured goods,frac_inen_energy_other_product_manufacturing,electricity,frac_inen_energy_other_product_manufacturing_electricity,0.35083922461122885
+Natural Gas ,Production of paper and paper products,frac_inen_energy_paper,natural_gas,frac_inen_energy_paper_natural_gas,0.8231287137478847
+Fuel Oil ,Production of paper and paper products,frac_inen_energy_paper,oil,frac_inen_energy_paper_oil,0.006181245988196494
+Diesel,Production of paper and paper products,frac_inen_energy_paper,diesel,frac_inen_energy_paper_diesel,0.017075241814914755
+Gasoline ,Production of paper and paper products,frac_inen_energy_paper,gasoline,frac_inen_energy_paper_gasoline,0.0027949316962156746
+Kerosene ,Production of paper and paper products,frac_inen_energy_paper,kerosene,frac_inen_energy_paper_kerosene,0.00020946896297771903
+Liquefied Gas,Production of paper and paper products,frac_inen_energy_paper,hydrocarbon_gas_liquids,frac_inen_energy_paper_hydrocarbon_gas_liquids,0.0014628620181056842
+Coal and Charcoal,Production of paper and paper products,frac_inen_energy_paper,coal,frac_inen_energy_paper_coal,0.0
+Purchased Electricity ,Production of paper and paper products,frac_inen_energy_paper,electricity,frac_inen_energy_paper_electricity,0.14914753577170498
+Natural Gas ,Production of rubber and plastic products,frac_inen_energy_plastic,natural_gas,frac_inen_energy_plastic_natural_gas,0.5751465716693577
+Fuel Oil ,Production of rubber and plastic products,frac_inen_energy_plastic,oil,frac_inen_energy_plastic_oil,0.001457715885338064
+Diesel,Production of rubber and plastic products,frac_inen_energy_plastic,diesel,frac_inen_energy_plastic_diesel,0.02049257995631245
+Gasoline ,Production of rubber and plastic products,frac_inen_energy_plastic,gasoline,frac_inen_energy_plastic_gasoline,0.00879524143301692
+Kerosene ,Production of rubber and plastic products,frac_inen_energy_plastic,kerosene,frac_inen_energy_plastic_kerosene,0.00047706780104531343
+Liquefied Gas,Production of rubber and plastic products,frac_inen_energy_plastic,hydrocarbon_gas_liquids,frac_inen_energy_plastic_hydrocarbon_gas_liquids,0.007029886626978474
+Coal and Charcoal,Production of rubber and plastic products,frac_inen_energy_plastic,coal,frac_inen_energy_plastic_coal,0.00033305325275212114
+Purchased Electricity ,Production of rubber and plastic products,frac_inen_energy_plastic,electricity,frac_inen_energy_plastic_electricity,0.386267883375199
+Natural Gas ,Production of textiles,frac_inen_energy_textiles,natural_gas,frac_inen_energy_textiles_natural_gas,0.6826889492475192
+Fuel Oil ,Production of textiles,frac_inen_energy_textiles,oil,frac_inen_energy_textiles_oil,2.5396747552388456e-05
+Diesel,Production of textiles,frac_inen_energy_textiles,diesel,frac_inen_energy_textiles_diesel,0.016684349517045817
+Gasoline ,Production of textiles,frac_inen_energy_textiles,gasoline,frac_inen_energy_textiles_gasoline,0.005218301830419494
+Kerosene ,Production of textiles,frac_inen_energy_textiles,kerosene,frac_inen_energy_textiles_kerosene,0.0016215969270519295
+Liquefied Gas,Production of textiles,frac_inen_energy_textiles,hydrocarbon_gas_liquids,frac_inen_energy_textiles_hydrocarbon_gas_liquids,0.0037196018081900426
+Coal and Charcoal,Production of textiles,frac_inen_energy_textiles,coal,frac_inen_energy_textiles_coal,3.9992579479048485e-05
+Purchased Electricity ,Production of textiles,frac_inen_energy_textiles,electricity,frac_inen_energy_textiles_electricity,0.2900018113427421
+Natural Gas ,Production of wood and wood products (excluding furniture) – including items made from wicker and reed,frac_inen_energy_wood,natural_gas,frac_inen_energy_wood_natural_gas,0.7024580771845745
+Fuel Oil ,Production of wood and wood products (excluding furniture) – including items made from wicker and reed,frac_inen_energy_wood,oil,frac_inen_energy_wood_oil,0.00014976679171005148
+Diesel,Production of wood and wood products (excluding furniture) – including items made from wicker and reed,frac_inen_energy_wood,diesel,frac_inen_energy_wood_diesel,0.041444988042429166
+Gasoline ,Production of wood and wood products (excluding furniture) – including items made from wicker and reed,frac_inen_energy_wood,gasoline,frac_inen_energy_wood_gasoline,0.0049789137866274895
+Kerosene ,Production of wood and wood products (excluding furniture) – including items made from wicker and reed,frac_inen_energy_wood,kerosene,frac_inen_energy_wood_kerosene,0.0003342414430862419
+Liquefied Gas,Production of wood and wood products (excluding furniture) – including items made from wicker and reed,frac_inen_energy_wood,hydrocarbon_gas_liquids,frac_inen_energy_wood_hydrocarbon_gas_liquids,0.0005382095498913597
+Coal and Charcoal,Production of wood and wood products (excluding furniture) – including items made from wicker and reed,frac_inen_energy_wood,coal,frac_inen_energy_wood_coal,0.0
+Purchased Electricity ,Production of wood and wood products (excluding furniture) – including items made from wicker and reed,frac_inen_energy_wood,electricity,frac_inen_energy_wood_electricity,0.2500958032016812
